@@ -1,0 +1,1022 @@
+{
+  "generated_at_utc": "2026-05-28T02:17:53.296675Z",
+  "summary": {
+    "total_pages_with_permalink": 272,
+    "visible_pages": 211,
+    "hidden_pages": 61,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "edge_samples": [
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_aircraft_dron_518d8a",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_confidence_sc_c8afd6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_event_timelin_e5dba6",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_human_review_c9dfe3",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_satellite_sta_d89688",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_ufo_case_file_7a6766",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_video_evidenc_a12b48",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_weather_atmos_927be3",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_index",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7",
+        "to": "AI-assisted_U_96e9bc_astronomy_che_26f202",
+        "type": "ancestor"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c",
+        "type": "parent"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068",
+        "type": "sibling"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba",
+        "type": "child"
+      },
+      {
+        "from": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077",
+        "to": "AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_index",
+        "type": "child"
+      }
+    ]
+  }
+}
