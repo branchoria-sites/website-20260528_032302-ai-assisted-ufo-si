@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 11:14:35'
 parent_title: What Makes a UFO Report Investigable? | UFO Case AI
 parent_permalink: /case-file/
 parent_nav_short_title: Case File
+parent_heading_title: What Makes a UFO Report Investigable?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,55 +229,67 @@ breadcrumb_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507
   title: Case status | Case File
   permalink: /case-status/
   short_title: Case status
+  heading_title: Unresolved does not mean alien
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2
   title: First account | Case File
   permalink: /first-account/
   short_title: First account
+  heading_title: Why the first UFO account matters most
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2
   title: Media files | Case File
   permalink: /media-files/
   short_title: Media files
+  heading_title: What does a UFO video really prove?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d
   title: Timeline | Case File
   permalink: /timeline-e3b338/
   short_title: Timeline
+  heading_title: Can the sighting time actually be tested?
 child_links:
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8
   title: Elevation | Geometry
   permalink: /elevation/
   short_title: Elevation
+  heading_title: How high was the light really?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb
   title: Landmarks | Geometry
   permalink: /landmarks-c7d484/
   short_title: Landmarks
+  heading_title: Can landmarks make a UFO bearing testable?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6
   title: Sightlines | Geometry
   permalink: /sightlines/
   short_title: Sightlines
+  heading_title: Did the UFO vanish or just pass behind something?
 up_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 prev_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2
   title: First account | Case File
   permalink: /first-account/
   short_title: First account
+  heading_title: Why the first UFO account matters most
 next_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2
   title: Media files | Case File
   permalink: /media-files/
   short_title: Media files
+  heading_title: What does a UFO video really prove?
+date: '2026-06-08 23:01:53 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -284,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_42
 A UFO report becomes much more testable when the witness can describe where the object appeared in the sky, not just what it looked like. Bearing and [elevation]({{ 'elevation/' | relative_url }}) checks turn a story into geometry. Instead of “a bright object over the hills”, investigators can work with “seen from the car park facing west-north-west at roughly 25° elevation, moving left to right above the ridge line”. That change allows AI-assisted investigation systems to compare the report against terrain, [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite paths, cloud layers, astronomical objects and camera footage.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-light.svg" | relative_url }}" alt="Geometry illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-dark.svg" | relative_url }}" alt="Geometry illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many apparent anomalies disappear once the viewing geometry is reconstructed properly. Venus low above the horizon, a drone beyond a ridge, landing lights aligned with a valley, or a satellite crossing a gap in cloud can all look extraordinary when direction and angle are vague. Equally, some reports remain difficult to explain after geometric checks because the timing, path or sightline does not fit ordinary traffic or sky objects. The goal is not to prove or dismiss a UFO claim, but to anchor it in measurable space.
 
 ## Estimating bearing from landmarks and compasses
@@ -425,7 +438,7 @@ AI-assisted workflows can automate several checks:
 </div>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-light.svg" | relative_url }}" alt="Geometry illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-dark.svg" | relative_url }}" alt="Geometry illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Terrain can radically alter apparent behaviour
 
 Geography affects perception more than many witnesses realise.
@@ -468,7 +481,7 @@ This is why investigators ask:
 These questions help separate physical motion from visual interpretation.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-light.svg" | relative_url }}" alt="Geometry illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-dark.svg" | relative_url }}" alt="Geometry illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why investigators avoid “exact” geometry from weak observations
 
 One of the biggest mistakes in UFO analysis is turning uncertain witness impressions into fake precision.
@@ -533,75 +546,6 @@ Occasionally, a sightline reconstruction does not align cleanly with known aircr
 Even then, geometry alone does not prove something extraordinary occurred. It only establishes that the event remains unresolved after basic spatial checks.
 
 That distinction is central to evidence-led UFO investigation. The purpose of bearing and elevation analysis is not to force a conclusion, but to narrow the range of plausible explanations using measurable relationships between observer, sky and terrain.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: lco.global  
-   Link: [https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/](https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/)  
-
-2. <a id="endnote-2"></a>
-   Source: earthsky.org  
-   Title: sky measurements degrees arc minutes arc seconds  
-   Link: [https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/](https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: doc.arcgis.com  
-   Link: [https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm](https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ArcGISConduct line of sight analysis—3D Workflows | DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</p></details>
-
-### Additional References
-
-4. <a id="endnote-4"></a>
-   Source: usgs.gov  
-   Link: [https://www.usgs.gov/educational-resources/topographic-mapping](https://www.usgs.gov/educational-resources/topographic-mapping)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Topographic Mapping | U.S. Geological SurveyThe feature that most distinguishes topographic maps from maps of other types is the use of c...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/GeniusClubb/posts/measuring-the-night-sky-by-hand/1506332947519205/](https://www.facebook.com/GeniusClubb/posts/measuring-the-night-sky-by-hand/1506332947519205/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Night Sky by HandMeasure distances in the night sky with your hands ✋ For starters, hold your hands at arm&#x27;s length in fron...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: sk.sagepub.com  
-   Link: [https://sk.sagepub.com/ency/edvol/download/geography/chpt/digital-terrain-model.pdf](https://sk.sagepub.com/ency/edvol/download/geography/chpt/digital-terrain-model.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeEncyclopedia of GeographyTwo fundamental parameters in visibility analysis can also be computed from a DTM, that is, point...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html](https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Handy Guide to Measuring the SkyA “Handy” Way to Measure Distances: Hold your hand at arm&#x27;s length and close one eye. It is important t...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: ryancbinns.com  
-   Link: [https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_c_-_visual_scanning_and_collision_avoidance.pdf](https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_c_-_visual_scanning_and_collision_avoidance.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Scanning and Collision AvoidanceThis lesson introduces pilots to the concepts behind proper visual scanning and collision avoidanc...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rxyink0U_fQ](https://www.youtube.com/watch?v=rxyink0U_fQ)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Tools for ArcGIS: Visibility for AnalystsLearn how to quickly create multiple types of visibility graphics, such as linear and r...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: ncsciencefestival.org  
-   Link: [https://ncsciencefestival.org/wp-content/uploads/sites/1442/2025/08/SSP_Handy-Way-to-Measure-the-Sky.pdf](https://ncsciencefestival.org/wp-content/uploads/sites/1442/2025/08/SSP_Handy-Way-to-Measure-the-Sky.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Note that you can use two hands to combine measures, such as in this photo showing 10° fist width + 25° thumb...Read more...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: hfcc.dot.gov  
-   Title: zz FAA General Guidance Doc Chapter 02 Section 03  
-   Link: [https://hfcc.dot.gov/publications/docs/GeneralGuidance/zz_FAA_GeneralGuidanceDoc_Chapter_02_Section_03.pdf](https://hfcc.dot.gov/publications/docs/GeneralGuidance/zz_FAA_GeneralGuidanceDoc_Chapter_02_Section_03.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2013 – CHG 1 2.3 Field-of-View1 Nov 2013 — General. • Each flight, navigation, and powerplant instrument for use by any pilot must be pla...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/241370852_%27Is_pilots%27_visual_scanning_adequate_to_avoid_mid-air_collisions%27](https://www.researchgate.net/publication/241370852_%27Is_pilots%27_visual_scanning_adequate_to_avoid_mid-air_collisions%27)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndow (OTW) visual scanning pattern to avoid traffic conflicts, however little research...Read more...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/](https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/)  
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -717,75 +661,71 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-se" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geometry-where-in-the-sky-was-the-object-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -843,10 +783,10 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -994,3 +934,72 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: lco.global  
+   Link: [https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/](https://lco.global/spacebook/sky/using-angles-describe-positions-and-apparent-sizes-objects/)  
+
+2. <a id="endnote-2"></a>
+   Source: earthsky.org  
+   Title: sky measurements degrees arc minutes arc seconds  
+   Link: [https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/](https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: doc.arcgis.com  
+   Link: [https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm](https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ArcGISConduct line of sight analysis—3D Workflows | DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</p></details>
+
+### Additional References
+
+4. <a id="endnote-4"></a>
+   Source: usgs.gov  
+   Link: [https://www.usgs.gov/educational-resources/topographic-mapping](https://www.usgs.gov/educational-resources/topographic-mapping)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Topographic Mapping | U.S. Geological SurveyThe feature that most distinguishes topographic maps from maps of other types is the use of c...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/GeniusClubb/posts/measuring-the-night-sky-by-hand/1506332947519205/](https://www.facebook.com/GeniusClubb/posts/measuring-the-night-sky-by-hand/1506332947519205/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measuring the Night Sky by HandMeasure distances in the night sky with your hands ✋ For starters, hold your hands at arm&#x27;s length in fron...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: sk.sagepub.com  
+   Link: [https://sk.sagepub.com/ency/edvol/download/geography/chpt/digital-terrain-model.pdf](https://sk.sagepub.com/ency/edvol/download/geography/chpt/digital-terrain-model.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SAGE KnowledgeEncyclopedia of GeographyTwo fundamental parameters in visibility analysis can also be computed from a DTM, that is, point...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: timeanddate.com  
+   Link: [https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html](https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Handy Guide to Measuring the SkyA “Handy” Way to Measure Distances: Hold your hand at arm&#x27;s length and close one eye. It is important t...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: ryancbinns.com  
+   Link: [https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_c_-_visual_scanning_and_collision_avoidance.pdf](https://www.ryancbinns.com/assets/production/pdfs/flying/lessons/area_02/task_c_-_visual_scanning_and_collision_avoidance.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Scanning and Collision AvoidanceThis lesson introduces pilots to the concepts behind proper visual scanning and collision avoidanc...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=rxyink0U_fQ](https://www.youtube.com/watch?v=rxyink0U_fQ)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Military Tools for ArcGIS: Visibility for AnalystsLearn how to quickly create multiple types of visibility graphics, such as linear and r...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: ncsciencefestival.org  
+   Link: [https://ncsciencefestival.org/wp-content/uploads/sites/1442/2025/08/SSP_Handy-Way-to-Measure-the-Sky.pdf](https://ncsciencefestival.org/wp-content/uploads/sites/1442/2025/08/SSP_Handy-Way-to-Measure-the-Sky.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Note that you can use two hands to combine measures, such as in this photo showing 10° fist width + 25° thumb...Read more...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: hfcc.dot.gov  
+   Title: zz FAA General Guidance Doc Chapter 02 Section 03  
+   Link: [https://hfcc.dot.gov/publications/docs/GeneralGuidance/zz_FAA_GeneralGuidanceDoc_Chapter_02_Section_03.pdf](https://hfcc.dot.gov/publications/docs/GeneralGuidance/zz_FAA_GeneralGuidanceDoc_Chapter_02_Section_03.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2013 – CHG 1 2.3 Field-of-View1 Nov 2013 — General. • Each flight, navigation, and powerplant instrument for use by any pilot must be pla...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/241370852_%27Is_pilots%27_visual_scanning_adequate_to_avoid_mid-air_collisions%27](https://www.researchgate.net/publication/241370852_%27Is_pilots%27_visual_scanning_adequate_to_avoid_mid-air_collisions%27)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ndow (OTW) visual scanning pattern to avoid traffic conflicts, however little research...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/](https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/)  

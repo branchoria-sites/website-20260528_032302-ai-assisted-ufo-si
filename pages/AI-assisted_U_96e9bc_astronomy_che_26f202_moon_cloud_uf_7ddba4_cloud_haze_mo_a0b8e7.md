@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Can the Moon really look like a UFO? | Astronomy
 parent_permalink: /moon-illusions/
 parent_nav_short_title: Moon illusions
+parent_heading_title: Can the Moon really look like a UFO?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4
   title: Moon illusions | Astronomy
   permalink: /moon-illusions/
   short_title: Moon illusions
+  heading_title: Can the Moon really look like a UFO?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4
   title: Moon illusions | Astronomy
   permalink: /moon-illusions/
   short_title: Moon illusions
+  heading_title: Can the Moon really look like a UFO?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908
   title: Following Moon | Moon illusions
   permalink: /following-moon/
   short_title: Following Moon
+  heading_title: Why the Moon Appears To Follow Your Car
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd
   title: Moon Position | Moon illusions
   permalink: /moon-position/
   short_title: Moon Position
+  heading_title: Could the Moon Match the Reported UFO Position?
 up_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4
   title: Moon illusions | Astronomy
   permalink: /moon-illusions/
   short_title: Moon illusions
+  heading_title: Can the Moon really look like a UFO?
 next_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908
   title: Following Moon | Moon illusions
   permalink: /following-moon/
   short_title: Following Moon
-date: '2026-05-28 02:31:13 '
+  heading_title: Why the Moon Appears To Follow Your Car
+date: '2026-06-08 23:39:11 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7d
 A bright Moon behind thin cloud can stop looking like the Moon surprisingly quickly. Instead of a familiar disc with visible edges and surface detail, witnesses may see a glowing orb with blurred boundaries, changing brightness and a diffuse halo. In UFO sighting reports, this matters because the object is often described honestly but interpreted incorrectly. A witness may report a [hovering]({{ 'wind-checks/' | relative_url }}) craft, a pulsating light or a silent glowing sphere when the physical source was a cloud-obscured Moon viewed through unstable [atmospheric]({{ 'scintillation/' | relative_url }}) conditions.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-light.svg" | relative_url }}" alt="Clouded Moon illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-dark.svg" | relative_url }}" alt="Clouded Moon illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one of the most common low-information night-sky misidentifications in UFO investigation. When haze, moisture and thin cloud scatter moonlight, the Moon’s recognisable structure disappears while its brightness remains strong enough to dominate the sky. Automated UFO screening systems should therefore test lunar position and local weather conditions early in the investigation process, especially for reports involving stationary glowing objects, slow apparent drift, pulsation or repeated disappearance behind cloud. Historical UFO investigations, including Project [Blue Book]({{ 'blue-book/' | relative_url }}), repeatedly concluded that astronomical objects and atmospheric effects accounted for a large share of sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
 ## Why blurred edges resemble structured lights
@@ -387,7 +396,7 @@ This explains why some reports describe remarkably ordinary atmospheric effects 
 Historical UFO investigations repeatedly encountered this problem. Project Blue Book and later investigators documented many sightings later attributed to astronomical objects distorted by atmospheric conditions or observational context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of History UFOs: Natural Explanations</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of HistoryApr 16, 2018 — The program is conducted in three phases. The first phase i...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-light.svg" | relative_url }}" alt="Clouded Moon illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-dark.svg" | relative_url }}" alt="Clouded Moon illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using weather archives in UFO checks
 
 For AI-assisted UFO investigation, weather correlation is one of the fastest ways to test a possible cloud-obscured Moon explanation.
@@ -460,7 +469,7 @@ Investigators should also compare the report against known lunar rise or set tim
 Another useful clue is apparent intelligent concealment. Witnesses sometimes say the object was “hiding in cloud” or “peeking through mist”. In many cases, the visual effect comes from cloud motion selectively revealing portions of the Moon.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-light.svg" | relative_url }}" alt="Clouded Moon illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-dark.svg" | relative_url }}" alt="Clouded Moon illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Moon explanation becomes weaker
 
 Not every glowing night object can be reduced to lunar haze effects. Investigators should remain careful and evidence-led.
@@ -484,7 +493,7 @@ Good investigation practice separates:
 A cloud-obscured Moon is a common explanation, but it should be tested rather than assumed.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MontQ68vDKA" title="What Causes Sun and Moon Halos?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MontQ68vDKA" target="_blank" rel="noopener noreferrer">What Causes Sun and Moon Halos?</a></p><p class="youtube-embed-meta">Channel: Holt Hanley</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MontQ68vDKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MontQ68vDKA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MontQ68vDKA" title="What Causes Sun and Moon Halos?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MontQ68vDKA" target="_blank" rel="noopener noreferrer">What Causes Sun and Moon Halos?</a></p><p class="youtube-embed-meta">Channel: Wildfire Insider - Holt Hanley</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MontQ68vDKA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MontQ68vDKA">Open on YouTube</a></p></div></div></div>
 
 ## Why this matters in AI-assisted UFO analysis
 
@@ -501,148 +510,6 @@ AI-assisted investigation is useful precisely because it can compare witness cla
 That allows investigators to move beyond intuition and test whether the reported visual conditions matched known atmospheric optics.
 
 The result is not dismissal but calibration. Many UFO sightings become more understandable once the Moon, cloud structure and local weather are reconstructed together. Others remain unresolved after those checks. The value of structured investigation lies in distinguishing between the two as clearly and honestly as possible.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: Wikipedia  
-   Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
-
-2. <a id="endnote-2"></a>
-   Source: archives.gov  
-   Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: Wikipedia  
-   Title: Halo (optical phenomenon)  
-   Link: [https://en.wikipedia.org/wiki/Halo_%28optical_phenomenon%29](https://en.wikipedia.org/wiki/Halo_%28optical_phenomenon%29)  
-
-4. <a id="endnote-4"></a>
-   Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/atmospheric-moon-halo-what-the-heck-is-this-phenomenon-never-seen-it-before.14069/](https://www.metabunk.org/threads/atmospheric-moon-halo-what-the-heck-is-this-phenomenon-never-seen-it-before.14069/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkAtmospheric moon halo? What the heck is this...10 Mar 2025 — A 22° halo is an atmospheric optical phenomenon that consists of a...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASADecember 7, 2022 — 9 hours ago — National Aeronautics and Space Administration. NASA explores the unknown in air and space, innov...</p></details>
-   Published: December 7, 2022  
-
-6. <a id="endnote-6"></a>
-   Source: prologue.blogs.archives.gov  
-   Title: Pieces of History UFOs: Natural Explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of HistoryApr 16, 2018 — The program is conducted in three phases. The first phase i...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075](https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>moon mission latest: Space agency unveils massive plan to settle on moon - with eyes on Mars next...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: Wikipedia  
-   Title: Unidentified flying object  
-   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the Unite...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA2 hours ago — The National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal govern...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: Wikipedia  
-   Title: Moon illusion  
-   Link: [https://en.wikipedia.org/wiki/Moon_illusion](https://en.wikipedia.org/wiki/Moon_illusion)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: science.nasa.gov  
-   Title: identifying ufos and uaps  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible and the person inquirin...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: history.com  
-   Link: [https://www.history.com/articles/history-of-ufos](https://www.history.com/articles/history-of-ufos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, Timeline &amp; AbductionsFrom 1952 to 1969 Project Blue Book compiled reports of more than 12,000 sightings...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: britannica.com  
-   Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book was the code name for the United States&#x27; longest-running Air Fo...</p></details>
-   Published: May 2026  
-
-14. <a id="endnote-14"></a>
-   Source: bahaistudies.net  
-   Title: project blue book  
-   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — It records an attempt to build a model of the typical UFO and an ultimate finding that UFOs come in all sizes, shapes, and...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: instagram.com  
-   Link: [https://www.instagram.com/nasa/?hl=en](https://www.instagram.com/nasa/?hl=en)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(@nasa) • Instagram photos and videos104M followers · 95 [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) · 4800 posts · @nasa: “Making the seemingly impossible, possible. ✨”...</p></details>
-
-### Additional References
-
-16. <a id="endnote-16"></a>
-   Source: uapsightings.org  
-   Link: [https://uapsightings.org/common-uap-misidentifications/](https://uapsightings.org/common-uap-misidentifications/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsLarge-scale holographic displays used for events or entertainment can create realistic-looking objects in th...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookSatellites are another major source of UFO reports. An increase in satellites reported as UFOs has come about because of two fac...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: blaze.tv  
-   Link: [https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book](https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>○ In the known category, 86% of them were either aircraft, balloons or some sort of astronomical phenomena.Read more...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1cn9qv8/dismissing_ufo_sightings_as_misidentification/](https://www.reddit.com/r/aliens/comments/1cn9qv8/dismissing_ufo_sightings_as_misidentification/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dismissing UFO sightings as misidentification like optical illusions or hoaxes is a... effects of unfamiliar phenomena like...Read more...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: jasoncolavito.com  
-   Title: [review](&#123;&#123; 'review/' | relative_url &#125;&#125;) of historys project blue book ufo propaganda as turgid drama  
-   Link: [https://www.jasoncolavito.com/blog/review-of-historys-project-blue-book-ufo-propaganda-as-turgid-drama](https://www.jasoncolavito.com/blog/review-of-historys-project-blue-book-ufo-propaganda-as-turgid-drama)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of History&#x27;s &quot;Project Blue Book&quot;: UFO Propaganda...6 Jan 2019 — Although the MJ-12 conspiracy theory alleging that Harry Truman s...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: af.mil  
-   Title: unidentified flying objects and air force project blue book  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: facebook.com  
-   Title: National Aeronautics and Space Administration (@NASA)NASA  
-   Link: [https://www.facebook.com/NASA/?locale=en_GB](https://www.facebook.com/NASA/?locale=en_GB)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. 28633451 likes · 55318 talking about this. Explore the universe and discover our home planet...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: instagram.com  
-   Title: 🌙 Have you ever noticed a ghostly ring around the moon?  
-   Link: [https://www.instagram.com/p/DXs2WZMFN5o/](https://www.instagram.com/p/DXs2WZMFN5o/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Halos form when moonlight or sunlight passes through thin, high-altitude clouds, such as cirrus or cirrostratus. These wispy clouds are c...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/TribuneTrends/posts/a-stunning-natural-spectacle-recently-lit-up-the-skies-over-st-petersburg-russia/122246366798252649/](https://www.facebook.com/TribuneTrends/posts/a-stunning-natural-spectacle-recently-lit-up-the-skies-over-st-petersburg-russia/122246366798252649/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>haped ice crystals in cirrus clouds, bending light at a 22-degree angle.Read more...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -758,75 +625,71 @@ The result is not dismissal but calibration. Many UFO sightings become more unde
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airplane Clouds Flying Sky Air 3d View Wall Sticker Poster Decal A166"><img src="{{ '/assets/images/marketplace-covers/5ec8b13883f67d279859.jpg' | relative_url }}" alt="Listing image for Airplane Clouds Flying Sky Air 3d View Wall Sticker Poster Decal A166" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Airplane Clouds Flying Sky Air 3d View Wall Sticker Poster Decal A166</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1992 Laminated Cloud Watching Chart Poster - A World Of Games On Back"><img src="{{ '/assets/images/marketplace-covers/60e87458e6c6a7c36a10.jpg' | relative_url }}" alt="Listing image for Vintage 1992 Laminated Cloud Watching Chart Poster - A World Of Games On Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1992 Laminated Cloud Watching Chart Poster - A World Of Games On Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW (LAMINATED) ALPHABET KIDS HAPPY CLOUD (61X91CM) LEARNING CHART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/77b4fb159d65118428a8.jpg' | relative_url }}" alt="Listing image for NEW (LAMINATED) ALPHABET KIDS HAPPY CLOUD (61X91CM) LEARNING CHART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">NEW (LAMINATED) ALPHABET KIDS HAPPY CLOUD (61X91CM) LEARNING CHART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FROZEN Times Tables Multiply Home Schooling Maths Poster Education Learning Gift"><img src="{{ '/assets/images/marketplace-covers/311b1c3cbce74ee71578.jpg' | relative_url }}" alt="Listing image for FROZEN Times Tables Multiply Home Schooling Maths Poster Education Learning Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">FROZEN Times Tables Multiply Home Schooling Maths Poster Education Learning Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=clouded-moon-how-thin-cloud-makes-the-moon-look-unfamiliar-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -884,10 +747,10 @@ The result is not dismissal but calibration. Many UFO sightings become more unde
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1035,3 +898,145 @@ The result is not dismissal but calibration. Many UFO sightings become more unde
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Project Blue Book  
+   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+
+2. <a id="endnote-2"></a>
+   Source: archives.gov  
+   Title: National Archives Project BLUE BOOK  
+   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: Halo (optical phenomenon)  
+   Link: [https://en.wikipedia.org/wiki/Halo_%28optical_phenomenon%29](https://en.wikipedia.org/wiki/Halo_%28optical_phenomenon%29)  
+
+4. <a id="endnote-4"></a>
+   Source: metabunk.org  
+   Link: [https://www.metabunk.org/threads/atmospheric-moon-halo-what-the-heck-is-this-phenomenon-never-seen-it-before.14069/](https://www.metabunk.org/threads/atmospheric-moon-halo-what-the-heck-is-this-phenomenon-never-seen-it-before.14069/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkAtmospheric moon halo? What the heck is this...10 Mar 2025 — A 22° halo is an atmospheric optical phenomenon that consists of a...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: nasa.gov  
+   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANASADecember 7, 2022 — 9 hours ago — National Aeronautics and Space Administration. NASA explores the unknown in air and space, innov...</p></details>
+   Published: December 7, 2022  
+
+6. <a id="endnote-6"></a>
+   Source: prologue.blogs.archives.gov  
+   Title: Pieces of History UFOs: Natural Explanations  
+   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pieces of HistoryUFOs: Natural Explanations - Pieces of HistoryApr 16, 2018 — The program is conducted in three phases. The first phase i...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: news.sky.com  
+   Link: [https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075](https://news.sky.com/story/nasa-briefing-latest-space-agency-to-give-update-on-permanent-moon-base-plans-13548075)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>moon mission latest: Space agency unveils massive plan to settle on moon - with eyes on Mars next...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: Wikipedia  
+   Title: Unidentified flying object  
+   Link: [https://en.wikipedia.org/wiki/Unidentified_flying_object](https://en.wikipedia.org/wiki/Unidentified_flying_object)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified flying objectStudies and investigations into UFO reports conducted by governments (such as Project Blue Book in the Unite...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA2 hours ago — The National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal govern...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: Wikipedia  
+   Title: Moon illusion  
+   Link: [https://en.wikipedia.org/wiki/Moon_illusion](https://en.wikipedia.org/wiki/Moon_illusion)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: science.nasa.gov  
+   Title: identifying ufos and uaps  
+   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible and the person inquirin...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: history.com  
+   Link: [https://www.history.com/articles/history-of-ufos](https://www.history.com/articles/history-of-ufos)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, Timeline &amp; AbductionsFrom 1952 to 1969 Project Blue Book compiled reports of more than 12,000 sightings...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: britannica.com  
+   Title: Project Blue Book  
+   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book was the code name for the United States&#x27; longest-running Air Fo...</p></details>
+   Published: May 2026  
+
+14. <a id="endnote-14"></a>
+   Source: bahaistudies.net  
+   Title: project blue book  
+   Link: [https://www.bahaistudies.net/asma/project_blue_book.pdf](https://www.bahaistudies.net/asma/project_blue_book.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>29 Sept 2012 — It records an attempt to build a model of the typical UFO and an ultimate finding that UFOs come in all sizes, shapes, and...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/nasa/?hl=en](https://www.instagram.com/nasa/?hl=en)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(@nasa) • Instagram photos and videos104M followers · 95 [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) · 4800 posts · @nasa: “Making the seemingly impossible, possible. ✨”...</p></details>
+
+### Additional References
+
+16. <a id="endnote-16"></a>
+   Source: uapsightings.org  
+   Link: [https://uapsightings.org/common-uap-misidentifications/](https://uapsightings.org/common-uap-misidentifications/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Common UAP MisidentificationsLarge-scale holographic displays used for events or entertainment can create realistic-looking objects in th...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: gutenberg.org  
+   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: esd.whs.mil  
+   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue BookSatellites are another major source of UFO reports. An increase in satellites reported as UFOs has come about because of two fac...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: blaze.tv  
+   Link: [https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book](https://www.blaze.tv/series/quick-history-us-governments-secret-ufo-project-blue-book)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>○ In the known category, 86% of them were either aircraft, balloons or some sort of astronomical phenomena.Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/aliens/comments/1cn9qv8/dismissing_ufo_sightings_as_misidentification/](https://www.reddit.com/r/aliens/comments/1cn9qv8/dismissing_ufo_sightings_as_misidentification/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dismissing UFO sightings as misidentification like optical illusions or hoaxes is a... effects of unfamiliar phenomena like...Read more...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: jasoncolavito.com  
+   Title: [review](&#123;&#123; 'review/' | relative_url &#125;&#125;) of historys project blue book ufo propaganda as turgid drama  
+   Link: [https://www.jasoncolavito.com/blog/review-of-historys-project-blue-book-ufo-propaganda-as-turgid-drama](https://www.jasoncolavito.com/blog/review-of-historys-project-blue-book-ufo-propaganda-as-turgid-drama)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Review of History&#x27;s &quot;Project Blue Book&quot;: UFO Propaganda...6 Jan 2019 — Although the MJ-12 conspiracy theory alleging that Harry Truman s...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: af.mil  
+   Title: unidentified flying objects and air force project blue book  
+   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceUnidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation e...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: facebook.com  
+   Title: National Aeronautics and Space Administration (@NASA)NASA  
+   Link: [https://www.facebook.com/NASA/?locale=en_GB](https://www.facebook.com/NASA/?locale=en_GB)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. 28633451 likes · 55318 talking about this. Explore the universe and discover our home planet...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: instagram.com  
+   Title: 🌙 Have you ever noticed a ghostly ring around the moon?  
+   Link: [https://www.instagram.com/p/DXs2WZMFN5o/](https://www.instagram.com/p/DXs2WZMFN5o/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Halos form when moonlight or sunlight passes through thin, high-altitude clouds, such as cirrus or cirrostratus. These wispy clouds are c...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/TribuneTrends/posts/a-stunning-natural-spectacle-recently-lit-up-the-skies-over-st-petersburg-russia/122246366798252649/](https://www.facebook.com/TribuneTrends/posts/a-stunning-natural-spectacle-recently-lit-up-the-skies-over-st-petersburg-russia/122246366798252649/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>haped ice crystals in cirrus clouds, bending light at a 22-degree angle.Read more...</p></details>

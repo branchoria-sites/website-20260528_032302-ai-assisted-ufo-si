@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Where in the sky was the object? | Case File
 parent_permalink: /geometry/
 parent_nav_short_title: Geometry
+parent_heading_title: Where in the sky was the object?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d
   title: Geometry | Case File
   permalink: /geometry/
   short_title: Geometry
+  heading_title: Where in the sky was the object?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d
   title: Geometry | Case File
   permalink: /geometry/
   short_title: Geometry
+  heading_title: Where in the sky was the object?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb
   title: Landmarks | Geometry
   permalink: /landmarks-c7d484/
   short_title: Landmarks
+  heading_title: Can landmarks make a UFO bearing testable?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6
   title: Sightlines | Geometry
   permalink: /sightlines/
   short_title: Sightlines
+  heading_title: Did the UFO vanish or just pass behind something?
 up_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d
   title: Geometry | Case File
   permalink: /geometry/
   short_title: Geometry
+  heading_title: Where in the sky was the object?
 next_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb
   title: Landmarks | Geometry
   permalink: /landmarks-c7d484/
   short_title: Landmarks
-date: '2026-05-28 03:01:08 '
+  heading_title: Can landmarks make a UFO bearing testable?
+date: '2026-06-09 00:07:43 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_42
 A UFO sighting becomes easier to investigate when the witness can describe not just the direction of the object, but also how high it appeared in the sky. Elevation is the vertical angle between the horizon and the object: 0° at the horizon, 90° directly overhead. In AI-assisted UFO investigation, even rough elevation estimates can help compare a report against aircraft [approach paths]({{ 'approach-paths/' | relative_url }}), satellite tracks, [bright planets]({{ 'bright-planets/' | relative_url }}), drones or cloud layers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University3.2 The Altitude-Azimuth systemIf it is directly overhead (a point referred to as the zenith) then it has an altitude...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-light.svg" | relative_url }}" alt="Elevation illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-dark.svg" | relative_url }}" alt="Elevation illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that many reports accidentally introduce [false precision]({{ 'false-precision/' | relative_url }}). A witness who says “roughly two fists above the horizon” is often giving stronger evidence than someone who later claims “43° elevation” from memory alone. Overconfident numbers can make a case file look mathematically precise while actually hiding uncertainty. Good investigation practice therefore treats elevation as an estimate with margins, not a perfect measurement.
 
 ## Fist-and-finger sky estimates
@@ -352,7 +361,7 @@ to test whether the reported elevation fits ordinary traffic or known celestial 
 The key point is that the reconstruction should preserve uncertainty bands. A witness recalling an object “between the treeline and halfway overhead” should not be converted into a fake exact number merely because software can generate one.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-light.svg" | relative_url }}" alt="Elevation illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-dark.svg" | relative_url }}" alt="Elevation illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why false precision weakens a case file
 
 False precision creates two major problems in UFO investigation.
@@ -403,7 +412,7 @@ Bright lights against a dark sky can appear elevated more steeply than they real
 This matters because many dramatic reports describe objects “high overhead” that later turn out to have been relatively low-angle lights viewed across long distances.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-light.svg" | relative_url }}" alt="Elevation illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-dark.svg" | relative_url }}" alt="Elevation illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Witnesses confuse steepness with altitude
 
 An object moving rapidly upward in the visual field can feel physically high even when its actual elevation is moderate. This commonly affects reports involving drones, lanterns or nearby helicopters.
@@ -459,112 +468,6 @@ In many UFO investigations, the strongest outcome is not perfect certainty but t
 </div>
 
 That distinction is far more valuable than pretending a witness estimated sky angles with surveyor-level precision.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: open.edu  
-   Link: [https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&section=3.2](https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&section=3.2)  
-
-2. <a id="endnote-2"></a>
-   Source: earthsky.org  
-   Link: [https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/](https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkySky measurements: Degrees, arcminutes and arcseconds1 Jan 2026 — The general rule amateur astronomers use is that the width of yo...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: jov.arvojournals.org  
-   Link: [https://jov.arvojournals.org/article.aspx?articleid=2718450](https://jov.arvojournals.org/article.aspx?articleid=2718450)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>JOVThe human visual system estimates angle features in an...by ZX Xu · 2018 · Cited by 22 — This study provides a new computational fram...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: astronomy.org  
-   Link: [https://astronomy.org/moravian/C16-Sky%20Literacy.pdf](https://astronomy.org/moravian/C16-Sky%20Literacy.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SKY LITERACY USING FINGER ANGLES TO MEASURE...loose fist with your thumb on top, the angular distance that your fist and thumb will subt...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: abc.net.au  
-   Link: [https://www.abc.net.au/science/articles/2009/07/27/3169109.htm](https://www.abc.net.au/science/articles/2009/07/27/3169109.htm)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measure the sky with your hands27 July 2009 — Raise your three middle fingers to measure 5 degrees. Clench your fist or hold your hand li...</p></details>
-   Published: July 2009  
-
-6. <a id="endnote-6"></a>
-   Source: pure.ecnu.edu.cn  
-   Title: the human visual system estimates angle features in an internal r  
-   Link: [https://pure.ecnu.edu.cn/en/publications/the-human-visual-system-estimates-angle-features-in-an-internal-r/](https://pure.ecnu.edu.cn/en/publications/the-human-visual-system-estimates-angle-features-in-an-internal-r/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>East China Normal UniversityThe human visual system estimates angle features in an...by ZX Xu · 2018 · Cited by 22 — This study provides...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/29716454/](https://pubmed.ncbi.nlm.nih.gov/29716454/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedRethinking the Reliability of Eyewitness MemoryWe argue here that, like DNA evidence and other kinds of scientifically validated fo...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: bps.org.uk  
-   Title: rethinking reliability eyewitness testimony  
-   Link: [https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony](https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasan Hussain (Birmingham City University) on &#x27;fragments of truth&#x27;. 23 July 2025...Read more...</p></details>
-   Published: July 2025  
-
-9. <a id="endnote-9"></a>
-   Source: sr-research.com  
-   Title: Visual Angle  
-   Link: [https://www.sr-research.com/eye-tracking-blog/background/visual-angle/](https://www.sr-research.com/eye-tracking-blog/background/visual-angle/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fast, Accurate, Reliable Eye TrackingLearn how to calculate degrees of visual angle, and why it is such an important concept in so many d...</p></details>
-
-### Additional References
-
-10. <a id="endnote-10"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/329679611_The_human_visual_system_estimates_angle_features_in_an_internal_reference_frame_A_computational_and_psychophysical_study](https://www.researchgate.net/publication/329679611_The_human_visual_system_estimates_angle_features_in_an_internal_reference_frame_A_computational_and_psychophysical_study)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The human visual system estimates angle features...27 Feb 2026 — This study provides a new computational framework for angle discr...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: astro4edu.org  
-   Link: [https://astro4edu.org/resources/glossary/term/6/](https://astro4edu.org/resources/glossary/term/6/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary term: AltitudeAn object on the horizon would have an altitude of 0°, and an object that is directly overhead, &quot;at the zenith,&quot; w...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: university.open.ac.uk  
-   Link: [https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence](https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open UniversityWhat can visual attention research tell us about...Research on visual attention helps to highlight how what we perceive m...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html](https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Handy Guide to Measuring the SkyThe width of your fist will approximately be 10 degrees. This means that any two objects that are on th...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=9U0-Ro7dtFE](https://www.youtube.com/watch?v=9U0-Ro7dtFE)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hand AstronomyIn this video we are going to learn how to measure the sky with our hands. Once you learn this skill it will help you not o...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: skyandtelescope.org  
-   Link: [https://skyandtelescope.org/astronomy-resources/right-ascension-declination-celestial-coordinates/](https://skyandtelescope.org/astronomy-resources/right-ascension-declination-celestial-coordinates/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd overhead point, while from the poles the celestial equator encircles the horizon...Read more...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: facebook.com  
-   Title: Sky measurements: Degrees, arcminutes and arcseconds  
-   Link: [https://www.facebook.com/EarthSky/posts/how-do-you-describe-how-far-apart-something-is-in-the-sky-the-handiest-measuring/635302238639487/](https://www.facebook.com/EarthSky/posts/how-do-you-describe-how-far-apart-something-is-in-the-sky-the-handiest-measuring/635302238639487/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — They&#x27;re approximately 3 degrees apart, as measured by holding your hand arm distance away and holding up your three middle...</p></details>
-   Published: May 21, 2023  
-
-17. <a id="endnote-17"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/transformazing.official/posts/how-to-calculate-the-distances-in-the-sky-using-your-hand/891302179927419/](https://www.facebook.com/transformazing.official/posts/how-to-calculate-the-distances-in-the-sky-using-your-hand/891302179927419/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hold your fist at arm&#x27;s length and that&#x27;s a 10 degree width.Read more...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: itu.physics.uiowa.edu  
-   Title: Activities take place on the roof of Van Allen Hall on in the lab room.Read more  
-   Link: [https://itu.physics.uiowa.edu/labs/foundational/measuring-and-exploring-sky/part-2-estimating-angles](https://itu.physics.uiowa.edu/labs/foundational/measuring-and-exploring-sky/part-2-estimating-angles)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2: Estimating Angles - Imaging the UniverseIt is a handy guide for estimating angles with your hand when held at arm&#x27;s length...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: abingdonsciencepartnership.org  
-   Link: [https://www.abingdonsciencepartnership.org/wp-content/uploads/2020/10/GCSE_Astronomy_Topic_Guide_Celestial_Sphere.pdf](https://www.abingdonsciencepartnership.org/wp-content/uploads/2020/10/GCSE_Astronomy_Topic_Guide_Celestial_Sphere.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topic Guide: The Celestial SphereAltitude is the angle of the object measured upwards from the observable horizon...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -680,75 +583,71 @@ That distinction is far more valuable than pretending a witness estimated sky an
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-g&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-g" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=elevation-how-high-was-the-light-really-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-g&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -806,10 +705,10 @@ That distinction is far more valuable than pretending a witness estimated sky an
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -957,3 +856,109 @@ That distinction is far more valuable than pretending a witness estimated sky an
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: open.edu  
+   Link: [https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&section=3.2](https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&section=3.2)  
+
+2. <a id="endnote-2"></a>
+   Source: earthsky.org  
+   Link: [https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/](https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkySky measurements: Degrees, arcminutes and arcseconds1 Jan 2026 — The general rule amateur astronomers use is that the width of yo...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: jov.arvojournals.org  
+   Link: [https://jov.arvojournals.org/article.aspx?articleid=2718450](https://jov.arvojournals.org/article.aspx?articleid=2718450)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>JOVThe human visual system estimates angle features in an...by ZX Xu · 2018 · Cited by 22 — This study provides a new computational fram...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: astronomy.org  
+   Link: [https://astronomy.org/moravian/C16-Sky%20Literacy.pdf](https://astronomy.org/moravian/C16-Sky%20Literacy.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SKY LITERACY USING FINGER ANGLES TO MEASURE...loose fist with your thumb on top, the angular distance that your fist and thumb will subt...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: abc.net.au  
+   Link: [https://www.abc.net.au/science/articles/2009/07/27/3169109.htm](https://www.abc.net.au/science/articles/2009/07/27/3169109.htm)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Measure the sky with your hands27 July 2009 — Raise your three middle fingers to measure 5 degrees. Clench your fist or hold your hand li...</p></details>
+   Published: July 2009  
+
+6. <a id="endnote-6"></a>
+   Source: pure.ecnu.edu.cn  
+   Title: the human visual system estimates angle features in an internal r  
+   Link: [https://pure.ecnu.edu.cn/en/publications/the-human-visual-system-estimates-angle-features-in-an-internal-r/](https://pure.ecnu.edu.cn/en/publications/the-human-visual-system-estimates-angle-features-in-an-internal-r/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>East China Normal UniversityThe human visual system estimates angle features in an...by ZX Xu · 2018 · Cited by 22 — This study provides...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: pubmed.ncbi.nlm.nih.gov  
+   Link: [https://pubmed.ncbi.nlm.nih.gov/29716454/](https://pubmed.ncbi.nlm.nih.gov/29716454/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedRethinking the Reliability of Eyewitness MemoryWe argue here that, like DNA evidence and other kinds of scientifically validated fo...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: bps.org.uk  
+   Title: rethinking reliability eyewitness testimony  
+   Link: [https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony](https://www.bps.org.uk/psychologist/rethinking-reliability-eyewitness-testimony)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hasan Hussain (Birmingham City University) on &#x27;fragments of truth&#x27;. 23 July 2025...Read more...</p></details>
+   Published: July 2025  
+
+9. <a id="endnote-9"></a>
+   Source: sr-research.com  
+   Title: Visual Angle  
+   Link: [https://www.sr-research.com/eye-tracking-blog/background/visual-angle/](https://www.sr-research.com/eye-tracking-blog/background/visual-angle/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fast, Accurate, Reliable Eye TrackingLearn how to calculate degrees of visual angle, and why it is such an important concept in so many d...</p></details>
+
+### Additional References
+
+10. <a id="endnote-10"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/329679611_The_human_visual_system_estimates_angle_features_in_an_internal_reference_frame_A_computational_and_psychophysical_study](https://www.researchgate.net/publication/329679611_The_human_visual_system_estimates_angle_features_in_an_internal_reference_frame_A_computational_and_psychophysical_study)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The human visual system estimates angle features...27 Feb 2026 — This study provides a new computational framework for angle discr...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: astro4edu.org  
+   Link: [https://astro4edu.org/resources/glossary/term/6/](https://astro4edu.org/resources/glossary/term/6/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Glossary term: AltitudeAn object on the horizon would have an altitude of 0°, and an object that is directly overhead, &quot;at the zenith,&quot; w...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: university.open.ac.uk  
+   Link: [https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence](https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open UniversityWhat can visual attention research tell us about...Research on visual attention helps to highlight how what we perceive m...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: timeanddate.com  
+   Link: [https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html](https://www.timeanddate.com/astronomy/measuring-the-sky-by-hand.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Handy Guide to Measuring the SkyThe width of your fist will approximately be 10 degrees. This means that any two objects that are on th...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=9U0-Ro7dtFE](https://www.youtube.com/watch?v=9U0-Ro7dtFE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hand AstronomyIn this video we are going to learn how to measure the sky with our hands. Once you learn this skill it will help you not o...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: skyandtelescope.org  
+   Link: [https://skyandtelescope.org/astronomy-resources/right-ascension-declination-celestial-coordinates/](https://skyandtelescope.org/astronomy-resources/right-ascension-declination-celestial-coordinates/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nd overhead point, while from the poles the celestial equator encircles the horizon...Read more...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: facebook.com  
+   Title: Sky measurements: Degrees, arcminutes and arcseconds  
+   Link: [https://www.facebook.com/EarthSky/posts/how-do-you-describe-how-far-apart-something-is-in-the-sky-the-handiest-measuring/635302238639487/](https://www.facebook.com/EarthSky/posts/how-do-you-describe-how-far-apart-something-is-in-the-sky-the-handiest-measuring/635302238639487/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 21, 2023 — They&#x27;re approximately 3 degrees apart, as measured by holding your hand arm distance away and holding up your three middle...</p></details>
+   Published: May 21, 2023  
+
+17. <a id="endnote-17"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/transformazing.official/posts/how-to-calculate-the-distances-in-the-sky-using-your-hand/891302179927419/](https://www.facebook.com/transformazing.official/posts/how-to-calculate-the-distances-in-the-sky-using-your-hand/891302179927419/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hold your fist at arm&#x27;s length and that&#x27;s a 10 degree width.Read more...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: itu.physics.uiowa.edu  
+   Title: Activities take place on the roof of Van Allen Hall on in the lab room.Read more  
+   Link: [https://itu.physics.uiowa.edu/labs/foundational/measuring-and-exploring-sky/part-2-estimating-angles](https://itu.physics.uiowa.edu/labs/foundational/measuring-and-exploring-sky/part-2-estimating-angles)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>2: Estimating Angles - Imaging the UniverseIt is a handy guide for estimating angles with your hand when held at arm&#x27;s length...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: abingdonsciencepartnership.org  
+   Link: [https://www.abingdonsciencepartnership.org/wp-content/uploads/2020/10/GCSE_Astronomy_Topic_Guide_Celestial_Sphere.pdf](https://www.abingdonsciencepartnership.org/wp-content/uploads/2020/10/GCSE_Astronomy_Topic_Guide_Celestial_Sphere.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Topic Guide: The Celestial SphereAltitude is the angle of the object measured upwards from the observable horizon...</p></details>

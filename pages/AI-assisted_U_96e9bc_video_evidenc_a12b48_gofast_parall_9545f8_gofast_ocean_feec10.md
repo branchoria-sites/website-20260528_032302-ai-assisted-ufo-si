@@ -9,12 +9,12 @@ sibling_basenames:
 tags:
 - ai-assisted-ufo-sighting-investigation
 - video-limits
-- gofast-parallax
+- go-fast-parallax
 - ocean-illusion
 keywords:
 - ai-assisted-ufo-sighting-investigation
 - video-limits
-- gofast-parallax
+- go-fast-parallax
 - ocean-illusion
 affiliate_category: ai-assisted-ufo-sighting-investigation
 show_ads: true
@@ -25,14 +25,14 @@ permalink: /ocean-illusion/
 sidebar_expanded_urls:
 - /ai-assisted-ufo-sighting-investigation/
 - /video-limits/
-- /gofast-parallax/
+- /go-fast-parallax/
 nav_short_title: Ocean Illusion
-title: Why the Ocean Made GoFast Look So Fast
-title_full: Why the Ocean Made GoFast Look So Fast | GoFast Parallax
+title: Why the Ocean Made Go Fast Look So Fast
+title_full: Why the Ocean Made Go Fast Look So Fast | Go Fast Parallax
 display_title_short: Ocean Illusion
 display_title: Ocean Illusion
-heading_title: Why the Ocean Made GoFast Look So Fast
-page_heading_title: Why the Ocean Made GoFast Look So Fast
+heading_title: Why the Ocean Made Go Fast Look So Fast
+page_heading_title: Why the Ocean Made Go Fast Look So Fast
 source_count: 30
 infographic_count: 3
 planned_sections:
@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:44:42'
-parent_title: Why the GoFast UFO Only Looked Hypersonic | Video Limits
-parent_permalink: /gofast-parallax/
-parent_nav_short_title: GoFast Parallax
+parent_title: Why the Go Fast UFO Only Looked Hypersonic | Video Limits
+parent_permalink: /go-fast-parallax/
+parent_nav_short_title: Go Fast Parallax
+parent_heading_title: Why the Go Fast UFO Only Looked Hypersonic
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8
-  title: GoFast Parallax | Video Limits
-  permalink: /gofast-parallax/
-  short_title: GoFast Parallax
+  title: Go Fast Parallax | Video Limits
+  permalink: /go-fast-parallax/
+  short_title: Go Fast Parallax
+  heading_title: Why the Go Fast UFO Only Looked Hypersonic
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,33 +231,40 @@ breadcrumb_links:
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8
-  title: GoFast Parallax | Video Limits
-  permalink: /gofast-parallax/
-  short_title: GoFast Parallax
+  title: Go Fast Parallax | Video Limits
+  permalink: /go-fast-parallax/
+  short_title: Go Fast Parallax
+  heading_title: Why the Go Fast UFO Only Looked Hypersonic
 sibling_links:
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc
-  title: AI Reconstruction | GoFast Parallax
+  title: AI Reconstruction | Go Fast Parallax
   permalink: /ai-reconstruction/
   short_title: AI Reconstruction
+  heading_title: Could AI Rebuild the Go Fast Flight Geometry?
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9
-  title: ATFLIR Data | GoFast Parallax
+  title: ATFLIR Data | Go Fast Parallax
   permalink: /atflir-data/
   short_title: ATFLIR Data
+  heading_title: What the Go Fast Display Data Really Revealed
 up_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8
-  title: GoFast Parallax | Video Limits
-  permalink: /gofast-parallax/
-  short_title: GoFast Parallax
+  title: Go Fast Parallax | Video Limits
+  permalink: /go-fast-parallax/
+  short_title: Go Fast Parallax
+  heading_title: Why the Go Fast UFO Only Looked Hypersonic
 prev_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9
-  title: ATFLIR Data | GoFast Parallax
+  title: ATFLIR Data | Go Fast Parallax
   permalink: /atflir-data/
   short_title: ATFLIR Data
+  heading_title: What the Go Fast Display Data Really Revealed
+date: '2026-06-08 23:25:33 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,8 +272,8 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_95
 The “GoFast” Navy [infrared]({{ 'infrared-orbs/' | relative_url }}) video became famous because the object appeared to be tearing across the ocean surface at extreme speed. Viewers instinctively used the sea below as a visual ruler. If the object seemed to race over the water, many assumed it must really be moving that fast. Later analysis showed that this was the core illusion. The ocean was not a reliable speed [reference]({{ 'reference-points/' | relative_url }}) at all. The dramatic impression came from a fast-moving jet, a stabilised targeting camera, compressed depth perception, and motion parallax working together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditNASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsSeptember 14, 2023 — The video gives an impression of an object skimming abo...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">MetabunkNASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-light.svg" | relative_url }}" alt="Ocean Illusion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, [GoFast]({{ 'gofast/' | relative_url }}) is a valuable case because it demonstrates how easily a background can mislead both witnesses and viewers. A sighting can look extraordinary when a human observer unconsciously anchors motion to terrain, clouds, or water that only appear stable from a particular viewpoint. In GoFast, the ocean created exactly that false frame of reference.
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-dark.svg" | relative_url }}" alt="Ocean Illusion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+For AI-assisted UFO sighting investigation, GoFast is a valuable case because it demonstrates how easily a background can mislead both witnesses and viewers. A sighting can look extraordinary when a human observer unconsciously anchors motion to terrain, clouds, or water that only appear stable from a particular viewpoint. In GoFast, the ocean created exactly that false frame of reference.
 
 ## How the sea surface became a false reference frame
 
@@ -277,7 +286,7 @@ The video showed a small infrared target apparently streaking over textured ocea
 
 The problem was that the [geometry]({{ 'geometry/' | relative_url }}) did not support that interpretation.
 
-Analysts later used the telemetry visible on the targeting display — including aircraft altitude, viewing angle and target range — to estimate that the object was not skimming the water at all. Instead, it was likely thousands of feet above it. NASA’s UAP study presentation described the object as roughly 13,000 feet in altitude and several miles in front of the ocean background that viewers mentally attached it to. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
+Analysts later used the telemetry visible on the targeting display — including [aircraft]({{ 'aircraft/' | relative_url }}) altitude, viewing angle and target range — to estimate that the object was not skimming the water at all. Instead, it was likely thousands of feet above it. NASA’s UAP study presentation described the object as roughly 13,000 feet in altitude and several miles in front of the ocean background that viewers mentally attached it to. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThese data sets could help to identify weather, ocean, and other environmental characteristics c...</span></span></span>
 
 That distinction matters because the farther away the object is from the background reference, the less trustworthy apparent screen motion becomes as an indicator of true speed.
 
@@ -314,7 +323,7 @@ The stabilisation system also removed many natural clues that would normally rev
 This matters in UFO investigations because stabilised footage can feel more “objective” than ordinary video. In practice, stabilisation can hide the movement of the observing platform and make relative motion appear absolute.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-light.svg" | relative_url }}" alt="Ocean Illusion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-dark.svg" | relative_url }}" alt="Ocean Illusion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the ocean made the object look lower than it was
 
 The strongest psychological effect in GoFast came from perceived altitude.
@@ -332,7 +341,7 @@ A higher-altitude object drifting with wind or moving at modest speed can still 
 This is one reason modern UAP analysis increasingly relies on geometry reconstruction rather than visual intuition alone. Human observers are very good at recognising motion, but surprisingly poor at estimating three-dimensional distance from isolated sensor footage.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
 
 ## What parallax reconstruction changed about the speed estimate
 
@@ -359,7 +368,7 @@ That distinction is crucial in evidence-led UFO investigation:
 </div>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-light.svg" | relative_url }}" alt="Ocean Illusion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-dark.svg" | relative_url }}" alt="Ocean Illusion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why GoFast became a lesson in AI-assisted investigation
 
 GoFast is now frequently discussed not because it proved exotic technology, but because it demonstrated how sensor footage can deceive viewers when environmental context is missing.
@@ -379,153 +388,8 @@ That approach changes the role of the footage itself. The image becomes one data
 GoFast remains an important case because the illusion was genuinely persuasive. Even experienced observers initially described the object as moving extraordinarily fast near the water. The later reassessment showed how easily human perception can fuse a moving target and a textured background into a false picture of impossible speed.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/29Wbm-UkvUE" title="Djo - Link (Official Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer">Djo - Link (Official Visualizer)</a></p><p class="youtube-embed-meta">Channel: Djo Music</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=29Wbm-UkvUE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=29Wbm-UkvUE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3gQM4iLXl30" title="NASA talks UFOs with public ahead of final report on unidentified aerial phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3gQM4iLXl30" target="_blank" rel="noopener noreferrer">NASA talks UFOs with public ahead of final report on unidentified aerial phenomena</a></p><p class="youtube-embed-meta">Channel: ABC7</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3gQM4iLXl30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3gQM4iLXl30">Open on YouTube</a></p></div></div></div>
 
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/](https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditNASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsSeptember 14, 2023 — The video gives an impression of an object skimming abo...</p></details>
-   Published: September 14, 2023  
-
-2. <a id="endnote-2"></a>
-   Source: metabunk.org  
-   Title: nasa panel analyzes go fast.13174  
-   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkNASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>er. And so we&#x27;ve written a detailed paper on parallax...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data sets could help to identify [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;), ocean, and other environmental characteristics c...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: metabunk.org  
-   Title: go fast footage from tom delonges to the stars academy bird balloon.9569  
-   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[NOTE: 259 knots is incorrect. The number indicated is CAS (Calibrated Air Speed), which...Read more...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: metabunk.org  
-   Title: Go Fast  
-   Link: [https://www.metabunk.org/threads/go-fast-balloon-theory.12781/](https://www.metabunk.org/threads/go-fast-balloon-theory.12781/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon theory29 Nov 2022 — Every 10 frames, starting at frame 371 when lock is acquired.... The left side of the LOS is where they cros...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: metabunk.org  
-   Title: post 240166  
-   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The azimuth always has the same meaning for both A/G and A/A...Read more...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: metabunk.org  
-   Title: page 2  
-   Link: [https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2](https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3D Analysis of the Yemen Orb | Page 216 Sept 2025 — A (-21,-21) offset would give 50 knots, (-19,-19) would give 63 knots. I made an imag...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: metabunk.org  
-   Title: page 4  
-   Link: [https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4](https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 Pilot Chris Lehto&#x27;s Interpretation of the GoFast footage...5 Jun 2021 — Here&#x27;s a diagram of the 10-mile, 5-mile situation to show h...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: metabunk.org  
-   Title: Fravor's Hypersonic UFO [observation](&#123;&#123; 'observation-vs-claim/' | relative_url &#125;&#125;)  
-   Link: [https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5](https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Illusion?...4 Oct 2019 — Fravor says the disturbance looked *just like* something was under the water. Like a sea mount, or a p...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: metabunk.org  
-   Title: Go Fast  
-   Link: [https://www.metabunk.org/threads/go-fast-balloon-theory.12781/page-2](https://www.metabunk.org/threads/go-fast-balloon-theory.12781/page-2)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon theory | Page 229 Nov 2022 — Supposedly Go Fast was at around 13k feet it&#x27;s being said and 300 miles off the coast. The 300 miles...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: metabunk.org  
-   Title: page 4  
-   Link: [https://www.metabunk.org/threads/falling-objects-can-be-faster-than-free-fall.13263/page-4](https://www.metabunk.org/threads/falling-objects-can-be-faster-than-free-fall.13263/page-4)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling objects can be faster than free fall | Page 421 Nov 2023 — It is a frame in which an isolated physical object—an object with zero...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/fake-video-of-tic-tac-circling-the-uss-nimitz.14248/](https://www.metabunk.org/threads/fake-video-of-tic-tac-circling-the-uss-nimitz.14248/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Video of &quot;Tic-Tac&quot; circling the USS NimitzThis video was recently posted on Reddit supposedly showing a tictac circling over a warsh...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: metabunk.org  
-   Title: new science of uap paper.14041  
-   Link: [https://www.metabunk.org/threads/new-science-of-uap-paper.14041/](https://www.metabunk.org/threads/new-science-of-uap-paper.14041/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Science of UAP Paper24 Feb 2025 — The authors are trying to tie their work into an official government program that is part of a fals...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
-
-### Additional References
-
-16. <a id="endnote-16"></a>
-   Source: pinterest.com  
-   Link: [https://www.pinterest.com/pin/free-underwater-world-parallax-game-backgrounds-craftpixnet--631348441519410188/](https://www.pinterest.com/pin/free-underwater-world-parallax-game-backgrounds-craftpixnet--631348441519410188/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Underwater World Parallax Game BackgroundsBefore you Free Underwater World Parallax Game Backgrounds. This set includes 4 great back...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: dailymotion.com  
-   Link: [https://www.dailymotion.com/video/x9vpgo2](https://www.dailymotion.com/video/x9vpgo2)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Studying Unidentified Aerial Phenomena aka UFOs...NASA conducts studies of Unidentified Aerial Phenomena (UAP). NASA Associate Admi...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: itch.io  
-   Link: [https://itch.io/game-assets/tag-parallax](https://itch.io/game-assets/tag-parallax)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top game assets tagged parallaxFind game assets tagged parallax like Multi Platformer Tileset, Free Sky Backgrounds, Mountain Dusk Parall...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1277365523978270/](https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1277365523978270/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>can calculate whether this UFO might just be a bird, or a balloon...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: universetoday.com  
-   Title: ufo uap panel nasa better data ai  
-   Link: [https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai](https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Panelists Say NASA Needs Better Data31 May 2023 — The data recorded by the fighter jet&#x27;s instruments helped investigators determine t...</p></details>
-   Published: May 2023  
-
-21. <a id="endnote-21"></a>
-   Source: magnific.com  
-   Title: Parallax underwater Images  
-   Link: [https://www.magnific.com/free-photos-vectors/parallax-underwater](https://www.magnific.com/free-photos-vectors/parallax-underwater)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Download on...Find &amp; Download Free Graphic Resources for Parallax underwater Vectors, Stock Photos &amp; PSD files. ✓ Free for commerci...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: Wikipedia  
-   Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=bQo08JRY0iM](https://www.youtube.com/watch?v=bQo08JRY0iM)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and categorizing unidentified anomalous phenomena...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: youtube.com  
-   Title: NASA Independent Study Team on Go Fast and Parallax  
-   Link: [https://www.youtube.com/watch?v=4dJ614P8j3g](https://www.youtube.com/watch?v=4dJ614P8j3g)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the GoFast ocean background illusion...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: youtube.com  
-   Title: Pixel Art Class  
-   Link: [https://www.youtube.com/watch?v=TWAvAXV2MLo](https://www.youtube.com/watch?v=TWAvAXV2MLo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Beach SceneHeya Pals, Sit back and relax as we go through the motions of the ocean in painting a pixel parallax beach scene! I t...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -534,7 +398,7 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
         <p class="fr-section-kicker">Amazon book picks</p>
         <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
       </div>
-      <p class="fr-intro">Books and field guides related to Why the Ocean Made GoFast Look So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
+      <p class="fr-intro">Books and field guides related to Why the Ocean Made Go Fast Look So Fast. Use these as the next step if you want deeper reading beyond the article.</p>
     </div>
     <div class="fr-books-grid">
 
@@ -641,75 +505,71 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ocean-illusion-why-the-ocean-made-gofast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ocean-illusion-why-the-ocean-made-go-fast-look-so-fast-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -767,10 +627,10 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -918,3 +778,149 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/](https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditNASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsSeptember 14, 2023 — The video gives an impression of an object skimming abo...</p></details>
+   Published: September 14, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: metabunk.org  
+   Title: nasa panel analyzes go fast.13174  
+   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkNASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: pbs.org  
+   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>er. And so we&#x27;ve written a detailed paper on parallax...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThese data sets could help to identify [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;), ocean, and other environmental characteristics c...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: metabunk.org  
+   Title: go fast footage from tom delonges to the stars academy bird balloon.9569  
+   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>[NOTE: 259 knots is incorrect. The number indicated is CAS (Calibrated Air Speed), which...Read more...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: metabunk.org  
+   Title: Go Fast  
+   Link: [https://www.metabunk.org/threads/go-fast-balloon-theory.12781/](https://www.metabunk.org/threads/go-fast-balloon-theory.12781/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon theory29 Nov 2022 — Every 10 frames, starting at frame 371 when lock is acquired.... The left side of the LOS is where they cros...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: metabunk.org  
+   Title: post 240166  
+   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/post-240166)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The azimuth always has the same meaning for both A/G and A/A...Read more...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: metabunk.org  
+   Title: page 2  
+   Link: [https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2](https://www.metabunk.org/threads/3d-analysis-of-the-yemen-orb.14446/page-2)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>3D Analysis of the Yemen Orb | Page 216 Sept 2025 — A (-21,-21) offset would give 50 knots, (-19,-19) would give 63 knots. I made an imag...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: metabunk.org  
+   Title: page 4  
+   Link: [https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4](https://www.metabunk.org/threads/f-16-pilot-chris-lehtos-interpretation-of-the-gofast-footage-focus-parallax-inaccurate-range.11789/page-4)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>F-16 Pilot Chris Lehto&#x27;s Interpretation of the GoFast footage...5 Jun 2021 — Here&#x27;s a diagram of the 10-mile, 5-mile situation to show h...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: metabunk.org  
+   Title: Fravor's Hypersonic UFO [observation](&#123;&#123; 'observation-vs-claim/' | relative_url &#125;&#125;)  
+   Link: [https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5](https://www.metabunk.org/threads/fravors-hypersonic-ufo-observation-parallax-illusion-comparing-accounts.10941/page-5)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Illusion?...4 Oct 2019 — Fravor says the disturbance looked *just like* something was under the water. Like a sea mount, or a p...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: metabunk.org  
+   Title: Go Fast  
+   Link: [https://www.metabunk.org/threads/go-fast-balloon-theory.12781/page-2](https://www.metabunk.org/threads/go-fast-balloon-theory.12781/page-2)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon theory | Page 229 Nov 2022 — Supposedly Go Fast was at around 13k feet it&#x27;s being said and 300 miles off the coast. The 300 miles...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: metabunk.org  
+   Title: page 4  
+   Link: [https://www.metabunk.org/threads/falling-objects-can-be-faster-than-free-fall.13263/page-4](https://www.metabunk.org/threads/falling-objects-can-be-faster-than-free-fall.13263/page-4)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Falling objects can be faster than free fall | Page 421 Nov 2023 — It is a frame in which an isolated physical object—an object with zero...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: metabunk.org  
+   Link: [https://www.metabunk.org/threads/fake-video-of-tic-tac-circling-the-uss-nimitz.14248/](https://www.metabunk.org/threads/fake-video-of-tic-tac-circling-the-uss-nimitz.14248/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Fake Video of &quot;Tic-Tac&quot; circling the USS NimitzThis video was recently posted on Reddit supposedly showing a tictac circling over a warsh...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: metabunk.org  
+   Title: new science of uap paper.14041  
+   Link: [https://www.metabunk.org/threads/new-science-of-uap-paper.14041/](https://www.metabunk.org/threads/new-science-of-uap-paper.14041/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Science of UAP Paper24 Feb 2025 — The authors are trying to tie their work into an official government program that is part of a fals...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+
+### Additional References
+
+16. <a id="endnote-16"></a>
+   Source: pinterest.com  
+   Link: [https://www.pinterest.com/pin/free-underwater-world-parallax-game-backgrounds-craftpixnet--631348441519410188/](https://www.pinterest.com/pin/free-underwater-world-parallax-game-backgrounds-craftpixnet--631348441519410188/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Underwater World Parallax Game BackgroundsBefore you Free Underwater World Parallax Game Backgrounds. This set includes 4 great back...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: dailymotion.com  
+   Link: [https://www.dailymotion.com/video/x9vpgo2](https://www.dailymotion.com/video/x9vpgo2)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Studying Unidentified Aerial Phenomena aka UFOs...NASA conducts studies of Unidentified Aerial Phenomena (UAP). NASA Associate Admi...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: itch.io  
+   Link: [https://itch.io/game-assets/tag-parallax](https://itch.io/game-assets/tag-parallax)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top game assets tagged parallaxFind game assets tagged parallax like Multi Platformer Tileset, Free Sky Backgrounds, Mountain Dusk Parall...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1277365523978270/](https://www.facebook.com/StarTalk/videos/is-motion-parallax-the-reason-many-believe-this-to-be-a-uap-turns-out-we-can-cal/1277365523978270/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>can calculate whether this UFO might just be a bird, or a balloon...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: universetoday.com  
+   Title: ufo uap panel nasa better data ai  
+   Link: [https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai](https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Panelists Say NASA Needs Better Data31 May 2023 — The data recorded by the fighter jet&#x27;s instruments helped investigators determine t...</p></details>
+   Published: May 2023  
+
+21. <a id="endnote-21"></a>
+   Source: magnific.com  
+   Title: Parallax underwater Images  
+   Link: [https://www.magnific.com/free-photos-vectors/parallax-underwater](https://www.magnific.com/free-photos-vectors/parallax-underwater)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Free Download on...Find &amp; Download Free Graphic Resources for Parallax underwater Vectors, Stock Photos &amp; PSD files. ✓ Free for commerci...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: Wikipedia  
+   Title: Pentagon UFO videos  
+   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=bQo08JRY0iM](https://www.youtube.com/watch?v=bQo08JRY0iM)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and categorizing unidentified anomalous phenomena...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: youtube.com  
+   Title: NASA Independent Study Team on Go Fast and Parallax  
+   Link: [https://www.youtube.com/watch?v=4dJ614P8j3g](https://www.youtube.com/watch?v=4dJ614P8j3g)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing the GoFast ocean background illusion...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: youtube.com  
+   Title: Pixel Art Class  
+   Link: [https://www.youtube.com/watch?v=TWAvAXV2MLo](https://www.youtube.com/watch?v=TWAvAXV2MLo)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax Beach SceneHeya Pals, Sit back and relax as we go through the motions of the ocean in painting a pixel parallax beach scene! I t...</p></details>

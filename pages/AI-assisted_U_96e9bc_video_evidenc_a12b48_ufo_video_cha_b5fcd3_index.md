@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-video-evidenc/
 description: Focused pages that expand on Chain of Custody.
-date: '2026-05-28'
+date: '2026-06-08'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3
 parent_title: Chain of Custody | Video Limits

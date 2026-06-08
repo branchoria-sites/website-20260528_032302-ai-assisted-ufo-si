@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 11:23:58'
 parent_title: Why Clear UFO Videos Can Still Mislead | UFO Case AI
 parent_permalink: /video-limits/
 parent_nav_short_title: Video Limits
+parent_heading_title: Why Clear UFO Videos Can Still Mislead
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,50 +229,61 @@ breadcrumb_links:
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 sibling_links:
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91
   title: Angular Motion | Video Limits
   permalink: /angular-motion/
   short_title: Angular Motion
+  heading_title: Fast Across the Screen Does Not Mean Fast
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3
   title: Chain of Custody | Video Limits
   permalink: /chain-of-custody/
   short_title: Chain of Custody
+  heading_title: Can You Trust Where the UFO Video Came From
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8
-  title: GoFast Parallax | Video Limits
-  permalink: /gofast-parallax/
-  short_title: GoFast Parallax
+  title: Go Fast Parallax | Video Limits
+  permalink: /go-fast-parallax/
+  short_title: Go Fast Parallax
+  heading_title: Why the Go Fast UFO Only Looked Hypersonic
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a
   title: Original Files | Video Limits
   permalink: /original-files/
   short_title: Original Files
+  heading_title: Why the Original UFO File Matters More
 child_links:
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa
   title: Gimbal Glare | Sensor Artefacts
   permalink: /gimbal-glare/
   short_title: Gimbal Glare
+  heading_title: Did Infrared Glare Create the Gimbal Rotation Illusion?
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b
   title: Phone Drift | Sensor Artefacts
   permalink: /phone-drift/
   short_title: Phone Drift
+  heading_title: Why Phone Cameras Make UFO Lights Seem Erratic
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3
   title: Sensor Checks | Sensor Artefacts
   permalink: /sensor-checks/
   short_title: Sensor Checks
+  heading_title: When Multiple Sensors Disagree About a UFO
 up_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 prev_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a
   title: Original Files | Video Limits
   permalink: /original-files/
   short_title: Original Files
+  heading_title: Why the Original UFO File Matters More
+date: '2026-06-08 23:05:57 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -279,7 +291,7 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18
 A UFO video can look extraordinary because the camera system itself is behaving in unusual ways. Infrared glare can turn a distant [aircraft]({{ 'aircraft/' | relative_url }}) into a glowing disc. [Digital zoom]({{ 'digital-zoom/' | relative_url }}) can exaggerate shake and apparent speed. Image stabilisation can make lights appear to dart across the sky. Night-vision systems can create halos, trails and rotating shapes that are not physically present in the scene.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-light.svg" | relative_url }}" alt="Sensor Artefacts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Artefacts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many modern UFO and UAP cases depend heavily on video evidence from phones, drones, military infrared systems and low-light cameras. In AI-assisted UFO sighting investigation, one of the first technical questions is not “what is the object?” but “what did the sensor do to the image?” NASA’s UAP study stressed that poor sensor calibration, limited metadata and weak baseline data make interpretation difficult. NASA Science Space A balanced investigation therefore treats sensor artefacts as a normal part of evidence handling rather than as a dismissive explanation. Som <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> e videos genuinely capture unknown objects. Others record ordinary objects that become visually strange because of the way imaging systems process heat, light, motion and contrast.
 
 ## Infrared bloom and glare effects
@@ -379,7 +391,7 @@ The problem becomes worse when the original unprocessed footage is unavailable. 
 NASA’s UAP study repeatedly stressed the importance of metadata and sensor information for exactly this reason. Without knowing what processing occurred inside the device, analysts cannot reliably separate object behaviour from software behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-light.svg" | relative_url }}" alt="Sensor Artefacts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Artefacts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Compression artefacts create shape changes
 
 Online UFO clips are often downloaded, re-uploaded and recompressed multiple times. Video codecs simplify detail to save bandwidth. Bright isolated objects suffer especially badly.
@@ -428,7 +440,7 @@ Without calibration data, analysts may not know:
 This is why military and scientific investigations place so much emphasis on instrument metadata. NASA’s independent UAP report argued that missing calibration and missing contextual data are major barriers to reliable interpretation. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">nasas unidentified anomalous phenomena report key takeaways</span><span class="citation-popover-snippet">NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-light.svg" | relative_url }}" alt="Sensor Artefacts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Artefacts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Multi-sensor comparison is often decisive
 
 One of the strongest ways to identify sensor artefacts is to compare different instruments observing the same event.
@@ -483,121 +495,6 @@ This creates an important tension in UFO investigation:
 That distinction explains why some UFO videos remain publicly debated even after technical explanations emerge. The footage still feels visually anomalous, even when investigators identify optical or processing effects that could plausibly account for the apparent behaviour.
 
 For AI-assisted UFO sighting investigation, the practical lesson is straightforward: before classifying an object as unresolved or anomalous, investigators should first model the behaviour of the camera itself. In many cases, the “UFO manoeuvre” occurs inside the imaging chain rather than in the sky.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: space.com  
-   Title: sensor metadata, and the lack of baseline data," the report states.Read more  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: metabunk.org  
-   Title: a [gimbal glare](&#123;&#123; 'gimbal-glare/' | relative_url &#125;&#125;) explainer.12230  
-   Link: [https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/](https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkA Gimbal Glare Explainer17 Jan 2022 — In a large part, the current UFO-hype is based on the official Pentagon-UFOs. For sure, the...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: aaro.mil  
-   Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO assesses the object did not demonstrate anomalous performance characteristics. The objec...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: en.wikisource.org  
-   Title: Page:UAP Independent Study Team Final Report  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...Mar 9, 2018 — This accents the visual illusion that the object is moving because the...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: metabunk.org  
-   Title: nasa panel analyzes go fast.13174  
-   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: navair.navy.mil  
-   Title: mil Documents | NAVAIR  
-   Link: [https://www.navair.navy.mil/foia/documents](https://www.navair.navy.mil/foia/documents)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>| NAVAIR - FOIADocument Library · GOFAST. GOFAST - Please download · HEEMFG Spin test experiment test plan w. test results · GIMBAL. Vide...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: thedebrief.org  
-   Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
-
-### Additional References
-
-11. <a id="endnote-11"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has [resolved](&amp;#123;&amp;#123; &#x27;solved-later/&#x27; | relative_url &amp;#125;&amp;#125;) the &quot;Go Fast&quot; UAP: r/UFOsGo Fast explanation: paralax Object altitude 13.000 ft, speed 45mph / 39 knots. Wind speed at...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYPAgUqEj5B/](https://www.instagram.com/p/DYPAgUqEj5B/)  
-
-14. <a id="endnote-14"></a>
-   Source: thenationalnews.com  
-   Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: [https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/](https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: meritalk.com  
-   Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MeritalkNASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sens...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: nevadacurrent.com  
-   Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: behavior-podcast.com  
-   Title: gimbal ufo video and others explained in new documentary  
-   Link: [https://behavior-podcast.com/gimbal-ufo-video-and-others-explained-in-new-documentary/](https://behavior-podcast.com/gimbal-ufo-video-and-others-explained-in-new-documentary/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Gimbal” UFO video and other famous videos explained in...9 Jan 2025 — The documentary also delves into some of the more famous UFO myth...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: nextgov.com  
-   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: nypost.com  
-   Title: pentagon claims to debunk famous gofast ufo radar video  
-   Link: [https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/](https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The “GOFAST” video shows a radar recording of an object that appeare...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: boingboing.net  
-   Link: [https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html](https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s an interesting analysis of the fairly-recent &quot;Navy UFO&quot; video...Read more...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -713,75 +610,71 @@ For AI-assisted UFO sighting investigation, the practical lesson is straightforw
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Air Blower Camera Lens Cleaning Kit Dust Blower Lens Blower for DSLR"><img src="{{ '/assets/images/marketplace-covers/4199c8071dcc44e15ece.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT Air Blower Camera Lens Cleaning Kit Dust Blower Lens Blower for DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Air Blower Camera Lens Cleaning Kit Dust Blower Lens Blower for DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning"><img src="{{ '/assets/images/marketplace-covers/d24ac360e1803eb2ee7e.jpg' | relative_url }}" alt="Listing image for Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set"><img src="{{ '/assets/images/marketplace-covers/574ef758882798ed962a.jpg' | relative_url }}" alt="Listing image for 6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 46 in 1 Camera Lens Cleaning Kit DSLR Sensor Cleaner Brush for Canon Nikon Sony"><img src="{{ '/assets/images/marketplace-covers/d7a9e24dabda1d4223ac.jpg' | relative_url }}" alt="Listing image for 46 in 1 Camera Lens Cleaning Kit DSLR Sensor Cleaner Brush for Canon Nikon Sony" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">46 in 1 Camera Lens Cleaning Kit DSLR Sensor Cleaner Brush for Canon Nikon Sony</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-camera-lens-cleaning-kit" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-artefacts-when-the-camera-creates-the-ufo-effect-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -839,10 +732,10 @@ For AI-assisted UFO sighting investigation, the practical lesson is straightforw
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -990,3 +883,118 @@ For AI-assisted UFO sighting investigation, the practical lesson is straightforw
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: space.com  
+   Title: sensor metadata, and the lack of baseline data," the report states.Read more  
+   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: metabunk.org  
+   Title: a [gimbal glare](&#123;&#123; 'gimbal-glare/' | relative_url &#125;&#125;) explainer.12230  
+   Link: [https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/](https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkA Gimbal Glare Explainer17 Jan 2022 — In a large part, the current UFO-hype is based on the official Pentagon-UFOs. For sure, the...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: aaro.mil  
+   Title: Go Fast Case Resolution Card Methodology Final  
+   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO assesses the object did not demonstrate anomalous performance characteristics. The objec...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: en.wikisource.org  
+   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourceNASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: en.wikisource.org  
+   Title: Page:UAP Independent Study Team Final Report  
+   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: metabunk.org  
+   Link: [https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/](https://www.metabunk.org/threads/go-fast-footage-from-tom-delonges-to-the-stars-academy-bird-balloon.9569/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;GO FAST&quot; Footage from Tom DeLonge&#x27;s To The Stars...Mar 9, 2018 — This accents the visual illusion that the object is moving because the...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: metabunk.org  
+   Title: nasa panel analyzes go fast.13174  
+   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: navair.navy.mil  
+   Title: mil Documents | NAVAIR  
+   Link: [https://www.navair.navy.mil/foia/documents](https://www.navair.navy.mil/foia/documents)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>| NAVAIR - FOIADocument Library · GOFAST. GOFAST - Please download · HEEMFG Spin test experiment test plan w. test results · GIMBAL. Vide...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: thedebrief.org  
+   Title: nasas unidentified anomalous phenomena report key takeaways  
+   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+
+### Additional References
+
+11. <a id="endnote-11"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has [resolved](&amp;#123;&amp;#123; &#x27;solved-later/&#x27; | relative_url &amp;#125;&amp;#125;) the &quot;Go Fast&quot; UAP: r/UFOsGo Fast explanation: paralax Object altitude 13.000 ft, speed 45mph / 39 knots. Wind speed at...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/DYPAgUqEj5B/](https://www.instagram.com/p/DYPAgUqEj5B/)  
+
+14. <a id="endnote-14"></a>
+   Source: thenationalnews.com  
+   Title: nasas ufo report advises us government on how to detect mysterious objects  
+   Link: [https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/](https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: meritalk.com  
+   Title: nasa urged to take more permanent role in uap research effort  
+   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MeritalkNASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sens...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: nevadacurrent.com  
+   Title: nasa report finds no evidence that ufos are extraterrestrial  
+   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: behavior-podcast.com  
+   Title: gimbal ufo video and others explained in new documentary  
+   Link: [https://behavior-podcast.com/gimbal-ufo-video-and-others-explained-in-new-documentary/](https://behavior-podcast.com/gimbal-ufo-video-and-others-explained-in-new-documentary/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Gimbal” UFO video and other famous videos explained in...9 Jan 2025 — The documentary also delves into some of the more famous UFO myth...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: nextgov.com  
+   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: nypost.com  
+   Title: pentagon claims to debunk famous gofast ufo radar video  
+   Link: [https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/](https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The “GOFAST” video shows a radar recording of an object that appeare...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: boingboing.net  
+   Link: [https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html](https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s an interesting analysis of the fairly-recent &quot;Navy UFO&quot; video...Read more...</p></details>

@@ -206,6 +206,7 @@ ui_strings:
 parent_title: The green flashing light investigators should ask about | Aircraft
 parent_permalink: /uk-drone-rules/
 parent_nav_short_title: UK drone rules
+parent_heading_title: The green flashing light investigators should ask about
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Aircraft | Can AI Help Explain UFO Sightings?
   permalink: /aircraft/
   short_title: Aircraft
+  heading_title: Was It an Aircraft or Drone?
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929
   title: UK drone rules | Aircraft
   permalink: /uk-drone-rules/
   short_title: UK drone rules
+  heading_title: The green flashing light investigators should ask about
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Aircraft | Can AI Help Explain UFO Sightings?
   permalink: /aircraft/
   short_title: Aircraft
+  heading_title: Was It an Aircraft or Drone?
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929
   title: UK drone rules | Aircraft
   permalink: /uk-drone-rules/
   short_title: UK drone rules
+  heading_title: The green flashing light investigators should ask about
 sibling_links:
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f
   title: Green lights | UK drone rules
   permalink: /green-lights/
   short_title: Green lights
+  heading_title: Was the green flash a legal drone?
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6
   title: Remote ID | UK drone rules
   permalink: /remote-id/
   short_title: Remote ID
+  heading_title: Why no Remote ID does not solve it
 up_link:
   basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929
   title: UK drone rules | Aircraft
   permalink: /uk-drone-rules/
   short_title: UK drone rules
+  heading_title: The green flashing light investigators should ask about
 next_link:
   basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f
   title: Green lights | UK drone rules
   permalink: /green-lights/
   short_title: Green lights
-date: '2026-05-28 02:29:11 '
+  heading_title: Was the green flash a legal drone?
+date: '2026-06-08 23:37:02 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5c
 A drone-screening checklist is one of the fastest ways to stop a UK night-time UFO report from drifting into speculation before the basic aviation questions have been tested. Since the UK Civil Aviation Authority (CAA) introduced clearer night-flight lighting requirements and phased [Remote ID]({{ 'remote-id/' | relative_url }}) rules in 2026, investigators now have more concrete indicators to work with than older [UFO case files]({{ 'case-file/' | relative_url }}) ever had. A witness who reports a low hovering object with a repeating green flash near housing, roads, parks or event sites may not be describing an unknown craft at all, but a lawful or semi-lawful drone operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category20 Apr 2026 — The person flying the drone or model aircraft (known as the rem...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category20 Apr 2026 — The person flying the drone or model aircraft (known as the rem...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-light.svg" | relative_url }}" alt="Checklist illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-dark.svg" | relative_url }}" alt="Checklist illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The value of a structured checklist is not that it “debunks” sightings automatically. It creates consistency. It forces the investigation to test the same observable features every time: lighting, altitude, sound, motion, weather, location restrictions, likely operators and whether Remote ID or other local records could plausibly exist. In an AI-assisted UFO investigation workflow, drone screening belongs in the first-pass triage stage before more exotic explanations are considered.
 
 ## The drone questions every UK case needs
@@ -358,7 +367,7 @@ Many dramatic night videos become less compelling once the raw footage is checke
 The strongest drone assessments come from combinations of clues rather than single observations. One green flash alone proves little. A green flashing object hovering 60 metres above a car park beside an event venue for ten minutes is much more suggestive.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/orWpINgj3Og" title="UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer">UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More</a></p><p class="youtube-embed-meta">Channel: Ian in London &middot; Views: 113.6K &middot; Uploaded: January 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=orWpINgj3Og">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nqi4QNFXu-c" title="Bizarre Midair UFO Sighting Freaks Out Plane Passengers | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nqi4QNFXu-c" target="_blank" rel="noopener noreferrer">Bizarre Midair UFO Sighting Freaks Out Plane Passengers | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nqi4QNFXu-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nqi4QNFXu-c">Open on YouTube</a></p></div></div></div>
 
 ### Lighting patterns that strengthen a drone hypothesis
 
@@ -433,7 +442,7 @@ By contrast, a drone explanation weakens when:
 The checklist should therefore include a simple geospatial pass:
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-light.svg" | relative_url }}" alt="Checklist illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-dark.svg" | relative_url }}" alt="Checklist illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. map the witness position;
 2. estimate line of sight;
 3. identify likely take-off zones;
@@ -464,7 +473,7 @@ This is especially important in cases involving:
 Remote ID should not be treated as a magic solution. Many legacy drones remain outside immediate requirements, some homemade aircraft may not comply, and unlawful operators may disable systems entirely. The absence of Remote ID evidence is therefore [weak evidence]({{ 'weak-evidence/' | relative_url }}) on its own.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nqi4QNFXu-c" title="Bizarre Midair UFO Sighting Freaks Out Plane Passengers | New York Post" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nqi4QNFXu-c" target="_blank" rel="noopener noreferrer">Bizarre Midair UFO Sighting Freaks Out Plane Passengers | New York Post</a></p><p class="youtube-embed-meta">Channel: New York Post</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nqi4QNFXu-c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nqi4QNFXu-c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4NtVHGT2tgI" title="7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer">7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4NtVHGT2tgI">Open on YouTube</a></p></div></div></div>
 
 ## A practical first-pass scoring approach
 
@@ -485,7 +494,7 @@ Typical indicators include:
 These cases usually belong in the “probable conventional explanation” category unless contradictory evidence appears later.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-light.svg" | relative_url }}" alt="Checklist illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-dark.svg" | relative_url }}" alt="Checklist illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Plausible but unconfirmed drone explanation
 
 This is the most common outcome.
@@ -514,7 +523,7 @@ A drone hypothesis weakens when reports involve:
 Even here, the checklist should not leap directly to extraordinary conclusions. Aircraft, astronomical objects, balloons, military lighting, [atmospheric]({{ 'scintillation/' | relative_url }}) optics and perception effects still require systematic elimination.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AlFeAfv_G74" title="He Traveled Between Two Worlds, Sold Cheap Noodles for Gold, and Became a Fantasy Billionaire!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AlFeAfv_G74" target="_blank" rel="noopener noreferrer">He Traveled Between Two Worlds, Sold Cheap Noodles for Gold, and Became a Fantasy Billionaire!</a></p><p class="youtube-embed-meta">Channel: Top Comic Recap</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AlFeAfv_G74" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AlFeAfv_G74">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R-_7RptwcHg" title="What is a Targeted Individual? | Gang-Stalking (Group-Stalking)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R-_7RptwcHg" target="_blank" rel="noopener noreferrer">What is a Targeted Individual? | Gang-Stalking (Group-Stalking)</a></p><p class="youtube-embed-meta">Channel: Dr. Todd Grande</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R-_7RptwcHg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R-_7RptwcHg">Open on YouTube</a></p></div></div></div>
 
 ## When a drone explanation is plausible but unconfirmed
 
@@ -559,133 +568,6 @@ The modern UK night sky contains far more legal drone traffic than most members 
 * dismissing genuinely unusual reports without adequate testing.
 
 The strongest UFO investigations are not the ones that chase mystery first. They are the ones that document ordinary explanations carefully enough that any remaining anomaly becomes clearer, narrower and more credible. In the UK after the 2026 rule changes, green flashing lights, flight context and Remote ID awareness have become central parts of that process.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: heliguy.com  
-   Title: flying drone at night open category  
-   Link: [https://www.heliguy.com/blogs/posts/flying-drone-at-night-open-category/](https://www.heliguy.com/blogs/posts/flying-drone-at-night-open-category/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying a drone at night in the Open Category: UK CAA updateMar 17, 2026 — The watchdog has confirmed that drones operated at night in the...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: heliguy.com  
-   Link: [https://www.heliguy.com/blogs/posts/uk-drone-rules-2026-changes/](https://www.heliguy.com/blogs/posts/uk-drone-rules-2026-changes/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HeliguyUK drone rules change January 1, 2026: What you need to...31 Dec 2025 — A new requirement for 2026 is that, if you fly a drone or...</p></details>
-   Published: January 1, 2026  
-
-3. <a id="endnote-3"></a>
-   Source: techradar.com  
-   Title: Tech Radar UK drone laws just changed  
-   Link: [https://www.techradar.com/cameras/drones/uk-drone-laws-just-changed-heres-how-to-get-your-flier-id-and-remote-id-so-you-can-get-back-in-the-air](https://www.techradar.com/cameras/drones/uk-drone-laws-just-changed-heres-how-to-get-your-flier-id-and-remote-id-so-you-can-get-back-in-the-air)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, drone classification now factors in both weight and certain safety features, rather than weight alone. Second, most drones will no...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: techradar.com  
-   Title: Tech Radar UK drone laws have just changed  
-   Link: [https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now](https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: heliguy.com  
-   Title: c0 drones green flashing light at night uk caa update  
-   Link: [https://www.heliguy.com/blogs/posts/c0-drones-green-flashing-light-at-night-uk-caa-update/](https://www.heliguy.com/blogs/posts/c0-drones-green-flashing-light-at-night-uk-caa-update/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C0 drones green flashing light at night: UK CAA update26 Jan 2026 — C0/UK1 drones, including the DJI Mini 5 Pro, do not require an active...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: heliguy.com  
-   Title: Consumer drones typically use small  
-   Link: [https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/](https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones at night: identification, safety, and UK regulations30 Apr 2026 — In the UK Open Category, drones must display a green flashing li...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: viewpoints.dji.com  
-   Title: new uk drone regulations  
-   Link: [https://viewpoints.dji.com/blog/new-uk-drone-regulations](https://viewpoints.dji.com/blog/new-uk-drone-regulations)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Regulations from 01.01.20261 Jan 2026 — Flying at night. Night operations require a flashing green light visible to others. Offi...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: caa.co.uk  
-   Title: flying at night in the open category  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityFlying at night in the Open Category20 Apr 2026 — The person flying the drone or model aircraft (known as the rem...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: caa.co.uk  
-   Title: Civil Aviation Authority Remote ID (RID)  
-   Link: [https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/](https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) - DronesLegal requirements for Remote ID You must enable Remote ID on your drone or model aircraf...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: mavicpilots.com  
-   Title: night flying in uk.142088  
-   Link: [https://mavicpilots.com/threads/night-flying-in-uk.142088/](https://mavicpilots.com/threads/night-flying-in-uk.142088/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DJI Mavic, Air &amp; Mini Drone CommunityNight Flying in UK | DJI Mavic, Air &amp; Mini Drone Community7 Nov 2023 — According to the CAA rules it...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: glyndewis.com  
-   Title: uk drone laws 2026  
-   Link: [https://glyndewis.com/blog/uk-drone-laws-2026](https://glyndewis.com/blog/uk-drone-laws-2026)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[UK Drone Rules](&amp;#123;&amp;#123; &#x27;uk-drone-rules/&#x27; | relative_url &amp;#125;&amp;#125;) are Changing24 Dec 2025 — From 1st January 2026. Any UK‑class drone in UK1, UK2, UK3, UK5 or UK6 must have Remote ID fitte...</p></details>
-   Published: January 2026  
-
-### Additional References
-
-12. <a id="endnote-12"></a>
-   Source: t3.com  
-   Link: [https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026](https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/903879063054302/posts/25845547301794133/](https://www.facebook.com/groups/903879063054302/posts/25845547301794133/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA changes stance on drone green light requirementIt seems the CAA have back-pedalled again on the whole green light at night situation...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: thebalmoregroup.co.uk  
-   Link: [https://thebalmoregroup.co.uk/flying-a-drone-at-night/](https://thebalmoregroup.co.uk/flying-a-drone-at-night/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying a drone at nightConducting drone surveys in the dark. From stunning photographic opportunities for commercial business marketing t...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updates | UK Civil Aviation AuthorityNew content on using a green flashing light when flying at night. Point 32: Fly with Remote ID switc...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where you can flyNear People (A2); Far from People (A3). If you&#x27;re just starting out flying drones or model aircraft, you&#x27;ll start in eit...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: lcegroup.co.uk  
-   Title: This is to ensure your aircraft is clearly distinguishable from manned  
-   Link: [https://www.lcegroup.co.uk/Blog/UK-Drone-Rules-2026-%7C-What-you-need-to-know](https://www.lcegroup.co.uk/Blog/UK-Drone-Rules-2026-%7C-What-you-need-to-know)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Rules 2026 | What you need to know | LCEFrom January 2026, any drone flown at night must be equipped with a green flashing light...</p></details>
-   Published: January 2026  
-
-18. <a id="endnote-18"></a>
-   Source: shop.coptrz.com  
-   Title: how will the 2026 drone regulation changes affect flying in the uk  
-   Link: [https://shop.coptrz.com/blogs/news/how-will-the-2026-drone-regulation-changes-affect-flying-in-the-uk](https://shop.coptrz.com/blogs/news/how-will-the-2026-drone-regulation-changes-affect-flying-in-the-uk)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2026 Drone Regulation Changes Will Affect...5 Jan 2026 — Discover how the new 2026 UK drone rules will affect flying, with key chang...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: lcegroup.co.uk  
-   Title: This is to ensure your aircraft is clearly distinguishable from manned  
-   Link: [https://www.lcegroup.co.uk/LiveView/UK-Drone-Rules-2026-%7C-What-you-need-to-know](https://www.lcegroup.co.uk/LiveView/UK-Drone-Rules-2026-%7C-What-you-need-to-know)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Rules 2026 | What you need to knowFrom January 2026, any drone flown at night must be equipped with a green flashing light...</p></details>
-   Published: January 2026  
-
-20. <a id="endnote-20"></a>
-   Source: eastwood-drones.co.uk  
-   Link: [https://www.eastwood-drones.co.uk/what-weve-been-up-to/2026/1/2/vhhnjs0mnrw9xlxydhx358gm5rmfqo](https://www.eastwood-drones.co.uk/what-weve-been-up-to/2026/1/2/vhhnjs0mnrw9xlxydhx358gm5rmfqo)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Laws 2026: Everything You Need to Know1 Feb 2026 — Key changes in 2026: Night operations now require a flashing green light...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: shop.coptrz.com  
-   Title: caa updates uk night drone rules for open category  
-   Link: [https://shop.coptrz.com/blogs/news/caa-updates-uk-night-drone-rules-for-open-category](https://shop.coptrz.com/blogs/news/caa-updates-uk-night-drone-rules-for-open-category)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CoptrzCAA Updates UK Night Drone Rules For Open Category23 Mar 2026 — Do I need a flashing light to fly a drone at night in the UK? Yes...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -801,75 +683,71 @@ The strongest UFO investigations are not the ones that chase mystery first. They
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories"><img src="{{ '/assets/images/marketplace-covers/06a5ef9ae28a0114d721.jpg' | relative_url }}" alt="Listing image for For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3"><img src="{{ '/assets/images/marketplace-covers/dbfa76e6fa531e5eaa98.jpg' | relative_url }}" alt="Listing image for Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3"><img src="{{ '/assets/images/marketplace-covers/96055dfcc105e05be4bb.jpg' | relative_url }}" alt="Listing image for Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Double Night Flight LED Light Lamp for DJI Mini 3 Pro Drone Accessories"><img src="{{ '/assets/images/marketplace-covers/bdfb944cb4088ee0699c.jpg' | relative_url }}" alt="Listing image for Double Night Flight LED Light Lamp for DJI Mini 3 Pro Drone Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Double Night Flight LED Light Lamp for DJI Mini 3 Pro Drone Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=checklist-the-drone-questions-every-uk-case-needs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -927,10 +805,10 @@ The strongest UFO investigations are not the ones that chase mystery first. They
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1078,3 +956,130 @@ The strongest UFO investigations are not the ones that chase mystery first. They
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: heliguy.com  
+   Title: flying drone at night open category  
+   Link: [https://www.heliguy.com/blogs/posts/flying-drone-at-night-open-category/](https://www.heliguy.com/blogs/posts/flying-drone-at-night-open-category/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying a drone at night in the Open Category: UK CAA updateMar 17, 2026 — The watchdog has confirmed that drones operated at night in the...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: heliguy.com  
+   Link: [https://www.heliguy.com/blogs/posts/uk-drone-rules-2026-changes/](https://www.heliguy.com/blogs/posts/uk-drone-rules-2026-changes/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>HeliguyUK drone rules change January 1, 2026: What you need to...31 Dec 2025 — A new requirement for 2026 is that, if you fly a drone or...</p></details>
+   Published: January 1, 2026  
+
+3. <a id="endnote-3"></a>
+   Source: techradar.com  
+   Title: Tech Radar UK drone laws just changed  
+   Link: [https://www.techradar.com/cameras/drones/uk-drone-laws-just-changed-heres-how-to-get-your-flier-id-and-remote-id-so-you-can-get-back-in-the-air](https://www.techradar.com/cameras/drones/uk-drone-laws-just-changed-heres-how-to-get-your-flier-id-and-remote-id-so-you-can-get-back-in-the-air)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>First, drone classification now factors in both weight and certain safety features, rather than weight alone. Second, most drones will no...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: techradar.com  
+   Title: Tech Radar UK drone laws have just changed  
+   Link: [https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now](https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: heliguy.com  
+   Title: c0 drones green flashing light at night uk caa update  
+   Link: [https://www.heliguy.com/blogs/posts/c0-drones-green-flashing-light-at-night-uk-caa-update/](https://www.heliguy.com/blogs/posts/c0-drones-green-flashing-light-at-night-uk-caa-update/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>C0 drones green flashing light at night: UK CAA update26 Jan 2026 — C0/UK1 drones, including the DJI Mini 5 Pro, do not require an active...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: heliguy.com  
+   Title: Consumer drones typically use small  
+   Link: [https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/](https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drones at night: identification, safety, and UK regulations30 Apr 2026 — In the UK Open Category, drones must display a green flashing li...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: viewpoints.dji.com  
+   Title: new uk drone regulations  
+   Link: [https://viewpoints.dji.com/blog/new-uk-drone-regulations](https://viewpoints.dji.com/blog/new-uk-drone-regulations)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Regulations from 01.01.20261 Jan 2026 — Flying at night. Night operations require a flashing green light visible to others. Offi...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: caa.co.uk  
+   Title: flying at night in the open category  
+   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityFlying at night in the Open Category20 Apr 2026 — The person flying the drone or model aircraft (known as the rem...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: caa.co.uk  
+   Title: Civil Aviation Authority Remote ID (RID)  
+   Link: [https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/](https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityRemote ID (RID) - DronesLegal requirements for Remote ID You must enable Remote ID on your drone or model aircraf...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: mavicpilots.com  
+   Title: night flying in uk.142088  
+   Link: [https://mavicpilots.com/threads/night-flying-in-uk.142088/](https://mavicpilots.com/threads/night-flying-in-uk.142088/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DJI Mavic, Air &amp; Mini Drone CommunityNight Flying in UK | DJI Mavic, Air &amp; Mini Drone Community7 Nov 2023 — According to the CAA rules it...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: glyndewis.com  
+   Title: uk drone laws 2026  
+   Link: [https://glyndewis.com/blog/uk-drone-laws-2026](https://glyndewis.com/blog/uk-drone-laws-2026)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>[UK Drone Rules](&amp;#123;&amp;#123; &#x27;uk-drone-rules/&#x27; | relative_url &amp;#125;&amp;#125;) are Changing24 Dec 2025 — From 1st January 2026. Any UK‑class drone in UK1, UK2, UK3, UK5 or UK6 must have Remote ID fitte...</p></details>
+   Published: January 2026  
+
+### Additional References
+
+12. <a id="endnote-12"></a>
+   Source: t3.com  
+   Link: [https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026](https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/903879063054302/posts/25845547301794133/](https://www.facebook.com/groups/903879063054302/posts/25845547301794133/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CAA changes stance on drone green light requirementIt seems the CAA have back-pedalled again on the whole green light at night situation...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: thebalmoregroup.co.uk  
+   Link: [https://thebalmoregroup.co.uk/flying-a-drone-at-night/](https://thebalmoregroup.co.uk/flying-a-drone-at-night/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flying a drone at nightConducting drone surveys in the dark. From stunning photographic opportunities for commercial business marketing t...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: caa.co.uk  
+   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/updates/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Updates | UK Civil Aviation AuthorityNew content on using a green flashing light when flying at night. Point 32: Fly with Remote ID switc...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: caa.co.uk  
+   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where you can flyNear People (A2); Far from People (A3). If you&#x27;re just starting out flying drones or model aircraft, you&#x27;ll start in eit...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: lcegroup.co.uk  
+   Title: This is to ensure your aircraft is clearly distinguishable from manned  
+   Link: [https://www.lcegroup.co.uk/Blog/UK-Drone-Rules-2026-%7C-What-you-need-to-know](https://www.lcegroup.co.uk/Blog/UK-Drone-Rules-2026-%7C-What-you-need-to-know)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Rules 2026 | What you need to know | LCEFrom January 2026, any drone flown at night must be equipped with a green flashing light...</p></details>
+   Published: January 2026  
+
+18. <a id="endnote-18"></a>
+   Source: shop.coptrz.com  
+   Title: how will the 2026 drone regulation changes affect flying in the uk  
+   Link: [https://shop.coptrz.com/blogs/news/how-will-the-2026-drone-regulation-changes-affect-flying-in-the-uk](https://shop.coptrz.com/blogs/news/how-will-the-2026-drone-regulation-changes-affect-flying-in-the-uk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2026 Drone Regulation Changes Will Affect...5 Jan 2026 — Discover how the new 2026 UK drone rules will affect flying, with key chang...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: lcegroup.co.uk  
+   Title: This is to ensure your aircraft is clearly distinguishable from manned  
+   Link: [https://www.lcegroup.co.uk/LiveView/UK-Drone-Rules-2026-%7C-What-you-need-to-know](https://www.lcegroup.co.uk/LiveView/UK-Drone-Rules-2026-%7C-What-you-need-to-know)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Rules 2026 | What you need to knowFrom January 2026, any drone flown at night must be equipped with a green flashing light...</p></details>
+   Published: January 2026  
+
+20. <a id="endnote-20"></a>
+   Source: eastwood-drones.co.uk  
+   Link: [https://www.eastwood-drones.co.uk/what-weve-been-up-to/2026/1/2/vhhnjs0mnrw9xlxydhx358gm5rmfqo](https://www.eastwood-drones.co.uk/what-weve-been-up-to/2026/1/2/vhhnjs0mnrw9xlxydhx358gm5rmfqo)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Laws 2026: Everything You Need to Know1 Feb 2026 — Key changes in 2026: Night operations now require a flashing green light...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: shop.coptrz.com  
+   Title: caa updates uk night drone rules for open category  
+   Link: [https://shop.coptrz.com/blogs/news/caa-updates-uk-night-drone-rules-for-open-category](https://shop.coptrz.com/blogs/news/caa-updates-uk-night-drone-rules-for-open-category)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CoptrzCAA Updates UK Night Drone Rules For Open Category23 Mar 2026 — Do I need a flashing light to fly a drone at night in the UK? Yes...</p></details>

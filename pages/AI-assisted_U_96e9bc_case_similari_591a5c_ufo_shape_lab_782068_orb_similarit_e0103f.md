@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why 'Triangle' And 'Orb' Reports Mislead AI | Case Match
 parent_permalink: /shape-labels/
 parent_nav_short_title: Shape Labels
+parent_heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068
   title: Shape Labels | Case Match
   permalink: /shape-labels/
   short_title: Shape Labels
+  heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,39 +231,46 @@ breadcrumb_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068
   title: Shape Labels | Case Match
   permalink: /shape-labels/
   short_title: Shape Labels
+  heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 sibling_links:
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e
   title: Better metadata | Shape Labels
   permalink: /better-metadata/
   short_title: Better metadata
+  heading_title: What AI needs beyond UFO shape words
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919
   title: Triangle labels | Shape Labels
   permalink: /triangle-labels/
   short_title: Triangle labels
+  heading_title: Is it a craft or three lights?
 up_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068
   title: Shape Labels | Case Match
   permalink: /shape-labels/
   short_title: Shape Labels
+  heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 prev_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e
   title: Better metadata | Shape Labels
   permalink: /better-metadata/
   short_title: Better metadata
+  heading_title: What AI needs beyond UFO shape words
 next_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919
   title: Triangle labels | Shape Labels
   permalink: /triangle-labels/
   short_title: Triangle labels
-date: '2026-05-28 02:39:06 '
+  heading_title: Is it a craft or three lights?
+date: '2026-06-08 23:46:32 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_78
 Many UFO sightings end up labelled as “orbs” even when the underlying events have little in common. A witness may use the word for a bright planet near the horizon, an aircraft [landing light]({{ 'landing-lights/' | relative_url }}), a drifting lantern, a distant drone, a [reflective]({{ 'foil-flashes/' | relative_url }}) balloon, or a blurred phone-camera light source. Once that single label enters a database, however, AI systems often treat the reports as visually related cases. That creates a major problem for automated UFO similarity searches.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-light.svg" | relative_url }}" alt="Orb reports illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-dark.svg" | relative_url }}" alt="Orb reports illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, shape words are only useful when tied to context. “Orb” is especially weak because human vision and consumer cameras naturally compress distant light sources into glowing circular points. NASA’s UAP study team has repeatedly stressed that poor-quality observations, missing metadata, and inconsistent descriptions make automated analysis unreliable without stronger contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 ## What witnesses usually mean by “orb”
@@ -320,7 +330,7 @@ Bright astronomical objects generate a large number of UFO reports because the h
 Autokinetic illusion — a recognised visual effect in aviation — can make a stationary light appear to move when stared at against a dark background. FAA safety material specifically notes that stars and planets are sometimes mistaken for aircraft or UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAASafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black backgroun...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia To a witness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</span></span></span>, the object may genuinely seem to drift, pulse, or react to observation. To an AI search engine, however, the report simply becomes another “moving orb”.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l05NGp_z6TI" title="Why eyewitnesses fail | Thomas Albright | TEDxSanDiego" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer">Why eyewitnesses fail | Thomas Albright | TEDxSanDiego</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 104.2K &middot; Uploaded: November 2016 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l05NGp_z6TI">Open on YouTube</a></p></div></div></div>
 
 ### Drones, lanterns, and balloons
 
@@ -360,7 +370,7 @@ NASA’s UAP work repeatedly emphasises that high-quality analysis requires [cal
 This is especially important for orb reports because the visual information is already minimal before the report reaches the database.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-light.svg" | relative_url }}" alt="Orb reports illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-dark.svg" | relative_url }}" alt="Orb reports illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How orb labels create false UFO patterns
 
 Orb-heavy datasets often generate misleading statistical patterns.
@@ -385,7 +395,7 @@ The same distortion appears in temporal clustering. Orb reports often rise durin
 Environmental context is therefore more valuable than shape labels alone. Weather data, astronomy checks, flight paths, satellite visibility, launch schedules, and local event records usually narrow explanations far more effectively than text similarity between witness narratives.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l05NGp_z6TI" title="Why eyewitnesses fail | Thomas Albright | TEDxSanDiego" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer">Why eyewitnesses fail | Thomas Albright | TEDxSanDiego</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 104.2K &middot; Uploaded: November 2016 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l05NGp_z6TI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r5vjfzPuKpw" title="Insane and strange lens flare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r5vjfzPuKpw" target="_blank" rel="noopener noreferrer">Insane and strange lens flare</a></p><p class="youtube-embed-meta">Channel: Dombowerphoto &middot; Views: 1.3K &middot; Uploaded: May 2016 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r5vjfzPuKpw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r5vjfzPuKpw">Open on YouTube</a></p></div></div></div>
 
 ## Why phone footage makes the problem worse
 
@@ -409,7 +419,7 @@ Investigators therefore need to separate:
 An AI similarity system trained on screenshots or captions without this distinction may reinforce camera artefacts as if they were genuine object characteristics.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-light.svg" | relative_url }}" alt="Orb reports illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-dark.svg" | relative_url }}" alt="Orb reports illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Better checks for light-only UFO reports
 
 Because orb descriptions are weak identifiers, effective UFO investigation relies on contextual filtering rather than shape matching alone.
@@ -438,7 +448,7 @@ Two witnesses may both report a “white orb hovering silently”, but one event
 This is one reason modern AI-assisted UFO investigation increasingly treats shape labels as low-[confidence]({{ 'confidence/' | relative_url }}) metadata rather than primary classification evidence.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r5vjfzPuKpw" title="Insane and strange lens flare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r5vjfzPuKpw" target="_blank" rel="noopener noreferrer">Insane and strange lens flare</a></p><p class="youtube-embed-meta">Channel: Dombowerphoto &middot; Views: 1.3K &middot; Uploaded: May 2016 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r5vjfzPuKpw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r5vjfzPuKpw">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YfYlNQa2Ijw" title="Explaining the green dot in your photos #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YfYlNQa2Ijw" target="_blank" rel="noopener noreferrer">Explaining the green dot in your photos #shorts</a></p><p class="youtube-embed-meta">Channel: Heckinsick &middot; Views: 161.8K &middot; Uploaded: March 2022 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YfYlNQa2Ijw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YfYlNQa2Ijw">Open on YouTube</a></p></div></div></div>
 
 ## The practical lesson for UFO similarity search
 
@@ -469,133 +479,6 @@ It should also ask:
 Without those checks, orb-heavy databases risk becoming self-reinforcing collections of unrelated luminous events grouped together by language alone.
 
 That is why orb reports remain one of the most difficult categories in AI-assisted UFO similarity searches: the apparent visual similarity often reflects human perception and camera behaviour more than a shared underlying cause.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: nasa.gov  
-   Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: faa.gov  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAASpatial Disorientation: Visual IllusionsA Black-Hole Approach Illusion can happen during a final approach at night (no stars or moonli...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: faasafety.gov  
-   Title: Your Senses in the Shadows  
-   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black backgroun...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ly on their eyes for correct information. Darkness or low...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/general-aviation-night-flying-guidance](https://skybrary.aero/articles/general-aviation-night-flying-guidance)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>General Aviation Night Flying GuidanceThis is what is happening when a star or planet is misidentified as an aircraft. To avoid this main...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: Wikipedia  
-   Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: rev.com  
-   Link: [https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript](https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>t, they&#x27;re not detailed, and they&#x27;re not curated observations...Read more...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) questions: What types of scientific data currently collec...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — Without access to an extensive set of data, it is nearly impossible to verify or explain any observation, thus the focus of...</p></details>
-   Published: May 2026  
-
-12. <a id="endnote-12"></a>
-   Source: Wikipedia  
-   Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf](https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 13: Night OperationsIn a hyperopic state, when a pilot views a near image, the actual focal point of the eye is behind the retina...</p></details>
-
-### Additional References
-
-14. <a id="endnote-14"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: aopa.org  
-   Link: [https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions](https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions)  
-
-17. <a id="endnote-17"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/](https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial Craft** - Some theorists suggest UFO orbs are alien probes or vehicles...Read more...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: leonarddavid.com  
-   Title: nasa report released unidentified anomalous phenomena uap  
-   Link: [https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/](https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: dni.gov  
-   Title: Prelimary Assessment UAP 20210625  
-   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview for policymakers of the challenge...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: universetoday.com  
-   Title: what would actual scientific study of uaps look like  
-   Link: [https://www.universetoday.com/articles/what-would-actual-scientific-study-of-uaps-look-like](https://www.universetoday.com/articles/what-would-actual-scientific-study-of-uaps-look-like)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?18 Feb 2025 — New research aims to explore past efforts, dispel some misunderstandings, and enable future research into UAP.Read more...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: newspaceeconomy.ca  
-   Link: [https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/](https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Unidentified: A Comprehensive Analysis of UAP...2 Dec 2025 — The transition from “UFO” to “UAP” signifies a shift toward sc...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: space.com  
-   Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -711,75 +594,71 @@ That is why orb reports remain one of the most difficult categories in AI-assist
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-se" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orb-reports-why-so-many-ufos-become-orbs-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -837,10 +716,10 @@ That is why orb reports remain one of the most difficult categories in AI-assist
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -988,3 +867,130 @@ That is why orb reports remain one of the most difficult categories in AI-assist
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: nasa.gov  
+   Title: update nasa shares uap independent study report names director  
+   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: faa.gov  
+   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FAASpatial Disorientation: Visual IllusionsA Black-Hole Approach Illusion can happen during a final approach at night (no stars or moonli...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: faasafety.gov  
+   Title: Your Senses in the Shadows  
+   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black backgroun...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: faa.gov  
+   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ly on their eyes for correct information. Darkness or low...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: skybrary.aero  
+   Link: [https://skybrary.aero/articles/general-aviation-night-flying-guidance](https://skybrary.aero/articles/general-aviation-night-flying-guidance)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>General Aviation Night Flying GuidanceThis is what is happening when a star or planet is misidentified as an aircraft. To avoid this main...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: Wikipedia  
+   Title: Sensory illusions in aviation  
+   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: rev.com  
+   Link: [https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript](https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>t, they&#x27;re not detailed, and they&#x27;re not curated observations...Read more...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) questions: What types of scientific data currently collec...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: nasa.gov  
+   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — Without access to an extensive set of data, it is nearly impossible to verify or explain any observation, thus the focus of...</p></details>
+   Published: May 2026  
+
+12. <a id="endnote-12"></a>
+   Source: Wikipedia  
+   Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
+   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: faa.gov  
+   Link: [https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf](https://www.faa.gov/sites/faa.gov/files/Night_Ops_Ch13.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 13: Night OperationsIn a hyperopic state, when a pilot views a near image, the actual focal point of the eye is behind the retina...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/space/comments/16ij6ui/nasa_shares_unidentified_anomalous_phenomena/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The evidence of aliens that NASA will find is going to be &quot;We&#x27;ve detected animal farts on...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: aopa.org  
+   Link: [https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions](https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions)  
+
+17. <a id="endnote-17"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/](https://www.facebook.com/ArabNews/posts/bright-lights-and-hot-orbs-ufo-files-shed-light-on-sightings-but-leave-interpret/1398534215644922/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial Craft** - Some theorists suggest UFO orbs are alien probes or vehicles...Read more...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: leonarddavid.com  
+   Title: nasa report released unidentified anomalous phenomena uap  
+   Link: [https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/](https://www.leonarddavid.com/nasa-report-released-unidentified-anomalous-phenomena-uap/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena (UAP) – UPDATED14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: dni.gov  
+   Title: Prelimary Assessment UAP 20210625  
+   Link: [https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf](https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preliminary Assessment: Unidentified Aerial Phenomena...25 Jun 2021 — This report provides an overview for policymakers of the challenge...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: universetoday.com  
+   Title: what would actual scientific study of uaps look like  
+   Link: [https://www.universetoday.com/articles/what-would-actual-scientific-study-of-uaps-look-like](https://www.universetoday.com/articles/what-would-actual-scientific-study-of-uaps-look-like)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>?18 Feb 2025 — New research aims to explore past efforts, dispel some misunderstandings, and enable future research into UAP.Read more...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: newspaceeconomy.ca  
+   Link: [https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/](https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding the Unidentified: A Comprehensive Analysis of UAP...2 Dec 2025 — The transition from “UFO” to “UAP” signifies a shift toward sc...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: space.com  
+   Title: nasa ufo uap study team first results revealed  
+   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>

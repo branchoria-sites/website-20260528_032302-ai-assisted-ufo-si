@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:39:40'
 parent_title: Could the Camera Be Creating the UFO? | Review
 parent_permalink: /sensor-errors/
 parent_nav_short_title: Sensor Errors
+parent_heading_title: Could the Camera Be Creating the UFO?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Review | Can AI Help Explain UFO Sightings?
   permalink: /review/
   short_title: Review
+  heading_title: Who Checks the AI UFO Verdict?
 - basename: AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e
   title: Sensor Errors | Review
   permalink: /sensor-errors/
   short_title: Sensor Errors
+  heading_title: Could the Camera Be Creating the UFO?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,38 +231,46 @@ breadcrumb_links:
   title: Review | Can AI Help Explain UFO Sightings?
   permalink: /review/
   short_title: Review
+  heading_title: Who Checks the AI UFO Verdict?
 - basename: AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e
   title: Sensor Errors | Review
   permalink: /sensor-errors/
   short_title: Sensor Errors
+  heading_title: Could the Camera Be Creating the UFO?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29
   title: False Motion | Sensor Errors
   permalink: /false-motion/
   short_title: False Motion
+  heading_title: Can camera software fake impossible UFO movement?
 - basename: AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651
   title: IR Glare | Sensor Errors
   permalink: /ir-glare/
   short_title: IR Glare
+  heading_title: Are rotating UFO shapes just infrared camera glare?
 up_link:
   basename: AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e
   title: Sensor Errors | Review
   permalink: /sensor-errors/
   short_title: Sensor Errors
+  heading_title: Could the Camera Be Creating the UFO?
 prev_link:
   basename: AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29
   title: False Motion | Sensor Errors
   permalink: /false-motion/
   short_title: False Motion
+  heading_title: Can camera software fake impossible UFO movement?
 next_link:
   basename: AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651
   title: IR Glare | Sensor Errors
   permalink: /ir-glare/
   short_title: IR Glare
+  heading_title: Are rotating UFO shapes just infrared camera glare?
+date: '2026-06-08 23:20:37 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18b
 Triangle-shaped “UFOs” filmed at night often look persuasive because the [geometry]({{ 'geometry/' | relative_url }}) appears too precise to be random blur. In many cases, however, the triangle is not the object in the sky at all. It is the shape of the camera’s own aperture being projected onto an out-of-focus light source. When autofocus struggles in darkness, distant [aircraft]({{ 'aircraft/' | relative_url }}) lights, stars or planets can turn into glowing pyramids, diamonds or polygons that appear structured and artificial.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-light.svg" | relative_url }}" alt="Focus Blur illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-dark.svg" | relative_url }}" alt="Focus Blur illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because modern case analysis increasingly depends on [smartphone]({{ 'phone-cameras/' | relative_url }}) clips, zoomed digital footage and automated image review. If investigators do not first determine whether a camera was out of focus, both humans and AI systems can mistake a common optical artefact for a structured craft. NASA’s UAP study warned that poor sensor [calibration]({{ 'calibration/' | relative_url }}) and missing metadata already hamper reliable analysis of unusual aerial reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## How autofocus hunts in low light
@@ -353,7 +363,7 @@ In many clips, the object changes shape as autofocus hunts. A triangle may brief
 That behaviour strongly suggests an optical origin.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-light.svg" | relative_url }}" alt="Focus Blur illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-dark.svg" | relative_url }}" alt="Focus Blur illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Recreate the effect experimentally
 
 One of the strongest investigative methods is controlled recreation. Investigators can:
@@ -416,7 +426,7 @@ Some newer AI photography systems can also hallucinate detail during enhancement
 For UFO investigation workflows, this means the original file matters enormously. Screen recordings, reposted clips and compressed uploads can destroy the evidence needed to identify autofocus artefacts.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-light.svg" | relative_url }}" alt="Focus Blur illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-dark.svg" | relative_url }}" alt="Focus Blur illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI systems can misclassify triangle artefacts
 
 Machine-learning systems trained on visual anomalies can accidentally learn the wrong lesson from blurred footage.
@@ -457,140 +467,6 @@ For example:
 This layered approach is more useful than binary thinking because it preserves uncertainty honestly while removing unsupported visual claims.
 
 In AI-assisted UFO investigation, autofocus artefacts are therefore not merely photography trivia. They are one of the most important early filters separating genuine unknowns from camera-generated illusions.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
-   Published: September 13, 2023  
-
-2. <a id="endnote-2"></a>
-   Source: luminous-landscape.com  
-   Link: [https://luminous-landscape.com/bokeh/](https://luminous-landscape.com/bokeh/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luminous LandscapebokehFor a triangular aperture we no longer see a circle of confusion, but rather a triangle of confusion. Figure 2 ill...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Bokeh](https://en.wikipedia.org/wiki/Bokeh)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BokehIn photography, bokeh is the aesthetic quality of the blur produced in out-of-focus parts of an image, whether foreground or back...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: Wikipedia  
-   Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
-
-5. <a id="endnote-5"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2111.12971](https://arxiv.org/abs/2111.12971)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNatural &amp; Adversarial Bokeh Rendering via Circle-of-Confusion Predictive NetworkNovember 25, 2021...</p></details>
-   Published: November 25, 2021  
-
-6. <a id="endnote-6"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Camera](https://en.wikipedia.org/wiki/Camera)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CameraA camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemi...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: luminous-landscape.com  
-   Link: [https://luminous-landscape.com/rediscover-understanding-bokeh/](https://luminous-landscape.com/rediscover-understanding-bokeh/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Bokeh11 Jul 2018 — Boke, the quality of the out-of-focus image, is determined by the set of brushes: the circles of confusi...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The scientific study of Unidentified Anomalous Phenomena (UAP) is severely hindered by inadequate data collec...</p></details>
-   Published: May 2025  
-
-9. <a id="endnote-9"></a>
-   Source: youtube.com  
-   Title: Mick West  
-   Link: [https://www.youtube.com/watch?v=-r2oaQWmqkk](https://www.youtube.com/watch?v=-r2oaQWmqkk)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donut UFO - Quick Explanation - It&#x27;s Bokeh...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: bhphotovideo.com  
-   Title: understanding bokeh  
-   Link: [https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>B&amp;H Photo VideoUnderstanding Bokeh | B&amp;H eXploraJul 28, 2021 — Therefore, for example, a lens with five aperture blades will produce, som...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: digitalcameraworld.com  
-   Link: [https://www.digitalcameraworld.com/photography/photo-technique/i-made-these-fun-custom-bokeh-shapes-for-my-christmas-photography-on-a-shoestring-budget](https://www.digitalcameraworld.com/photography/photo-technique/i-made-these-fun-custom-bokeh-shapes-for-my-christmas-photography-on-a-shoestring-budget)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bokeh, aesthetically pleasing out-of-focus light points, take on the shape of the camera’s aperture—thus, by creating DIY templates, phot...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: foxla.com  
-   Link: [https://www.foxla.com/news/pentagon-confirms-recently-released-video-of-pyramid-shaped-ufos-near-san-diego-is-authentic](https://www.foxla.com/news/pentagon-confirms-recently-released-video-of-pyramid-shaped-ufos-near-san-diego-is-authentic)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RELATED: Pyramid-shaped UFOs...Read more...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vuSeV0N2QRw](https://www.youtube.com/watch?v=vuSeV0N2QRw)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOKEH and out of focus blur - Episode 4.3What causes the shape of the Bokeh (aesthetic quality of out of focus blur) in your photographs?...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: jessops.com  
-   Link: [https://www.jessops.com/cameras?srsltid=AfmBOoptY4fXwG7EMKnuDheMLBxrrwlTjeErQ2TaccWiOU3ioeavo5pM](https://www.jessops.com/cameras?srsltid=AfmBOoptY4fXwG7EMKnuDheMLBxrrwlTjeErQ2TaccWiOU3ioeavo5pM)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras | Digital CamerasDiscover a range digital cameras, spanning Action, Compact, DSLR, and more, all available at Jessops. Order your...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: digitalcameraworld.com  
-   Link: [https://www.digitalcameraworld.com/uk](https://www.digitalcameraworld.com/uk)  
-
-### Additional References
-
-16. <a id="endnote-16"></a>
-   Source: progradedigital.com  
-   Link: [https://progradedigital.com/mastering-bokeh-in-photography/](https://progradedigital.com/mastering-bokeh-in-photography/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Bokeh in PhotographyBokeh describes the subjective quality of the blur, the shape, size, and softness of the areas, and how ple...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: parkcameras.com  
-   Link: [https://www.parkcameras.com/](https://www.parkcameras.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Park Cameras | Digital Cameras, DSLRs, Lenses, Video &amp; MoreShop online for digital cameras, DSLR cameras, lenses and all photographic acc...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: canon.co.uk  
-   Link: [https://www.canon.co.uk/store/cameras/](https://www.canon.co.uk/store/cameras/)  
-
-19. <a id="endnote-19"></a>
-   Source: currys.co.uk  
-   Link: [https://www.currys.co.uk/cameras](https://www.currys.co.uk/cameras)  
-
-20. <a id="endnote-20"></a>
-   Source: zhihu.com  
-   Link: [https://www.zhihu.com/en/answer/3211845828](https://www.zhihu.com/en/answer/3211845828)  
-
-21. <a id="endnote-21"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=iTvm_xDVaDI](https://www.youtube.com/watch?v=iTvm_xDVaDI)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon confirms UFO video is real, taken by Navy pilotA pyramid-shaped object seen flying through the sky has been... Pentagon confirm...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: argos.co.uk  
-   Link: [https://www.argos.co.uk/browse/technology/cameras/c%3A30168/](https://www.argos.co.uk/browse/technology/cameras/c%3A30168/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CamerasShop our range of Digital &amp; Disposable cameras including Action, Compact, DSLR &amp; more at Argos. Order online today for fast home d...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: meritalk.com  
-   Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: nevadacurrent.com  
-   Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: thedebrief.org  
-   Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -706,75 +582,71 @@ In AI-assisted UFO investigation, autofocus artefacts are therefore not merely p
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK"><img src="{{ '/assets/images/marketplace-covers/7d06cc1db4091aaf2e1b.jpg' | relative_url }}" alt="Listing image for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote"><img src="{{ '/assets/images/marketplace-covers/8e280b141b838bd28676.jpg' | relative_url }}" alt="Listing image for 53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">53&quot; 136cm Travel Tripod For Phone Camera 1/4&quot; Screw Mount Carry Bag &amp; Remote</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR"><img src="{{ '/assets/images/marketplace-covers/4ce21c9f5f416ffe6ebc.jpg' | relative_url }}" alt="Listing image for Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Pro Tripod Stand Mount For Digital Camera Camcorder Phone Holder iPhone DSLR SLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-blur-why-blurry-lights-become-triangle-ufos-on-camera-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -832,10 +704,10 @@ In AI-assisted UFO investigation, autofocus artefacts are therefore not merely p
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -983,3 +855,137 @@ In AI-assisted UFO investigation, autofocus artefacts are therefore not merely p
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Title: Science Independent Study Team Report  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Published: September 13, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: luminous-landscape.com  
+   Link: [https://luminous-landscape.com/bokeh/](https://luminous-landscape.com/bokeh/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luminous LandscapebokehFor a triangular aperture we no longer see a circle of confusion, but rather a triangle of confusion. Figure 2 ill...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Bokeh](https://en.wikipedia.org/wiki/Bokeh)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BokehIn photography, bokeh is the aesthetic quality of the blur produced in out-of-focus parts of an image, whether foreground or back...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Pentagon UFO videos  
+   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+
+5. <a id="endnote-5"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2111.12971](https://arxiv.org/abs/2111.12971)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNatural &amp; Adversarial Bokeh Rendering via Circle-of-Confusion Predictive NetworkNovember 25, 2021...</p></details>
+   Published: November 25, 2021  
+
+6. <a id="endnote-6"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Camera](https://en.wikipedia.org/wiki/Camera)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>CameraA camera is an instrument used to capture and store images and videos, either digitally via an electronic image sensor, or chemi...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: luminous-landscape.com  
+   Link: [https://luminous-landscape.com/rediscover-understanding-bokeh/](https://luminous-landscape.com/rediscover-understanding-bokeh/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Bokeh11 Jul 2018 — Boke, the quality of the out-of-focus image, is determined by the set of brushes: the circles of confusi...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 — The scientific study of Unidentified Anomalous Phenomena (UAP) is severely hindered by inadequate data collec...</p></details>
+   Published: May 2025  
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Title: Mick West  
+   Link: [https://www.youtube.com/watch?v=-r2oaQWmqkk](https://www.youtube.com/watch?v=-r2oaQWmqkk)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donut UFO - Quick Explanation - It&#x27;s Bokeh...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: bhphotovideo.com  
+   Title: understanding bokeh  
+   Link: [https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh](https://www.bhphotovideo.com/explora/photography/tips-and-solutions/understanding-bokeh)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>B&amp;H Photo VideoUnderstanding Bokeh | B&amp;H eXploraJul 28, 2021 — Therefore, for example, a lens with five aperture blades will produce, som...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: digitalcameraworld.com  
+   Link: [https://www.digitalcameraworld.com/photography/photo-technique/i-made-these-fun-custom-bokeh-shapes-for-my-christmas-photography-on-a-shoestring-budget](https://www.digitalcameraworld.com/photography/photo-technique/i-made-these-fun-custom-bokeh-shapes-for-my-christmas-photography-on-a-shoestring-budget)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bokeh, aesthetically pleasing out-of-focus light points, take on the shape of the camera’s aperture—thus, by creating DIY templates, phot...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: foxla.com  
+   Link: [https://www.foxla.com/news/pentagon-confirms-recently-released-video-of-pyramid-shaped-ufos-near-san-diego-is-authentic](https://www.foxla.com/news/pentagon-confirms-recently-released-video-of-pyramid-shaped-ufos-near-san-diego-is-authentic)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RELATED: Pyramid-shaped UFOs...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=vuSeV0N2QRw](https://www.youtube.com/watch?v=vuSeV0N2QRw)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOKEH and out of focus blur - Episode 4.3What causes the shape of the Bokeh (aesthetic quality of out of focus blur) in your photographs?...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: jessops.com  
+   Link: [https://www.jessops.com/cameras?srsltid=AfmBOoptY4fXwG7EMKnuDheMLBxrrwlTjeErQ2TaccWiOU3ioeavo5pM](https://www.jessops.com/cameras?srsltid=AfmBOoptY4fXwG7EMKnuDheMLBxrrwlTjeErQ2TaccWiOU3ioeavo5pM)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cameras | Digital CamerasDiscover a range digital cameras, spanning Action, Compact, DSLR, and more, all available at Jessops. Order your...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: digitalcameraworld.com  
+   Link: [https://www.digitalcameraworld.com/uk](https://www.digitalcameraworld.com/uk)  
+
+### Additional References
+
+16. <a id="endnote-16"></a>
+   Source: progradedigital.com  
+   Link: [https://progradedigital.com/mastering-bokeh-in-photography/](https://progradedigital.com/mastering-bokeh-in-photography/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mastering Bokeh in PhotographyBokeh describes the subjective quality of the blur, the shape, size, and softness of the areas, and how ple...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: parkcameras.com  
+   Link: [https://www.parkcameras.com/](https://www.parkcameras.com/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Park Cameras | Digital Cameras, DSLRs, Lenses, Video &amp; MoreShop online for digital cameras, DSLR cameras, lenses and all photographic acc...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: canon.co.uk  
+   Link: [https://www.canon.co.uk/store/cameras/](https://www.canon.co.uk/store/cameras/)  
+
+19. <a id="endnote-19"></a>
+   Source: currys.co.uk  
+   Link: [https://www.currys.co.uk/cameras](https://www.currys.co.uk/cameras)  
+
+20. <a id="endnote-20"></a>
+   Source: zhihu.com  
+   Link: [https://www.zhihu.com/en/answer/3211845828](https://www.zhihu.com/en/answer/3211845828)  
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=iTvm_xDVaDI](https://www.youtube.com/watch?v=iTvm_xDVaDI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon confirms UFO video is real, taken by Navy pilotA pyramid-shaped object seen flying through the sky has been... Pentagon confirm...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: argos.co.uk  
+   Link: [https://www.argos.co.uk/browse/technology/cameras/c%3A30168/](https://www.argos.co.uk/browse/technology/cameras/c%3A30168/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>CamerasShop our range of Digital &amp; Disposable cameras including Action, Compact, DSLR &amp; more at Argos. Order online today for fast home d...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: meritalk.com  
+   Title: nasa urged to take more permanent role in uap research effort  
+   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: nevadacurrent.com  
+   Title: nasa report finds no evidence that ufos are extraterrestrial  
+   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: thedebrief.org  
+   Title: nasas unidentified anomalous phenomena report key takeaways  
+   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>

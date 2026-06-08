@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 11:18:30'
 parent_title: What Makes a UFO Report Investigable? | UFO Case AI
 parent_permalink: /case-file/
 parent_nav_short_title: Case File
+parent_heading_title: What Makes a UFO Report Investigable?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,50 +229,61 @@ breadcrumb_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507
   title: Case status | Case File
   permalink: /case-status/
   short_title: Case status
+  heading_title: Unresolved does not mean alien
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2
   title: First account | Case File
   permalink: /first-account/
   short_title: First account
+  heading_title: Why the first UFO account matters most
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d
   title: Geometry | Case File
   permalink: /geometry/
   short_title: Geometry
+  heading_title: Where in the sky was the object?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2
   title: Media files | Case File
   permalink: /media-files/
   short_title: Media files
+  heading_title: What does a UFO video really prove?
 child_links:
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_exif_phone_cl_480970
   title: EXIF timing | Timeline
   permalink: /exif-timing/
   short_title: EXIF timing
+  heading_title: Can phone metadata prove the sighting time?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02
   title: False precision | Timeline
   permalink: /false-precision/
   short_title: False precision
+  heading_title: When AI makes uncertain UFO times look exact
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af
   title: Timing anchors | Timeline
   permalink: /timing-anchors/
   short_title: Timing anchors
+  heading_title: Small digital clues that fix a UFO timeline
 up_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 prev_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2
   title: Media files | Case File
   permalink: /media-files/
   short_title: Media files
+  heading_title: What does a UFO video really prove?
+date: '2026-06-08 23:04:16 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -279,7 +291,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e0
 A UFO sighting cannot be tested properly unless investigators can place it inside a reliable time window. Even a difference of ten or fifteen minutes can change whether a bright object matches Venus, an [aircraft]({{ 'aircraft/' | relative_url }}) approach path, a Starlink train, a military exercise, a meteor shower or nothing obvious at all. Time is the anchor that allows every other comparison step to happen.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-light.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That sounds simple, but witness timing is often uncertain. People remember “around 9pm”, confuse the start and end of an event, misread clocks under stress, or later reconstruct details from memory after discussing the sighting with others. Phone videos may carry incorrect metadata if the device clock was wrong or the file was re-exported. Public reporting databases such as the National UFO Reporting Center explicitly ask whether the reported date and time are approximate because timing uncertainty is common and materially affects investigation quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORCUFO Sighting Report Form | NUFORCEnter any additional clarification on the date/ time. Do not enter craft description or location h...</span></span></span>
 
 For AI-assisted UFO sighting investigation, the goal is not to force vague memories into false precision. The goal is to reconstruct the narrowest defensible timeline, preserve uncertainty openly, and make every timing assumption testable against external records.
@@ -359,7 +371,7 @@ These indirect anchors are valuable because they reduce retrospective reconstruc
 For example, a witness may initially report a sighting at “about 10pm”, but later discover they texted a friend saying “look outside now” at 21:43. That immediately narrows the test window.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TlB-vGW-xLQ" title="how to CORRECTLY read logs as a Cybersecurity SOC Analyst" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TlB-vGW-xLQ" target="_blank" rel="noopener noreferrer">how to CORRECTLY read logs as a Cybersecurity SOC Analyst</a></p><p class="youtube-embed-meta">Channel: Tech with Jono</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TlB-vGW-xLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TlB-vGW-xLQ">Open on YouTube</a></p></div></div></div>
 
 ### Environmental data can confirm or contradict timing claims
 
@@ -423,7 +435,7 @@ This matters because automated systems can otherwise create misleading correlati
 Imagine a satellite pass occurred at 21:14. If the witness estimate was actually uncertain by ±15 minutes, the apparent match may be weak rather than strong. Preserving uncertainty stops AI systems from overstating confidence.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-light.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use contradiction checks instead of single-source certainty
 
 A robust workflow actively looks for conflicts between timing sources.
@@ -441,9 +453,6 @@ Contradictions do not automatically mean deception. They often reveal normal hum
 ## Recording phases, gaps and disappearance claims
 
 Many UFO reports contain phrases such as “it vanished instantly”, “it blinked out” or “it disappeared”. Timeline reconstruction should treat these as claims requiring phase analysis rather than immediate conclusions.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TlB-vGW-xLQ" title="how to CORRECTLY read logs as a Cybersecurity SOC Analyst" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TlB-vGW-xLQ" target="_blank" rel="noopener noreferrer">how to CORRECTLY read logs as a Cybersecurity SOC Analyst</a></p><p class="youtube-embed-meta">Channel: Tech with Jono</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TlB-vGW-xLQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TlB-vGW-xLQ">Open on YouTube</a></p></div></div></div>
 
 ### A disappearance may be observational rather than physical
 
@@ -493,7 +502,7 @@ AI-assisted systems should therefore model:
 These distinctions are more important than dramatic narrative phrasing.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-light.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI should keep uncertainty visible
 
 AI systems are good at structuring messy reports, but they are also good at creating an illusion of certainty. That is dangerous in UFO investigation because many cases already begin with incomplete information.
@@ -562,161 +571,6 @@ A strong timeline entry may look like this:
 That format does not sensationalise the event. It makes the case testable.
 
 And that is the real purpose of timeline reconstruction in AI-assisted UFO sighting investigation: not proving extraordinary claims, but reducing ambiguity enough that ordinary and unusual explanations can both be evaluated against the same transparent record.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: nuforc.org  
-   Link: [https://nuforc.org/reportform/](https://nuforc.org/reportform/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCUFO Sighting Report Form | NUFORCEnter any additional clarification on the date/ time. Do not enter craft description or location h...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: nuforc.org  
-   Link: [https://nuforc.org/reportform-wp/](https://nuforc.org/reportform-wp/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>te, enter your best guess and check this box. Duration *.Read more...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor [calibration](&amp;#123;&amp;#123; &#x27;calibration/&#x27; | relative_url &amp;#125;&amp;#125;), the lack of multiple me...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Case Resolution Reports · UAP Reporting T...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: war.gov  
-   Title: dod working to better understand resolve anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — A large number of cases remain technically unresolv...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: war.gov  
-   Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous PhenomenaNov 14, 2024 — &quot;AARO has successfully resolved hundreds of cases in its ho...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: nuforc.org  
-   Link: [https://nuforc.org/madar/](https://nuforc.org/madar/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MADAR Report Form | NUFORCSighting Date / Time * · Duration * · Sighting Location * · Sighting Details * · Madar Node Number · Name * · E...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: nuforc.org  
-   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: nuforc.org  
-   Title: 1039 new reports posted  
-   Link: [https://nuforc.org/1039-new-reports-posted/](https://nuforc.org/1039-new-reports-posted/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC6 Mar 2022 — Our hope is to be able to update the report database in the future on an approximately weekly basis. NEW FORMAT FOR TH...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: nuforc.org  
-   Title: Browse reports, images, videos, maps and more  
-   Link: [https://nuforc.org/](https://nuforc.org/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: nasa.gov  
-   Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: medium.com  
-   Link: [https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3](https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA and the rest of the world.Read more...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: medium.com  
-   Link: [https://medium.com/%40Dr_nabil_ebraheim/missing-the-zeitoun-data-are-we-studying-unexplained-aerial-phenomena-with-incomplete-data-7daadf8a44ed](https://medium.com/%40Dr_nabil_ebraheim/missing-the-zeitoun-data-are-we-studying-unexplained-aerial-phenomena-with-incomplete-data-7daadf8a44ed)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing the Zeitoun Data: Are We Studying Unexplained...NASA has noted that without an extensive set of data, it is very hard to verify...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: livescience.com  
-   Link: [https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts](https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: ada-nuforc-analysis.github.io  
-   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: cuny.manifoldapp.org  
-   Title: national ufo reporting center  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center2 Apr 2025 — Data Sources: Publicly submitted UFO sighting reports. Metadata for each report: location, time, duratio...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: Wikipedia  
-   Title: National UFO Reporting Center  
-   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
-
-### Additional References
-
-19. <a id="endnote-19"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) videos are “unreso...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)This vast dataset contains records of reported UFO sightings from North America, including detailed inform...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings... (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains the report content itself incl...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: cs.ubc.ca  
-   Link: [https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf](https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Want to Believe: A Visualization of UFO Siting Reportsby TSH Guillou — NUFORC sighting reports through simple descriptives such as report...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: github.com  
-   Link: [https://github.com/planetsig/ufo-reports](https://github.com/planetsig/ufo-reports)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>planetsig/ufo-reportsBasically the locations needed to be geocoded and the duration time normalized to seconds. Full acknowledgement to t...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FacePossibly simiar fast moving object seen and reported to ufocenter on April 26, 2021. Seen second...</p></details>
-   Published: April 26, 2021  
-
-25. <a id="endnote-25"></a>
-   Source: nature.com  
-   Title: The documentation, covering all reports, is organized  
-   Link: [https://www.nature.com/articles/s41599-024-04182-z](https://www.nature.com/articles/s41599-024-04182-z)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — Each report (observation) includes date, ti...</p></details>
-
-26. <a id="endnote-26"></a>
-   Source: facebook.com  
-   Title: in 2026 unidentified aerial phenomena have become a serious topic within officia  
-   Link: [https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/](https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2026, unidentified aerial phenomena have become a...While many reported objects have been explained as drones, balloons, or sensor er...</p></details>
-
-27. <a id="endnote-27"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...AARO has failed to resolve some incidents, but it&#x27;s not because something is inexplic...</p></details>
-
-28. <a id="endnote-28"></a>
-   Source: skyandtelescope.org  
-   Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/](https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -832,75 +686,71 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-e3b338-can-the-sighting-time-actually-be-tested-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -958,10 +808,10 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1109,3 +959,158 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/reportform/](https://nuforc.org/reportform/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCUFO Sighting Report Form | NUFORCEnter any additional clarification on the date/ time. Do not enter craft description or location h...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/reportform-wp/](https://nuforc.org/reportform-wp/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>te, enter your best guess and check this box. Duration *.Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor [calibration](&amp;#123;&amp;#123; &#x27;calibration/&#x27; | relative_url &amp;#125;&amp;#125;), the lack of multiple me...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryThe official website for the All-domain Anomaly Resolution Office (AARO)... UAP Case Resolution Reports · UAP Reporting T...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: war.gov  
+   Title: dod working to better understand resolve anomalous phenomena  
+   Link: [https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3368109/dod-working-to-better-understand-resolve-anomalous-phenomena/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Working to Better Understand, Resolve Anomalous...19 Apr 2023 — A large number of cases remain technically unresolv...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: war.gov  
+   Title: dod examining unidentified anomalous phenomena  
+   Link: [https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous PhenomenaNov 14, 2024 — &quot;AARO has successfully resolved hundreds of cases in its ho...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/madar/](https://nuforc.org/madar/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MADAR Report Form | NUFORCSighting Date / Time * · Duration * · Sighting Location * · Sighting Details * · Madar Node Number · Name * · E...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/report-a-ufo/](https://nuforc.org/report-a-ufo/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>agency for reporting UFO/UAP related events...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: nuforc.org  
+   Title: 1039 new reports posted  
+   Link: [https://nuforc.org/1039-new-reports-posted/](https://nuforc.org/1039-new-reports-posted/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC6 Mar 2022 — Our hope is to be able to update the report database in the future on an approximately weekly basis. NEW FORMAT FOR TH...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: nuforc.org  
+   Title: Browse reports, images, videos, maps and more  
+   Link: [https://nuforc.org/](https://nuforc.org/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting Center | Report a UFO | Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: nasa.gov  
+   Title: nasa to release discuss unidentified anomalous phenomena report  
+   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: medium.com  
+   Link: [https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3](https://medium.com/data-science/are-we-alone-in-the-universe-data-analysis-and-data-visualization-of-ufo-sightings-with-r-42d0798679c3)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>USA and the rest of the world.Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: medium.com  
+   Link: [https://medium.com/%40Dr_nabil_ebraheim/missing-the-zeitoun-data-are-we-studying-unexplained-aerial-phenomena-with-incomplete-data-7daadf8a44ed](https://medium.com/%40Dr_nabil_ebraheim/missing-the-zeitoun-data-are-we-studying-unexplained-aerial-phenomena-with-incomplete-data-7daadf8a44ed)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing the Zeitoun Data: Are We Studying Unexplained...NASA has noted that without an extensive set of data, it is very hard to verify...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: livescience.com  
+   Link: [https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts](https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense released a second batch of UFO-related files, bringing the total number of newly declassified documents to 162. Spa...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: ada-nuforc-analysis.github.io  
+   Link: [https://ada-nuforc-analysis.github.io/](https://ada-nuforc-analysis.github.io/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Report AnalysisThe NUFORC checks each reports for fakes or hoax and comments them accordingly. The reports are classified by their...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: cuny.manifoldapp.org  
+   Title: national ufo reporting center  
+   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Reporting Center2 Apr 2025 — Data Sources: Publicly submitted UFO sighting reports. Metadata for each report: location, time, duratio...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: Wikipedia  
+   Title: National UFO Reporting Center  
+   Link: [https://en.wikipedia.org/wiki/National_UFO_Reporting_Center](https://en.wikipedia.org/wiki/National_UFO_Reporting_Center)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National UFO Reporting CenterThe National UFO Reporting Center (NUFORC) is a non-governmental, non-profit corporation registered in Wa...</p></details>
+
+### Additional References
+
+19. <a id="endnote-19"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: kaggle.com  
+   Link: [https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings](https://www.kaggle.com/datasets/thedevastator/uncovering-mysterious-unexplained-ufo-sightings)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings (Location &amp; Time)This vast dataset contains records of reported UFO sightings from North America, including detailed inform...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: kaggle.com  
+   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings... (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains the report content itself incl...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: cs.ubc.ca  
+   Link: [https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf](https://www.cs.ubc.ca/~tmm/courses/547-17F/projects/hayley-theodore/report.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Want to Believe: A Visualization of UFO Siting Reportsby TSH Guillou — NUFORC sighting reports through simple descriptives such as report...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: github.com  
+   Link: [https://github.com/planetsig/ufo-reports](https://github.com/planetsig/ufo-reports)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>planetsig/ufo-reportsBasically the locations needed to be geocoded and the duration time normalized to seconds. Full acknowledgement to t...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: huggingface.co  
+   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FacePossibly simiar fast moving object seen and reported to ufocenter on April 26, 2021. Seen second...</p></details>
+   Published: April 26, 2021  
+
+25. <a id="endnote-25"></a>
+   Source: nature.com  
+   Title: The documentation, covering all reports, is organized  
+   Link: [https://www.nature.com/articles/s41599-024-04182-z](https://www.nature.com/articles/s41599-024-04182-z)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Looking up the sky: unidentified aerial phenomena and...by N Goldstein · 2024 · Cited by 1 — Each report (observation) includes date, ti...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: facebook.com  
+   Title: in 2026 unidentified aerial phenomena have become a serious topic within officia  
+   Link: [https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/](https://www.facebook.com/OrbitalInsights/posts/in-2026-unidentified-aerial-phenomena-have-become-a-serious-topic-within-officia/1284647860534502/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 2026, unidentified aerial phenomena have become a...While many reported objects have been explained as drones, balloons, or sensor er...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...AARO has failed to resolve some incidents, but it&#x27;s not because something is inexplic...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: skyandtelescope.org  
+   Title: nasa finds no evidence ufos are extraterrestrial promises further study  
+   Link: [https://skyandtelescope.org/[astronomy](https://skyandtelescope.org/[astronomy)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>

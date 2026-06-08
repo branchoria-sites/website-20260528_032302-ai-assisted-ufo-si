@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 10:53:36'
 parent_title: How Certain Can a UFO Explanation Be? | UFO Case AI
 parent_permalink: /confidence/
 parent_nav_short_title: Confidence
+parent_heading_title: How Certain Can a UFO Explanation Be?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Confidence | Can AI Help Explain UFO Sightings?
   permalink: /confidence/
   short_title: Confidence
+  heading_title: How Certain Can a UFO Explanation Be?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,55 +229,67 @@ breadcrumb_links:
   title: Confidence | Can AI Help Explain UFO Sightings?
   permalink: /confidence/
   short_title: Confidence
+  heading_title: How Certain Can a UFO Explanation Be?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3
   title: Calibration | Confidence
   permalink: /calibration/
   short_title: Calibration
+  heading_title: Why '91 Percent Certain' Can Mislead UFO Readers
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0
   title: Case Labels | Confidence
   permalink: /case-labels/
   short_title: Case Labels
+  heading_title: Why UFO Status Labels Matter More Than Verdicts
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5
   title: Fit Scores | Confidence
   permalink: /fit-scores/
   short_title: Fit Scores
+  heading_title: How Competing UFO Explanations Can Both Fit
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3
   title: NASA AARO | Confidence
   permalink: /nasa-aaro/
   short_title: NASA AARO
+  heading_title: Why Official UFO Cases Sometimes Stay Unresolved
 child_links:
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356
   title: Chain Custody | Evidence Grades
   permalink: /chain-custody/
   short_title: Chain Custody
+  heading_title: Can Investigators Trust a UFO File's History?
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71
   title: Sensor Data | Evidence Grades
   permalink: /sensor-data/
   short_title: Sensor Data
+  heading_title: Why Multi Sensor UFO Cases Carry More Weight
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae
   title: Source Files | Evidence Grades
   permalink: /source-files/
   short_title: Source Files
+  heading_title: Why Viral UFO Clips Lose Their Investigative Value
 up_link:
   basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6
   title: Confidence | Can AI Help Explain UFO Sightings?
   permalink: /confidence/
   short_title: Confidence
+  heading_title: How Certain Can a UFO Explanation Be?
 prev_link:
   basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0
   title: Case Labels | Confidence
   permalink: /case-labels/
   short_title: Case Labels
+  heading_title: Why UFO Status Labels Matter More Than Verdicts
 next_link:
   basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5
   title: Fit Scores | Confidence
   permalink: /fit-scores/
   short_title: Fit Scores
+  heading_title: How Competing UFO Explanations Can Both Fit
+date: '2026-06-08 22:44:32 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -284,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b
 A UFO sighting can look persuasive long before it becomes reliable evidence. A sharp-looking video, a confident witness, or an AI system that finds a “match” against aircraft, satellites, or drones can create a false sense of certainty when key facts are missing. In practice, many investigations fail not because the object is impossible to identify, but because the [original evidence]({{ 'original-evidence/' | relative_url }}) lacks enough context to test explanations properly.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-light.svg" | relative_url }}" alt="Evidence Grades illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Grades illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That is why modern AI-assisted UFO investigation increasingly separates two different questions: “What explanation fits?” and “How trustworthy is the underlying evidence?” A weak clip can still resemble a balloon, aircraft, or drone. Equally, a dramatic-looking sighting can remain unresolved simply because the timestamp is vague, the original media file is missing, or the viewing direction cannot be reconstructed. NASA’s independent UAP study stressed that machine learning only becomes useful when supported by calibrated sensors, multiple measurements, and strong metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s UAP Independent Study Team is made up of 16 experts from diverse backgrounds in science...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s UAP Independent Study Team is made up of 16 experts from diverse backgrounds in science...</span></span></span>
 
 An evidence-quality grading system exists to stop AI from turning incomplete data into overconfident conclusions.
@@ -349,7 +362,7 @@ These weaknesses do not prove fraud. They simply reduce what AI can reliably tes
 A blurry point of light filmed against a featureless night sky may generate dozens of plausible matches because there are too few constraints. Under those conditions, an AI system can accidentally create “false precision” by ranking weak explanations as if they were strong identifications.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tdf9CCEypFk" title="The UFO Evidence I&#x27;m Taking Seriously" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer">The UFO Evidence I&#x27;m Taking Seriously</a></p><p class="youtube-embed-meta">Channel: Astrum Extra</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tdf9CCEypFk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tdf9CCEypFk">Open on YouTube</a></p></div></div></div>
 
 ## Missing metadata is where false certainty begins
 
@@ -414,7 +427,7 @@ when the honest conclusion should be:
 That distinction sounds subtle but changes the meaning entirely.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-light.svg" | relative_url }}" alt="Evidence Grades illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Grades illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A safer two-layer scoring model
 
 A balanced system typically separates:
@@ -432,7 +445,7 @@ The important point is that “unresolved” does not automatically mean mysteri
 AARO’s public case material repeatedly reflects this distinction. Some reports are resolved with high confidence as balloons or birds, while others remain unresolved because available data are incomplete or insufficient for attribution. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jbsa.mil">[Joint Base San Antonio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jbsa.mil</span><span class="citation-popover-title">dod examining unidentified anomalous phenomena</span><span class="citation-popover-snippet">Joint Base San AntonioDOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in it...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eTaltOQLVLU" title="Nasa UFO report: What we learned from UAP study - BBC News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eTaltOQLVLU" target="_blank" rel="noopener noreferrer">Nasa UFO report: What we learned from UAP study - BBC News</a></p><p class="youtube-embed-meta">Channel: BBC News</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eTaltOQLVLU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eTaltOQLVLU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/984qBh164fo" title="Current AI Models have 3 Unfixable Problems" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=984qBh164fo" target="_blank" rel="noopener noreferrer">Current AI Models have 3 Unfixable Problems</a></p><p class="youtube-embed-meta">Channel: Sabine Hossenfelder</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=984qBh164fo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=984qBh164fo">Open on YouTube</a></p></div></div></div>
 
 ## How evidence grades change conclusions
 
@@ -473,7 +486,7 @@ Many “triangle craft” reports become harder to trust once investigators disc
 Again, the problem is not necessarily deception. The issue is that poor-quality imagery allows ordinary effects to mimic extraordinary shapes.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-light.svg" | relative_url }}" alt="Evidence Grades illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Grades illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Example: unresolved military footage
 
 Some military UAP clips remain unresolved despite relatively high evidence grades because they include calibrated sensors, pilot observations, or radar context. Yet even these cases may still lack enough data for definitive identification.
@@ -505,7 +518,7 @@ In UFO work, weak custody chains create recurring problems:
 A modern AI-assisted workflow therefore benefits from assigning explicit penalties when provenance is incomplete.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Kcuz1JiMk9k" title="How Carbon Dating Works" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Kcuz1JiMk9k" target="_blank" rel="noopener noreferrer">How Carbon Dating Works</a></p><p class="youtube-embed-meta">Channel: BrainStuff - HowStuffWorks</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Kcuz1JiMk9k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Kcuz1JiMk9k">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YM-uykVfq_E" title="What is entropy? - Jeff Phillips" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YM-uykVfq_E" target="_blank" rel="noopener noreferrer">What is entropy? - Jeff Phillips</a></p><p class="youtube-embed-meta">Channel: TED-Ed</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YM-uykVfq_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YM-uykVfq_E">Open on YouTube</a></p></div></div></div>
 
 ## Why unresolved does not mean extraordinary
 
@@ -537,163 +550,6 @@ The key implementation rule is straightforward:
 A weak source may still suggest a plausible explanation, but the system should communicate uncertainty openly instead of presenting speculative matches as settled conclusions.
 
 That restraint is not a weakness in UFO analysis. It is the mechanism that keeps automated investigation from turning ambiguity into false certainty.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s UAP Independent Study Team is made up of 16 experts from diverse backgrounds in science...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: nasa.gov  
-   Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: nist.gov  
-   Link: [https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20](https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTOSAC 2022-S-0031 Standard Guide for Forensic Digital...This technique, commonly known as re-wrapping, preserves the video bitstream...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: earthsky.org  
-   Title: pentagon uap report aaro ufos  
-   Link: [https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/](https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Pentagon UAP report prompts Senate hearing today19 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resol...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: truescreen.io  
-   Title: True Screen  
-   Link: [https://truescreen.io/articles/digital-chain-of-custody-guide/](https://truescreen.io/articles/digital-chain-of-custody-guide/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>TrueScreen - Trust as a ServiceDigital [Chain of Custody](&amp;#123;&amp;#123; &#x27;chain-of-custody/&#x27; | relative_url &amp;#125;&amp;#125;): Complete Guide to Evidence...31 Mar 2026 — The digital chain of custody is the...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: redactor.com  
-   Title: chain of custody for video and audio evidence  
-   Link: [https://www.redactor.com/blog/chain-of-custody-for-video-and-audio-evidence](https://www.redactor.com/blog/chain-of-custody-for-video-and-audio-evidence)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Chain of Custody Matters for Video &amp; Audio EvidenceMar 19, 2025 — The chain of custody refers to the documented process that tracks h...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: forensisgroup.com  
-   Title: chain of custody for digital and ai generated evidence  
-   Link: [https://www.forensisgroup.com/resources/expert-legal-witness-blog/chain-of-custody-for-digital-and-ai-generated-evidence](https://www.forensisgroup.com/resources/expert-legal-witness-blog/chain-of-custody-for-digital-and-ai-generated-evidence)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for Digital and AI-Generated EvidenceMar 13, 2026 — Chain of custody refers to the documented process used to track how...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: nist.gov  
-   Title: osac 2021 s 0036standard guide image authenticationdraft osac proposed  
-   Link: [https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed](https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subcommittee of the Organization of Scientific Area Committees (OSAC)...Read more...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: pages.nist.gov  
-   Link: [https://pages.nist.gov/800-63-3/](https://pages.nist.gov/800-63-3/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SP 800-63 Digital Identity GuidelinesThe four-volume SP 800-63 Digital Identity Guidelines document suite is available in both PDF format...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: nist.gov  
-   Link: [https://www.nist.gov/document/osac-2023-n-0001-standard-practice-training-areas-video-analysis-image-analysis-and-0](https://www.nist.gov/document/osac-2023-n-0001-standard-practice-training-areas-video-analysis-image-analysis-and-0)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSAC 2023-N-0001 Standard Practice for Training in the...1.1 This practice describes the minimum criteria for training-to-competency pro...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: nvlpubs.nist.gov  
-   Title: AI.100 4  
-   Link: [https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks Posed by Synthetic Contentby N AI · 2024 · Cited by 4 — Provenance data tracking can help establish the authenticity, integrity, an...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: nist.gov  
-   Title: osac 2024 n 0011 standard guide forensic digital image management version 10  
-   Link: [https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10](https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>through hashing, integrity verification, or some other form of fixity checking.Read more...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: redactor.com  
-   Title: metadata integrity digital evidence  
-   Link: [https://www.redactor.com/blog/metadata-integrity-digital-evidence](https://www.redactor.com/blog/metadata-integrity-digital-evidence)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Metadata Integrity Is Critical in Digital Evidence Handling29 Oct 2025 — Learn why metadata integrity defines admissibility in digita...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: truescreen.io  
-   Title: digital evidence preservation standards  
-   Link: [https://truescreen.io/articles/digital-evidence-preservation-standards/](https://truescreen.io/articles/digital-evidence-preservation-standards/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Evidence Preservation: Standards Compared15 May 2026 — A file can be copied without leaving a trace, metadata can be altered, a t...</p></details>
-   Published: May 2026  
-
-17. <a id="endnote-17"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: jbsa.mil  
-   Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/](https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Base San AntonioDOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in it...</p></details>
-
-### Additional References
-
-19. <a id="endnote-19"></a>
-   Source: war.gov  
-   Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of cases in its holdings t...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;Go Fast&quot; UAP: r/UFOsWe surmise based on the information you have access to that they&#x27;re just balloons. Filled wit...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and [GoFast](&amp;#123;&amp;#123; &#x27;gofast/&#x27; | relative_url &amp;#125;&amp;#125;) videos are “unreso...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: metopedia.com  
-   Link: [https://metopedia.com/Metopedia%3ADigital_evidence_standards](https://metopedia.com/Metopedia%3ADigital_evidence_standards)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metopedia:Digital evidence standards5 days ago — When metadata is important, preserve the original file and note the tool used to inspect...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Advanced analysis techniques like machine learning have potential to help identify UAP an...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: iproov.com  
-   Link: [https://www.iproov.com/blog/nist-800-63-4-guidelines-identity-call-to-action](https://www.iproov.com/blog/nist-800-63-4-guidelines-identity-call-to-action)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST 800-63-4 Guidelines: An Identity Call To ActionIf you&#x27;re responsible for identity verification, authentication, or digital trust, th...</p></details>
-
-26. <a id="endnote-26"></a>
-   Source: nypost.com  
-   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
-
-27. <a id="endnote-27"></a>
-   Source: maryman.com  
-   Link: [https://maryman.com/screenshot-authentication-methods-to-ensure-image-validity/](https://maryman.com/screenshot-authentication-methods-to-ensure-image-validity/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshot authentication methods to ensure image validityDiscover how screenshot authentication enhances security and trust by verifying...</p></details>
-
-28. <a id="endnote-28"></a>
-   Source: swgde.org  
-   Link: [https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/](https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE - SWGDEBest Practices for Maintaining the Integrity of ImageryThis document will provide information on the issues that can affect...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -809,75 +665,71 @@ That restraint is not a weakness in UFO analysis. It is the mechanism that keeps
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=evidence-grades-why-weak-ufo-evidence-can-still-look-convincing-ai-assisted-ufo-sighting-investi-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -935,10 +787,10 @@ That restraint is not a weakness in UFO analysis. It is the mechanism that keeps
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1086,3 +938,160 @@ That restraint is not a weakness in UFO analysis. It is the mechanism that keeps
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportNASA&#x27;s UAP Independent Study Team is made up of 16 experts from diverse backgrounds in science...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: nasa.gov  
+   Title: update nasa shares uap independent study report names director  
+   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: nist.gov  
+   Link: [https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20](https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTOSAC 2022-S-0031 Standard Guide for Forensic Digital...This technique, commonly known as re-wrapping, preserves the video bitstream...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: earthsky.org  
+   Title: pentagon uap report aaro ufos  
+   Link: [https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/](https://earthsky.org/earth/pentagon-uap-report-aaro-ufos/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>New Pentagon UAP report prompts Senate hearing today19 Nov 2024 — AARO resolved 118 cases during the reporting period, all of which resol...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: truescreen.io  
+   Title: True Screen  
+   Link: [https://truescreen.io/articles/digital-chain-of-custody-guide/](https://truescreen.io/articles/digital-chain-of-custody-guide/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>TrueScreen - Trust as a ServiceDigital [Chain of Custody](&amp;#123;&amp;#123; &#x27;chain-of-custody/&#x27; | relative_url &amp;#125;&amp;#125;): Complete Guide to Evidence...31 Mar 2026 — The digital chain of custody is the...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: redactor.com  
+   Title: chain of custody for video and audio evidence  
+   Link: [https://www.redactor.com/blog/chain-of-custody-for-video-and-audio-evidence](https://www.redactor.com/blog/chain-of-custody-for-video-and-audio-evidence)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Chain of Custody Matters for Video &amp; Audio EvidenceMar 19, 2025 — The chain of custody refers to the documented process that tracks h...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: forensisgroup.com  
+   Title: chain of custody for digital and ai generated evidence  
+   Link: [https://www.forensisgroup.com/resources/expert-legal-witness-blog/chain-of-custody-for-digital-and-ai-generated-evidence](https://www.forensisgroup.com/resources/expert-legal-witness-blog/chain-of-custody-for-digital-and-ai-generated-evidence)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Chain of Custody for Digital and AI-Generated EvidenceMar 13, 2026 — Chain of custody refers to the documented process used to track how...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the following questions: What types of scientific data currently collec...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: nist.gov  
+   Title: osac 2021 s 0036standard guide image authenticationdraft osac proposed  
+   Link: [https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed](https://www.nist.gov/document/osac-2021-s-0036standard-guide-image-authenticationdraft-osac-proposed)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Subcommittee of the Organization of Scientific Area Committees (OSAC)...Read more...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: pages.nist.gov  
+   Link: [https://pages.nist.gov/800-63-3/](https://pages.nist.gov/800-63-3/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SP 800-63 Digital Identity GuidelinesThe four-volume SP 800-63 Digital Identity Guidelines document suite is available in both PDF format...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: nist.gov  
+   Link: [https://www.nist.gov/document/osac-2023-n-0001-standard-practice-training-areas-video-analysis-image-analysis-and-0](https://www.nist.gov/document/osac-2023-n-0001-standard-practice-training-areas-video-analysis-image-analysis-and-0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OSAC 2023-N-0001 Standard Practice for Training in the...1.1 This practice describes the minimum criteria for training-to-competency pro...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: nvlpubs.nist.gov  
+   Title: AI.100 4  
+   Link: [https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-4.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Risks Posed by Synthetic Contentby N AI · 2024 · Cited by 4 — Provenance data tracking can help establish the authenticity, integrity, an...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: nist.gov  
+   Title: osac 2024 n 0011 standard guide forensic digital image management version 10  
+   Link: [https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10](https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>through hashing, integrity verification, or some other form of fixity checking.Read more...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: redactor.com  
+   Title: metadata integrity digital evidence  
+   Link: [https://www.redactor.com/blog/metadata-integrity-digital-evidence](https://www.redactor.com/blog/metadata-integrity-digital-evidence)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Metadata Integrity Is Critical in Digital Evidence Handling29 Oct 2025 — Learn why metadata integrity defines admissibility in digita...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: truescreen.io  
+   Title: digital evidence preservation standards  
+   Link: [https://truescreen.io/articles/digital-evidence-preservation-standards/](https://truescreen.io/articles/digital-evidence-preservation-standards/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Evidence Preservation: Standards Compared15 May 2026 — A file can be copied without leaving a trace, metadata can be altered, a t...</p></details>
+   Published: May 2026  
+
+17. <a id="endnote-17"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: jbsa.mil  
+   Title: dod examining unidentified anomalous phenomena  
+   Link: [https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/](https://www.jbsa.mil/News/News/Article/3966080/dod-examining-unidentified-anomalous-phenomena/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joint Base San AntonioDOD examining unidentified anomalous phenomena15 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in it...</p></details>
+
+### Additional References
+
+19. <a id="endnote-19"></a>
+   Source: war.gov  
+   Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
+   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of cases in its holdings t...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has resolved the &quot;[Go Fast](&amp;#123;&amp;#123; &#x27;go-fast/&#x27; | relative_url &amp;#125;&amp;#125;)&quot; UAP: r/UFOsWe surmise based on the information you have access to that they&#x27;re just balloons. Filled wit...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...According to AARO, the FLIR (Tic Tac UAP), Gimbal, and GoFast videos are “unreso...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: metopedia.com  
+   Link: [https://metopedia.com/Metopedia%3ADigital_evidence_standards](https://metopedia.com/Metopedia%3ADigital_evidence_standards)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Metopedia:Digital evidence standards5 days ago — When metadata is important, preserve the original file and note the tool used to inspect...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Advanced analysis techniques like machine learning have potential to help identify UAP an...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: studocu.com  
+   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: iproov.com  
+   Link: [https://www.iproov.com/blog/nist-800-63-4-guidelines-identity-call-to-action](https://www.iproov.com/blog/nist-800-63-4-guidelines-identity-call-to-action)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST 800-63-4 Guidelines: An Identity Call To ActionIf you&#x27;re responsible for identity verification, authentication, or digital trust, th...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: nypost.com  
+   Link: [https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/](https://nypost.com/2024/11/14/us-news/pentagon-says-nearly-two-dozen-ufo-sightings-cant-be-explained-true-anomalies/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The &quot;all-domain anomaly resolution office&quot; (AARO) identified 21 reports as &quot;true anomalies&quot; needing further investigation. Most sightings...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: maryman.com  
+   Link: [https://maryman.com/screenshot-authentication-methods-to-ensure-image-validity/](https://maryman.com/screenshot-authentication-methods-to-ensure-image-validity/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshot authentication methods to ensure image validityDiscover how screenshot authentication enhances security and trust by verifying...</p></details>
+
+28. <a id="endnote-28"></a>
+   Source: swgde.org  
+   Link: [https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/](https://www.swgde.org/documents/published-complete-listing/17-i-001-best-practices-for-maintaining-the-integrity-of-imagery/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE - SWGDEBest Practices for Maintaining the Integrity of ImageryThis document will provide information on the issues that can affect...</p></details>

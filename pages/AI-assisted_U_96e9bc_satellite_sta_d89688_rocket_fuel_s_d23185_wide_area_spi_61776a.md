@@ -206,6 +206,7 @@ ui_strings:
 parent_title: What Causes Giant Spiral Lights In The Sky | Satellites
 parent_permalink: /rocket-spirals/
 parent_nav_short_title: Rocket Spirals
+parent_heading_title: What Causes Giant Spiral Lights In The Sky
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185
   title: Rocket Spirals | Satellites
   permalink: /rocket-spirals/
   short_title: Rocket Spirals
+  heading_title: What Causes Giant Spiral Lights In The Sky
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185
   title: Rocket Spirals | Satellites
   permalink: /rocket-spirals/
   short_title: Rocket Spirals
+  heading_title: What Causes Giant Spiral Lights In The Sky
 sibling_links:
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_march_2025_eu_eb3287
   title: Europe 2025 | Rocket Spirals
   permalink: /europe-2025/
   short_title: Europe 2025
+  heading_title: How Europe solved the blue spiral sighting
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea
   title: Exhaust spirals | Rocket Spirals
   permalink: /exhaust-spirals/
   short_title: Exhaust spirals
+  heading_title: Why rocket exhaust can look like a portal
 up_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185
   title: Rocket Spirals | Satellites
   permalink: /rocket-spirals/
   short_title: Rocket Spirals
+  heading_title: What Causes Giant Spiral Lights In The Sky
 prev_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea
   title: Exhaust spirals | Rocket Spirals
   permalink: /exhaust-spirals/
   short_title: Exhaust spirals
-date: '2026-05-28 02:55:32 '
+  heading_title: Why rocket exhaust can look like a portal
+date: '2026-06-09 00:02:24 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d2
 When hundreds of people across different cities report the same glowing spiral within minutes of each other, the geography itself becomes evidence. In UFO investigation work, that pattern usually points away from a nearby hovering object and towards a very high-altitude event such as a [rocket fuel]({{ 'rocket-spirals/' | relative_url }}) vent, upper-stage burn, or missile failure. A local [aircraft]({{ 'aircraft/' | relative_url }}), drone, or balloon cannot normally produce simultaneous sightings across entire countries. A sunlit exhaust plume at the edge of space can.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-light.svg" | relative_url }}" alt="Wide reports illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-dark.svg" | relative_url }}" alt="Wide reports illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters for AI-assisted UFO sighting investigation because wide-area witness reports are one of the fastest ways to separate regional [atmospheric]({{ 'scintillation/' | relative_url }}) or spaceflight events from genuinely local incidents. Modern [rocket spirals]({{ 'rocket-spirals/' | relative_url }}) are often visible over hundreds of kilometres, especially during twilight when observers on the ground are in darkness but high-altitude exhaust clouds remain illuminated by sunlight. The March 2025 blue spiral seen across Britain and mainland Europe demonstrated this clearly, with reports emerging almost simultaneously from multiple countries before the SpaceX launch connection became widely known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 ## How witness clusters reveal altitude scale
@@ -350,7 +359,7 @@ The 2025 European spiral produced exactly this pattern. Reports appeared almost 
 This wide-area visibility is often counterintuitive to witnesses. Many people assume that if something looks large in the sky it must also be physically nearby. Rocket spirals invert that intuition: the farther away and higher the plume is, the larger the visible footprint may become.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-light.svg" | relative_url }}" alt="Wide reports illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-dark.svg" | relative_url }}" alt="Wide reports illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using social media as a regional sensor network
 
 Social platforms have unintentionally become one of the largest real-time atmospheric event detection systems ever created.
@@ -434,7 +443,7 @@ Good investigation systems therefore separate:
 Without that filtering step, automated clustering can accidentally reinforce misinformation instead of clarifying the event.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-light.svg" | relative_url }}" alt="Wide reports illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-dark.svg" | relative_url }}" alt="Wide reports illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why mass sightings often reduce mystery rather than increase it
 
 Popular culture tends to assume that large numbers of witnesses strengthen extraordinary explanations. In many UFO investigations, the opposite is true.
@@ -458,111 +467,6 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IdPTuwKEfmA" title="How does a Thermal power plant work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IdPTuwKEfmA" target="_blank" rel="noopener noreferrer">How does a Thermal power plant work?</a></p><p class="youtube-embed-meta">Channel: Sabin Civil Engineering</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IdPTuwKEfmA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IdPTuwKEfmA">Open on YouTube</a></p></div></div></div>
 
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly](https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2009 Norwegian spiral anomalyDecember 9, 2009 — According to sources, it looked like a blue light coming from behind a mountain, stopping...</p></details>
-   Published: December 9, 2009  
-
-2. <a id="endnote-2"></a>
-   Source: researchgate.net  
-   Title: (PDF) A Peak Detection Method to Uncover Events from  
-   Link: [https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media](https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 7, 2017 — 7 Nov 2017 — The proposed method consists in two main phases: (i) extraction of space-time features from social data a...</p></details>
-   Published: November 7, 2017  
-
-3. <a id="endnote-3"></a>
-   Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket](https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: washingtonpost.com  
-   Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: [https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/](https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
-   Published: March 24, 2025  
-
-5. <a id="endnote-5"></a>
-   Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2](https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: satobs.org  
-   Link: [https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf](https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverNorway Spiral of December 9, 2009...31 Dec 2016 — Common Questions. • 1. What was it? • 2. Why did the Russians test...</p></details>
-   Published: December 9, 2009  
-
-7. <a id="endnote-7"></a>
-   Source: dongascience.com  
-   Link: [https://www.dongascience.com/en/news/70780](https://www.dongascience.com/en/news/70780)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donga ScienceMysterious Spiral in Night Sky Baffles EuropeansThe phenomenon, likened to a &#x27;wormhole&#x27; by witnesses, was the result of a Fa...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: theinternational.at  
-   Title: The International Space X Rocket Creates Spiral Light Phenomenon Over Austria  
-   Link: [https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/](https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excess fuel from a SpaceX Falcon-9 rocket created a visible spiral vortex in the sky, seen across Austria and Europe...Read more...</p></details>
-
-### Additional References
-
-9. <a id="endnote-9"></a>
-   Source: cadenaser.com  
-   Link: [https://cadenaser.com/nacional/2025/03/25/los-cielos-de-europa-se-iluminan-con-una-espiral-brillante-de-color-azul-cadena-ser/](https://cadenaser.com/nacional/2025/03/25/los-cielos-de-europa-se-iluminan-con-una-espiral-brillante-de-color-azul-cadena-ser/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inicialmente especulada con teorías de actividad aeronáutica o extraterrestre, se confirmó que el fenómeno fue causado por el lanzamiento...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/spacewonders/posts/rocket-fuel-spiral-over-norway-a-rare-twilight-sky-phenomenon-that-glowing-rotat/122146469246961898/](https://www.facebook.com/spacewonders/posts/rocket-fuel-spiral-over-norway-a-rare-twilight-sky-phenomenon-that-glowing-rotat/122146469246961898/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Fuel Spiral Over Norway — A Rare Twilight Sky...Here&#x27;s a more detailed explanation: Cause: These spirals are a result of SpaceX r...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=2mUXBqJbQKg](https://www.youtube.com/watch?v=2mUXBqJbQKg)  
-
-12. <a id="endnote-12"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/](https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025, a glowing spiral appeared over Europe, from the UK to Eastern Europe, caused by a SpaceX Falcon 9 rocket launched the...</p></details>
-   Published: March 25, 2025  
-
-13. <a id="endnote-13"></a>
-   Source: instagram.com  
-   Title: Tests happen in special facilities that can handle extreme  
-   Link: [https://www.instagram.com/reel/DJN7GXUNeu7/](https://www.instagram.com/reel/DJN7GXUNeu7/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Science on Instagram: &quot;A rocket engine test is a key...A rocket engine test is a key step to check if a rocket engine works well...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DHn5NFXsXlH/](https://www.instagram.com/reel/DHn5NFXsXlH/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, it&#x27;s not aliens. It&#x27;s likely it was caused by a SpaceX rocket launch...Read more...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/](https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious glowing spiral was spotted across several...A mysterious glowing spiral was spotted across several European countries on Ma...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: gizmodo.com  
-   Title: mysterious light spiral appears over norway 5422610  
-   Link: [https://gizmodo.com/mysterious-light-spiral-appears-over-norway-5422610](https://gizmodo.com/mysterious-light-spiral-appears-over-norway-5422610)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Light Spiral Appears Over Norway9 Dec 2009 — Witnesses throughout Northern Norway reported seeing a bright object spinning thr...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: uscc.gov  
-   Title: 2025 Annual Report to Congress  
-   Link: [https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf](https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2025 — The Commission, a legislative branch entity, was created on October 30, 2000 by the Floyd D. Spence National Defense Author...</p></details>
-   Published: October 30, 2000  
-
-18. <a id="endnote-18"></a>
-   Source: csmonitor.com  
-   Title: norway spiral space aliens welcoming obama  
-   Link: [https://www.csmonitor.com/USA/Politics/The-Vote/2009/1210/norway-spiral-space-aliens-welcoming-obama](https://www.csmonitor.com/USA/Politics/The-Vote/2009/1210/norway-spiral-space-aliens-welcoming-obama)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Norway spiral: Space aliens welcoming Obama?10 Dec 2009 — According to some reports, the unexplained light may have been caused by the fa...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -678,75 +582,71 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wide-reports-why-mass-sightings-can-make-spirals-less-mysterious-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -804,10 +704,10 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -955,3 +855,109 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly](https://en.wikipedia.org/wiki/2009_Norwegian_spiral_anomaly)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2009 Norwegian spiral anomalyDecember 9, 2009 — According to sources, it looked like a blue light coming from behind a mountain, stopping...</p></details>
+   Published: December 9, 2009  
+
+2. <a id="endnote-2"></a>
+   Source: researchgate.net  
+   Title: (PDF) A Peak Detection Method to Uncover Events from  
+   Link: [https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media](https://www.researchgate.net/publication/320910841_A_Peak_Detection_Method_to_Uncover_Events_from_Social_Media)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 7, 2017 — 7 Nov 2017 — The proposed method consists in two main phases: (i) extraction of space-time features from social data a...</p></details>
+   Published: November 7, 2017  
+
+3. <a id="endnote-3"></a>
+   Source: theguardian.com  
+   Link: [https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket](https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: washingtonpost.com  
+   Title: The Washington Post Did you see an alien-looking swirl in the sky?  
+   Link: [https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/](https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
+   Published: March 24, 2025  
+
+5. <a id="endnote-5"></a>
+   Source: thetimes.co.uk  
+   Link: [https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2](https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: satobs.org  
+   Link: [https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf](https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverNorway Spiral of December 9, 2009...31 Dec 2016 — Common Questions. • 1. What was it? • 2. Why did the Russians test...</p></details>
+   Published: December 9, 2009  
+
+7. <a id="endnote-7"></a>
+   Source: dongascience.com  
+   Link: [https://www.dongascience.com/en/news/70780](https://www.dongascience.com/en/news/70780)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Donga ScienceMysterious Spiral in Night Sky Baffles EuropeansThe phenomenon, likened to a &#x27;wormhole&#x27; by witnesses, was the result of a Fa...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: theinternational.at  
+   Title: The International Space X Rocket Creates Spiral Light Phenomenon Over Austria  
+   Link: [https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/](https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Excess fuel from a SpaceX Falcon-9 rocket created a visible spiral vortex in the sky, seen across Austria and Europe...Read more...</p></details>
+
+### Additional References
+
+9. <a id="endnote-9"></a>
+   Source: cadenaser.com  
+   Link: [https://cadenaser.com/nacional/2025/03/25/los-cielos-de-europa-se-iluminan-con-una-espiral-brillante-de-color-azul-cadena-ser/](https://cadenaser.com/nacional/2025/03/25/los-cielos-de-europa-se-iluminan-con-una-espiral-brillante-de-color-azul-cadena-ser/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Inicialmente especulada con teorías de actividad aeronáutica o extraterrestre, se confirmó que el fenómeno fue causado por el lanzamiento...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/spacewonders/posts/rocket-fuel-spiral-over-norway-a-rare-twilight-sky-phenomenon-that-glowing-rotat/122146469246961898/](https://www.facebook.com/spacewonders/posts/rocket-fuel-spiral-over-norway-a-rare-twilight-sky-phenomenon-that-glowing-rotat/122146469246961898/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rocket Fuel Spiral Over Norway — A Rare Twilight Sky...Here&#x27;s a more detailed explanation: Cause: These spirals are a result of SpaceX r...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=2mUXBqJbQKg](https://www.youtube.com/watch?v=2mUXBqJbQKg)  
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/](https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 25, 2025, a glowing spiral appeared over Europe, from the UK to Eastern Europe, caused by a SpaceX Falcon 9 rocket launched the...</p></details>
+   Published: March 25, 2025  
+
+13. <a id="endnote-13"></a>
+   Source: instagram.com  
+   Title: Tests happen in special facilities that can handle extreme  
+   Link: [https://www.instagram.com/reel/DJN7GXUNeu7/](https://www.instagram.com/reel/DJN7GXUNeu7/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Science on Instagram: &quot;A rocket engine test is a key...A rocket engine test is a key step to check if a rocket engine works well...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DHn5NFXsXlH/](https://www.instagram.com/reel/DHn5NFXsXlH/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, it&#x27;s not aliens. It&#x27;s likely it was caused by a SpaceX rocket launch...Read more...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/](https://www.facebook.com/brutamerica/posts/a-mysterious-glowing-spiral-was-spotted-across-several-european-countries-on-mar/1094123962760777/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A mysterious glowing spiral was spotted across several...A mysterious glowing spiral was spotted across several European countries on Ma...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: gizmodo.com  
+   Title: mysterious light spiral appears over norway 5422610  
+   Link: [https://gizmodo.com/mysterious-light-spiral-appears-over-norway-5422610](https://gizmodo.com/mysterious-light-spiral-appears-over-norway-5422610)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious Light Spiral Appears Over Norway9 Dec 2009 — Witnesses throughout Northern Norway reported seeing a bright object spinning thr...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: uscc.gov  
+   Title: 2025 Annual Report to Congress  
+   Link: [https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf](https://www.uscc.gov/sites/default/files/2025-11/2025_Annual_Report_to_Congress.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Nov 2025 — The Commission, a legislative branch entity, was created on October 30, 2000 by the Floyd D. Spence National Defense Author...</p></details>
+   Published: October 30, 2000  
+
+18. <a id="endnote-18"></a>
+   Source: csmonitor.com  
+   Title: norway spiral space aliens welcoming obama  
+   Link: [https://www.csmonitor.com/USA/Politics/The-Vote/2009/1210/norway-spiral-space-aliens-welcoming-obama](https://www.csmonitor.com/USA/Politics/The-Vote/2009/1210/norway-spiral-space-aliens-welcoming-obama)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Norway spiral: Space aliens welcoming Obama?10 Dec 2009 — According to some reports, the unexplained light may have been caused by the fa...</p></details>

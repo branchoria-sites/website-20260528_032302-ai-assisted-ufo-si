@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 10:52:22'
 parent_title: Was the UFO Really in the Sky Map? | UFO Case AI
 parent_permalink: /astronomy/
 parent_nav_short_title: Astronomy
+parent_heading_title: Was the UFO Really in the Sky Map?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,55 +229,67 @@ breadcrumb_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0
   title: Bright planets | Astronomy
   permalink: /bright-planets/
   short_title: Bright planets
+  heading_title: When a planet looks like a hovering UFO
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23
   title: Fireballs | Astronomy
   permalink: /fireballs/
   short_title: Fireballs
+  heading_title: When many UFO reports point to one meteor
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4
   title: Moon illusions | Astronomy
   permalink: /moon-illusions/
   short_title: Moon illusions
+  heading_title: Can the Moon really look like a UFO?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
 child_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702
   title: Horizon Checks | Sky maps
   permalink: /horizon-checks/
   short_title: Horizon Checks
+  heading_title: Did The Real Horizon Hide The Suspected UFO Object?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b
   title: Stellarium Logs | Sky maps
   permalink: /stellarium-logs/
   short_title: Stellarium Logs
+  heading_title: Why UFO Sky Screenshots Are Not Enough
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad
   title: Time Errors | Sky maps
   permalink: /time-errors/
   short_title: Time Errors
+  heading_title: Could A One Hour Clock Error Change The Whole Case?
 up_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 prev_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4
   title: Moon illusions | Astronomy
   permalink: /moon-illusions/
   short_title: Moon illusions
+  heading_title: Can the Moon really look like a UFO?
 next_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
+date: '2026-06-08 22:43:35 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -284,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8
 A UFO [astronomy]({{ 'astronomy/' | relative_url }}) check becomes far more useful when another investigator can reproduce the same sky and test the same claim independently. A saved sky map, backed by exact timing and ephemeris data, turns a vague statement such as “a bright object hovered in the west” into a repeatable [observation]({{ 'observation-vs-claim/' | relative_url }}) that can be checked months or years later. This matters because many disputed UFO cases hinge on whether a proposed explanation — Venus, Jupiter, the Moon, a bright star, a meteor, or a satellite flare — really matched the witness view from that exact location and moment.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-light.svg" | relative_url }}" alt="Sky maps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-dark.svg" | relative_url }}" alt="Sky maps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In an AI-assisted UFO sighting investigation, reproducibility is a safeguard against both overclaiming and careless debunking. If the sky reconstruction cannot be recreated by another analyst using the same coordinates, time zone, software settings and astronomical data, then the astronomy match remains weak. Reproducible sky maps also preserve evidence after online planetarium views change, satellite catalogues update, or memories fade.
 
 ## Why repeatability matters in UFO astronomy checks
@@ -456,7 +469,7 @@ Good reconstructions therefore record:
 In mountainous areas or urban environments, horizon modelling can determine whether a proposed astronomical explanation survives scrutiny.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-light.svg" | relative_url }}" alt="Sky maps illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-dark.svg" | relative_url }}" alt="Sky maps illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI systems help standardise sky reconstructions
 
 AI-assisted workflows are useful mainly because they reduce inconsistency between investigators.
@@ -516,7 +529,7 @@ The reconstruction should therefore classify explanations carefully:
 That language is more defensible than declaring a sighting “solved”.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-light.svg" | relative_url }}" alt="Sky maps illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-dark.svg" | relative_url }}" alt="Sky maps illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Uncertainty ranges should be visible in the saved material
 
 A repeatable reconstruction should show:
@@ -557,7 +570,7 @@ A labelled screenshot saying “Venus at 22:14” is not enough if it omits:
 Without those details, another analyst may not reproduce the same sky.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUbG8jboh4M" title="Getting oriented to better learn the night sky: Stargazing Basics 1 of 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer">Getting oriented to better learn the night sky: Stargazing Basics 1 of 3</a></p><p class="youtube-embed-meta">Channel: Eyes on the Sky</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUbG8jboh4M">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EPagoMD7Wl4" title="Juna Kollmeier on the Sloan Digital Sky Survey | California Academy of Sciences" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EPagoMD7Wl4" target="_blank" rel="noopener noreferrer">Juna Kollmeier on the Sloan Digital Sky Survey | California Academy of Sciences</a></p><p class="youtube-embed-meta">Channel: California Academy of Sciences</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EPagoMD7Wl4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EPagoMD7Wl4">Open on YouTube</a></p></div></div></div>
 
 ### Using present-day sky views for historical cases
 
@@ -604,123 +617,6 @@ A robust UFO astronomy appendix is usually compact but highly structured. It oft
 The goal is not to “win” an argument about UFOs. It is to leave behind a reconstruction that another investigator can independently test years later using the same evidence base.
 
 That standard matters because many UFO disputes are not really about astronomy. They are disputes about missing documentation, hidden assumptions and unreproducible analysis.
-
-## References
-
-- [Stellarium](https://stellarium.org/)
-- [Stellarium Web](https://stellarium-web.org/)
-
-## Endnotes
-### Additional References
-
-[1] StellariumStellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a.... [https://stellarium.org/](https://stellarium.org/). Source panel: Citations. Accessed May 27, 2026.
-
-[2] stellarium-web.orgStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what you see with the naked eye, binoculars or a.... [https://stellarium-web.org/](https://stellarium-web.org/).
-
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what.... Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[3] arXivThe Simulated Sky: Stellarium for Cultural Astronomy Research. [https://arxiv.org/abs/2104.01](https://arxiv.org/abs/2104.01)
-
-0
-
-1
-
-9. Source panel: Citations. Accessed May 27, 2026.
-
-[4] Stellariumuser guidethe Stellarium website.
-
-1. If you have questions and/or comments about this guide, or about Stellarium itself, visit the Stellarium. site at GitHub.
-
-2. or our.... [https://stellarium.org/guide/](https://stellarium.org/guide/). Source panel: Citations. Accessed May 27, 2026.
-
-[5] U.S.. [https://bookstore.gpo.gov/products/astronomical-almanac-year-2](https://bookstore.gpo.gov/products/astronomical-almanac-year-2)
-
-0
-
-2
-
-5.
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government BookstoreAstronomical Almanac For The Year 202527 Feb 2025 — The book is a worldwide resource for fundamental astronomical dat.... Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[6] stellarium.orgguide.pdfPermission is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Documentation License, Version 1.3 or any later.... [https://stellarium.org/files/guide.pdf](https://stellarium.org/files/guide.pdf).
-
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Documentation License, Version 1.3 or any later. Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[7] stellarium.orgStellarium Developers DocumentationThis documentation concerns the inner workings of Stellarium. This documentation is targeted at developers of scripts, plugins and the core program. Program...Read more. [https://stellarium.org/doc/1.x/](https://stellarium.org/doc/1.x/).
-
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Developers DocumentationThis documentation concerns the inner workings of Stellarium. This documentation is targeted at develo.... Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[8] stellarium.orgStellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a.... [https://stellarium.org/eo/](https://stellarium.org/eo/).
-
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like wh.... Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[9] astronomy.comThe history of astronomical almanacsJul 12, 2024 — The first true astronomical almanac was produced in the 15th century by Johannes Müller von Königsberg. Better known as Regiomontanus.. [https://www.astronomy.com/science/the-history-of-astronomical-almanacs/](https://www.astronomy.com/science/the-history-of-astronomical-almanacs/).
-
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The history of astronomical almanacsJul 12, 2024 — The first true astronomical almanac was produced in the 15th century by Johannes Mülle.... Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[10] US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. [https://aa.usno.navy.mil/publications/asa](https://aa.usno.navy.mil/publications/asa). Source panel: Citations. Accessed May 27, 2026.
-
-[11] US Naval ObservatoryUS Naval Observatory Astronomical Applications DepartmentWelcome to the web pages of the Astronomical Applications Department of the U.S.. [https://aa.usno.navy.mil/](https://aa.usno.navy.mil/).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Observatory. Our products -- almanacs, software, and web services --...Read more. Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[12] US Naval ObservatoryAstronomical and Navigational AlmanacsThe Nautical Almanac Office at the US Naval Observatory produces several annual almanacs.. [https://aa.usno.navy.mil/publications/almanacs](https://aa.usno.navy.mil/publications/almanacs).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Navigational AlmanacsThe Nautical Almanac Office at the US Naval Observatory produces several annual almanacs. Each edition contains.... Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[13] GitHubStellariumStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a.... [https://github.com/stellarium/stellarium](https://github.com/stellarium/stellarium).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>StellariumStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the.... Source panel: More. Accessed May 27, 2026...</p></details>
-
-[14] It also has.... [https://www.facebook.com/groups/2365437330426021/posts/3869231280046611/](https://www.facebook.com/groups/2365437330426021/posts/3869231280046611/).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skysafari 7 pro controls starsense explorer app - FacebookJanuary 8, 2026 — With SkySafari you can keep track of observing lists and note.... Source panel: More. Accessed May 27, 2026...</p></details>
-
-[15] skyhound.comExporting observing lists to Skysafari - Skyhound ForumsApril 2, 2025 — I've checked all over the internet and I cannot find one single logical explanation how to export to skysafari?. [https://forums.skyhound.com/showthread.php?tid=3](https://forums.skyhound.com/showthread.php?tid=3)
-
-2
-
-5
-
-1. Source panel: More. Accessed May 27, 2026.
-
-[16] using stellarium web. [https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web](https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web | Imaging the UniverseHow to Use Stellarium Web. When first navigating to the webpage, your browser display will be filled. Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[17] Stellarium software introductory course This course is intended for amateur astronomers who wish to gain a basic knowledge of the Stellar. [https://rascto.ca/content/stellarium-software-introductory-course](https://rascto.ca/content/stellarium-software-introductory-course).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium software introductory courseThis course is intended for amateur astronomers who wish to gain a basic knowledge of the Stellari. Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[18] How to use Stellarium to identify objects in the night sky. [https://www.youtube.com/watch?v=kYv9x4p15oE](https://www.youtube.com/watch?v=kYv9x4p15oE).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying planets and stars for UFO investigations. Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[19] Identifying planets and stars for UFO investigations. [https://www.youtube.com/watch?v=kZ5f4aU-VvI](https://www.youtube.com/watch?v=kZ5f4aU-VvI).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using astronomy software to explain sky phenomena. Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[20] Using astronomy software to explain sky phenomena. [https://www.youtube.com/watch?v=N_p3N9-NqA](https://www.youtube.com/watch?v=N_p3N9-NqA)
-
-0.
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to mobile sky mapping apps for amateur astronomy. Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[21] Introduction to mobile sky mapping apps for amateur astronomy. [https://www.youtube.com/watch?v=Cq26k3uH78A](https://www.youtube.com/watch?v=Cq26k3uH78A).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Checking historical sky positions with planetarium software. Source panel: Citations. Accessed May 27, 2026...</p></details>
-
-[22] Observing Lists. [https://www.cloudynights.com/forums/topic/918623-observing-lists-how-do-you-do-it/](https://www.cloudynights.com/forums/topic/918623-observing-lists-how-do-you-do-it/).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsApril 14, 2024 — I have been making lists by constellation. I have a bunch of books and so I&#x27;ll read the books and the objec. Source panel: More. Accessed May 27, 2026...</p></details>
-
-[23] Then export it to my IPAD for use that evening. I just boot up SS, import the. [https://www.facebook.com/groups/seestar/posts/400303286115293/](https://www.facebook.com/groups/seestar/posts/400303286115293/).
-
-     <details class="endnote-snippet"><summary>Source snippet</summary><p>How are other SkySafari users utilizing Sessions and Observations?April 5, 2024 — I can create an observing session in Sky Safari on my M. Source panel: More. Accessed May 27, 2026...</p></details>
-
-[24] Sky Safari Pro Part 2 Observing Lists. [https://www.youtube.com/watch?v=C0ACTQXXHg](https://www.youtube.com/watch?v=C0ACTQXXHg)
-
-0.
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkySafari Pro Part 2 Observing Lists - YouTubeJanuary 27, 2021 — This introduces the concept of observing lists. How to create and popula. Source panel: More. Accessed May 27, 2026...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -836,75 +732,71 @@ That standard matters because many UFO disputes are not really about astronomy. 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20X80 Binoculars 71018"><img src="{{ '/assets/images/marketplace-covers/01b43abb3fca5d0a5151.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20X80 Binoculars 71018" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20X80 Binoculars 71018</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-tele&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-tele" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron SkyMaster 71018 Binocular and tripod"><img src="{{ '/assets/images/marketplace-covers/0fdc8b4d609b8ce92a6e.jpg' | relative_url }}" alt="Listing image for Celestron SkyMaster 71018 Binocular and tripod" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron SkyMaster 71018 Binocular and tripod</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New"><img src="{{ '/assets/images/marketplace-covers/dc9cf14405df7bf77e6d.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-con&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-con" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti"><img src="{{ '/assets/images/marketplace-covers/77ed29261fdf5164fc5b.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sky-maps-how-to-make-a-ufo-sky-check-repeatable-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-tele&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -962,10 +854,10 @@ That standard matters because many UFO disputes are not really about astronomy. 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1113,3 +1005,121 @@ That standard matters because many UFO disputes are not really about astronomy. 
 })();
 </script>
 </section>
+
+## References
+
+- [Stellarium](https://stellarium.org/)
+- [Stellarium Web](https://stellarium-web.org/)
+
+## Endnotes
+### Additional References
+
+[1] StellariumStellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a.... [https://stellarium.org/](https://stellarium.org/). Source panel: Citations. Accessed May 27, 2026.
+
+[2] stellarium-web.orgStellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what you see with the naked eye, binoculars or a.... [https://stellarium-web.org/](https://stellarium-web.org/).
+
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[3] arXivThe Simulated Sky: Stellarium for Cultural Astronomy Research. [https://arxiv.org/abs/2104.01](https://arxiv.org/abs/2104.01)
+
+0
+
+1
+
+9. Source panel: Citations. Accessed May 27, 2026.
+
+[4] Stellariumuser guidethe Stellarium website.
+
+1. If you have questions and/or comments about this guide, or about Stellarium itself, visit the Stellarium. site at GitHub.
+
+2. or our.... [https://stellarium.org/guide/](https://stellarium.org/guide/). Source panel: Citations. Accessed May 27, 2026.
+
+[5] U.S.. [https://bookstore.gpo.gov/products/astronomical-almanac-year-2](https://bookstore.gpo.gov/products/astronomical-almanac-year-2)
+
+0
+
+2
+
+5.
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government BookstoreAstronomical Almanac For The Year 202527 Feb 2025 — The book is a worldwide resource for fundamental astronomical dat.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[6] stellarium.orgguide.pdfPermission is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Documentation License, Version 1.3 or any later.... [https://stellarium.org/files/guide.pdf](https://stellarium.org/files/guide.pdf).
+
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>is granted to copy, distribute and/or modify this document under the terms of the GNU. Free Documentation License, Version 1.3 or any later. Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[7] stellarium.orgStellarium Developers DocumentationThis documentation concerns the inner workings of Stellarium. This documentation is targeted at developers of scripts, plugins and the core program. Program...Read more. [https://stellarium.org/doc/1.x/](https://stellarium.org/doc/1.x/).
+
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Developers DocumentationThis documentation concerns the inner workings of Stellarium. This documentation is targeted at develo.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[8] stellarium.orgStellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a.... [https://stellarium.org/eo/](https://stellarium.org/eo/).
+
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like wh.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[9] astronomy.comThe history of astronomical almanacsJul 12, 2024 — The first true astronomical almanac was produced in the 15th century by Johannes Müller von Königsberg. Better known as Regiomontanus.. [https://www.astronomy.com/science/the-history-of-astronomical-almanacs/](https://www.astronomy.com/science/the-history-of-astronomical-almanacs/).
+
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The history of astronomical almanacsJul 12, 2024 — The first true astronomical almanac was produced in the 15th century by Johannes Mülle.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[10] US Naval ObservatoryThe Astronomical AlmanacThe book is a worldwide resource for fundamental astronomical data. It is a joint publication of the U.S. Nautical Almanac Office at the U.S. Naval Observatory...Read more. [https://aa.usno.navy.mil/publications/asa](https://aa.usno.navy.mil/publications/asa). Source panel: Citations. Accessed May 27, 2026.
+
+[11] US Naval ObservatoryUS Naval Observatory Astronomical Applications DepartmentWelcome to the web pages of the Astronomical Applications Department of the U.S.. [https://aa.usno.navy.mil/](https://aa.usno.navy.mil/).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval Observatory. Our products -- almanacs, software, and web services --...Read more. Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[12] US Naval ObservatoryAstronomical and Navigational AlmanacsThe Nautical Almanac Office at the US Naval Observatory produces several annual almanacs.. [https://aa.usno.navy.mil/publications/almanacs](https://aa.usno.navy.mil/publications/almanacs).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>and Navigational AlmanacsThe Nautical Almanac Office at the US Naval Observatory produces several annual almanacs. Each edition contains.... Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[13] GitHubStellariumStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the naked eye, binoculars or a.... [https://github.com/stellarium/stellarium](https://github.com/stellarium/stellarium).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>StellariumStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like what you see with the.... Source panel: More. Accessed May 27, 2026...</p></details>
+
+[14] It also has.... [https://www.facebook.com/groups/2365437330426021/posts/3869231280046611/](https://www.facebook.com/groups/2365437330426021/posts/3869231280046611/).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>Skysafari 7 pro controls starsense explorer app - FacebookJanuary 8, 2026 — With SkySafari you can keep track of observing lists and note.... Source panel: More. Accessed May 27, 2026...</p></details>
+
+[15] skyhound.comExporting observing lists to Skysafari - Skyhound ForumsApril 2, 2025 — I've checked all over the internet and I cannot find one single logical explanation how to export to skysafari?. [https://forums.skyhound.com/showthread.php?tid=3](https://forums.skyhound.com/showthread.php?tid=3)
+
+2
+
+5
+
+1. Source panel: More. Accessed May 27, 2026.
+
+[16] using stellarium web. [https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web](https://itu.physics.uiowa.edu/labs/foundational/exploring-sky-i/using-stellarium-web).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium Web | Imaging the UniverseHow to Use Stellarium Web. When first navigating to the webpage, your browser display will be filled. Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[17] Stellarium software introductory course This course is intended for amateur astronomers who wish to gain a basic knowledge of the Stellar. [https://rascto.ca/content/stellarium-software-introductory-course](https://rascto.ca/content/stellarium-software-introductory-course).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>Stellarium software introductory courseThis course is intended for amateur astronomers who wish to gain a basic knowledge of the Stellari. Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[18] How to use Stellarium to identify objects in the night sky. [https://www.youtube.com/watch?v=kYv9x4p15oE](https://www.youtube.com/watch?v=kYv9x4p15oE).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying planets and stars for UFO investigations. Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[19] Identifying planets and stars for UFO investigations. [https://www.youtube.com/watch?v=kZ5f4aU-VvI](https://www.youtube.com/watch?v=kZ5f4aU-VvI).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using astronomy software to explain sky phenomena. Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[20] Using astronomy software to explain sky phenomena. [https://www.youtube.com/watch?v=N_p3N9-NqA](https://www.youtube.com/watch?v=N_p3N9-NqA)
+
+0.
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to mobile sky mapping apps for amateur astronomy. Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[21] Introduction to mobile sky mapping apps for amateur astronomy. [https://www.youtube.com/watch?v=Cq26k3uH78A](https://www.youtube.com/watch?v=Cq26k3uH78A).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>Checking historical sky positions with planetarium software. Source panel: Citations. Accessed May 27, 2026...</p></details>
+
+[22] Observing Lists. [https://www.cloudynights.com/forums/topic/918623-observing-lists-how-do-you-do-it/](https://www.cloudynights.com/forums/topic/918623-observing-lists-how-do-you-do-it/).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsApril 14, 2024 — I have been making lists by constellation. I have a bunch of books and so I&#x27;ll read the books and the objec. Source panel: More. Accessed May 27, 2026...</p></details>
+
+[23] Then export it to my IPAD for use that evening. I just boot up SS, import the. [https://www.facebook.com/groups/seestar/posts/400303286115293/](https://www.facebook.com/groups/seestar/posts/400303286115293/).
+
+     <details class="endnote-snippet"><summary>Source snippet</summary><p>How are other SkySafari users utilizing Sessions and Observations?April 5, 2024 — I can create an observing session in Sky Safari on my M. Source panel: More. Accessed May 27, 2026...</p></details>
+
+[24] Sky Safari Pro Part 2 Observing Lists. [https://www.youtube.com/watch?v=C0ACTQXXHg](https://www.youtube.com/watch?v=C0ACTQXXHg)
+
+0.
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkySafari Pro Part 2 Observing Lists - YouTubeJanuary 27, 2021 — This introduces the concept of observing lists. How to create and popula. Source panel: More. Accessed May 27, 2026...</p></details>
+

@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 11:03:21'
 parent_title: Was the UFO Really in the Sky Map? | UFO Case AI
 parent_permalink: /astronomy/
 parent_nav_short_title: Astronomy
+parent_heading_title: Was the UFO Really in the Sky Map?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,50 +229,61 @@ breadcrumb_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23
   title: Fireballs | Astronomy
   permalink: /fireballs/
   short_title: Fireballs
+  heading_title: When many UFO reports point to one meteor
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4
   title: Moon illusions | Astronomy
   permalink: /moon-illusions/
   short_title: Moon illusions
+  heading_title: Can the Moon really look like a UFO?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7
   title: Sky maps | Astronomy
   permalink: /sky-maps/
   short_title: Sky maps
+  heading_title: How to make a UFO sky check repeatable
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
 child_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_blue_book_ven_31a404
   title: Blue Book | Bright planets
   permalink: /blue-book/
   short_title: Blue Book
+  heading_title: How Project Blue Book Linked UFOs To Venus
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee
   title: Following Cars | Bright planets
   permalink: /following-cars/
   short_title: Following Cars
+  heading_title: Why Venus Seems To Follow Your Car
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08
   title: Phone Distortion | Bright planets
   permalink: /phone-distortion/
   short_title: Phone Distortion
+  heading_title: Why Bright Planets Look Strange On Phone Cameras
 up_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 next_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23
   title: Fireballs | Astronomy
   permalink: /fireballs/
   short_title: Fireballs
+  heading_title: When many UFO reports point to one meteor
+date: '2026-06-08 22:51:44 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -279,7 +291,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_79
 A bright object hanging low in the western sky is one of the most common starting points for a UFO report. In many cases, the object turns out to be Venus or Jupiter seen under conditions that make a normal planet look strange: twilight glare, haze near the horizon, [atmospheric]({{ 'scintillation/' | relative_url }}) shimmer, drifting cloud, or unstable zoomed phone footage. NASA’s skywatching guidance notes that Venus is “one of the most confused objects in the sky”, while Jupiter and other bright planets are also frequently reported as UFOs, especially when low on the horizon or appearing in alignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-light.svg" | relative_url }}" alt="Bright planets illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-dark.svg" | relative_url }}" alt="Bright planets illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For an AI-assisted UFO sighting investigation, this matters because a planet match is often one of the fastest ordinary explanations to test. A witness may describe a brilliant stationary light, apparent [hovering]({{ 'wind-checks/' | relative_url }}), colour changes, or even apparent movement relative to nearby trees or buildings. Those details do not automatically rule out a planet. The investigation question is narrower and more practical: was Venus or Jupiter in the correct part of the sky, at the correct brightness, for the reported duration and direction?
 
 ## Why Venus and Jupiter trigger bright-light reports
@@ -414,7 +426,7 @@ Investigators should compare raw witness claims against:
 Wind shear, haze and heat turbulence near the horizon can substantially distort bright planets.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-light.svg" | relative_url }}" alt="Bright planets illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-dark.svg" | relative_url }}" alt="Bright planets illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical UFO investigations repeatedly encountered planet misidentifications
 
 Astronomical objects have been linked to UFO reports for decades, not as a dismissive talking point but as a documented investigative pattern.
@@ -468,7 +480,7 @@ A Venus or Jupiter explanation becomes weak when the report includes features in
 Planets do not rapidly traverse the sky over seconds or minutes. If [calibrated]({{ 'sensor-data/' | relative_url }}) video, multiple witnesses, or astronomical references confirm substantial directional movement independent of Earth rotation, the explanation weakens sharply.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-light.svg" | relative_url }}" alt="Bright planets illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-dark.svg" | relative_url }}" alt="Bright planets illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Strong corroborating evidence from instruments
 
 Radar tracks, multiple synchronised cameras, or verified aircraft observations may point away from a simple astronomical source.
@@ -504,7 +516,7 @@ In practice, though, many dramatic witness descriptions soften after timeline re
 * or changing atmospheric visibility.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hLxg7ltRAD4" title="The Star That Could Destroy Earth From Thousands of Light Years Away" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hLxg7ltRAD4" target="_blank" rel="noopener noreferrer">The Star That Could Destroy Earth From Thousands of Light Years Away</a></p><p class="youtube-embed-meta">Channel: Beyond Midnight Space</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hLxg7ltRAD4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hLxg7ltRAD4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wEUkItinLP0" title="Hellflower by George O. Smith | Full Audiobook" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wEUkItinLP0" target="_blank" rel="noopener noreferrer">Hellflower by George O. Smith | Full Audiobook</a></p><p class="youtube-embed-meta">Channel: Vivid Audio Library</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wEUkItinLP0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wEUkItinLP0">Open on YouTube</a></p></div></div></div>
 
 ## How AI-assisted case screening handles bright-planet checks
 
@@ -541,142 +553,6 @@ At the same time, the workflow should preserve uncertainty honestly. A plausible
 * and inconsistent explanations.
 
 That distinction matters because some reports survive initial astronomy screening and require deeper checks involving aircraft, satellites, drones, atmospheric optics or other contextual factors.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Title: identifying ufos and uaps  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: esd.whs.mil  
-   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, which include bright...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: archives.gov  
-   Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: upload.wikimedia.org  
-   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: space.com  
-   Title: 3685 ufo venus dominates evening sky  
-   Link: [https://www.space.com/3685-ufo-venus-dominates-evening-sky.html](https://www.space.com/3685-ufo-venus-dominates-evening-sky.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling attention to itself as soon as the Sun goes down, Venus shines brilliantly in the west-northwest sky.Read more...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: archives.gov  
-   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: archives.gov  
-   Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
-   Published: March 1952  
-
-9. <a id="endnote-9"></a>
-   Source: prologue.blogs.archives.gov  
-   Title: ufos natural explanations  
-   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>archives.govUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The purpose of the investigations was to assess the nature of the...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: rmg.co.uk  
-   Link: [https://www.rmg.co.uk/stories/space-astronomy/planet-venus](https://www.rmg.co.uk/stories/space-astronomy/planet-venus)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichPlanet VenusUFOs. Venus is best seen in the evening when it is to the east of the Sun and in the morning when it i...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: discovermagazine.com  
-   Title: aliens yes ufos no 1129  
-   Link: [https://www.discovermagazine.com/aliens-yes-ufos-no-1129](https://www.discovermagazine.com/aliens-yes-ufos-no-1129)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover MagazineAliens? Yes. UFOs? No.25 Nov 2008 — If it&#x27;s low to the horizon, turbulent air makes it flicker and change color. Does th...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: Wikipedia  
-   Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: britannica.com  
-   Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book was the code name for the United States&#x27; longest-running Air Fo...</p></details>
-   Published: May 2026  
-
-### Additional References
-
-15. <a id="endnote-15"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/](https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyAlso, it is sitting relatively low in the sky which means you&#x27;re looking...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/](https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Go StargazingVenus will remain visible as an evening star for the next six weeks, but it will never be brighter than it is right now, ton...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: gutenberg.org  
-   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: af.mil  
-   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: thedebrief.org  
-   Title: from the project blue book archives a few lesser known ufo cases from yesteryear  
-   Link: [https://thedebrief.org/from-the-project-blue-book-archives-a-few-lesser-known-ufo-cases-from-yesteryear/](https://thedebrief.org/from-the-project-blue-book-archives-a-few-lesser-known-ufo-cases-from-yesteryear/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From The Project Blue Book Archives: A Few Lesser...7 Mar 2023 — The U.S. has collected information on aerial objects that, at least in...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives MuseumFor more than 20 years, the U.S. Air Force documented and analyzed UFO sightings through...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: rmg.co.uk  
-   Link: [https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night](https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>us (or, if it had an orange hue, occasionally Mars can be very bright).Read more...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>f UFO reports, though it also provided scientific services and...Read more...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: archivesfoundation.org  
-   Title: 50 years ago government stops investigating ufos  
-   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: history.com  
-   Link: [https://www.history.com/articles/history-of-ufos](https://www.history.com/articles/history-of-ufos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, Timeline &amp; AbductionsFrom 1952 to 1969 Project Blue Book compiled reports of more than 12,000 sightings...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -792,75 +668,71 @@ That distinction matters because some reports survive initial astronomy screenin
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New"><img src="{{ '/assets/images/marketplace-covers/dc9cf14405df7bf77e6d.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)"><img src="{{ '/assets/images/marketplace-covers/8de3efba5d662da79140.jpg' | relative_url }}" alt="Listing image for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron SkyMaster 71018 Binocular and tripod"><img src="{{ '/assets/images/marketplace-covers/0fdc8b4d609b8ce92a6e.jpg' | relative_url }}" alt="Listing image for Celestron SkyMaster 71018 Binocular and tripod" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron SkyMaster 71018 Binocular and tripod</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20X80 Binoculars 71018"><img src="{{ '/assets/images/marketplace-covers/01b43abb3fca5d0a5151.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20X80 Binoculars 71018" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20X80 Binoculars 71018</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=bright-planets-when-a-planet-looks-like-a-hovering-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -918,10 +790,10 @@ That distinction matters because some reports survive initial astronomy screenin
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1069,3 +941,139 @@ That distinction matters because some reports survive initial astronomy screenin
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Title: identifying ufos and uaps  
+   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: esd.whs.mil  
+   Link: [https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837](https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/proj_b1.pdf?ver=2017-05-22-113513-837)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHS ESDProject Blue BookThere are various types of UFO sightings. Most common are reports of astronomical sightings, which include bright...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: archives.gov  
+   Title: National Archives Project BLUE BOOK  
+   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The project closed in 1969 and we have no...Read more...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: upload.wikimedia.org  
+   Link: [https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf](https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: space.com  
+   Title: 3685 ufo venus dominates evening sky  
+   Link: [https://www.space.com/3685-ufo-venus-dominates-evening-sky.html](https://www.space.com/3685-ufo-venus-dominates-evening-sky.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling attention to itself as soon as the Sun goes down, Venus shines brilliantly in the west-northwest sky.Read more...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: archives.gov  
+   Link: [https://www.archives.gov/research/topics/uaps/photographs](https://www.archives.gov/research/topics/uaps/photographs)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The page is organized by record group, with links to...Read more...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: archives.gov  
+   Link: [https://www.archives.gov/research/topics/uaps/moving-images-and-sound](https://www.archives.gov/research/topics/uaps/moving-images-and-sound)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOs and UAPs in the National Archives Catalog...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: archives.gov  
+   Title: project blue book 50th anniversary  
+   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Public Interest in UFOs Persists 50 Years After Project Blue...5 Dec 2019 — Project Blue Book, from March 1952 to December 1969—the long...</p></details>
+   Published: March 1952  
+
+9. <a id="endnote-9"></a>
+   Source: prologue.blogs.archives.gov  
+   Title: ufos natural explanations  
+   Link: [https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/](https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>archives.govUFOs: Natural Explanations - Pieces of History16 Apr 2018 — The purpose of the investigations was to assess the nature of the...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: rmg.co.uk  
+   Link: [https://www.rmg.co.uk/stories/space-astronomy/planet-venus](https://www.rmg.co.uk/stories/space-astronomy/planet-venus)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichPlanet VenusUFOs. Venus is best seen in the evening when it is to the east of the Sun and in the morning when it i...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: discovermagazine.com  
+   Title: aliens yes ufos no 1129  
+   Link: [https://www.discovermagazine.com/aliens-yes-ufos-no-1129](https://www.discovermagazine.com/aliens-yes-ufos-no-1129)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover MagazineAliens? Yes. UFOs? No.25 Nov 2008 — If it&#x27;s low to the horizon, turbulent air makes it flicker and change color. Does th...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: nationalarchives.gov.uk  
+   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: Wikipedia  
+   Title: Project Blue Book  
+   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Blue BookProject Blue Book had two goals, namely, to determine if UFOs were a threat to national security, and to scientifical...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: britannica.com  
+   Title: Project Blue Book  
+   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, History, Aliens, UFOs, &amp; Facts16 May 2026 — Project Blue Book was the code name for the United States&#x27; longest-running Air Fo...</p></details>
+   Published: May 2026  
+
+### Additional References
+
+15. <a id="endnote-15"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/](https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A “flickering” object in the northern hemisphere: r/askastronomyAlso, it is sitting relatively low in the sky which means you&#x27;re looking...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/](https://www.facebook.com/gostargazinguk/posts/with-nice-weather-across-the-uk-stargazers-might-look-towards-the-west-after-sun/956796763713367/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Go StargazingVenus will remain visible as an evening star for the next six weeks, but it will never be brighter than it is right now, ton...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: gutenberg.org  
+   Link: [https://www.gutenberg.org/cache/epub/17346/pg17346-images.html](https://www.gutenberg.org/cache/epub/17346/pg17346-images.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Report on Unidentified Flying ObjectsThis is a book about unidentified flying objects—UFO&#x27;s—&quot;flying saucers.&quot; It is actually more tha...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: af.mil  
+   Link: [https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/](https://www.af.mil/About-Us/Fact-Sheets/Display/Article/104590/unidentified-flying-objects-and-air-force-project-blue-book/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Flying Objects and Air Force Project Blue BookWith the termination of Project Blue Book, the Air Force regulation establishi...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: thedebrief.org  
+   Title: from the project blue book archives a few lesser known ufo cases from yesteryear  
+   Link: [https://thedebrief.org/from-the-project-blue-book-archives-a-few-lesser-known-ufo-cases-from-yesteryear/](https://thedebrief.org/from-the-project-blue-book-archives-a-few-lesser-known-ufo-cases-from-yesteryear/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>From The Project Blue Book Archives: A Few Lesser...7 Mar 2023 — The U.S. has collected information on aerial objects that, at least in...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=JHeZjJgO9Ns](https://www.youtube.com/watch?v=JHeZjJgO9Ns)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Project Blue Book at National Archives MuseumFor more than 20 years, the U.S. Air Force documented and analyzed UFO sightings through...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: rmg.co.uk  
+   Link: [https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night](https://www.rmg.co.uk/stories/space-astronomy/what-was-bright-object-i-saw-sky-last-night)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>us (or, if it had an orange hue, occasionally Mars can be very bright).Read more...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/](https://www.facebook.com/HISTORY/posts/during-the-cold-war-as-project-blue-book-investigated-potential-ufo-threats-a-sh/1473622884330683/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>f UFO reports, though it also provided scientific services and...Read more...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: archivesfoundation.org  
+   Title: 50 years ago government stops investigating ufos  
+   Link: [https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/](https://archivesfoundation.org/documents/50-years-ago-government-stops-investigating-ufos/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>50 Years Ago: Government Stops Investigating UFOsOf the 12,618 UFO sightings reported between 1947 and 1969, 701 remained “unidentified.”...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: history.com  
+   Link: [https://www.history.com/articles/history-of-ufos](https://www.history.com/articles/history-of-ufos)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>History of UFOs - Sightings, Timeline &amp; AbductionsFrom 1952 to 1969 Project Blue Book compiled reports of more than 12,000 sightings...</p></details>

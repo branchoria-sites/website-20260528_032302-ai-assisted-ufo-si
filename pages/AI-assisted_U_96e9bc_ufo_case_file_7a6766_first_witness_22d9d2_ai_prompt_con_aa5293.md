@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why the first UFO account matters most | Case File
 parent_permalink: /first-account/
 parent_nav_short_title: First account
+parent_heading_title: Why the first UFO account matters most
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2
   title: First account | Case File
   permalink: /first-account/
   short_title: First account
+  heading_title: Why the first UFO account matters most
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2
   title: First account | Case File
   permalink: /first-account/
   short_title: First account
+  heading_title: Why the first UFO account matters most
 sibling_links:
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9
   title: Group Witnesses | First account
   permalink: /group-witnesses/
   short_title: Group Witnesses
+  heading_title: When Group Sightings Stop Being Independent
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b
   title: Observation vs Claim | First account
   permalink: /observation-vs-claim/
   short_title: Observation vs Claim
+  heading_title: What Did the Witness Actually See?
 up_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2
   title: First account | Case File
   permalink: /first-account/
   short_title: First account
+  heading_title: Why the first UFO account matters most
 next_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9
   title: Group Witnesses | First account
   permalink: /group-witnesses/
   short_title: Group Witnesses
-date: '2026-05-28 03:02:59 '
+  heading_title: When Group Sightings Stop Being Independent
+date: '2026-06-09 00:09:14 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22
 AI tools can help structure UFO witness interviews, standardise timelines and reduce administrative mistakes. They can also create a quieter risk: accidentally steering a witness into remembering details that were never clearly observed. In UFO and UAP investigations, where sightings are often brief, ambiguous and emotionally charged, even small wording changes can distort testimony.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-light.svg" | relative_url }}" alt="AI Prompts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-dark.svg" | relative_url }}" alt="AI Prompts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many sightings begin with uncertain visual impressions rather than stable, detailed observations. A witness may initially report “a bright light moving strangely”, but after repeated AI-led questioning, the same event can become “a silent triangular craft with rotating lights”. The witness may be completely sincere. The problem is that conversational systems can unintentionally introduce assumptions, reinforce guesses and reward dramatic interpretations.
 
 Research on eyewitness memory has long shown that leading questions and post-event suggestion can alter recall. Recent studies now suggest that large language model chatbots may amplify these effects during interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.04681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivConversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</span><span class="citation-popover-meta">Published: August 8, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bpspsychub.onlinelibrary.wiley.com">[BPS Psychology Hub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bpspsychub.onlinelibrary.wiley.com</span><span class="citation-popover-title">Misinformation effects</span><span class="citation-popover-snippet">BPS Psychology HubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Intoxicated participants showed the highest fal...</span></span></span> In an AI-assisted UFO investigation workflow, this creates a governance problem as much as a technical one: how do investigators use automation without contaminating the very testimony they are trying to preserve?
@@ -375,7 +384,7 @@ Good AI interview systems should repeatedly signal that uncertainty is acceptabl
 </div>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EV3wXnbc32s" title="Kigenka: Did That Really Happen? How AI Chatbots Can Change Our Memories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EV3wXnbc32s" target="_blank" rel="noopener noreferrer">Kigenka: Did That Really Happen? How AI Chatbots Can Change Our Memories</a></p><p class="youtube-embed-meta">Channel: Yu Sung “Eduardo” Yeh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EV3wXnbc32s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EV3wXnbc32s">Open on YouTube</a></p></div></div></div>
 
 ### Suggestive prompt style
 
@@ -434,7 +443,7 @@ These replies may sound harmless, but they can reinforce uncertain interpretatio
 Research into interrogative suggestibility also shows that minimally leading questions produce lower distortion rates than more assumption-heavy questioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886924000436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectInterrogative suggestibility: The role of source monitoring...by R Polczyk · 2024 · Cited by 7 — Suggestibility is lower wh...</span></span></span> AI systems therefore need explicit constraints rather than relying on general conversational quality.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-light.svg" | relative_url }}" alt="AI Prompts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-dark.svg" | relative_url }}" alt="AI Prompts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How contamination spreads after the first interview
 
 The first AI interaction may not be the only contamination point.
@@ -459,7 +468,7 @@ This becomes even more dangerous in multi-witness cases. If several people use t
 That creates a serious analytical problem for UFO investigators using clustering or similarity analysis tools. Apparent consistency across reports may partly reflect software influence rather than independent corroboration.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qe9QSCF-d88" title="The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer">The Catastrophic Risks of AI — and a Safer Path | Yoshua Bengio | TED</a></p><p class="youtube-embed-meta">Channel: TED</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qe9QSCF-d88" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qe9QSCF-d88">Open on YouTube</a></p></div></div></div>
 
 ## Why dramatic UFO framing is especially risky
 
@@ -493,7 +502,7 @@ AI-assisted witness collection is not inherently unreliable. The problem is inad
 Several practical safeguards can reduce contamination risk.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-light.svg" | relative_url }}" alt="AI Prompts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-dark.svg" | relative_url }}" alt="AI Prompts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Separate observation from interpretation
 
 The system should explicitly distinguish:
@@ -537,7 +546,7 @@ unless the witness used those terms first.
 The safest initial structure is usually simple sequential recall:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EV3wXnbc32s" title="Kigenka: Did That Really Happen? How AI Chatbots Can Change Our Memories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EV3wXnbc32s" target="_blank" rel="noopener noreferrer">Kigenka: Did That Really Happen? How AI Chatbots Can Change Our Memories</a></p><p class="youtube-embed-meta">Channel: Yu Sung “Eduardo” Yeh</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EV3wXnbc32s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EV3wXnbc32s">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GJeFoEw9x0M" title="AI CEO explains the terrifying new behavior AIs are showing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GJeFoEw9x0M" target="_blank" rel="noopener noreferrer">AI CEO explains the terrifying new behavior AIs are showing</a></p><p class="youtube-embed-meta">Channel: CNN</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GJeFoEw9x0M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GJeFoEw9x0M">Open on YouTube</a></p></div></div></div>
 
 1. What first drew your attention?
 2. What happened next?
@@ -582,133 +591,6 @@ A poorly designed system can accidentally manufacture stronger UFO narratives th
 This is particularly important for public-facing reporting apps, where witnesses may already arrive influenced by social media speculation, viral clips or disclosure narratives. An overly enthusiastic chatbot can compound those influences rather than filter them out.
 
 NASA’s emphasis on calibrated data, metadata quality and disciplined collection practices points toward the safer model: minimise interpretation during intake, maximise traceability, and preserve the raw observational layer for later analysis. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[2nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">nasa to release discuss unidentified anomalous phenomena report</span><span class="citation-popover-snippet">NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</span></span></span>
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.04681](https://arxiv.org/abs/2408.04681)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivConversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</p></details>
-   Published: August 8, 2024  
-
-2. <a id="endnote-2"></a>
-   Source: tutor2u.net  
-   Title: misleading information leading questions  
-   Link: [https://www.tutor2u.net/psychology/reference/misleading-information-leading-questions?srsltid=AfmBOoqljnX2RJKE848g_N-3g_uXjaFdtvtyxPeRNM4PYMVcIB_ca3By](https://www.tutor2u.net/psychology/reference/misleading-information-leading-questions?srsltid=AfmBOoqljnX2RJKE848g_N-3g_uXjaFdtvtyxPeRNM4PYMVcIB_ca3By)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor2u​Misleading Information – Leading Questions22 Mar 2021 — The results clearly show that the accuracy of eyewitness testimony is aff...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: science.nasa.gov  
-   Title: Page 14. 12.Read more  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is essential to note the pivotal role that structured data curation play...</p></details>
-   Published: September 13, 2023  
-
-4. <a id="endnote-4"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) questions: What types of scientific data currently co...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: github.com  
-   Link: [https://github.com/mitmedialab/ai-false-memories](https://github.com/mitmedialab/ai-false-memories)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubmitmedialab/ai-false-memories: repository for the paper &quot;AI...The study explores false memory induction through suggestive questio...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886924000436](https://www.sciencedirect.com/science/article/abs/pii/S0191886924000436)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectInterrogative suggestibility: The role of source monitoring...by R Polczyk · 2024 · Cited by 7 — Suggestibility is lower wh...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: nasa.gov  
-   Title: nasa to release discuss unidentified anomalous phenomena report  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/html/2408.04681v1](https://arxiv.org/html/2408.04681v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversational AI Powered by Large Language Models...8 Aug 2024 — This study examines the impact of AI on human false memories — recolle...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study UAPs goi...</p></details>
-   Published: May 2026  
-
-10. <a id="endnote-10"></a>
-   Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S001002771200159X](https://www.sciencedirect.com/science/article/abs/pii/S001002771200159X)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Undoing suggestive influence on memory: The reversibility...by A Oeberst · 2012 · Cited by 138 — Presenting inconsistent postevent infor...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825005839](https://www.sciencedirect.com/science/article/pii/S0001691825005839)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large language models&#x27; knowledge of children&#x27;s memory...by P Santtila · 2025 · Cited by 1 — The studies included in the task covered a r...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: bpspsychub.onlinelibrary.wiley.com  
-   Title: Misinformation effects  
-   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psychology HubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Intoxicated participants showed the highest fal...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: rivista.ai  
-   Link: [https://www.rivista.ai/wp-content/uploads/2024/09/2408.04681v1.pdf](https://www.rivista.ai/wp-content/uploads/2024/09/2408.04681v1.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv:2408.04681v1 [cs.CL] 8 Aug 2024by S Chan · 2024 · Cited by 22 — It explores false memory induction through suggestive questioning i...</p></details>
-
-### Additional References
-
-14. <a id="endnote-14"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/383037716_Conversational_AI_Powered_by_Large_Language_Models_Amplifies_False_Memories_in_Witness_Interviews](https://www.researchgate.net/publication/383037716_Conversational_AI_Powered_by_Large_Language_Models_Amplifies_False_Memories_in_Witness_Interviews)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Conversational AI Powered by Large Language...8 Aug 2024 — This study examines the impact of AI on human false memories -- recolle...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/psychbmay_from-a-cognitive-perspective-the-risk-posed-activity-7421957327978729473-5RnK](https://www.linkedin.com/posts/psychbmay_from-a-cognitive-perspective-the-risk-posed-activity-7421957327978729473-5RnK)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Policing: False Memories and Cognitive BiasEmerging experimental evidence suggests that interactions with LLMs produce substantiall...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: azoai.com  
-   Link: [https://www.azoai.com/news/20240908/Generative-Chatbots-Amplify-False-Memories-in-Witness-Interviews-Posing-New-Ethical-Risks.aspx](https://www.azoai.com/news/20240908/Generative-Chatbots-Amplify-False-Memories-in-Witness-Interviews-Posing-New-Ethical-Risks.aspx)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative Chatbots Amplify False Memories in Witness...8 Sept 2024 — Generative chatbots significantly increase the formation and persi...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: axios.com  
-   Link: [https://www.axios.com/2023/09/14/nasa-uap-report-release](https://www.axios.com/2023/09/14/nasa-uap-report-release)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect](https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings](https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative perceptio...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: psypost.org  
-   Link: [https://www.psypost.org/conversational-ai-can-increase-false-memory-formation-by-injecting-slight-misinformation-in-conversations/](https://www.psypost.org/conversational-ai-can-increase-false-memory-formation-by-injecting-slight-misinformation-in-conversations/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversational AI can increase false memory formation by...7 Jan 2026 — Conversational AI can increase false memory formation by injecti...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0](https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comHigh-Quality Data is Worth a Thousand LLMs in Resolving...Among 51 cases of death row exonerations, a study posted here found...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: ojp.gov  
-   Title: eyewitness responses leading and misleading questions under cognitive  
-   Link: [https://www.ojp.gov/library/publications/eyewitness-responses-leading-and-misleading-questions-under-cognitive](https://www.ojp.gov/library/publications/eyewitness-responses-leading-and-misleading-questions-under-cognitive)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsEyewitness Responses to Leading and Misleading...by RE Geiselman · 1986 · Cited by 228 — Three experiments wer...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -824,75 +706,71 @@ NASA’s emphasis on calibrated data, metadata quality and disciplined collectio
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-c&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-c" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-prompts-can-ai-accidentally-lead-a-ufo-witness-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-te&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -950,10 +828,10 @@ NASA’s emphasis on calibrated data, metadata quality and disciplined collectio
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1101,3 +979,130 @@ NASA’s emphasis on calibrated data, metadata quality and disciplined collectio
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2408.04681](https://arxiv.org/abs/2408.04681)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivConversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</p></details>
+   Published: August 8, 2024  
+
+2. <a id="endnote-2"></a>
+   Source: tutor2u.net  
+   Title: misleading information leading questions  
+   Link: [https://www.tutor2u.net/psychology/reference/misleading-information-leading-questions?srsltid=AfmBOoqljnX2RJKE848g_N-3g_uXjaFdtvtyxPeRNM4PYMVcIB_ca3By](https://www.tutor2u.net/psychology/reference/misleading-information-leading-questions?srsltid=AfmBOoqljnX2RJKE848g_N-3g_uXjaFdtvtyxPeRNM4PYMVcIB_ca3By)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Tutor2u​Misleading Information – Leading Questions22 Mar 2021 — The results clearly show that the accuracy of eyewitness testimony is aff...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: science.nasa.gov  
+   Title: Page 14. 12.Read more  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is essential to note the pivotal role that structured data curation play...</p></details>
+   Published: September 13, 2023  
+
+4. <a id="endnote-4"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — The UAP Independent Study shall report on the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) questions: What types of scientific data currently co...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: github.com  
+   Link: [https://github.com/mitmedialab/ai-false-memories](https://github.com/mitmedialab/ai-false-memories)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>GitHubmitmedialab/ai-false-memories: repository for the paper &quot;AI...The study explores false memory induction through suggestive questio...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0191886924000436](https://www.sciencedirect.com/science/article/abs/pii/S0191886924000436)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectInterrogative suggestibility: The role of source monitoring...by R Polczyk · 2024 · Cited by 7 — Suggestibility is lower wh...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: nasa.gov  
+   Title: nasa to release discuss unidentified anomalous phenomena report  
+   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/html/2408.04681v1](https://arxiv.org/html/2408.04681v1)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversational AI Powered by Large Language Models...8 Aug 2024 — This study examines the impact of AI on human false memories — recolle...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study UAPs goi...</p></details>
+   Published: May 2026  
+
+10. <a id="endnote-10"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S001002771200159X](https://www.sciencedirect.com/science/article/abs/pii/S001002771200159X)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Undoing suggestive influence on memory: The reversibility...by A Oeberst · 2012 · Cited by 138 — Presenting inconsistent postevent infor...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/pii/S0001691825005839](https://www.sciencedirect.com/science/article/pii/S0001691825005839)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large language models&#x27; knowledge of children&#x27;s memory...by P Santtila · 2025 · Cited by 1 — The studies included in the task covered a r...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: bpspsychub.onlinelibrary.wiley.com  
+   Title: Misinformation effects  
+   Link: [https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020](https://bpspsychub.onlinelibrary.wiley.com/doi/10.1111/lcrp.70020)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>BPS Psychology HubThe history of an idea: The misinformation effect - Loftus24 Dec 2025 — Intoxicated participants showed the highest fal...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: rivista.ai  
+   Link: [https://www.rivista.ai/wp-content/uploads/2024/09/2408.04681v1.pdf](https://www.rivista.ai/wp-content/uploads/2024/09/2408.04681v1.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv:2408.04681v1 [cs.CL] 8 Aug 2024by S Chan · 2024 · Cited by 22 — It explores false memory induction through suggestive questioning i...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/383037716_Conversational_AI_Powered_by_Large_Language_Models_Amplifies_False_Memories_in_Witness_Interviews](https://www.researchgate.net/publication/383037716_Conversational_AI_Powered_by_Large_Language_Models_Amplifies_False_Memories_in_Witness_Interviews)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Conversational AI Powered by Large Language...8 Aug 2024 — This study examines the impact of AI on human false memories -- recolle...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: linkedin.com  
+   Link: [https://www.linkedin.com/posts/psychbmay_from-a-cognitive-perspective-the-risk-posed-activity-7421957327978729473-5RnK](https://www.linkedin.com/posts/psychbmay_from-a-cognitive-perspective-the-risk-posed-activity-7421957327978729473-5RnK)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI in Policing: False Memories and Cognitive BiasEmerging experimental evidence suggests that interactions with LLMs produce substantiall...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: azoai.com  
+   Link: [https://www.azoai.com/news/20240908/Generative-Chatbots-Amplify-False-Memories-in-Witness-Interviews-Posing-New-Ethical-Risks.aspx](https://www.azoai.com/news/20240908/Generative-Chatbots-Amplify-False-Memories-in-Witness-Interviews-Posing-New-Ethical-Risks.aspx)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Generative Chatbots Amplify False Memories in Witness...8 Sept 2024 — Generative chatbots significantly increase the formation and persi...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: axios.com  
+   Link: [https://www.axios.com/2023/09/14/nasa-uap-report-release](https://www.axios.com/2023/09/14/nasa-uap-report-release)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>government efforts in understanding UAPs. Unlike the Department of Defense&#x27;s often classified data, NASA emphasizes transparency and publ...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: thedecisionlab.com  
+   Link: [https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect](https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: pbs.org  
+   Link: [https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings](https://www.pbs.org/newshour/science/watch-nasa-report-says-more-science-and-less-stigma-are-needed-to-understand-ufo-sightings)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>WATCH: NASA report says more science and less stigma are...An independent team commissioned by NASA cautions that the negative perceptio...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: psypost.org  
+   Link: [https://www.psypost.org/conversational-ai-can-increase-false-memory-formation-by-injecting-slight-misinformation-in-conversations/](https://www.psypost.org/conversational-ai-can-increase-false-memory-formation-by-injecting-slight-misinformation-in-conversations/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversational AI can increase false memory formation by...7 Jan 2026 — Conversational AI can increase false memory formation by injecti...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: wired.com  
+   Link: [https://www.wired.com/story/nasa-ufos-aliens-report-2023](https://www.wired.com/story/nasa-ufos-aliens-report-2023)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: avi-loeb.medium.com  
+   Link: [https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0](https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comHigh-Quality Data is Worth a Thousand LLMs in Resolving...Among 51 cases of death row exonerations, a study posted here found...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: ojp.gov  
+   Title: eyewitness responses leading and misleading questions under cognitive  
+   Link: [https://www.ojp.gov/library/publications/eyewitness-responses-leading-and-misleading-questions-under-cognitive](https://www.ojp.gov/library/publications/eyewitness-responses-leading-and-misleading-questions-under-cognitive)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of Justice ProgramsEyewitness Responses to Leading and Misleading...by RE Geiselman · 1986 · Cited by 228 — Three experiments wer...</p></details>

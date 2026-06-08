@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:50:25'
 parent_title: Is it a drone or a distant aircraft? | Aircraft
 parent_permalink: /drone-clues/
 parent_nav_short_title: Drone clues
+parent_heading_title: Is it a drone or a distant aircraft?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Aircraft | Can AI Help Explain UFO Sightings?
   permalink: /aircraft/
   short_title: Aircraft
+  heading_title: Was It an Aircraft or Drone?
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1
   title: Drone clues | Aircraft
   permalink: /drone-clues/
   short_title: Drone clues
+  heading_title: Is it a drone or a distant aircraft?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,33 +231,40 @@ breadcrumb_links:
   title: Aircraft | Can AI Help Explain UFO Sightings?
   permalink: /aircraft/
   short_title: Aircraft
+  heading_title: Was It an Aircraft or Drone?
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1
   title: Drone clues | Aircraft
   permalink: /drone-clues/
   short_title: Drone clues
+  heading_title: Is it a drone or a distant aircraft?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9
   title: Hover tests | Drone clues
   permalink: /hover-tests/
   short_title: Hover tests
+  heading_title: Is that light really hovering?
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b
   title: Sound clues | Drone clues
   permalink: /sound-clues/
   short_title: Sound clues
+  heading_title: Why silent drones are not always silent
 up_link:
   basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1
   title: Drone clues | Aircraft
   permalink: /drone-clues/
   short_title: Drone clues
+  heading_title: Is it a drone or a distant aircraft?
 next_link:
   basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9
   title: Hover tests | Drone clues
   permalink: /hover-tests/
   short_title: Hover tests
+  heading_title: Is that light really hovering?
+date: '2026-06-08 23:31:11 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_14
 One of the quickest ways to test a drone explanation in a UK UFO sighting is to ask a simple question: could an ordinary drone legally and practically have been where the witness says it was? [UK drone rules]({{ 'uk-drone-rules/' | relative_url }}) do not prove that a sighting was mundane, but they provide useful boundaries. Most consumer drones in the UK are expected to remain below 120 metres (400 feet) above ground and within the pilot’s visual line of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-light.svg" | relative_url }}" alt="Height rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-dark.svg" | relative_url }}" alt="Height rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because witnesses often describe lights that appear “thousands of feet up”, “far out over the sea”, or “[hovering]({{ 'wind-checks/' | relative_url }}) silently for half an hour”. In many cases, those impressions conflict with the limits of normal multicopter operation. AI-assisted UFO investigation workflows can therefore use UK Civil Aviation Authority (CAA) rules as a reality check rather than as a definitive answer. If a reported object would have required illegal altitude, impossible visual tracking, or extreme endurance from a small multicopter, the drone theory weakens. If the sighting instead matches the height, range and behaviour expected from ordinary drone use, the explanation becomes more [plausible]({{ 'plausible-cases/' | relative_url }}).
 
 ## The 120 metre rule in sighting checks
@@ -336,7 +345,7 @@ This is especially relevant for sightings over:
 Witnesses often assume a mysterious object came from “nowhere”, but multicopters usually originate from somewhere physically accessible to a pilot. A good investigative system treats launch practicality as part of the evidence chain rather than as an afterthought.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-light.svg" | relative_url }}" alt="Height rules illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-dark.svg" | relative_url }}" alt="Height rules illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When altitude and duration weaken the drone theory
 
 Drone explanations become less convincing when multiple constraints fail simultaneously.
@@ -392,7 +401,7 @@ Modern regulations are also changing. The UK introduced updated drone classifica
 For UFO analysis, however, the central lesson remains the same: legal frameworks are most useful as behavioural baselines. They describe how ordinary drone activity usually occurs in the real world.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-light.svg" | relative_url }}" alt="Height rules illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-dark.svg" | relative_url }}" alt="Height rules illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why these rules matter in AI-assisted UFO investigation
 
 In a structured UFO case workflow, drone regulations become machine-testable constraints rather than background trivia.
@@ -429,133 +438,8 @@ The same system may downgrade the drone explanation where the object was reporte
 Used carefully, UK drone rules help investigators avoid two opposite errors: dismissing unusual reports too quickly, or accepting ordinary low-altitude drone activity as something extraordinary.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jtmtSREWyzc" title="Drone Rules 2025 - Easy Guide on Where &amp; How to Fly your DJI Mini 4, Neo or Air 3S" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jtmtSREWyzc" target="_blank" rel="noopener noreferrer">Drone Rules 2025 - Easy Guide on Where &amp; How to Fly your DJI Mini 4, Neo or Air 3S</a></p><p class="youtube-embed-meta">Channel: Ian in London</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jtmtSREWyzc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jtmtSREWyzc">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/midPbqaDnyw" title="2026 UK Drone Rules - The Complete Guide" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=midPbqaDnyw" target="_blank" rel="noopener noreferrer">2026 UK Drone Rules - The Complete Guide</a></p><p class="youtube-embed-meta">Channel: Geeksvana</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=midPbqaDnyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=midPbqaDnyw">Open on YouTube</a></p></div></div></div>
 
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: reuters.com  
-   Link: [https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/](https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These rules would allow drones to be flown beyond the visual line of sight, relying only on the drone&#x27;s camera. The proposed regulations...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: techradar.com  
-   Title: Tech Radar UK drone laws have just changed  
-   Link: [https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now](https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If you fly where the ground falls or rises...Read more...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityWhere you can flyYou must not fly closer to individual buildings than 50m horizontally. Individual means at least...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/beyond-visual-line-of-sight-bvlos/](https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/beyond-visual-line-of-sight-bvlos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Normally, you must always keep your drone within direct sight. This is often called Visual Line of Sight, or VLOS for short.Read more...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf](https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Drone and Model Aircraft Codeanyone wanting to fly a drone or model aircraft in the UK.... Your drone or model aircraft must be with...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: hiredronepilot.uk  
-   Title: drone height limit uk  
-   Link: [https://hiredronepilot.uk/blog/drone-height-limit-uk/](https://hiredronepilot.uk/blog/drone-height-limit-uk/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Drone Height Limit: What 120 Metres Really Means12 Sept 2025 — The UK drone height limit is 120 metres, roughly 400 feet, measured...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: dronescene.co.uk  
-   Link: [https://dronescene.co.uk/400ft](https://dronescene.co.uk/400ft)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>If you fly where the ground falls or rises...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/drones/specific-category/pdra01-operational-authorisation/pdra01-overview/](https://www.caa.co.uk/drones/specific-category/pdra01-operational-authorisation/pdra01-overview/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityPDRA01 overview | UK Civil Aviation AuthorityFlights must be conducted within VLOS as per the definition given in...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: filminginengland.co.uk  
-   Link: [https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf](https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes. Yes. Yes. Yes. Maximum distance from operator. 500m (VLOS). 500m (VLOS). 500m (VLOS).Read more...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: fpvuk.org  
-   Link: [https://fpvuk.org/caa-permission-for-flight-above-400ft/](https://fpvuk.org/caa-permission-for-flight-above-400ft/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FPV UKCAA Permission for flight above 400ftFPV UK, the UK drone flying association, has been issued with a special CAA permission for dro...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: greyarro.ws  
-   Title: Visual Line Of Sight?  
-   Link: [https://greyarro.ws/t/visual-line-of-sight/85848](https://greyarro.ws/t/visual-line-of-sight/85848)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions &amp; Answers28 Oct 2024 — My question really relates to VLS, visual line of sight! I think my eye sight is reasonably good. I wear...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: filminginengland.co.uk  
-   Link: [https://www.filminginengland.co.uk/wp-content/uploads/2021/06/UK-Drone-Regulations-Matrix-for-the-Open-Category-v1.pdf](https://www.filminginengland.co.uk/wp-content/uploads/2021/06/UK-Drone-Regulations-Matrix-for-the-Open-Category-v1.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Regulations Matrix for the Open CategoryThis matrix provides an overview of the key regulations and restrictions for each drone...</p></details>
-
-### Additional References
-
-14. <a id="endnote-14"></a>
-   Source: t3.com  
-   Link: [https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026](https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: carrot.co.uk  
-   Link: [https://www.carrot.co.uk/understanding-drone-flight-altitude-open-category](https://www.carrot.co.uk/understanding-drone-flight-altitude-open-category)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flight Altitude in Open Category: Rules ExplainedThis regulation permits drones to ascend up to 15 metres above the peak of an &#x27;art...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: nationwidedrones.co.uk  
-   Link: [https://www.nationwidedrones.co.uk/enhanced-caa-permissions/](https://www.nationwidedrones.co.uk/enhanced-caa-permissions/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhanced CAA PermissionsGenerally, commercial drone operators are required to maintain a minimum distance of 50 meters from uninvolved pe...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: theguardian.com  
-   Link: [https://www.theguardian.com/technology/2024/feb/20/drones-could-deliver-medical-supplies-under-uk-travel-watchdog-plans](https://www.theguardian.com/technology/2024/feb/20/drones-could-deliver-medical-supplies-under-uk-travel-watchdog-plans)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These proposals aim to maintain safe drone operations at low heights and near infrastructure, predicting fewer aircraft in these areas. K...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/](https://www.caa.co.uk/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Civil Aviation AuthorityThe UK Civil Aviation Authority (CAA), the UK&#x27;s independent aerospace regulator, protects people and enables a...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/](https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of🛸 Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of January 2026, anyone f...</p></details>
-   Published: january 2026  
-
-20. <a id="endnote-20"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/903879063054302/posts/8929414957167299/](https://www.facebook.com/groups/903879063054302/posts/8929414957167299/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>For all those questions about how far can the drone be away from you to comply with our UK CAA. To me the regulations...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: flybydronetraining.co.uk  
-   Title: Drone Legislation at a glance | Press Kit The drone must always be in sight  
-   Link: [https://www.flybydronetraining.co.uk/press-kit/drone-legislation-at-a-glance](https://www.flybydronetraining.co.uk/press-kit/drone-legislation-at-a-glance)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It must never be flown more than 400ft (120m) high to avoid risk of collision with planes and helicopters. Never fly closer...Read more...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: greyarro.ws  
-   Title: where does it say that vlos has max limit of 500m on the caa website  
-   Link: [https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617](https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where does it say that VLOS has max limit of 500m on...11 Jan 2019 — The maximum distance a UAV should be flown from its operator is 500...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: dronestudionortheast.co.uk  
-   Title: can you fly a drone over a motorway uk drone flight guidelines 2024  
-   Link: [https://dronestudionortheast.co.uk/can-you-fly-a-drone-over-a-motorway-uk-drone-flight-guidelines-2024/](https://dronestudionortheast.co.uk/can-you-fly-a-drone-over-a-motorway-uk-drone-flight-guidelines-2024/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Fly a Drone Over a Motorway?29 Aug 2025 — In the UK, drones must adhere to a maximum legal flight ceiling of 120 metres (400 feet...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -671,75 +555,71 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI"><img src="{{ '/assets/images/marketplace-covers/09a65a1c0c3d4fa02d11.jpg' | relative_url }}" alt="Listing image for Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories"><img src="{{ '/assets/images/marketplace-covers/06a5ef9ae28a0114d721.jpg' | relative_url }}" alt="Listing image for For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-artificial-intelligence-post&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-artificial-intelligence-post" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-artificial-intelligence-post&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-artificial-intelligence-post" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Double Night Flight LED Light Lamp for DJI Mini 3 Pro Drone Accessories"><img src="{{ '/assets/images/marketplace-covers/bdfb944cb4088ee0699c.jpg' | relative_url }}" alt="Listing image for Double Night Flight LED Light Lamp for DJI Mini 3 Pro Drone Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Double Night Flight LED Light Lamp for DJI Mini 3 Pro Drone Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI"><img src="{{ '/assets/images/marketplace-covers/ef8c107afae923415847.jpg' | relative_url }}" alt="Listing image for Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=height-rules-when-a-drone-explanation-flies-too-high-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -797,10 +677,10 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -948,3 +828,129 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: reuters.com  
+   Link: [https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/](https://www.reuters.com/world/uk/uks-new-drone-proposals-allow-flying-medical-deliveries-rail-checks-2024-02-20/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>These rules would allow drones to be flown beyond the visual line of sight, relying only on the drone&#x27;s camera. The proposed regulations...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: techradar.com  
+   Title: Tech Radar UK drone laws have just changed  
+   Link: [https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now](https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: caa.co.uk  
+   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>If you fly where the ground falls or rises...Read more...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: caa.co.uk  
+   Link: [https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/](https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/where-you-can-fly/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityWhere you can flyYou must not fly closer to individual buildings than 50m horizontally. Individual means at least...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: caa.co.uk  
+   Link: [https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/beyond-visual-line-of-sight-bvlos/](https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/beyond-visual-line-of-sight-bvlos/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Normally, you must always keep your drone within direct sight. This is often called Visual Line of Sight, or VLOS for short.Read more...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: caa.co.uk  
+   Link: [https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf](https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Drone and Model Aircraft Codeanyone wanting to fly a drone or model aircraft in the UK.... Your drone or model aircraft must be with...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: hiredronepilot.uk  
+   Title: drone height limit uk  
+   Link: [https://hiredronepilot.uk/blog/drone-height-limit-uk/](https://hiredronepilot.uk/blog/drone-height-limit-uk/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UK Drone Height Limit: What 120 Metres Really Means12 Sept 2025 — The UK drone height limit is 120 metres, roughly 400 feet, measured...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: dronescene.co.uk  
+   Link: [https://dronescene.co.uk/400ft](https://dronescene.co.uk/400ft)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>If you fly where the ground falls or rises...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: caa.co.uk  
+   Link: [https://www.caa.co.uk/drones/specific-category/pdra01-operational-authorisation/pdra01-overview/](https://www.caa.co.uk/drones/specific-category/pdra01-operational-authorisation/pdra01-overview/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityPDRA01 overview | UK Civil Aviation AuthorityFlights must be conducted within VLOS as per the definition given in...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: filminginengland.co.uk  
+   Link: [https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf](https://www.filminginengland.co.uk/wp-content/uploads/2024/03/UK-Drone-Regulations-Matrix-for-the-Open-Category.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Yes. Yes. Yes. Yes. Maximum distance from operator. 500m (VLOS). 500m (VLOS). 500m (VLOS).Read more...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: fpvuk.org  
+   Link: [https://fpvuk.org/caa-permission-for-flight-above-400ft/](https://fpvuk.org/caa-permission-for-flight-above-400ft/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FPV UKCAA Permission for flight above 400ftFPV UK, the UK drone flying association, has been issued with a special CAA permission for dro...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: greyarro.ws  
+   Title: Visual Line Of Sight?  
+   Link: [https://greyarro.ws/t/visual-line-of-sight/85848](https://greyarro.ws/t/visual-line-of-sight/85848)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Questions &amp; Answers28 Oct 2024 — My question really relates to VLS, visual line of sight! I think my eye sight is reasonably good. I wear...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: filminginengland.co.uk  
+   Link: [https://www.filminginengland.co.uk/wp-content/uploads/2021/06/UK-Drone-Regulations-Matrix-for-the-Open-Category-v1.pdf](https://www.filminginengland.co.uk/wp-content/uploads/2021/06/UK-Drone-Regulations-Matrix-for-the-Open-Category-v1.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Drone Regulations Matrix for the Open CategoryThis matrix provides an overview of the key regulations and restrictions for each drone...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: t3.com  
+   Link: [https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026](https://www.t3.com/active/outdoors/caa-drone-regulation-changes-2026)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key updates include lowering the registration threshold, requiring anyone flying drones over 100g (previously 250g) to obtain a free Flye...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: carrot.co.uk  
+   Link: [https://www.carrot.co.uk/understanding-drone-flight-altitude-open-category](https://www.carrot.co.uk/understanding-drone-flight-altitude-open-category)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Flight Altitude in Open Category: Rules ExplainedThis regulation permits drones to ascend up to 15 metres above the peak of an &#x27;art...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: nationwidedrones.co.uk  
+   Link: [https://www.nationwidedrones.co.uk/enhanced-caa-permissions/](https://www.nationwidedrones.co.uk/enhanced-caa-permissions/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhanced CAA PermissionsGenerally, commercial drone operators are required to maintain a minimum distance of 50 meters from uninvolved pe...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: theguardian.com  
+   Link: [https://www.theguardian.com/technology/2024/feb/20/drones-could-deliver-medical-supplies-under-uk-travel-watchdog-plans](https://www.theguardian.com/technology/2024/feb/20/drones-could-deliver-medical-supplies-under-uk-travel-watchdog-plans)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>These proposals aim to maintain safe drone operations at low heights and near infrastructure, predicting fewer aircraft in these areas. K...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: caa.co.uk  
+   Link: [https://www.caa.co.uk/](https://www.caa.co.uk/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Civil Aviation AuthorityThe UK Civil Aviation Authority (CAA), the UK&#x27;s independent aerospace regulator, protects people and enables a...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/](https://www.facebook.com/NorthWestLeicsPolice/posts/-key-uk-drone-laws-rules-%EF%B8%8Fflyer-id-from-the-1st-of-january-2026-anyone-flying-a-/1305645221603916/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of🛸 Key UK Drone Laws &amp; Rules 🛸 ▪️Flyer ID: From the 1st of January 2026, anyone f...</p></details>
+   Published: january 2026  
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/903879063054302/posts/8929414957167299/](https://www.facebook.com/groups/903879063054302/posts/8929414957167299/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>For all those questions about how far can the drone be away from you to comply with our UK CAA. To me the regulations...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: flybydronetraining.co.uk  
+   Title: Drone Legislation at a glance | Press Kit The drone must always be in sight  
+   Link: [https://www.flybydronetraining.co.uk/press-kit/drone-legislation-at-a-glance](https://www.flybydronetraining.co.uk/press-kit/drone-legislation-at-a-glance)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It must never be flown more than 400ft (120m) high to avoid risk of collision with planes and helicopters. Never fly closer...Read more...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: greyarro.ws  
+   Title: where does it say that vlos has max limit of 500m on the caa website  
+   Link: [https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617](https://greyarro.ws/t/where-does-it-say-that-vlos-has-max-limit-of-500m-on-the-caa-website/5617)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Where does it say that VLOS has max limit of 500m on...11 Jan 2019 — The maximum distance a UAV should be flown from its operator is 500...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: dronestudionortheast.co.uk  
+   Title: can you fly a drone over a motorway uk drone flight guidelines 2024  
+   Link: [https://dronestudionortheast.co.uk/can-you-fly-a-drone-over-a-motorway-uk-drone-flight-guidelines-2024/](https://dronestudionortheast.co.uk/can-you-fly-a-drone-over-a-motorway-uk-drone-flight-guidelines-2024/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can You Fly a Drone Over a Motorway?29 Aug 2025 — In the UK, drones must adhere to a maximum legal flight ceiling of 120 metres (400 feet...</p></details>

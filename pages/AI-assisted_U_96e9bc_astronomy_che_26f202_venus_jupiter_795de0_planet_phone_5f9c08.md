@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:34:51'
 parent_title: When a planet looks like a hovering UFO | Astronomy
 parent_permalink: /bright-planets/
 parent_nav_short_title: Bright planets
+parent_heading_title: When a planet looks like a hovering UFO
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0
   title: Bright planets | Astronomy
   permalink: /bright-planets/
   short_title: Bright planets
+  heading_title: When a planet looks like a hovering UFO
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,33 +231,40 @@ breadcrumb_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0
   title: Bright planets | Astronomy
   permalink: /bright-planets/
   short_title: Bright planets
+  heading_title: When a planet looks like a hovering UFO
 sibling_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_blue_book_ven_31a404
   title: Blue Book | Bright planets
   permalink: /blue-book/
   short_title: Blue Book
+  heading_title: How Project Blue Book Linked UFOs To Venus
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee
   title: Following Cars | Bright planets
   permalink: /following-cars/
   short_title: Following Cars
+  heading_title: Why Venus Seems To Follow Your Car
 up_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0
   title: Bright planets | Astronomy
   permalink: /bright-planets/
   short_title: Bright planets
+  heading_title: When a planet looks like a hovering UFO
 prev_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee
   title: Following Cars | Bright planets
   permalink: /following-cars/
   short_title: Following Cars
+  heading_title: Why Venus Seems To Follow Your Car
+date: '2026-06-08 23:15:15 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_79
 Many modern UFO reports now arrive with phone video attached. A witness points a handset at a bright light low in the western sky, zooms in digitally, and records a glowing object that appears to pulse, rotate, change colour or split into structured shapes. In a large number of cases, the underlying object is later identified as Venus or Jupiter rather than an [aircraft]({{ 'aircraft/' | relative_url }}) or unknown craft.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-light.svg" | relative_url }}" alt="Phone Distortion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-dark.svg" | relative_url }}" alt="Phone Distortion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mismatch between what the eye sees and what the phone records is a major issue in AI-assisted UFO sighting investigation. [Bright planets]({{ 'bright-planets/' | relative_url }}) near the horizon are unusually difficult targets for small [phone cameras]({{ 'phone-cameras/' | relative_url }}). Atmospheric turbulence, aggressive image processing, autofocus hunting and digital zoom can turn a single point of light into a moving blob with apparent surface detail. Royal Museums Greenwich notes that Venus near the horizon can produce “amazing flashing colour effects” frequently reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums GreenwichPlanet VenusWhen near the horizon, the &#x27;twinkling&#x27; can give rise to amazing flashing colour effects which are ofte...</span></span></span>
 
 For investigators, the key lesson is not that witnesses are dishonest or irrational. The more useful point is that phone footage of bright planets is often visually misleading even when the original [observation]({{ 'observation-vs-claim/' | relative_url }}) was genuine.
@@ -355,7 +364,7 @@ Sensor bloom and atmospheric distortion can temporarily stretch a planet into se
 This becomes more common when recording through thin cloud, dirty lenses or heat shimmer above rooftops and roads.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-light.svg" | relative_url }}" alt="Phone Distortion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-dark.svg" | relative_url }}" alt="Phone Distortion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comparing raw footage with naked-eye observations
 
 One of the most useful investigative checks is comparing what the witness actually saw with what the phone produced.
@@ -429,7 +438,7 @@ Without that context, viewers see only a cropped glowing object floating in dark
 This is one reason investigators place high value on uncropped footage showing the surrounding skyline. A stable object fixed above the same rooftop or treeline over several minutes strongly supports a planetary explanation.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-light.svg" | relative_url }}" alt="Phone Distortion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-dark.svg" | relative_url }}" alt="Phone Distortion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AI can and cannot infer from distorted phone footage
 
 AI image analysis can help classify common distortion patterns, but it cannot reliably recover true object structure from heavily degraded zoom footage.
@@ -467,76 +476,6 @@ Venus and Jupiter remain among the strongest ordinary explanations for western-s
 The resulting videos can look genuinely strange even when no unusual aerial object is present. That does not make witnesses foolish or deceptive. It reflects the combination of human perception, turbulent atmosphere and computational photography operating under difficult low-light conditions.
 
 For AI-assisted case analysis, the practical takeaway is straightforward: dramatic phone footage alone is [weak evidence]({{ 'weak-evidence/' | relative_url }}) unless it survives basic astronomical, optical and environmental screening. Bright planets filmed at high digital zoom should be treated as a routine early-stage comparison category before more exotic explanations are considered.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: rmg.co.uk  
-   Link: [https://www.rmg.co.uk/stories/space-astronomy/planet-venus](https://www.rmg.co.uk/stories/space-astronomy/planet-venus)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichPlanet VenusWhen near the horizon, the &#x27;twinkling&#x27; can give rise to amazing flashing colour effects which are ofte...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: Wikipedia  
-   Title: Lucky imaging  
-   Link: [https://en.wikipedia.org/wiki/Lucky_imaging](https://en.wikipedia.org/wiki/Lucky_imaging)  
-
-3. <a id="endnote-3"></a>
-   Source: visitgreenwich.org.uk  
-   Link: [https://www.visitgreenwich.org.uk/information/product-catch-all/royal-museums-greenwich-p1395411](https://www.visitgreenwich.org.uk/information/product-catch-all/royal-museums-greenwich-p1395411)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichA top-10 UK visitor attraction, Royal Museums Greenwich is home to the Royal Observatory and the Prime Meridian, t...</p></details>
-
-### Additional References
-
-4. <a id="endnote-4"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/yourDigitalBrain/posts/this-is-a-common-meme-but-it-may-have-an-explanation-most-photos-of-supposed-ufo/1218955780347961/](https://www.facebook.com/yourDigitalBrain/posts/this-is-a-common-meme-but-it-may-have-an-explanation-most-photos-of-supposed-ufo/1218955780347961/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a common meme, but it may have an explanationHey, UFO investigators! If you get UFO photos submitted that depict objects which lo...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/royalmuseumsgreenwich/videos/the-moon-exhibition/1174530019399895/](https://www.facebook.com/royalmuseumsgreenwich/videos/the-moon-exhibition/1174530019399895/)  
-
-6. <a id="endnote-6"></a>
-   Source: aldomedia.com  
-   Link: [https://www.aldomedia.com/blog/ufo-uap-photography-tips](https://www.aldomedia.com/blog/ufo-uap-photography-tips)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Once you&#x27;ve captured a UFO or UAP, consider reporting it to organizations like MUFON (Mutual UFO Network) or the National UFO...Read more...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: instagram.com  
-   Link: [https://www.instagram.com/p/CxY7cp7M8te/](https://www.instagram.com/p/CxY7cp7M8te/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of light detected during missions to Venus may instead be tens of thousands of meteors...Read more...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: instagram.com  
-   Title: Smell the Solar System, launch a rocket and even chase light  
-   Link: [https://www.instagram.com/royalmuseumsgreenwich/reel/DXw46yKla3c/?hl=zh-cn](https://www.instagram.com/royalmuseumsgreenwich/reel/DXw46yKla3c/?hl=zh-cn)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>alien craft 1-2pm Performance Space 1: Science session delivered by Love Science 2-3pm Performance Space 1: Space-themed storytime session...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: reddit.com  
-   Title: The orbs people are photographing are not out of focus  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hk6j91/the_orbs_people_are_photographing_are_not_out_of/](https://www.reddit.com/r/UFOs/comments/1hk6j91/the_orbs_people_are_photographing_are_not_out_of/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>alien looks like · r/UFOs - Based on the recent UFO release, on page 99/184. 184. 244. Orbs doing what they do in 1945 · r/UFOs. • 5mo ag...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/royalmuseumsgreenwich/videos/theres-been-a-wealth-of-out-of-this-world-expertise-at-the-royal-observatory-for/1691471681352257/](https://www.facebook.com/royalmuseumsgreenwich/videos/theres-been-a-wealth-of-out-of-this-world-expertise-at-the-royal-observatory-for/1691471681352257/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ory for 350 years, and now more than ever, it&#x27;s there for everyone...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/lovelandersgroup/posts/1369875577726210/](https://www.facebook.com/groups/lovelandersgroup/posts/1369875577726210/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>w this phenomenon and has showed up everyday since. Any thoughts...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DW2NmawjExy/](https://www.instagram.com/reel/DW2NmawjExy/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t photo you can with a phone camera. 1. Choose a clear location...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/royalmuseumsgreenwich/videos/unboxing-the-universe-at-the-national-maritime-museum/1260868442866938/](https://www.facebook.com/royalmuseumsgreenwich/videos/unboxing-the-universe-at-the-national-maritime-museum/1260868442866938/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>d with live demonstrations from Royal Observatory Astronomers...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -652,75 +591,71 @@ For AI-assisted case analysis, the practical takeaway is straightforward: dramat
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big"><img src="{{ '/assets/images/marketplace-covers/b64cdf336f9794ec37de.jpg' | relative_url }}" alt="Listing image for MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large"><img src="{{ '/assets/images/marketplace-covers/0e5dbc87c8d72719964f.jpg' | relative_url }}" alt="Listing image for Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-distortion-why-bright-planets-look-strange-on-phone-cameras-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -778,10 +713,10 @@ For AI-assisted case analysis, the practical takeaway is straightforward: dramat
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -929,3 +864,73 @@ For AI-assisted case analysis, the practical takeaway is straightforward: dramat
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: rmg.co.uk  
+   Link: [https://www.rmg.co.uk/stories/space-astronomy/planet-venus](https://www.rmg.co.uk/stories/space-astronomy/planet-venus)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichPlanet VenusWhen near the horizon, the &#x27;twinkling&#x27; can give rise to amazing flashing colour effects which are ofte...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Lucky imaging  
+   Link: [https://en.wikipedia.org/wiki/Lucky_imaging](https://en.wikipedia.org/wiki/Lucky_imaging)  
+
+3. <a id="endnote-3"></a>
+   Source: visitgreenwich.org.uk  
+   Link: [https://www.visitgreenwich.org.uk/information/product-catch-all/royal-museums-greenwich-p1395411](https://www.visitgreenwich.org.uk/information/product-catch-all/royal-museums-greenwich-p1395411)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichA top-10 UK visitor attraction, Royal Museums Greenwich is home to the Royal Observatory and the Prime Meridian, t...</p></details>
+
+### Additional References
+
+4. <a id="endnote-4"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/yourDigitalBrain/posts/this-is-a-common-meme-but-it-may-have-an-explanation-most-photos-of-supposed-ufo/1218955780347961/](https://www.facebook.com/yourDigitalBrain/posts/this-is-a-common-meme-but-it-may-have-an-explanation-most-photos-of-supposed-ufo/1218955780347961/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a common meme, but it may have an explanationHey, UFO investigators! If you get UFO photos submitted that depict objects which lo...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/royalmuseumsgreenwich/videos/the-moon-exhibition/1174530019399895/](https://www.facebook.com/royalmuseumsgreenwich/videos/the-moon-exhibition/1174530019399895/)  
+
+6. <a id="endnote-6"></a>
+   Source: aldomedia.com  
+   Link: [https://www.aldomedia.com/blog/ufo-uap-photography-tips](https://www.aldomedia.com/blog/ufo-uap-photography-tips)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Once you&#x27;ve captured a UFO or UAP, consider reporting it to organizations like MUFON (Mutual UFO Network) or the National UFO...Read more...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/p/CxY7cp7M8te/](https://www.instagram.com/p/CxY7cp7M8te/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>of light detected during missions to Venus may instead be tens of thousands of meteors...Read more...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: instagram.com  
+   Title: Smell the Solar System, launch a rocket and even chase light  
+   Link: [https://www.instagram.com/royalmuseumsgreenwich/reel/DXw46yKla3c/?hl=zh-cn](https://www.instagram.com/royalmuseumsgreenwich/reel/DXw46yKla3c/?hl=zh-cn)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>alien craft 1-2pm Performance Space 1: Science session delivered by Love Science 2-3pm Performance Space 1: Space-themed storytime session...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: reddit.com  
+   Title: The orbs people are photographing are not out of focus  
+   Link: [https://www.reddit.com/r/UFOs/comments/1hk6j91/the_orbs_people_are_photographing_are_not_out_of/](https://www.reddit.com/r/UFOs/comments/1hk6j91/the_orbs_people_are_photographing_are_not_out_of/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>alien looks like · r/UFOs - Based on the recent UFO release, on page 99/184. 184. 244. Orbs doing what they do in 1945 · r/UFOs. • 5mo ag...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/royalmuseumsgreenwich/videos/theres-been-a-wealth-of-out-of-this-world-expertise-at-the-royal-observatory-for/1691471681352257/](https://www.facebook.com/royalmuseumsgreenwich/videos/theres-been-a-wealth-of-out-of-this-world-expertise-at-the-royal-observatory-for/1691471681352257/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ory for 350 years, and now more than ever, it&#x27;s there for everyone...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/lovelandersgroup/posts/1369875577726210/](https://www.facebook.com/groups/lovelandersgroup/posts/1369875577726210/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>w this phenomenon and has showed up everyday since. Any thoughts...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DW2NmawjExy/](https://www.instagram.com/reel/DW2NmawjExy/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>t photo you can with a phone camera. 1. Choose a clear location...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/royalmuseumsgreenwich/videos/unboxing-the-universe-at-the-national-maritime-museum/1260868442866938/](https://www.facebook.com/royalmuseumsgreenwich/videos/unboxing-the-universe-at-the-national-maritime-museum/1260868442866938/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>d with live demonstrations from Royal Observatory Astronomers...</p></details>

@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Red flashes above storms and UFO reports | Weather
 parent_permalink: /sprites/
 parent_nav_short_title: Sprites
+parent_heading_title: Red flashes above storms and UFO reports
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Weather | Can AI Help Explain UFO Sightings?
   permalink: /weather/
   short_title: Weather
+  heading_title: Can Weather Make a UFO Look Stranger?
 - basename: AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651
   title: Sprites | Weather
   permalink: /sprites/
   short_title: Sprites
+  heading_title: Red flashes above storms and UFO reports
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,39 +231,46 @@ breadcrumb_links:
   title: Weather | Can AI Help Explain UFO Sightings?
   permalink: /weather/
   short_title: Weather
+  heading_title: Can Weather Make a UFO Look Stranger?
 - basename: AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651
   title: Sprites | Weather
   permalink: /sprites/
   short_title: Sprites
+  heading_title: Red flashes above storms and UFO reports
 sibling_links:
 - basename: AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d
   title: Lightning timing | Sprites
   permalink: /lightning-timing/
   short_title: Lightning timing
+  heading_title: Did lightning trigger the red flash?
 - basename: AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d
   title: Video tests | Sprites
   permalink: /video-tests/
   short_title: Video tests
+  heading_title: What one frame can reveal
 up_link:
   basename: AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651
   title: Sprites | Weather
   permalink: /sprites/
   short_title: Sprites
+  heading_title: Red flashes above storms and UFO reports
 prev_link:
   basename: AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d
   title: Lightning timing | Sprites
   permalink: /lightning-timing/
   short_title: Lightning timing
+  heading_title: Did lightning trigger the red flash?
 next_link:
   basename: AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d
   title: Video tests | Sprites
   permalink: /video-tests/
   short_title: Video tests
-date: '2026-05-28 03:15:22 '
+  heading_title: What one frame can reveal
+date: '2026-06-09 00:20:30 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_db
 A sprite seen from the wrong place can look less like [lightning]({{ 'lightning-timing/' | relative_url }}) and more like a hovering craft. The effect is not only caused by the sprite itself, but by the [geometry]({{ 'geometry/' | relative_url }}) between the observer, the storm, the horizon, and the night sky. When a thunderstorm is far away, partly hidden, or sitting beyond the visible horizon, a witness can lose almost every normal cue that helps judge size, distance, and altitude. A brief red electrical discharge tens of kilometres high may instead appear as a compact object suspended above cloud tops. In UFO reporting, this matters because many apparently “stationary” red objects near storms turn out to involve misread depth and scale rather than a solid craft moving through the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmets.org/metmatters/mysterious-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS For AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">mysterious lightning</span><span class="citation-popover-snippet">RMetSMysterious lightning30 Nov 2016 — Sprites are rarely observed, however when they do appear they are a large but faint, reddish-orang...</span></span></span>, storm geometry is therefore not a minor detail. Reconstructing where the storm actually was, whether it was visible from the witness position, and how much of it was hidden can completely change the interpretation of the event. A sprite above a distant storm often looks disconnected from the weather system that produced it, especially at night when horizon detail is weak and thunder may not be audible.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-light.svg" | relative_url }}" alt="Storm geometry illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-dark.svg" | relative_url }}" alt="Storm geometry illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How distance removes depth and scale cues
 
 [Sprites]({{ 'sprites/' | relative_url }}) occur high above thunderstorms, often around 50 to 90 kilometres above Earth’s surface. They can stretch vertically for tens of kilometres while lasting only milliseconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</span></span></span> Wikipedia Yet human observers rarely perceive that true scale directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
@@ -353,7 +363,7 @@ Sprites often occur in clusters above active storms. <span class="citation-link-
 In UFO case analysis, this matters because witnesses frequently describe “an object that blinked on and off” or “a red thing that appeared several times above the clouds”. Correlating those times against lightning detection networks can sometimes reveal repeated positive cloud-to-ground lightning strikes capable of producing sprite activity.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-light.svg" | relative_url }}" alt="Storm geometry illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-dark.svg" | relative_url }}" alt="Storm geometry illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reconstructing viewing direction and storm position
 
 For investigators, the most useful question is often not “Was it a sprite?” but “Could the geometry support a sprite misinterpretation?”
@@ -368,200 +378,6 @@ A strong sprite-screening workflow usually includes:
 2. Viewing direction or compass bearing.
 3. Local horizon profile.
 4. Storm radar imagery at the [sighting time]({{ 'timeline-e3b338/' | relative_url }}).
-5. Lightning detection data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[rmets.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">wiley.comGround‐based detection of sprites and their parent lightning...by ER Williams · 2010 · Cited by 54 — Sprites have been detected...</span></span></span>
-6. Cloud cover layers.
-7. Estimated storm distance.
-8. Camera metadata if available.
-
-Once these are combined, investigators can test whether the reported object aligns with a distant thunderstorm capable of producing upper-atmosphere discharges.
-
-A common pattern emerges in solved cases:
-
-* The witness reports an object “above the clouds”.
-* Radar later shows a severe storm well beyond the visible horizon.
-* The viewing direction matches the storm location.
-* Positive lightning strikes occurred at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[nssl.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</span></span></span>
-* The witness never saw the storm core itself.
-
-AI-assisted workflows are especially useful here because they can automate the correlation between witness direction, radar archives, and lightning databases. Instead of manually searching weather maps frame by frame, an automated system can identify candidate storms and estimate whether their upper-atmosphere activity would have been visible from the observer position.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_gLBL-QdVWc" title="My Girlfriend Dumped Me For A Rich Guy, 30 Days Later, She Came Back Crying！" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_gLBL-QdVWc" target="_blank" rel="noopener noreferrer">My Girlfriend Dumped Me For A Rich Guy, 30 Days Later, She Came Back Crying！</a></p><p class="youtube-embed-meta">Channel: King&#x27;s Manhwa Recap2</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_gLBL-QdVWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_gLBL-QdVWc">Open on YouTube</a></p></div></div></div>
-
-## Why horizon geometry can exaggerate altitude
-
-One of the strangest aspects of sprite sightings is how high they can appear. Witnesses sometimes report objects “far above the clouds” or “near space”. In a literal sense, sprites are indeed extremely high compared with ordinary lightning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span> But geometry can make them appear even more detached and artificial than they really are.
-
-Because Earth curves away over distance, a remote storm may sit largely below the observer’s horizon while the upper sprite remains visible above it. The observer therefore sees only the topmost luminous portion of the event.
-
-This creates a visual paradox:
-
-* The storm disappears.
-* The sprite remains visible.
-* The red structure seems unsupported in open sky.
-
-To a witness unfamiliar with transient luminous events, this can resemble a floating craft emerging from or hovering above cloud layers.
-
-Researchers have also noted that sprites can appear offset from the underlying lightning source depending on storm structure and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivNumerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span> That offset can further weaken the apparent connection between the visible discharge and the storm beneath it.
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-light.svg" | relative_url }}" alt="Storm geometry illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What investigators should treat cautiously
-
-Storm geometry can explain many sprite-related UFO reports, but not every red light near a storm is automatically a sprite. Investigators still need to separate sprites from other possibilities such as:
-
-* Aircraft warning lights seen through haze.
-* Distant tower beacons.
-* Camera [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}).
-* Lens reflections.
-* Drone lighting.
-* Power flashes.
-* Meteors near storm systems.
-
-The strongest sprite indicators usually involve:
-
-* Very brief duration.
-* Red or reddish-orange colour.
-* Vertical or branching structure.
-* Occurrence above distant thunderstorms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivNumerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span>
-* Repetition during active lightning periods.
-* Silent observation from long range.
-
-Weak cases often lack time precision, direction data, or any confirmed storm activity. In those situations, geometry alone cannot resolve the report.
-
-The key lesson is that perception changes dramatically once storms become distant enough to lose ordinary scale cues. Many witnesses are not inventing what they saw. They are accurately reporting an unusual visual event, but interpreting it without the atmospheric context that would normally make sense of it.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8Sl8m5-Tutk" title="Journey Into Space 🪐 | Spaced Out FULL Compilation | Nat Geo Kids Compilation | @natgeokids" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8Sl8m5-Tutk" target="_blank" rel="noopener noreferrer">Journey Into Space 🪐 | Spaced Out FULL Compilation | Nat Geo Kids Compilation | @natgeokids</a></p><p class="youtube-embed-meta">Channel: Nat Geo Kids</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8Sl8m5-Tutk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8Sl8m5-Tutk">Open on YouTube</a></p></div></div></div>
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: nssl.noaa.gov  
-   Link: [https://www.nssl.noaa.gov/education/svrwx101/lightning/types/](https://www.nssl.noaa.gov/education/svrwx101/lightning/types/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: rmets.org  
-   Title: mysterious lightning  
-   Link: [https://www.rmets.org/metmatters/mysterious-lightning](https://www.rmets.org/metmatters/mysterious-lightning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RMetSMysterious lightning30 Nov 2016 — Sprites are rarely observed, however when they do appear they are a large but faint, reddish-orang...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: Wikipedia  
-   Title: Sprite (lightning)  
-   Link: [https://en.wikipedia.org/wiki/Sprite_%28lightning%29](https://en.wikipedia.org/wiki/Sprite_%28lightning%29)  
-
-4. <a id="endnote-4"></a>
-   Source: nssl.noaa.gov  
-   Link: [https://www.nssl.noaa.gov/education/svrwx101/lightning/](https://www.nssl.noaa.gov/education/svrwx101/lightning/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning BasicsThunder can be heard up to 25 miles away from the lightning dis...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: Wikipedia  
-   Title: Upper-atmospheric lightning  
-   Link: [https://en.wikipedia.org/wiki/Upper-atmospheric_lightning](https://en.wikipedia.org/wiki/Upper-atmospheric_lightning)  
-
-6. <a id="endnote-6"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.14794](https://arxiv.org/abs/2404.14794)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNumerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: rmets.org  
-   Link: [https://www.rmets.org/weather-photographer-of-the-year/photos/1335863](https://www.rmets.org/weather-photographer-of-the-year/photos/1335863)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites Dancing in the Dark Night by Wang XinSprites occur due to electrical discharge, but unlike ordinary lightning, they occur well ab...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: rmets.org  
-   Link: [https://www.rmets.org/weather-photographer-of-the-year/resources/2024-winners-spotlight-sublime-surprises-skies](https://www.rmets.org/weather-photographer-of-the-year/resources/2024-winners-spotlight-sublime-surprises-skies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Winners&#x27; Spotlight: Sublime Surprises of the Skies27 Feb 2025 — Red sprites are the most mysterious weather phenomenon in my opinion...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: rmets.org  
-   Link: [https://www.rmets.org/weather-photographer-of-the-year/photos/1097927](https://www.rmets.org/weather-photographer-of-the-year/photos/1097927)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprite Lightning over the Ama Drime Snow Mountain...This is an elegant example of red sprite lightning, captured by photographer Zhe...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: space.com  
-   Title: 3426 natural explanation ufos  
-   Link: [https://www.space.com/3426-natural-explanation-ufos.html](https://www.space.com/3426-natural-explanation-ufos.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural Explanation Found for UFOs23 Feb 2009 — MysteriousUFO sightings may go hand in hand with a puzzling natural phenomenon known assp...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: space.com  
-   Title: red lightning  
-   Link: [https://www.space.com/red-lightning](https://www.space.com/red-lightning)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science behind the weather phenomenonJul 13, 2022 — Red lightning, also known as a &quot;sprite&quot;, is an intriguing weather phenomenon associat...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: earth.com  
-   Title: nasa astronauts capture rare lightning storms red sprites from space station iss  
-   Link: [https://www.earth.com/news/nasa-astronauts-capture-rare-lightning-storms-red-sprites-from-space-station-iss/](https://www.earth.com/news/nasa-astronauts-capture-rare-lightning-storms-red-sprites-from-space-station-iss/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA shares photos of a rare and extraordinary event...14 Apr 2026 — A mysterious phenomenon known as “red sprites” randomly occur in th...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: earth.com  
-   Title: nasa extraordinary event photo storms red sprites from iss astronauts  
-   Link: [https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/](https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA shares photos of an extraordinary event witnessed...Mar 10, 2026 — A mysterious phenomenon known as “red sprites” randomly occur in...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: rmets.onlinelibrary.wiley.com  
-   Link: [https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comGround‐based detection of sprites and their parent lightning...by ER Williams · 2010 · Cited by 54 — Sprites have been detected...</p></details>
-
-### Additional References
-
-15. <a id="endnote-15"></a>
-   Source: earthdate.org  
-   Link: [https://www.earthdate.org/episodes/sprites-and-elves](https://www.earthdate.org/episodes/sprites-and-elves)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites and ElvesTypical lightning strikes below storm clouds, while sprites are a type of fleeting glow that occur high above thundersto...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: cloudatlas.wmo.int  
-   Link: [https://cloudatlas.wmo.int/lightning-tles-sprites.html](https://cloudatlas.wmo.int/lightning-tles-sprites.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wmo.intLightning: TLEs: SpritesThese are large-scale electrical discharges that occur high in the atmosphere at about 50−90 km, above lar...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/weekendtraveler195/posts/-this-is-not-cgi-this-is-lightning-from-spacehigh-above-powerful-thunderstorms-s/860360363699891/](https://www.facebook.com/weekendtraveler195/posts/-this-is-not-cgi-this-is-lightning-from-spacehigh-above-powerful-thunderstorms-s/860360363699891/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>⚡ THIS IS NOT CGI. THIS IS LIGHTNING FROM SPACE....UFO / Aliens Prints ufosecrecy.etsy.com #ufo #ufos #ovni #ovnis #alien #aliens #area5...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/paulmsmithphotography/posts/it-is-hard-to-visually-convey-the-size-when-it-comes-to-red-sprites-the-other-ni/614773980278920/](https://www.facebook.com/paulmsmithphotography/posts/it-is-hard-to-visually-convey-the-size-when-it-comes-to-red-sprites-the-other-ni/614773980278920/)  
-
-19. <a id="endnote-19"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-spriteshave-you-ever-heard-of-lightning-that-shoots-up-inste/1364180232183882/](https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-spriteshave-you-ever-heard-of-lightning-that-shoots-up-inste/1364180232183882/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And they happen high above thunderstorms… way up in the atmosphere. We&#x27;re talking 30 to 60 miles above the ground. So...Read more...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/weekendtraveler195/posts/%EF%B8%8F-this-is-what-pilots-sometimes-see-above-thunderstormstheyre-called-red-sprites/859471693788758/](https://www.facebook.com/weekendtraveler195/posts/%EF%B8%8F-this-is-what-pilots-sometimes-see-above-thunderstormstheyre-called-red-sprites/859471693788758/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>g, and they last only a few milliseconds — which is why they&#x27;re so...Read more...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: britannica.com  
-   Link: [https://www.britannica.com/science/red-sprite](https://www.britannica.com/science/red-sprite)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>that are associated with normal lightning in the thundercloud below...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/HighStrangeness/comments/12zwp7d/a_red_sprite_captured_over_a_thunderstorm_in/](https://www.reddit.com/r/HighStrangeness/comments/12zwp7d/a_red_sprite_captured_over_a_thunderstorm_in/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sighting Lights In The Sky! r/HighStrangeness -...Read more...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: snexplores.org  
-   Title: sprites jets elves storm powered lights  
-   Link: [https://www.snexplores.org/article/sprites-jets-elves-storm-powered-lights](https://www.snexplores.org/article/sprites-jets-elves-storm-powered-lights)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science News ExploresExplainer: Sprites, jets, ELVES and other storm-powered...20 Mar 2024 — Sprites and ELVES, meanwhile, are electrica...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: almanac.com  
-   Link: [https://www.almanac.com/what-are-lightning-sprites](https://www.almanac.com/what-are-lightning-sprites)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprites, Blue Jets, Elves, and Lightning StormsApr 6, 2026 — But sprites and other TLEs occur far above that, in the mesosphere, up t...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -677,75 +493,71 @@ The key lesson is that perception changes dramatically once storms become distan
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-geometry-why-sprites-can-look-like-hovering-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -803,10 +615,10 @@ The key lesson is that perception changes dramatically once storms become distan
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -954,3 +766,198 @@ The key lesson is that perception changes dramatically once storms become distan
 })();
 </script>
 </section>
+
+5. Lightning detection data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[rmets.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">wiley.comGround‐based detection of sprites and their parent lightning...by ER Williams · 2010 · Cited by 54 — Sprites have been detected...</span></span></span>
+6. Cloud cover layers.
+7. Estimated storm distance.
+8. Camera metadata if available.
+
+Once these are combined, investigators can test whether the reported object aligns with a distant thunderstorm capable of producing upper-atmosphere discharges.
+
+A common pattern emerges in solved cases:
+
+* The witness reports an object “above the clouds”.
+* Radar later shows a severe storm well beyond the visible horizon.
+* The viewing direction matches the storm location.
+* Positive lightning strikes occurred at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[nssl.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</span></span></span>
+* The witness never saw the storm core itself.
+
+AI-assisted workflows are especially useful here because they can automate the correlation between witness direction, radar archives, and lightning databases. Instead of manually searching weather maps frame by frame, an automated system can identify candidate storms and estimate whether their upper-atmosphere activity would have been visible from the observer position.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vN-5uOzOFec" title="Masterpiece or Madness? - Half Life 2 &amp; Episodes Retrospective &amp; History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vN-5uOzOFec" target="_blank" rel="noopener noreferrer">Masterpiece or Madness? - Half Life 2 &amp; Episodes Retrospective &amp; History</a></p><p class="youtube-embed-meta">Channel: I Finished A Video Game</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vN-5uOzOFec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vN-5uOzOFec">Open on YouTube</a></p></div></div></div>
+
+## Why horizon geometry can exaggerate altitude
+
+One of the strangest aspects of sprite sightings is how high they can appear. Witnesses sometimes report objects “far above the clouds” or “near space”. In a literal sense, sprites are indeed extremely high compared with ordinary lightning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span> But geometry can make them appear even more detached and artificial than they really are.
+
+Because Earth curves away over distance, a remote storm may sit largely below the observer’s horizon while the upper sprite remains visible above it. The observer therefore sees only the topmost luminous portion of the event.
+
+This creates a visual paradox:
+
+* The storm disappears.
+* The sprite remains visible.
+* The red structure seems unsupported in open sky.
+
+To a witness unfamiliar with transient luminous events, this can resemble a floating craft emerging from or hovering above cloud layers.
+
+Researchers have also noted that sprites can appear offset from the underlying lightning source depending on storm structure and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivNumerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span> That offset can further weaken the apparent connection between the visible discharge and the storm beneath it.
+
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-dark.svg" | relative_url }}" alt="Storm geometry illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What investigators should treat cautiously
+
+Storm geometry can explain many sprite-related UFO reports, but not every red light near a storm is automatically a sprite. Investigators still need to separate sprites from other possibilities such as:
+
+* Aircraft warning lights seen through haze.
+* Distant tower beacons.
+* Camera [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}).
+* Lens reflections.
+* Drone lighting.
+* Power flashes.
+* Meteors near storm systems.
+
+The strongest sprite indicators usually involve:
+
+* Very brief duration.
+* Red or reddish-orange colour.
+* Vertical or branching structure.
+* Occurrence above distant thunderstorms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivNumerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span>
+* Repetition during active lightning periods.
+* Silent observation from long range.
+
+Weak cases often lack time precision, direction data, or any confirmed storm activity. In those situations, geometry alone cannot resolve the report.
+
+The key lesson is that perception changes dramatically once storms become distant enough to lose ordinary scale cues. Many witnesses are not inventing what they saw. They are accurately reporting an unusual visual event, but interpreting it without the atmospheric context that would normally make sense of it.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_69kZiEqhYI" title="15 STRANGE CLOUDS seen around the world" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_69kZiEqhYI" target="_blank" rel="noopener noreferrer">15 STRANGE CLOUDS seen around the world</a></p><p class="youtube-embed-meta">Channel: Top Fives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_69kZiEqhYI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_69kZiEqhYI">Open on YouTube</a></p></div></div></div>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nssl.noaa.gov  
+   Link: [https://www.nssl.noaa.gov/education/svrwx101/lightning/types/](https://www.nssl.noaa.gov/education/svrwx101/lightning/types/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: rmets.org  
+   Title: mysterious lightning  
+   Link: [https://www.rmets.org/metmatters/mysterious-lightning](https://www.rmets.org/metmatters/mysterious-lightning)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RMetSMysterious lightning30 Nov 2016 — Sprites are rarely observed, however when they do appear they are a large but faint, reddish-orang...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: Sprite (lightning)  
+   Link: [https://en.wikipedia.org/wiki/Sprite_%28lightning%29](https://en.wikipedia.org/wiki/Sprite_%28lightning%29)  
+
+4. <a id="endnote-4"></a>
+   Source: nssl.noaa.gov  
+   Link: [https://www.nssl.noaa.gov/education/svrwx101/lightning/](https://www.nssl.noaa.gov/education/svrwx101/lightning/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning BasicsThunder can be heard up to 25 miles away from the lightning dis...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: Upper-atmospheric lightning  
+   Link: [https://en.wikipedia.org/wiki/Upper-atmospheric_lightning](https://en.wikipedia.org/wiki/Upper-atmospheric_lightning)  
+
+6. <a id="endnote-6"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2404.14794](https://arxiv.org/abs/2404.14794)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNumerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: rmets.org  
+   Link: [https://www.rmets.org/weather-photographer-of-the-year/photos/1335863](https://www.rmets.org/weather-photographer-of-the-year/photos/1335863)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites Dancing in the Dark Night by Wang XinSprites occur due to electrical discharge, but unlike ordinary lightning, they occur well ab...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: rmets.org  
+   Link: [https://www.rmets.org/weather-photographer-of-the-year/resources/2024-winners-spotlight-sublime-surprises-skies](https://www.rmets.org/weather-photographer-of-the-year/resources/2024-winners-spotlight-sublime-surprises-skies)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Winners&#x27; Spotlight: Sublime Surprises of the Skies27 Feb 2025 — Red sprites are the most mysterious weather phenomenon in my opinion...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: rmets.org  
+   Link: [https://www.rmets.org/weather-photographer-of-the-year/photos/1097927](https://www.rmets.org/weather-photographer-of-the-year/photos/1097927)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprite Lightning over the Ama Drime Snow Mountain...This is an elegant example of red sprite lightning, captured by photographer Zhe...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: space.com  
+   Title: 3426 natural explanation ufos  
+   Link: [https://www.space.com/3426-natural-explanation-ufos.html](https://www.space.com/3426-natural-explanation-ufos.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Natural Explanation Found for UFOs23 Feb 2009 — MysteriousUFO sightings may go hand in hand with a puzzling natural phenomenon known assp...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: space.com  
+   Title: red lightning  
+   Link: [https://www.space.com/red-lightning](https://www.space.com/red-lightning)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science behind the weather phenomenonJul 13, 2022 — Red lightning, also known as a &quot;sprite&quot;, is an intriguing weather phenomenon associat...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: earth.com  
+   Title: nasa astronauts capture rare lightning storms red sprites from space station iss  
+   Link: [https://www.earth.com/news/nasa-astronauts-capture-rare-lightning-storms-red-sprites-from-space-station-iss/](https://www.earth.com/news/nasa-astronauts-capture-rare-lightning-storms-red-sprites-from-space-station-iss/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA shares photos of a rare and extraordinary event...14 Apr 2026 — A mysterious phenomenon known as “red sprites” randomly occur in th...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: earth.com  
+   Title: nasa extraordinary event photo storms red sprites from iss astronauts  
+   Link: [https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/](https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA shares photos of an extraordinary event witnessed...Mar 10, 2026 — A mysterious phenomenon known as “red sprites” randomly occur in...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: rmets.onlinelibrary.wiley.com  
+   Link: [https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489](https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>wiley.comGround‐based detection of sprites and their parent lightning...by ER Williams · 2010 · Cited by 54 — Sprites have been detected...</p></details>
+
+### Additional References
+
+15. <a id="endnote-15"></a>
+   Source: earthdate.org  
+   Link: [https://www.earthdate.org/episodes/sprites-and-elves](https://www.earthdate.org/episodes/sprites-and-elves)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites and ElvesTypical lightning strikes below storm clouds, while sprites are a type of fleeting glow that occur high above thundersto...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: cloudatlas.wmo.int  
+   Link: [https://cloudatlas.wmo.int/lightning-tles-sprites.html](https://cloudatlas.wmo.int/lightning-tles-sprites.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>wmo.intLightning: TLEs: SpritesThese are large-scale electrical discharges that occur high in the atmosphere at about 50−90 km, above lar...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/weekendtraveler195/posts/-this-is-not-cgi-this-is-lightning-from-spacehigh-above-powerful-thunderstorms-s/860360363699891/](https://www.facebook.com/weekendtraveler195/posts/-this-is-not-cgi-this-is-lightning-from-spacehigh-above-powerful-thunderstorms-s/860360363699891/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>⚡ THIS IS NOT CGI. THIS IS LIGHTNING FROM SPACE....UFO / Aliens Prints ufosecrecy.etsy.com #ufo #ufos #ovni #ovnis #alien #aliens #area5...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/paulmsmithphotography/posts/it-is-hard-to-visually-convey-the-size-when-it-comes-to-red-sprites-the-other-ni/614773980278920/](https://www.facebook.com/paulmsmithphotography/posts/it-is-hard-to-visually-convey-the-size-when-it-comes-to-red-sprites-the-other-ni/614773980278920/)  
+
+19. <a id="endnote-19"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-spriteshave-you-ever-heard-of-lightning-that-shoots-up-inste/1364180232183882/](https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-spriteshave-you-ever-heard-of-lightning-that-shoots-up-inste/1364180232183882/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>And they happen high above thunderstorms… way up in the atmosphere. We&#x27;re talking 30 to 60 miles above the ground. So...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/weekendtraveler195/posts/%EF%B8%8F-this-is-what-pilots-sometimes-see-above-thunderstormstheyre-called-red-sprites/859471693788758/](https://www.facebook.com/weekendtraveler195/posts/%EF%B8%8F-this-is-what-pilots-sometimes-see-above-thunderstormstheyre-called-red-sprites/859471693788758/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>g, and they last only a few milliseconds — which is why they&#x27;re so...Read more...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: britannica.com  
+   Link: [https://www.britannica.com/science/red-sprite](https://www.britannica.com/science/red-sprite)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>that are associated with normal lightning in the thundercloud below...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/HighStrangeness/comments/12zwp7d/a_red_sprite_captured_over_a_thunderstorm_in/](https://www.reddit.com/r/HighStrangeness/comments/12zwp7d/a_red_sprite_captured_over_a_thunderstorm_in/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufo Sighting Lights In The Sky! r/HighStrangeness -...Read more...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: snexplores.org  
+   Title: sprites jets elves storm powered lights  
+   Link: [https://www.snexplores.org/article/sprites-jets-elves-storm-powered-lights](https://www.snexplores.org/article/sprites-jets-elves-storm-powered-lights)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science News ExploresExplainer: Sprites, jets, ELVES and other storm-powered...20 Mar 2024 — Sprites and ELVES, meanwhile, are electrica...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: almanac.com  
+   Link: [https://www.almanac.com/what-are-lightning-sprites](https://www.almanac.com/what-are-lightning-sprites)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprites, Blue Jets, Elves, and Lightning StormsApr 6, 2026 — But sprites and other TLEs occur far above that, in the mesosphere, up t...</p></details>

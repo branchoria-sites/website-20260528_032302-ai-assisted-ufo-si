@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why UFO Status Labels Matter More Than Verdicts | Confidence
 parent_permalink: /case-labels/
 parent_nav_short_title: Case Labels
+parent_heading_title: Why UFO Status Labels Matter More Than Verdicts
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Confidence | Can AI Help Explain UFO Sightings?
   permalink: /confidence/
   short_title: Confidence
+  heading_title: How Certain Can a UFO Explanation Be?
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0
   title: Case Labels | Confidence
   permalink: /case-labels/
   short_title: Case Labels
+  heading_title: Why UFO Status Labels Matter More Than Verdicts
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,39 +231,46 @@ breadcrumb_links:
   title: Confidence | Can AI Help Explain UFO Sightings?
   permalink: /confidence/
   short_title: Confidence
+  heading_title: How Certain Can a UFO Explanation Be?
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0
   title: Case Labels | Confidence
   permalink: /case-labels/
   short_title: Case Labels
+  heading_title: Why UFO Status Labels Matter More Than Verdicts
 sibling_links:
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85
   title: Data Limits | Case Labels
   permalink: /data-limits/
   short_title: Data Limits
+  heading_title: When Weak UFO Evidence Should Stay Unclassified
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923
   title: Two Axis Labels | Case Labels
   permalink: /two-axis-labels/
   short_title: Two Axis Labels
+  heading_title: Why One UFO Verdict Is Often Not Enough
 up_link:
   basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0
   title: Case Labels | Confidence
   permalink: /case-labels/
   short_title: Case Labels
+  heading_title: Why UFO Status Labels Matter More Than Verdicts
 prev_link:
   basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85
   title: Data Limits | Case Labels
   permalink: /data-limits/
   short_title: Data Limits
+  heading_title: When Weak UFO Evidence Should Stay Unclassified
 next_link:
   basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923
   title: Two Axis Labels | Case Labels
   permalink: /two-axis-labels/
   short_title: Two Axis Labels
-date: '2026-05-28 02:45:10 '
+  heading_title: Why One UFO Verdict Is Often Not Enough
+date: '2026-06-08 23:52:42 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78
 In modern UFO and UAP investigation, one of the biggest problems is not the original sighting itself but what happens afterwards. A witness uploads a video. An online database or investigator notes that a Starlink satellite train passed nearby, or that an [aircraft]({{ 'aircraft/' | relative_url }}) was in the area, or that balloons were reported locally. The explanation is initially framed as tentative: “possibly Starlink”, “consistent with aircraft lighting”, or “probable balloon”. A few reposts later, the [uncertainty]({{ 'uncertainty-labels/' | relative_url }}) disappears and the case is described as “confirmed solved”.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-light.svg" | relative_url }}" alt="Soft Debunks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-dark.svg" | relative_url }}" alt="Soft Debunks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That shift matters because public UFO databases increasingly depend on automated matching systems, AI-assisted similarity searches, and rapid correlation against aviation, satellite, weather, and astronomical data. Those systems are useful for narrowing possibilities, but they are not the same thing as proof. A candidate explanation can fit many features of a sighting while still failing to meet the standard for a confirmed identification. Public-facing summaries often flatten that distinction. The result is a growing category of what investigators sometimes call “soft debunks”: explanations that are [plausible]({{ 'plausible-cases/' | relative_url }}) and widely repeated, but never fully demonstrated.
 
 ## Why automated matching creates false certainty
@@ -333,7 +343,7 @@ Examples include:
 At this stage the explanation is often reasonable. Many sightings genuinely resemble these objects.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 322 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
 
 ### Step 2: The correlation is stronger than the underlying evidence
 
@@ -386,7 +396,7 @@ Once enough reposts use the simplified version, the explanation begins to look a
 This is a major governance problem in public UFO investigation systems. The confidence level attached to the explanation is no longer tied to evidence quality. Instead, it becomes tied to repetition volume.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-light.svg" | relative_url }}" alt="Soft Debunks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-dark.svg" | relative_url }}" alt="Soft Debunks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Starlink correlations are especially vulnerable
 
 Starlink has become one of the most common sources of soft debunks because it genuinely explains a large number of sightings while also creating ideal conditions for over-identification.
@@ -430,7 +440,7 @@ This matters because many unrelated objects can superficially resemble Starlink 
 AI systems are particularly vulnerable to this kind of pattern collapse because similarity matching naturally prioritises resemblance over proof.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
 
 ## Examples of soft debunks in UFO reporting
 
@@ -459,7 +469,7 @@ The important point is not which side is correct. It is that there is a meaningf
 Public discussion often collapses those categories together.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-light.svg" | relative_url }}" alt="Soft Debunks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-dark.svg" | relative_url }}" alt="Soft Debunks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### MUFON case dispositions
 
 The Mutual UFO Network (MUFON) uses formal case dispositions including “Identified Flying Object”, “Unknown”, “Hoax”, and “Insufficient Data”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mufongeorgia.org/report-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mufongeorgia.org">[Georgia MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mufongeorgia.org</span><span class="citation-popover-snippet">nsufficient Data. What if I do not agree with...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oregonmufon.com">[Oregon MUFON]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oregonmufon.com</span><span class="citation-popover-snippet">Oregon MUFON Investigator&#x27;s GuideMAKING THE CASE DISPOSITION DECISION. MUFON&#x27;s UFO investigations conclude in one of four case “dispositi...</span></span></span>
@@ -489,7 +499,7 @@ An especially important issue is missing-data blindness. AI systems can sometime
 A sighting with no precise timestamp may still generate a “best match”. That does not mean the match is reliable.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 322 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q8u1GHHz2Ko" title="Brazil UFO Flap Solved! (Starlink Again)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q8u1GHHz2Ko" target="_blank" rel="noopener noreferrer">Brazil UFO Flap Solved! (Starlink Again)</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 17.6K &middot; Uploaded: November 2022 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q8u1GHHz2Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q8u1GHHz2Ko">Open on YouTube</a></p></div></div></div>
 
 ## Keeping hypotheses separate from confirmed IDs
 
@@ -533,147 +543,6 @@ For AI-assisted UFO investigation, this creates an important design challenge. S
 * confirmation
 
 That distinction is where responsible UFO investigation actually lives.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: war.gov  
-   Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: war.gov  
-   Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: media.defense.gov  
-   Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... cases remain unsolved, based on the lack of evidence of the extra...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</p></details>
-   Published: August 31, 2023  
-
-6. <a id="endnote-6"></a>
-   Source: mufongeorgia.org  
-   Link: [https://mufongeorgia.org/report-ufo/](https://mufongeorgia.org/report-ufo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nsufficient Data. What if I do not agree with...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: oregonmufon.com  
-   Link: [https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf](https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon MUFON Investigator&#x27;s GuideMAKING THE CASE DISPOSITION DECISION. MUFON&#x27;s UFO investigations conclude in one of four case “dispositi...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: mufon.com  
-   Link: [https://mufon.com/](https://mufon.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON: HomeDiscover the extraordinary with MUFON. Our extensive database is a powerhouse of credible UFO research, keeping you informed w...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: helpdesk.mufon.com  
-   Link: [https://helpdesk.mufon.com/](https://helpdesk.mufon.com/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpdesk: HomeMUFON Helpdesk. A place for all MUFON Members, Field Investigators, Directors, and Management to submit requests for MUFON...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: mufon.com  
-   Link: [https://mufon.com/contact/](https://mufon.com/contact/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon Headquarters 4212 Airport Road, Ste. 100 Cincinnati, Oh 45226 (513) 871-8367 (Call for membership and store orders only, thank you...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: mufon.com  
-   Link: [https://mufon.com/research/](https://mufon.com/research/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsAlien &amp; UFO Research Tools; LAST 20 REPORTS · Check the last 20 UFO reports; BECOME A FIELD INVE...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/](https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia says AARO has resolved &quot;half&quot; of its &quot;510 UAP...Half of these have been resolved with mundane explanations, for instance, weat...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough many cases remain unsolved—primarily because of the lack of actionable and researc...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/](https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON and Credibility: r/UFOsAdditionally, there seems to have been a spate of recent cases where MUFON Is involved, the case is eventua...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: abcnews.com  
-   Link: [https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663](https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsPentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins19 Apr 2023 — The Pentagon said it is now reviewing more than 650 UF...</p></details>
-
-### Additional References
-
-17. <a id="endnote-17"></a>
-   Source: x.com  
-   Link: [https://x.com/DoW_AARO](https://x.com/DoW_AARO)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (@DoW_AARO) /...The report remains unresolved due to insufficient data. 57. 24. 201... Over half o...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d](https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment by Avi Loeb of the Second Release of...4 Alien Species Pulled from Crashed UFOs? It would be wonderful to get details about t...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: dokumen.pub  
-   Link: [https://dokumen.pub/unidentified-aerial-phenomena-a-beginners-guide-to-researching-ufos-9798643273004.html](https://dokumen.pub/unidentified-aerial-phenomena-a-beginners-guide-to-researching-ufos-9798643273004.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, some hoaxes can result in very dire consequences for those hoaxed or those hoaxing. People have lost a great deal...Read more...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...✓ AARO has looked into over 800 UAP cases. Most turn out to be explainable (like dron...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: twz.com  
-   Title: balloons no ufos found by satellites shoot down video coming says aaro chief  
-   Link: [https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief](https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons, No UFOs, Found By Satellites, Shoot Down...31 Oct 2023 — In a rare press briefing, the head of the Pentagon office charged wit...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Liberation Times. [https://www](https://www)... UFOs: Five revelations from Nasa&#x27;s public meeting. BBC. [https://www.bbc...Read](https://www.bbc...Read) more...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: twz.com  
-   Title: highly anticipated government report on ufos thin on new evidence  
-   Link: [https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence](https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highly Anticipated Government Report On UFOs Very Thin...12 Jan 2023 — The new report, which has been delayed for months now, offers lit...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: universetoday.com  
-   Title: ufo office fails to find anything that defies the laws of physics  
-   Link: [https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics](https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Office Fails to Find Anything That Defies the Laws of...22 Apr 2023 — This approach is critical to resolving UAP reports into the ca...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/Reuters/posts/mick-west-an-unidentified-anomalous-phenomena-analyst-said-the-pentagons-release/1542148351109225/](https://www.facebook.com/Reuters/posts/mick-west-an-unidentified-anomalous-phenomena-analyst-said-the-pentagons-release/1542148351109225/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>videos in his book &#x27;Imminent: Inside the Pentagon&#x27;s Hunt for UFOs...Read more...</p></details>
-
-26. <a id="endnote-26"></a>
-   Source: scribd.com  
-   Link: [https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File](https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton Part 1 MUFON Case File | PDF | Polygraphcase is considered a hoax based on the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) data: 1) Walton never boarded...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -789,75 +658,71 @@ That distinction is where responsible UFO investigation actually lives.
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=soft-debunks-how-probably-starlink-becomes-confirmed-starlink-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -915,10 +780,10 @@ That distinction is where responsible UFO investigation actually lives.
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1066,3 +931,144 @@ That distinction is where responsible UFO investigation actually lives.
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: war.gov  
+   Title: dod examining unidentified anomalous phenomena  
+   Link: [https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/Article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDOD Examining Unidentified Anomalous Phenomena14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its hol...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: war.gov  
+   Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
+   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...14 Nov 2024 — AARO has successfully resolved hundreds of ca...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: media.defense.gov  
+   Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
+   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 —... cases remain unsolved, based on the lack of evidence of the extra...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — According to AARO, the FLIR (Tic Tac UAP), Gimbal, and G...</p></details>
+   Published: August 31, 2023  
+
+6. <a id="endnote-6"></a>
+   Source: mufongeorgia.org  
+   Link: [https://mufongeorgia.org/report-ufo/](https://mufongeorgia.org/report-ufo/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nsufficient Data. What if I do not agree with...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: oregonmufon.com  
+   Link: [https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf](https://www.oregonmufon.com/PDFs/OMInvestigatorsGuide.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oregon MUFON Investigator&#x27;s GuideMAKING THE CASE DISPOSITION DECISION. MUFON&#x27;s UFO investigations conclude in one of four case “dispositi...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/](https://mufon.com/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON: HomeDiscover the extraordinary with MUFON. Our extensive database is a powerhouse of credible UFO research, keeping you informed w...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: helpdesk.mufon.com  
+   Link: [https://helpdesk.mufon.com/](https://helpdesk.mufon.com/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Helpdesk: HomeMUFON Helpdesk. A place for all MUFON Members, Field Investigators, Directors, and Management to submit requests for MUFON...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/contact/](https://mufon.com/contact/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon Headquarters 4212 Airport Road, Ste. 100 Cincinnati, Oh 45226 (513) 871-8367 (Call for membership and store orders only, thank you...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: mufon.com  
+   Link: [https://mufon.com/research/](https://mufon.com/research/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mufon&#x27;s Ufo, Et Research Tracking ToolsAlien &amp; UFO Research Tools; LAST 20 REPORTS · Check the last 20 UFO reports; BECOME A FIELD INVE...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/](https://www.reddit.com/r/UFOs/comments/1fqhn02/wikipedia_says_aaro_has_resolved_half_of_its_510/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikipedia says AARO has resolved &quot;half&quot; of its &quot;510 UAP...Half of these have been resolved with mundane explanations, for instance, weat...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/](https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAlthough many cases remain unsolved—primarily because of the lack of actionable and researc...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/](https://www.reddit.com/r/UFOs/comments/1dpensk/mufon_and_credibility/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>MUFON and Credibility: r/UFOsAdditionally, there seems to have been a spate of recent cases where MUFON Is involved, the case is eventua...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeAirborne clutter: Includes windborne debris like plastic bags and mylar balloons, or birds. · Commercial or scientific balloons...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: abcnews.com  
+   Link: [https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663](https://abcnews.com/Politics/pentagons-ufo-tracking-efforts-focus-senate-hearing/story?id=98691663)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC NewsPentagon&#x27;s &#x27;UFO&#x27; tracking efforts still find no alien origins19 Apr 2023 — The Pentagon said it is now reviewing more than 650 UF...</p></details>
+
+### Additional References
+
+17. <a id="endnote-17"></a>
+   Source: x.com  
+   Link: [https://x.com/DoW_AARO](https://x.com/DoW_AARO)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (@DoW_AARO) /...The report remains unresolved due to insufficient data. 57. 24. 201... Over half o...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: avi-loeb.medium.com  
+   Link: [https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d](https://avi-loeb.medium.com/preliminary-assessment-by-avi-loeb-of-the-second-release-of-ufo-files-by-the-u-s-department-of-war-03b6c8d5123d)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Assessment by Avi Loeb of the Second Release of...4 Alien Species Pulled from Crashed UFOs? It would be wonderful to get details about t...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: dokumen.pub  
+   Link: [https://dokumen.pub/unidentified-aerial-phenomena-a-beginners-guide-to-researching-ufos-9798643273004.html](https://dokumen.pub/unidentified-aerial-phenomena-a-beginners-guide-to-researching-ufos-9798643273004.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, some hoaxes can result in very dire consequences for those hoaxed or those hoaxing. People have lost a great deal...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/](https://www.facebook.com/newshour/posts/the-us-in-2022-launched-the-all-domain-anomaly-resolution-office-aaro-as-part-of/1149122250416353/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The U.S. in 2022 launched the All-Domain Anomaly...✓ AARO has looked into over 800 UAP cases. Most turn out to be explainable (like dron...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: twz.com  
+   Title: balloons no ufos found by satellites shoot down video coming says aaro chief  
+   Link: [https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief](https://www.twz.com/balloons-no-ufos-found-by-satellites-shoot-down-video-coming-says-aaro-chief)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloons, No UFOs, Found By Satellites, Shoot Down...31 Oct 2023 — In a rare press briefing, the head of the Pentagon office charged wit...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue](https://www.researchgate.net/publication/376891986_A_global_picture_of_unidentified_anomalous_phenomena_Towards_a_cross-cultural_understanding_of_a_potentially_universal_issue)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Liberation Times. [https://www](https://www)... UFOs: Five revelations from Nasa&#x27;s public meeting. BBC. [https://www.bbc...Read](https://www.bbc...Read) more...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: twz.com  
+   Title: highly anticipated government report on ufos thin on new evidence  
+   Link: [https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence](https://www.twz.com/highly-anticipated-government-report-on-ufos-thin-on-new-evidence)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Highly Anticipated Government Report On UFOs Very Thin...12 Jan 2023 — The new report, which has been delayed for months now, offers lit...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: universetoday.com  
+   Title: ufo office fails to find anything that defies the laws of physics  
+   Link: [https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics](https://www.universetoday.com/articles/ufo-office-fails-to-find-anything-that-defies-the-laws-of-physics)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Office Fails to Find Anything That Defies the Laws of...22 Apr 2023 — This approach is critical to resolving UAP reports into the ca...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/Reuters/posts/mick-west-an-unidentified-anomalous-phenomena-analyst-said-the-pentagons-release/1542148351109225/](https://www.facebook.com/Reuters/posts/mick-west-an-unidentified-anomalous-phenomena-analyst-said-the-pentagons-release/1542148351109225/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>videos in his book &#x27;Imminent: Inside the Pentagon&#x27;s Hunt for UFOs...Read more...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: scribd.com  
+   Link: [https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File](https://www.scribd.com/document/375602394/Travis-Walton-Part-1-MUFON-Case-File)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Walton Part 1 MUFON Case File | PDF | Polygraphcase is considered a hoax based on the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) data: 1) Walton never boarded...</p></details>

@@ -563,9 +563,9 @@ sidebar_generated:
       title_full: Fast Across the Screen Does Not Mean Fast | Video Limits
       url: /angular-motion/
       children:
-      - title: GoFast parallax
-        title_full: Why GoFast looked faster than it was | Angular Motion
-        url: /gofast-parallax-157b6a/
+      - title: Go Fast parallax
+        title_full: Why Go Fast looked faster than it was | Angular Motion
+        url: /go-fast-parallax-157b6a/
       - title: Range problem
         title_full: The missing distance behind UFO speed claims | Angular Motion
         url: /range-problem/
@@ -585,26 +585,26 @@ sidebar_generated:
       - title: Missing Metadata
         title_full: What Happens When UFO Video Metadata Disappears? | Chain of Custody
         url: /missing-metadata-28b5a6/
-    - title: GoFast Parallax
-      title_full: Why the GoFast UFO Only Looked Hypersonic | Video Limits
-      url: /gofast-parallax/
+    - title: Go Fast Parallax
+      title_full: Why the Go Fast UFO Only Looked Hypersonic | Video Limits
+      url: /go-fast-parallax/
       children:
       - title: AI Reconstruction
-        title_full: Could AI Rebuild the GoFast Flight Geometry? | GoFast Parallax
+        title_full: Could AI Rebuild the Go Fast Flight Geometry? | Go Fast Parallax
         url: /ai-reconstruction/
       - title: ATFLIR Data
-        title_full: What the GoFast Display Data Really Revealed | GoFast Parallax
+        title_full: What the Go Fast Display Data Really Revealed | Go Fast Parallax
         url: /atflir-data/
       - title: Ocean Illusion
-        title_full: Why the Ocean Made GoFast Look So Fast | GoFast Parallax
+        title_full: Why the Ocean Made Go Fast Look So Fast | Go Fast Parallax
         url: /ocean-illusion/
     - title: Original Files
       title_full: Why the Original UFO File Matters More | Video Limits
       url: /original-files/
       children:
-      - title: GoFast
-        title_full: What GoFast teaches about missing originals | Original Files
-        url: /gofast/
+      - title: Go Fast
+        title_full: What Go Fast teaches about missing originals | Original Files
+        url: /go-fast/
       - title: Metadata
         title_full: What UFO video metadata can really prove | Original Files
         url: /metadata/

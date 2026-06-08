@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-index/
 description: Focused pages that expand on AI assisted UFO sighting investigation.
-date: '2026-05-28'
+date: '2026-06-08'
 layout: default
 parent_basename: AI-assisted_U_96e9bc
 parent_title: AI assisted UFO sighting investigation

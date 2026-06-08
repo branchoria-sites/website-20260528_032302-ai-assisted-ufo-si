@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Can NUFORC Reports Really Help Solve A Sighting | Case Match
 parent_permalink: /nuforc-cases/
 parent_nav_short_title: NUFORC Cases
+parent_heading_title: Can NUFORC Reports Really Help Solve A Sighting
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa
   title: NUFORC Cases | Case Match
   permalink: /nuforc-cases/
   short_title: NUFORC Cases
+  heading_title: Can NUFORC Reports Really Help Solve A Sighting
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa
   title: NUFORC Cases | Case Match
   permalink: /nuforc-cases/
   short_title: NUFORC Cases
+  heading_title: Can NUFORC Reports Really Help Solve A Sighting
 sibling_links:
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842
   title: False Matches | NUFORC Cases
   permalink: /false-matches-dd2782/
   short_title: False Matches
+  heading_title: How Weak UFO Reports Create False Patterns
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d
   title: In UFO Reporting, Duration | NUFORC Cases
   permalink: /in-ufo-reporting-duration/
   short_title: In UFO Reporting, Duration
+  heading_title: Why UFO Sighting Duration Often Matters Most
 up_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa
   title: NUFORC Cases | Case Match
   permalink: /nuforc-cases/
   short_title: NUFORC Cases
+  heading_title: Can NUFORC Reports Really Help Solve A Sighting
 prev_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d
   title: In UFO Reporting, Duration | NUFORC Cases
   permalink: /in-ufo-reporting-duration/
   short_title: In UFO Reporting, Duration
-date: '2026-05-28 02:37:48 '
+  heading_title: Why UFO Sighting Duration Often Matters Most
+date: '2026-06-08 23:45:10 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d
 Large UFO “waves” often look impressive until the reports are placed on a shared timeline. When dozens of witnesses across different towns describe lights moving in the same direction within the same fifteen-minute window, investigators are usually no longer looking at dozens of separate mysteries. They are looking at one visible event interpreted many different ways.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-light.svg" | relative_url }}" alt="Time Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-dark.svg" | relative_url }}" alt="Time Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is where the National UFO Reporting Center archive becomes especially useful. NUFORC’s value is not simply the number of reports it stores, but the ability to compare reports by minute, direction, geography, and behaviour. Once clustered together, many dramatic sightings start to resemble satellite trains, rocket re-entries, meteor activity, lantern releases, or widely visible aviation events rather than unrelated unknown craft. AI-assisted investigation systems are particularly effective at spotting these patterns because witnesses describe the same object with radically different language. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rand.org">[RAND Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rand.org</span><span class="citation-popover-title">12,783 U.S. Census Bureau census designated places.Read more</span><span class="citation-popover-snippet">RAND CorporationMapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geog...</span></span></span>
 
 ## Regional Report Bursts And Shared Timing
@@ -412,7 +421,7 @@ AI timeline analysis becomes useful because lantern events usually produce:
 A single lantern release can produce reports from multiple towns along the wind path. Witnesses observing from different positions may conclude they are seeing intelligently manoeuvring craft when they are actually observing floating lights moving with the same air mass.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-2-light.svg" | relative_url }}" alt="Time Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-2-dark.svg" | relative_url }}" alt="Time Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI Maps Linked Witness Timelines
 
 Human investigators can manually compare a handful of reports. AI systems can compare thousands simultaneously.
@@ -460,7 +469,7 @@ AI systems are particularly useful because they can tolerate inconsistent langua
 This is important because NUFORC reports are not standardised scientific observations. They are human narratives written under uncertainty.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-3-light.svg" | relative_url }}" alt="Time Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-3-dark.svg" | relative_url }}" alt="Time Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Geographic Sequencing Often Reveals Ordinary Motion
 
 One powerful investigative technique is progressive geographic sequencing.
@@ -534,134 +543,6 @@ AI systems are especially valuable because they can process huge numbers of inco
 * astronomical visibility
 
 In many cases, the result is not debunking in the simplistic sense. It is contextualisation. A frightening isolated report may become a predictable orbital pass once the surrounding reports are visible together. At the same time, the relatively small number of cases that do not fit known timing patterns become easier to isolate for closer investigation.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: nuforc.org  
-   Title: Data Bank | NUFORC  
-   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO...</p></details>
-   Published: September 6, 2021  
-
-2. <a id="endnote-2"></a>
-   Source: rand.org  
-   Title: 12,783 U.S. Census Bureau census designated places.Read more  
-   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationMapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geog...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 23 — This analysis is one of few investiga...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: cuny.manifoldapp.org  
-   Title: national ufo reporting center  
-   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifold at CUNYNational UFO Reporting Center2 Apr 2025 — Manually updating the online database of reports after [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of submissions by...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: nuforc.org  
-   Link: [https://nuforc.org/univutahstudy/](https://nuforc.org/univutahstudy/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah and Recent AARO Director Publish...Dec 15, 2023 — Their article, “An Environmental Analysis of Public UAP Sightings a...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: space.com  
-   Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceStarlink satellite train: how to see and track it in the night skyApril 21, 2023 — 5 May 2026 — The Starlink satellite train is best...</p></details>
-   Published: April 21, 2023  
-
-7. <a id="endnote-7"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting](https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Social factors and UFO reports: was the SARS-CoV...February 11, 2023 — A complicating factor in UFO reporting is the s...</p></details>
-   Published: February 11, 2023  
-
-8. <a id="endnote-8"></a>
-   Source: swsc-journal.org  
-   Link: [https://www.swsc-journal.org/articles/swsc/full_html/2022/01/swsc220018/swsc220018.html](https://www.swsc-journal.org/articles/swsc/full_html/2022/01/swsc220018/swsc220018.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWSC JournalUnexpected space weather causing the reentry of 38...by R Kataoka · 2022 · Cited by 54 — The accidental reentry of 38 Starli...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: nuforc.org  
-   Title: 722 new ufo reports  
-   Link: [https://nuforc.org/722-new-ufo-reports/](https://nuforc.org/722-new-ufo-reports/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Posted | NUFORC10 Jul 2023 — 489 of these reports are contemporary sightings (since May 19th), and the rest are events from the past that...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: nuforc.org  
-   Link: [https://nuforc.org/spatial/](https://nuforc.org/spatial/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hotspots in NUFORC Reports – An AnalysisNov 8, 2023 — It looks at the spatial distribution of an attribute in a dataset and asks the ques...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential](https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...Dec 8, 2023 — This study adds to the small peer-reviewed literature seeking...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/figure/NUFORC-Reported-Sighting-Spatial-Distribution-for-the-Conterminous-US-from-2001-to-2020_fig1_376519968](https://www.researchgate.net/figure/NUFORC-Reported-Sighting-Spatial-Distribution-for-the-Conterminous-US-from-2001-to-2020_fig1_376519968)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reported Sighting Spatial Distribution for the...In this study, a series of UAP observations from Western Australia were examined...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: news.sky.com  
-   Title: Catch up below.Read more  
-   Link: [https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-[fireballs](https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-[fireballs)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>files latest: US intel officer saw &#x27;glowing orbs&#x27; split in...5 days ago — A second batch of previously classified files on reported UFO...</p></details>
-
-### Additional References
-
-14. <a id="endnote-14"></a>
-   Source: kaggle.com  
-   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: ouci.dntb.gov.ua  
-   Link: [https://ouci.dntb.gov.ua/en/works/4EweyOK9/](https://ouci.dntb.gov.ua/en/works/4EweyOK9/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...We approach this problem as an important one of the human experience and that c...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: huggingface.co  
-   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNote that while this is a crowdsourced database compiled from the reports of hundreds of thousands...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: planet4589.org  
-   Link: [https://planet4589.org/space/con/star/stats.html](https://planet4589.org/space/con/star/stats.html)  
-
-18. <a id="endnote-18"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/](https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was five lights as bright as the brightest star. They were moving in circular pattern and moving...Read more...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/](https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s&quot; in the rough shape of an arrow (i guess like a flock of birds following leader in...Read more...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: science.nasa.gov  
-   Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity that demands a rigorous, ev...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: github.com  
-   Link: [https://github.com/wlouie1/UFO-Sightings](https://github.com/wlouie1/UFO-Sightings)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>onal UFO Reporting Center (NUFORC) database, and hosted here by Sigmond Axel.Read more...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/page-8](https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/page-8)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are Starlink &quot;Racetrack&quot; Flares [Mostly] Reported from...25 Oct 2022 — The lights appeared in red, orange, white, and yellow colors...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>My previous research focused on lights and the color orange, but this time (this included lights and...Read more...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -777,75 +658,71 @@ In many cases, the result is not debunking in the simplistic sense. It is contex
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-clusters-when-a-ufo-wave-turns-out-to-be-one-event-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -903,10 +780,10 @@ In many cases, the result is not debunking in the simplistic sense. It is contex
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1054,3 +931,131 @@ In many cases, the result is not debunking in the simplistic sense. It is contex
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nuforc.org  
+   Title: Data Bank | NUFORC  
+   Link: [https://nuforc.org/databank/](https://nuforc.org/databank/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORCData Bank | NUFORC - Latest UFO SightingsSeptember 6, 2021 — The NUFORC Databank is the largest independently collected set of UFO...</p></details>
+   Published: September 6, 2021  
+
+2. <a id="endnote-2"></a>
+   Source: rand.org  
+   Title: 12,783 U.S. Census Bureau census designated places.Read more  
+   Link: [https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf](https://www.rand.org/content/dam/rand/pubs/research_reports/RRA2400/RRA2475-1/RAND_RRA2475-1.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RAND CorporationMapping Public Reports of Unidentified Aerial Phenomena...by MN POSARD · 2023 · Cited by 4 — This report presents a geog...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10721628/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCAn environmental analysis of public UAP sightings and sky...by RM Medina · 2023 · Cited by 23 — This analysis is one of few investiga...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: cuny.manifoldapp.org  
+   Title: national ufo reporting center  
+   Link: [https://cuny.manifoldapp.org/read/national-ufo-reporting-center](https://cuny.manifoldapp.org/read/national-ufo-reporting-center)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Manifold at CUNYNational UFO Reporting Center2 Apr 2025 — Manually updating the online database of reports after [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of submissions by...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/univutahstudy/](https://nuforc.org/univutahstudy/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Utah and Recent AARO Director Publish...Dec 15, 2023 — Their article, “An Environmental Analysis of Public UAP Sightings a...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: space.com  
+   Title: Starlink satellite train: how to see and track it in the night sky  
+   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceStarlink satellite train: how to see and track it in the night skyApril 21, 2023 — 5 May 2026 — The Starlink satellite train is best...</p></details>
+   Published: April 21, 2023  
+
+7. <a id="endnote-7"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting](https://www.researchgate.net/publication/368458403_Social_factors_and_UFO_reports_was_the_SARS-CoV-2_pandemic_associated_with_an_increase_in_UFO_reporting)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ResearchGate(PDF) Social factors and UFO reports: was the SARS-CoV...February 11, 2023 — A complicating factor in UFO reporting is the s...</p></details>
+   Published: February 11, 2023  
+
+8. <a id="endnote-8"></a>
+   Source: swsc-journal.org  
+   Link: [https://www.swsc-journal.org/articles/swsc/full_html/2022/01/swsc220018/swsc220018.html](https://www.swsc-journal.org/articles/swsc/full_html/2022/01/swsc220018/swsc220018.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWSC JournalUnexpected space weather causing the reentry of 38...by R Kataoka · 2022 · Cited by 54 — The accidental reentry of 38 Starli...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: nuforc.org  
+   Title: 722 new ufo reports  
+   Link: [https://nuforc.org/722-new-ufo-reports/](https://nuforc.org/722-new-ufo-reports/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Posted | NUFORC10 Jul 2023 — 489 of these reports are contemporary sightings (since May 19th), and the rest are events from the past that...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: nuforc.org  
+   Link: [https://nuforc.org/spatial/](https://nuforc.org/spatial/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hotspots in NUFORC Reports – An AnalysisNov 8, 2023 — It looks at the spatial distribution of an attribute in a dataset and asks the ques...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential](https://www.researchgate.net/publication/376519968_An_environmental_analysis_of_public_UAP_sightings_and_sky_view_potential)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An environmental analysis of public UAP sightings and sky...Dec 8, 2023 — This study adds to the small peer-reviewed literature seeking...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/figure/NUFORC-Reported-Sighting-Spatial-Distribution-for-the-Conterminous-US-from-2001-to-2020_fig1_376519968](https://www.researchgate.net/figure/NUFORC-Reported-Sighting-Spatial-Distribution-for-the-Conterminous-US-from-2001-to-2020_fig1_376519968)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NUFORC Reported Sighting Spatial Distribution for the...In this study, a series of UAP observations from Western Australia were examined...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: news.sky.com  
+   Title: Catch up below.Read more  
+   Link: [https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-[fireballs](https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-[fireballs)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>files latest: US intel officer saw &#x27;glowing orbs&#x27; split in...5 days ago — A second batch of previously classified files on reported UFO...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: kaggle.com  
+   Link: [https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings](https://www.kaggle.com/datasets/joebeachcapital/ufo-sightings)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO SightingsThe National UFO Research Center (NUFORC) collects and serves over 100,000 reports of UFO sightings. This dataset contains t...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: ouci.dntb.gov.ua  
+   Link: [https://ouci.dntb.gov.ua/en/works/4EweyOK9/](https://ouci.dntb.gov.ua/en/works/4EweyOK9/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>environmental analysis of public UAP sightings and sky...We approach this problem as an important one of the human experience and that c...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: huggingface.co  
+   Link: [https://huggingface.co/datasets/kcimc/NUFORC](https://huggingface.co/datasets/kcimc/NUFORC)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>kcimc/NUFORC · Datasets at Hugging FaceNote that while this is a crowdsourced database compiled from the reports of hundreds of thousands...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: planet4589.org  
+   Link: [https://planet4589.org/space/con/star/stats.html](https://planet4589.org/space/con/star/stats.html)  
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/](https://www.facebook.com/MikeyMcBryan/posts/the-737-night-crew-early-this-morning-saw-some-strange-lights-ufo-over-the-airpo/1324493835702569/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It was five lights as bright as the brightest star. They were moving in circular pattern and moving...Read more...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/](https://www.reddit.com/r/space/comments/10o46vc/spotted_strange_cluster_of_objects_traveling/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>s&quot; in the rough shape of an arrow (i guess like a flock of birds following leader in...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: science.nasa.gov  
+   Title: uap independent study team final report  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity that demands a rigorous, ev...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: github.com  
+   Link: [https://github.com/wlouie1/UFO-Sightings](https://github.com/wlouie1/UFO-Sightings)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>onal UFO Reporting Center (NUFORC) database, and hosted here by Sigmond Axel.Read more...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: metabunk.org  
+   Link: [https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/page-8](https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/page-8)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are Starlink &quot;Racetrack&quot; Flares [Mostly] Reported from...25 Oct 2022 — The lights appeared in red, orange, white, and yellow colors...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/](https://www.reddit.com/r/aliens/comments/155y83z/part_2_i_analyzed_80000_ufo_sightings_from_the/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>My previous research focused on lights and the color orange, but this time (this included lights and...Read more...</p></details>

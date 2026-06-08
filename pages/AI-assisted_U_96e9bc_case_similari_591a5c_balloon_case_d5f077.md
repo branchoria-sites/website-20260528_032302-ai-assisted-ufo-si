@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 10:52:42'
 parent_title: Has This UFO Sighting Happened Before? | UFO Case AI
 parent_permalink: /case-match/
 parent_nav_short_title: Case Match
+parent_heading_title: Has This UFO Sighting Happened Before?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,55 +229,67 @@ breadcrumb_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7
   title: AI Clustering | Case Match
   permalink: /ai-clustering/
   short_title: AI Clustering
+  heading_title: When Similar UFO Reports Actually Have Different Causes
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8
   title: Missing Data | Case Match
   permalink: /missing-data/
   short_title: Missing Data
+  heading_title: Why So Many Older UFO Cases Stayed Unresolved
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa
   title: NUFORC Cases | Case Match
   permalink: /nuforc-cases/
   short_title: NUFORC Cases
+  heading_title: Can NUFORC Reports Really Help Solve A Sighting
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068
   title: Shape Labels | Case Match
   permalink: /shape-labels/
   short_title: Shape Labels
+  heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 child_links:
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa
   title: Case libraries | Balloon Matches
   permalink: /case-libraries/
   short_title: Case libraries
+  heading_title: How solved balloon cases train better triage
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_reflective_fo_a1ef88
   title: Foil flashes | Balloon Matches
   permalink: /foil-flashes/
   short_title: Foil flashes
+  heading_title: Why foil balloons flash like UFOs
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba
   title: Wind drift | Balloon Matches
   permalink: /wind-drift/
   short_title: Wind drift
+  heading_title: When balloon drift looks like controlled flight
 up_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 prev_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7
   title: AI Clustering | Case Match
   permalink: /ai-clustering/
   short_title: AI Clustering
+  heading_title: When Similar UFO Reports Actually Have Different Causes
 next_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8
   title: Missing Data | Case Match
   permalink: /missing-data/
   short_title: Missing Data
+  heading_title: Why So Many Older UFO Cases Stayed Unresolved
+date: '2026-06-08 22:43:51 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -284,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f
 Many UFO reports that initially appear unusual are later linked to balloons once investigators compare the sighting against [weather]({{ 'weather/' | relative_url }}), wind, and movement data. That does not make every unexplained sighting a balloon, but it does mean [resolved]({{ 'solved-later/' | relative_url }}) balloon cases are extremely valuable for AI-assisted UFO investigation. They provide a library of known behaviours that automated systems can compare against new reports in minutes rather than days.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-light.svg" | relative_url }}" alt="Balloon Matches illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Matches illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because balloon sightings repeatedly produce features that witnesses often interpret as anomalous: apparent hovering, sudden changes in brightness, irregular shapes, silent movement, strange infrared signatures, and slow drifting motion that can look controlled from the ground. Modern comparison systems therefore treat resolved balloon incidents as training anchors. Instead of asking “does this look mysterious?”, the system asks whether the new sighting shares the same motion profile, wind alignment, altitude behaviour, [reflective]({{ 'foil-flashes/' | relative_url }}) flashes, or morphology seen in earlier balloon identifications. Public material from the US All-domain Anomaly Resolution Office (AARO) shows this process directly, with several cases assessed as balloons because their shape and motion matched previously resolved balloon imagery and because their movement aligned with recorded wind direction and speed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</span></span></span>
 
 ## Wind Drift and Altitude Clues
@@ -348,7 +361,7 @@ This comparison process becomes more reliable when linked to meteorological data
 Resolved cases also show why videos alone can mislead investigators. A compressed phone clip or infrared recording may remove depth cues, making passive drift appear deliberate. Some military infrared footage assessed as anomalous initially gained attention because observers interpreted camera-relative motion as object-controlled movement. Balloon comparison libraries help investigators separate sensor effects from true flight characteristics.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-2-light.svg" | relative_url }}" alt="Balloon Matches illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Matches illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Balloon Libraries Improve AI Triage
 
 A UFO comparison system trained only on unresolved or sensational reports will tend to overmatch dramatic descriptions. Balloon cases correct this bias because they introduce large numbers of verified ordinary explanations into the comparison pool.
@@ -402,7 +415,7 @@ Resolved cases reveal which questions matter most. Investigators learn to ask ab
 These details are often more valuable than emotional descriptions or speculative interpretations.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-3-light.svg" | relative_url }}" alt="Balloon Matches illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Matches illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Better sensor interpretation
 
 Archived balloon footage helps analysts recognise recurring infrared artefacts, autofocus errors, stabilisation effects, and optical distortions that can exaggerate apparent movement.
@@ -436,107 +449,6 @@ That disciplined process is ultimately the real value of balloon comparison libr
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: nasa.gov  
-   Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study ReportSep 14, 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAARadiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: weather.gov  
-   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationThe radiosonde is a small, expendable instrument package (weighs 60 to 80 grams) that is su...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: weather.gov  
-   Link: [https://www.weather.gov/gjt/education_corner_balloon](https://www.weather.gov/gjt/education_corner_balloon)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceEducation Corner weather balloonThe weather balloon remains the best platform for observing temperature, wind, re...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportIn turn, NASA could conduct research to see whether machine learning algorithms could be incorpo...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: en.wikisource.org  
-   Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Artificial intelligence (AI) and machine learning (ML) have proven to be e...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: en.wikisource.org  
-   Title: Page:UAP Independent Study Team Final Report  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — The study of Unidentified Anomalous Phenomena (UAP) prese...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) questions: What types of scientific data currently collec...</p></details>
-
-### Additional References
-
-10. <a id="endnote-10"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1o7xnwl/according_to_aaro_this_is_a_red_balloon/](https://www.reddit.com/r/UFOs/comments/1o7xnwl/according_to_aaro_this_is_a_red_balloon/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO this is a red balloon.: r/UFOsAARO bases its assessment on the object&#x27;s strong morphological consistency with other re...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: ecmwf.int  
-   Link: [https://www.ecmwf.int/sites/default/files/elibrary/052025/81661-diagnostics-of-radiosonde-uncertainties.pdf](https://www.ecmwf.int/sites/default/files/elibrary/052025/81661-diagnostics-of-radiosonde-uncertainties.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnostics of radiosonde uncertaintiesMost of the data samples examined can be considered to have approximately uncorrelated uncertainti...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: bufora.org.uk  
-   Link: [https://www.bufora.org.uk/guide-to-ufos](https://www.bufora.org.uk/guide-to-ufos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDE TO UFOS | BUFORAWeather balloons are responsible for many daylight &quot;UFO&quot; observations. The majority of spurious reports are generat...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/](https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How is the spy balloon steerable?: r/askscienceBalloons are “steerable” by changing altitude to find winds in a different direction. Alt...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/1970eya/mick_west_jellyfish_ufo_analysis/](https://www.reddit.com/r/skeptic/comments/1970eya/mick_west_jellyfish_ufo_analysis/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West: Jellyfish UFO Analysis: r/skepticThis video called jellyfish came out a few days ago it shows an object seeming to fly over a...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Advanced analysis techniques like machine learning have potential to help identify UAP an...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: primitiveproton.com  
-   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Quest for Unidentified Anomalous Phenomena (UAP)Artificial Intelligence (AI) and Machine Learning (ML) have become the go-to tools...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: ethz.ch  
-   Link: [https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/edu/courses/climatological_and_hydrological_field_work/Climatological_and_Hydrological_Field_Work_Balloon_Soundings.pdf](https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/edu/courses/climatological_and_hydrological_field_work/Climatological_and_Hydrological_Field_Work_Balloon_Soundings.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosounding ExperimentThis lab will collect data from radiosondes attached to balloons. A meteorological bal- loon, carrying instrument...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57](https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...The data stream is analyzed by artificial intelligence software w...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0](https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comHigh-Quality Data is Worth a Thousand LLMs in Resolving...High-Quality Data is Worth a Thousand LLMs in Resolving Ambiguities...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -652,75 +564,71 @@ That disciplined process is ultimately the real value of balloon comparison libr
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-matches-why-balloon-cases-often-solve-new-ufo-reports-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -778,10 +686,10 @@ That disciplined process is ultimately the real value of balloon comparison libr
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -929,3 +837,105 @@ That disciplined process is ultimately the real value of balloon comparison libr
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: nasa.gov  
+   Title: update nasa shares uap independent study report names director  
+   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study ReportSep 14, 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: noaa.gov  
+   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAARadiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: weather.gov  
+   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationThe radiosonde is a small, expendable instrument package (weighs 60 to 80 grams) that is su...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: weather.gov  
+   Link: [https://www.weather.gov/gjt/education_corner_balloon](https://www.weather.gov/gjt/education_corner_balloon)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceEducation Corner weather balloonThe weather balloon remains the best platform for observing temperature, wind, re...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportIn turn, NASA could conduct research to see whether machine learning algorithms could be incorpo...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: en.wikisource.org  
+   Title: Responses to Statement of Task  
+   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Artificial intelligence (AI) and machine learning (ML) have proven to be e...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: en.wikisource.org  
+   Title: Page:UAP Independent Study Team Final Report  
+   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — The study of Unidentified Anomalous Phenomena (UAP) prese...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The UAP Independent Study shall report on the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) questions: What types of scientific data currently collec...</p></details>
+
+### Additional References
+
+10. <a id="endnote-10"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1o7xnwl/according_to_aaro_this_is_a_red_balloon/](https://www.reddit.com/r/UFOs/comments/1o7xnwl/according_to_aaro_this_is_a_red_balloon/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO this is a red balloon.: r/UFOsAARO bases its assessment on the object&#x27;s strong morphological consistency with other re...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: ecmwf.int  
+   Link: [https://www.ecmwf.int/sites/default/files/elibrary/052025/81661-diagnostics-of-radiosonde-uncertainties.pdf](https://www.ecmwf.int/sites/default/files/elibrary/052025/81661-diagnostics-of-radiosonde-uncertainties.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Diagnostics of radiosonde uncertaintiesMost of the data samples examined can be considered to have approximately uncorrelated uncertainti...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: bufora.org.uk  
+   Link: [https://www.bufora.org.uk/guide-to-ufos](https://www.bufora.org.uk/guide-to-ufos)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDE TO UFOS | BUFORAWeather balloons are responsible for many daylight &quot;UFO&quot; observations. The majority of spurious reports are generat...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/](https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How is the spy balloon steerable?: r/askscienceBalloons are “steerable” by changing altitude to find winds in a different direction. Alt...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/skeptic/comments/1970eya/mick_west_jellyfish_ufo_analysis/](https://www.reddit.com/r/skeptic/comments/1970eya/mick_west_jellyfish_ufo_analysis/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mick West: Jellyfish UFO Analysis: r/skepticThis video called jellyfish came out a few days ago it shows an object seeming to fly over a...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...Advanced analysis techniques like machine learning have potential to help identify UAP an...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: primitiveproton.com  
+   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Quest for Unidentified Anomalous Phenomena (UAP)Artificial Intelligence (AI) and Machine Learning (ML) have become the go-to tools...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: ethz.ch  
+   Link: [https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/edu/courses/climatological_and_hydrological_field_work/Climatological_and_Hydrological_Field_Work_Balloon_Soundings.pdf](https://ethz.ch/content/dam/ethz/special-interest/usys/iac/iac-dam/documents/edu/courses/climatological_and_hydrological_field_work/Climatological_and_Hydrological_Field_Work_Balloon_Soundings.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosounding ExperimentThis lab will collect data from radiosondes attached to balloons. A meteorological bal- loon, carrying instrument...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: avi-loeb.medium.com  
+   Link: [https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57](https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...The data stream is analyzed by artificial intelligence software w...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: avi-loeb.medium.com  
+   Link: [https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0](https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comHigh-Quality Data is Worth a Thousand LLMs in Resolving...High-Quality Data is Worth a Thousand LLMs in Resolving Ambiguities...</p></details>

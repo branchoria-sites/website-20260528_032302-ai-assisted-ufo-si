@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why Some Satellites Suddenly Brighten And Vanish | Satellites
 parent_permalink: /satellite-flares/
 parent_nav_short_title: Satellite Flares
+parent_heading_title: Why Some Satellites Suddenly Brighten And Vanish
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd
   title: Satellite Flares | Satellites
   permalink: /satellite-flares/
   short_title: Satellite Flares
+  heading_title: Why Some Satellites Suddenly Brighten And Vanish
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd
   title: Satellite Flares | Satellites
   permalink: /satellite-flares/
   short_title: Satellite Flares
+  heading_title: Why Some Satellites Suddenly Brighten And Vanish
 sibling_links:
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799
   title: Earth Shadow | Satellite Flares
   permalink: /earth-shadow/
   short_title: Earth Shadow
+  heading_title: Why Satellites Can Vanish In A Single Second
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b
   title: Starlink Flares | Satellite Flares
   permalink: /starlink-flares/
   short_title: Starlink Flares
+  heading_title: Why Starlink Has Changed Modern UFO Reports
 up_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd
   title: Satellite Flares | Satellites
   permalink: /satellite-flares/
   short_title: Satellite Flares
+  heading_title: Why Some Satellites Suddenly Brighten And Vanish
 prev_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b
   title: Starlink Flares | Satellite Flares
   permalink: /starlink-flares/
   short_title: Starlink Flares
-date: '2026-05-28 02:56:00 '
+  heading_title: Why Starlink Has Changed Modern UFO Reports
+date: '2026-06-09 00:02:48 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5
 Precise timing checks are one of the fastest ways to eliminate many UFO and UAP reports as ordinary satellite events. A witness may describe a silent light that appeared suddenly, brightened, drifted steadily for a few seconds, then vanished without warning. On first impression the behaviour can seem extraordinary. In practice, though, that sequence often matches a known satellite pass combined with a brief flare or entry into Earth’s shadow.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-light.svg" | relative_url }}" alt="Timing Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-dark.svg" | relative_url }}" alt="Timing Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, timing matters more than dramatic description. A report that matches a satellite trajectory within seconds, aligns with the correct sky position, and disappears at the exact point where orbital models predict shadow entry is usually no longer a strong unexplained case. Automated cross-checking against orbital databases has therefore become one of the most effective early-stage filtering tools in modern sighting analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 ## Matching witness reports to orbital passes
@@ -342,7 +351,7 @@ Investigators increasingly use automation to compare witness timestamps against:
 This allows rapid triage before analysts spend time on more exotic interpretations.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ea8BCl2yVU0" title="These UFOs are Starlink Flares, 100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ea8BCl2yVU0" target="_blank" rel="noopener noreferrer">These UFOs are Starlink Flares, 100%</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 18.2K &middot; Uploaded: November 2022 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ea8BCl2yVU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ea8BCl2yVU0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUbG8jboh4M" title="Getting oriented to better learn the night sky: Stargazing Basics 1 of 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer">Getting oriented to better learn the night sky: Stargazing Basics 1 of 3</a></p><p class="youtube-embed-meta">Channel: Eyes on the Sky &middot; Views: 814.7K &middot; Uploaded: July 2012 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUbG8jboh4M">Open on YouTube</a></p></div></div></div>
 
 ## Comparing flare peaks with reported motion
 
@@ -400,7 +409,7 @@ This becomes especially common:
 Timing software can predict these shadow-entry moments very accurately. If a witness reports disappearance at 21:17:30 and orbital calculations show shadow ingress at roughly the same second in the same part of the sky, investigators usually treat that as strong explanatory evidence.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-light.svg" | relative_url }}" alt="Timing Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-dark.svg" | relative_url }}" alt="Timing Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When timing evidence weakens the satellite theory
 
 Timing checks are powerful, but they are not universal solutions. There are several situations where satellite correlation becomes weak or misleading.
@@ -418,7 +427,7 @@ Small discrepancies are normal because witness recall is imperfect. Large discre
 For example, if the only candidate satellite passed 20 minutes earlier on the opposite side of the sky, investigators should not force a match simply because the report involved a bright light.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUbG8jboh4M" title="Getting oriented to better learn the night sky: Stargazing Basics 1 of 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer">Getting oriented to better learn the night sky: Stargazing Basics 1 of 3</a></p><p class="youtube-embed-meta">Channel: Eyes on the Sky &middot; Views: 814.7K &middot; Uploaded: July 2012 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUbG8jboh4M">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ea8BCl2yVU0" title="These UFOs are Starlink Flares, 100%" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ea8BCl2yVU0" target="_blank" rel="noopener noreferrer">These UFOs are Starlink Flares, 100%</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 18.2K &middot; Uploaded: November 2022 &middot; Length: 3 minutes 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ea8BCl2yVU0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ea8BCl2yVU0">Open on YouTube</a></p></div></div></div>
 
 ### Motion inconsistent with orbital mechanics
 
@@ -442,7 +451,7 @@ Cases become more difficult when: <span class="citation-chip-wrap"><a class="cit
 AI systems are useful here because they can compare witness timelines against one another and against satellite predictions simultaneously. Consistency across independent reports can expose both false positives and mistaken dismissals.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-light.svg" | relative_url }}" alt="Timing Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-dark.svg" | relative_url }}" alt="Timing Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Tumbling satellites and incomplete predictions
 
 Not all satellites are easy to model.
@@ -503,134 +512,6 @@ In practical investigation work, timing correlation is therefore one of the quic
 * and cases that remain genuinely unresolved after routine screening.
 
 That filtering role is central to AI-assisted UFO investigation. The goal is not to dismiss reports automatically, but to reduce ambiguity where the physics of known orbital objects already provides a strong, testable explanation.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Heavens-Above](https://en.wikipedia.org/wiki/Heavens-Above)  
-
-2. <a id="endnote-2"></a>
-   Source: satflare.com  
-   Link: [https://www.satflare.com/track.asp?q=iridium](https://www.satflare.com/track.asp?q=iridium)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(the 3D desktop version is still available for download) This page is interactive...Read more...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/faq.aspx?alt=0&cul=en&lat=41.5947&lng=-109.221&loc=Rock+Springs&tz=MST](https://www.heavens-above.com/faq.aspx?alt=0&cul=en&lat=41.5947&lng=-109.221&loc=Rock+Springs&tz=MST)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>even those during daylight, and then compare these...Read more...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract](https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Flaresby RL Mansfield · 2008 — Such a solar reflection, called an &quot;Iridium flare,&quot; typically happens several times a day to any E...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: Wikipedia  
-   Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
-
-6. <a id="endnote-6"></a>
-   Source: earthsky.org  
-   Title: Earth Sky Is that a UFO?!  
-   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanationDecember 15, 2020 — 15 Dec 2020 — An experimental rocket test over Norway in 2009, which triggered many UF...</p></details>
-   Published: December 15, 2020  
-
-7. <a id="endnote-7"></a>
-   Source: orbital-mechanics.space  
-   Link: [https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html](https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Example: Time in Earth&#x27;s ShadowTherefore, the time the satellite is in shadow when apogee is towards the Sun is a little less than half a...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: satobs.org  
-   Link: [https://www.satobs.org/iridium.html](https://www.satobs.org/iridium.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: bco.ie  
-   Title: MTU Blackrock Castle How To Identify A UFO  
-   Link: [https://www.bco.ie/how-to-identify-a-ufo/](https://www.bco.ie/how-to-identify-a-ufo/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: skyandtelescope.org  
-   Link: [https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/](https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHow to Catch an Iridium FlareImelda Joson and Edwin Aguirre timed this 30-second exposure to capture Iridium satellite num...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: orbitalradar.com  
-   Title: iridium flares  
-   Link: [https://orbitalradar.com/iridium-flares](https://orbitalradar.com/iridium-flares)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The legendary satellite flashes that once produced the brightest predictable events in the night sky — brighter than Venus.Read more...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: livescience.com  
-   Title: can you see earths shadow  
-   Link: [https://www.livescience.com/space/can-you-see-earths-shadow](https://www.livescience.com/space/can-you-see-earths-shadow)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you see Earth&#x27;s shadow?14 Mar 2026 — Additionally, telescopes can show how geostationary satellites &quot;vanish&quot; in Earth&#x27;s shadow. Such...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: cloudynights.com  
-   Title: 595915 satellites visible at midnight  
-   Link: [https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/](https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsSatellites Visible at Midnight (!/?)22 Oct 2017 — Second one is often accompanied by references to a UFO. If you see 2 or 3...</p></details>
-
-### Additional References
-
-14. <a id="endnote-14"></a>
-   Source: apollosat.com  
-   Link: [https://apollosat.com/iridium-coverage-map/](https://apollosat.com/iridium-coverage-map/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Coverage Map Live View of SatellitesOn this page you can track in real time all the satellites orbiting the Earth, with a 2D repr...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: dangl.at  
-   Link: [https://www.dangl.at/iridhelp.htm](https://www.dangl.at/iridhelp.htm)  
-
-16. <a id="endnote-16"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/seestar/posts/419274534218168/](https://www.facebook.com/groups/seestar/posts/419274534218168/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Could this be a meteor? Edit: Based on several comments (thank you all), it seems most likely to be a satellite flare...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spacehipsters/posts/2023383467706526/](https://www.facebook.com/groups/spacehipsters/posts/2023383467706526/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using the website heavens-above.com I was able to know the time and location to spot these marvels. An Iridium...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: universemagazine.com  
-   Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqeRy6HLHj0fHvyKXTQLauTDqj60DE2RkGIJL95hYKDQELlbXAH](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqeRy6HLHj0fHvyKXTQLauTDqj60DE2RkGIJL95hYKDQELlbXAH)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/seestar/posts/389362420542713/](https://www.facebook.com/groups/seestar/posts/389362420542713/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a plane as normally you see flashing different colours... But it fades away...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: reddit.com  
-   Title: I just saw the ISS disappear in Earth's shadow  
-   Link: [https://www.reddit.com/r/[Astronomy](https://www.reddit.com/r/[Astronomy)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyIf you have some binoculars you can see the station change from bright white to a deep gold/orange color before it disappears...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: youtube.com  
-   Title: Getting oriented to better learn the night sky: Stargazing Basics 1 of 3  
-   Link: [http://www.youtube.com/watch?v=XUbG8jboh4M](http://www.youtube.com/watch?v=XUbG8jboh4M)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying satellites in the night sky for beginners Getting oriented to better learn the night sky: Stargazing Basics 1 of 3...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: astronomy.stackexchange.com  
-   Title: recurring flying object near the big dipper  
-   Link: [https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper](https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object near the Big Dipper8 Sept 2023 — This evening I was watching the Big Dipper when I noticed a bright-enough object (it looke...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: astronomy.stackexchange.com  
-   Title: two luminous points disappearing in the sky  
-   Link: [https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky](https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>luminous points disappearing in the sky22 Jul 2020 — I saw a few days ago two luminous points in the sky, which were quite close (about 1...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -746,75 +627,71 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-68d869-can-timing-data-solve-a-ufo-sighting-quickly-ai-assisted-ufo-sighting-inves-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -872,10 +749,10 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1023,3 +900,131 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Heavens-Above](https://en.wikipedia.org/wiki/Heavens-Above)  
+
+2. <a id="endnote-2"></a>
+   Source: satflare.com  
+   Link: [https://www.satflare.com/track.asp?q=iridium](https://www.satflare.com/track.asp?q=iridium)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(the 3D desktop version is still available for download) This page is interactive...Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: heavens-above.com  
+   Link: [https://www.heavens-above.com/faq.aspx?alt=0&cul=en&lat=41.5947&lng=-109.221&loc=Rock+Springs&tz=MST](https://www.heavens-above.com/faq.aspx?alt=0&cul=en&lat=41.5947&lng=-109.221&loc=Rock+Springs&tz=MST)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>even those during daylight, and then compare these...Read more...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: ui.adsabs.harvard.edu  
+   Link: [https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract](https://ui.adsabs.harvard.edu/abs/2008DDA....39.1502M/abstract)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Flaresby RL Mansfield · 2008 — Such a solar reflection, called an &quot;Iridium flare,&quot; typically happens several times a day to any E...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: Satellite flare  
+   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+
+6. <a id="endnote-6"></a>
+   Source: earthsky.org  
+   Title: Earth Sky Is that a UFO?!  
+   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanationDecember 15, 2020 — 15 Dec 2020 — An experimental rocket test over Norway in 2009, which triggered many UF...</p></details>
+   Published: December 15, 2020  
+
+7. <a id="endnote-7"></a>
+   Source: orbital-mechanics.space  
+   Link: [https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html](https://orbital-mechanics.space/time-since-periapsis-and-keplers-equation/elliptical-orbit-time-in-shadow.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Example: Time in Earth&#x27;s ShadowTherefore, the time the satellite is in shadow when apogee is towards the Sun is a little less than half a...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: satobs.org  
+   Link: [https://www.satobs.org/iridium.html](https://www.satobs.org/iridium.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: bco.ie  
+   Title: MTU Blackrock Castle How To Identify A UFO  
+   Link: [https://www.bco.ie/how-to-identify-a-ufo/](https://www.bco.ie/how-to-identify-a-ufo/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO. Other, more mundane explanations are possible in the majority of cases... The sudden disappearance happens when it moves into the E...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: skyandtelescope.org  
+   Link: [https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/](https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeHow to Catch an Iridium FlareImelda Joson and Edwin Aguirre timed this 30-second exposure to capture Iridium satellite num...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: orbitalradar.com  
+   Title: iridium flares  
+   Link: [https://orbitalradar.com/iridium-flares](https://orbitalradar.com/iridium-flares)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The legendary satellite flashes that once produced the brightest predictable events in the night sky — brighter than Venus.Read more...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: livescience.com  
+   Title: can you see earths shadow  
+   Link: [https://www.livescience.com/space/can-you-see-earths-shadow](https://www.livescience.com/space/can-you-see-earths-shadow)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you see Earth&#x27;s shadow?14 Mar 2026 — Additionally, telescopes can show how geostationary satellites &quot;vanish&quot; in Earth&#x27;s shadow. Such...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: cloudynights.com  
+   Title: 595915 satellites visible at midnight  
+   Link: [https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/](https://www.cloudynights.com/forums/topic/595915-satellites-visible-at-midnight/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsSatellites Visible at Midnight (!/?)22 Oct 2017 — Second one is often accompanied by references to a UFO. If you see 2 or 3...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: apollosat.com  
+   Link: [https://apollosat.com/iridium-coverage-map/](https://apollosat.com/iridium-coverage-map/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Coverage Map Live View of SatellitesOn this page you can track in real time all the satellites orbiting the Earth, with a 2D repr...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: dangl.at  
+   Link: [https://www.dangl.at/iridhelp.htm](https://www.dangl.at/iridhelp.htm)  
+
+16. <a id="endnote-16"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/seestar/posts/419274534218168/](https://www.facebook.com/groups/seestar/posts/419274534218168/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Could this be a meteor? Edit: Based on several comments (thank you all), it seems most likely to be a satellite flare...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/spacehipsters/posts/2023383467706526/](https://www.facebook.com/groups/spacehipsters/posts/2023383467706526/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using the website heavens-above.com I was able to know the time and location to spot these marvels. An Iridium...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: universemagazine.com  
+   Title: known flying objects sky phenomena we often mistake for ufos  
+   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqeRy6HLHj0fHvyKXTQLauTDqj60DE2RkGIJL95hYKDQELlbXAH](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOoqeRy6HLHj0fHvyKXTQLauTDqj60DE2RkGIJL95hYKDQELlbXAH)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/seestar/posts/389362420542713/](https://www.facebook.com/groups/seestar/posts/389362420542713/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a plane as normally you see flashing different colours... But it fades away...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: reddit.com  
+   Title: I just saw the ISS disappear in Earth's shadow  
+   Link: [https://www.reddit.com/r/[Astronomy](https://www.reddit.com/r/[Astronomy)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/AstronomyIf you have some binoculars you can see the station change from bright white to a deep gold/orange color before it disappears...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Title: Getting oriented to better learn the night sky: Stargazing Basics 1 of 3  
+   Link: [http://www.youtube.com/watch?v=XUbG8jboh4M](http://www.youtube.com/watch?v=XUbG8jboh4M)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying satellites in the night sky for beginners Getting oriented to better learn the night sky: Stargazing Basics 1 of 3...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: astronomy.stackexchange.com  
+   Title: recurring flying object near the big dipper  
+   Link: [https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper](https://astronomy.stackexchange.com/questions/54666/recurring-flying-object-near-the-big-dipper)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>flying object near the Big Dipper8 Sept 2023 — This evening I was watching the Big Dipper when I noticed a bright-enough object (it looke...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: astronomy.stackexchange.com  
+   Title: two luminous points disappearing in the sky  
+   Link: [https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky](https://astronomy.stackexchange.com/questions/37090/two-luminous-points-disappearing-in-the-sky)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>luminous points disappearing in the sky22 Jul 2020 — I saw a few days ago two luminous points in the sky, which were quite close (about 1...</p></details>

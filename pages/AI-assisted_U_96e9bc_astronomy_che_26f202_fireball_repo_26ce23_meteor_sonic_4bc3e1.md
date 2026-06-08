@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:32:46'
 parent_title: When many UFO reports point to one meteor | Astronomy
 parent_permalink: /fireballs/
 parent_nav_short_title: Fireballs
+parent_heading_title: When many UFO reports point to one meteor
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23
   title: Fireballs | Astronomy
   permalink: /fireballs/
   short_title: Fireballs
+  heading_title: When many UFO reports point to one meteor
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,33 +231,40 @@ breadcrumb_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23
   title: Fireballs | Astronomy
   permalink: /fireballs/
   short_title: Fireballs
+  heading_title: When many UFO reports point to one meteor
 sibling_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e
   title: Green Fireballs | Fireballs
   permalink: /green-fireballs/
   short_title: Green Fireballs
+  heading_title: Why Green Meteors Look Like Alien Craft
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5
   title: Meteor Databases | Fireballs
   permalink: /meteor-databases/
   short_title: Meteor Databases
+  heading_title: Can Public Fireball Logs Solve A UFO Report?
 up_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23
   title: Fireballs | Astronomy
   permalink: /fireballs/
   short_title: Fireballs
+  heading_title: When many UFO reports point to one meteor
 next_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e
   title: Green Fireballs | Fireballs
   permalink: /green-fireballs/
   short_title: Green Fireballs
+  heading_title: Why Green Meteors Look Like Alien Craft
+date: '2026-06-08 23:13:08 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26
 A loud boom arriving long after a bright object crosses the sky is one of the strongest clues that witnesses saw a meteor airburst rather than a nearby [aircraft]({{ 'aircraft/' | relative_url }}), drone, or unknown craft. In many UFO reports, the delay itself becomes the key piece of evidence. People often assume that if they heard an explosion overhead, the source must have been close. In reality, large meteors can explode tens of kilometres above the ground, with the light reaching observers almost instantly while the sound arrives much later.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-light.svg" | relative_url }}" alt="Delayed Booms illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-dark.svg" | relative_url }}" alt="Delayed Booms illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, this timing gap is extremely useful. When many witnesses report a flash first and a boom seconds or minutes later, software can compare those delays against estimated sound travel times and likely [atmospheric]({{ 'scintillation/' | relative_url }}) altitudes. That process frequently turns an apparently mysterious “crash” report into a well-understood meteor event with a high-altitude shockwave.
 
 ## How sound delays reveal altitude
@@ -336,211 +345,11 @@ In reality, meteor shockwaves can travel very large distances. NASA and meteor r
 This produces a familiar emergency-response pattern:
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-light.svg" | relative_url }}" alt="Delayed Booms illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-dark.svg" | relative_url }}" alt="Delayed Booms illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. bright flash observed
-2. delayed boom heard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">It&#x27;s Fireball Season!</span><span class="citation-popover-snippet">Answering Your Meteor Questions26 Mar 2026 —... sound, often called a sonic boom, that can be heard on the ground. Additionally, the fra...</span></span></span>
-3. residents report a nearby explosion
-4. emergency services receive calls about crashes or impacts
-5. no wreckage is found
-
-</div>
-
-Modern UFO and UAP investigations increasingly compare these reports against [meteor databases]({{ 'meteor-databases/' | relative_url }}) before treating them as anomalous craft incidents.
-
-The March 2026 Ohio fireball illustrates the pattern well. Witnesses across several states reported a large boom and shaking buildings after a meteor fragmented overhead. NASA estimated the object was only about two metres across, yet the sonic effects were heard far beyond the immediate trajectory area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">NASA confirmed the meteor, which was visible near Medina, Ohio, was about 2 meters in diameter, weighed approximately 6 to 7 tons, and tr...</span></span></span>
-
-Because humans instinctively localise loud sounds as nearby threats, many witnesses sincerely believe the source landed close to them. AI-assisted analysis helps counter this bias by aggregating geographically distributed reports. If dozens of separated observers all think the explosion happened “just over the hill”, the event was probably much larger and farther away than any single witness realised.
-
-## Comparing boom timing across reports
-
-Delayed-boom analysis becomes much more powerful when many witness accounts are combined.
-
-A single observer may estimate timing poorly under stress. Large datasets are more reliable. Modern investigation systems can collect timestamps from:
-
-* [social media]({{ 'reposts/' | relative_url }}) uploads
-* emergency-call logs
-* dashboard cameras
-* home CCTV
-* meteor-network sensors
-* witness forms
-* smart doorbell recordings
-
-Once organised, these reports can reveal an expanding acoustic pattern consistent with a high-altitude shockwave.
-
-For example:
-
-* witnesses nearest the trajectory may hear the boom after 30 to 60 seconds
-* observers farther away may hear it several minutes later
-* some people see the flash but hear nothing at all
-
-That geographic spread strongly favours a meteor explanation over a conventional aircraft accident or nearby object.
-
-Researchers studying meteor-generated shockwaves note that fragmentation height and entry angle strongly affect ground pressure and damage footprints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">arXivPhysics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</span><span class="citation-popover-meta">Published: May 21, 2018</span></span></span> Lower-altitude fragmentation tends to produce stronger and more concentrated overpressure effects, while higher bursts spread the acoustic signature more broadly.
-
-This matters in UFO screening because witness perception alone often exaggerates proximity. AI systems can compare reported delays against atmospheric models and rapidly identify whether the timing is physically plausible for a meteor airburst.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gRrdSwhQhY0" title="Meteor Strikes Russia, Over 1,000 Believed Injured" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gRrdSwhQhY0" target="_blank" rel="noopener noreferrer">Meteor Strikes Russia, Over 1,000 Believed Injured</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 3.5M &middot; Uploaded: February 2013 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gRrdSwhQhY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gRrdSwhQhY0">Open on YouTube</a></p></div></div></div>
-
-## Why simultaneous sound can be misleading
-
-Not every reported meteor sound is delayed. Some witnesses describe crackling, hissing, or popping noises occurring at the same moment as the fireball.
-
-These reports are controversial and are usually separated from ordinary sonic booms. The American Meteor Society distinguishes between delayed sonic booms and rarer “electrophonic sounds”, which may involve electromagnetic effects interacting with nearby objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsThere are two reported types of sounds generated by very bright fireballs, both of which are quite ra...</span></span></span>
-
-For UFO investigations, the important distinction is this:
-
-* delayed booms strongly support a distant atmospheric event
-* simultaneous local sounds are less reliable as evidence of proximity
-
-Witnesses often compress timelines during stressful experiences. Someone may later describe the boom as immediate even if video evidence shows a substantial delay. AI-assisted reconstruction can compare witness recollections against timestamped recordings to correct for this effect.
-
-This is particularly important in viral UFO cases, where edited clips or dramatic retellings can remove the delay entirely and make the event appear more mysterious than it was.
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-light.svg" | relative_url }}" alt="Delayed Booms illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What delayed booms tell investigators
-
-A delayed sonic boom does not prove every fireball report was definitely a meteor. But it is one of the strongest atmospheric clues investigators can use.
-
-When analysts see:
-
-* a bright high-speed flash
-* wide-area visibility
-* short duration
-* delayed acoustic shock
-* multiple geographically separated reports
-
-the probability of a meteor airburst rises substantially.
-
-The key investigative value lies in the timing. The gap between light and sound exposes the scale of the event. What felt to witnesses like a nearby crash was often a hypersonic object exploding high above the atmosphere.
-
-In AI-assisted UFO investigation, that timing relationship becomes measurable evidence rather than anecdote. Instead of relying only on dramatic witness language, investigators can reconstruct the physical behaviour of the event itself.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHPiF7TLzPE" title="NASA says meteor that lit up Vancouver sky was travelling 100 times speed of sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHPiF7TLzPE" target="_blank" rel="noopener noreferrer">NASA says meteor that lit up Vancouver sky was travelling 100 times speed of sound</a></p><p class="youtube-embed-meta">Channel: CHEK Media &middot; Views: 44.4K &middot; Uploaded: March 2026 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHPiF7TLzPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHPiF7TLzPE">Open on YouTube</a></p></div></div></div>
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: nasa.gov  
-   Title: It's Fireball Season!  
-   Link: [https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/](https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answering Your Meteor Questions26 Mar 2026 —... sound, often called a sonic boom, that can be heard on the ground. Additionally, the fra...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: Wikipedia  
-   Title: Chelyabinsk meteor  
-   Link: [https://en.wikipedia.org/wiki/Chelyabinsk_meteor](https://en.wikipedia.org/wiki/Chelyabinsk_meteor)  
-
-3. <a id="endnote-3"></a>
-   Source: planetary.org  
-   Title: what was the chelyabinsk meteor event  
-   Link: [https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event](https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Planetary SocietyWhat was the Chelyabinsk meteor event?15 Feb 2023 — The shockwave, traveling at a slower speed, arrived later and sh...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: nasa.gov  
-   Title: five years after the chelyabinsk meteor nasa leads efforts in planetary defense  
-   Link: [https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/](https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five Years after the Chelyabinsk MeteorFeb 15, 2018 — Over 1,600 people were injured in the blast, mostly due to broken glass. “The Chely...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: jpl.nasa.gov  
-   Title: wisconsin fireball caught on tape  
-   Link: [https://www.jpl.nasa.gov/news/wisconsin-fireball-caught-on-tape/](https://www.jpl.nasa.gov/news/wisconsin-fireball-caught-on-tape/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball Caught On Tape15 Apr 2010 — Numerous witnesses also heard crackling sounds and a sonic boom. It is not know yet if any debris fr...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: arxiv.org  
-   Title: arXiv Physics of Meteor Generated Shock Waves in the Earth's Atmosphere  
-   Link: [https://arxiv.org/abs/1805.07842](https://arxiv.org/abs/1805.07842)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPhysics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</p></details>
-   Published: May 21, 2018  
-
-7. <a id="endnote-7"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1802.07299](https://arxiv.org/abs/1802.07299)  
-
-8. <a id="endnote-8"></a>
-   Source: reentry.arc.nasa.gov  
-   Title: govfirst reactions  
-   Link: [https://reentry.arc.nasa.gov/firstreactions.html](https://reentry.arc.nasa.gov/firstreactions.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>reactions - Stardust SRC Entry Observing Campaign - NASAAbout 2.5 minutes later, as we all stood trying to be quiet, a surprisingly loud...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsThere are two reported types of sounds generated by very bright fireballs, both of which are quite ra...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: foxweather.com  
-   Title: meteor lights up texas sky amid reports flash loud boom  
-   Link: [https://www.foxweather.com/earth-space/meteor-lights-up-texas-sky-amid-reports-flash-loud-boom](https://www.foxweather.com/earth-space/meteor-lights-up-texas-sky-amid-reports-flash-loud-boom)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor lights up Texas sky and produces loud boom heard...22 Mar 2026 — According to NASA, data indicates the object became visible abou...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: theguardian.com  
-   Link: [https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania](https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA confirmed the meteor, which was visible near Medina, Ohio, was about 2 meters in diameter, weighed approximately 6 to 7 tons, and tr...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/ams-q1-2026-fireball-analysis.html](https://amsmeteors.org/ams-q1-2026-fireball-analysis.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyHas Something Changed in the Near-Earth Fireball...25 Mar 2026 — A 7-ton, 2-meter asteroid entered over Lake Erie...</p></details>
-
-### Additional References
-
-13. <a id="endnote-13"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/1jblo5p/31425_meteor_sonic_boom/](https://www.reddit.com/r/interestingasfuck/comments/1jblo5p/31425_meteor_sonic_boom/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3/14/25 Meteor sonic boom: r/interestingasfuckThis meteor was heading NNW not far south of Chicago, over 400 miles away, and probably cl...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DWAQPZYjs2N/](https://www.instagram.com/reel/DWAQPZYjs2N/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC World News Tonight on Instagram: &quot;The sonic “boom...The sonic “boom” heard from Ohio to Kentucky was from a meteorite traveling 40,0...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/FOX10News/posts/boom-%EF%B8%8F-nws-says-the-fireball-caught-on-camera-was-a-meteor-and-it-likely-caused-/1380849390738781/](https://www.facebook.com/FOX10News/posts/boom-%EF%B8%8F-nws-says-the-fireball-caught-on-camera-was-a-meteor-and-it-likely-caused-/1380849390738781/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOOM! ☄️ NWS says the fireball caught on camera was a...On occasion, unusually bright fireball meteors can create a sonic boom. Some wit...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: astronomycast.com  
-   Link: [https://www.astronomycast.com/2013/04/ep-291-shockwave/](https://www.astronomycast.com/2013/04/ep-291-shockwave/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 291: ShockwavesThe sonic boom is estimated to have had a pressure that caused the air to move it approximately 500 mph, which was the...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/iloveportmoody/posts/4292936677623550/](https://www.facebook.com/groups/iloveportmoody/posts/4292936677623550/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large meteor breaks up over north shore mountainsBecause sound travels about 343 m/s, a 1–2 minute delay between flash and boom would pla...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/news/world/americas/philadelphia-fireball-night-sky-explanation-b2953746.html](https://www.independent.co.uk/news/world/americas/philadelphia-fireball-night-sky-explanation-b2953746.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explains what the fireball seen over parts of...5 days ago — One commenter said they also heard “a very loud boom” in Batsto, while...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: aol.com  
-   Link: [https://www.aol.com/articles/asteroid-used-target-practice-nasa-094012064.html](https://www.aol.com/articles/asteroid-used-target-practice-nasa-094012064.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whatever it was hurtled through the atmosphere faster than the speed of sound and generated sonic boom after sonic boom. Then...Read more...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/](https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/)  
-
-21. <a id="endnote-21"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/100064662045056/posts/nasa-comments-on-tonights-meteorheres-what-nasa-is-telling-usnasa-says-that-loud/1373304798168242/](https://www.facebook.com/100064662045056/posts/nasa-comments-on-tonights-meteorheres-what-nasa-is-telling-usnasa-says-that-loud/1373304798168242/)  
-
-22. <a id="endnote-22"></a>
-   Source: livescience.com  
-   Link: [https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us](https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare &#x27;daytime fireball&#x27; meteor creates powerful sonic boom...18 Mar 2026 — A fridge-size space rock spectacularly broke apart over Ohio...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -656,75 +465,71 @@ In AI-assisted UFO investigation, that timing relationship becomes measurable ev
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big"><img src="{{ '/assets/images/marketplace-covers/b64cdf336f9794ec37de.jpg' | relative_url }}" alt="Listing image for MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=delayed-booms-why-meteor-explosions-sound-late-to-witnesses-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -782,10 +587,10 @@ In AI-assisted UFO investigation, that timing relationship becomes measurable ev
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -933,3 +738,204 @@ In AI-assisted UFO investigation, that timing relationship becomes measurable ev
 })();
 </script>
 </section>
+
+2. delayed boom heard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">It&#x27;s Fireball Season!</span><span class="citation-popover-snippet">Answering Your Meteor Questions26 Mar 2026 —... sound, often called a sonic boom, that can be heard on the ground. Additionally, the fra...</span></span></span>
+3. residents report a nearby explosion
+4. emergency services receive calls about crashes or impacts
+5. no wreckage is found
+
+</div>
+
+Modern UFO and UAP investigations increasingly compare these reports against [meteor databases]({{ 'meteor-databases/' | relative_url }}) before treating them as anomalous craft incidents.
+
+The March 2026 Ohio fireball illustrates the pattern well. Witnesses across several states reported a large boom and shaking buildings after a meteor fragmented overhead. NASA estimated the object was only about two metres across, yet the sonic effects were heard far beyond the immediate trajectory area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">NASA confirmed the meteor, which was visible near Medina, Ohio, was about 2 meters in diameter, weighed approximately 6 to 7 tons, and tr...</span></span></span>
+
+Because humans instinctively localise loud sounds as nearby threats, many witnesses sincerely believe the source landed close to them. AI-assisted analysis helps counter this bias by aggregating geographically distributed reports. If dozens of separated observers all think the explosion happened “just over the hill”, the event was probably much larger and farther away than any single witness realised.
+
+## Comparing boom timing across reports
+
+Delayed-boom analysis becomes much more powerful when many witness accounts are combined.
+
+A single observer may estimate timing poorly under stress. Large datasets are more reliable. Modern investigation systems can collect timestamps from:
+
+* [social media]({{ 'reposts/' | relative_url }}) uploads
+* emergency-call logs
+* dashboard cameras
+* home CCTV
+* meteor-network sensors
+* witness forms
+* smart doorbell recordings
+
+Once organised, these reports can reveal an expanding acoustic pattern consistent with a high-altitude shockwave.
+
+For example:
+
+* witnesses nearest the trajectory may hear the boom after 30 to 60 seconds
+* observers farther away may hear it several minutes later
+* some people see the flash but hear nothing at all
+
+That geographic spread strongly favours a meteor explanation over a conventional aircraft accident or nearby object.
+
+Researchers studying meteor-generated shockwaves note that fragmentation height and entry angle strongly affect ground pressure and damage footprints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">arXivPhysics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</span><span class="citation-popover-meta">Published: May 21, 2018</span></span></span> Lower-altitude fragmentation tends to produce stronger and more concentrated overpressure effects, while higher bursts spread the acoustic signature more broadly.
+
+This matters in UFO screening because witness perception alone often exaggerates proximity. AI systems can compare reported delays against atmospheric models and rapidly identify whether the timing is physically plausible for a meteor airburst.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gRrdSwhQhY0" title="Meteor Strikes Russia, Over 1,000 Believed Injured" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gRrdSwhQhY0" target="_blank" rel="noopener noreferrer">Meteor Strikes Russia, Over 1,000 Believed Injured</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 3.5M &middot; Uploaded: February 2013 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gRrdSwhQhY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gRrdSwhQhY0">Open on YouTube</a></p></div></div></div>
+
+## Why simultaneous sound can be misleading
+
+Not every reported meteor sound is delayed. Some witnesses describe crackling, hissing, or popping noises occurring at the same moment as the fireball.
+
+These reports are controversial and are usually separated from ordinary sonic booms. The American Meteor Society distinguishes between delayed sonic booms and rarer “electrophonic sounds”, which may involve electromagnetic effects interacting with nearby objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsThere are two reported types of sounds generated by very bright fireballs, both of which are quite ra...</span></span></span>
+
+For UFO investigations, the important distinction is this:
+
+* delayed booms strongly support a distant atmospheric event
+* simultaneous local sounds are less reliable as evidence of proximity
+
+Witnesses often compress timelines during stressful experiences. Someone may later describe the boom as immediate even if video evidence shows a substantial delay. AI-assisted reconstruction can compare witness recollections against timestamped recordings to correct for this effect.
+
+This is particularly important in viral UFO cases, where edited clips or dramatic retellings can remove the delay entirely and make the event appear more mysterious than it was.
+
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-dark.svg" | relative_url }}" alt="Delayed Booms illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What delayed booms tell investigators
+
+A delayed sonic boom does not prove every fireball report was definitely a meteor. But it is one of the strongest atmospheric clues investigators can use.
+
+When analysts see:
+
+* a bright high-speed flash
+* wide-area visibility
+* short duration
+* delayed acoustic shock
+* multiple geographically separated reports
+
+the probability of a meteor airburst rises substantially.
+
+The key investigative value lies in the timing. The gap between light and sound exposes the scale of the event. What felt to witnesses like a nearby crash was often a hypersonic object exploding high above the atmosphere.
+
+In AI-assisted UFO investigation, that timing relationship becomes measurable evidence rather than anecdote. Instead of relying only on dramatic witness language, investigators can reconstruct the physical behaviour of the event itself.
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHPiF7TLzPE" title="NASA says meteor that lit up Vancouver sky was travelling 100 times speed of sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHPiF7TLzPE" target="_blank" rel="noopener noreferrer">NASA says meteor that lit up Vancouver sky was travelling 100 times speed of sound</a></p><p class="youtube-embed-meta">Channel: CHEK Media &middot; Views: 44.4K &middot; Uploaded: March 2026 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHPiF7TLzPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHPiF7TLzPE">Open on YouTube</a></p></div></div></div>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: nasa.gov  
+   Title: It's Fireball Season!  
+   Link: [https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/](https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Answering Your Meteor Questions26 Mar 2026 —... sound, often called a sonic boom, that can be heard on the ground. Additionally, the fra...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Chelyabinsk meteor  
+   Link: [https://en.wikipedia.org/wiki/Chelyabinsk_meteor](https://en.wikipedia.org/wiki/Chelyabinsk_meteor)  
+
+3. <a id="endnote-3"></a>
+   Source: planetary.org  
+   Title: what was the chelyabinsk meteor event  
+   Link: [https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event](https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Planetary SocietyWhat was the Chelyabinsk meteor event?15 Feb 2023 — The shockwave, traveling at a slower speed, arrived later and sh...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: nasa.gov  
+   Title: five years after the chelyabinsk meteor nasa leads efforts in planetary defense  
+   Link: [https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/](https://www.nasa.gov/solar-system/five-years-after-the-chelyabinsk-meteor-nasa-leads-efforts-in-planetary-defense/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Five Years after the Chelyabinsk MeteorFeb 15, 2018 — Over 1,600 people were injured in the blast, mostly due to broken glass. “The Chely...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: jpl.nasa.gov  
+   Title: wisconsin fireball caught on tape  
+   Link: [https://www.jpl.nasa.gov/news/wisconsin-fireball-caught-on-tape/](https://www.jpl.nasa.gov/news/wisconsin-fireball-caught-on-tape/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball Caught On Tape15 Apr 2010 — Numerous witnesses also heard crackling sounds and a sonic boom. It is not know yet if any debris fr...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: arxiv.org  
+   Title: arXiv Physics of Meteor Generated Shock Waves in the Earth's Atmosphere  
+   Link: [https://arxiv.org/abs/1805.07842](https://arxiv.org/abs/1805.07842)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivPhysics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</p></details>
+   Published: May 21, 2018  
+
+7. <a id="endnote-7"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/1802.07299](https://arxiv.org/abs/1802.07299)  
+
+8. <a id="endnote-8"></a>
+   Source: reentry.arc.nasa.gov  
+   Title: govfirst reactions  
+   Link: [https://reentry.arc.nasa.gov/firstreactions.html](https://reentry.arc.nasa.gov/firstreactions.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>reactions - Stardust SRC Entry Observing Campaign - NASAAbout 2.5 minutes later, as we all stood trying to be quiet, a surprisingly loud...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: amsmeteors.org  
+   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball FAQsThere are two reported types of sounds generated by very bright fireballs, both of which are quite ra...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: foxweather.com  
+   Title: meteor lights up texas sky amid reports flash loud boom  
+   Link: [https://www.foxweather.com/earth-space/meteor-lights-up-texas-sky-amid-reports-flash-loud-boom](https://www.foxweather.com/earth-space/meteor-lights-up-texas-sky-amid-reports-flash-loud-boom)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteor lights up Texas sky and produces loud boom heard...22 Mar 2026 — According to NASA, data indicates the object became visible abou...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: theguardian.com  
+   Link: [https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania](https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA confirmed the meteor, which was visible near Medina, Ohio, was about 2 meters in diameter, weighed approximately 6 to 7 tons, and tr...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: amsmeteors.org  
+   Link: [https://amsmeteors.org/ams-q1-2026-fireball-analysis.html](https://amsmeteors.org/ams-q1-2026-fireball-analysis.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyHas Something Changed in the Near-Earth Fireball...25 Mar 2026 — A 7-ton, 2-meter asteroid entered over Lake Erie...</p></details>
+
+### Additional References
+
+13. <a id="endnote-13"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/interestingasfuck/comments/1jblo5p/31425_meteor_sonic_boom/](https://www.reddit.com/r/interestingasfuck/comments/1jblo5p/31425_meteor_sonic_boom/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>3/14/25 Meteor sonic boom: r/interestingasfuckThis meteor was heading NNW not far south of Chicago, over 400 miles away, and probably cl...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: instagram.com  
+   Link: [https://www.instagram.com/reel/DWAQPZYjs2N/](https://www.instagram.com/reel/DWAQPZYjs2N/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ABC World News Tonight on Instagram: &quot;The sonic “boom...The sonic “boom” heard from Ohio to Kentucky was from a meteorite traveling 40,0...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/FOX10News/posts/boom-%EF%B8%8F-nws-says-the-fireball-caught-on-camera-was-a-meteor-and-it-likely-caused-/1380849390738781/](https://www.facebook.com/FOX10News/posts/boom-%EF%B8%8F-nws-says-the-fireball-caught-on-camera-was-a-meteor-and-it-likely-caused-/1380849390738781/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>BOOM! ☄️ NWS says the fireball caught on camera was a...On occasion, unusually bright fireball meteors can create a sonic boom. Some wit...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: astronomycast.com  
+   Link: [https://www.astronomycast.com/2013/04/ep-291-shockwave/](https://www.astronomycast.com/2013/04/ep-291-shockwave/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ep. 291: ShockwavesThe sonic boom is estimated to have had a pressure that caused the air to move it approximately 500 mph, which was the...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/iloveportmoody/posts/4292936677623550/](https://www.facebook.com/groups/iloveportmoody/posts/4292936677623550/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Large meteor breaks up over north shore mountainsBecause sound travels about 343 m/s, a 1–2 minute delay between flash and boom would pla...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: independent.co.uk  
+   Link: [https://www.independent.co.uk/news/world/americas/philadelphia-fireball-night-sky-explanation-b2953746.html](https://www.independent.co.uk/news/world/americas/philadelphia-fireball-night-sky-explanation-b2953746.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA explains what the fireball seen over parts of...5 days ago — One commenter said they also heard “a very loud boom” in Batsto, while...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: aol.com  
+   Link: [https://www.aol.com/articles/asteroid-used-target-practice-nasa-094012064.html](https://www.aol.com/articles/asteroid-used-target-practice-nasa-094012064.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whatever it was hurtled through the atmosphere faster than the speed of sound and generated sonic boom after sonic boom. Then...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/](https://www.reddit.com/r/space/comments/1c6e5nh/meteor_making_noise/)  
+
+21. <a id="endnote-21"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/100064662045056/posts/nasa-comments-on-tonights-meteorheres-what-nasa-is-telling-usnasa-says-that-loud/1373304798168242/](https://www.facebook.com/100064662045056/posts/nasa-comments-on-tonights-meteorheres-what-nasa-is-telling-usnasa-says-that-loud/1373304798168242/)  
+
+22. <a id="endnote-22"></a>
+   Source: livescience.com  
+   Link: [https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us](https://www.livescience.com/space/meteoroids/rare-daytime-fireball-meteor-creates-powerful-sonic-boom-as-7-ton-space-rock-explodes-above-eastern-us)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare &#x27;daytime fireball&#x27; meteor creates powerful sonic boom...18 Mar 2026 — A fridge-size space rock spectacularly broke apart over Ohio...</p></details>

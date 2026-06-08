@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why '91 Percent Certain' Can Mislead UFO Readers | Confidence
 parent_permalink: /calibration/
 parent_nav_short_title: Calibration
+parent_heading_title: Why '91 Percent Certain' Can Mislead UFO Readers
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Confidence | Can AI Help Explain UFO Sightings?
   permalink: /confidence/
   short_title: Confidence
+  heading_title: How Certain Can a UFO Explanation Be?
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3
   title: Calibration | Confidence
   permalink: /calibration/
   short_title: Calibration
+  heading_title: Why '91 Percent Certain' Can Mislead UFO Readers
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Confidence | Can AI Help Explain UFO Sightings?
   permalink: /confidence/
   short_title: Confidence
+  heading_title: How Certain Can a UFO Explanation Be?
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3
   title: Calibration | Confidence
   permalink: /calibration/
   short_title: Calibration
+  heading_title: Why '91 Percent Certain' Can Mislead UFO Readers
 sibling_links:
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8
   title: Official Language | Calibration
   permalink: /official-language/
   short_title: Official Language
+  heading_title: Why Official UAP Reports Rarely Use Exact Numbers
 - basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e
   title: Unresolved Cases | Calibration
   permalink: /unresolved-cases-3aca44/
   short_title: Unresolved Cases
+  heading_title: Why Some UFO Reports Never Reach Reliable Odds
 up_link:
   basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3
   title: Calibration | Confidence
   permalink: /calibration/
   short_title: Calibration
+  heading_title: Why '91 Percent Certain' Can Mislead UFO Readers
 next_link:
   basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8
   title: Official Language | Calibration
   permalink: /official-language/
   short_title: Official Language
-date: '2026-05-28 02:44:07 '
+  heading_title: Why Official UAP Reports Rarely Use Exact Numbers
+date: '2026-06-08 23:51:35 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e8
 An AI system that labels a UFO sighting as “94% likely to be a drone” can appear authoritative even when the underlying estimate has never been properly tested against reality. In AI-assisted UFO investigation, [calibration]({{ 'calibration/' | relative_url }}) failures matter because readers often interpret percentages as hard scientific probabilities rather than provisional judgements built on [incomplete]({{ 'incomplete-data/' | relative_url }}) evidence. A system may sound precise while consistently overstating its own reliability.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-light.svg" | relative_url }}" alt="Calibration Failures illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-dark.svg" | relative_url }}" alt="Calibration Failures illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This problem becomes especially serious in UFO and UAP case work because the field lacks stable ground truth. Many sightings are never conclusively solved. Witness reports are uneven, [sensor data]({{ 'sensor-data/' | relative_url }}) is often incomplete, and older archives contain disputed classifications. Under those conditions, a machine-learning system can become confidently wrong without investigators noticing. NASA’s UAP study repeatedly stressed that AI analysis is constrained less by algorithms than by poor-quality data, fragmented reporting systems, weak metadata, and inconsistent sensor calibration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 The result is a dangerous mismatch between how confident an AI system sounds and how trustworthy its confidence scores actually are.
@@ -360,7 +369,7 @@ A model trained mostly on ordinary aircraft sightings may still output high conf
 This is one reason NASA emphasised that collecting better-quality baseline data matters more than inventing new AI techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-light.svg" | relative_url }}" alt="Calibration Failures illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-dark.svg" | relative_url }}" alt="Calibration Failures illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Confidence inflation from class imbalance
 
 Most UFO reports eventually receive mundane explanations. That creates heavily imbalanced datasets dominated by aircraft, balloons, stars, satellites, and hoaxes.
@@ -410,7 +419,7 @@ Research into probabilistic forecasting has long shown that systems can appear s
 This is one reason careful investigative language often communicates uncertainty more honestly than exact percentages. A phrase such as “consistent with known drone behaviour but lacking decisive confirmation” may be scientifically stronger than a fabricated-looking “92% drone confidence” unsupported by long-term calibration evidence.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-light.svg" | relative_url }}" alt="Calibration Failures illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-dark.svg" | relative_url }}" alt="Calibration Failures illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between calibrated language and false precision
 
 In practical UFO case reporting, calibration-aware language usually avoids pretending that uncertainty has disappeared.
@@ -458,120 +467,6 @@ A genuinely calibrated UFO-analysis pipeline would require:
 Without those foundations, percentage-based [AI confidence]({{ 'ai-scores/' | relative_url }}) claims risk becoming a form of numerical theatre: technically formatted, emotionally persuasive, but weakly connected to measurable reality.
 
 That does not make AI useless in UFO investigation. AI can still help cluster similar sightings, identify mundane explanations quickly, detect anomalies within large datasets, and surface patterns human investigators may miss. But calibration failures are a reminder that an AI system sounding certain is not the same thing as an AI system being trustworthy.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</p></details>
-   Published: September 13, 2023  
-
-2. <a id="endnote-2"></a>
-   Source: nasa.gov  
-   Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: arxiv.org  
-   Title: arXiv Evaluating model calibration in classification  
-   Link: [https://arxiv.org/abs/1902.06977](https://arxiv.org/abs/1902.06977)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating model calibration in classificationFebruary 19, 2019...</p></details>
-   Published: February 19, 2019  
-
-4. <a id="endnote-4"></a>
-   Source: arxiv.org  
-   Title: arXiv Metrics of calibration for probabilistic predictions  
-   Link: [https://arxiv.org/abs/2205.09680](https://arxiv.org/abs/2205.09680)  
-
-5. <a id="endnote-5"></a>
-   Source: arxiv.org  
-   Title: arXiv On Calibration of Modern Neural Networks  
-   Link: [https://arxiv.org/abs/1706.04599](https://arxiv.org/abs/1706.04599)  
-
-6. <a id="endnote-6"></a>
-   Source: arxiv.org  
-   Title: arXiv Statistical Perspectives on Reliability of Artificial Intelligence Systems  
-   Link: [https://arxiv.org/abs/2111.05391](https://arxiv.org/abs/2111.05391)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivStatistical Perspectives on Reliability of Artificial Intelligence SystemsNovember 9, 2021...</p></details>
-   Published: November 9, 2021  
-
-7. <a id="endnote-7"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: youtube.com  
-   Title: When calibration beats metrics  
-   Link: [https://www.youtube.com/watch?v=oOZr4kRJgFE](https://www.youtube.com/watch?v=oOZr4kRJgFE)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Calibration | Machine Learning...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: youtube.com  
-   Title: Model Calibration | Machine Learning  
-   Link: [https://www.youtube.com/watch?v=hWb-MIXKe-s](https://www.youtube.com/watch?v=hWb-MIXKe-s)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Calibration - Estimated Calibration Error (ECE) Explained...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: youtube.com  
-   Title: Model Calibration  
-   Link: [https://www.youtube.com/watch?v=NDY2fH1FitQ](https://www.youtube.com/watch?v=NDY2fH1FitQ)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>in 60s: When “0.80” Actually Means 80% (Reliability Diagram)...</p></details>
-
-### Additional References
-
-11. <a id="endnote-11"></a>
-   Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0](https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comHigh-Quality Data is Worth a Thousand LLMs in Resolving...I Used an LLM to Analyze 140,000 UFO Reports. The Aliens Are Real… L...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: aerospaceamerica.aiaa.org  
-   Link: [https://aerospaceamerica.aiaa.org/nasa-study-team-suggests-applying-artificial-intelligence-to-trove-of-mystery-sightings/](https://aerospaceamerica.aiaa.org/nasa-study-team-suggests-applying-artificial-intelligence-to-trove-of-mystery-sightings/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>study team suggests applying artificial intelligence to...2 Jun 2023 — UAP is short for unidentified anomalous phenomena, a less-freight...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: youtube.com  
-   Title: Model Calibration in 60s: When “0.80” Actually Means 80% (Reliability Diagram)  
-   Link: [https://www.youtube.com/watch?v=hRWtovlUwfw](https://www.youtube.com/watch?v=hRWtovlUwfw)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI model calibration explained reliability diagrams Probability Calibration: Data Science Concepts ritvikmath...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: popsci.com  
-   Title: physicist ufo study  
-   Link: [https://www.popsci.com/technology/physicist-ufo-study/](https://www.popsci.com/technology/physicist-ufo-study/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physicists use AI to hunt for UAPs and UFOs6 Jun 2025 — Physicists use AI to hunt for UAPs and UFOs. Their new... “Given the longstandin...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: aimagazine.com  
-   Title: nasa aims to use ai and ml for new uap ufo research  
-   Link: [https://aimagazine.com/data-and-analytics/nasa-aims-to-use-ai-and-ml-for-new-uap-ufo-research](https://aimagazine.com/data-and-analytics/nasa-aims-to-use-ai-and-ml-for-new-uap-ufo-research)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has said that it will begin using AI and citizen reporting to study UFOs with the...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: nextgov.com  
-   Title: nasa report finds no evidence ufos are extraterrestrial  
-   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>From sensationalism to science. During a press briefing...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/issue/view/115/53](https://journalofscientificexploration.org/index.php/jse/issue/view/115/53)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration26 Mar 2026 — study of UFO/UAP experiencers and near-death experi- encers (NDEers)... reliable calibrat...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: popsci.com  
-   Link: [https://www.popsci.com/technology/nasa-uap-report-findings/](https://www.popsci.com/technology/nasa-uap-report-findings/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceNASA wants to use AI to study unidentified aerial...14 Sept 2023 — Decoding the Pentagon&#x27;s latest UFO report.] “We don&#x27;t...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: youtube.com  
-   Title: Probability Calibration: Data Science Concepts  
-   Link: [https://www.youtube.com/watch?v=AunotauS5yI](https://www.youtube.com/watch?v=AunotauS5yI)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When calibration beats metrics...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -687,75 +582,71 @@ That does not make AI useless in UFO investigation. AI can still help cluster si
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=calibration-failures-when-ai-confidence-scores-stop-matching-reality-ai-assisted-ufo-sighting-in-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -813,10 +704,10 @@ That does not make AI useless in UFO investigation. AI can still help cluster si
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -964,3 +855,117 @@ That does not make AI useless in UFO investigation. AI can still help cluster si
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Title: Science Independent Study Team Report  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</p></details>
+   Published: September 13, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: nasa.gov  
+   Title: update nasa shares uap independent study report names director  
+   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: arxiv.org  
+   Title: arXiv Evaluating model calibration in classification  
+   Link: [https://arxiv.org/abs/1902.06977](https://arxiv.org/abs/1902.06977)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEvaluating model calibration in classificationFebruary 19, 2019...</p></details>
+   Published: February 19, 2019  
+
+4. <a id="endnote-4"></a>
+   Source: arxiv.org  
+   Title: arXiv Metrics of calibration for probabilistic predictions  
+   Link: [https://arxiv.org/abs/2205.09680](https://arxiv.org/abs/2205.09680)  
+
+5. <a id="endnote-5"></a>
+   Source: arxiv.org  
+   Title: arXiv On Calibration of Modern Neural Networks  
+   Link: [https://arxiv.org/abs/1706.04599](https://arxiv.org/abs/1706.04599)  
+
+6. <a id="endnote-6"></a>
+   Source: arxiv.org  
+   Title: arXiv Statistical Perspectives on Reliability of Artificial Intelligence Systems  
+   Link: [https://arxiv.org/abs/2111.05391](https://arxiv.org/abs/2111.05391)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivStatistical Perspectives on Reliability of Artificial Intelligence SystemsNovember 9, 2021...</p></details>
+   Published: November 9, 2021  
+
+7. <a id="endnote-7"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: youtube.com  
+   Title: When calibration beats metrics  
+   Link: [https://www.youtube.com/watch?v=oOZr4kRJgFE](https://www.youtube.com/watch?v=oOZr4kRJgFE)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Calibration | Machine Learning...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Title: Model Calibration | Machine Learning  
+   Link: [https://www.youtube.com/watch?v=hWb-MIXKe-s](https://www.youtube.com/watch?v=hWb-MIXKe-s)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Model Calibration - Estimated Calibration Error (ECE) Explained...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: youtube.com  
+   Title: Model Calibration  
+   Link: [https://www.youtube.com/watch?v=NDY2fH1FitQ](https://www.youtube.com/watch?v=NDY2fH1FitQ)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>in 60s: When “0.80” Actually Means 80% (Reliability Diagram)...</p></details>
+
+### Additional References
+
+11. <a id="endnote-11"></a>
+   Source: avi-loeb.medium.com  
+   Link: [https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0](https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comHigh-Quality Data is Worth a Thousand LLMs in Resolving...I Used an LLM to Analyze 140,000 UFO Reports. The Aliens Are Real… L...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: aerospaceamerica.aiaa.org  
+   Link: [https://aerospaceamerica.aiaa.org/nasa-study-team-suggests-applying-artificial-intelligence-to-trove-of-mystery-sightings/](https://aerospaceamerica.aiaa.org/nasa-study-team-suggests-applying-artificial-intelligence-to-trove-of-mystery-sightings/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>study team suggests applying artificial intelligence to...2 Jun 2023 — UAP is short for unidentified anomalous phenomena, a less-freight...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: youtube.com  
+   Title: Model Calibration in 60s: When “0.80” Actually Means 80% (Reliability Diagram)  
+   Link: [https://www.youtube.com/watch?v=hRWtovlUwfw](https://www.youtube.com/watch?v=hRWtovlUwfw)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AI model calibration explained reliability diagrams Probability Calibration: Data Science Concepts ritvikmath...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: popsci.com  
+   Title: physicist ufo study  
+   Link: [https://www.popsci.com/technology/physicist-ufo-study/](https://www.popsci.com/technology/physicist-ufo-study/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physicists use AI to hunt for UAPs and UFOs6 Jun 2025 — Physicists use AI to hunt for UAPs and UFOs. Their new... “Given the longstandin...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: aimagazine.com  
+   Title: nasa aims to use ai and ml for new uap ufo research  
+   Link: [https://aimagazine.com/data-and-analytics/nasa-aims-to-use-ai-and-ml-for-new-uap-ufo-research](https://aimagazine.com/data-and-analytics/nasa-aims-to-use-ai-and-ml-for-new-uap-ufo-research)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA has said that it will begin using AI and citizen reporting to study UFOs with the...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: nextgov.com  
+   Title: nasa report finds no evidence ufos are extraterrestrial  
+   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>From sensationalism to science. During a press briefing...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: journalofscientificexploration.org  
+   Link: [https://journalofscientificexploration.org/index.php/jse/issue/view/115/53](https://journalofscientificexploration.org/index.php/jse/issue/view/115/53)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific Exploration26 Mar 2026 — study of UFO/UAP experiencers and near-death experi- encers (NDEers)... reliable calibrat...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: popsci.com  
+   Link: [https://www.popsci.com/technology/nasa-uap-report-findings/](https://www.popsci.com/technology/nasa-uap-report-findings/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular ScienceNASA wants to use AI to study unidentified aerial...14 Sept 2023 — Decoding the Pentagon&#x27;s latest UFO report.] “We don&#x27;t...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: Probability Calibration: Data Science Concepts  
+   Link: [https://www.youtube.com/watch?v=AunotauS5yI](https://www.youtube.com/watch?v=AunotauS5yI)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>When calibration beats metrics...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-aircraft-dron/
 description: Focused pages that expand on Drone clues.
-date: '2026-05-28'
+date: '2026-06-08'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1
 parent_title: Drone clues | Aircraft

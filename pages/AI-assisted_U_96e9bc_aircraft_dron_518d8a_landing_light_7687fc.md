@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 10:58:15'
 parent_title: Was It an Aircraft or Drone? | UFO Case AI
 parent_permalink: /aircraft/
 parent_nav_short_title: Aircraft
+parent_heading_title: Was It an Aircraft or Drone?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Aircraft | Can AI Help Explain UFO Sightings?
   permalink: /aircraft/
   short_title: Aircraft
+  heading_title: Was It an Aircraft or Drone?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,55 +229,67 @@ breadcrumb_links:
   title: Aircraft | Can AI Help Explain UFO Sightings?
   permalink: /aircraft/
   short_title: Aircraft
+  heading_title: Was It an Aircraft or Drone?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1
   title: Drone clues | Aircraft
   permalink: /drone-clues/
   short_title: Drone clues
+  heading_title: Is it a drone or a distant aircraft?
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6
   title: NJ drone wave | Aircraft
   permalink: /nj-drone-wave/
   short_title: NJ drone wave
+  heading_title: What New Jersey teaches about mass drone reports
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755
   title: Tracker gaps | Aircraft
   permalink: /tracker-gaps/
   short_title: Tracker gaps
+  heading_title: What if the plane is not on the tracker?
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929
   title: UK drone rules | Aircraft
   permalink: /uk-drone-rules/
   short_title: UK drone rules
+  heading_title: The green flashing light investigators should ask about
 child_links:
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8
   title: Approach Paths | Landing lights
   permalink: /approach-paths/
   short_title: Approach Paths
+  heading_title: Why Some Airport Corridors Keep Producing UFO Reports
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c
   title: Night Illusions | Landing lights
   permalink: /night-illusions/
   short_title: Night Illusions
+  heading_title: Why Stationary Lights Start Moving In The Dark
 - basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3
   title: Timeline Match | Landing lights
   permalink: /timeline-match/
   short_title: Timeline Match
+  heading_title: Can Flight Data Recreate A Hovering UFO Sighting
 up_link:
   basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a
   title: Aircraft | Can AI Help Explain UFO Sightings?
   permalink: /aircraft/
   short_title: Aircraft
+  heading_title: Was It an Aircraft or Drone?
 prev_link:
   basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1
   title: Drone clues | Aircraft
   permalink: /drone-clues/
   short_title: Drone clues
+  heading_title: Is it a drone or a distant aircraft?
 next_link:
   basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6
   title: NJ drone wave | Aircraft
   permalink: /nj-drone-wave/
   short_title: NJ drone wave
+  heading_title: What New Jersey teaches about mass drone reports
+date: '2026-06-08 22:48:20 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -284,7 +297,7 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_76
 A bright light that seems to hang motionless in the night sky is one of the most common starting points for a UFO or UAP report. In many cases, the effect is caused by an ordinary [aircraft]({{ 'aircraft/' | relative_url }}) flying almost directly towards the observer with its landing lights pointed along the same line of sight. Because the aircraft is approaching head-on rather than crossing sideways through the observer’s field of view, its apparent movement can become extremely small. The result is a bright “[hovering]({{ 'wind-checks/' | relative_url }}) orb” effect that can last for several minutes before the object suddenly seems to move, turn, dim or vanish.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-light.svg" | relative_url }}" alt="Landing lights illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-dark.svg" | relative_url }}" alt="Landing lights illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because witnesses often describe these lights as silent, stationary and unusually bright. Without a structured [geometry]({{ 'geometry/' | relative_url }}) check, a normal approach path can be mistaken for an anomalous hovering object. A good investigation workflow therefore tests not only whether an aircraft was nearby, but whether its heading, altitude and lighting configuration would have produced the same visual effect from the witness position.
 
 ## Head-on flight paths and slow bearing change
@@ -333,7 +346,7 @@ At long range, the aircraft itself may be invisible while the landing lights rem
 Phone cameras often exaggerate this further. Small bright lights against a dark background tend to bloom, pulse or lose shape because of autofocus hunting, digital zoom and overexposure. The recorded video can therefore look stranger than the naked-eye view.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.7K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d5BUXAozb08" title="Dangerous Optical Illusions On Approach - Too High or Too Low?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer">Dangerous Optical Illusions On Approach - Too High or Too Low?</a></p><p class="youtube-embed-meta">Channel: Easyjetsimpilot &middot; Views: 4.1K &middot; Uploaded: May 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d5BUXAozb08">Open on YouTube</a></p></div></div></div>
 
 ### Why the object suddenly “moves”
 
@@ -377,7 +390,7 @@ Even a small heading change can dramatically reduce brightness because landing l
 Strobe lights can add to the confusion. White anti-collision strobes may create periodic flashes around the central glow, especially in humid or hazy conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-title">aircraft lights</span><span class="citation-popover-snippet">Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</span></span></span> Wikipedia Witnesses sometimes interpret this as pulsation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>, structured lighting patterns or erratic behaviour.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-light.svg" | relative_url }}" alt="Landing lights illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-dark.svg" | relative_url }}" alt="Landing lights illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why night-time perception makes the effect stronger
 
 Many UFO reports involving hovering lights occur at night because darkness removes visual [reference points]({{ 'reference-points/' | relative_url }}). Without nearby objects, the observer cannot easily judge size, distance or speed.
@@ -402,7 +415,7 @@ An approaching aircraft can therefore appear far smaller, slower and stranger th
 This also explains why some witnesses sincerely insist the object “could not have been a plane”. From their viewpoint, the object did not behave like the sideways-moving aircraft they were used to seeing.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d5BUXAozb08" title="Dangerous Optical Illusions On Approach - Too High or Too Low?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer">Dangerous Optical Illusions On Approach - Too High or Too Low?</a></p><p class="youtube-embed-meta">Channel: Easyjetsimpilot &middot; Views: 4.1K &middot; Uploaded: May 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d5BUXAozb08">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
 
 ## How to test the explanation against a witness timeline
 
@@ -426,7 +439,7 @@ A useful reconstruction should test:
 A strong match often shows an aircraft approaching nearly along the witness line of sight before eventually diverging sideways.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-light.svg" | relative_url }}" alt="Landing lights illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-dark.svg" | relative_url }}" alt="Landing lights illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Signs that the landing-light explanation fits well
 
 The explanation becomes more convincing when several features align together:
@@ -442,7 +455,7 @@ The explanation becomes more convincing when several features align together:
 Witness descriptions of “hovering”, “slowly coming closer” or “suddenly turning into a plane” are particularly consistent with head-on approach geometry.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.7K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
 
 ### Signs the match is weak
 
@@ -464,135 +477,6 @@ The “hovering landing light” effect is important because it can generate hig
 For AI-assisted investigation systems, this makes head-on aircraft analysis a high-value early screening step. Automated workflows can compare witness bearings against historical approach tracks, calculate expected angular motion and estimate how an aircraft’s lights would appear from ground level.
 
 That does not solve every case. Some reports remain poorly explained after aviation checks. But many night-time “hovering orb” sightings become much less mysterious once the interaction between landing lights, viewing angle and human perception is reconstructed carefully and honestly.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: faa.gov  
-   Title: Federal Aviation Administration Chapter 2  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: Wikipedia  
-   Title: Landing lights  
-   Link: [https://en.wikipedia.org/wiki/Landing_lights](https://en.wikipedia.org/wiki/Landing_lights)  
-
-3. <a id="endnote-3"></a>
-   Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane Flying Handbook (3C) Chapter 11Landing lights are not only useful for taxi, takeoffs, and landings, but also provide a means by...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: Wikipedia  
-   Title: Navigation light  
-   Link: [https://en.wikipedia.org/wiki/Navigation_light](https://en.wikipedia.org/wiki/Navigation_light)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation lightHowever, the red and green colours do indicate which vessel has the duty to &quot;give way&quot; (change course or speed) or to...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: Wikipedia  
-   Title: Sensory illusions in aviation  
-   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: faa.gov  
-   Title: A C 20-30B  
-   Link: [https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 20-30B - Aircraft Position Light and Anticollision...Sets forth acceptable means, but not the only means, of showing compliance with...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: faa.gov  
-   Title: Section 2  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Navigation and Obstruction LightingAviation orange and white paint is used for daytime marking. Medium Intensity Flashing White Obstr...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: Wikipedia  
-   Title: Hafele–Keating experiment  
-   Link: [https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment](https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hafele–Keating experimentThey flew twice around the world, first eastward, then westward, and compared the clocks in motion to station...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: aviation.stackexchange.com  
-   Link: [https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air](https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: epicflightacademy.com  
-   Title: aircraft lights  
-   Link: [https://epicflightacademy.com/aircraft-lights/](https://epicflightacademy.com/aircraft-lights/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: hartzellprop.com  
-   Title: watch out for night flight illusions  
-   Link: [https://hartzellprop.com/watch-out-for-night-flight-illusions/](https://hartzellprop.com/watch-out-for-night-flight-illusions/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>illusions that you might encounter in night flight: Autokinesis. This illusion happens when a pilot stares at a bright, stationary light...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: aviation.stackexchange.com  
-   Title: However, my  
-   Link: [https://aviation.stackexchange.com/questions/64/when-to-use-beacon-anti-collision-strobe-logo-and-navigation-lights](https://aviation.stackexchange.com/questions/64/when-to-use-beacon-anti-collision-strobe-logo-and-navigation-lights)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to use beacon, anti-collision, strobe, logo, and...18 Dec 2013 — During taxi, the taxi lights are used, and I think the landing lights a...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: chinook-helicopter.com  
-   Title: Visual Illusions  
-   Link: [https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html](https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing CH-47D Chinook and Visual Illusions.5 Feb 2012 — This occurs when an aviator unknowingly positions an aircraft in an unusual attit...</p></details>
-
-### Additional References
-
-14. <a id="endnote-14"></a>
-   Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting](https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting Guide for PilotsExterior lighting increases the conspicuousness of the aircraft to controllers and other pilots landing...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: flywat.com  
-   Link: [https://flywat.com/pages/aircraft-lighting-regulations](https://flywat.com/pages/aircraft-lighting-regulations)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting RegulationsThe position lights consist of an Aviation Red on the left side, an Aviation Green on the right and an Aviat...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/](https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correct use of external lights: r/flightsimPresumably this is to increase visibility so that if there was an aircraft on approach they&#x27;d...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: ulc.gov.pl  
-   Link: [https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf](https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FSF ALAR Briefing Note 5.3: Visual Illusions– In crosswind conditions, the runway lights and environment will appear at an angle to the a...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: pvaaust.com  
-   Link: [https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/](https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/)  
-
-20. <a id="endnote-20"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/961481447272242/posts/7331440183609638/](https://www.facebook.com/groups/961481447272242/posts/7331440183609638/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A airplane just up in the sky not moving. I watched it for about 10 minutes and it didn&#x27;t move at all, motor loud and propellers...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/1nlm6ky/what_is_the_actual_difference_between_beacon/](https://www.reddit.com/r/flying/comments/1nlm6ky/what_is_the_actual_difference_between_beacon/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So far I have Strobes - white blinking lights on the tip of each wing. These are required in low light situations...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: flyaeroguard.com  
-   Link: [https://www.flyaeroguard.com/learning-center/visual-illusions/](https://www.flyaeroguard.com/learning-center/visual-illusions/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n moving lighting can create different atmospheric or ground lighting illusions as...Read more...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: migflug.com  
-   Title: your first night flight why everything changes after sunset  
-   Link: [https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/](https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -708,75 +592,71 @@ That does not solve every case. Some reports remain poorly explained after aviat
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI"><img src="{{ '/assets/images/marketplace-covers/09a65a1c0c3d4fa02d11.jpg' | relative_url }}" alt="Listing image for Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories"><img src="{{ '/assets/images/marketplace-covers/06a5ef9ae28a0114d721.jpg' | relative_url }}" alt="Listing image for For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3"><img src="{{ '/assets/images/marketplace-covers/dbfa76e6fa531e5eaa98.jpg' | relative_url }}" alt="Listing image for Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI"><img src="{{ '/assets/images/marketplace-covers/ef8c107afae923415847.jpg' | relative_url }}" alt="Listing image for Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landing-lights-why-a-plane-can-look-like-a-hovering-orb-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -834,10 +714,10 @@ That does not solve every case. Some reports remain poorly explained after aviat
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -985,3 +865,132 @@ That does not solve every case. Some reports remain poorly explained after aviat
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: faa.gov  
+   Title: Federal Aviation Administration Chapter 2  
+   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Landing lights  
+   Link: [https://en.wikipedia.org/wiki/Landing_lights](https://en.wikipedia.org/wiki/Landing_lights)  
+
+3. <a id="endnote-3"></a>
+   Source: faa.gov  
+   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Airplane Flying Handbook (3C) Chapter 11Landing lights are not only useful for taxi, takeoffs, and landings, but also provide a means by...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: Wikipedia  
+   Title: Navigation light  
+   Link: [https://en.wikipedia.org/wiki/Navigation_light](https://en.wikipedia.org/wiki/Navigation_light)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation lightHowever, the red and green colours do indicate which vessel has the duty to &quot;give way&quot; (change course or speed) or to...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: Wikipedia  
+   Title: Sensory illusions in aviation  
+   Link: [https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation](https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: faa.gov  
+   Title: A C 20-30B  
+   Link: [https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 20-30B - Aircraft Position Light and Anticollision...Sets forth acceptable means, but not the only means, of showing compliance with...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: faa.gov  
+   Title: Section 2  
+   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_2.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Navigation and Obstruction LightingAviation orange and white paint is used for daytime marking. Medium Intensity Flashing White Obstr...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: Wikipedia  
+   Title: Hafele–Keating experiment  
+   Link: [https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment](https://en.wikipedia.org/wiki/Hafele%E2%80%93Keating_experiment)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hafele–Keating experimentThey flew twice around the world, first eastward, then westward, and compared the clocks in motion to station...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: aviation.stackexchange.com  
+   Link: [https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air](https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: epicflightacademy.com  
+   Title: aircraft lights  
+   Link: [https://epicflightacademy.com/aircraft-lights/](https://epicflightacademy.com/aircraft-lights/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: hartzellprop.com  
+   Title: watch out for night flight illusions  
+   Link: [https://hartzellprop.com/watch-out-for-night-flight-illusions/](https://hartzellprop.com/watch-out-for-night-flight-illusions/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>illusions that you might encounter in night flight: Autokinesis. This illusion happens when a pilot stares at a bright, stationary light...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: aviation.stackexchange.com  
+   Title: However, my  
+   Link: [https://aviation.stackexchange.com/questions/64/when-to-use-beacon-anti-collision-strobe-logo-and-navigation-lights](https://aviation.stackexchange.com/questions/64/when-to-use-beacon-anti-collision-strobe-logo-and-navigation-lights)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>to use beacon, anti-collision, strobe, logo, and...18 Dec 2013 — During taxi, the taxi lights are used, and I think the landing lights a...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: chinook-helicopter.com  
+   Title: Visual Illusions  
+   Link: [https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html](https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Boeing CH-47D Chinook and Visual Illusions.5 Feb 2012 — This occurs when an aviator unknowingly positions an aircraft in an unusual attit...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: cfinotebook.net  
+   Link: [https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting](https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting Guide for PilotsExterior lighting increases the conspicuousness of the aircraft to controllers and other pilots landing...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: flywat.com  
+   Link: [https://flywat.com/pages/aircraft-lighting-regulations](https://flywat.com/pages/aircraft-lighting-regulations)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lighting RegulationsThe position lights consist of an Aviation Red on the left side, an Aviation Green on the right and an Aviat...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/](https://www.reddit.com/r/flightsim/comments/16e01hk/correct_use_of_external_lights/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Correct use of external lights: r/flightsimPresumably this is to increase visibility so that if there was an aircraft on approach they&#x27;d...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: ulc.gov.pl  
+   Link: [https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf](https://ulc.gov.pl/_download/bezpieczenstow_lotow/ALAR/BN_5.3_-_Visual_Illusions.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FSF ALAR Briefing Note 5.3: Visual Illusions– In crosswind conditions, the runway lights and environment will appear at an angle to the a...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: medium.com  
+   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: pvaaust.com  
+   Link: [https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/](https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/)  
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/961481447272242/posts/7331440183609638/](https://www.facebook.com/groups/961481447272242/posts/7331440183609638/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A airplane just up in the sky not moving. I watched it for about 10 minutes and it didn&#x27;t move at all, motor loud and propellers...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/flying/comments/1nlm6ky/what_is_the_actual_difference_between_beacon/](https://www.reddit.com/r/flying/comments/1nlm6ky/what_is_the_actual_difference_between_beacon/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>So far I have Strobes - white blinking lights on the tip of each wing. These are required in low light situations...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: flyaeroguard.com  
+   Link: [https://www.flyaeroguard.com/learning-center/visual-illusions/](https://www.flyaeroguard.com/learning-center/visual-illusions/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>n moving lighting can create different atmospheric or ground lighting illusions as...Read more...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: migflug.com  
+   Title: your first night flight why everything changes after sunset  
+   Link: [https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/](https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>

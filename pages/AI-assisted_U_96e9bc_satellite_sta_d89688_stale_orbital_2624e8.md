@@ -206,10 +206,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-27 11:13:25'
 parent_title: Could It Be Starlink or a Satellite? | UFO Case AI
 parent_permalink: /satellites/
 parent_nav_short_title: Satellites
+parent_heading_title: Could It Be Starlink or a Satellite?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -219,6 +219,7 @@ ancestor_links:
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,50 +229,61 @@ breadcrumb_links:
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd
   title: Re entry Breakups | Satellites
   permalink: /re-entry-breakups/
   short_title: Re entry Breakups
+  heading_title: When A Fireball Is Really Falling Space Debris
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185
   title: Rocket Spirals | Satellites
   permalink: /rocket-spirals/
   short_title: Rocket Spirals
+  heading_title: What Causes Giant Spiral Lights In The Sky
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd
   title: Satellite Flares | Satellites
   permalink: /satellite-flares/
   short_title: Satellite Flares
+  heading_title: Why Some Satellites Suddenly Brighten And Vanish
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2
   title: Starlink Trains | Satellites
   permalink: /starlink-trains/
   short_title: Starlink Trains
+  heading_title: Why Starlink Trains Still Surprise Experienced Witnesses
 child_links:
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e
   title: Match Confidence | Orbital Data
   permalink: /match-confidence/
   short_title: Match Confidence
+  heading_title: Why nearest satellite is not always the answer
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5
   title: Starlink Drift | Orbital Data
   permalink: /starlink-drift/
   short_title: Starlink Drift
+  heading_title: When Starlink is only a weak UFO answer
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106
   title: TLE Choice | Orbital Data
   permalink: /tle-choice/
   short_title: TLE Choice
+  heading_title: Did the right orbital data match the sighting?
 up_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 next_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd
   title: Re entry Breakups | Satellites
   permalink: /re-entry-breakups/
   short_title: Re entry Breakups
+  heading_title: When A Fireball Is Really Falling Space Debris
+date: '2026-06-08 23:00:47 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -279,7 +291,7 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_26
 A surprisingly common failure in UFO or UAP investigation is the “perfect satellite match” that only exists because the orbital data are wrong, stale, or used outside their safe prediction window. In practice, many online satellite trackers rely on Two-Line Element sets, usually called TLEs: compact orbital snapshots that estimate where a satellite should be at a given time. Those predictions drift over time, especially for low Earth orbit objects such as Starlink satellites, rocket bodies, and debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Two-line_element_set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Two-line element set</span><span class="citation-popover-snippet">Two-line element set</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-light.svg" | relative_url }}" alt="Orbital Data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-dark.svg" | relative_url }}" alt="Orbital Data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters directly to AI-assisted UFO analysis. A witness may report a bright moving light over Manchester at 21:14, and an automated tool may confidently announce “Starlink satellite identified”. But if the prediction used orbital data generated days or weeks after the sighting, or if the object had manoeuvred, decayed, or experienced changing [atmospheric]({{ 'scintillation/' | relative_url }}) drag, the claimed match can be misleading or entirely false. Good investigation workflow therefore treats satellite identifications as probability assessments rather than exact answers.
 
 ## Why orbital elements age quickly
@@ -405,7 +417,7 @@ A stronger workflow instead checks:
 If several candidate satellites produce similarly weak matches, the result should remain “possible but uncertain” rather than “identified”.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-light.svg" | relative_url }}" alt="Orbital Data illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-dark.svg" | relative_url }}" alt="Orbital Data illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## False precision in automated UFO pipelines
 
 AI systems can accidentally amplify weak orbital evidence because automated pipelines tend to reward nearest-neighbour matching.
@@ -471,7 +483,7 @@ This becomes important in UFO investigation because a poor brightness fit can in
 Older flare databases also create confusion. Historic Iridium flares were predictable because of known reflective geometry, but modern satellites behave differently. Analysts sometimes incorrectly apply older flare expectations to newer spacecraft designs.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-light.svg" | relative_url }}" alt="Orbital Data illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-dark.svg" | relative_url }}" alt="Orbital Data illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Confidence limits in exact object claims
 
 The strongest satellite identifications usually combine several independent agreements:
@@ -497,133 +509,8 @@ Even professional orbit analysts warn against treating public TLE propagation as
 That does not mean satellite checks are unreliable. They remain one of the most useful first-pass filters in UFO investigation. But orbital datasets are evidence with error margins, not infallible sky records.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCcARVbL_Dk" title="How GPS Works Today" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCcARVbL_Dk" target="_blank" rel="noopener noreferrer">How GPS Works Today</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCcARVbL_Dk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCcARVbL_Dk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HIyBpi7B-dE" title="The Coriolis Effect Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HIyBpi7B-dE" target="_blank" rel="noopener noreferrer">The Coriolis Effect Explained</a></p><p class="youtube-embed-meta">Channel: Atlas Pro</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HIyBpi7B-dE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HIyBpi7B-dE">Open on YouTube</a></p></div></div></div>
 
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: Wikipedia  
-   Title: Two-line element set  
-   Link: [https://en.wikipedia.org/wiki/Two-line_element_set](https://en.wikipedia.org/wiki/Two-line_element_set)  
-
-2. <a id="endnote-2"></a>
-   Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/documentation/gp-data-formats.php](https://www.celestrak.org/NORAD/documentation/gp-data-formats.php)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)TLEs were designed to provide the minimum data necessary to propagate the orbit of a resident space...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: celestrak.org  
-   Link: [https://www.celestrak.org/columns/v04n03/](https://www.celestrak.org/columns/v04n03/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — A NORAD two-line element set consists of two 69-character lines of d...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121](https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BSTAR is modified in TLEs to improve prediction precision.Read more...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: conference.sdo.esoc.esa.int  
-   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/25](https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/25)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the uncertainty stems from inaccurate...Read more...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.19850](https://arxiv.org/abs/2605.19850)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: planet4589.org  
-   Link: [https://planet4589.org/space/ele.html](https://planet4589.org/space/ele.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Planet 4589Historical TLE Orbital ElementsThis database is useful for historical analysis, but does not contain recent element sets and s...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: digitalcommons.usu.edu  
-   Link: [https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3222&context=smallsat&httpsredir=1](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3222&context=smallsat&httpsredir=1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite operators are directed to contact the Joint. Space Operations...Read more...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0273117725002856](https://www.sciencedirect.com/science/article/pii/S0273117725002856)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDebiasing of two-line element sets for batch least squares...by MIH La Casta · 2025 · Cited by 3 — The P-OD process can be...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0273117725003540](https://www.sciencedirect.com/science/article/pii/S0273117725003540)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric drag uncertainty quantification for orbit...by A Cano · 2025 · Cited by 5 — A methodology developed for uncertainty quantifi...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/](https://www.celestrak.org/NORAD/elements/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataA set of graphs and tables that show everything from the age distribution of the latest GP data, recent...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: conference.sdo.esoc.esa.int  
-   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153/SDC6-paper153.pdf](https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153/SDC6-paper153.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(TLE) sets to extract additional orbital accuracy has been studied for several years.Read more...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: space-track.org  
-   Link: [https://www.space-track.org/documentation](https://www.space-track.org/documentation)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationNow, all the orbital elements in the satellite catalog (SATCAT) are available in the TLE class. However, the value of t...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: cloudsat.cira.colostate.edu  
-   Title: orbital elements  
-   Link: [https://www.cloudsat.cira.colostate.edu/resources/orbital-elements](https://www.cloudsat.cira.colostate.edu/resources/orbital-elements)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elements (TLEs)This page contains the archive of CloudSat two-line elements (TLEs) that can be used to determine the satellite&#x27;s orbit. S...</p></details>
-
-### Additional References
-
-15. <a id="endnote-15"></a>
-   Source: sarcnet.org  
-   Link: [https://www.sarcnet.org/satellites.html](https://www.sarcnet.org/satellites.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SatellitesThis page provides satellite pass predictions, including predictions of satellite visibility from a single location or satellit...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: satobs.org  
-   Link: [https://www.satobs.org/tletools.html](https://www.satobs.org/tletools.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Programs and TLE ResourcesThe TLE is a standard mathematical model to describe a satellite&#x27;s orbit. TLEs are just one type of fo...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: analyticalgraphics.my.site.com  
-   Link: [https://analyticalgraphics.my.site.com/faqs/articles/Keyword/Where-can-I-find-archived-or-historical-TLE-data](https://analyticalgraphics.my.site.com/faqs/articles/Keyword/Where-can-I-find-archived-or-historical-TLE-data)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can I Find Archived or Historical TLE Data?In the Object Browser, right-click your satellite and got to Properties &gt; Basic &gt; Orbit.... S...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/24963908966538139/](https://www.facebook.com/groups/2365809903441367/posts/24963908966538139/)  
-
-19. <a id="endnote-19"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/](https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/)  
-
-20. <a id="endnote-20"></a>
-   Source: amostech.com  
-   Link: [https://amostech.com/TechnicalPapers/2007/Modeling_Analysis_Simulation/Kelecy.pdf](https://amostech.com/TechnicalPapers/2007/Modeling_Analysis_Simulation/Kelecy.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper summarizes the methods and limitations of deriving satellite maneuver information from historical two- line element (TLE) data...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: space.stackexchange.com  
-   Title: what is the accuracy uncertainty of two line elements tles  
-   Link: [https://space.stackexchange.com/questions/6167/what-is-the-accuracy-uncertainty-of-two-line-elements-tles](https://space.stackexchange.com/questions/6167/what-is-the-accuracy-uncertainty-of-two-line-elements-tles)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the accuracy / uncertainty of Two Line Elements...Dec 3, 2014 — It depends on a lot of factors, including: Time since epoch; Altitude...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: eprints.lancs.ac.uk  
-   Title: lancs.ac.uk A Satellite Footprint Visualisation Tool  
-   Link: [https://eprints.lancs.ac.uk/id/eprint/6762/1/thesis_59.pdf](https://eprints.lancs.ac.uk/id/eprint/6762/1/thesis_59.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Footprint Visualisation Tool - Lancaster EPrints7 Sept 2005 — This thesis concerns the development of a numerical software tool...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: orbitalradar.com  
-   Link: [https://orbitalradar.com/library](https://orbitalradar.com/library)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ble from where you are, with sky charts, countdown timers and...Read more...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: heavens-above.com  
-   Title: Satellite predictions and other astronomical data customised for your location  
-   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveSatellite predictions and other astronomical data customised for your location...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -739,75 +626,71 @@ That does not mean satellite checks are unreliable. They remain one of the most 
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=orbital-data-how-bad-orbital-data-creates-false-ufo-matches-ai-assisted-ufo-sighting-investigati-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -865,10 +748,10 @@ That does not mean satellite checks are unreliable. They remain one of the most 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1016,3 +899,129 @@ That does not mean satellite checks are unreliable. They remain one of the most 
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Two-line element set  
+   Link: [https://en.wikipedia.org/wiki/Two-line_element_set](https://en.wikipedia.org/wiki/Two-line_element_set)  
+
+2. <a id="endnote-2"></a>
+   Source: celestrak.org  
+   Link: [https://www.celestrak.org/NORAD/documentation/gp-data-formats.php](https://www.celestrak.org/NORAD/documentation/gp-data-formats.php)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)TLEs were designed to provide the minimum data necessary to propagate the orbit of a resident space...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: celestrak.org  
+   Link: [https://www.celestrak.org/columns/v04n03/](https://www.celestrak.org/columns/v04n03/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — A NORAD two-line element set consists of two 69-character lines of d...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121](https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BSTAR is modified in TLEs to improve prediction precision.Read more...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: conference.sdo.esoc.esa.int  
+   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/25](https://conference.sdo.esoc.esa.int/proceedings/sdc8/paper/25)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Most of the uncertainty stems from inaccurate...Read more...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2605.19850](https://arxiv.org/abs/2605.19850)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: planet4589.org  
+   Link: [https://planet4589.org/space/ele.html](https://planet4589.org/space/ele.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Planet 4589Historical TLE Orbital ElementsThis database is useful for historical analysis, but does not contain recent element sets and s...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: digitalcommons.usu.edu  
+   Link: [https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3222&context=smallsat&httpsredir=1](https://digitalcommons.usu.edu/cgi/viewcontent.cgi?article=3222&context=smallsat&httpsredir=1)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite operators are directed to contact the Joint. Space Operations...Read more...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/pii/S0273117725002856](https://www.sciencedirect.com/science/article/pii/S0273117725002856)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectDebiasing of two-line element sets for batch least squares...by MIH La Casta · 2025 · Cited by 3 — The P-OD process can be...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: sciencedirect.com  
+   Link: [https://www.sciencedirect.com/science/article/pii/S0273117725003540](https://www.sciencedirect.com/science/article/pii/S0273117725003540)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric drag uncertainty quantification for orbit...by A Cano · 2025 · Cited by 5 — A methodology developed for uncertainty quantifi...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: celestrak.org  
+   Link: [https://www.celestrak.org/NORAD/elements/](https://www.celestrak.org/NORAD/elements/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataA set of graphs and tables that show everything from the age distribution of the latest GP data, recent...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: conference.sdo.esoc.esa.int  
+   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153/SDC6-paper153.pdf](https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153/SDC6-paper153.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(TLE) sets to extract additional orbital accuracy has been studied for several years.Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: space-track.org  
+   Link: [https://www.space-track.org/documentation](https://www.space-track.org/documentation)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationNow, all the orbital elements in the satellite catalog (SATCAT) are available in the TLE class. However, the value of t...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: cloudsat.cira.colostate.edu  
+   Title: orbital elements  
+   Link: [https://www.cloudsat.cira.colostate.edu/resources/orbital-elements](https://www.cloudsat.cira.colostate.edu/resources/orbital-elements)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Elements (TLEs)This page contains the archive of CloudSat two-line elements (TLEs) that can be used to determine the satellite&#x27;s orbit. S...</p></details>
+
+### Additional References
+
+15. <a id="endnote-15"></a>
+   Source: sarcnet.org  
+   Link: [https://www.sarcnet.org/satellites.html](https://www.sarcnet.org/satellites.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SatellitesThis page provides satellite pass predictions, including predictions of satellite visibility from a single location or satellit...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: satobs.org  
+   Link: [https://www.satobs.org/tletools.html](https://www.satobs.org/tletools.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Programs and TLE ResourcesThe TLE is a standard mathematical model to describe a satellite&#x27;s orbit. TLEs are just one type of fo...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: analyticalgraphics.my.site.com  
+   Link: [https://analyticalgraphics.my.site.com/faqs/articles/Keyword/Where-can-I-find-archived-or-historical-TLE-data](https://analyticalgraphics.my.site.com/faqs/articles/Keyword/Where-can-I-find-archived-or-historical-TLE-data)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Can I Find Archived or Historical TLE Data?In the Object Browser, right-click your satellite and got to Properties &gt; Basic &gt; Orbit.... S...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/2365809903441367/posts/24963908966538139/](https://www.facebook.com/groups/2365809903441367/posts/24963908966538139/)  
+
+19. <a id="endnote-19"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/](https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/)  
+
+20. <a id="endnote-20"></a>
+   Source: amostech.com  
+   Link: [https://amostech.com/TechnicalPapers/2007/Modeling_Analysis_Simulation/Kelecy.pdf](https://amostech.com/TechnicalPapers/2007/Modeling_Analysis_Simulation/Kelecy.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This paper summarizes the methods and limitations of deriving satellite maneuver information from historical two- line element (TLE) data...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: space.stackexchange.com  
+   Title: what is the accuracy uncertainty of two line elements tles  
+   Link: [https://space.stackexchange.com/questions/6167/what-is-the-accuracy-uncertainty-of-two-line-elements-tles](https://space.stackexchange.com/questions/6167/what-is-the-accuracy-uncertainty-of-two-line-elements-tles)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>is the accuracy / uncertainty of Two Line Elements...Dec 3, 2014 — It depends on a lot of factors, including: Time since epoch; Altitude...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: eprints.lancs.ac.uk  
+   Title: lancs.ac.uk A Satellite Footprint Visualisation Tool  
+   Link: [https://eprints.lancs.ac.uk/id/eprint/6762/1/thesis_59.pdf](https://eprints.lancs.ac.uk/id/eprint/6762/1/thesis_59.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Footprint Visualisation Tool - Lancaster EPrints7 Sept 2005 — This thesis concerns the development of a numerical software tool...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: orbitalradar.com  
+   Link: [https://orbitalradar.com/library](https://orbitalradar.com/library)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ble from where you are, with sky charts, countdown timers and...Read more...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: heavens-above.com  
+   Title: Satellite predictions and other astronomical data customised for your location  
+   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveSatellite predictions and other astronomical data customised for your location...</p></details>

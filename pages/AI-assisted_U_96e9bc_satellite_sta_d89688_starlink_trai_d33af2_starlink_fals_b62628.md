@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why Starlink Trains Still Surprise Experienced Witnesses | Satellites
 parent_permalink: /starlink-trains/
 parent_nav_short_title: Starlink Trains
+parent_heading_title: Why Starlink Trains Still Surprise Experienced Witnesses
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2
   title: Starlink Trains | Satellites
   permalink: /starlink-trains/
   short_title: Starlink Trains
+  heading_title: Why Starlink Trains Still Surprise Experienced Witnesses
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,39 +231,46 @@ breadcrumb_links:
   title: Satellites | Can AI Help Explain UFO Sightings?
   permalink: /satellites/
   short_title: Satellites
+  heading_title: Could It Be Starlink or a Satellite?
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2
   title: Starlink Trains | Satellites
   permalink: /starlink-trains/
   short_title: Starlink Trains
+  heading_title: Why Starlink Trains Still Surprise Experienced Witnesses
 sibling_links:
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2
   title: Even spacing | Starlink Trains
   permalink: /even-spacing/
   short_title: Even spacing
+  heading_title: When a perfect line points to Starlink
 - basename: AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd
   title: Twilight passes | Starlink Trains
   permalink: /twilight-passes/
   short_title: Twilight passes
+  heading_title: Why Starlink looks strangest at twilight
 up_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2
   title: Starlink Trains | Satellites
   permalink: /starlink-trains/
   short_title: Starlink Trains
+  heading_title: Why Starlink Trains Still Surprise Experienced Witnesses
 prev_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2
   title: Even spacing | Starlink Trains
   permalink: /even-spacing/
   short_title: Even spacing
+  heading_title: When a perfect line points to Starlink
 next_link:
   basename: AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd
   title: Twilight passes | Starlink Trains
   permalink: /twilight-passes/
   short_title: Twilight passes
-date: '2026-05-28 02:59:26 '
+  heading_title: Why Starlink looks strangest at twilight
+date: '2026-06-09 00:06:09 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d3
 Some Starlink-related UFO reports become far more dramatic than “a line of lights moving across the sky” because satellite reflections can create the illusion of sudden manoeuvres. A satellite that is actually travelling in a smooth, predictable orbit may appear to accelerate, stop, turn sharply, split apart, vanish, or reappear simply because its brightness changes rapidly as sunlight reflects towards the observer. In poor viewing conditions, the brain often interprets changing brightness as changing motion.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-light.svg" | relative_url }}" alt="False manoeuvres illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-dark.svg" | relative_url }}" alt="False manoeuvres illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because witness descriptions alone can overstate how unusual a sighting really was. A report of “objects making impossible turns” may still match a normal satellite pass once reflection [geometry]({{ 'geometry/' | relative_url }}), observer position, viewing angle, and orbital timing are reconstructed. Modern Starlink constellations are especially relevant because thousands of satellites now occupy similar orbital shells, increasing the chance of repeated flares and unusual visual patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">AAROCorrelations of Starlink Satellite Flaring with UAP...April 22, 2025 — by A An · 2024 — These flares are orders of magnitude brighte...</span><span class="citation-popover-meta">Published: April 22, 2025</span></span></span>
 
 ## When brightness changes look like movement
@@ -304,7 +314,7 @@ This is particularly deceptive during twilight. The observer may already be in d
 AARO, the US Department of Defense office investigating unidentified anomalous phenomena, noted that simultaneous [Starlink flares]({{ 'starlink-flares/' | relative_url }}) may appear as glowing objects that disappear and reappear or trace unusual geometric patterns within a small region of sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Correlations of Starlink Satellite Flaring with UAP</span><span class="citation-popover-snippet">AAROCorrelations of Starlink Satellite Flaring with UAP...April 22, 2025 — by A An · 2024 — These flares are orders of magnitude brighte...</span><span class="citation-popover-meta">Published: April 22, 2025</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWpeN3cU17Q" title="SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: AlphaPhoenix &middot; Views: 39.4K &middot; Uploaded: July 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWpeN3cU17Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bMAi6vuTQT8" title="UFO? What are these strange light flashes in the sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bMAi6vuTQT8" target="_blank" rel="noopener noreferrer">UFO? What are these strange light flashes in the sky?</a></p><p class="youtube-embed-meta">Channel: Mac Sound Solutions inc. &middot; Views: 12.3K &middot; Uploaded: October 2022 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bMAi6vuTQT8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bMAi6vuTQT8">Open on YouTube</a></p></div></div></div>
 
 ### Sequential flares can imitate turning formations
 
@@ -338,7 +348,7 @@ The effect is psychologically persuasive because the observer assumes the object
 Older Iridium satellites produced famous predictable flares, but Starlink reflections are often more confusing because they can repeat across large constellations and occur in clusters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-2-light.svg" | relative_url }}" alt="False manoeuvres illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-2-dark.svg" | relative_url }}" alt="False manoeuvres illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why pilots and experienced observers can still be misled
 
 Experience does not eliminate these errors. In some ways it can make them more convincing.
@@ -362,7 +372,7 @@ Pilots are also in a uniquely vulnerable viewing position:
 This has led to what some observers call “racetrack” flare patterns, where repeated reflections from multiple satellites seem to move along structured paths. Wikipedia Metabunk Even amateur astronomers can misjudge apparent motion because the visual system naturally links brightness variation with physical behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">why are starlink racetrack flares mostly reported from planes.12720</span><span class="citation-popover-snippet">why are starlink racetrack flares mostly reported from planes.12720</span></span></span> A dim light becoming suddenly brilliant feels active and intentional even when orbital tracking shows completely steady motion.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bMAi6vuTQT8" title="UFO? What are these strange light flashes in the sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bMAi6vuTQT8" target="_blank" rel="noopener noreferrer">UFO? What are these strange light flashes in the sky?</a></p><p class="youtube-embed-meta">Channel: Mac Sound Solutions inc. &middot; Views: 12.3K &middot; Uploaded: October 2022 &middot; Length: 2 minutes 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bMAi6vuTQT8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bMAi6vuTQT8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8EOOOWYtqhM" title="The Satellite Flaring Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer">The Satellite Flaring Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 2.7K &middot; Uploaded: January 2025 &middot; Length: 1 minute 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8EOOOWYtqhM">Open on YouTube</a></p></div></div></div>
 
 ## What AI-assisted investigation can check quickly
 
@@ -402,7 +412,7 @@ often recur in satellite-flare reports despite there being no true manoeuvring b
 Video analysis can help further. Frame-by-frame tracking sometimes reveals that the object maintained constant angular velocity while only brightness changed. Human observers frequently remember the opposite.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-3-light.svg" | relative_url }}" alt="False manoeuvres illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-3-dark.svg" | relative_url }}" alt="False manoeuvres illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_fals_b62628-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Red flags that make a Starlink explanation weaker
 
 Not every report involving bright lights in formation is explainable as Starlink flaring. Some details make the satellite hypothesis less convincing and deserve closer scrutiny.
@@ -427,7 +437,7 @@ Likewise, a genuine satellite flare normally produces smooth motion overall. A w
 Good investigation practice therefore treats Starlink as a strong candidate explanation rather than an automatic dismissal. The goal is not to force every report into a satellite category, but to determine whether the timing, geometry, and visual behaviour fit the known characteristics of orbital reflections better than alternative explanations.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8EOOOWYtqhM" title="The Satellite Flaring Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer">The Satellite Flaring Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 2.7K &middot; Uploaded: January 2025 &middot; Length: 1 minute 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8EOOOWYtqhM">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/su9MtcYkzgw" title="How Does The Starlink System Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=su9MtcYkzgw" target="_blank" rel="noopener noreferrer">How Does The Starlink System Work?</a></p><p class="youtube-embed-meta">Channel: Insane Curiosity</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=su9MtcYkzgw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=su9MtcYkzgw">Open on YouTube</a></p></div></div></div>
 
 ## Why this matters for modern UFO reporting
 
@@ -438,121 +448,6 @@ This changes the baseline problem for UFO investigation. A report that once migh
 The important point is not that witnesses are careless or dishonest. Many flare-based sightings are genuinely startling in real time. The combination of darkness, silence, precise motion, sudden brightening, and abrupt disappearance can look highly artificial or intelligently controlled.
 
 AI-assisted investigation is valuable precisely because it separates perceived manoeuvres from measurable trajectories. By reconstructing orbital geometry rather than relying only on memory and impression, investigators can often explain why a perfectly ordinary satellite appeared to behave in extraordinary ways.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: aaro.mil  
-   Title: Correlations of Starlink Satellite Flaring with UAP  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROCorrelations of Starlink Satellite Flaring with UAP...April 22, 2025 — by A An · 2024 — These flares are orders of magnitude brighte...</p></details>
-   Published: April 22, 2025  
-
-2. <a id="endnote-2"></a>
-   Source: arxiv.org  
-   Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
-
-3. <a id="endnote-3"></a>
-   Source: Wikipedia  
-   Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
-
-4. <a id="endnote-4"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.07805](https://arxiv.org/abs/2003.07805)  
-
-5. <a id="endnote-5"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2111.09735](https://arxiv.org/abs/2111.09735)  
-
-6. <a id="endnote-6"></a>
-   Source: arxiv.org  
-   Title: arXiv Starlink Satellite Brightness Before Visor Sat  
-   Link: [https://arxiv.org/abs/2006.08422](https://arxiv.org/abs/2006.08422)  
-
-7. <a id="endnote-7"></a>
-   Source: metabunk.org  
-   Title: why are starlink racetrack flares mostly reported from planes.12720  
-   Link: [https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/](https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/)  
-
-8. <a id="endnote-8"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2405.13091](https://arxiv.org/pdf/2405.13091)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExtreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 2 — Abstract. Starlink satellites can become extremely bright w...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: starlink.com  
-   Link: [https://starlink.com/?srsltid=AfmBOoqTsKNhWQltLk-wz_vA4Tnuieuo_N4IEUovPcxNFhfjOup7cTe4](https://starlink.com/?srsltid=AfmBOoqTsKNhWQltLk-wz_vA4Tnuieuo_N4IEUovPcxNFhfjOup7cTe4)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkInternet for travel, road trips, and commutes. High-speed internet that moves with you, even in dead zones. In-motion use availab...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Starlink](https://en.wikipedia.org/wiki/Starlink)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: satfleetlive.com  
-   Title: Sat Fleet Live Why Are Satellites So Bright?  
-   Link: [https://satfleetlive.com/blogs/why-are-satellites-so-bright/](https://satfleetlive.com/blogs/why-are-satellites-so-bright/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding...A satellite flare is a sudden, brief increase in brightness caused when a flat, mirror-like surface — typically a solar...</p></details>
-
-### Additional References
-
-12. <a id="endnote-12"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/blueridgemountainlife/posts/3807018919435087/](https://www.facebook.com/groups/blueridgemountainlife/posts/3807018919435087/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite panel flares in night skyThe perceived brightness of each flare is fairly predictable and under ideal conditions can reach magn...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: currys.co.uk  
-   Link: [https://www.currys.co.uk/brand/starlink/starlink.html](https://www.currys.co.uk/brand/starlink/starlink.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink InternetStarlink delivers high-speed, low latency internet to the most rural and remote locations around the world. Stream movie...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/25740628552199506/](https://www.facebook.com/groups/2365809903441367/posts/25740628552199506/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites appear bright after launchAs differential drag and orbit raising spread them out and attitudes change, those favorabl...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=aWpeN3cU17Q](https://www.youtube.com/watch?v=aWpeN3cU17Q)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight...The geometry behind satellite flare and how you can see sunlight and ref...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: skyandtelescope.org  
-   Title: starlink flares can fool anyone even airline pilots  
-   Link: [https://skyandtelescope.org/[astronomy](https://skyandtelescope.org/[astronomy)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — Earth&#x27;s shadow is outlined in satellite flares, reflections from satel...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: news.ycombinator.com  
-   Title: In both cases, I was casually looking at the sky  
-   Link: [https://news.ycombinator.com/item?id=26310845](https://news.ycombinator.com/item?id=26310845)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>people don&#x27;t know that you can actually see some of...The larger the change in perceived speed, the lower the altitude, while constant s...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: space.com  
-   Title: x starlink satellites  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — Starlink is the name of a satellite network developed by the pri...</p></details>
-   Published: May 2026  
-
-19. <a id="endnote-19"></a>
-   Source: universetoday.com  
-   Title: starlinks can produce surprisingly bright flares to pilots  
-   Link: [https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots](https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In one instance they were reported as Unidentified Aerial Phenomenon...Read more...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/](https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pulsing&quot; satellite-like object that took a 90 degree turnApparently as the tumble through space, for each revolution, light glints off t...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: nature.com  
-   Link: [https://www.nature.com/articles/s41586-026-10260-w](https://www.nature.com/articles/s41586-026-10260-w)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite imagery reveals increasing volatility in human...by T Li · 2026 · Cited by 1 — This evidence of increasing volatility in human...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -668,75 +563,71 @@ AI-assisted investigation is valuable precisely because it separates perceived m
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-artificial-intelligence-po" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-manoeuvres-when-satellite-flares-look-like-turns-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-seri&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -794,10 +685,10 @@ AI-assisted investigation is valuable precisely because it separates perceived m
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -945,3 +836,118 @@ AI-assisted investigation is valuable precisely because it separates perceived m
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: aaro.mil  
+   Title: Correlations of Starlink Satellite Flaring with UAP  
+   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROCorrelations of Starlink Satellite Flaring with UAP...April 22, 2025 — by A An · 2024 — These flares are orders of magnitude brighte...</p></details>
+   Published: April 22, 2025  
+
+2. <a id="endnote-2"></a>
+   Source: arxiv.org  
+   Title: arXiv Extreme Flaring of Starlink Satellites  
+   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: Satellite flare  
+   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+
+4. <a id="endnote-4"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2003.07805](https://arxiv.org/abs/2003.07805)  
+
+5. <a id="endnote-5"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2111.09735](https://arxiv.org/abs/2111.09735)  
+
+6. <a id="endnote-6"></a>
+   Source: arxiv.org  
+   Title: arXiv Starlink Satellite Brightness Before Visor Sat  
+   Link: [https://arxiv.org/abs/2006.08422](https://arxiv.org/abs/2006.08422)  
+
+7. <a id="endnote-7"></a>
+   Source: metabunk.org  
+   Title: why are starlink racetrack flares mostly reported from planes.12720  
+   Link: [https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/](https://www.metabunk.org/threads/why-are-starlink-racetrack-flares-mostly-reported-from-planes.12720/)  
+
+8. <a id="endnote-8"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/pdf/2405.13091](https://arxiv.org/pdf/2405.13091)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExtreme Flaring of Starlink Satellitesby A Mallama · 2024 · Cited by 2 — Abstract. Starlink satellites can become extremely bright w...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: starlink.com  
+   Link: [https://starlink.com/?srsltid=AfmBOoqTsKNhWQltLk-wz_vA4Tnuieuo_N4IEUovPcxNFhfjOup7cTe4](https://starlink.com/?srsltid=AfmBOoqTsKNhWQltLk-wz_vA4Tnuieuo_N4IEUovPcxNFhfjOup7cTe4)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkInternet for travel, road trips, and commutes. High-speed internet that moves with you, even in dead zones. In-motion use availab...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Starlink](https://en.wikipedia.org/wiki/Starlink)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>StarlinkStarlink is a satellite internet constellation operated by Starlink Services, LLC, an international telecommunications provide...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: satfleetlive.com  
+   Title: Sat Fleet Live Why Are Satellites So Bright?  
+   Link: [https://satfleetlive.com/blogs/why-are-satellites-so-bright/](https://satfleetlive.com/blogs/why-are-satellites-so-bright/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding...A satellite flare is a sudden, brief increase in brightness caused when a flat, mirror-like surface — typically a solar...</p></details>
+
+### Additional References
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/blueridgemountainlife/posts/3807018919435087/](https://www.facebook.com/groups/blueridgemountainlife/posts/3807018919435087/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite panel flares in night skyThe perceived brightness of each flare is fairly predictable and under ideal conditions can reach magn...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: currys.co.uk  
+   Link: [https://www.currys.co.uk/brand/starlink/starlink.html](https://www.currys.co.uk/brand/starlink/starlink.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink InternetStarlink delivers high-speed, low latency internet to the most rural and remote locations around the world. Stream movie...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/2365809903441367/posts/25740628552199506/](https://www.facebook.com/groups/2365809903441367/posts/25740628552199506/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites appear bright after launchAs differential drag and orbit raising spread them out and attitudes change, those favorabl...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=aWpeN3cU17Q](https://www.youtube.com/watch?v=aWpeN3cU17Q)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight...The geometry behind satellite flare and how you can see sunlight and ref...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: skyandtelescope.org  
+   Title: starlink flares can fool anyone even airline pilots  
+   Link: [https://skyandtelescope.org/[astronomy](https://skyandtelescope.org/[astronomy)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink Flares Can Fool Anyone — Even Airline Pilots10 Jun 2024 — Earth&#x27;s shadow is outlined in satellite flares, reflections from satel...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: news.ycombinator.com  
+   Title: In both cases, I was casually looking at the sky  
+   Link: [https://news.ycombinator.com/item?id=26310845](https://news.ycombinator.com/item?id=26310845)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>people don&#x27;t know that you can actually see some of...The larger the change in perceived speed, the lower the altitude, while constant s...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: space.com  
+   Title: x starlink satellites  
+   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — Starlink is the name of a satellite network developed by the pri...</p></details>
+   Published: May 2026  
+
+19. <a id="endnote-19"></a>
+   Source: universetoday.com  
+   Title: starlinks can produce surprisingly bright flares to pilots  
+   Link: [https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots](https://www.universetoday.com/articles/starlinks-can-produce-surprisingly-bright-flares-to-pilots)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In one instance they were reported as Unidentified Aerial Phenomenon...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/](https://www.reddit.com/r/Stargazing/comments/17997ac/pulsing_satellitelike_object_that_took_a_90/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Pulsing&quot; satellite-like object that took a 90 degree turnApparently as the tumble through space, for each revolution, light glints off t...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: nature.com  
+   Link: [https://www.nature.com/articles/s41586-026-10260-w](https://www.nature.com/articles/s41586-026-10260-w)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite imagery reveals increasing volatility in human...by T Li · 2026 · Cited by 1 — This evidence of increasing volatility in human...</p></details>

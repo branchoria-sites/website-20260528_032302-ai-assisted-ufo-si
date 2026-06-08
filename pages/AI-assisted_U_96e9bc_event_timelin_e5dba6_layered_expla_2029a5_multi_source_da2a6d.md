@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:37:43'
 parent_title: How explanations survive the timeline | Timeline
 parent_permalink: /layered-timeline/
 parent_nav_short_title: Layered timeline
+parent_heading_title: How explanations survive the timeline
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Timeline | Can AI Help Explain UFO Sightings?
   permalink: /timeline/
   short_title: Timeline
+  heading_title: What Else Was Happening During the Sighting?
 - basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5
   title: Layered timeline | Timeline
   permalink: /layered-timeline/
   short_title: Layered timeline
+  heading_title: How explanations survive the timeline
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,38 +231,46 @@ breadcrumb_links:
   title: Timeline | Can AI Help Explain UFO Sightings?
   permalink: /timeline/
   short_title: Timeline
+  heading_title: What Else Was Happening During the Sighting?
 - basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5
   title: Layered timeline | Timeline
   permalink: /layered-timeline/
   short_title: Layered timeline
+  heading_title: How explanations survive the timeline
 sibling_links:
 - basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d
   title: Memory Drift | Layered timeline
   permalink: /memory-drift/
   short_title: Memory Drift
+  heading_title: When UFO Witness Memories Change Over Time
 - basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a
   title: Weak Explanations | Layered timeline
   permalink: /weak-explanations/
   short_title: Weak Explanations
+  heading_title: Why A UFO Explanation Can Fit Only Partly
 up_link:
   basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5
   title: Layered timeline | Timeline
   permalink: /layered-timeline/
   short_title: Layered timeline
+  heading_title: How explanations survive the timeline
 prev_link:
   basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d
   title: Memory Drift | Layered timeline
   permalink: /memory-drift/
   short_title: Memory Drift
+  heading_title: When UFO Witness Memories Change Over Time
 next_link:
   basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a
   title: Weak Explanations | Layered timeline
   permalink: /weak-explanations/
   short_title: Weak Explanations
+  heading_title: Why A UFO Explanation Can Fit Only Partly
+date: '2026-06-08 23:18:29 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_20
 A UFO timeline only becomes useful when different clocks agree with each other. A witness may report a glowing object at “about 10pm”, but the phone recording may actually begin at 21:47:13, a nearby [aircraft]({{ 'aircraft/' | relative_url }}) may have crossed the same line of sight at 21:47:41, and a satellite flare may have peaked at 21:48. Those differences matter because many apparently extraordinary sightings collapse once timings are synchronised properly.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-light.svg" | relative_url }}" alt="Timing Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-dark.svg" | relative_url }}" alt="Timing Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern AI-assisted UFO investigation increasingly treats timing as a form of evidence rather than background detail. The strongest reconstructions compare witness memory, device metadata, aircraft transponder logs, satellite predictions, launch schedules, weather observations, and astronomical events against the same clock. NASA’s 2023 UAP study stressed that serious analysis is often limited by poor metadata, weak [calibration]({{ 'calibration/' | relative_url }}), and lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
 The goal is not to force every case into a mundane explanation. It is to test whether an explanation still fits once all known timing sources are aligned. A layered timeline keeps that process transparent and falsifiable.
@@ -345,7 +355,7 @@ A witness who reports “it hovered for ten minutes” may genuinely have experi
 The strongest timing checks rely on independent systems that were not created for UFO investigation at all. Aviation transponders, orbital predictions, launch schedules, weather stations, and radar archives all produce their own timestamps. When several of those systems converge, explanations become far easier to test.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKujZOIu7xI" title="How to: Validate Accuracy of Timing Source" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKujZOIu7xI" target="_blank" rel="noopener noreferrer">How to: Validate Accuracy of Timing Source</a></p><p class="youtube-embed-meta">Channel: Tycho Tracker &middot; Views: 653 &middot; Uploaded: January 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKujZOIu7xI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKujZOIu7xI">Open on YouTube</a></p></div></div></div>
 
 ### Aircraft timing checks
 
@@ -406,7 +416,7 @@ Satellite flares and Starlink trains are especially important because witnesses 
 Without synchronised timing checks, these events can appear highly unusual.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-light.svg" | relative_url }}" alt="Timing Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-dark.svg" | relative_url }}" alt="Timing Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Launches, re-entries, and rocket dumps
 
 Rocket launches and atmospheric re-entries regularly generate UFO reports because they produce unfamiliar visual behaviour:
@@ -454,7 +464,7 @@ At that point:
 The sighting then acquires a false aura of anomaly.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-light.svg" | relative_url }}" alt="Timing Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-dark.svg" | relative_url }}" alt="Timing Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI systems are good at detecting clock inconsistencies
 
 One advantage of automated reconstruction is that AI can compare many timing layers simultaneously without unconsciously favouring a preferred explanation.
@@ -472,7 +482,7 @@ This does not prove that a sighting is ordinary. It simply prevents explanations
 NASA’s UAP study repeatedly emphasised the importance of calibrated measurements, multiple observations, and reliable metadata because apparently anomalous events can disappear once sensor context is properly reconstructed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKujZOIu7xI" title="How to: Validate Accuracy of Timing Source" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKujZOIu7xI" target="_blank" rel="noopener noreferrer">How to: Validate Accuracy of Timing Source</a></p><p class="youtube-embed-meta">Channel: Tycho Tracker &middot; Views: 653 &middot; Uploaded: January 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKujZOIu7xI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKujZOIu7xI">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## When Timelines Still Refuse To Align
 
@@ -513,143 +523,6 @@ In UFO investigation, timing checks act as a filter against both exaggeration an
 * Genuine uncertainty from preventable confusion
 
 A layered timeline does not guarantee an answer. What it does provide is something more valuable for serious investigation: a transparent way to test whether the explanation actually fits the event minute by minute.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: space.com  
-   Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: nasa.gov  
-   Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: en.wikisource.org  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/](https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditI&#x27;ve just come to the conclusion that all cameras and apps...May 31, 2024 — If the camera knows the correct time, it can put that...</p></details>
-   Published: May 31, 2024  
-
-5. <a id="endnote-5"></a>
-   Source: en.wikisource.org  
-   Title: Page:UAP Independent Study Team  
-   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: ntsb.gov  
-   Link: [https://www.ntsb.gov/investigations/process/Pages/default.aspx](https://www.ntsb.gov/investigations/process/Pages/default.aspx)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSBThe Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: ntsb.gov  
-   Title: i AVIATION INVESTIGATION MANUAL  
-   Link: [https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf](https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR TEAM...This advisory [checklist](&amp;#123;&amp;#123; &#x27;checklist/&#x27; | relative_url &amp;#125;&amp;#125;) is designed to lead an Investigator-in-Charge through most of the administrative steps and many of...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: ntsb.gov  
-   Link: [https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx](https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Investigative HearingsAfter the hearing, the NTSB will use the information gathered to complete the investigation, determine probabl...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: ntsb.gov  
-   Link: [https://www.ntsb.gov/investigations/Pages/Investigations.aspx](https://www.ntsb.gov/investigations/Pages/Investigations.aspx)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InvestigationsInvestigation Process · Investigation Reports · Investigation Dockets... Official Testimony · Congressional and Regulatory...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: en.wikisource.org  
-   Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: flightradar24.com  
-   Title: How to investigate an air crash  
-   Link: [https://www.flightradar24.com/blog/aviation-explainer-series/how-to-investigate-an-air-crash/](https://www.flightradar24.com/blog/aviation-explainer-series/how-to-investigate-an-air-crash/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>according to the NTSB11 Feb 2025 — Flight data recorders contain hundreds of parameters that must be analyzed to reconstruct the sequence...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57](https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...We should explore anomalous objects by seeking new data agnostica...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: photo.stackexchange.com  
-   Title: how to shift exif date time created by time in days hours minutes  
-   Link: [https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes](https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· You can choose either change File timestamp OR EXIF Timestamp (Date Time Photo...Read more...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: Wikipedia  
-   Title: National Transportation Safety Board  
-   Link: [https://en.wikipedia.org/wiki/National_Transportation_Safety_Board](https://en.wikipedia.org/wiki/National_Transportation_Safety_Board)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety BoardThe National Transportation Safety Board (NTSB) is an independent US government investigative agen...</p></details>
-
-### Additional References
-
-16. <a id="endnote-16"></a>
-   Source: strategic-risk-global.com  
-   Link: [https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article](https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Accidents Using Root Cause AnalysisThus, the purpose of the investigation is to clearly identify what happened, determine t...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: atsb.gov.au  
-   Link: [https://www.atsb.gov.au/about_atsb/investigation-process](https://www.atsb.gov.au/about_atsb/investigation-process)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation processAll occurrence investigations progress through a series of phases in accordance with the ATSB&#x27;s investigation me...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: thedebrief.org  
-   Link: [https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/](https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Independent Study Team Publishes Its...14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibratio...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: hicaonline.in  
-   Link: [https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf](https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>procedures manual of aircraft accident/incident investigationIt is intended to provide guidance on the process of conducting an investiga...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/](https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/)  
-
-21. <a id="endnote-21"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/SETIInstitute/posts/seventy-six-years-after-the-infamous-roswell-incident-when-a-high-altitude-ballo/685946486913664/](https://www.facebook.com/SETIInstitute/posts/seventy-six-years-after-the-infamous-roswell-incident-when-a-high-altitude-ballo/685946486913664/)  
-
-22. <a id="endnote-22"></a>
-   Source: mchip.net  
-   Link: [https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf](https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process begins immediately after an accident, with the NTSB&#x27;s Accident. Investigation Division (AID) mobilizing a team.Read more...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/det0nator/posts/this-is-the-introduction-to-a-book-ive-been-writing-by-using-chatgpt-to-do-my-re/10164474757901115/](https://www.facebook.com/det0nator/posts/this-is-the-introduction-to-a-book-ive-been-writing-by-using-chatgpt-to-do-my-re/10164474757901115/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to UAP reporting and the importance of...NASA&#x27;s report points directly at the social cost: stigma reduces reporting, and po...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: safetymaterials.argus.aero  
-   Title: aero NTS B Investigation Process & the Party System• Defining an Accident  
-   Link: [https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf](https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>• The Accident Investigation Process. • NTSB Party System. • What to do if your company is involved in an accident. Page 3. Stephen...Re...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -765,75 +638,71 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-checks-do-the-timelines-really-match-the-ufo-claim-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -891,10 +760,10 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1042,3 +911,140 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: space.com  
+   Title: nasa ufo uap study team first results revealed  
+   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: nasa.gov  
+   Title: update nasa shares uap independent study report names director  
+   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: en.wikisource.org  
+   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WikisourcePage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/](https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditI&#x27;ve just come to the conclusion that all cameras and apps...May 31, 2024 — If the camera knows the correct time, it can put that...</p></details>
+   Published: May 31, 2024  
+
+5. <a id="endnote-5"></a>
+   Source: en.wikisource.org  
+   Title: Page:UAP Independent Study Team  
+   Link: [https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15](https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to b...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: ntsb.gov  
+   Link: [https://www.ntsb.gov/investigations/process/Pages/default.aspx](https://www.ntsb.gov/investigations/process/Pages/default.aspx)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSBThe Investigative ProcessDuring this phase, NTSB specialists analyze the information gathered to piece together a sequence of events...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: ntsb.gov  
+   Title: i AVIATION INVESTIGATION MANUAL  
+   Link: [https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf](https://www.ntsb.gov/about/Documents/MajorInvestigationsManualApp.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR TEAM...This advisory [checklist](&amp;#123;&amp;#123; &#x27;checklist/&#x27; | relative_url &amp;#125;&amp;#125;) is designed to lead an Investigator-in-Charge through most of the administrative steps and many of...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: ntsb.gov  
+   Link: [https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx](https://www.ntsb.gov/investigations/process/Pages/investigativehearings.aspx)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NTSB Investigative HearingsAfter the hearing, the NTSB will use the information gathered to complete the investigation, determine probabl...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: ntsb.gov  
+   Link: [https://www.ntsb.gov/investigations/Pages/Investigations.aspx](https://www.ntsb.gov/investigations/Pages/Investigations.aspx)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>InvestigationsInvestigation Process · Investigation Reports · Investigation Dockets... Official Testimony · Congressional and Regulatory...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: en.wikisource.org  
+   Title: Responses to Statement of Task  
+   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: flightradar24.com  
+   Title: How to investigate an air crash  
+   Link: [https://www.flightradar24.com/blog/aviation-explainer-series/how-to-investigate-an-air-crash/](https://www.flightradar24.com/blog/aviation-explainer-series/how-to-investigate-an-air-crash/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>according to the NTSB11 Feb 2025 — Flight data recorders contain hundreds of parameters that must be analyzed to reconstruct the sequence...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: avi-loeb.medium.com  
+   Link: [https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57](https://avi-loeb.medium.com/nasa-aaro-and-the-galileo-project-agree-on-the-need-for-a-scientific-study-of-uap-58b39c005b57)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comNASA, AARO and the Galileo Project Agree on the Need for a...We should explore anomalous objects by seeking new data agnostica...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: photo.stackexchange.com  
+   Title: how to shift exif date time created by time in days hours minutes  
+   Link: [https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes](https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>· You can choose either change File timestamp OR EXIF Timestamp (Date Time Photo...Read more...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: Wikipedia  
+   Title: National Transportation Safety Board  
+   Link: [https://en.wikipedia.org/wiki/National_Transportation_Safety_Board](https://en.wikipedia.org/wiki/National_Transportation_Safety_Board)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Transportation Safety BoardThe National Transportation Safety Board (NTSB) is an independent US government investigative agen...</p></details>
+
+### Additional References
+
+16. <a id="endnote-16"></a>
+   Source: strategic-risk-global.com  
+   Link: [https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article](https://www.strategic-risk-global.com/risk-mitigation/investigating-accidents-using-root-cause-analysis/1361925.article)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Accidents Using Root Cause AnalysisThus, the purpose of the investigation is to clearly identify what happened, determine t...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: atsb.gov.au  
+   Link: [https://www.atsb.gov.au/about_atsb/investigation-process](https://www.atsb.gov.au/about_atsb/investigation-process)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The investigation processAll occurrence investigations progress through a series of phases in accordance with the ATSB&#x27;s investigation me...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: thedebrief.org  
+   Link: [https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/](https://thedebrief.org/nasas-uap-independent-study-team-publishes-its-findings-as-the-agency-appoints-a-new-nasa-director-of-uap-research/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Independent Study Team Publishes Its...14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibratio...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: hicaonline.in  
+   Link: [https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf](https://www.hicaonline.in/pdf/Accident%20investigation%20report.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>procedures manual of aircraft accident/incident investigationIt is intended to provide guidance on the process of conducting an investiga...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/](https://www.facebook.com/groups/nikonz9usersgroup/posts/681592289929236/)  
+
+21. <a id="endnote-21"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/SETIInstitute/posts/seventy-six-years-after-the-infamous-roswell-incident-when-a-high-altitude-ballo/685946486913664/](https://www.facebook.com/SETIInstitute/posts/seventy-six-years-after-the-infamous-roswell-incident-when-a-high-altitude-ballo/685946486913664/)  
+
+22. <a id="endnote-22"></a>
+   Source: mchip.net  
+   Link: [https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf](https://mchip.net/browse/u116E4/242111/Aircraft%20Accident%20Report%20National%20Transportation%20Safety%20Board.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process begins immediately after an accident, with the NTSB&#x27;s Accident. Investigation Division (AID) mobilizing a team.Read more...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/det0nator/posts/this-is-the-introduction-to-a-book-ive-been-writing-by-using-chatgpt-to-do-my-re/10164474757901115/](https://www.facebook.com/det0nator/posts/this-is-the-introduction-to-a-book-ive-been-writing-by-using-chatgpt-to-do-my-re/10164474757901115/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to UAP reporting and the importance of...NASA&#x27;s report points directly at the social cost: stigma reduces reporting, and po...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: safetymaterials.argus.aero  
+   Title: aero NTS B Investigation Process & the Party System• Defining an Accident  
+   Link: [https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf](https://safetymaterials.argus.aero/wp-content/uploads/2023/05/1868_NTSB-Investigation-Process-and-the-Party-System-2018.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>• The Accident Investigation Process. • NTSB Party System. • What to do if your company is involved in an accident. Page 3. Stephen...Re...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-video-evidenc/
 description: Focused pages that expand on Video Limits.
-date: '2026-05-28'
+date: '2026-06-08'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_video_evidenc_a12b48
 parent_title: Video Limits | AI assisted UFO sighting investigation
@@ -19,7 +19,7 @@ parent_permalink: /video-limits/
 The following pages expand on the main **[Video Limits]({{ '/video-limits/' | relative_url }})** page and cover its key branches in more detail.
 
 - [Angular Motion]({{ '/angular-motion/' | relative_url }})
-- [GoFast Parallax]({{ '/gofast-parallax/' | relative_url }})
+- [Go Fast Parallax]({{ '/go-fast-parallax/' | relative_url }})
 - [Original Files]({{ '/original-files/' | relative_url }})
 - [Sensor Artefacts]({{ '/sensor-artefacts/' | relative_url }})
 - [Chain of Custody]({{ '/chain-of-custody/' | relative_url }})

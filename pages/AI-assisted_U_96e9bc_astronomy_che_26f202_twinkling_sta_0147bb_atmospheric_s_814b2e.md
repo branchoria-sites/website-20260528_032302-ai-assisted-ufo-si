@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why bright stars seem to flash and move | Astronomy
 parent_permalink: /twinkling-stars/
 parent_nav_short_title: Twinkling stars
+parent_heading_title: Why bright stars seem to flash and move
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,39 +231,46 @@ breadcrumb_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
 sibling_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac
   title: Landmarks | Twinkling stars
   permalink: /landmarks/
   short_title: Landmarks
+  heading_title: Did the light move, or did the scene move?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d
   title: Sirius | Twinkling stars
   permalink: /sirius/
   short_title: Sirius
+  heading_title: Why Sirius fools so many UFO witnesses
 up_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
 prev_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac
   title: Landmarks | Twinkling stars
   permalink: /landmarks/
   short_title: Landmarks
+  heading_title: Did the light move, or did the scene move?
 next_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d
   title: Sirius | Twinkling stars
   permalink: /sirius/
   short_title: Sirius
-date: '2026-05-28 02:32:44 '
+  heading_title: Why Sirius fools so many UFO witnesses
+date: '2026-06-08 23:40:33 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 Many “flashing UFO” reports begin with a bright light that appears to hover in one place while rapidly changing colour. Witnesses often describe red, blue, green and white pulses, sparkling edges, or a light that seems to signal intentionally. In a large number of cases, the object is not an [aircraft]({{ 'aircraft/' | relative_url }}) or unknown craft at all but a bright star distorted by Earth’s atmosphere through a process called atmospheric scintillation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Why Don&#x27;t Planets Twinkle Too?Read more</span><span class="citation-popover-snippet">Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationBecause the light waves come from a single point, this effect can make the star&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">EarthSkyWhy do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-light.svg" | relative_url }}" alt="Scintillation illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-dark.svg" | relative_url }}" alt="Scintillation illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, scintillation is one of the most important ordinary explanations to test early because it matches several common report patterns at once: stationary position, flashing colours, apparent [hovering]({{ 'wind-checks/' | relative_url }}), and inconsistent apparent movement. The effect becomes especially dramatic when a star sits low above the horizon, where its light must travel through thicker, more turbulent layers of air before reaching the observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 ## What scintillation does to starlight
@@ -348,7 +358,7 @@ The problem becomes stronger during prolonged staring. Tiny involuntary eye move
 Smartphone recording introduces additional distortions. Autofocus systems continually hunt for focus on bright point sources, while digital zoom exaggerates hand shake and exposure fluctuations. A scintillating star can therefore appear in video footage as a pulsing, rotating or morphing luminous object even though the original source remains stationary. This is one reason low-quality UFO videos often look far more dramatic than the naked-eye experience itself.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-light.svg" | relative_url }}" alt="Scintillation illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-dark.svg" | relative_url }}" alt="Scintillation illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When colour changes fit a star explanation
 
 Scintillation does not explain every aerial light report, but some patterns strongly support a bright-star interpretation.
@@ -375,7 +385,7 @@ Contradictions matter too. A star explanation weakens if the object was conclusi
 This distinction is important for balanced UFO analysis. A good investigation neither dismisses witnesses nor assumes extraordinary explanations too quickly. Instead, it asks whether the observed behaviour matches known atmospheric optics before moving to less common possibilities.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-light.svg" | relative_url }}" alt="Scintillation illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-dark.svg" | relative_url }}" alt="Scintillation illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI-assisted investigations test scintillation quickly
 
 Modern UFO case workflows can automate many of the checks that historically required experienced amateur astronomers.
@@ -408,134 +418,6 @@ Scintillation continues to generate UFO reports because the effect is genuinely 
 The effect also exploits expectation. Once someone frames the light as a possible craft, later perception and memory can exaggerate apparent motion and structure. Social media clips then amplify the impression, especially when digital zoom and camera autofocus distort the image further.
 
 That combination of atmospheric physics, human perception and modern imaging technology makes scintillation one of the most persistent ordinary explanations in UFO investigation. Understanding it does not trivialise witness experiences. Instead, it explains why sincere observers can report extraordinary-looking aerial behaviour even when the original source is a stationary star distorted by turbulent air.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: earthsky.org  
-   Title: why dont planets twinkle as stars do  
-   Link: [https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/](https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyWhy do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: astronomy.com  
-   Title: simply scintillating  
-   Link: [https://www.astronomy.com/science/simply-scintillating/](https://www.astronomy.com/science/simply-scintillating/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSimply Scintillating | Astronomy.com18 May 2023 — [Twinkling](&amp;#123;&amp;#123; &#x27;twinkling-stars/&#x27; | relative_url &amp;#125;&amp;#125;), the common term for stellar “scintillation,” refers to tin...</p></details>
-   Published: May 2023  
-
-3. <a id="endnote-3"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Twinkling](https://en.wikipedia.org/wiki/Twinkling)  
-
-4. <a id="endnote-4"></a>
-   Source: britannica.com  
-   Link: [https://www.britannica.com/science/Why-Do-Stars-Twinkle](https://www.britannica.com/science/Why-Do-Stars-Twinkle)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhy Do Stars Twinkle? | Stars, Astronomy, &amp; Facts7 days ago — Stars twinkle due to turbulence in Earth&#x27;s atmospher...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: earthsky.org  
-   Title: Earth Sky Is that a UFO?!  
-   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanation15 Dec 2020 — Of course UFOs exist. A UFO is just an unidentified object. Like many of the things listed t...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: astronomy.com  
-   Link: [https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/](https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineWhy do some stars appear to twinkle while others don&#x27;t?4 days ago — Stars twinkle and sometimes appear to move around d...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: earthsky.org  
-   Link: [https://earthsky.org/brightest-stars/sirius-the-brightest-star/](https://earthsky.org/brightest-stars/sirius-the-brightest-star/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkySee Sirius, the brightest star in the night skyFeb 10, 2026 — The brightness, twinkling and color changes sometimes prompt people...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Sirius](https://en.wikipedia.org/wiki/Sirius)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SiriusSirius often flashes rainbow colours in the sky due to its twinkling. Sirius can be observed in daylight with the naked eye unde...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: skyandtelescope.org  
-   Title: Why Don't Planets Twinkle Too?Read more  
-   Link: [https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/](https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationBecause the light waves come from a single point, this effect can make the star&#x27;s...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: skyatnightmagazine.com  
-   Title: why do stars twinkle  
-   Link: [https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle](https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</p></details>
-   Published: May 2025  
-
-11. <a id="endnote-11"></a>
-   Source: universetoday.com  
-   Title: sirius ufo trickster extraordinaire  
-   Link: [https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire](https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: universetoday.com  
-   Title: why do stars twinkle  
-   Link: [https://www.universetoday.com/articles/why-do-stars-twinkle](https://www.universetoday.com/articles/why-do-stars-twinkle)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?8 Aug 2013 — Stars twinkle, I mean scintillate, because as light passes down through a volume of air, turbulence in the Earth&#x27;s atmosphe...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: meteorwatch.org  
-   Title: It is very bright, which can amplify atmospheric effects.Read more  
-   Link: [https://meteorwatch.org/sirius-twinkle/](https://meteorwatch.org/sirius-twinkle/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius - The Multicoloured Star and Why it TwinklesJan 10, 2019 — Sirius appears to twinkle or shimmer more than other stars due to some...</p></details>
-
-### Additional References
-
-14. <a id="endnote-14"></a>
-   Source: skyandtelescope.org  
-   Link: [https://skyandtelescope.org/astronomy-equipment/beating-the-seeing/](https://skyandtelescope.org/astronomy-equipment/beating-the-seeing/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Successfully Beat Atmospheric SeeingTelescope users recognize two types of atmospheric seeing: &quot;slow&quot; and &quot;fast.&quot; Slow seeing make...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/](https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing scintillation of star Sirius near horizonThe flickering colours are especially easy to notice when you spot Sirius low in the s...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessRadar-visuals represent the supposed matching of a radar return and a sighting of a UFO, but once again investi...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: space.com  
-   Link: [https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius](https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The brightest star in the night sky shows off this springApr 25, 2025 — The lustrous star Sirius will be putting on its best show for eve...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/326916019733179/posts/625950963163015/](https://www.facebook.com/groups/326916019733179/posts/625950963163015/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. Atmospheric Refraction: • The Earth&#x27;s atmosphere is made up of layers of air with varying densities and temperatures.Read more...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/](https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is why the Sun looks like it&#x27;s a different color at sunset than it does when...Read more...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/](https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as a UFO! In fact, these changes are simply what happens...Read more...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: cloudynights.com  
-   Link: [https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/](https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsSirius Scintillation - General Observing and AstronomyJan 18, 2026 — All stars scintillate-- Sirius is just more noticeable...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: medium.com  
-   Link: [https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a](https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 object of known origin that&#x27;s mistaken for a UFO, as...Read more...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: naturalnavigator.com  
-   Link: [https://www.naturalnavigator.com/news/2023/04/the-scintillating-secrets-of-twinkling-stars/](https://www.naturalnavigator.com/news/2023/04/the-scintillating-secrets-of-twinkling-stars/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scintillating Secrets of Twinkling Stars5 Apr 2023 — When you look at stars at night, they appear to fluctuate in brightness...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -651,75 +533,71 @@ That combination of atmospheric physics, human perception and modern imaging tec
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-artificial-intelligence-pos&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-artificial-intelligence-pos" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-artificial-intelligence-pos&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-artificial-intelligence-pos" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=scintillation-when-twinkling-becomes-a-flashing-craft-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -777,10 +655,10 @@ That combination of atmospheric physics, human perception and modern imaging tec
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -928,3 +806,131 @@ That combination of atmospheric physics, human perception and modern imaging tec
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: earthsky.org  
+   Title: why dont planets twinkle as stars do  
+   Link: [https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/](https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyWhy do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: astronomy.com  
+   Title: simply scintillating  
+   Link: [https://www.astronomy.com/science/simply-scintillating/](https://www.astronomy.com/science/simply-scintillating/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSimply Scintillating | Astronomy.com18 May 2023 — [Twinkling](&amp;#123;&amp;#123; &#x27;twinkling-stars/&#x27; | relative_url &amp;#125;&amp;#125;), the common term for stellar “scintillation,” refers to tin...</p></details>
+   Published: May 2023  
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Twinkling](https://en.wikipedia.org/wiki/Twinkling)  
+
+4. <a id="endnote-4"></a>
+   Source: britannica.com  
+   Link: [https://www.britannica.com/science/Why-Do-Stars-Twinkle](https://www.britannica.com/science/Why-Do-Stars-Twinkle)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia BritannicaWhy Do Stars Twinkle? | Stars, Astronomy, &amp; Facts7 days ago — Stars twinkle due to turbulence in Earth&#x27;s atmospher...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: earthsky.org  
+   Title: Earth Sky Is that a UFO?!  
+   Link: [https://earthsky.org/space/if-its-not-a-ufo-what-is-it/](https://earthsky.org/space/if-its-not-a-ufo-what-is-it/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s probably an explanation15 Dec 2020 — Of course UFOs exist. A UFO is just an unidentified object. Like many of the things listed t...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: astronomy.com  
+   Link: [https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/](https://www.astronomy.com/observing/why-do-some-stars-appear-to-twinkle-while-others-dont/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineWhy do some stars appear to twinkle while others don&#x27;t?4 days ago — Stars twinkle and sometimes appear to move around d...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: earthsky.org  
+   Link: [https://earthsky.org/brightest-stars/sirius-the-brightest-star/](https://earthsky.org/brightest-stars/sirius-the-brightest-star/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkySee Sirius, the brightest star in the night skyFeb 10, 2026 — The brightness, twinkling and color changes sometimes prompt people...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Sirius](https://en.wikipedia.org/wiki/Sirius)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SiriusSirius often flashes rainbow colours in the sky due to its twinkling. Sirius can be observed in daylight with the naked eye unde...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: skyandtelescope.org  
+   Title: Why Don't Planets Twinkle Too?Read more  
+   Link: [https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/](https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationBecause the light waves come from a single point, this effect can make the star&#x27;s...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: skyatnightmagazine.com  
+   Title: why do stars twinkle  
+   Link: [https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle](https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</p></details>
+   Published: May 2025  
+
+11. <a id="endnote-11"></a>
+   Source: universetoday.com  
+   Title: sirius ufo trickster extraordinaire  
+   Link: [https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire](https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: universetoday.com  
+   Title: why do stars twinkle  
+   Link: [https://www.universetoday.com/articles/why-do-stars-twinkle](https://www.universetoday.com/articles/why-do-stars-twinkle)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>?8 Aug 2013 — Stars twinkle, I mean scintillate, because as light passes down through a volume of air, turbulence in the Earth&#x27;s atmosphe...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: meteorwatch.org  
+   Title: It is very bright, which can amplify atmospheric effects.Read more  
+   Link: [https://meteorwatch.org/sirius-twinkle/](https://meteorwatch.org/sirius-twinkle/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sirius - The Multicoloured Star and Why it TwinklesJan 10, 2019 — Sirius appears to twinkle or shimmer more than other stars due to some...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: skyandtelescope.org  
+   Link: [https://skyandtelescope.org/astronomy-equipment/beating-the-seeing/](https://skyandtelescope.org/astronomy-equipment/beating-the-seeing/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Successfully Beat Atmospheric SeeingTelescope users recognize two types of atmospheric seeing: &quot;slow&quot; and &quot;fast.&quot; Slow seeing make...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/](https://www.facebook.com/groups/madisonastronomicalsociety/posts/24331316033141186/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing scintillation of star Sirius near horizonThe flickering colours are especially easy to notice when you spot Sirius low in the s...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: skepticalinquirer.org  
+   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessRadar-visuals represent the supposed matching of a radar return and a sighting of a UFO, but once again investi...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: space.com  
+   Link: [https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius](https://www.space.com/stargazing/the-brightest-star-in-the-night-sky-shows-off-this-spring-how-to-see-a-scintillating-sirius)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The brightest star in the night sky shows off this springApr 25, 2025 — The lustrous star Sirius will be putting on its best show for eve...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/326916019733179/posts/625950963163015/](https://www.facebook.com/groups/326916019733179/posts/625950963163015/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>1. Atmospheric Refraction: • The Earth&#x27;s atmosphere is made up of layers of air with varying densities and temperatures.Read more...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/](https://www.reddit.com/r/askastronomy/comments/kivv8n/why_do_some_stars_look_like_theyre_flickering_red/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is why the Sun looks like it&#x27;s a different color at sunset than it does when...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/](https://www.facebook.com/ScienceEvidenceIntelligence/posts/sirius-the-rainbow-star-although-white-to-blue-white-in-color-sirius-might-be-ca/1459686762825595/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>as a UFO! In fact, these changes are simply what happens...Read more...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: cloudynights.com  
+   Link: [https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/](https://www.cloudynights.com/forums/topic/990613-sirius-scintillation/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsSirius Scintillation - General Observing and AstronomyJan 18, 2026 — All stars scintillate-- Sirius is just more noticeable...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: medium.com  
+   Link: [https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a](https://medium.com/starts-with-a-bang/ask-ethan-can-science-explain-ufo-sightings-99cae1fba3a)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 object of known origin that&#x27;s mistaken for a UFO, as...Read more...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: naturalnavigator.com  
+   Link: [https://www.naturalnavigator.com/news/2023/04/the-scintillating-secrets-of-twinkling-stars/](https://www.naturalnavigator.com/news/2023/04/the-scintillating-secrets-of-twinkling-stars/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scintillating Secrets of Twinkling Stars5 Apr 2023 — When you look at stars at night, they appear to fluctuate in brightness...</p></details>

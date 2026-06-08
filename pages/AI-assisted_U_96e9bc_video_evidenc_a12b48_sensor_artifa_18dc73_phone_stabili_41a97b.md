@@ -206,6 +206,7 @@ ui_strings:
 parent_title: When the Camera Creates the UFO Effect | Video Limits
 parent_permalink: /sensor-artefacts/
 parent_nav_short_title: Sensor Artefacts
+parent_heading_title: When the Camera Creates the UFO Effect
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73
   title: Sensor Artefacts | Video Limits
   permalink: /sensor-artefacts/
   short_title: Sensor Artefacts
+  heading_title: When the Camera Creates the UFO Effect
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,39 +231,46 @@ breadcrumb_links:
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73
   title: Sensor Artefacts | Video Limits
   permalink: /sensor-artefacts/
   short_title: Sensor Artefacts
+  heading_title: When the Camera Creates the UFO Effect
 sibling_links:
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa
   title: Gimbal Glare | Sensor Artefacts
   permalink: /gimbal-glare/
   short_title: Gimbal Glare
+  heading_title: Did Infrared Glare Create the Gimbal Rotation Illusion?
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3
   title: Sensor Checks | Sensor Artefacts
   permalink: /sensor-checks/
   short_title: Sensor Checks
+  heading_title: When Multiple Sensors Disagree About a UFO
 up_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73
   title: Sensor Artefacts | Video Limits
   permalink: /sensor-artefacts/
   short_title: Sensor Artefacts
+  heading_title: When the Camera Creates the UFO Effect
 prev_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa
   title: Gimbal Glare | Sensor Artefacts
   permalink: /gimbal-glare/
   short_title: Gimbal Glare
+  heading_title: Did Infrared Glare Create the Gimbal Rotation Illusion?
 next_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3
   title: Sensor Checks | Sensor Artefacts
   permalink: /sensor-checks/
   short_title: Sensor Checks
-date: '2026-05-28 03:11:47 '
+  heading_title: When Multiple Sensors Disagree About a UFO
+date: '2026-06-09 00:17:14 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18
 Many modern UFO videos are recorded on phones that quietly modify the image before the user even presses upload. [Digital zoom]({{ 'digital-zoom/' | relative_url }}), optical image stabilisation (OIS), electronic image stabilisation (EIS), frame interpolation and rolling-shutter correction all try to make shaky footage look smoother. In night recordings, especially when filming a distant bright light against a dark sky, those corrections can unintentionally create the impression that an object is jumping, zig-zagging or accelerating unnaturally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[Stanford Graphics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">In professional cameras...Read more...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-light.svg" | relative_url }}" alt="Phone Drift illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-dark.svg" | relative_url }}" alt="Phone Drift illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because many apparently dramatic movements are not movements of the object itself. They are movements introduced by the phone’s imaging pipeline. A distant aircraft light, planet, drone or satellite may remain relatively steady in the real world while the phone repeatedly recentres, crops, sharpens and repositions the bright point inside the frame. Without understanding how stabilisation works, investigators can mistake software correction for anomalous flight behaviour.
 
 ## What digital zoom does to distant lights
@@ -313,7 +323,7 @@ When this happens, several processes may occur simultaneously:
 The combined effect can make a steady aircraft beacon look alive. In some clips the light appears to surge sideways every few frames even though surrounding stars or clouds reveal that the apparent motion came from the camera.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qbMJfIhmtz4" title="Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer">Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!</a></p><p class="youtube-embed-meta">Channel: TechZG &middot; Views: 50.0K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qbMJfIhmtz4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dNVtMmLlnoE" title="Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer">Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172</a></p><p class="youtube-embed-meta">Channel: SmarterEveryDay &middot; Views: 4.4M &middot; Uploaded: June 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dNVtMmLlnoE">Open on YouTube</a></p></div></div></div>
 
 ## How stabilisation detaches objects from backgrounds
 
@@ -358,7 +368,7 @@ A distant blinking aircraft beacon may therefore look like it is changing direct
 This matters for automated analysis systems. AI models trained on ordinary daytime footage may incorrectly classify these distortions as genuine object manoeuvres unless the pipeline accounts for rolling-shutter artefacts and stabilisation behaviour.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-light.svg" | relative_url }}" alt="Phone Drift illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-dark.svg" | relative_url }}" alt="Phone Drift illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why uploads often look worse than the original footage
 
 The uploaded UFO clip seen online is rarely identical to the [original]({{ 'original-evidence/' | relative_url }}) recording.
@@ -382,7 +392,7 @@ Platforms may also alter frame rates or apply additional stabilisation during tr
 For investigators, the original file is therefore vastly more valuable than a reposted clip.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dNVtMmLlnoE" title="Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer">Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172</a></p><p class="youtube-embed-meta">Channel: SmarterEveryDay &middot; Views: 4.4M &middot; Uploaded: June 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dNVtMmLlnoE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qbMJfIhmtz4" title="Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer">Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!</a></p><p class="youtube-embed-meta">Channel: TechZG &middot; Views: 50.0K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qbMJfIhmtz4">Open on YouTube</a></p></div></div></div>
 
 ### What original metadata can reveal
 
@@ -406,7 +416,7 @@ That information can help determine whether apparent motion matches likely hand 
 A heavily recompressed social-media clip removes much of this evidence. Once the original stabilisation and sensor data are stripped away, separating real motion from processing artefacts becomes much harder.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-light.svg" | relative_url }}" alt="Phone Drift illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-dark.svg" | relative_url }}" alt="Phone Drift illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witnesses genuinely perceive the movement as real
 
 Phone stabilisation artefacts are persuasive because they align with how humans interpret motion.
@@ -438,81 +448,6 @@ In many cases, the result is not that the sighting becomes “solved” outright
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mRPeKPb9ZPI" title="An Engineering-esque look at Image Stabilization - Vlog S2E7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mRPeKPb9ZPI" target="_blank" rel="noopener noreferrer">An Engineering-esque look at Image Stabilization - Vlog S2E7</a></p><p class="youtube-embed-meta">Channel: Points in Focus &middot; Views: 32 &middot; Uploaded: February 2020 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mRPeKPb9ZPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mRPeKPb9ZPI">Open on YouTube</a></p></div></div></div>
 
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: Wikipedia  
-   Title: Image stabilization  
-   Link: [https://en.wikipedia.org/wiki/Image_stabilization](https://en.wikipedia.org/wiki/Image_stabilization)  
-
-2. <a id="endnote-2"></a>
-   Source: graphics.stanford.edu  
-   Link: [https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf](https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>In professional cameras...Read more...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: Wikipedia  
-   Title: Rolling shutter  
-   Link: [https://en.wikipedia.org/wiki/Rolling_shutter](https://en.wikipedia.org/wiki/Rolling_shutter)  
-
-4. <a id="endnote-4"></a>
-   Source: support.google.com  
-   Title: reflection artifacts from bright lights in night video  
-   Link: [https://support.google.com/pixelphone/thread/245547360/reflection-artifacts-from-bright-lights-in-night-video?hl=en](https://support.google.com/pixelphone/thread/245547360/reflection-artifacts-from-bright-lights-in-night-video?hl=en)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>These are reflections on flat surfaces of the lens stack, most likely the cover glass.Read more...</p></details>
-
-### Additional References
-
-5. <a id="endnote-5"></a>
-   Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...[Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: dpreview.com  
-   Link: [https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera](https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DPReview TV: Why electronic image stabilization works better...Chris explains the limits of electronic image stabilization, and why your...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: st.com  
-   Link: [https://www.st.com/resource/en/white_paper/ois_white_paper.pdf](https://www.st.com/resource/en/white_paper/ois_white_paper.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>STMicroelectronicsOptical Image Stabilization (OIS)It senses the vibration on the hosting system and compensates for these camera movemen...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/](https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY are UFO Sighting videos always so blurry, wobbly...There is the video of the ufo in Turkey where the ufo and aliens are stationary i...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/photography/comments/1pdwpt/weird_light_artefacts_from_led_spotlights/](https://www.reddit.com/r/photography/comments/1pdwpt/weird_light_artefacts_from_led_spotlights/)  
-
-10. <a id="endnote-10"></a>
-   Source: ppjhh.com  
-   Link: [https://ppjhh.com/publication/oissr/oissr.pdf](https://ppjhh.com/publication/oissr/oissr.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OISSR: Optical Image Stabilization Based Super Resolution...by H Pan · 2022 · Cited by 5 — In this study, we sought to develop a robust...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: forums.wyze.com  
-   Title: camera and recording pixelates at night with bright light  
-   Link: [https://forums.wyze.com/t/camera-and-recording-pixelates-at-night-with-bright-light/332907](https://forums.wyze.com/t/camera-and-recording-pixelates-at-night-with-bright-light/332907)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Recording Pixelates at night with bright light26 Jun 2025 — The clarity and resolution at night without any vehicle lights shining at...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/a-new-video-recently-emerged-online-capturing-what-many-observers-are-calling-on/823427747343315/](https://www.facebook.com/ancientwhispers/posts/a-new-video-recently-emerged-online-capturing-what-many-observers-are-calling-on/823427747343315/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ien theorists, who claim this may be one of the best pieces of...Read more...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/new-piece-of-footage-circulating-online-has-sparked-fresh-discussion-after-an-un/866132196406203/](https://www.facebook.com/ancientwhispers/posts/new-piece-of-footage-circulating-online-has-sparked-fresh-discussion-after-an-un/866132196406203/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New piece of footage circulating online has sparked fresh...So, i took a cool picture of the night sky with my Samsung Galaxy S21 Ultra...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: dpreview.com  
-   Title: Wondering what causes these video artifacts?  
-   Link: [https://www.dpreview.com/forums/threads/wondering-what-causes-these-video-artifacts-thinking-face.4781152/](https://www.dpreview.com/forums/threads/wondering-what-causes-these-video-artifacts-thinking-face.4781152/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>🤔21 Oct 2024 — I&#x27;m thinking the V30s are too slow? And some kind of compression causing these artifacts? But I also feel like on a differ...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -628,75 +563,71 @@ In many cases, the result is not that the sighting becomes “solved” outright
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set"><img src="{{ '/assets/images/marketplace-covers/574ef758882798ed962a.jpg' | relative_url }}" alt="Listing image for 6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 10-in-1 Camera Cleaning Kit with Lens Pen, Air Blower ,Cloth, Liquid"><img src="{{ '/assets/images/marketplace-covers/fd2d983785f6c03910bd.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 10-in-1 Camera Cleaning Kit with Lens Pen, Air Blower ,Cloth, Liquid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 10-in-1 Camera Cleaning Kit with Lens Pen, Air Blower ,Cloth, Liquid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning"><img src="{{ '/assets/images/marketplace-covers/d24ac360e1803eb2ee7e.jpg' | relative_url }}" alt="Listing image for Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT Air Blower Camera Lens Cleaning Kit Dust Blower Lens Blower for DSLR"><img src="{{ '/assets/images/marketplace-covers/4199c8071dcc44e15ece.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT Air Blower Camera Lens Cleaning Kit Dust Blower Lens Blower for DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT Air Blower Camera Lens Cleaning Kit Dust Blower Lens Blower for DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-drift-why-phone-cameras-make-ufo-lights-seem-erratic-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -754,10 +685,10 @@ In many cases, the result is not that the sighting becomes “solved” outright
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -905,3 +836,79 @@ In many cases, the result is not that the sighting becomes “solved” outright
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Image stabilization  
+   Link: [https://en.wikipedia.org/wiki/Image_stabilization](https://en.wikipedia.org/wiki/Image_stabilization)  
+
+2. <a id="endnote-2"></a>
+   Source: graphics.stanford.edu  
+   Link: [https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf](https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>In professional cameras...Read more...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: Wikipedia  
+   Title: Rolling shutter  
+   Link: [https://en.wikipedia.org/wiki/Rolling_shutter](https://en.wikipedia.org/wiki/Rolling_shutter)  
+
+4. <a id="endnote-4"></a>
+   Source: support.google.com  
+   Title: reflection artifacts from bright lights in night video  
+   Link: [https://support.google.com/pixelphone/thread/245547360/reflection-artifacts-from-bright-lights-in-night-video?hl=en](https://support.google.com/pixelphone/thread/245547360/reflection-artifacts-from-bright-lights-in-night-video?hl=en)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>These are reflections on flat surfaces of the lens stack, most likely the cover glass.Read more...</p></details>
+
+### Additional References
+
+5. <a id="endnote-5"></a>
+   Source: cia.gov  
+   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...[Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: dpreview.com  
+   Link: [https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera](https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>DPReview TV: Why electronic image stabilization works better...Chris explains the limits of electronic image stabilization, and why your...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: st.com  
+   Link: [https://www.st.com/resource/en/white_paper/ois_white_paper.pdf](https://www.st.com/resource/en/white_paper/ois_white_paper.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>STMicroelectronicsOptical Image Stabilization (OIS)It senses the vibration on the hosting system and compensates for these camera movemen...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/](https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY are UFO Sighting videos always so blurry, wobbly...There is the video of the ufo in Turkey where the ufo and aliens are stationary i...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/photography/comments/1pdwpt/weird_light_artefacts_from_led_spotlights/](https://www.reddit.com/r/photography/comments/1pdwpt/weird_light_artefacts_from_led_spotlights/)  
+
+10. <a id="endnote-10"></a>
+   Source: ppjhh.com  
+   Link: [https://ppjhh.com/publication/oissr/oissr.pdf](https://ppjhh.com/publication/oissr/oissr.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>OISSR: Optical Image Stabilization Based Super Resolution...by H Pan · 2022 · Cited by 5 — In this study, we sought to develop a robust...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: forums.wyze.com  
+   Title: camera and recording pixelates at night with bright light  
+   Link: [https://forums.wyze.com/t/camera-and-recording-pixelates-at-night-with-bright-light/332907](https://forums.wyze.com/t/camera-and-recording-pixelates-at-night-with-bright-light/332907)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>and Recording Pixelates at night with bright light26 Jun 2025 — The clarity and resolution at night without any vehicle lights shining at...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ancientwhispers/posts/a-new-video-recently-emerged-online-capturing-what-many-observers-are-calling-on/823427747343315/](https://www.facebook.com/ancientwhispers/posts/a-new-video-recently-emerged-online-capturing-what-many-observers-are-calling-on/823427747343315/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ien theorists, who claim this may be one of the best pieces of...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/ancientwhispers/posts/new-piece-of-footage-circulating-online-has-sparked-fresh-discussion-after-an-un/866132196406203/](https://www.facebook.com/ancientwhispers/posts/new-piece-of-footage-circulating-online-has-sparked-fresh-discussion-after-an-un/866132196406203/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>New piece of footage circulating online has sparked fresh...So, i took a cool picture of the night sky with my Samsung Galaxy S21 Ultra...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: dpreview.com  
+   Title: Wondering what causes these video artifacts?  
+   Link: [https://www.dpreview.com/forums/threads/wondering-what-causes-these-video-artifacts-thinking-face.4781152/](https://www.dpreview.com/forums/threads/wondering-what-causes-these-video-artifacts-thinking-face.4781152/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>🤔21 Oct 2024 — I&#x27;m thinking the V30s are too slow? And some kind of compression causing these artifacts? But I also feel like on a differ...</p></details>

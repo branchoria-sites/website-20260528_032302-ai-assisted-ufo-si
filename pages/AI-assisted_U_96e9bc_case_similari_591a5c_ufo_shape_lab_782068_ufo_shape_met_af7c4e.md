@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why 'Triangle' And 'Orb' Reports Mislead AI | Case Match
 parent_permalink: /shape-labels/
 parent_nav_short_title: Shape Labels
+parent_heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068
   title: Shape Labels | Case Match
   permalink: /shape-labels/
   short_title: Shape Labels
+  heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068
   title: Shape Labels | Case Match
   permalink: /shape-labels/
   short_title: Shape Labels
+  heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 sibling_links:
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f
   title: Orb reports | Shape Labels
   permalink: /orb-reports/
   short_title: Orb reports
+  heading_title: Why so many UFOs become orbs
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919
   title: Triangle labels | Shape Labels
   permalink: /triangle-labels/
   short_title: Triangle labels
+  heading_title: Is it a craft or three lights?
 up_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068
   title: Shape Labels | Case Match
   permalink: /shape-labels/
   short_title: Shape Labels
+  heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
 next_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f
   title: Orb reports | Shape Labels
   permalink: /orb-reports/
   short_title: Orb reports
-date: '2026-05-28 02:40:03 '
+  heading_title: Why so many UFOs become orbs
+date: '2026-06-08 23:47:23 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_78
 A witness saying “it looked like a triangle” or “it was an orb” is not useless information, but it is weak information on its own. In AI-assisted UFO sighting investigation, shape words become genuinely valuable only when they are tied to reliable metadata: exact time, location, viewing direction, weather conditions, [astronomy]({{ 'astronomy/' | relative_url }}) context, aircraft traffic, sensor settings, and the distinction between what the witness directly observed versus what they later inferred. NASA’s 2023 UAP study repeatedly stressed that the biggest obstacle to meaningful analysis is not a shortage of reports, but a shortage of “well-characterized” data with [calibrated]({{ 'sensor-data/' | relative_url }}) metadata and consistent observational standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-light.svg" | relative_url }}" alt="Better metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-dark.svg" | relative_url }}" alt="Better metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because AI systems are extremely sensitive to poor labelling. A database full of loosely tagged “orbs” or “triangles” can produce misleading similarity matches, false clusters, and self-reinforcing narratives. A [metadata]({{ 'metadata/' | relative_url }})-first approach changes the question from “What shape did the witness choose?” to “What was actually happening in the sky, from where, under what conditions, and with what evidence quality?” NASA-style metadata standards are therefore less about bureaucracy and more about preventing AI from treating subjective wording as physical fact.
 
 ## Why unstructured labels create noisy clusters
@@ -418,7 +427,7 @@ For example, a witness seeing three lights may infer a triangular craft connecti
 NASA’s UAP approach consistently frames the issue as a data-characterisation problem rather than a belief problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span> The aim is not to dismiss witnesses, but to preserve the difference between perception and interpretation so later analysis remains scientifically useful.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-light.svg" | relative_url }}" alt="Better metadata illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-dark.svg" | relative_url }}" alt="Better metadata illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical metadata structure for UFO case files
 
 A NASA-style UFO metadata model does not need to be enormous to improve AI performance. Even a modest structured intake system can dramatically reduce false matches.
@@ -440,7 +449,7 @@ Typical fields include:
 * Estimated distance confidence
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LLrb8XsOJkI" title="No evidence that &#x27;UAP are extraterrestrial in origin,&#x27; NASA independent study team says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LLrb8XsOJkI" target="_blank" rel="noopener noreferrer">No evidence that &#x27;UAP are extraterrestrial in origin,&#x27; NASA independent study team says</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 9.6K &middot; Uploaded: September 2023 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LLrb8XsOJkI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LLrb8XsOJkI">Open on YouTube</a></p></div></div></div>
 
 ### Environmental metadata
 
@@ -457,7 +466,7 @@ Typical fields include:
 * Light pollution level
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-light.svg" | relative_url }}" alt="Better metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-dark.svg" | relative_url }}" alt="Better metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sensor metadata
 
 This describes how evidence was captured.
@@ -536,147 +545,6 @@ The witness description remains valuable, but it is no longer the sole organisin
 This is exactly the direction NASA’s UAP study pointed toward: less emphasis on sensational labels and more emphasis on calibrated, standardised, multi-source observational context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
 For AI-assisted UFO investigation, that shift is essential. A system trained mainly on shape words learns folklore patterns. A system trained on structured metadata has a better chance of distinguishing balloons from aircraft, stars from drones, and genuinely unusual cases from ordinary misidentifications.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: nasa.gov  
-   Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: earthdata.nasa.gov  
-   Link: [https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/iso-19115-geographic-metadata-information](https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/iso-19115-geographic-metadata-information)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataISO 19115 Geographic Metadata InformationThe current document, ISO 19115 Geographic Metadata Standard - Implementation Requ...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: iso.org  
-   Link: [https://www.iso.org/standard/26020.html](https://www.iso.org/standard/26020.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISOISO 19115:2003 - Geographic information — MetadataISO 19115:2003 defines the schema required for describing geographic information and...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: earthdata.nasa.gov  
-   Title: voyage discovery applying international metadata standards nasa earth science  
-   Link: [https://www.earthdata.nasa.gov/news/feature-articles/voyage-discovery-applying-international-metadata-standards-nasa-earth-science](https://www.earthdata.nasa.gov/news/feature-articles/voyage-discovery-applying-international-metadata-standards-nasa-earth-science)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataApplying International Metadata Standards to NASA Earth...4 Nov 2020 — The MENDS Project recommended that NASA Earth scien...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: earthdata.nasa.gov  
-   Link: [https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr](https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataCommon Metadata Repository (CMR)NASA&#x27;s Common Metadata Repository (CMR) is the authoritative management system for all Eart...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: nist.gov  
-   Link: [https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10](https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTOSAC 2024-N-0011 Standard Guide for Forensic Digital...March 29, 2024 — written notes, electronic recording, image metadata, automat...</p></details>
-   Published: March 29, 2024  
-
-8. <a id="endnote-8"></a>
-   Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 7 — This research systematically analyzes the behavi...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: nvlpubs.nist.gov  
-   Link: [https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...Metadata associated with an object, such as, file MAC...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs6 days ago — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluat...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: eos.org  
-   Title: The Importance of Data Set Provenance for Science  
-   Link: [https://eos.org/opinions/the-importance-of-data-set-provenance-for-science](https://eos.org/opinions/the-importance-of-data-set-provenance-for-science)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EOSThe Importance of Data Set Provenance for Science - Eos.org4 Dec 2015 — The PCCS matrix details the content required to describe prove...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: earthdata.nasa.gov  
-   Link: [https://www.earthdata.nasa.gov/about/standards](https://www.earthdata.nasa.gov/about/standards)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Geospatial Consortium (OCG) KML was adopted as a NASA ESDS community standard... (ISO) metadata standard 19115. (Approved in Septem...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: earthdata.nasa.gov  
-   Title: unified metadata model  
-   Link: [https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/unified-metadata-model](https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/unified-metadata-model)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>InformationNASA&#x27;s Unified Metadata Model (UMM) is an extensible metadata model that provides a cross-walk for mapping between CMR-support...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=rvBe_GWgRR4](https://www.youtube.com/watch?v=rvBe_GWgRR4)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Earthdata Webinar: Implementing ISO 19115 Standards...This webinar addresses the initial design and implementation steps in the dev...</p></details>
-
-### Additional References
-
-17. <a id="endnote-17"></a>
-   Source: beaglesecurity.com  
-   Link: [https://beaglesecurity.com/blog/vulnerability/exif-data-information-leakage.html](https://beaglesecurity.com/blog/vulnerability/exif-data-information-leakage.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information leakage in EXIF data of imagesEXIF stands for Exchangeable Image File Format and the EXIF data contains information such as t...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: managingexpectations.net  
-   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s study team treated UAP as a scientific and data problem: how should reliable...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: medium.com  
-   Link: [https://medium.com/%40stacyfuende/geospatial-metadata-standards-for-developers-the-complete-guide-to-understanding-implementing-c951c56d8879](https://medium.com/%40stacyfuende/geospatial-metadata-standards-for-developers-the-complete-guide-to-understanding-implementing-c951c56d8879)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geospatial Metadata Standards for Developers: The...ISO 19115 is the international standard for geographic information metadata. Publish...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: rev.com  
-   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe UAP independent study was commissioned to create a roadmap on how to use the tools...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: primitiveproton.com  
-   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
-
-23. <a id="endnote-23"></a>
-   Source: researchgate.net  
-   Title: 394477131 Forensic Analysis of Image Metadata to Distinguish AI Generated Images  
-   Link: [https://www.researchgate.net/publication/394477131_Forensic_Analysis_of_Image_Metadata_to_Distinguish_AI-Generated_Images](https://www.researchgate.net/publication/394477131_Forensic_Analysis_of_Image_Metadata_to_Distinguish_AI-Generated_Images)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata to Distinguish AI-...14 Aug 2025 — In this research, a metadata-based method studying the ability to...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: Wikipedia  
-   Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
-
-26. <a id="endnote-26"></a>
-   Source: scientificamerican.com  
-   Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — NASA could enlist private companies to develop software apps designed...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -792,75 +660,71 @@ For AI-assisted UFO investigation, that shift is essential. A system trained mai
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-artificial-intelligence-post&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-artificial-intelligence-post" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-artificial-intelligence-post&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-artificial-intelligence-post" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=better-metadata-what-ai-needs-beyond-ufo-shape-words-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -918,10 +782,10 @@ For AI-assisted UFO investigation, that shift is essential. A system trained mai
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1069,3 +933,144 @@ For AI-assisted UFO investigation, that shift is essential. A system trained mai
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: nasa.gov  
+   Title: update nasa shares uap independent study report names director  
+   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAUPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: earthdata.nasa.gov  
+   Link: [https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/iso-19115-geographic-metadata-information](https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/iso-19115-geographic-metadata-information)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataISO 19115 Geographic Metadata InformationThe current document, ISO 19115 Geographic Metadata Standard - Implementation Requ...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: iso.org  
+   Link: [https://www.iso.org/standard/26020.html](https://www.iso.org/standard/26020.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ISOISO 19115:2003 - Geographic information — MetadataISO 19115:2003 defines the schema required for describing geographic information and...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: earthdata.nasa.gov  
+   Title: voyage discovery applying international metadata standards nasa earth science  
+   Link: [https://www.earthdata.nasa.gov/news/feature-articles/voyage-discovery-applying-international-metadata-standards-nasa-earth-science](https://www.earthdata.nasa.gov/news/feature-articles/voyage-discovery-applying-international-metadata-standards-nasa-earth-science)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataApplying International Metadata Standards to NASA Earth...4 Nov 2020 — The MENDS Project recommended that NASA Earth scien...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: earthdata.nasa.gov  
+   Link: [https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr](https://www.earthdata.nasa.gov/about/esdis/eosdis/cmr)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA EarthdataCommon Metadata Repository (CMR)NASA&#x27;s Common Metadata Repository (CMR) is the authoritative management system for all Eart...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: nist.gov  
+   Link: [https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10](https://www.nist.gov/document/osac-2024-n-0011-standard-guide-forensic-digital-image-management-version-10)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTOSAC 2024-N-0011 Standard Guide for Forensic Digital...March 29, 2024 — written notes, electronic recording, image metadata, automat...</p></details>
+   Published: March 29, 2024  
+
+8. <a id="endnote-8"></a>
+   Source: sciepublish.com  
+   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 7 — This research systematically analyzes the behavi...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: nvlpubs.nist.gov  
+   Link: [https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...Metadata associated with an object, such as, file MAC...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP FAQs6 days ago — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluat...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: eos.org  
+   Title: The Importance of Data Set Provenance for Science  
+   Link: [https://eos.org/opinions/the-importance-of-data-set-provenance-for-science](https://eos.org/opinions/the-importance-of-data-set-provenance-for-science)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>EOSThe Importance of Data Set Provenance for Science - Eos.org4 Dec 2015 — The PCCS matrix details the content required to describe prove...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky that...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: earthdata.nasa.gov  
+   Link: [https://www.earthdata.nasa.gov/about/standards](https://www.earthdata.nasa.gov/about/standards)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Open Geospatial Consortium (OCG) KML was adopted as a NASA ESDS community standard... (ISO) metadata standard 19115. (Approved in Septem...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: nasa.gov  
+   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA defines UAP as observations of events in the sky that cannot be identified as air...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: earthdata.nasa.gov  
+   Title: unified metadata model  
+   Link: [https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/unified-metadata-model](https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/unified-metadata-model)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>InformationNASA&#x27;s Unified Metadata Model (UMM) is an extensible metadata model that provides a cross-walk for mapping between CMR-support...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=rvBe_GWgRR4](https://www.youtube.com/watch?v=rvBe_GWgRR4)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Earthdata Webinar: Implementing ISO 19115 Standards...This webinar addresses the initial design and implementation steps in the dev...</p></details>
+
+### Additional References
+
+17. <a id="endnote-17"></a>
+   Source: beaglesecurity.com  
+   Link: [https://beaglesecurity.com/blog/vulnerability/exif-data-information-leakage.html](https://beaglesecurity.com/blog/vulnerability/exif-data-information-leakage.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information leakage in EXIF data of imagesEXIF stands for Exchangeable Image File Format and the EXIF data contains information such as t...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/](https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Shares Unidentified Anomalous Phenomena...The report contains the external study team&#x27;s findings and recommendations which aim to i...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: managingexpectations.net  
+   Link: [https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html](https://managingexpectations.net/blog/articles/nasa-uap-study-managing-expectations.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s UAP Study: What It Did — and Did Not — ConcludeNASA&#x27;s study team treated UAP as a scientific and data problem: how should reliable...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: medium.com  
+   Link: [https://medium.com/%40stacyfuende/geospatial-metadata-standards-for-developers-the-complete-guide-to-understanding-implementing-c951c56d8879](https://medium.com/%40stacyfuende/geospatial-metadata-standards-for-developers-the-complete-guide-to-understanding-implementing-c951c56d8879)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geospatial Metadata Standards for Developers: The...ISO 19115 is the international standard for geographic information metadata. Publish...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: rev.com  
+   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe UAP independent study was commissioned to create a roadmap on how to use the tools...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: primitiveproton.com  
+   Link: [https://primitiveproton.com/unidentified-anomalous-phenomena-uap/](https://primitiveproton.com/unidentified-anomalous-phenomena-uap/)  
+
+23. <a id="endnote-23"></a>
+   Source: researchgate.net  
+   Title: 394477131 Forensic Analysis of Image Metadata to Distinguish AI Generated Images  
+   Link: [https://www.researchgate.net/publication/394477131_Forensic_Analysis_of_Image_Metadata_to_Distinguish_AI-Generated_Images](https://www.researchgate.net/publication/394477131_Forensic_Analysis_of_Image_Metadata_to_Distinguish_AI-Generated_Images)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata to Distinguish AI-...14 Aug 2025 — In this research, a metadata-based method studying the ability to...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: Wikipedia  
+   Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
+   Link: [https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team](https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...UAPs are defined as phenomena or observations of events in the air, sea, space, a...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: scientificamerican.com  
+   Title: bad data not aliens may be behind ufo surge nasa team says  
+   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — NASA could enlist private companies to develop software apps designed...</p></details>

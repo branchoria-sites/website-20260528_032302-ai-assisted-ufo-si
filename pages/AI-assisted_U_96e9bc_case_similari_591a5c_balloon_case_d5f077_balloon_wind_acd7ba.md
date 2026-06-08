@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:29:14'
 parent_title: Why Balloon Cases Often Solve New UFO Reports | Case Match
 parent_permalink: /balloon-matches/
 parent_nav_short_title: Balloon Matches
+parent_heading_title: Why Balloon Cases Often Solve New UFO Reports
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077
   title: Balloon Matches | Case Match
   permalink: /balloon-matches/
   short_title: Balloon Matches
+  heading_title: Why Balloon Cases Often Solve New UFO Reports
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,33 +231,40 @@ breadcrumb_links:
   title: Case Match | Can AI Help Explain UFO Sightings?
   permalink: /case-match/
   short_title: Case Match
+  heading_title: Has This UFO Sighting Happened Before?
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077
   title: Balloon Matches | Case Match
   permalink: /balloon-matches/
   short_title: Balloon Matches
+  heading_title: Why Balloon Cases Often Solve New UFO Reports
 sibling_links:
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa
   title: Case libraries | Balloon Matches
   permalink: /case-libraries/
   short_title: Case libraries
+  heading_title: How solved balloon cases train better triage
 - basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_reflective_fo_a1ef88
   title: Foil flashes | Balloon Matches
   permalink: /foil-flashes/
   short_title: Foil flashes
+  heading_title: Why foil balloons flash like UFOs
 up_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077
   title: Balloon Matches | Case Match
   permalink: /balloon-matches/
   short_title: Balloon Matches
+  heading_title: Why Balloon Cases Often Solve New UFO Reports
 prev_link:
   basename: AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_reflective_fo_a1ef88
   title: Foil flashes | Balloon Matches
   permalink: /foil-flashes/
   short_title: Foil flashes
+  heading_title: Why foil balloons flash like UFOs
+date: '2026-06-08 23:08:54 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f
 Many UFO reports begin to look less mysterious once investigators compare the object’s movement against recorded winds at different altitudes. This is one of the fastest and most effective screening steps in AI-assisted UFO investigation because balloons often produce motion that appears intelligent from the ground even when the object is simply drifting through changing air currents.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-light.svg" | relative_url }}" alt="Wind drift illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-dark.svg" | relative_url }}" alt="Wind drift illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A balloon can seem to hover, reverse direction, accelerate, or follow a curved path without any propulsion at all. The key question is not whether the movement looked unusual to witnesses, but whether it matched the layered wind structure above the sighting area at that time. Modern investigation workflows therefore treat wind drift analysis as an early triage filter. If the object’s track aligns with known [atmospheric]({{ 'scintillation/' | relative_url }}) motion, the probability of a balloon explanation rises sharply. If the reported behaviour consistently conflicts with measured winds, the case becomes more difficult to dismiss as passive drift alone. AARO’s published balloon resolutions repeatedly cite “drifting at wind speed and direction” as a central reason for identifying objects as lighter-than-air balloons rather than unknown craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AAROUAP Imagery... lighter-than-air objects, e.g., drifting at wind speed and direction. PR-009, UAP Report Resolved as a Balloon, Europe...</span></span></span>
 
 ## How wind layers change apparent movement
@@ -292,7 +301,7 @@ Wind shear is especially important in sightings involving claims such as:
 In many resolved balloon cases, those observations become less extraordinary after investigators reconstruct the atmosphere above the sighting location.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FAFgAYaxqr0" title="UAP Report Resolved as a Balloon, Europe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FAFgAYaxqr0" target="_blank" rel="noopener noreferrer">UAP Report Resolved as a Balloon, Europe</a></p><p class="youtube-embed-meta">Channel: ISP Kapatid &middot; Views: 19 &middot; Uploaded: September 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FAFgAYaxqr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FAFgAYaxqr0">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TCLKbR_jbkA" title="UAP FILES - Footage Released of Object Tracked over Europe in 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer">UAP FILES - Footage Released of Object Tracked over Europe in 2022</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 3.3K &middot; Uploaded: September 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TCLKbR_jbkA">Open on YouTube</a></p></div></div></div>
 
 ## Matching witness direction to upper-air data
 
@@ -316,7 +325,7 @@ The goal is not merely to ask whether the object moved with the wind at ground l
 This distinction repeatedly causes confusion in public UFO discussions. A witness may insist that “the wind was blowing east, but the object moved north”, yet upper-air soundings may show a strong northerly flow several kilometres above the surface. Weather balloon operations depend on these layered atmospheric conditions every day. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[National Weather Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Maps of upper air data from radiosondes is...Read more...</span></span></span> Wikipedia AI systems are useful here because they can rapidly align multiple data sources against the sighting timeline. A workflow may automatically: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pcLkkoR2LS4" title="Weather Balloons and Radiosondes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer">Weather Balloons and Radiosondes</a></p><p class="youtube-embed-meta">Channel: CoCoRaHS HQ &middot; Views: 92.3K &middot; Uploaded: April 2018 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pcLkkoR2LS4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FAFgAYaxqr0" title="UAP Report Resolved as a Balloon, Europe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FAFgAYaxqr0" target="_blank" rel="noopener noreferrer">UAP Report Resolved as a Balloon, Europe</a></p><p class="youtube-embed-meta">Channel: ISP Kapatid &middot; Views: 19 &middot; Uploaded: September 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FAFgAYaxqr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FAFgAYaxqr0">Open on YouTube</a></p></div></div></div>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -348,7 +357,7 @@ This is especially common in reports describing “[hovering]({{ 'wind-checks/' 
 If sunlight suddenly catches a reflective balloon, the object may become visible only intermittently. Witnesses then perceive abrupt appearance and disappearance rather than continuous drift. Combined with changing wind layers, this can create the illusion of bursts of speed.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-2-light.svg" | relative_url }}" alt="Wind drift illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-2-dark.svg" | relative_url }}" alt="Wind drift illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Direction reversals
 
 A balloon ascending through opposing wind layers can genuinely curve across the sky. From the ground, that curve may look like a deliberate turn.
@@ -388,7 +397,7 @@ That scale matters in UFO investigation because witnesses often assume that an o
 Resolved cases also improve machine comparison systems over time. Once an investigation confirms that a particular movement pattern corresponded to atmospheric drift, that pattern can become part of a searchable comparison library for future reports. This is one reason balloon resolutions are disproportionately valuable in AI-assisted UFO triage: they help define what “normal but visually deceptive” aerial behaviour actually looks like.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TCLKbR_jbkA" title="UAP FILES - Footage Released of Object Tracked over Europe in 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer">UAP FILES - Footage Released of Object Tracked over Europe in 2022</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 3.3K &middot; Uploaded: September 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TCLKbR_jbkA">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pcLkkoR2LS4" title="Weather Balloons and Radiosondes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer">Weather Balloons and Radiosondes</a></p><p class="youtube-embed-meta">Channel: CoCoRaHS HQ &middot; Views: 92.3K &middot; Uploaded: April 2018 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pcLkkoR2LS4">Open on YouTube</a></p></div></div></div>
 
 ## When drift evidence stops fitting
 
@@ -415,7 +424,7 @@ The important distinction is not whether the motion looked strange, but whether 
 This is where AI-assisted workflows become especially valuable. They reduce the risk of prematurely classifying a case as anomalous simply because a witness lacked access to upper-air [weather data]({{ 'weather-data/' | relative_url }}). At the same time, they help identify the smaller set of reports where atmospheric drift genuinely fails to account for the observed behaviour.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-3-light.svg" | relative_url }}" alt="Wind drift illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-3-dark.svg" | relative_url }}" alt="Wind drift illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why wind drift checks matter in UFO triage
 
 Among all first-pass explanation tests in UFO investigation, wind comparison is one of the most efficient because it converts a subjective visual report into something measurable.
@@ -428,137 +437,6 @@ For AI-assisted systems, resolved balloon cases therefore serve two important pu
 * They train comparison systems to recognise how ordinary atmospheric drift can mimic extraordinary motion.
 
 That does not mean every unresolved case is extraordinary. It means the investigative process becomes more disciplined. Once a sighting survives detailed wind-drift comparison instead of merely surviving casual visual inspection, the remaining uncertainty becomes more meaningful.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Imagery... lighter-than-air objects, e.g., drifting at wind speed and direction. PR-009, UAP Report Resolved as a Balloon, Europe...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAARadiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: weather.gov  
-   Link: [https://www.weather.gov/rah/virtualtourballoon](https://www.weather.gov/rah/virtualtourballoon)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maps of [upper air](&amp;#123;&amp;#123; &#x27;balloon-winds/&#x27; | relative_url &amp;#125;&amp;#125;) data from radiosondes is...Read more...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: weather.gov  
-   Link: [https://www.weather.gov/ilx/ua-tour](https://www.weather.gov/ilx/ua-tour)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Goes Into the Weather Balloon Launches?A GPS sensor within the radiosonde sends back the exact position of the instrument; this data...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: weather.gov  
-   Link: [https://www.weather.gov/upperair/reqdahdr](https://www.weather.gov/upperair/reqdahdr)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceA Brief History of Upper-air ObservationsAlthough winds aloft data could be obtained in near real-time, the ballo...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Radiosonde](https://en.wikipedia.org/wiki/Radiosonde)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: weather.gov  
-   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationIn that time, the radiosonde can ascend to an altitude exceeding 35 km (about 115,000 feet)...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: Wikipedia  
-   Title: Weather balloon  
-   Link: [https://en.wikipedia.org/wiki/Weather_balloon](https://en.wikipedia.org/wiki/Weather_balloon)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: weather.gov  
-   Link: [https://www.weather.gov/gjt/education_corner_balloon](https://www.weather.gov/gjt/education_corner_balloon)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonWeather balloons carry an instrument called a radiosonde which is tracked by specialized ground equipment...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: wpo.noaa.gov  
-   Title: windborne weather balloon reaches new heights  
-   Link: [https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/](https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon Reaches New Heights...With an average flight time of 7 days and a maximum flight time of 16, the balloons are capable of...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: aoml.noaa.gov  
-   Title: These sensors are  
-   Link: [https://www.aoml.noaa.gov/upper-air-observations/](https://www.aoml.noaa.gov/upper-air-observations/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — As the balloon rises, sensors on the radiosonde measure values of atmosph...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ological balloon; a large Mylar balloon; or...Read more...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: sciencedirect.com  
-   Title: ScienceDirect Radiosondes  
-   Link: [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes - an overviewVertical profiles of wind speed and direction are typically inferred from weather balloon drift, using radiosond...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: af.mil  
-   Title: weather balloons and rocket science  
-   Link: [https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/](https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceWeather balloons and rocket science26 Feb 2016 — Simply put, wind-shear is radical changes in wind speeds or direction.&quot; Some of...</p></details>
-
-### Additional References
-
-15. <a id="endnote-15"></a>
-   Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/balloon_safety_tips.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/balloon_safety_tips.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon Safety TipsThe real difference from a pilot&#x27;s view- point is the location of the occurrence. False lift occurs from a known posit...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1kfpkev/this_ones_for_you_corbell_aaro_did_that_dude_so/](https://www.reddit.com/r/UFOB/comments/1kfpkev/this_ones_for_you_corbell_aaro_did_that_dude_so/)  
-
-17. <a id="endnote-17"></a>
-   Source: theeyewall.com  
-   Title: weather balloon launch cuts an honest look at how it should impact forecasts  
-   Link: [https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/](https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon launch cuts: An honest look at how it...23 Mar 2025 — The data from balloon launches can be plotted on a chart called a...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pcLkkoR2LS4](https://www.youtube.com/watch?v=pcLkkoR2LS4)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloons and RadiosondesLearn about how weather balloons are used to study upper-levels of the atmosphere and how the data are co...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/](https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is used to assess atmospheric stability, wind shear, [freezing](&amp;#123;&amp;#123; &#x27;freezing-fog/&#x27; | relative_url &amp;#125;&amp;#125;) levels, and the overall...Read more...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: intermetsystems.com  
-   Title: Radiosondes measure atmospheric pressure, air temperature, water  
-   Link: [https://www.intermetsystems.com/products/introduction-to-radiosondes-and-atmospheric-soundings/](https://www.intermetsystems.com/products/introduction-to-radiosondes-and-atmospheric-soundings/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde Overview - InterMet Systems - Grand Rapids, MIRadiosondes are carried into the air by latex weather balloons filled with heliu...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/111cs3l/curious_as_to_why_all_of_a_sudden_the_sub_is_hell/](https://www.reddit.com/r/UFOs/comments/111cs3l/curious_as_to_why_all_of_a_sudden_the_sub_is_hell/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wind. So maybe it&#x27;s not a balloon, but it seems to be a lighter than air object that wind is pushing. And we shot it down. This isn&#x27;t the...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: twz.com  
-   Title: china sees balloon launched drone swarms in its future  
-   Link: [https://www.twz.com/china-sees-balloon-launched-drone-swarms-in-its-future](https://www.twz.com/china-sees-balloon-launched-drone-swarms-in-its-future)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>China Sees Balloon-Launched Drone Swarms In Its Future2 Mar 2023 — Researchers in China and elsewhere have demonstrated that high-altitud...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/tamilnaduweatherman/posts/had-the-honor-of-launching-the-weather-balloon-for-upper-air-data-collection-in-/1534000831425956/](https://www.facebook.com/tamilnaduweatherman/posts/had-the-honor-of-launching-the-weather-balloon-for-upper-air-data-collection-in-/1534000831425956/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>res temperature, moisture, pressure, wind speed, and wind direction...Read more...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: x.com  
-   Link: [https://x.com/praddy06/status/2055445368448635301/photo/4](https://x.com/praddy06/status/2055445368448635301/photo/4)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>edicting severe damal dumeels. The radiosonde flight can last for...Read more...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -674,75 +552,71 @@ That does not mean every unresolved case is extraordinary. It means the investig
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wind-drift-when-balloon-drift-looks-like-controlled-flight-ai-assisted-ufo-sighting-investigatio-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -800,10 +674,10 @@ That does not mean every unresolved case is extraordinary. It means the investig
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -951,3 +825,134 @@ That does not mean every unresolved case is extraordinary. It means the investig
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP Imagery... lighter-than-air objects, e.g., drifting at wind speed and direction. PR-009, UAP Report Resolved as a Balloon, Europe...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: noaa.gov  
+   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAARadiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde is a small instrument package that is suspended below...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: weather.gov  
+   Link: [https://www.weather.gov/rah/virtualtourballoon](https://www.weather.gov/rah/virtualtourballoon)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Maps of [upper air](&amp;#123;&amp;#123; &#x27;balloon-winds/&#x27; | relative_url &amp;#125;&amp;#125;) data from radiosondes is...Read more...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: weather.gov  
+   Link: [https://www.weather.gov/ilx/ua-tour](https://www.weather.gov/ilx/ua-tour)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What Goes Into the Weather Balloon Launches?A GPS sensor within the radiosonde sends back the exact position of the instrument; this data...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: weather.gov  
+   Link: [https://www.weather.gov/upperair/reqdahdr](https://www.weather.gov/upperair/reqdahdr)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceA Brief History of Upper-air ObservationsAlthough winds aloft data could be obtained in near real-time, the ballo...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: Wikipedia  
+   Link: [https://en.wikipedia.org/wiki/Radiosonde](https://en.wikipedia.org/wiki/Radiosonde)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: weather.gov  
+   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceRadiosonde ObservationIn that time, the radiosonde can ascend to an altitude exceeding 35 km (about 115,000 feet)...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: Wikipedia  
+   Title: Weather balloon  
+   Link: [https://en.wikipedia.org/wiki/Weather_balloon](https://en.wikipedia.org/wiki/Weather_balloon)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloonA weather balloon, also known as a sounding balloon, is a high-altitude balloon (HAB) that carries instruments into the...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: weather.gov  
+   Link: [https://www.weather.gov/gjt/education_corner_balloon](https://www.weather.gov/gjt/education_corner_balloon)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonWeather balloons carry an instrument called a radiosonde which is tracked by specialized ground equipment...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: wpo.noaa.gov  
+   Title: windborne weather balloon reaches new heights  
+   Link: [https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/](https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon Reaches New Heights...With an average flight time of 7 days and a maximum flight time of 16, the balloons are capable of...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: aoml.noaa.gov  
+   Title: These sensors are  
+   Link: [https://www.aoml.noaa.gov/upper-air-observations/](https://www.aoml.noaa.gov/upper-air-observations/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — As the balloon rises, sensors on the radiosonde measure values of atmosph...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf](https://www.aaro.mil/portals/136/PDFs/case_resolution_reports/Case_Resolution_of_Eglin_UAP_2_508_.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ological balloon; a large Mylar balloon; or...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: sciencedirect.com  
+   Title: ScienceDirect Radiosondes  
+   Link: [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes - an overviewVertical profiles of wind speed and direction are typically inferred from weather balloon drift, using radiosond...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: af.mil  
+   Title: weather balloons and rocket science  
+   Link: [https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/](https://www.af.mil/News/Article-Display/Article/731632/weather-balloons-and-rocket-science/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air ForceWeather balloons and rocket science26 Feb 2016 — Simply put, wind-shear is radical changes in wind speeds or direction.&quot; Some of...</p></details>
+
+### Additional References
+
+15. <a id="endnote-15"></a>
+   Source: faa.gov  
+   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/balloon_safety_tips.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/balloon_safety_tips.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Balloon Safety TipsThe real difference from a pilot&#x27;s view- point is the location of the occurrence. False lift occurs from a known posit...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOB/comments/1kfpkev/this_ones_for_you_corbell_aaro_did_that_dude_so/](https://www.reddit.com/r/UFOB/comments/1kfpkev/this_ones_for_you_corbell_aaro_did_that_dude_so/)  
+
+17. <a id="endnote-17"></a>
+   Source: theeyewall.com  
+   Title: weather balloon launch cuts an honest look at how it should impact forecasts  
+   Link: [https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/](https://theeyewall.com/weather-balloon-launch-cuts-an-honest-look-at-how-it-should-impact-forecasts/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather balloon launch cuts: An honest look at how it...23 Mar 2025 — The data from balloon launches can be plotted on a chart called a...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=pcLkkoR2LS4](https://www.youtube.com/watch?v=pcLkkoR2LS4)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloons and RadiosondesLearn about how weather balloons are used to study upper-levels of the atmosphere and how the data are co...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/](https://www.facebook.com/kytxcbs19/posts/a-behind-the-scenes-look-at-the-nws-releasing-a-weather-balloon-to-figure-out-te/1376434954530545/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>It is used to assess atmospheric stability, wind shear, [freezing](&amp;#123;&amp;#123; &#x27;freezing-fog/&#x27; | relative_url &amp;#125;&amp;#125;) levels, and the overall...Read more...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: intermetsystems.com  
+   Title: Radiosondes measure atmospheric pressure, air temperature, water  
+   Link: [https://www.intermetsystems.com/products/introduction-to-radiosondes-and-atmospheric-soundings/](https://www.intermetsystems.com/products/introduction-to-radiosondes-and-atmospheric-soundings/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde Overview - InterMet Systems - Grand Rapids, MIRadiosondes are carried into the air by latex weather balloons filled with heliu...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/111cs3l/curious_as_to_why_all_of_a_sudden_the_sub_is_hell/](https://www.reddit.com/r/UFOs/comments/111cs3l/curious_as_to_why_all_of_a_sudden_the_sub_is_hell/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>wind. So maybe it&#x27;s not a balloon, but it seems to be a lighter than air object that wind is pushing. And we shot it down. This isn&#x27;t the...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: twz.com  
+   Title: china sees balloon launched drone swarms in its future  
+   Link: [https://www.twz.com/china-sees-balloon-launched-drone-swarms-in-its-future](https://www.twz.com/china-sees-balloon-launched-drone-swarms-in-its-future)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>China Sees Balloon-Launched Drone Swarms In Its Future2 Mar 2023 — Researchers in China and elsewhere have demonstrated that high-altitud...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/tamilnaduweatherman/posts/had-the-honor-of-launching-the-weather-balloon-for-upper-air-data-collection-in-/1534000831425956/](https://www.facebook.com/tamilnaduweatherman/posts/had-the-honor-of-launching-the-weather-balloon-for-upper-air-data-collection-in-/1534000831425956/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>res temperature, moisture, pressure, wind speed, and wind direction...Read more...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: x.com  
+   Link: [https://x.com/praddy06/status/2055445368448635301/photo/4](https://x.com/praddy06/status/2055445368448635301/photo/4)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>edicting severe damal dumeels. The radiosonde flight can last for...Read more...</p></details>

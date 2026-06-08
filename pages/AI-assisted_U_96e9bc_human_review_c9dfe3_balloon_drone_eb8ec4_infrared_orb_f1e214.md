@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:30:42'
 parent_title: When AI Sees a Balloon in Every Light | Review
 parent_permalink: /false-matches/
 parent_nav_short_title: False Matches
+parent_heading_title: When AI Sees a Balloon in Every Light
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Review | Can AI Help Explain UFO Sightings?
   permalink: /review/
   short_title: Review
+  heading_title: Who Checks the AI UFO Verdict?
 - basename: AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4
   title: False Matches | Review
   permalink: /false-matches/
   short_title: False Matches
+  heading_title: When AI Sees a Balloon in Every Light
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,33 +231,40 @@ breadcrumb_links:
   title: Review | Can AI Help Explain UFO Sightings?
   permalink: /review/
   short_title: Review
+  heading_title: Who Checks the AI UFO Verdict?
 - basename: AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4
   title: False Matches | Review
   permalink: /false-matches/
   short_title: False Matches
+  heading_title: When AI Sees a Balloon in Every Light
 sibling_links:
 - basename: AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e
   title: Drone limits | False Matches
   permalink: /drone-limits/
   short_title: Drone limits
+  heading_title: When a drone answer stops fitting
 - basename: AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4
   title: False confidence | False Matches
   permalink: /false-confidence/
   short_title: False confidence
+  heading_title: The danger of confident weak matches
 up_link:
   basename: AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4
   title: False Matches | Review
   permalink: /false-matches/
   short_title: False Matches
+  heading_title: When AI Sees a Balloon in Every Light
 prev_link:
   basename: AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4
   title: False confidence | False Matches
   permalink: /false-confidence/
   short_title: False confidence
+  heading_title: The danger of confident weak matches
+date: '2026-06-08 23:10:39 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8
 Infrared and thermal UFO footage often looks more convincing than it really is because the imaging process strips away the very details investigators normally use to identify ordinary objects. A balloon filmed at long range through a low-resolution infrared sensor can lose its edges, surface texture, tether visibility and depth cues until it appears as a glowing orb with unusual movement. Once compression, stabilisation and [digital zoom]({{ 'digital-zoom/' | relative_url }}) are added, the result can look dramatically different from the [original]({{ 'original-evidence/' | relative_url }}) target.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-light.svg" | relative_url }}" alt="Infrared orbs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-dark.svg" | relative_url }}" alt="Infrared orbs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This creates a recurring problem in AI-assisted UFO sighting investigation. Automated [review]({{ 'review/' | relative_url }}) systems may compare a thermal “orb” against databases of prior cases and conclude that the object is anomalous because its apparent shape and motion resemble unresolved sightings. Yet the same visual conditions can also make a common balloon appear mysterious. The key investigative question is not whether the footage looks strange in isolation, but whether the remaining evidence still supports a balloon explanation after thermal distortion, environmental data and motion analysis are considered together. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro 2024 annual report on uap.13762</span><span class="citation-popover-snippet">MetabunkAARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</span></span></span>
 
 ## How thermal blobs erase object shape
@@ -285,7 +294,7 @@ The result is that radically different objects begin to resemble one another. A 
 This is one reason why experienced image analysts are often more cautious than casual viewers. Human observers tend to interpret a smooth glowing orb as a coherent physical shape, but in thermal footage the orb may simply be the camera’s blurred representation of a much smaller and more ordinary target.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwyQkuzxp78" title="🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer">🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations</a></p><p class="youtube-embed-meta">Channel: Smart Globe Guide</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwyQkuzxp78">Open on YouTube</a></p></div></div></div>
 
 ## Why visual similarity inflates confidence
 
@@ -315,7 +324,7 @@ This becomes especially misleading when viewers see confidence percentages attac
 The danger increases when analysts rely on a single sensor source. Modern infrared observatories and experimental UAP monitoring systems increasingly emphasise multi-sensor collection because a thermal orb alone often lacks enough context to separate balloons from genuinely unusual targets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXiv1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and i...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-light.svg" | relative_url }}" alt="Infrared orbs illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-dark.svg" | relative_url }}" alt="Infrared orbs illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why balloons survive thermal ambiguity better than drones
 
 Both balloons and drones are commonly proposed explanations for infrared UFO footage, but balloons often fit degraded orb imagery more cleanly than drones do.
@@ -341,6 +350,9 @@ AARO has publicly released several infrared UAP cases later assessed as balloons
 
 That distinction is important for AI-assisted workflows. Shape alone is often [weak evidence]({{ 'weak-evidence/' | relative_url }}). Motion correlation with weather data is usually more valuable.
 
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UoAIrQ1uAEo" title="The UFO Files Didn’t Prove Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer">The UFO Files Didn’t Prove Aliens</a></p><p class="youtube-embed-meta">Channel: Render State</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UoAIrQ1uAEo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UoAIrQ1uAEo">Open on YouTube</a></p></div></div></div>
+
 ## What contradictions weaken a balloon match
 
 Thermal orb footage does not automatically reduce every sighting to a balloon explanation. Investigators still need to test whether the observed behaviour genuinely matches lighter-than-air drift.
@@ -351,12 +363,12 @@ Several contradictions can weaken or overturn a balloon hypothesis:
 
 If reliable atmospheric data shows winds moving east while the object travels rapidly north-west at multiple altitudes, the balloon explanation becomes weaker. Wind reconstruction is therefore one of the most important automated checks in a UFO workflow.
 
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-light.svg" | relative_url }}" alt="Infrared orbs illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Persistent controlled manoeuvres
 
 Short apparent turns can result from camera motion or perspective shift. Sustained controlled manoeuvres are harder to reconcile with free-floating balloons, especially when independently confirmed by radar or multiple observers.
 
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-dark.svg" | relative_url }}" alt="Infrared orbs illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Multiple synchronised sensors
 
 A thermal orb becomes more credible as an unknown when separate calibrated systems agree on the target’s position, speed and geometry. A single compressed infrared clip is far less persuasive than combined infrared, radar and visible-light tracking.
@@ -368,9 +380,6 @@ Some infrared videos contain brief moments where the object resolves into a reco
 ### Contradictory thermal behaviour
 
 Certain thermal patterns may not fit simple balloon physics. For example, a consistently hot object maintaining stable high-energy output without visible propulsion evidence may require additional scrutiny, though poor calibration can still create false impressions. NASA and other investigators repeatedly stress that sensor metadata is essential before interpreting apparent thermal anomalies literally. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thenationalnews.com">[The National]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thenationalnews.com</span><span class="citation-popover-title">nasas ufo report advises us government on how to detect mysterious objects</span><span class="citation-popover-snippet">Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwyQkuzxp78" title="🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer">🛸 What Are UFOs Really? | Common Misidentifications, Shapes &amp; Scientific Explanations</a></p><p class="youtube-embed-meta">Channel: Smart Globe Guide</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwyQkuzxp78" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwyQkuzxp78">Open on YouTube</a></p></div></div></div>
 
 ## Why human review still matters
 
@@ -394,152 +403,9 @@ In many UFO investigations, the strongest evidence is not the orb itself but the
 
 That is why modern UAP investigation increasingly treats infrared orb footage as a starting point rather than a conclusion. The footage may still document something unresolved, but thermal ambiguity alone is not strong evidence of anomaly. In many cases, it is exactly the condition that allows balloons to look most convincing.
 
-## Endnotes
 
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
-   Published: September 13, 2023  
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4NtVHGT2tgI" title="7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer">7 Nations Just EXPOSED The Pentagon&#x27;s Alien Lie &amp; Other UFO Stories</a></p><p class="youtube-embed-meta">Channel: The Infographics Show</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4NtVHGT2tgI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4NtVHGT2tgI">Open on YouTube</a></p></div></div></div>
 
-2. <a id="endnote-2"></a>
-   Source: metabunk.org  
-   Title: aaro 2024 annual report on uap.13762  
-   Link: [https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/](https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkAARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: nasa.gov  
-   Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6287927/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6287927/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThermal Image Enhancement through the Deconvolution...by F Lai · 2018 · Cited by 20 — In this work, we quantitatively demonstrated th...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: en.wikisource.org  
-   Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP is hampered by sensor calibration challenges and a lack of sensor metadata. In short, calibration ensures that future data gathered are...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and i...</p></details>
-   Published: May 2025  
-
-8. <a id="endnote-8"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2411.07956](https://arxiv.org/abs/2411.07956)  
-
-9. <a id="endnote-9"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Product...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsOn April 26, 2013, an infrared sensor onboard a U.S. Customs and Border Protection aircraft captured footage o...</p></details>
-   Published: April 26, 2013  
-
-11. <a id="endnote-11"></a>
-   Source: arxiv.org  
-   Link: [https://arxiv.org/html/2505.24705v1](https://arxiv.org/html/2505.24705v1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RT-X Net: RGB-Thermal cross attention network for Low-...30 May 2025 — To overcome these limitations, we propose a cross-attention netwo...</p></details>
-   Published: May 2025  
-
-12. <a id="endnote-12"></a>
-   Source: dvidshub.net  
-   Title: pr 010 uap report [resolved](&#123;&#123; 'solved-later/' | relative_url &#125;&#125;) balloon europe 2022  
-   Link: [https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022](https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSPR-010, UAP Report Resolved as a Balloon, Europe 2022Sep 15, 2025 — AARO bases its assessment on the object&#x27;s strong morphological c...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: thenationalnews.com  
-   Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: [https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/](https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: dvidshub.net  
-   Title: pr 006 uap report resolved balloon europe 2022  
-   Link: [https://www.dvidshub.net/video/977837/pr-006-uap-report-resolved-balloon-europe-2022](https://www.dvidshub.net/video/977837/pr-006-uap-report-resolved-balloon-europe-2022)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-006, UAP Report Resolved as a Balloon, Europe 2022AARO assesses, with high confidence, that the object depicted in the video is almost...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: dvidshub.net  
-   Title: pr 009 uap report resolved balloon europe 2022  
-   Link: [https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022](https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-009, UAP Report Resolved as a Balloon, Europe 2022AARO bases its assessment on the object&#x27;s strong morphological consistency with othe...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/unit/AARO](https://www.dvidshub.net/unit/AARO)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All Domain Anomaly Resolution OfficeThe United States Africa Command submitted a report of an unidentified anomalous phenomenon to the Al...</p></details>
-
-### Additional References
-
-17. <a id="endnote-17"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/](https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Two New Unresolved Videos of Spherical...AARO officially released three new videos. One of them was classified as identifi...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: studocu.com  
-   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: rp-photonics.com  
-   Link: [https://www.rp-photonics.com/thermal_imaging.html](https://www.rp-photonics.com/thermal_imaging.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal ImagingThe resolution of infrared images is often fairly low because infrared sensors cannot be made with as many pixels as those...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: satellitevu.com  
-   Link: [https://www.satellitevu.com/news/world-first-in-high-resolution-satellite-thermal-imaging-defines-new-era-of-climate-monitoring](https://www.satellitevu.com/news/world-first-in-high-resolution-satellite-thermal-imaging-defines-new-era-of-climate-monitoring)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>World first in high resolution satellite thermal imaging...9 Oct 2023 — Unlike previous images typically collected by current satellites...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: nps.edu  
-   Link: [https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf](https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf)  
-
-22. <a id="endnote-22"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/378974204_Infrared_thermal_imaging_camera_to_measure_low_temperature_thermal_fields](https://www.researchgate.net/publication/378974204_Infrared_thermal_imaging_camera_to_measure_low_temperature_thermal_fields)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Infrared thermal imaging camera to measure low...19 Mar 2024 — To measure low-temperature thermal fields, we have developed a sing...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: defensescoop.com  
-   Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
-   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: space.com  
-   Title: Insets from NASA's UAP independent study team's report, detailing  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: war.gov  
-   Title: dod examining unidentified anomalous phenomena  
-   Link: [https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 14, 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones...</p></details>
-
-26. <a id="endnote-26"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/wxyzdetroit/posts/experts-have-urged-caution-around-the-release-of-the-new-files-warning-that-uap-/1471793191642975/](https://www.facebook.com/wxyzdetroit/posts/experts-have-urged-caution-around-the-release-of-the-new-files-warning-that-uap-/1471793191642975/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>defense agencies have already acknowledged that some UAP incidents remain unexplained, particularly those involving objects showing unusu...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -655,75 +521,71 @@ That is why modern UAP investigation increasingly treats infrared orb footage as
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poste" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poste&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poste" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=infrared-orbs-why-infrared-orbs-fool-balloon-checks-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -781,10 +643,10 @@ That is why modern UAP investigation increasingly treats infrared orb footage as
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -932,3 +794,150 @@ That is why modern UAP investigation increasingly treats infrared orb footage as
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Title: Science Independent Study Team Report  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
+   Published: September 13, 2023  
+
+2. <a id="endnote-2"></a>
+   Source: metabunk.org  
+   Title: aaro 2024 annual report on uap.13762  
+   Link: [https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/](https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkAARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: nasa.gov  
+   Title: update nasa shares uap independent study report names director  
+   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: pmc.ncbi.nlm.nih.gov  
+   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC6287927/](https://pmc.ncbi.nlm.nih.gov/articles/PMC6287927/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThermal Image Enhancement through the Deconvolution...by F Lai · 2018 · Cited by 20 — In this work, we quantitatively demonstrated th...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: en.wikisource.org  
+   Title: Responses to Statement of Task  
+   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP is hampered by sensor calibration challenges and a lack of sensor metadata. In short, calibration ensures that future data gathered are...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/html/2506.00125v1](https://arxiv.org/html/2506.00125v1)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXiv1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and i...</p></details>
+   Published: May 2025  
+
+8. <a id="endnote-8"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/abs/2411.07956](https://arxiv.org/abs/2411.07956)  
+
+9. <a id="endnote-9"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeUAP Cases. Official UAP Imagery · UAP Case Resolution Reports · UAP Reporting Trends · UAP Records · Congressional/Press Product...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Case Resolution ReportsOn April 26, 2013, an infrared sensor onboard a U.S. Customs and Border Protection aircraft captured footage o...</p></details>
+   Published: April 26, 2013  
+
+11. <a id="endnote-11"></a>
+   Source: arxiv.org  
+   Link: [https://arxiv.org/html/2505.24705v1](https://arxiv.org/html/2505.24705v1)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>RT-X Net: RGB-Thermal cross attention network for Low-...30 May 2025 — To overcome these limitations, we propose a cross-attention netwo...</p></details>
+   Published: May 2025  
+
+12. <a id="endnote-12"></a>
+   Source: dvidshub.net  
+   Title: pr 010 uap report [resolved](&#123;&#123; 'solved-later/' | relative_url &#125;&#125;) balloon europe 2022  
+   Link: [https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022](https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DVIDSPR-010, UAP Report Resolved as a Balloon, Europe 2022Sep 15, 2025 — AARO bases its assessment on the object&#x27;s strong morphological c...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: thenationalnews.com  
+   Title: nasas ufo report advises us government on how to detect mysterious objects  
+   Link: [https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/](https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: dvidshub.net  
+   Title: pr 006 uap report resolved balloon europe 2022  
+   Link: [https://www.dvidshub.net/video/977837/pr-006-uap-report-resolved-balloon-europe-2022](https://www.dvidshub.net/video/977837/pr-006-uap-report-resolved-balloon-europe-2022)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-006, UAP Report Resolved as a Balloon, Europe 2022AARO assesses, with high confidence, that the object depicted in the video is almost...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: dvidshub.net  
+   Title: pr 009 uap report resolved balloon europe 2022  
+   Link: [https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022](https://www.dvidshub.net/video/977840/pr-009-uap-report-resolved-balloon-europe-2022)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-009, UAP Report Resolved as a Balloon, Europe 2022AARO bases its assessment on the object&#x27;s strong morphological consistency with othe...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: dvidshub.net  
+   Link: [https://www.dvidshub.net/unit/AARO](https://www.dvidshub.net/unit/AARO)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>All Domain Anomaly Resolution OfficeThe United States Africa Command submitted a report of an unidentified anomalous phenomenon to the Al...</p></details>
+
+### Additional References
+
+17. <a id="endnote-17"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/](https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Two New Unresolved Videos of Spherical...AARO officially released three new videos. One of them was classified as identifi...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: studocu.com  
+   Link: [https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671](https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: rp-photonics.com  
+   Link: [https://www.rp-photonics.com/thermal_imaging.html](https://www.rp-photonics.com/thermal_imaging.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Thermal ImagingThe resolution of infrared images is often fairly low because infrared sensors cannot be made with as many pixels as those...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: satellitevu.com  
+   Link: [https://www.satellitevu.com/news/world-first-in-high-resolution-satellite-thermal-imaging-defines-new-era-of-climate-monitoring](https://www.satellitevu.com/news/world-first-in-high-resolution-satellite-thermal-imaging-defines-new-era-of-climate-monitoring)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>World first in high resolution satellite thermal imaging...9 Oct 2023 — Unlike previous images typically collected by current satellites...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: nps.edu  
+   Link: [https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf](https://nps.edu/documents/110773463/165192597/CTX-EAG-Special-Issue-2026.pdf)  
+
+22. <a id="endnote-22"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/378974204_Infrared_thermal_imaging_camera_to_measure_low_temperature_thermal_fields](https://www.researchgate.net/publication/378974204_Infrared_thermal_imaging_camera_to_measure_low_temperature_thermal_fields)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Infrared thermal imaging camera to measure low...19 Mar 2024 — To measure low-temperature thermal fields, we have developed a sing...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: defensescoop.com  
+   Title: uap aaro chief unveils pentagon annual caseload analysis new efforts  
+   Link: [https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/](https://defensescoop.com/2024/11/14/uap-aaro-chief-unveils-pentagon-annual-caseload-analysis-new-efforts/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truly anomalous&#x27;: New AARO chief unveils Pentagon&#x27;s...14 Nov 2024 — “AARO has successfully resolved hundreds of cases in its holdin...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: space.com  
+   Title: Insets from NASA's UAP independent study team's report, detailing  
+   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: war.gov  
+   Title: dod examining unidentified anomalous phenomena  
+   Link: [https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/](https://www.war.gov/News/News-Stories/Article/article/3965403/dod-examining-unidentified-anomalous-phenomena/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 14, 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings to commonplace objects such as balloons, birds, drones...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/wxyzdetroit/posts/experts-have-urged-caution-around-the-release-of-the-new-files-warning-that-uap-/1471793191642975/](https://www.facebook.com/wxyzdetroit/posts/experts-have-urged-caution-around-the-release-of-the-new-files-warning-that-uap-/1471793191642975/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>defense agencies have already acknowledged that some UAP incidents remain unexplained, particularly those involving objects showing unusu...</p></details>

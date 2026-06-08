@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Fast Across the Screen Does Not Mean Fast | Video Limits
 parent_permalink: /angular-motion/
 parent_nav_short_title: Angular Motion
+parent_heading_title: Fast Across the Screen Does Not Mean Fast
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91
   title: Angular Motion | Video Limits
   permalink: /angular-motion/
   short_title: Angular Motion
+  heading_title: Fast Across the Screen Does Not Mean Fast
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,42 +231,48 @@ breadcrumb_links:
   title: Video Limits | Can AI Help Explain UFO Sightings?
   permalink: /video-limits/
   short_title: Video Limits
+  heading_title: Why Clear UFO Videos Can Still Mislead
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91
   title: Angular Motion | Video Limits
   permalink: /angular-motion/
   short_title: Angular Motion
+  heading_title: Fast Across the Screen Does Not Mean Fast
 sibling_links:
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5
-  title: GoFast parallax | Angular Motion
-  permalink: /gofast-parallax-157b6a/
-  short_title: GoFast parallax
+  title: Go Fast parallax | Angular Motion
+  permalink: /go-fast-parallax-157b6a/
+  short_title: Go Fast parallax
+  heading_title: Why Go Fast looked faster than it was
 - basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc
   title: Range problem | Angular Motion
   permalink: /range-problem/
   short_title: Range problem
+  heading_title: The missing distance behind UFO speed claims
 up_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91
   title: Angular Motion | Video Limits
   permalink: /angular-motion/
   short_title: Angular Motion
+  heading_title: Fast Across the Screen Does Not Mean Fast
 prev_link:
   basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc
   title: Range problem | Angular Motion
   permalink: /range-problem/
   short_title: Range problem
-date: '2026-05-28 03:08:21 '
+  heading_title: The missing distance behind UFO speed claims
+date: '2026-06-09 00:14:04 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-social.jpg
 ---
 
 ## Introduction
 
-A UFO video only becomes useful for speed analysis when the scene contains fixed, measurable reference points. Without them, investigators are often left with the same problem described in broader discussions of [angular motion]({{ 'angular-motion/' | relative_url }}): an object may appear to move dramatically across the frame while its real-world velocity remains unknown. A nearby insect, a distant [aircraft]({{ 'aircraft/' | relative_url }}) and a balloon drifting with the wind can all produce similar apparent motion under the right viewing conditions.
+A UFO video only becomes useful for speed analysis when the scene contains fixed, measurable reference points. Without them, investigators are often left with the same problem described in broader discussions of [angular motion]({{ 'angular-motion/' | relative_url }}): an object may appear to move dramatically across the frame while its real-world velocity remains unknown. A nearby insect, a distant aircraft and a balloon drifting with the wind can all produce similar apparent motion under the right viewing conditions.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-light.svg" | relative_url }}" alt="Reference points illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-dark.svg" | relative_url }}" alt="Reference points illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 What changes the situation is geometry. Horizon lines, buildings, mountain ridges, stars, aircraft transponder data, radar tracks, camera metadata and synchronized timestamps can turn a vague visual impression into a constrained reconstruction. In AI-assisted UFO sighting investigation, the key question is not simply “how fast did it look?” but “what independent anchors let investigators estimate distance, angle, timing and motion?” NASA’s UAP study stressed that reliable analysis is frequently blocked by poor calibration, missing metadata and lack of multiple measurements. NASA Science Nextgov The difference between a sensational clip and a measurable event is often the presence of those anchors. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[nextgov.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-title">nasa report finds no evidence ufos are extraterrestrial</span><span class="citation-popover-snippet">Nextgov/FCWNASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor c...</span></span></span>
 
 ## Scene anchors that constrain distance
@@ -406,7 +415,7 @@ AI-assisted workflows can automatically extract and standardise this information
 In UFO investigations, these details matter because small timing errors can create wildly inflated speed estimates.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-2-light.svg" | relative_url }}" alt="Reference points illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-2-dark.svg" | relative_url }}" alt="Reference points illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aircraft and radar correlation
 
 One of the most useful external reference systems is civilian aviation tracking.
@@ -452,7 +461,7 @@ The AARO “GoFast” analysis noted that reconstructed motion was consistent wi
 This does not mean every unusual sighting is reducible to wind drift. It means environmental data provides measurable constraints that many viral discussions ignore.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-3-light.svg" | relative_url }}" alt="Reference points illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-3-dark.svg" | relative_url }}" alt="Reference points illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_reference_poi_4f35bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When AI should refuse a precise speed number
 
 ### False precision is a major risk
@@ -487,7 +496,7 @@ NASA’s study team warned that many UAP cases remain unresolved largely because
 An unresolved case is not automatically extraordinary. Sometimes it simply means the measurement problem cannot be solved from the available evidence.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6xUqTKQrMr0" title="how the horizon line ACTUALLY works - perspective 101" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6xUqTKQrMr0" target="_blank" rel="noopener noreferrer">how the horizon line ACTUALLY works - perspective 101</a></p><p class="youtube-embed-meta">Channel: brokendraw &middot; Views: 28.0K &middot; Uploaded: November 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6xUqTKQrMr0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6xUqTKQrMr0">Open on YouTube</a></p></div></div></div>
 
 ### Better outputs than a fake exact answer
 
@@ -527,160 +536,6 @@ By contrast, less exciting-looking footage can become highly valuable when paire
 That distinction sits at the heart of AI-assisted UFO sighting investigation. The central challenge is not merely collecting more videos. It is collecting better contextual anchors around those videos.
 
 Reference points turn spectacle into measurement. Without them, claims about extraordinary speed remain largely impressionistic, no matter how convincing the footage first appears.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: nextgov.com  
-   Title: nasa report finds no evidence ufos are extraterrestrial  
-   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWNASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor c...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: aaro.mil  
-   Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO assesses the object did not demonstrate anomalous performance characteristics. The objec...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: aaro.mil  
-   Title: all-domain anomaly  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf](https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>resolution office19 Nov 2024 — The perception of high speed was attributed to motion parallax. ▫ Reconstruction confirmed the objects tra...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: meritalk.com  
-   Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: academia.edu  
-   Link: [https://www.academia.edu/96495143/Determination_of_Vehicle_Speed_from_Recorded_Video_Using_Reverse_Projection_Photogrammetry_and_File_Metadata](https://www.academia.edu/96495143/Determination_of_Vehicle_Speed_from_Recorded_Video_Using_Reverse_Projection_Photogrammetry_and_File_Metadata)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaDetermination of Vehicle Speed from Recorded Video...January 1, 2019 — Accurate vehicle speed calculation can utilize frame timi...</p></details>
-   Published: January 1, 2019  
-
-7. <a id="endnote-7"></a>
-   Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/332040942_Determination_of_Vehicle_Speed_from_Recorded_Video_Using_Reverse_Projection_Photogrammetry_and_File_Metadata](https://www.researchgate.net/publication/332040942_Determination_of_Vehicle_Speed_from_Recorded_Video_Using_Reverse_Projection_Photogrammetry_and_File_Metadata)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ition in the real world and extracted the time interval based on the metadata...Read more...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: aaro.mil  
-   Title: 2025 UAP Workshop Paper  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...Discussions revealed the scope of the UAP data landscape as a patchwork of his...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...Figure 3: Parallax causes the position of an object to be projected at different...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: space.com  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;Think about it: Most UAP sightings result in very limited data...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: aaro.com  
-   Title: Your Partner in Group Reporting | CPM software & more  
-   Link: [https://aaro.com/en/](https://aaro.com/en/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: repository.cam.ac.uk  
-   Title: Cambridge Repository A [Review](&#123;&#123; 'review/' | relative_url &#125;&#125;) of Photogrammetry and Visual SLAM Approaches  
-   Link: [https://www.repository.cam.ac.uk/bitstreams/3d27a00c-46b3-4d69-85f1-72ecbf14d33c/download](https://www.repository.cam.ac.uk/bitstreams/3d27a00c-46b3-4d69-85f1-72ecbf14d33c/download)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge RepositoryA Review of Photogrammetry and Visual SLAM ApproachesMarch 13, 2026 — by A Javadi Moghadam · 2026 — This study invest...</p></details>
-   Published: March 13, 2026  
-
-15. <a id="endnote-15"></a>
-   Source: scientificamerican.com  
-   Title: bad data not aliens may be behind ufo surge nasa team says  
-   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP event, he said, primarily because of a lack of quality control and poor data curation. One idea already bandied about by the panel is...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: pwkinternational.com  
-   Link: [https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/](https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — Contracts will increasingly specify metadata, synchronized timestamps, geolocatio...</p></details>
-
-### Additional References
-
-18. <a id="endnote-18"></a>
-   Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: rev.com  
-   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: pix-pro.com  
-   Link: [https://www.pix-pro.com/blog/referencing](https://www.pix-pro.com/blog/referencing)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Referencing in Photogrammetry – Important BasicsReferencing in photogrammetry is a set of actions in the field and post-processing that a...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: ufotransparency.com  
-   Link: [https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final](https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...AARO&#x27;s February 2025 case resolution concludes with high confidence that t...</p></details>
-   Published: February 2025  
-
-22. <a id="endnote-22"></a>
-   Source: arstechnica.com  
-   Title: nasa panel no convincing evidence for extraterrestrial life connected with uaps  
-   Link: [https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/](https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel: No convincing evidence for extraterrestrial life...1 Jun 2023 — Lamenting the poor quality of UAP sighting data—especially t...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
-
-24. <a id="endnote-24"></a>
-   Source: skyandtelescope.org  
-   Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/[astronomy](https://skyandtelescope.org/[astronomy)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
-
-25. <a id="endnote-25"></a>
-   Source: jsheld.com  
-   Title: SAE Video and Object Tracking for Speed Determination Using USGS Li DAR  
-   Link: [https://www.jsheld.com/uploads/SAE-Video-and-Object-Tracking-for-Speed-Determination-Using-USGS-LiDAR.pdf](https://www.jsheld.com/uploads/SAE-Video-and-Object-Tracking-for-Speed-Determination-Using-USGS-LiDAR.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>T Terpstra · 2024 · Cited by 5 — Video tracking is a photogrammetry-based me...</p></details>
-
-26. <a id="endnote-26"></a>
-   Source: wbznewsradio.iheart.com  
-   Title: 2024 11 20 pentagon solves one its highest profile ufo cases  
-   Link: [https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/](https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO Cases20 Nov 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolved one of its...</p></details>
-
-27. <a id="endnote-27"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -796,75 +651,71 @@ Reference points turn spectacle into measurement. Without them, claims about ext
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reference-points-what-makes-ufo-speed-measurable-on-video-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -922,10 +773,10 @@ Reference points turn spectacle into measurement. Without them, claims about ext
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1073,3 +924,157 @@ Reference points turn spectacle into measurement. Without them, claims about ext
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: nextgov.com  
+   Title: nasa report finds no evidence ufos are extraterrestrial  
+   Link: [https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/](https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWNASA report finds no evidence that UFOs are extraterrestrial15 Sept 2023 — Analysis of this data is “hampered by poor sensor c...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: aaro.mil  
+   Title: [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) Case Resolution Card Methodology Final  
+   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO assesses the object did not demonstrate anomalous performance characteristics. The objec...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: aaro.mil  
+   Title: all-domain anomaly  
+   Link: [https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf](https://www.aaro.mil/Portals/136/PDFs/SASC_AARO_Open_Hearing_Case_Slides_19Nov2024.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>resolution office19 Nov 2024 — The perception of high speed was attributed to motion parallax. ▫ Reconstruction confirmed the objects tra...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: meritalk.com  
+   Title: nasa urged to take more permanent role in uap research effort  
+   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: academia.edu  
+   Link: [https://www.academia.edu/96495143/Determination_of_Vehicle_Speed_from_Recorded_Video_Using_Reverse_Projection_Photogrammetry_and_File_Metadata](https://www.academia.edu/96495143/Determination_of_Vehicle_Speed_from_Recorded_Video_Using_Reverse_Projection_Photogrammetry_and_File_Metadata)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcademiaDetermination of Vehicle Speed from Recorded Video...January 1, 2019 — Accurate vehicle speed calculation can utilize frame timi...</p></details>
+   Published: January 1, 2019  
+
+7. <a id="endnote-7"></a>
+   Source: researchgate.net  
+   Link: [https://www.researchgate.net/publication/332040942_Determination_of_Vehicle_Speed_from_Recorded_Video_Using_Reverse_Projection_Photogrammetry_and_File_Metadata](https://www.researchgate.net/publication/332040942_Determination_of_Vehicle_Speed_from_Recorded_Video_Using_Reverse_Projection_Photogrammetry_and_File_Metadata)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ition in the real world and extracted the time interval based on the metadata...Read more...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: aaro.mil  
+   Title: 2025 UAP Workshop Paper  
+   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/2025_UAP_Workshop_Paper.pdf)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 UAP Workshop: Narrative Data, Infrastructures, and...Discussions revealed the scope of the UAP data landscape as a patchwork of his...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Effect_of_Forced_Perspective_and_Parallax_View_on_UAP_Observations_2024.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Effect of Forced Perspective and Parallax View on UAP...Figure 3: Parallax causes the position of an object to be projected at different...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: space.com  
+   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;Think about it: Most UAP sightings result in very limited data...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: aaro.com  
+   Title: Your Partner in Group Reporting | CPM software & more  
+   Link: [https://aaro.com/en/](https://aaro.com/en/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Complete software, wide range of services, online support...Read more...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: science.nasa.gov  
+   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — The study will focus on identifying available data, how best to collect future data, and how NASA can use that da...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: repository.cam.ac.uk  
+   Title: Cambridge Repository A [Review](&#123;&#123; 'review/' | relative_url &#125;&#125;) of Photogrammetry and Visual SLAM Approaches  
+   Link: [https://www.repository.cam.ac.uk/bitstreams/3d27a00c-46b3-4d69-85f1-72ecbf14d33c/download](https://www.repository.cam.ac.uk/bitstreams/3d27a00c-46b3-4d69-85f1-72ecbf14d33c/download)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge RepositoryA Review of Photogrammetry and Visual SLAM ApproachesMarch 13, 2026 — by A Javadi Moghadam · 2026 — This study invest...</p></details>
+   Published: March 13, 2026  
+
+15. <a id="endnote-15"></a>
+   Source: scientificamerican.com  
+   Title: bad data not aliens may be behind ufo surge nasa team says  
+   Link: [https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/](https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP event, he said, primarily because of a lack of quality control and poor data curation. One idea already bandied about by the panel is...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: dvidshub.net  
+   Link: [https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/977839/pr-008-unresolved-uap-report-europe-2022)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PR-008, Unresolved UAP Report, Europe 2022The United States European Command submitted a report of an unidentified anomalous phenomenon t...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: pwkinternational.com  
+   Link: [https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/](https://pwkinternational.com/2025/11/11/uap-unidentified-anomaly-or-demand-signal/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP | An Uncertainty Tax &amp; Demand Signal |11 Nov 2025 — Contracts will increasingly specify metadata, synchronized timestamps, geolocatio...</p></details>
+
+### Additional References
+
+18. <a id="endnote-18"></a>
+   Source: pbs.org  
+   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: rev.com  
+   Link: [https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript](https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot provid...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: pix-pro.com  
+   Link: [https://www.pix-pro.com/blog/referencing](https://www.pix-pro.com/blog/referencing)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Referencing in Photogrammetry – Important BasicsReferencing in photogrammetry is a set of actions in the field and post-processing that a...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: ufotransparency.com  
+   Link: [https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final](https://ufotransparency.com/files/decade-2020s-aaro-gofast-case-resolution-2025-aaro-gofast-case-resolution-card-methodology-final)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Resolves Go Fast as Parallax, 2025, All-domain Anomaly...AARO&#x27;s February 2025 case resolution concludes with high confidence that t...</p></details>
+   Published: February 2025  
+
+22. <a id="endnote-22"></a>
+   Source: arstechnica.com  
+   Title: nasa panel no convincing evidence for extraterrestrial life connected with uaps  
+   Link: [https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/](https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel: No convincing evidence for extraterrestrial life...1 Jun 2023 — Lamenting the poor quality of UAP sighting data—especially t...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=TQcqOW39ksk](https://www.youtube.com/watch?v=TQcqOW39ksk)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena Independent Study ReportNASA commissioned an independent study team to examine unidentified anomalous ph...</p></details>
+
+24. <a id="endnote-24"></a>
+   Source: skyandtelescope.org  
+   Title: nasa finds no evidence ufos are extraterrestrial promises further study  
+   Link: [https://skyandtelescope.org/[astronomy](https://skyandtelescope.org/[astronomy)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>First, UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadat...</p></details>
+
+25. <a id="endnote-25"></a>
+   Source: jsheld.com  
+   Title: SAE Video and Object Tracking for Speed Determination Using USGS Li DAR  
+   Link: [https://www.jsheld.com/uploads/SAE-Video-and-Object-Tracking-for-Speed-Determination-Using-USGS-LiDAR.pdf](https://www.jsheld.com/uploads/SAE-Video-and-Object-Tracking-for-Speed-Determination-Using-USGS-LiDAR.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>T Terpstra · 2024 · Cited by 5 — Video tracking is a photogrammetry-based me...</p></details>
+
+26. <a id="endnote-26"></a>
+   Source: wbznewsradio.iheart.com  
+   Title: 2024 11 20 pentagon solves one its highest profile ufo cases  
+   Link: [https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/](https://wbznewsradio.iheart.com/content/2024-11-20-pentagon-solves-one-its-highest-profile-ufo-cases/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Solves One Its Highest-Profile UFO Cases20 Nov 2024 — The Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) has resolved one of its...</p></details>
+
+27. <a id="endnote-27"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/](https://www.reddit.com/r/UFOs/comments/1gv8xak/aaro_has_resolved_the_go_fast_uap/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind speed at that altitude was 60 knots. Object moved in a relatively straight...Read more...</p></details>

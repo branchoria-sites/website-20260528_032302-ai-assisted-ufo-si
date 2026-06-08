@@ -206,6 +206,7 @@ ui_strings:
 parent_title: Why bright stars seem to flash and move | Astronomy
 parent_permalink: /twinkling-stars/
 parent_nav_short_title: Twinkling stars
+parent_heading_title: Why bright stars seem to flash and move
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -215,10 +216,12 @@ ancestor_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -228,34 +231,40 @@ breadcrumb_links:
   title: Astronomy | Can AI Help Explain UFO Sightings?
   permalink: /astronomy/
   short_title: Astronomy
+  heading_title: Was the UFO Really in the Sky Map?
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
 sibling_links:
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e
   title: Scintillation | Twinkling stars
   permalink: /scintillation/
   short_title: Scintillation
+  heading_title: When twinkling becomes a flashing craft
 - basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d
   title: Sirius | Twinkling stars
   permalink: /sirius/
   short_title: Sirius
+  heading_title: Why Sirius fools so many UFO witnesses
 up_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
   title: Twinkling stars | Astronomy
   permalink: /twinkling-stars/
   short_title: Twinkling stars
+  heading_title: Why bright stars seem to flash and move
 next_link:
   basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e
   title: Scintillation | Twinkling stars
   permalink: /scintillation/
   short_title: Scintillation
-date: '2026-05-28 02:33:11 '
+  heading_title: When twinkling becomes a flashing craft
+date: '2026-06-08 23:40:56 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -263,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 When witnesses report a flashing light that “hovered”, “shifted sideways” or “darted slightly”, one of the fastest reality checks is surprisingly simple: did the light stay fixed relative to nearby landmarks? A bright star low on the horizon can appear restless because of [atmospheric]({{ 'scintillation/' | relative_url }}) [scintillation]({{ 'scintillation/' | relative_url }}), eye movement, drifting cloud gaps and handheld camera shake, even while remaining in the same true sky position. In many UFO investigations, rooftops, chimneys, trees, pylons or hill lines become more useful than the light itself.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-light.svg" | relative_url }}" alt="Landmarks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-dark.svg" | relative_url }}" alt="Landmarks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this matters because apparent movement is often the dividing line between a probable astronomical explanation and a genuinely moving object. A structured workflow that compares the light against fixed foreground references can rapidly separate “the light moved” from “the observer or scene moved”. That distinction is especially important in reports involving flashing stars such as Sirius, Capella or Vega, which are repeatedly mistaken for [hovering]({{ 'wind-checks/' | relative_url }}) craft when viewed through unstable atmosphere near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryAutokinetic Effect | SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>
 
 ## Why dark skies make motion hard to judge
@@ -386,7 +395,7 @@ This matters in windy conditions. A witness may unconsciously use a moving branc
 AI-assisted workflows therefore benefit from confidence scoring rather than binary conclusions.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-light.svg" | relative_url }}" alt="Landmarks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-dark.svg" | relative_url }}" alt="Landmarks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI records uncertainty in a star match
 
 Modern UFO investigation systems increasingly treat astronomical identification as a probabilistic process rather than a simple yes-or-no answer. Landmark testing becomes one input among several.
@@ -441,7 +450,7 @@ A result might read:
 That approach keeps the investigation evidence-led. The witness experience is acknowledged without overstating what the footage objectively shows.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-light.svg" | relative_url }}" alt="Landmarks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-dark.svg" | relative_url }}" alt="Landmarks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why uncertainty matters
 
 Not every flashing-light case cleanly resolves into “just a star”. Poor footage, incomplete timing data or obstructed foregrounds can leave ambiguity.
@@ -501,135 +510,6 @@ The key point is not that all flashing UFO reports reduce to stars. It is that f
 Sophisticated AI tools, image analysis systems and astronomical databases are increasingly useful in UFO investigations, but some of the strongest evidence still comes from ordinary visual anchors. A chimney edge or hill silhouette can reveal more about a flashing light than extreme digital zoom ever will.
 
 That is partly because landmark testing addresses a central weakness in human night-time observation: people are far better at noticing brightness and colour changes than judging precise motion in darkness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary In practical investigations]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryAutokinetic Effect | SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>, the question often becomes less “What was the light?” and more “Did the light itself move at all?” Once that question is answered carefully, many apparently mysterious flashing-object reports become much easier to classify.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: Wikipedia  
-   Title: Autokinetic effect  
-   Link: [https://en.wikipedia.org/wiki/Autokinetic_effect](https://en.wikipedia.org/wiki/Autokinetic_effect)  
-
-2. <a id="endnote-2"></a>
-   Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/autokinetic-effect](https://skybrary.aero/articles/autokinetic-effect)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryAutokinetic Effect | SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/](https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/UFOsAs soon as I hear music start on any UFO video I just shut it off.... The flashing colors are called scintillati...</p></details>
-
-4. <a id="endnote-4"></a>
-   Source: researchgate.net  
-   Title: Fixational eye movements and the autokinetic illusion  
-   Link: [https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion](https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 23, 2010 — 23 Feb 2026 — A stationary point light source in an otherwise completely dark room is often perceived as moving, a pheno...</p></details>
-   Published: March 23, 2010  
-
-5. <a id="endnote-5"></a>
-   Source: bresser.com  
-   Link: [https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/](https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BresserZodiac Signs &amp; Constellations in the Night SkyThe stars seem to move in the sky, because the earth rotates around its own axis. Th...</p></details>
-
-6. <a id="endnote-6"></a>
-   Source: researchgate.net  
-   Title: Estimation of based on scintillation of fixed targets imaged  
-   Link: [https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence](https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 26, 2015 — We define a pixel-based scintillation index for dynamic incoherent imaging of fixed high-contrast targets through atm...</p></details>
-   Published: November 26, 2015  
-
-7. <a id="endnote-7"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/](https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditA “flickering” object in the northern hemisphere: r/askastronomyCould be Polaris, but most bright stars can flicker. Just use the...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/](https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw a phenomenon in the sky last night that I have never...Article: The Autokinetic effect is an optical illusion that makes stars loo...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: youtube.com  
-   Title: Visual Illusions Every Pilot Should Know  
-   Link: [http://www.youtube.com/watch?v=4gG9RlbPb5Q](http://www.youtube.com/watch?v=4gG9RlbPb5Q)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Autokinetic Effect - Social Influence &amp; Group Processes | Class 12 Psychology Chapter 7...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: youtube.com  
-   Title: The Autokinetic Effect  
-   Link: [http://www.youtube.com/watch?v=cZUHoyEderQ](http://www.youtube.com/watch?v=cZUHoyEderQ)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#mpc004 Social Psychology Experiment By Sherif | #autokineticeffect...</p></details>
-
-11. <a id="endnote-11"></a>
-   Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=hxRw4pNGIyA](http://www.youtube.com/watch?v=hxRw4pNGIyA)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: youtube.com  
-   Title: Magnet Brains  
-   Link: [https://www.youtube.com/watch?v=b12rHkg1gsw](https://www.youtube.com/watch?v=b12rHkg1gsw)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Autokinetic Effect | #mpc004 Social Psychology Experiment By Sherif | #autokineticeffect Achiever&#x27;s Hive...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: newspaceeconomy.ca  
-   Title: New Space Economy Decoding the Unidentified: A Comprehensive Analysis of UAP  
-   Link: [https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/](https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</p></details>
-
-### Additional References
-
-14. <a id="endnote-14"></a>
-   Source: conference.sdo.esoc.esa.int  
-   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/344/SDC9-paper344.pdf](https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/344/SDC9-paper344.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Proceedings DatabaseATMOSPHERIC SCINTILLATION IN RESIDENT...by M Kuhn — A particular focus was placed on how the scintillation noise...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/seestar/posts/816042597874691/](https://www.facebook.com/groups/seestar/posts/816042597874691/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star clusters visible with binocularsThis low to the horizon, the light scatter was terrible, so the cluster, though distinct through the...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: facebook.com  
-   Link: [https://www.facebook.com/groups/5889909863/posts/10160545347924864/](https://www.facebook.com/groups/5889909863/posts/10160545347924864/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Autokinetic Effect in AstronomyBasically your brain will impart movement to a stationary object, especially if it&#x27;s a p...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: sky-lens.com  
-   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
-
-18. <a id="endnote-18"></a>
-   Source: facebook.com  
-   Title: whats in the night sky february saturn and jupiter winter hexagon asterism artem  
-   Link: [https://www.facebook.com/NationalSpaceCentre/posts/whats-in-the-night-sky-february-saturn-and-jupiter-winter-hexagon-asterism-artem/1342907911203037/](https://www.facebook.com/NationalSpaceCentre/posts/whats-in-the-night-sky-february-saturn-and-jupiter-winter-hexagon-asterism-artem/1342907911203037/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s in the night sky? February 🔭 🪐 Saturn and Jupiter...TWINKLE TWINKLE LITTLE STAR You can tell whether you are looking at a planet...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DKQ8XuCINUU](https://www.youtube.com/watch?v=DKQ8XuCINUU)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introductory Astronomy: Motions of the StarsVideo lecture that explains the apparent motion of stars in the sky using the celestial spher...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: study.com  
-   Link: [https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html](https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparent Motion of Stars &amp; Planets | Overview &amp; TypesApparent motion is what happens when something that is not moving appears to move. T...</p></details>
-
-21. <a id="endnote-21"></a>
-   Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=xuWscrshR4o](http://www.youtube.com/watch?v=xuWscrshR4o)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to investigate ufo sightings using fixed landmarks What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral...</p></details>
-
-22. <a id="endnote-22"></a>
-   Source: scholarship.richmond.edu  
-   Title: UR Scholarship Repository"Autokinetic Effect" by Donelson R  
-   Link: [https://scholarship.richmond.edu/jepson-faculty-publications/162/](https://scholarship.richmond.edu/jepson-faculty-publications/162/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forsythby DR Forsyth · 2008 — The autokinetic effect is an optical illusion. It occurs when a perceiver staring at a stationary pinpoint...</p></details>
-
-23. <a id="endnote-23"></a>
-   Source: academia.edu  
-   Title: (PDF) UFOs and the extraterrestrial contact movement  
-   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigations in the early days. His stance as a genuinely open-minded fact finder deflated for a time the charges of an Air Force c...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -745,75 +625,71 @@ That is partly because landmark testing addresses a central weakness in human ni
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron SkyMaster 71018 Binocular and tripod"><img src="{{ '/assets/images/marketplace-covers/0fdc8b4d609b8ce92a6e.jpg' | relative_url }}" alt="Listing image for Celestron SkyMaster 71018 Binocular and tripod" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron SkyMaster 71018 Binocular and tripod</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-t&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-t" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20X80 Binoculars 71018"><img src="{{ '/assets/images/marketplace-covers/01b43abb3fca5d0a5151.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20X80 Binoculars 71018" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20X80 Binoculars 71018</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)"><img src="{{ '/assets/images/marketplace-covers/8de3efba5d662da79140.jpg' | relative_url }}" alt="Listing image for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New"><img src="{{ '/assets/images/marketplace-covers/dc9cf14405df7bf77e6d.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-did-the-light-move-or-did-the-scene-move-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-t&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -871,10 +747,10 @@ That is partly because landmark testing addresses a central weakness in human ni
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1022,3 +898,132 @@ That is partly because landmark testing addresses a central weakness in human ni
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Autokinetic effect  
+   Link: [https://en.wikipedia.org/wiki/Autokinetic_effect](https://en.wikipedia.org/wiki/Autokinetic_effect)  
+
+2. <a id="endnote-2"></a>
+   Source: skybrary.aero  
+   Link: [https://skybrary.aero/articles/autokinetic-effect](https://skybrary.aero/articles/autokinetic-effect)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryAutokinetic Effect | SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/](https://www.reddit.com/r/UFOs/comments/1k3wguz/what_is_this/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is this??: r/UFOsAs soon as I hear music start on any UFO video I just shut it off.... The flashing colors are called scintillati...</p></details>
+
+4. <a id="endnote-4"></a>
+   Source: researchgate.net  
+   Title: Fixational eye movements and the autokinetic illusion  
+   Link: [https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion](https://www.researchgate.net/publication/245614384_Fixational_eye_movements_and_the_autokinetic_illusion)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>March 23, 2010 — 23 Feb 2026 — A stationary point light source in an otherwise completely dark room is often perceived as moving, a pheno...</p></details>
+   Published: March 23, 2010  
+
+5. <a id="endnote-5"></a>
+   Source: bresser.com  
+   Link: [https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/](https://www.bresser.com/guidebook/astronomy/the-view-of-the-starry-sky/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>BresserZodiac Signs &amp; Constellations in the Night SkyThe stars seem to move in the sky, because the earth rotates around its own axis. Th...</p></details>
+
+6. <a id="endnote-6"></a>
+   Source: researchgate.net  
+   Title: Estimation of based on scintillation of fixed targets imaged  
+   Link: [https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence](https://www.researchgate.net/publication/284551311_Estimation_of_based_on_scintillation_of_fixed_targets_imaged_through_atmospheric_turbulence)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>November 26, 2015 — We define a pixel-based scintillation index for dynamic incoherent imaging of fixed high-contrast targets through atm...</p></details>
+   Published: November 26, 2015  
+
+7. <a id="endnote-7"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/](https://www.reddit.com/r/askastronomy/comments/1fhig5z/a_flickering_object_in_the_northern_hemisphere/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditA “flickering” object in the northern hemisphere: r/askastronomyCould be Polaris, but most bright stars can flicker. Just use the...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: reddit.com  
+   Link: [https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/](https://www.reddit.com/r/space/comments/d6ne8j/i_saw_a_phenomenon_in_the_sky_last_night_that_i/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>I saw a phenomenon in the sky last night that I have never...Article: The Autokinetic effect is an optical illusion that makes stars loo...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: youtube.com  
+   Title: Visual Illusions Every Pilot Should Know  
+   Link: [http://www.youtube.com/watch?v=4gG9RlbPb5Q](http://www.youtube.com/watch?v=4gG9RlbPb5Q)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Autokinetic Effect - Social Influence &amp; Group Processes | Class 12 Psychology Chapter 7...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: youtube.com  
+   Title: The Autokinetic Effect  
+   Link: [http://www.youtube.com/watch?v=cZUHoyEderQ](http://www.youtube.com/watch?v=cZUHoyEderQ)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>#mpc004 Social Psychology Experiment By Sherif | #autokineticeffect...</p></details>
+
+11. <a id="endnote-11"></a>
+   Source: youtube.com  
+   Link: [http://www.youtube.com/watch?v=hxRw4pNGIyA](http://www.youtube.com/watch?v=hxRw4pNGIyA)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: youtube.com  
+   Title: Magnet Brains  
+   Link: [https://www.youtube.com/watch?v=b12rHkg1gsw](https://www.youtube.com/watch?v=b12rHkg1gsw)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Autokinetic Effect | #mpc004 Social Psychology Experiment By Sherif | #autokineticeffect Achiever&#x27;s Hive...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: newspaceeconomy.ca  
+   Title: New Space Economy Decoding the Unidentified: A Comprehensive Analysis of UAP  
+   Link: [https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/](https://newspaceeconomy.ca/2025/12/02/decoding-the-unidentified-a-comprehensive-analysis-of-uap-explanations/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites in low Earth orbit reflect sunlight and appear as moving stars. Large formations, such...Read more...</p></details>
+
+### Additional References
+
+14. <a id="endnote-14"></a>
+   Source: conference.sdo.esoc.esa.int  
+   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/344/SDC9-paper344.pdf](https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/344/SDC9-paper344.pdf)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESA Proceedings DatabaseATMOSPHERIC SCINTILLATION IN RESIDENT...by M Kuhn — A particular focus was placed on how the scintillation noise...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/seestar/posts/816042597874691/](https://www.facebook.com/groups/seestar/posts/816042597874691/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star clusters visible with binocularsThis low to the horizon, the light scatter was terrible, so the cluster, though distinct through the...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: facebook.com  
+   Link: [https://www.facebook.com/groups/5889909863/posts/10160545347924864/](https://www.facebook.com/groups/5889909863/posts/10160545347924864/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding the Autokinetic Effect in AstronomyBasically your brain will impart movement to a stationary object, especially if it&#x27;s a p...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: sky-lens.com  
+   Link: [https://sky-lens.com/guide](https://sky-lens.com/guide)  
+
+18. <a id="endnote-18"></a>
+   Source: facebook.com  
+   Title: whats in the night sky february saturn and jupiter winter hexagon asterism artem  
+   Link: [https://www.facebook.com/NationalSpaceCentre/posts/whats-in-the-night-sky-february-saturn-and-jupiter-winter-hexagon-asterism-artem/1342907911203037/](https://www.facebook.com/NationalSpaceCentre/posts/whats-in-the-night-sky-february-saturn-and-jupiter-winter-hexagon-asterism-artem/1342907911203037/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s in the night sky? February 🔭 🪐 Saturn and Jupiter...TWINKLE TWINKLE LITTLE STAR You can tell whether you are looking at a planet...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Link: [https://www.youtube.com/watch?v=DKQ8XuCINUU](https://www.youtube.com/watch?v=DKQ8XuCINUU)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Introductory Astronomy: Motions of the StarsVideo lecture that explains the apparent motion of stars in the sky using the celestial spher...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: study.com  
+   Link: [https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html](https://study.com/academy/lesson/the-apparent-motion-of-stars-planets.html)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apparent Motion of Stars &amp; Planets | Overview &amp; TypesApparent motion is what happens when something that is not moving appears to move. T...</p></details>
+
+21. <a id="endnote-21"></a>
+   Source: youtube.com  
+   Link: [http://www.youtube.com/watch?v=xuWscrshR4o](http://www.youtube.com/watch?v=xuWscrshR4o)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to investigate ufo sightings using fixed landmarks What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral...</p></details>
+
+22. <a id="endnote-22"></a>
+   Source: scholarship.richmond.edu  
+   Title: UR Scholarship Repository"Autokinetic Effect" by Donelson R  
+   Link: [https://scholarship.richmond.edu/jepson-faculty-publications/162/](https://scholarship.richmond.edu/jepson-faculty-publications/162/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Forsythby DR Forsyth · 2008 — The autokinetic effect is an optical illusion. It occurs when a perceiver staring at a stationary pinpoint...</p></details>
+
+23. <a id="endnote-23"></a>
+   Source: academia.edu  
+   Title: (PDF) UFOs and the extraterrestrial contact movement  
+   Link: [https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography](https://www.academia.edu/71337593/UFOs_and_the_extraterrestrial_contact_movement_a_bibliography)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO investigations in the early days. His stance as a genuinely open-minded fact finder deflated for a time the charges of an Air Force c...</p></details>

@@ -36,7 +36,7 @@ page_heading_title: What Gets Lost When UFO Clips Go Viral
 source_count: 20
 infographic_count: 3
 planned_sections:
-- How TikTok and X strip metadata
+- How Tik Tok and X strip metadata
 - Why screenshots weaken identification work
 - Tracing edits and compression history
 focal_unit_type: policy_intervention
@@ -203,10 +203,10 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-date: '2026-05-28 00:44:20'
 parent_title: What does a UFO video really prove? | Case File
 parent_permalink: /media-files/
 parent_nav_short_title: Media files
+parent_heading_title: What does a UFO video really prove?
 ancestor_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -216,10 +216,12 @@ ancestor_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2
   title: Media files | Case File
   permalink: /media-files/
   short_title: Media files
+  heading_title: What does a UFO video really prove?
 breadcrumb_links:
 - basename: AI-assisted_U_96e9bc
   title: UFO Case AI
@@ -229,38 +231,46 @@ breadcrumb_links:
   title: Case File | Can AI Help Explain UFO Sightings?
   permalink: /case-file/
   short_title: Case File
+  heading_title: What Makes a UFO Report Investigable?
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2
   title: Media files | Case File
   permalink: /media-files/
   short_title: Media files
+  heading_title: What does a UFO video really prove?
 sibling_links:
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77
   title: Digital Zoom | Media files
   permalink: /digital-zoom/
   short_title: Digital Zoom
+  heading_title: Why Phone Zoom Makes UFO Lights Look Alive
 - basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_timestamp_sky_f333ad
   title: Sky Checks | Media files
   permalink: /sky-checks/
   short_title: Sky Checks
+  heading_title: Can The Sky Conditions Verify A UFO Video
 up_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2
   title: Media files | Case File
   permalink: /media-files/
   short_title: Media files
+  heading_title: What does a UFO video really prove?
 prev_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77
   title: Digital Zoom | Media files
   permalink: /digital-zoom/
   short_title: Digital Zoom
+  heading_title: Why Phone Zoom Makes UFO Lights Look Alive
 next_link:
   basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_timestamp_sky_f333ad
   title: Sky Checks | Media files
   permalink: /sky-checks/
   short_title: Sky Checks
+  heading_title: Can The Sky Conditions Verify A UFO Video
+date: '2026-06-08 23:25:08 '
 header:
-  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-social.png
-  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1.png
-image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-social.png
+  og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-social.jpg
+  preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1.webp
+image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-social.jpg
 ---
 
 ## Introduction
@@ -268,7 +278,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_81
 Most viral UFO footage online is not the [original evidence]({{ 'original-evidence/' | relative_url }}). It is usually a compressed repost, cropped clip, screenshot, screen recording or edited remix several generations removed from the source file. That matters because the technical information stripped away during upload is often more valuable to investigators than the glowing object itself.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-light.svg" | relative_url }}" alt="Reposts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-dark.svg" | relative_url }}" alt="Reposts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, [metadata]({{ 'metadata/' | relative_url }}) helps establish whether a sighting can be reconstructed against known [aircraft]({{ 'aircraft/' | relative_url }}) routes, satellite passes, weather conditions, astronomical objects or camera artefacts. Once a clip passes through TikTok, X, Instagram, Reddit or messaging apps, large parts of that evidential layer can disappear. Upload systems routinely re-encode videos, resize images, remove EXIF metadata, alter timestamps and generate entirely new files optimised for streaming rather than forensic analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
 
 The result is a recurring problem in modern UFO research: public debate centres on low-quality reposts while the [original]({{ 'original-evidence/' | relative_url }}) recording, device information and contextual data remain inaccessible or lost.
@@ -401,7 +411,7 @@ A screenshot removes all of this context.
 A still frame of Venus near the horizon may look extraordinary if isolated from the preceding footage showing slow stationary behaviour. Likewise, a bright aircraft landing light can appear disc-shaped and enormous in a single compressed frame.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-light.svg" | relative_url }}" alt="Reposts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-dark.svg" | relative_url }}" alt="Reposts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scale and Distance Become Harder to Judge
 
 AI-assisted analysis often depends on reference objects such as stars, clouds, buildings or tree lines.
@@ -452,7 +462,7 @@ In UFO cases, this can reveal that a supposedly “raw” clip was exported thro
 That alone does not invalidate a sighting. Witnesses routinely trim clips or add captions. But it changes how strongly investigators can treat the file as untouched source evidence.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-light.svg" | relative_url }}" alt="Reposts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-dark.svg" | relative_url }}" alt="Reposts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI Can Help Detect Re-encoding Chains
 
 Machine-learning systems are increasingly used to classify compression artefacts and detect synthetic or altered media patterns.
@@ -515,117 +525,6 @@ This creates a tension at the centre of AI-assisted UFO investigation. Automated
 Once uploads, reposts and screenshots destroy that evidential layer, the investigation shifts from analysing a documented event to analysing internet folklore around a degraded clip.
 
 That does not mean every viral UFO video is false. It means the path from “interesting footage” to “investigable evidence” is much narrower than online discussion usually assumes.
-
-## Endnotes
-
-1. <a id="endnote-1"></a>
-   Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</p></details>
-
-2. <a id="endnote-2"></a>
-   Source: ipaco.fr  
-   Title: Analysis methodology  
-   Link: [https://www.ipaco.fr/page27.html](https://www.ipaco.fr/page27.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IpacoAnalysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</p></details>
-
-3. <a id="endnote-3"></a>
-   Source: arxiv.org  
-   Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: [https://arxiv.org/abs/2105.06361](https://arxiv.org/abs/2105.06361)  
-
-4. <a id="endnote-4"></a>
-   Source: privacystrip.com  
-   Title: Privacy Strip Do Social Media Platforms Strip EXIF Metadata?  
-   Link: [https://privacystrip.com/blog/social-media-metadata-policies](https://privacystrip.com/blog/social-media-metadata-policies)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2026)15 Dec 2024 — Do Twitter/X, Instagram, Facebook, and TikTok remove EXIF metadata? See what is stripped, what can remain, and how to...</p></details>
-
-5. <a id="endnote-5"></a>
-   Source: exifdata.org  
-   Title: Do Social Media Sites Strip EXIF Data?  
-   Link: [https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test](https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 TestAug 26, 2025 — Yes. Based on our 2025 tests, both Facebook and Instagram actively strip most of this metadata from photos upon u...</p></details>
-
-7. <a id="endnote-7"></a>
-   Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</p></details>
-
-8. <a id="endnote-8"></a>
-   Source: magnetforensics.com  
-   Title: getting to the source understanding metadata removal on social media  
-   Link: [https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/](https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magnet ForensicsGetting to the...</p></details>
-
-9. <a id="endnote-9"></a>
-   Source: fast.io  
-   Link: [https://fast.io/resources/social-media-photo-metadata-platforms-strip/](https://fast.io/resources/social-media-photo-metadata-platforms-strip/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FastioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</p></details>
-
-10. <a id="endnote-10"></a>
-   Source: hackerfactor.com  
-   Link: [https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=](https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker FactorSay No to Screenshots - The Hacker Factor Blog10 Jan 2022 — Since screenshots just capture pixels on the screen, the source&#x27;...</p></details>
-
-### Additional References
-
-11. <a id="endnote-11"></a>
-   Source: blogs.loc.gov  
-   Title: social media networks stripping data from your digital photos  
-   Link: [https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/](https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...11 Apr 2013 — This survey shows that a number of the mor...</p></details>
-
-12. <a id="endnote-12"></a>
-   Source: metaclean.app  
-   Title: Meta Clean Which Social Media Apps Remove EXIF Data?  
-   Link: [https://metaclean.app/blog/social-media-metadata-comparison-2026](https://metaclean.app/blog/social-media-metadata-comparison-2026)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Platforms...Short answer: Instagram, TikTok, WhatsApp (Photo mode), Twitter/X, Facebook, and Snapchat all strip EXIF from public post...</p></details>
-
-13. <a id="endnote-13"></a>
-   Source: forensicosint.com  
-   Link: [https://www.forensicosint.com/free-tools/image-metadata-analyzer](https://www.forensicosint.com/free-tools/image-metadata-analyzer)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PS coordinates, camera serial numbers, XMP edit history, and IPTC copyright...</p></details>
-
-14. <a id="endnote-14"></a>
-   Source: youtube.com  
-   Title: How Forensic Tools Retrieve Data off your phone  
-   Link: [http://www.youtube.com/watch?v=1SABOmGJoUY](http://www.youtube.com/watch?v=1SABOmGJoUY)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do social media platforms strip metadata from images and videos Do All Photos Have EXIF Data? The Truth Exif Injector...</p></details>
-
-15. <a id="endnote-15"></a>
-   Source: youtube.com  
-   Title: Digital Forensics Hands-On Lab | USB Evidence Analysis with Autopsy  
-   Link: [http://www.youtube.com/watch?v=DpZQYHQbgXs](http://www.youtube.com/watch?v=DpZQYHQbgXs)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Forensic Tools Retrieve Data off your phone...</p></details>
-
-16. <a id="endnote-16"></a>
-   Source: youtube.com  
-   Title: Mobile Device Forensics: Collection and Preservation  
-   Link: [http://www.youtube.com/watch?v=uZxb_pTAELg](http://www.youtube.com/watch?v=uZxb_pTAELg)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics Hands-On Lab | USB Evidence Analysis with Autopsy...</p></details>
-
-17. <a id="endnote-17"></a>
-   Source: ijsrcseit.com  
-   Link: [https://ijsrcseit.com/CSEIT2390373](https://ijsrcseit.com/CSEIT2390373)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IJSRCSEITThe Significance of Metadata and Video Compression for...30 Jun 2023 — We first propose the acquisition extraction analysis in...</p></details>
-
-18. <a id="endnote-18"></a>
-   Source: craigball.net  
-   Title: the metadata vanishes  
-   Link: [https://craigball.net/2020/11/20/the-metadata-vanishes/](https://craigball.net/2020/11/20/the-metadata-vanishes/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the defense sought the missing metadata, the legal assistant...Read more...</p></details>
-
-19. <a id="endnote-19"></a>
-   Source: youtube.com  
-   Title: How image compression algorithms work  
-   Link: [http://www.youtube.com/watch?v=sROvs6dQ528](http://www.youtube.com/watch?v=sROvs6dQ528)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile Device Forensics: Collection and Preservation...</p></details>
-
-20. <a id="endnote-20"></a>
-   Source: youtube.com  
-   Title: OSINT At Home #2  
-   Link: [http://www.youtube.com/watch?v=d3NsT8lJRlE](http://www.youtube.com/watch?v=d3NsT8lJRlE)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How image compression algorithms work...</p></details>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -741,75 +640,71 @@ That does not mean every viral UFO video is false. It means the path from “int
     </div>
 
     <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-series+-television+-tour+-album+-ticket+-programme&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-conc&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -series -television -tour -album -ticket -programme" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-conc" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.co.uk/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=reposts-what-gets-lost-when-ufo-clips-go-viral-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -867,10 +762,10 @@ That does not mean every viral UFO video is false. It means the path from “int
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -1018,3 +913,114 @@ That does not mean every viral UFO video is false. It means the path from “int
 })();
 </script>
 </section>
+
+## Endnotes
+
+1. <a id="endnote-1"></a>
+   Source: sciepublish.com  
+   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</p></details>
+
+2. <a id="endnote-2"></a>
+   Source: ipaco.fr  
+   Title: Analysis methodology  
+   Link: [https://www.ipaco.fr/page27.html](https://www.ipaco.fr/page27.html)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>IpacoAnalysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</p></details>
+
+3. <a id="endnote-3"></a>
+   Source: arxiv.org  
+   Title: arXiv Forensic Analysis of Video Files Using Metadata  
+   Link: [https://arxiv.org/abs/2105.06361](https://arxiv.org/abs/2105.06361)  
+
+4. <a id="endnote-4"></a>
+   Source: privacystrip.com  
+   Title: Privacy Strip Do Social Media Platforms Strip EXIF Metadata?  
+   Link: [https://privacystrip.com/blog/social-media-metadata-policies](https://privacystrip.com/blog/social-media-metadata-policies)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>(2026)15 Dec 2024 — Do Twitter/X, Instagram, Facebook, and TikTok remove EXIF metadata? See what is stripped, what can remain, and how to...</p></details>
+
+5. <a id="endnote-5"></a>
+   Source: exifdata.org  
+   Title: Do Social Media Sites Strip EXIF Data?  
+   Link: [https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test](https://exifdata.org/blog/do-social-media-sites-strip-exif-data-2025-test)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>2025 TestAug 26, 2025 — Yes. Based on our 2025 tests, both Facebook and Instagram actively strip most of this metadata from photos upon u...</p></details>
+
+7. <a id="endnote-7"></a>
+   Source: aaro.mil  
+   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROUAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</p></details>
+
+8. <a id="endnote-8"></a>
+   Source: magnetforensics.com  
+   Title: getting to the source understanding metadata removal on social media  
+   Link: [https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/](https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Magnet ForensicsGetting to the...</p></details>
+
+9. <a id="endnote-9"></a>
+   Source: fast.io  
+   Link: [https://fast.io/resources/social-media-photo-metadata-platforms-strip/](https://fast.io/resources/social-media-photo-metadata-platforms-strip/)  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>FastioWhich Social Media Platforms Strip Photo Metadata?See which social media platforms strip EXIF data from photos. Tested results for...</p></details>
+
+10. <a id="endnote-10"></a>
+   Source: hackerfactor.com  
+   Link: [https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=](https://www.hackerfactor.com/blog/index.php?%2Farchives%2F946-Say-No-to-Screenshots.html=)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker FactorSay No to Screenshots - The Hacker Factor Blog10 Jan 2022 — Since screenshots just capture pixels on the screen, the source&#x27;...</p></details>
+
+### Additional References
+
+11. <a id="endnote-11"></a>
+   Source: blogs.loc.gov  
+   Title: social media networks stripping data from your digital photos  
+   Link: [https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/](https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...11 Apr 2013 — This survey shows that a number of the mor...</p></details>
+
+12. <a id="endnote-12"></a>
+   Source: metaclean.app  
+   Title: Meta Clean Which Social Media Apps Remove EXIF Data?  
+   Link: [https://metaclean.app/blog/social-media-metadata-comparison-2026](https://metaclean.app/blog/social-media-metadata-comparison-2026)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Platforms...Short answer: Instagram, TikTok, WhatsApp (Photo mode), Twitter/X, Facebook, and Snapchat all strip EXIF from public post...</p></details>
+
+13. <a id="endnote-13"></a>
+   Source: forensicosint.com  
+   Link: [https://www.forensicosint.com/free-tools/image-metadata-analyzer](https://www.forensicosint.com/free-tools/image-metadata-analyzer)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>PS coordinates, camera serial numbers, XMP edit history, and IPTC copyright...</p></details>
+
+14. <a id="endnote-14"></a>
+   Source: youtube.com  
+   Title: How Forensic Tools Retrieve Data off your phone  
+   Link: [http://www.youtube.com/watch?v=1SABOmGJoUY](http://www.youtube.com/watch?v=1SABOmGJoUY)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Do social media platforms strip metadata from images and videos Do All Photos Have EXIF Data? The Truth Exif Injector...</p></details>
+
+15. <a id="endnote-15"></a>
+   Source: youtube.com  
+   Title: Digital Forensics Hands-On Lab | USB Evidence Analysis with Autopsy  
+   Link: [http://www.youtube.com/watch?v=DpZQYHQbgXs](http://www.youtube.com/watch?v=DpZQYHQbgXs)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Forensic Tools Retrieve Data off your phone...</p></details>
+
+16. <a id="endnote-16"></a>
+   Source: youtube.com  
+   Title: Mobile Device Forensics: Collection and Preservation  
+   Link: [http://www.youtube.com/watch?v=uZxb_pTAELg](http://www.youtube.com/watch?v=uZxb_pTAELg)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics Hands-On Lab | USB Evidence Analysis with Autopsy...</p></details>
+
+17. <a id="endnote-17"></a>
+   Source: ijsrcseit.com  
+   Link: [https://ijsrcseit.com/CSEIT2390373](https://ijsrcseit.com/CSEIT2390373)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>IJSRCSEITThe Significance of Metadata and Video Compression for...30 Jun 2023 — We first propose the acquisition extraction analysis in...</p></details>
+
+18. <a id="endnote-18"></a>
+   Source: craigball.net  
+   Title: the metadata vanishes  
+   Link: [https://craigball.net/2020/11/20/the-metadata-vanishes/](https://craigball.net/2020/11/20/the-metadata-vanishes/)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>When the defense sought the missing metadata, the legal assistant...Read more...</p></details>
+
+19. <a id="endnote-19"></a>
+   Source: youtube.com  
+   Title: How image compression algorithms work  
+   Link: [http://www.youtube.com/watch?v=sROvs6dQ528](http://www.youtube.com/watch?v=sROvs6dQ528)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile Device Forensics: Collection and Preservation...</p></details>
+
+20. <a id="endnote-20"></a>
+   Source: youtube.com  
+   Title: OSINT At Home #2  
+   Link: [http://www.youtube.com/watch?v=d3NsT8lJRlE](http://www.youtube.com/watch?v=d3NsT8lJRlE)  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>How image compression algorithms work...</p></details>
