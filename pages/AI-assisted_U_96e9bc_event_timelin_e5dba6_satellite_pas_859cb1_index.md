@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-event-timelin/
 description: Focused pages that expand on Satellites.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1
-parent_title: Satellites | Timeline
+parent_title: Satellites
 parent_nav_short_title: Satellites
 parent_permalink: /satellites-06e013/
 ---

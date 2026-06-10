@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /drone-clues/
 nav_short_title: Sound clues
 title: Why silent drones are not always silent
-title_full: Why silent drones are not always silent | Drone clues
+title_full: Why silent drones are not always silent
 display_title_short: Sound clues
 display_title: Sound clues
 heading_title: Why silent drones are not always silent
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Is it a drone or a distant aircraft? | Aircraft
+parent_title: Is it a drone or a distant aircraft?
 parent_permalink: /drone-clues/
 parent_nav_short_title: Drone clues
 parent_heading_title: Is it a drone or a distant aircraft?
@@ -260,7 +260,7 @@ prev_link:
   permalink: /hover-tests/
   short_title: Hover tests
   heading_title: Is that light really hovering?
-date: '2026-06-08 23:30:25 '
+date: '2026-06-10 20:10:47 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1.webp
@@ -269,15 +269,15 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_14
 
 ## Introduction
 
-A witness who reports a buzzing or whining object in the sky may unintentionally provide one of the strongest clues that a small drone was involved. At the same time, many UFO reports describe apparently silent [hovering]({{ 'wind-checks/' | relative_url }}) lights that later prove difficult to reconcile with ordinary [aircraft]({{ 'aircraft/' | relative_url }}). The problem is that silence is not a simple clue. A multicopter can sound surprisingly loud at close range yet become difficult to hear at modest distance, especially in wind, traffic noise or urban environments.
+A witness who reports a buzzing or whining object in the sky may unintentionally provide one of the strongest clues that a small drone was involved. At the same time, many UFO reports describe apparently silent hovering lights that later prove difficult to reconcile with ordinary [aircraft]({{ 'aircraft/' | relative_url }}). The problem is that silence is not a simple clue. A multicopter can sound surprisingly loud at close range yet become difficult to hear at modest distance, especially in wind, traffic noise or urban environments.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-dark.svg" | relative_url }}" alt="Sound clues illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, sound evidence works best when treated as one data layer among many rather than as a decisive proof. Rotor noise patterns, sudden pitch changes during manoeuvres and intermittent buzzing can support a drone explanation. But investigators also need to test whether environmental conditions could have masked the sound completely. A “[silent UFO]({{ 'sound-delays/' | relative_url }})” may still fit an ordinary drone profile once distance estimation, [weather]({{ 'weather/' | relative_url }}), terrain and background noise are reconstructed carefully.
+For AI-assisted UFO sighting investigation, sound evidence works best when treated as one data layer among many rather than as a decisive proof. Rotor noise patterns, sudden pitch changes during manoeuvres and intermittent buzzing can support a drone explanation. But investigators also need to test whether environmental conditions could have masked the sound completely. A “silent UFO” may still fit an ordinary drone profile once distance estimation, [weather]({{ 'weather/' | relative_url }}), terrain and background noise are reconstructed carefully.
 
 ## Buzzing and whining sounds witnesses report
 
-Small multicopter drones produce a characteristic sound profile driven by fast-spinning propellers and electric motors. Witnesses often describe it as a buzz, mosquito-like whine, electric hum or high-pitched rattling rather than the deeper continuous engine sound associated with helicopters or light aircraft. Acoustic studies repeatedly note that drone noise contains strong tonal components and higher-frequency elements that make it perceptually distinctive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">Drone Noise – A New Challenge in Acoustics</span><span class="citation-popover-snippet">AcentechDrone Noise – A New Challenge in AcousticsMay 21, 2020 — 21 May 2020 — The basics of the sounds that come from small delivery dro...</span><span class="citation-popover-meta">Published: May 21, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.rwth-aachen.de/record/995944/files/995944.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.rwth-aachen.de">[RWTH Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.rwth-aachen.de</span><span class="citation-popover-snippet">RWTH PublicationsPsychoacoustic Optimization of the Aviation Noise of Electric...This thesis analyzes the psychoacoustic optimization of...</span></span></span>
+Small multicopter drones produce a characteristic sound profile driven by fast-spinning propellers and electric motors. Witnesses often describe it as a buzz, mosquito-like whine, electric hum or high-pitched rattling rather than the deeper continuous engine sound associated with helicopters or light aircraft. Acoustic studies repeatedly note that drone noise contains strong tonal components and higher-frequency elements that make it perceptually distinctive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">Drone Noise – A New Challenge in Acoustics</span><span class="citation-popover-snippet">Drone Noise – A New Challenge in AcousticsMay 21, 2020 — 21 May 2020 — The basics of the sounds that come from small delivery dro...</span><span class="citation-popover-meta">Published: May 21, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.rwth-aachen.de/record/995944/files/995944.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.rwth-aachen.de">[RWTH Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.rwth-aachen.de</span><span class="citation-popover-snippet">RWTH PublicationsPsychoacoustic Optimization of the Aviation Noise of Electric...This thesis analyzes the psychoacoustic optimization of...</span></span></span>
 
 One useful investigative clue is how the sound changes during movement. Multicopters alter rotor speed constantly to stabilise themselves, climb, descend or hold position. Witnesses sometimes report:
 
@@ -297,16 +297,13 @@ This becomes particularly relevant in night UFO reports involving stationary lig
 
 AI-assisted workflows can extract these descriptions automatically from witness statements using natural language processing. A system can flag phrases linked to drone acoustics, then compare them against environmental conditions and estimated object distance. The goal is not to “prove” the object was a drone from sound alone, but to increase or decrease [confidence]({{ 'confidence/' | relative_url }}) in that explanation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r4uyaJq9zlE" title="Who WINS the SILENT Propeller WAR?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r4uyaJq9zlE" target="_blank" rel="noopener noreferrer">Who WINS the SILENT Propeller WAR?</a></p><p class="youtube-embed-meta">Channel: The Beyond</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r4uyaJq9zlE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r4uyaJq9zlE">Open on YouTube</a></p></div></div></div>
-
 ## Why apparently silent drones may still be nearby
 
 Silence is one of the easiest witness impressions to overinterpret. Many people assume that if an object hovered nearby without audible sound, it could not have been a normal drone. In reality, drone audibility changes rapidly with distance, weather and competing environmental noise.
 
 Research into drone acoustics shows that small unmanned aircraft become much harder to hear in realistic outdoor environments than in quiet demonstrations or online videos. PMC ScienceDirect High-frequency components attenuate quickly over distance <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/pii/S1270963823004340" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">On-field noise measurements and acoustic...by C Ramos-Romero · 2023 · Cited by 63 — This paper presents a measurement and analysis frame...</span></span></span>, especially outdoors. Wind direction also matters. A drone flying downwind from the observer may sound far quieter than the same drone approaching into the wind.
 
-Urban and suburban settings further complicate perception. Traffic, ventilation systems, trains, crowds and wind through trees can partially mask rotor noise. Studies of environmental masking effects show that background noise can significantly reduce perception of tonal mechanical sounds under certain conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diva-portal.org/smash/get/diva2%3A332207/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-title">DIVA Portalwhy is wind turbine noise poorly masked by road traffic</span><span class="citation-popover-snippet">May 18, 2010 — by E Pedersen · 2010 · Cited by 20 — No general masking effect was found, except when levels of wind turbine sound were mo...</span><span class="citation-popover-meta">Published: May 18, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/enepol/v38y2010i5p2520-2527.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc Can road traffic mask sound from wind turbines?</span><span class="citation-popover-snippet">E Pedersen · 2010 · Cited by 127 — The aim of this study was to explore if road traffic sound could mask wind turbine soun...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/enepol/v38y2010i5p2520-2527.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc Can road traffic mask sound from wind turbines?</span><span class="citation-popover-snippet">E Pedersen · 2010 · Cited by 127 — The aim of this study was to explore if road traffic sound could mask wind turbine soun...</span></span></span> Drone-specific soundscape research similarly found that busy traffic environments reduce the perceived prominence of drone noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.00087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEffects of a Hovering Unmanned Aerial Vehicle on Urban Soundscapes PerceptionNovember 29, 2019...</span><span class="citation-popover-meta">Published: November 29, 2019</span></span></span>
+Urban and suburban settings further complicate perception. Traffic, ventilation systems, trains, crowds and wind through trees can partially mask rotor noise. Studies of environmental masking effects show that background noise can significantly reduce perception of tonal mechanical sounds under certain conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.diva-portal.org/smash/get/diva2%3A332207/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: diva-portal.org">[DIVA Portal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">diva-portal.org</span><span class="citation-popover-title">DIVA Portalwhy is wind turbine noise poorly masked by road traffic</span><span class="citation-popover-snippet">May 18, 2010 — by E Pedersen · 2010 · Cited by 20 — No general masking effect was found, except when levels of wind turbine sound were mo...</span><span class="citation-popover-meta">Published: May 18, 2010</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/enepol/v38y2010i5p2520-2527.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[IDEAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc Can road traffic mask sound from wind turbines?</span><span class="citation-popover-snippet">E Pedersen · 2010 · Cited by 127 — The aim of this study was to explore if road traffic sound could mask wind turbine soun...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ideas.repec.org/a/eee/enepol/v38y2010i5p2520-2527.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ideas.repec.org">[RePEc]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ideas.repec.org</span><span class="citation-popover-title">IDEAS/Re PEc Can road traffic mask sound from wind turbines?</span><span class="citation-popover-snippet">E Pedersen · 2010 · Cited by 127 — The aim of this study was to explore if road traffic sound could mask wind turbine soun...</span></span></span> Drone-specific soundscape research similarly found that busy traffic environments reduce the perceived prominence of drone noise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.00087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Effects of a Hovering Unmanned Aerial Vehicle on Urban Soundscapes PerceptionNovember 29, 2019...</span><span class="citation-popover-meta">Published: November 29, 2019</span></span></span>
 
 This matters because many UFO sightings occur under exactly those masking conditions:
 
@@ -339,11 +336,11 @@ Rotor noise does not radiate evenly in all directions. Wind can carry sound away
 
 This becomes important in reports where witnesses insist an object passed directly overhead “without a sound”. In open rural terrain under calm conditions, that claim may weigh against a nearby multicopter explanation. But under windy conditions near roads or buildings, silence becomes far less meaningful.
 
-Weather reconstruction tools can help here. AI-assisted workflows can combine archived meteorological data with terrain mapping to estimate whether acoustic masking was [plausible]({{ 'plausible-cases/' | relative_url }}) at the reported time and place.
+Weather reconstruction tools can help here. AI-assisted workflows can combine archived meteorological data with terrain mapping to estimate whether acoustic masking was plausible at the reported time and place.
 
 ### Traffic and urban noise can overwhelm drone acoustics
 
-Research into drone annoyance and audibility consistently shows that background sound levels strongly affect perception. AIP Publishing <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.00087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivEffects of a Hovering Unmanned Aerial Vehicle on Urban Soundscapes PerceptionNovember 29, 2019...</span><span class="citation-popover-meta">Published: November 29, 2019</span></span></span> In dense urban environments, small drones may blend into existing ambient noise surprisingly well.
+Research into drone annoyance and audibility consistently shows that background sound levels strongly affect perception. AIP Publishing <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1912.00087" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Effects of a Hovering Unmanned Aerial Vehicle on Urban Soundscapes PerceptionNovember 29, 2019...</span><span class="citation-popover-meta">Published: November 29, 2019</span></span></span> In dense urban environments, small drones may blend into existing ambient noise surprisingly well.
 
 For UFO case analysis, this means investigators should ask questions such as:
 
@@ -387,8 +384,7 @@ A balanced approach usually works best:
 AI systems can help by structuring these observations consistently rather than relying on anecdotal impressions alone. A useful investigation pipeline might:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O0G-QMKNN9g" title="How to spot the difference: Drones vs. planes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer">How to spot the difference: Drones vs. planes</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 3.3K &middot; Uploaded: December 2024 &middot; Length: 3 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O0G-QMKNN9g">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-dark.svg" | relative_url }}" alt="Sound clues illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -408,16 +404,16 @@ AI systems can help by structuring these observations consistently rather than r
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Drone Pilot&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=QjKJCwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Drone Pilot&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Drone Pilot&#x27;s Handbook">The Drone Pilot&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Directly addresses drone operation and characteristics.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+Handbook+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -425,16 +421,16 @@ AI systems can help by structuring these observations consistently rather than r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Guide to Drones on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hZ8ZDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Complete Guide to Drones" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Guide to Drones">The Complete Guide to Drones</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Adam Juniper</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Explains drone behaviour including sound and flight profiles.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Complete+Guide+to+Drones+by+Adam+Juniper&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -442,16 +438,16 @@ AI systems can help by structuring these observations consistently rather than r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports careful interpretation of witness reports.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -459,16 +455,16 @@ AI systems can help by structuring these observations consistently rather than r
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        
+        <p class="fr-book-desc">Provides flight and perception context.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -476,13 +472,13 @@ AI systems can help by structuring these observations consistently rather than r
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Drone+Pilot%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Drone Pilot&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+to+Drones+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete to Drones books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -509,76 +505,72 @@ AI systems can help by structuring these observations consistently rather than r
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI"><img src="{{ '/assets/images/marketplace-covers/ef8c107afae923415847.jpg' | relative_url }}" alt="Listing image for Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Drone Airdrop Dropper Thrower Accessories Remote Control UAV Airdrop For DJI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">aviation poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories"><img src="{{ '/assets/images/marketplace-covers/06a5ef9ae28a0114d721.jpg' | relative_url }}" alt="Listing image for For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">For DJI Mini 4Pro Drone Landing Gear Heightened Extend Landing Gear Accessories</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=are+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-are-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are poster -book -books -dvd" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-are-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open are poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20are%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAre%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for are poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">are poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Are</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=are+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-are-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are poster -book -books -dvd" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-are-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI"><img src="{{ '/assets/images/marketplace-covers/09a65a1c0c3d4fa02d11.jpg' | relative_url }}" alt="Listing image for Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Controller Sticks Lightweight Thumb Sticks Drone Accessories for DJI</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-are-memorabilia-book-books-dv&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-are-memorabilia-book-books-dv" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open are memorabilia on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20are%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAre%20Memorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for are memorabilia on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">are memorabilia</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Are</span><span class="fr-search-tag">Memorabilia</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=are+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-are-memorabilia-book-books-dv&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are memorabilia -book -books -dvd" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-are-memorabilia-book-books-dv" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3"><img src="{{ '/assets/images/marketplace-covers/dbfa76e6fa531e5eaa98.jpg' | relative_url }}" alt="Listing image for Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">Drone Searchlight Flight Light Lamp Accessories For For DJI Mini 4 Pro/Air 3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for drone accessories">Search <span data-ebay-domain-label>eBay.co.uk</span>: drone accessories</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=not+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-not-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="not poster -book -books -dvd" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-not-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open not poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20not%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENot%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENot%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for not poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">not poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Not</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=not+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-not-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="not poster -book -books -dvd" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-not-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=drone+accessories&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="drone accessories" data-ebay-reference="sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-drone-accessories" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=sound-clues-why-silent-drones-are-not-always-silent-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -636,10 +628,10 @@ AI systems can help by structuring these observations consistently rather than r
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -657,7 +649,7 @@ AI systems can help by structuring these observations consistently rather than r
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -813,119 +805,120 @@ In those situations, investigators should avoid forcing a drone explanation mere
 The most reliable workflow therefore treats sound as contextual evidence. Buzzing, whining and pitch changes can strongly support a drone interpretation. Apparent silence, however, requires careful reconstruction before it carries much weight either for or against a conventional explanation.
 
 
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-dark.svg" | relative_url }}" alt="Sound clues illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O0G-QMKNN9g" title="How to spot the difference: Drones vs. planes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer">How to spot the difference: Drones vs. planes</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 3.3K &middot; Uploaded: December 2024 &middot; Length: 3 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O0G-QMKNN9g">Open on YouTube</a></p></div></div></div>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
    Source: acentech.com  
    Title: Drone Noise – A New Challenge in Acoustics  
-   Link: [https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/](https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AcentechDrone Noise – A New Challenge in AcousticsMay 21, 2020 — 21 May 2020 — The basics of the sounds that come from small delivery dro...</p></details>
+   Link: <a href="https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/" target="_blank" rel="noopener noreferrer nofollow">https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Drone Noise – A New Challenge in AcousticsMay 21, 2020 — 21 May 2020 — The basics of the sounds that come from small delivery dro...</p></details>
    Published: May 21, 2020  
 
 2. <a id="endnote-2"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8954658/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8954658/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCInvestigation of Metrics for Assessing Human Response to...by AJ Torija · 2022 · Cited by 71 — Responses for the drone sounds tested...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8954658/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8954658/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of Metrics for Assessing Human Response to...by AJ Torija · 2022 · Cited by 71 — Responses for the drone sounds tested...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1270963823004340](https://www.sciencedirect.com/science/article/pii/S1270963823004340)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1270963823004340" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1270963823004340</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>On-field noise measurements and acoustic...by C Ramos-Romero · 2023 · Cited by 63 — This paper presents a measurement and analysis frame...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9368608/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9368608/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9368608/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9368608/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>for Drone Operations to Minimise Community...by C Ramos-Romero · 2022 · Cited by 44 — This paper presents a modelling framework for sett...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: diva-portal.org  
    Title: DIVA Portalwhy is wind turbine noise poorly masked by road traffic  
-   Link: [https://www.diva-portal.org/smash/get/diva2%3A332207/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2%3A332207/FULLTEXT01.pdf)  
+   Link: <a href="https://www.diva-portal.org/smash/get/diva2%3A332207/FULLTEXT01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.diva-portal.org/smash/get/diva2%3A332207/FULLTEXT01.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 18, 2010 — by E Pedersen · 2010 · Cited by 20 — No general masking effect was found, except when levels of wind turbine sound were mo...</p></details>
    Published: May 18, 2010  
 
 6. <a id="endnote-6"></a>
    Source: ideas.repec.org  
    Title: IDEAS/Re PEc Can road traffic mask sound from wind turbines?  
-   Link: [https://ideas.repec.org/a/eee/enepol/v38y2010i5p2520-2527.html](https://ideas.repec.org/a/eee/enepol/v38y2010i5p2520-2527.html)  
+   Link: <a href="https://ideas.repec.org/a/eee/enepol/v38y2010i5p2520-2527.html" target="_blank" rel="noopener noreferrer nofollow">https://ideas.repec.org/a/eee/enepol/v38y2010i5p2520-2527.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>E Pedersen · 2010 · Cited by 127 — The aim of this study was to explore if road traffic sound could mask wind turbine soun...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/1912.00087](https://arxiv.org/abs/1912.00087)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEffects of a Hovering Unmanned Aerial Vehicle on Urban Soundscapes PerceptionNovember 29, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1912.00087" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1912.00087</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Effects of a Hovering Unmanned Aerial Vehicle on Urban Soundscapes PerceptionNovember 29, 2019...</p></details>
    Published: November 29, 2019  
 
 8. <a id="endnote-8"></a>
    Source: pubs.aip.org  
-   Link: [https://pubs.aip.org/asa/jasa/article/156/4/2578/3316980/Short-term-noise-annoyance-towards-drones-and](https://pubs.aip.org/asa/jasa/article/156/4/2578/3316980/Short-term-noise-annoyance-towards-drones-and)  
+   Link: <a href="https://pubs.aip.org/asa/jasa/article/156/4/2578/3316980/Short-term-noise-annoyance-towards-drones-and" target="_blank" rel="noopener noreferrer nofollow">https://pubs.aip.org/asa/jasa/article/156/4/2578/3316980/Short-term-noise-annoyance-towards-drones-and</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AIP PublishingShort-term noise annoyance towards drones and other...15 Oct 2024 — The objective of this study was to investigate short-t...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: publications.rwth-aachen.de  
-   Link: [https://publications.rwth-aachen.de/record/995944/files/995944.pdf](https://publications.rwth-aachen.de/record/995944/files/995944.pdf)  
+   Link: <a href="https://publications.rwth-aachen.de/record/995944/files/995944.pdf" target="_blank" rel="noopener noreferrer nofollow">https://publications.rwth-aachen.de/record/995944/files/995944.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>RWTH PublicationsPsychoacoustic Optimization of the Aviation Noise of Electric...This thesis analyzes the psychoacoustic optimization of...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: eenewseurope.com  
    Title: acoustic drone detection  
-   Link: [https://www.eenewseurope.com/en/acoustic-drone-detection/](https://www.eenewseurope.com/en/acoustic-drone-detection/)  
+   Link: <a href="https://www.eenewseurope.com/en/acoustic-drone-detection/" target="_blank" rel="noopener noreferrer nofollow">https://www.eenewseurope.com/en/acoustic-drone-detection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Nov 2025 — In some cases, optical sensors, radio, and radar are disrupted by terrain, weather, or technical measures and cannot reliab...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: caa.co.uk  
-   Link: [https://www.caa.co.uk/publication/download/25099](https://www.caa.co.uk/publication/download/25099)  
+   Link: <a href="https://www.caa.co.uk/publication/download/25099" target="_blank" rel="noopener noreferrer nofollow">https://www.caa.co.uk/publication/download/25099</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Civil Aviation AuthorityThe Effects of Emerging Technology Aviation NoiseThis study employed visual and auditory stimuli of drones and ai...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: polytechnique-insights.com  
    Title: modeling noise from wind turbines and drones to combat nuisance  
-   Link: [https://www.polytechnique-insights.com/en/columns/science/modeling-noise-from-wind-turbines-and-drones-to-combat-nuisance/](https://www.polytechnique-insights.com/en/columns/science/modeling-noise-from-wind-turbines-and-drones-to-combat-nuisance/)  
+   Link: <a href="https://www.polytechnique-insights.com/en/columns/science/modeling-noise-from-wind-turbines-and-drones-to-combat-nuisance/" target="_blank" rel="noopener noreferrer nofollow">https://www.polytechnique-insights.com/en/columns/science/modeling-noise-from-wind-turbines-and-drones-to-combat-nuisance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modelling sound from wind turbines and drones to combat...6 Mar 2024 — The laboratory has been working on modelling the sources of aerod...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: ioplus.nl  
    Title: Not in sight, still visible: detecting drones around the corner  
-   Link: [https://ioplus.nl/en/posts/not-in-sight-still-visible-detecting-drones-around-the-corner](https://ioplus.nl/en/posts/not-in-sight-still-visible-detecting-drones-around-the-corner)  
+   Link: <a href="https://ioplus.nl/en/posts/not-in-sight-still-visible-detecting-drones-around-the-corner" target="_blank" rel="noopener noreferrer nofollow">https://ioplus.nl/en/posts/not-in-sight-still-visible-detecting-drones-around-the-corner</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IO Nov 2025 — Fraunhofer IDMT in Oldenburg has developed an intelligent sensor solution that detects drones even outside the line of sight...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: forcetechnology.com  
-   Link: [https://forcetechnology.com/-/media/force-technology-media/pdf-files/unnumbered/akustik/the-ocean-wave-noise-masking-effect-on-wind-turbine-noise-audibility.pdf](https://forcetechnology.com/-/media/force-technology-media/pdf-files/unnumbered/akustik/the-ocean-wave-noise-masking-effect-on-wind-turbine-noise-audibility.pdf)  
+   Link: <a href="https://forcetechnology.com/-/media/force-technology-media/pdf-files/unnumbered/akustik/the-ocean-wave-noise-masking-effect-on-wind-turbine-noise-audibility.pdf" target="_blank" rel="noopener noreferrer nofollow">https://forcetechnology.com/-/media/force-technology-media/pdf-files/unnumbered/akustik/the-ocean-wave-noise-masking-effect-on-wind-turbine-noise-audibility.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>es at the Danish west coast and compare this data to estimated offshore wind...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/384878686_Comparison_of_the_noise_perception_of_conventional_aircraft_and_Unmanned_Aircraft_Systems](https://www.researchgate.net/publication/384878686_Comparison_of_the_noise_perception_of_conventional_aircraft_and_Unmanned_Aircraft_Systems)  
+   Link: <a href="https://www.researchgate.net/publication/384878686_Comparison_of_the_noise_perception_of_conventional_aircraft_and_Unmanned_Aircraft_Systems" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/384878686_Comparison_of_the_noise_perception_of_conventional_aircraft_and_Unmanned_Aircraft_Systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, Sound Quality Metric analysis also suggests that...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/233486958_The_Potential_of_Natural_Sounds_to_Mask_Wind_Turbine_Noise](https://www.researchgate.net/publication/233486958_The_Potential_of_Natural_Sounds_to_Mask_Wind_Turbine_Noise)  
+   Link: <a href="https://www.researchgate.net/publication/233486958_The_Potential_of_Natural_Sounds_to_Mask_Wind_Turbine_Noise" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/233486958_The_Potential_of_Natural_Sounds_to_Mask_Wind_Turbine_Noise</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wind turbine farms are normally...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: soundeventdetector.eu  
    Title: drone detection in practice  
-   Link: [https://soundeventdetector.eu/latest-news/drone-detection-in-practice/](https://soundeventdetector.eu/latest-news/drone-detection-in-practice/)  
+   Link: <a href="https://soundeventdetector.eu/latest-news/drone-detection-in-practice/" target="_blank" rel="noopener noreferrer nofollow">https://soundeventdetector.eu/latest-news/drone-detection-in-practice/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Sept 2025 — While conventional systems rely on cameras or RF sensors, our detector can recognize the sound of a drone and immediately...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: eejournal.com  
    Title: acoustic detection of drones  
-   Link: [https://www.eejournal.com/article/acoustic-detection-of-drones/](https://www.eejournal.com/article/acoustic-detection-of-drones/)  
+   Link: <a href="https://www.eejournal.com/article/acoustic-detection-of-drones/" target="_blank" rel="noopener noreferrer nofollow">https://www.eejournal.com/article/acoustic-detection-of-drones/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Mar 2024 — Passive acoustic location has been used to detect enemy aircraft by picking up the noise of their engines.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: webthesis.biblio.polito.it  
-   Link: [https://webthesis.biblio.polito.it/secure/36745/1/tesi.pdf](https://webthesis.biblio.polito.it/secure/36745/1/tesi.pdf)  
+   Link: <a href="https://webthesis.biblio.polito.it/secure/36745/1/tesi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://webthesis.biblio.polito.it/secure/36745/1/tesi.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Noise Assessment Methods and...by S Maghsoodi · 2025 — We found that factors like drone size, the number of rotors, flight maneuvers, an...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: osinto.com  
    Title: Acoustic Drone Detection  
-   Link: [https://www.osinto.com/the-osborne-report/acoustic-drone-detection/](https://www.osinto.com/the-osborne-report/acoustic-drone-detection/)  
+   Link: <a href="https://www.osinto.com/the-osborne-report/acoustic-drone-detection/" target="_blank" rel="noopener noreferrer nofollow">https://www.osinto.com/the-osborne-report/acoustic-drone-detection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s hard to ascertain the extent to which a lack of sufficiently well labelled acoustic data...Read more...</p></details>

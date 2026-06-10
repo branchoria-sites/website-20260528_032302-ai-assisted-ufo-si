@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /landing-lights/
 nav_short_title: Timeline Match
 title: Can Flight Data Recreate A Hovering UFO Sighting
-title_full: Can Flight Data Recreate A Hovering UFO Sighting | Landing lights
+title_full: Can Flight Data Recreate A Hovering UFO Sighting
 display_title_short: Timeline Match
 display_title: Timeline Match
 heading_title: Can Flight Data Recreate A Hovering UFO Sighting
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why a plane can look like a hovering orb | Aircraft
+parent_title: Why a plane can look like a hovering orb
 parent_permalink: /landing-lights/
 parent_nav_short_title: Landing lights
 parent_heading_title: Why a plane can look like a hovering orb
@@ -260,7 +260,7 @@ prev_link:
   permalink: /night-illusions/
   short_title: Night Illusions
   heading_title: Why Stationary Lights Start Moving In The Dark
-date: '2026-06-08 23:32:04 '
+date: '2026-06-10 20:11:57 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-1.webp
@@ -330,7 +330,7 @@ A witness may report:
 
 </div>
 
-Those transition moments are often more diagnostically useful than the [hovering]({{ 'wind-checks/' | relative_url }}) phase itself.
+Those transition moments are often more diagnostically useful than the hovering phase itself.
 
 Landing lights are intensely bright and are commonly used near airports and during approach operations. FAA guidance encourages aircraft lighting use near airports to improve visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pvaaust.com">[Pure Vision Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pvaaust.com</span><span class="citation-popover-snippet">Pure Vision AviationFAA ENCOURAGES THE USE OF LANDING LIGHTS FOR...To enhance the “see and avoid” concept, the FAA encourages pilots to...</span></span></span> At long range, the lights can become visible before navigation lights or aircraft structure are detectable.
 
@@ -392,7 +392,7 @@ That distinction is crucial in balanced UFO investigation. It avoids both extrem
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-2-dark.svg" | relative_url }}" alt="Timeline Match illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reconstructing the geometry from partial witness reports
 
-Witness accounts are often incomplete. People rarely provide exact bearings or precise timestamps.
+Witness accounts are often [incomplete]({{ 'incomplete-data/' | relative_url }}). People rarely provide exact bearings or precise timestamps.
 
 AI-assisted workflows therefore benefit from probabilistic reconstruction rather than rigid matching. A system can work backwards from uncertain descriptions such as:
 
@@ -417,7 +417,7 @@ Useful reconstruction techniques include:
 * Calculating aircraft approach corridors
 * Measuring apparent motion frame-by-frame in video
 
-Historical replay systems are especially valuable here because they preserve the exact geometry of the airspace at the reported time. Public ADS-B archives and replay tools are now commonly used by independent investigators and aviation enthusiasts to revisit sightings after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditELI5 - how can a plane appear still in the air?October 11, 2023 — It can appear still in the air because your eye doesn&#x27;t have enou...</span><span class="citation-popover-meta">Published: October 11, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/flight-tracking.12066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">flight tracking.12066</span><span class="citation-popover-snippet">Flight Tracking13 Oct 2021 — In case you didn&#x27;t know ADSB Exchange now offers 1 year of flight data playback. It displays some military f...</span></span></span>
+Historical replay systems are especially valuable here because they preserve the exact geometry of the airspace at the reported time. Public ADS-B archives and replay tools are now commonly used by independent investigators and aviation enthusiasts to revisit sightings after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ELI5 - how can a plane appear still in the air?October 11, 2023 — It can appear still in the air because your eye doesn&#x27;t have enou...</span><span class="citation-popover-meta">Published: October 11, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/flight-tracking.12066/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">flight tracking.12066</span><span class="citation-popover-snippet">Flight Tracking13 Oct 2021 — In case you didn&#x27;t know ADSB Exchange now offers 1 year of flight data playback. It displays some military f...</span></span></span>
 
 Even weak witness timing can sometimes become highly informative once combined with aircraft movement data.
 
@@ -458,7 +458,7 @@ Several factors can weaken an aircraft explanation:
 * Object behaviour inconsistent with known lighting geometry
 * No corroborating radar or ADS-B coverage where coverage should exist
 
-This does not automatically prove an anomalous event. [Coverage gaps]({{ 'coverage-gaps/' | relative_url }}), military flights, non-transponding aircraft, drones and witness timing errors can all complicate reconstruction. ADS-B systems do not capture every aircraft equally, and coverage quality varies by region and altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://de.airnavradar.com/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: de.airnavradar.com">[AirNav Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">de.airnavradar.com</span><span class="citation-popover-title">Air Nav Radar ADS-B</span><span class="citation-popover-snippet">AirNav RadarADS-B - AirNav Radar - Global Flight Tracking IntelligenceADS-B - AirNav Radar - Global Flight Tracking Intelligence | Live F...</span></span></span>
+This does not automatically prove an anomalous event. [Coverage gaps]({{ 'coverage-gaps/' | relative_url }}), military flights, non-transponding aircraft, drones and witness timing errors can all complicate reconstruction. ADS-B systems do not capture every aircraft equally, and coverage quality varies by region and altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://de.airnavradar.com/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: de.airnavradar.com">[AirNav Radar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">de.airnavradar.com</span><span class="citation-popover-title">Air Nav Radar ADS-B</span><span class="citation-popover-snippet">AirNav RadarADS-B - AirNav Radar - Global Flight Tracking IntelligenceADS-B - AirNav Radar - Global Flight Tracking Intelligence &#124; Live F...</span></span></span>
 
 Still, a failed geometry match is important because it prevents premature closure of the case.
 
@@ -506,16 +506,16 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Provides operational aviation context.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -523,16 +523,16 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for evidence-based assessment.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -540,16 +540,16 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Ernest K Gann</p>
         
-        
+        <p class="fr-book-desc">Offers insight into navigation and flight operations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -557,16 +557,16 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        
+        <p class="fr-book-desc">Directly relevant to aircraft movement and observer perception.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -574,13 +574,13 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -607,76 +607,72 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open airplane model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20airplane%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAirplane%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAirplane%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for airplane model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">airplane model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Airplane</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=airline+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airline-memorabilia-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airline memorabilia -book -books" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airline-memorabilia-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open airline memorabilia on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20airline%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAirline%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAirline%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for airline memorabilia on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">airline memorabilia</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Airline</span><span class="fr-search-tag">Memorabilia</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=airline+memorabilia+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airline-memorabilia-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airline memorabilia -book -books" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airline-memorabilia-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=data+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-data-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data poster -book -books -dvd" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-data-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open data poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20data%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EData%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EData%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for data poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">data poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Data</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=data+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-data-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="data poster -book -books -dvd" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-data-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=timeline-match-can-flight-data-recreate-a-hovering-ufo-sighting-ai-assisted-ufo-sighting-investi-airplane-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -734,10 +730,10 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -755,7 +751,7 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -895,176 +891,176 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
 
 1. <a id="endnote-1"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/](https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditELI5 - how can a plane appear still in the air?October 11, 2023 — It can appear still in the air because your eye doesn&#x27;t have enou...</p></details>
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1754ryp/eli5_how_can_a_plane_appear_still_in_the_air/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5 - how can a plane appear still in the air?October 11, 2023 — It can appear still in the air because your eye doesn&#x27;t have enou...</p></details>
    Published: October 11, 2023  
 
 2. <a id="endnote-2"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aviation/comments/1il0efc/any_way_to_see_past_adsb_air_picture_of_a/](https://www.reddit.com/r/aviation/comments/1il0efc/any_way_to_see_past_adsb_air_picture_of_a/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/1il0efc/any_way_to_see_past_adsb_air_picture_of_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1il0efc/any_way_to_see_past_adsb_air_picture_of_a/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;RedditAny way to see past ADS-B air picture of a location at a...February 8, 2025 — More specifically to the other comment, [https://glob...&quot;](https://glob...&quot;)...</p></details>
    Published: February 8, 2025  
 
 3. <a id="endnote-3"></a>
    Source: metabunk.org  
    Title: flight tracking.12066  
-   Link: [https://www.metabunk.org/threads/flight-tracking.12066/](https://www.metabunk.org/threads/flight-tracking.12066/)  
+   Link: <a href="https://www.metabunk.org/threads/flight-tracking.12066/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/flight-tracking.12066/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Tracking13 Oct 2021 — In case you didn&#x27;t know ADSB Exchange now offers 1 year of flight data playback. It displays some military f...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/](https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1htxlhm/26_year_pilot_just_witnessed_something_i_cannot/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>S-B, no aircraft meeting that location, altitude or description.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1h7cw24/friendly_reminder_from_the_community_please_check/](https://www.reddit.com/r/UFOs/comments/1h7cw24/friendly_reminder_from_the_community_please_check/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1h7cw24/friendly_reminder_from_the_community_please_check/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1h7cw24/friendly_reminder_from_the_community_please_check/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ng records from 5 major databases · We&#x27;re fundamentally...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askscience/comments/3y7dpi/when_im_on_an_airplane_and_i_look_straight_ahead/](https://www.reddit.com/r/askscience/comments/3y7dpi/when_im_on_an_airplane_and_i_look_straight_ahead/)  
+   Link: <a href="https://www.reddit.com/r/askscience/comments/3y7dpi/when_im_on_an_airplane_and_i_look_straight_ahead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/3y7dpi/when_im_on_an_airplane_and_i_look_straight_ahead/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Others have pointed to the vestibular system which is partly correct but this system mostly...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/MicrosoftFlightSim/comments/1e8xg7r/when_to_use_nav_strobe_and_landing_lights_in_ga/](https://www.reddit.com/r/MicrosoftFlightSim/comments/1e8xg7r/when_to_use_nav_strobe_and_landing_lights_in_ga/)  
+   Link: <a href="https://www.reddit.com/r/MicrosoftFlightSim/comments/1e8xg7r/when_to_use_nav_strobe_and_landing_lights_in_ga/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/MicrosoftFlightSim/comments/1e8xg7r/when_to_use_nav_strobe_and_landing_lights_in_ga/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>pecifically should navigation, strobe, and landing lights be...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
    Title: Chapter 2  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aeronautical Lighting and Other Airport Visual...Taxiway Centerline Lights. Taxiway centerline lights are used to facilitate ground traf...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
    Title: A C 20-30B  
-   Link: [https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569)  
+   Link: <a href="https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/22569</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AC 20-30B - Aircraft Position Light and Anticollision Light...Sets forth acceptable means, but not the only means, of showing compliance...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: adsbperformance.faa.gov  
-   Link: [https://adsbperformance.faa.gov/paprrequest.aspx](https://adsbperformance.faa.gov/paprrequest.aspx)  
+   Link: <a href="https://adsbperformance.faa.gov/paprrequest.aspx" target="_blank" rel="noopener noreferrer nofollow">https://adsbperformance.faa.gov/paprrequest.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Performance Report RequestIf a flight with matching identification can be located on the requested date, a Public ADS-B Performance...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf](https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/regulations_policies/handbooks_manuals/aviation/airplane_handbook/12_afh_ch11.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ay and approach lights. Bright runway and approach lighting...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: metabunk.org  
    Title: claim world’s first passive radar signal confirms visual ufo sighting.14046  
-   Link: [https://www.metabunk.org/threads/claim-world%E2%80%99s-first-passive-radar-signal-confirms-visual-ufo-sighting.14046/](https://www.metabunk.org/threads/claim-world%E2%80%99s-first-passive-radar-signal-confirms-visual-ufo-sighting.14046/)  
+   Link: <a href="https://www.metabunk.org/threads/claim-world%E2%80%99s-first-passive-radar-signal-confirms-visual-ufo-sighting.14046/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-world%E2%80%99s-first-passive-radar-signal-confirms-visual-ufo-sighting.14046/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Passive Radar Signal Confirms visual UFO-Sighting26 Feb 2025 — An article was published claiming that a UFO sighting has been confirmed v...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/](https://www.adsbexchange.com/)  
+   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B ExchangePoint your camera and get instant aircraft details. Learn More. See the sky clearly. Whether you&#x27;re tracking...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: txtav.com  
-   Link: [https://txtav.com/en/journey/articles/articles/adsb-out-explained](https://txtav.com/en/journey/articles/articles/adsb-out-explained)  
+   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: globe.adsbexchange.com  
-   Link: [https://globe.adsbexchange.com/](https://globe.adsbexchange.com/)  
+   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Historic track labels: UTC. Smaller wind labels. Label units. Darker Colors. Dark Mode. Dim...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: pvaaust.com  
-   Link: [https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/](https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/)  
+   Link: <a href="https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/" target="_blank" rel="noopener noreferrer nofollow">https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/</a>  
 
 17. <a id="endnote-17"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting](https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting)  
+   Link: <a href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft LightingAnti-collision lights such as rotating beacons and strobe lights increase aircraft visibility to other aircraft and grou...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/api/aircraft/v2/docs](https://www.adsbexchange.com/api/aircraft/v2/docs)  
+   Link: <a href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/api/aircraft/v2/docs</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB Exchange API DocumentationThe ADSB Exchange API provides real-time access to live global flight data, enabling retrieval of detailed...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: pilotinstitute.com  
    Title: airplane lights  
-   Link: [https://pilotinstitute.com/airplane-lights/](https://pilotinstitute.com/airplane-lights/)  
+   Link: <a href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow">https://pilotinstitute.com/airplane-lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — In this article, we will explain all the differ...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: de.airnavradar.com  
    Title: Air Nav Radar ADS-B  
-   Link: [https://de.airnavradar.com/ads-b](https://de.airnavradar.com/ads-b)  
+   Link: <a href="https://de.airnavradar.com/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://de.airnavradar.com/ads-b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AirNav RadarADS-B - AirNav Radar - Global Flight Tracking IntelligenceADS-B - AirNav Radar - Global Flight Tracking Intelligence | Live F...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/data-products/](https://www.adsbexchange.com/data-products/)  
+   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data ProductsAccess ADS-B Exchange data products with live flight APIs and historical datasets, offering high-fidelity, unfiltered aircra...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/data-samples/](https://www.adsbexchange.com/data-samples/)  
+   Link: <a href="https://www.adsbexchange.com/data-samples/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-samples/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Data from ADSBexchange.comSamples of the data ADS-B Exchange collects are available for evaluation. Complete data from the 1st of e...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/about/](https://www.adsbexchange.com/about/)  
+   Link: <a href="https://www.adsbexchange.com/about/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/about/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeReal-time, unfiltered flight tracking from a global community network—powering transparent aviation data for enthusiasts, r...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/803385438510648/posts/870906445091880/](https://www.facebook.com/groups/803385438510648/posts/870906445091880/)  
+   Link: <a href="https://www.facebook.com/groups/803385438510648/posts/870906445091880/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/803385438510648/posts/870906445091880/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft Lights and Their Purposes in AviationUnderstanding Aircraft Lights ✈️💡 Logo Lights: - Mounted on horizontal stabilizer or wingti...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40jakecreps/using-ads-b-exchange-to-collect-unfiltered-open-source-flight-data-90328405864d](https://medium.com/%40jakecreps/using-ads-b-exchange-to-collect-unfiltered-open-source-flight-data-90328405864d)  
+   Link: <a href="https://medium.com/%40jakecreps/using-ads-b-exchange-to-collect-unfiltered-open-source-flight-data-90328405864d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40jakecreps/using-ads-b-exchange-to-collect-unfiltered-open-source-flight-data-90328405864d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using ADS-B Exchange to Collect Unfiltered Open Source...ADS-B Exchange is the world&#x27;s largest source of unfiltered flight data. Normall...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: aopa.org  
-   Link: [https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying](https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying)  
+   Link: <a href="https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/training-and-safety/students/crosscountry/skills/night-flying</a>  
 
 28. <a id="endnote-28"></a>
    Source: adsbx.discourse.group  
-   Link: [https://adsbx.discourse.group/t/featured-content-the-public-value-of-unfiltered-flight-tracking-insights-by-adsbexchange/37](https://adsbx.discourse.group/t/featured-content-the-public-value-of-unfiltered-flight-tracking-insights-by-adsbexchange/37)  
+   Link: <a href="https://adsbx.discourse.group/t/featured-content-the-public-value-of-unfiltered-flight-tracking-insights-by-adsbexchange/37" target="_blank" rel="noopener noreferrer nofollow">https://adsbx.discourse.group/t/featured-content-the-public-value-of-unfiltered-flight-tracking-insights-by-adsbexchange/37</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Featured Content: The Public Value of Unfiltered Flight Tracking12 Sept 2023 — The myriad uses of unfiltered ADS-B data underscore the pr...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=d5BUXAozb08](https://www.youtube.com/watch?v=d5BUXAozb08)  
+   Link: <a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d5BUXAozb08</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These optical illusions are real world threat and something that real world Pilots have to be across so that they know what to expect...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUifCigiFZF/](https://www.instagram.com/reel/DUifCigiFZF/)  
+   Link: <a href="https://www.instagram.com/reel/DUifCigiFZF/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUifCigiFZF/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a visual effect where the runway looks higher, lower, steer or flatter than its truly is. And the brain...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: aviation.stackexchange.com  
    Title: how do pilots see at night if airplanes dont have front lights  
-   Link: [https://aviation.stackexchange.com/questions/12173/how-do-pilots-see-at-night-if-airplanes-dont-have-front-lights](https://aviation.stackexchange.com/questions/12173/how-do-pilots-see-at-night-if-airplanes-dont-have-front-lights)  
+   Link: <a href="https://aviation.stackexchange.com/questions/12173/how-do-pilots-see-at-night-if-airplanes-dont-have-front-lights" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/12173/how-do-pilots-see-at-night-if-airplanes-dont-have-front-lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do pilots see at night if airplanes don&#x27;t have front lights?29 Jan 2015 — How can pilots identify threats ahead of them if they don&#x27;t hav...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: migflug.com  
    Title: your first night flight why everything changes after sunset  
-   Link: [https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/](https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/)  
+   Link: <a href="https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/" target="_blank" rel="noopener noreferrer nofollow">https://migflug.com/jetflights/your-first-night-flight-why-everything-changes-after-sunset/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Your First Night Flight: Illusions &amp; Skills9 Apr 2026 — Master the sensory illusions and practical skills needed for your first night fli...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: eazypilot.com  
    Title: [night illusions](&#123;&#123; 'night-illusions/' | relative_url &#125;&#125;) while flying what every pilot should know  
-   Link: [https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/](https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/)  
+   Link: <a href="https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/" target="_blank" rel="noopener noreferrer nofollow">https://eazypilot.com/blog/night-illusions-while-flying-what-every-pilot-should-know/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Illusions While Flying: What Every Pilot Should KnowAug 10, 2025 — Night illusions are visual and sensory misinterpretations that c...</p></details>

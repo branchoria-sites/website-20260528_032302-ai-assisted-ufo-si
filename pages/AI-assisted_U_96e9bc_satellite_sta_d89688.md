@@ -35,7 +35,7 @@ sidebar_expanded_urls:
 - /ai-assisted-ufo-sighting-investigation/
 nav_short_title: Satellites
 title: Could It Be Starlink or a Satellite?
-title_full: Could It Be Starlink or a Satellite? | UFO Case AI
+title_full: Could It Be Starlink or a Satellite?
 display_title_short: Satellites
 display_title: Satellites
 heading_title: Could It Be Starlink or a Satellite?
@@ -313,7 +313,7 @@ next_link:
   permalink: /timeline/
   short_title: Timeline
   heading_title: What Else Was Happening During the Sighting?
-date: '2026-06-08 22:41:33 '
+date: '2026-06-10 19:42:10 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-overview.webp
@@ -345,11 +345,16 @@ The classic Starlink sighting is a “train”: a string of lights moving togeth
 
 A strong case-file intake should therefore ask for the exact pattern, not just “lights in the sky”. The most useful descriptors are:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * **A straight line of evenly spaced dots:** often consistent with a recent Starlink deployment if the timing and viewing direction match.
 * **One bright light that appears, brightens, then fades:** possibly a satellite flare caused by a favourable reflection angle.
-* **Several lights [following]({{ 'following-moon/' | relative_url }}) the same path at intervals:** possibly multiple satellites in similar orbital planes.
+* **Several lights following the same path at intervals:** possibly multiple satellites in similar orbital planes.
 * **A slow glowing object or cluster with a trail:** possibly a re-entry, especially if it lasts much longer than a meteor.
 * **A large spiral or expanding luminous cloud:** possibly rocket-stage fuel venting or exhaust, not a satellite pass itself.
+
+</div>
 
 The March 2025 spiral seen across parts of the UK and Europe is a useful cautionary example. BBC Sky at Night Magazine reported the Met Office explanation that the illuminated swirl was likely caused by a SpaceX Falcon 9 rocket, with frozen exhaust or fuel reflecting sunlight and forming a spiral as the stage rotated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This kind of event can be mistaken for something hovering or atmospheric, but it is checked through launch timing, trajectory, illumination geometry, and the fact that many witnesses across a wide area reported the same broad feature.
 
@@ -359,7 +364,7 @@ Re-entries form a different pattern. The Aerospace Corporation explains that nat
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-dark.svg" | relative_url }}" alt="Satellites illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using orbital predictions carefully
 
-An AI-assisted workflow should treat satellite prediction as a matching problem, not a keyword search. The input is the sighting case file; the output is a set of candidate orbital events with confidence notes.
+An AI-assisted workflow should treat satellite prediction as a matching problem, not a keyword search. The input is the sighting [case file]({{ 'case-file/' | relative_url }}); the output is a set of candidate orbital events with [confidence]({{ 'confidence/' | relative_url }}) notes.
 
 A practical workflow looks like this:
 
@@ -376,7 +381,7 @@ A practical workflow looks like this:
 
 </div>
 
-The biggest technical trap is [stale orbital]({{ 'orbital-data/' | relative_url }}) data. Skyfield’s satellite documentation warns that orbital elements go rapidly out of date, that the epoch date is when the element set is most accurate, and that older sightings require old archived elements while later predictions need fresh elements. It also notes that Two-Line Element data is only accurate to about a kilometre at epoch and degrades quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">Rhodes Mill Earth Satellites — Skyfield documentation</span></span></span>
+The biggest technical trap is stale [orbital data]({{ 'orbital-data/' | relative_url }}). Skyfield’s satellite documentation warns that orbital elements go rapidly out of date, that the epoch date is when the element set is most accurate, and that older sightings require old archived elements while later predictions need fresh elements. It also notes that Two-Line Element data is only accurate to about a kilometre at epoch and degrades quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Earth Satellites — Skyfield documentation</span><span class="citation-popover-snippet">Rhodes Mill Earth Satellites — Skyfield documentation</span></span></span>
 
 That limitation is not fatal for public UFO case triage. A kilometre-scale orbital uncertainty is often small compared with a witness’s uncertainty about time, bearing, and elevation. But it matters when analysts try to make a very tight claim, such as “this exact light in the video is satellite X”. In those cases, the workflow should prefer archived orbital elements close to the sighting time, multiple prediction tools, and explicit error margins.
 
@@ -529,7 +534,7 @@ This distinction is central to public-facing UFO investigation. Satellite checks
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -556,76 +561,72 @@ This distinction is central to public-facing UFO investigation. Satellite checks
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open satellite model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20satellite%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESatellite%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESatellite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for satellite model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">satellite model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Satellite</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=Starlink+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-starlink-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink toy" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-starlink-toy" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Starlink toy on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20Starlink%20toy%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EStarlink%20Toy%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EStarlink%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EToy%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for Starlink toy on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">Starlink toy</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Starlink</span><span class="fr-search-tag">Toy</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=Starlink+toy&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-starlink-toy&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Starlink toy" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-starlink-toy" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=orbital+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-orbital-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orbital wall art" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-orbital-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open orbital wall art on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20orbital%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EOrbital%20Wall%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOrbital%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%3Crect%20x%3D%22139%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22149%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for orbital wall art on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">orbital wall art</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Orbital</span><span class="fr-search-tag">Wall</span><span class="fr-search-tag">Art</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=orbital+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-orbital-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="orbital wall art" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-orbital-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=satellite+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite decor" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open satellite decor on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20satellite%20decor%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESatellite%20Decor%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESatellite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDecor%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for satellite decor on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">satellite decor</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Satellite</span><span class="fr-search-tag">Decor</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=satellite+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite decor" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=satellites-could-it-be-starlink-or-a-satellite-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -683,10 +684,10 @@ This distinction is central to public-facing UFO investigation. Satellite checks
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -704,7 +705,7 @@ This distinction is central to public-facing UFO investigation. Satellite checks
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -840,246 +841,246 @@ This distinction is central to public-facing UFO investigation. Satellite checks
 1. <a id="endnote-1"></a>
    Source: starlink.com  
    Title: Brightness Mitigation Best Practices Satellite Operators  
-   Link: [https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh](https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh)  
+   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOor2a4KJiJGT_HdQZ7jQ1pmEUS0qhE2Z-iPqu6yU2BT3oEOItXfh</a>  
 
 2. <a id="endnote-2"></a>
    Source: planet4589.org  
-   Link: [https://planet4589.org/space/con/star/stats.html](https://planet4589.org/space/con/star/stats.html)  
+   Link: <a href="https://planet4589.org/space/con/star/stats.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/con/star/stats.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
+   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-Above...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/article/what-does-reentry-look-like](https://aerospace.org/article/what-does-reentry-look-like)  
+   Link: <a href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/article/what-does-reentry-look-like</a>  
 
 5. <a id="endnote-5"></a>
    Source: aerospace.org  
    Title: The Aerospace Corporation Reentries  
-   Link: [https://aerospace.org/reentries](https://aerospace.org/reentries)  
+   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: Science UAP  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 7. <a id="endnote-7"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 9. <a id="endnote-9"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 10. <a id="endnote-10"></a>
    Source: space.com  
    Title: 24839 satellites  
-   Link: [https://www.space.com/24839-satellites.html](https://www.space.com/24839-satellites.html)  
+   Link: <a href="https://www.space.com/24839-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/24839-satellites.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: space.com  
    Title: x starlink satellites 10 weird things  
-   Link: [https://www.space.com/spacex-starlink-satellites-10-weird-things](https://www.space.com/spacex-starlink-satellites-10-weird-things)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
 
 12. <a id="endnote-12"></a>
    Source: svs.gsfc.nasa.gov  
-   Link: [https://svs.gsfc.nasa.gov/search/?datasets=454](https://svs.gsfc.nasa.gov/search/?datasets=454)  
+   Link: <a href="https://svs.gsfc.nasa.gov/search/?datasets=454" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/search/?datasets=454</a>  
 
 13. <a id="endnote-13"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Title: UAPISTTermsof [Reference](&#123;&#123; 'reference-points/' | relative_url &#125;&#125;) Signed  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf](https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf)  
+   Title: UAPISTTermsof Reference Signed  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/04/UAPISTTermsofReference_Signed.pdf</a>  
 
 15. <a id="endnote-15"></a>
    Source: spaceplace.nasa.gov  
-   Link: [https://spaceplace.nasa.gov/satellite/en/](https://spaceplace.nasa.gov/satellite/en/)  
+   Link: <a href="https://spaceplace.nasa.gov/satellite/en/" target="_blank" rel="noopener noreferrer nofollow">https://spaceplace.nasa.gov/satellite/en/</a>  
 
 16. <a id="endnote-16"></a>
    Source: planet4589.org  
-   Link: [https://planet4589.org/space/stats/active.html](https://planet4589.org/space/stats/active.html)  
+   Link: <a href="https://planet4589.org/space/stats/active.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/stats/active.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: celestrak.org  
    Title: Celes Trak  
-   Link: [https://celestrak.org/](https://celestrak.org/)  
+   Link: <a href="https://celestrak.org/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/</a>  
 
 18. <a id="endnote-18"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/documentation/gp-data-formats.php](https://www.celestrak.org/NORAD/documentation/gp-data-formats.php)  
+   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
 
 19. <a id="endnote-19"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/columns/v03n03/](https://www.celestrak.org/columns/v03n03/)  
+   Link: <a href="https://www.celestrak.org/columns/v03n03/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v03n03/</a>  
 
 20. <a id="endnote-20"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/supplemental/](https://www.celestrak.org/NORAD/elements/supplemental/)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
 
 21. <a id="endnote-21"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/](https://www.celestrak.org/NORAD/elements/)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
 
 22. <a id="endnote-22"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/columns/v04n03/](https://www.celestrak.org/columns/v04n03/)  
+   Link: <a href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v04n03/</a>  
 
 23. <a id="endnote-23"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf](https://www.celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf)  
+   Link: <a href="https://www.celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/publications/IAC/2025/IAC-25%2CA6%2C7%2C1%2Cx99453%2CPaper.pdf</a>  
 
 24. <a id="endnote-24"></a>
    Source: heavens-above.com  
-   Link: [https://heavens-above.com/statsdaily.aspx](https://heavens-above.com/statsdaily.aspx)  
+   Link: <a href="https://heavens-above.com/statsdaily.aspx" target="_blank" rel="noopener noreferrer nofollow">https://heavens-above.com/statsdaily.aspx</a>  
 
 25. <a id="endnote-25"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/SelectLocation.aspx](https://www.heavens-above.com/SelectLocation.aspx)  
+   Link: <a href="https://www.heavens-above.com/SelectLocation.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/SelectLocation.aspx</a>  
 
 26. <a id="endnote-26"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoo5IEm7onWqM7eFjrU5MH0OLzLwICoTdNnq_WFpmnvw_usyOH9v](https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoo5IEm7onWqM7eFjrU5MH0OLzLwICoTdNnq_WFpmnvw_usyOH9v)  
+   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoo5IEm7onWqM7eFjrU5MH0OLzLwICoTdNnq_WFpmnvw_usyOH9v" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoo5IEm7onWqM7eFjrU5MH0OLzLwICoTdNnq_WFpmnvw_usyOH9v</a>  
 
 27. <a id="endnote-27"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/gb/updates?srsltid=AfmBOorbINESMHwgtB7RM5p7mg7hJ78FP0ju0aYhIj7wxxxt0tq9U4M5](https://starlink.com/gb/updates?srsltid=AfmBOorbINESMHwgtB7RM5p7mg7hJ78FP0ju0aYhIj7wxxxt0tq9U4M5)  
+   Link: <a href="https://starlink.com/gb/updates?srsltid=AfmBOorbINESMHwgtB7RM5p7mg7hJ78FP0ju0aYhIj7wxxxt0tq9U4M5" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/gb/updates?srsltid=AfmBOorbINESMHwgtB7RM5p7mg7hJ78FP0ju0aYhIj7wxxxt0tq9U4M5</a>  
 
 28. <a id="endnote-28"></a>
    Source: celestrak.com  
-   Link: [https://celestrak.com/SpaceTrack/](https://celestrak.com/SpaceTrack/)  
+   Link: <a href="https://celestrak.com/SpaceTrack/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.com/SpaceTrack/</a>  
 
 29. <a id="endnote-29"></a>
    Source: space-track.org  
-   Link: [https://www.space-track.org/](https://www.space-track.org/)  
+   Link: <a href="https://www.space-track.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/</a>  
 
 30. <a id="endnote-30"></a>
    Source: space-track.org  
-   Link: [https://www.space-track.org/documentation](https://www.space-track.org/documentation)  
+   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
 
 31. <a id="endnote-31"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky](https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky)  
+   Link: <a href="https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/strange-spiral-cloud-in-the-sky</a>  
 
 32. <a id="endnote-32"></a>
    Source: rhodesmill.org  
    Title: Rhodes Mill Earth Satellites — Skyfield documentation  
-   Link: [https://rhodesmill.org/skyfield/earth-satellites.html](https://rhodesmill.org/skyfield/earth-satellites.html)  
+   Link: <a href="https://rhodesmill.org/skyfield/earth-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/earth-satellites.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/rapplerdotcom/posts/starlink-is-looking-to-increase-space-safety-by-lowering-the-satellites-orbit-fr/1402634445231953/](https://www.facebook.com/rapplerdotcom/posts/starlink-is-looking-to-increase-space-safety-by-lowering-the-satellites-orbit-fr/1402634445231953/)  
+   Link: <a href="https://www.facebook.com/rapplerdotcom/posts/starlink-is-looking-to-increase-space-safety-by-lowering-the-satellites-orbit-fr/1402634445231953/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/rapplerdotcom/posts/starlink-is-looking-to-increase-space-safety-by-lowering-the-satellites-orbit-fr/1402634445231953/</a>  
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spacefans1/posts/starlink-is-hitting-a-historic-milestone-this-month-spacexs-starlink-constellati/1344805287678477/](https://www.facebook.com/spacefans1/posts/starlink-is-hitting-a-historic-milestone-this-month-spacexs-starlink-constellati/1344805287678477/)  
+   Link: <a href="https://www.facebook.com/spacefans1/posts/starlink-is-hitting-a-historic-milestone-this-month-spacexs-starlink-constellati/1344805287678477/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacefans1/posts/starlink-is-hitting-a-historic-milestone-this-month-spacexs-starlink-constellati/1344805287678477/</a>  
 
 35. <a id="endnote-35"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/](https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/)  
+   Link: <a href="https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/YappAppNews/posts/starlink-satellites-spotted-in-uk-skies-this-morninga-string-of-bright-moving-li/730635113412303/</a>  
 
 36. <a id="endnote-36"></a>
    Source: Wikipedia  
    Title: Heavens Above  
-   Link: [https://en.wikipedia.org/wiki/Heavens-Above](https://en.wikipedia.org/wiki/Heavens-Above)  
+   Link: <a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Satellite](https://en.wikipedia.org/wiki/Satellite)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite</a>  
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Starlink](https://en.wikipedia.org/wiki/Starlink)  
+   Link: <a href="https://en.wikipedia.org/wiki/Starlink" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Starlink</a>  
 
 39. <a id="endnote-39"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/spacex/comments/1q1gmgy/starlink_satellites_being_lowered_from_550_km_to/](https://www.reddit.com/r/spacex/comments/1q1gmgy/starlink_satellites_being_lowered_from_550_km_to/)  
+   Link: <a href="https://www.reddit.com/r/spacex/comments/1q1gmgy/starlink_satellites_being_lowered_from_550_km_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/1q1gmgy/starlink_satellites_being_lowered_from_550_km_to/</a>  
 
 40. <a id="endnote-40"></a>
    Source: eoportal.org  
-   Link: [https://www.eoportal.org/satellite-missions/starlink](https://www.eoportal.org/satellite-missions/starlink)  
+   Link: <a href="https://www.eoportal.org/satellite-missions/starlink" target="_blank" rel="noopener noreferrer nofollow">https://www.eoportal.org/satellite-missions/starlink</a>  
 
 41. <a id="endnote-41"></a>
    Source: satflare.com  
    Title: STARLIN K Train  
-   Link: [https://www.satflare.com/track.asp?q=starlinklaunch](https://www.satflare.com/track.asp?q=starlinklaunch)  
+   Link: <a href="https://www.satflare.com/track.asp?q=starlinklaunch" target="_blank" rel="noopener noreferrer nofollow">https://www.satflare.com/track.asp?q=starlinklaunch</a>  
 
 42. <a id="endnote-42"></a>
    Source: spaceweatherarchive.com  
    Title: Starlink Satellite Flares (Part 1)  
-   Link: [https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/](https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/)  
+   Link: <a href="https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/" target="_blank" rel="noopener noreferrer nofollow">https://spaceweatherarchive.com/2019/05/29/starlink-satellite-flares/</a>  
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=GhLXCJ1Gyyc](https://www.youtube.com/watch?v=GhLXCJ1Gyyc)  
+   Link: <a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GhLXCJ1Gyyc</a>  
 
 44. <a id="endnote-44"></a>
    Source: keeptrack.space  
-   Link: [https://keeptrack.space/resources/celestrak](https://keeptrack.space/resources/celestrak)  
+   Link: <a href="https://keeptrack.space/resources/celestrak" target="_blank" rel="noopener noreferrer nofollow">https://keeptrack.space/resources/celestrak</a>  
 
 45. <a id="endnote-45"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/satellite](https://dictionary.cambridge.org/dictionary/english/satellite)  
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/satellite" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/satellite</a>  
 
 46. <a id="endnote-46"></a>
    Source: britastro.org  
    Title: starlink satellites brightness reduction  
-   Link: [https://britastro.org/forums/topic/starlink-satellites-brightness-reduction](https://britastro.org/forums/topic/starlink-satellites-brightness-reduction)  
+   Link: <a href="https://britastro.org/forums/topic/starlink-satellites-brightness-reduction" target="_blank" rel="noopener noreferrer nofollow">https://britastro.org/forums/topic/starlink-satellites-brightness-reduction</a>  
 
 ### Additional References
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: Are Those Lights in the Sky Satellites or UFOs?  
-   Link: [https://www.youtube.com/watch?v=zJg5k6aH_aA](https://www.youtube.com/watch?v=zJg5k6aH_aA)  
+   Link: <a href="https://www.youtube.com/watch?v=zJg5k6aH_aA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJg5k6aH_aA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What SpaceX Starlink Satellites Look Like in the Night Sky...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: How to Track the ISS and Satellites with Heavens-Above  
-   Link: [https://www.youtube.com/watch?v=V8lWQrtLQvE](https://www.youtube.com/watch?v=V8lWQrtLQvE)  
+   Link: <a href="https://www.youtube.com/watch?v=V8lWQrtLQvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V8lWQrtLQvE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are Those Lights in the Sky Satellites or UFOs?...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/](https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/)  
+   Link: <a href="https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thesocialctv/posts/nasa-has-released-a-report-detailing-how-it-tracks-unidentified-anomalous-phenom/850192826467495/</a>  
 
 50. <a id="endnote-50"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04](https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04)  
+   Link: <a href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04</a>  
 
 51. <a id="endnote-51"></a>
    Source: thebaldgeek.github.io  
-   Link: [https://thebaldgeek.github.io/autoTLE.html](https://thebaldgeek.github.io/autoTLE.html)  
+   Link: <a href="https://thebaldgeek.github.io/autoTLE.html" target="_blank" rel="noopener noreferrer nofollow">https://thebaldgeek.github.io/autoTLE.html</a>  
 
 52. <a id="endnote-52"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/177859700191023/posts/1258822865428029/](https://www.facebook.com/groups/177859700191023/posts/1258822865428029/)  
+   Link: <a href="https://www.facebook.com/groups/177859700191023/posts/1258822865428029/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/177859700191023/posts/1258822865428029/</a>  
 
 53. <a id="endnote-53"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/spacex/comments/wcrr42/brightness_mitigation_best_practices_for/](https://www.reddit.com/r/spacex/comments/wcrr42/brightness_mitigation_best_practices_for/)  
+   Link: <a href="https://www.reddit.com/r/spacex/comments/wcrr42/brightness_mitigation_best_practices_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/wcrr42/brightness_mitigation_best_practices_for/</a>  
 
 54. <a id="endnote-54"></a>
    Source: github.com  
-   Link: [https://github.com/CelesTrak](https://github.com/CelesTrak)  
+   Link: <a href="https://github.com/CelesTrak" target="_blank" rel="noopener noreferrer nofollow">https://github.com/CelesTrak</a>  
 
 55. <a id="endnote-55"></a>
    Source: iauoutreach.org  
-   Link: [https://iauoutreach.org/global-projects/dark-and-quiet-skies](https://iauoutreach.org/global-projects/dark-and-quiet-skies)  
+   Link: <a href="https://iauoutreach.org/global-projects/dark-and-quiet-skies" target="_blank" rel="noopener noreferrer nofollow">https://iauoutreach.org/global-projects/dark-and-quiet-skies</a>  
 
 56. <a id="endnote-56"></a>
    Source: x.com  
-   Link: [https://x.com/spacegovuk/status/1904464636612628979](https://x.com/spacegovuk/status/1904464636612628979)  
+   Link: <a href="https://x.com/spacegovuk/status/1904464636612628979" target="_blank" rel="noopener noreferrer nofollow">https://x.com/spacegovuk/status/1904464636612628979</a>  

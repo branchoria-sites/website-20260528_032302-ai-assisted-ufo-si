@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /chain-of-custody/
 nav_short_title: Missing Metadata
 title: What Happens When UFO Video Metadata Disappears?
-title_full: What Happens When UFO Video Metadata Disappears? | Chain of Custody
+title_full: What Happens When UFO Video Metadata Disappears?
 display_title_short: Missing Metadata
 display_title: Missing Metadata
 heading_title: What Happens When UFO Video Metadata Disappears?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can You Trust Where the UFO Video Came From | Video Limits
+parent_title: Can You Trust Where the UFO Video Came From
 parent_permalink: /chain-of-custody/
 parent_nav_short_title: Chain of Custody
 parent_heading_title: Can You Trust Where the UFO Video Came From
@@ -260,7 +260,7 @@ prev_link:
   permalink: /geolocation/
   short_title: Geolocation
   heading_title: Did This UFO Video Really Come From Here?
-date: '2026-06-09 00:17:58 '
+date: '2026-06-10 20:39:01 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1.webp
@@ -273,7 +273,7 @@ A UFO video can look dramatic while still being almost impossible to verify. In 
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1-dark.svg" | relative_url }}" alt="Missing Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This problem affects ordinary public uploads and high-profile military footage alike. Even the Pentagon’s All-domain Anomaly Resolution Office (AARO) acknowledged that its analysis of the well-known “GoFast” Navy UFO video relied on a publicly available copy because the original file and associated metadata were no longer available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> When metadata disappears, analysts can still study the visible imagery, but many stronger verification methods become weaker, slower or impossible.
+This problem affects ordinary public uploads and high-profile military footage alike. Even the Pentagon’s All-domain Anomaly Resolution Office (AARO) acknowledged that its analysis of the well-known “GoFast” Navy UFO video relied on a publicly available copy because the original file and associated metadata were no longer available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> When metadata disappears, analysts can still study the visible imagery, but many stronger verification methods become weaker, slower or impossible.
 
 ## What Original Metadata Can Reveal
 
@@ -282,21 +282,21 @@ Metadata is the hidden technical information stored inside a digital photo or vi
 Depending on the device and recording format, original metadata may include:
 
 * Exact capture time and date
-
-<div class="content-enhancement content-enhancement--metric" markdown="1">
-
 * GPS coordinates <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forensicosint.com/free-tools/image-metadata-analyzer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forensicosint.com">[forensicosint.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forensicosint.com</span><span class="citation-popover-snippet">, camera serial numbers, XMP edit history, and IPTC copyright...</span></span></span>
 * Camera or phone model
 * Lens settings and exposure data
 * Frame rate and codec information
-* Orientation and motion sensor data
+* Orientation and motion [sensor data]({{ 'sensor-data/' | relative_url }})
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
 * Editing history
 * Compression signatures
 * Device serial or manufacturer identifiers
 
 </div>
 
-For investigators trying to determine whether a UFO video matches a claimed sighting report, these details can anchor the footage to a real event window. Without them, analysts may struggle to compare the clip against aviation data, satellite passes, weather conditions, astronomical objects or radar records.
+For investigators trying to determine whether a UFO video matches a claimed sighting report, these details can anchor the footage to a real event window. Without them, analysts may struggle to compare the clip against aviation data, satellite passes, [weather]({{ 'weather/' | relative_url }}) conditions, astronomical objects or radar records.
 
 A timestamp, for example, can help AI systems correlate a video with:
 
@@ -315,18 +315,15 @@ A timestamp, for example, can help AI systems correlate a video with:
 
 If the timestamp is absent or unreliable, automated correlation becomes far less precise. A video claimed to show a mysterious object over London in 2024 might actually be recycled footage from another country years earlier.
 
-Metadata can also reveal whether a file appears original or altered. Digital forensics research shows that video containers and embedded metadata often preserve traces of editing software, recompression or platform processing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXivForensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span> Even when manipulation is subtle, metadata inconsistencies may suggest that a clip has passed through editing tools before public release.
+Metadata can also reveal whether a file appears original or altered. Digital forensics research shows that video containers and embedded metadata often preserve traces of editing software, recompression or platform processing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span> Even when manipulation is subtle, metadata inconsistencies may suggest that a clip has passed through editing tools before public release.
 
-This is one reason investigators strongly prefer the first-generation source file rather than a reposted [social media]({{ 'reposts/' | relative_url }}) version.
+This is one reason investigators strongly prefer the first-generation source file rather than a reposted social media version.
 
 ## Why Reposts and Screen Recordings Damage UFO Evidence
 
 A major chain-of-custody problem in public UFO footage is that the version seen by millions online is rarely the original recording.
 
 Typical degradation paths include:
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r01ceXJKhzo" title="How Are Forensic Tools Used To Analyze Digital Evidence? - Courtroom Chronicles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r01ceXJKhzo" target="_blank" rel="noopener noreferrer">How Are Forensic Tools Used To Analyze Digital Evidence? - Courtroom Chronicles</a></p><p class="youtube-embed-meta">Channel: Courtroom Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r01ceXJKhzo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r01ceXJKhzo">Open on YouTube</a></p></div></div></div>
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -342,7 +339,7 @@ Typical degradation paths include:
 
 At each stage, evidence can be lost.
 
-A screen recording may remove almost all embedded metadata. A clipped version may remove the opening seconds that showed landmarks or aircraft lights. Recompression may alter motion behaviour frame-by-frame, making an object appear faster, smoother or more erratic than in the source file.
+A screen recording may remove almost all embedded metadata. A clipped version may remove the opening seconds that showed landmarks or [aircraft]({{ 'aircraft/' | relative_url }}) lights. Recompression may alter motion behaviour frame-by-frame, making an object appear faster, smoother or more erratic than in the source file.
 
 For UFO analysis, this matters because many “extraordinary” movement claims depend on tiny visual details. Analysts often need access to:
 
@@ -360,13 +357,13 @@ For UFO analysis, this matters because many “extraordinary” movement claims 
 
 Once those are gone, the footage becomes much harder to interpret confidently.
 
-Digital forensic researchers note that metadata and container structures can reveal the life cycle of a video file, including signs of editing or platform recompression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXivForensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span> But those traces become weaker after repeated uploads and conversions.
+Digital forensic researchers note that metadata and container structures can reveal the life cycle of a video file, including signs of editing or platform recompression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span> But those traces become weaker after repeated uploads and conversions.
 
 ## How Platforms Strip or Rewrite File Data
 
 Most major social platforms intentionally alter uploaded media. Sometimes this is done for privacy reasons, bandwidth reduction or content standardisation. The result is that downloaded copies are often technically different from the original file.
 
-Researchers and forensic guidance documents consistently note that platforms frequently remove EXIF and related metadata during upload or sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">LinkedInUnderstanding Metadata in Digital Forensics: HTML vs. EXIFSocial media platforms have specific ways of handling both image and vi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Getting to the...</span></span></span>
+Researchers and forensic guidance documents consistently note that platforms frequently remove EXIF and related metadata during upload or sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-snippet">Understanding Metadata in Digital Forensics: HTML vs. EXIFSocial media platforms have specific ways of handling both image and vi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Getting to the...</span></span></span>
 
 Common platform effects include:
 
@@ -425,15 +422,14 @@ Without the original telemetry and full sensor metadata, analysts had reduced ce
 * Environmental context
 * Precise geometry between aircraft and object
 
-AARO ultimately concluded that the apparent speed was largely a perception effect caused by viewing geometry and parallax rather than extraordinary motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> But the agency also acknowledged that the missing source data constrained analysis.
+AARO ultimately concluded that the apparent speed was largely a perception effect caused by viewing geometry and parallax rather than extraordinary motion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> But the agency also acknowledged that the missing source data constrained analysis.
 
 This is an important lesson for UFO investigations generally. Even when footage comes from military systems with known provenance, lost metadata can narrow what analysts can prove.
 
 The debate around “GoFast” also demonstrates another important point: a striking visual impression alone is not enough. The interpretation depends heavily on supporting technical context. Once that context disappears, arguments tend to become more speculative and harder to resolve decisively.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HxaToM9CTi4" title="Las Vegas &#x27;giant creature&#x27; possible &#x27;alien&#x27; video is original: Evidence expert | Banfield" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HxaToM9CTi4" target="_blank" rel="noopener noreferrer">Las Vegas &#x27;giant creature&#x27; possible &#x27;alien&#x27; video is original: Evidence expert | Banfield</a></p><p class="youtube-embed-meta">Channel: NewsNation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HxaToM9CTi4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HxaToM9CTi4">Open on YouTube</a></p></div></div></div>
-
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-dark.svg" | relative_url }}" alt="Missing Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AI Systems Struggle Without Reliable Metadata
 
 AI-assisted UFO investigation is often imagined as image recognition alone, but modern investigative workflows rely heavily on contextual correlation.
@@ -462,7 +458,7 @@ If metadata is missing, AI tools may have to infer information indirectly throug
 * Audio clues
 * Social media posting history <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">a beginners guide to social media verification</span><span class="citation-popover-snippet">A Beginner&#x27;s Guide to Social Media Verification1 Nov 2021 — The following guide seeks to explain how we can be vigilant about the videos...</span></span></span>
 
-These methods can still be useful, and open-source investigators frequently use them. Bellingcat’s verification guides describe approaches such as reverse searching video frames, chronolocation and contextual analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">advanced guide verifying video content</span><span class="citation-popover-snippet">bellingcatAdvanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying image...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-snippet">Chronolocation: Determining When a Photo was Taken...8 May 2023 — This process of “chronolocation” – determining when a picture was take...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> But these techniques are slower, more uncertain and easier to dispute than direct source metadata.
+These methods can still be useful, and open-source investigators frequently use them. Bellingcat’s verification guides describe approaches such as reverse searching video frames, chronolocation and contextual analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">advanced guide verifying video content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying image...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-snippet">Chronolocation: Determining When a Photo was Taken...8 May 2023 — This process of “chronolocation” – determining when a picture was take...</span><span class="citation-popover-meta">Published: May 2023</span></span></span> But these techniques are slower, more uncertain and easier to dispute than direct source metadata.
 
 An AI system may therefore downgrade confidence automatically when:
 
@@ -474,8 +470,6 @@ An AI system may therefore downgrade confidence automatically when:
 
 That does not prove a video is fake. It means the evidential quality is lower.
 
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-dark.svg" | relative_url }}" alt="Missing Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Investigators Try to Preserve Immediately
 
 Because metadata disappears so easily, experienced digital investigators increasingly focus on rapid preservation.
@@ -499,10 +493,6 @@ This distinction becomes critical once a clip goes viral. Public attention can a
 
 That gap between virality and preservation is one of the biggest recurring weaknesses in public UFO video evidence today.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iwJocDEnL3E" title="FaceForensics++: Learning to Detect Manipulated Facial Images" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iwJocDEnL3E" target="_blank" rel="noopener noreferrer">FaceForensics++: Learning to Detect Manipulated Facial Images</a></p><p class="youtube-embed-meta">Channel: Justus Thies</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iwJocDEnL3E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iwJocDEnL3E">Open on YouTube</a></p></div></div></div>
-
-
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
@@ -515,14 +505,14 @@ That gap between virality and preservation is one of the biggest recurring weakn
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Good commercial anchor for official UFO footage discussion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -532,16 +522,16 @@ That gap between virality and preservation is one of the biggest recurring weakn
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Strong fit for claims weakened by missing evidence context.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -549,16 +539,16 @@ That gap between virality and preservation is one of the biggest recurring weakn
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        
+        <p class="fr-book-desc">Matches metadata loss and degraded confidence in conclusions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -566,16 +556,16 @@ That gap between virality and preservation is one of the biggest recurring weakn
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        
+        <p class="fr-book-desc">Relevant to video containers, compression, and missing source files.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -583,13 +573,13 @@ That gap between virality and preservation is one of the biggest recurring weakn
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -616,76 +606,72 @@ That gap between virality and preservation is one of the biggest recurring weakn
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera memory card on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20memory%20card%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Memory%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECard%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemory%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECard%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera memory card on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">camera memory card</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Memory</span><span class="fr-search-tag">Card</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera tripod on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20tripod%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Tripod%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETripod%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera tripod on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera tripod</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Tripod</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=missing-metadata-28b5a6-what-happens-when-ufo-video-metadata-disappears-ai-assisted-ufo-sighting-camera-memory-card&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -743,10 +729,10 @@ That gap between virality and preservation is one of the biggest recurring weakn
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -764,7 +750,7 @@ That gap between virality and preservation is one of the biggest recurring weakn
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -900,200 +886,200 @@ That gap between virality and preservation is one of the biggest recurring weakn
 1. <a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: aaro.mil  
    Title: UAP Imagery"Go Fast" Object, NAVAIR  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA: Case: &quot;GO FAST&quot; Video, Forward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Title: arXiv Forensic Analysis of [Video Files](&#123;&#123; 'video-timeline/' | relative_url &#125;&#125;) Using Metadata  
-   Link: [https://arxiv.org/abs/2105.06361](https://arxiv.org/abs/2105.06361)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivForensic Analysis of Video Files Using MetadataMay 13, 2021...</p></details>
+   Title: arXiv Forensic Analysis of Video Files Using Metadata  
+   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video Files Using MetadataMay 13, 2021...</p></details>
    Published: May 13, 2021  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Efficient video integrity analysis through container characterization  
-   Link: [https://arxiv.org/abs/2101.10795](https://arxiv.org/abs/2101.10795)  
+   Link: <a href="https://arxiv.org/abs/2101.10795" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2101.10795</a>  
 
 5. <a id="endnote-5"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</p></details>
+   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — ABSTRACT: Exif metadata contained in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc](https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInUnderstanding Metadata in Digital Forensics: HTML vs. EXIFSocial media platforms have specific ways of handling both image and vi...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Metadata in Digital Forensics: HTML vs. EXIFSocial media platforms have specific ways of handling both image and vi...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bellingcat.com  
    Title: advanced guide verifying video content  
-   Link: [https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/](https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatAdvanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying image...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying image...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/](https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/)  
+   Link: <a href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronolocation: Determining When a Photo was Taken...8 May 2023 — This process of “chronolocation” – determining when a picture was take...</p></details>
    Published: May 2023  
 
 9. <a id="endnote-9"></a>
    Source: bellingcat.com  
    Title: a beginners guide to social media verification  
-   Link: [https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Social Media Verification1 Nov 2021 — The [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) guide seeks to explain how we can be vigilant about the videos...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Social Media Verification1 Nov 2021 — The following guide seeks to explain how we can be vigilant about the videos...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: bellingcat.com  
    Title: the open source tool that has preserved 150000 pieces of online evidence  
-   Link: [https://www.bellingcat.com/resources/2025/08/13/the-open-source-tool-that-has-preserved-150000-pieces-of-online-evidence/](https://www.bellingcat.com/resources/2025/08/13/the-open-source-tool-that-has-preserved-150000-pieces-of-online-evidence/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatThe Open Source Tool That Has Preserved...Aug 13, 2025 — Bellingcat&#x27;s Auto Archiver is a tool aimed at preserving online digit...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/2025/08/13/the-open-source-tool-that-has-preserved-150000-pieces-of-online-evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2025/08/13/the-open-source-tool-that-has-preserved-150000-pieces-of-online-evidence/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Open Source Tool That Has Preserved...Aug 13, 2025 — Bellingcat&#x27;s Auto Archiver is a tool aimed at preserving online digit...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jicj/article/21/4/661/7502637](https://academic.oup.com/jicj/article/21/4/661/7502637)  
+   Link: <a href="https://academic.oup.com/jicj/article/21/4/661/7502637" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jicj/article/21/4/661/7502637</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicExpert Evidence and Digital Open Source Informationby M Gillett · 2023 · Cited by 20 — This article examines how the Court ca...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/](https://www.bellingcat.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcat - the home of online investigationsBellingcat has collected useful open source resources in one place to help researchers and...</p></details>
+   Link: <a href="https://www.bellingcat.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the home of online investigationsBellingcat has collected useful open source resources in one place to help researchers and...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: yemen.bellingcat.com  
-   Link: [https://yemen.bellingcat.com/methodology/workflow](https://yemen.bellingcat.com/methodology/workflow)  
+   Link: <a href="https://yemen.bellingcat.com/methodology/workflow" target="_blank" rel="noopener noreferrer nofollow">https://yemen.bellingcat.com/methodology/workflow</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcat.comWorkflow... digital evidence at the International Criminal Court and maintaining chain-of-custody in war crimes investigati...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: bellingcat.com  
    Title: JA Manual for PUBLICATION 1  
-   Link: [https://www.bellingcat.com/app/uploads/2022/12/JA-Manual-for-PUBLICATION-1.pdf](https://www.bellingcat.com/app/uploads/2022/12/JA-Manual-for-PUBLICATION-1.pdf)  
+   Link: <a href="https://www.bellingcat.com/app/uploads/2022/12/JA-Manual-for-PUBLICATION-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/app/uploads/2022/12/JA-Manual-for-PUBLICATION-1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>J&amp;A Manual for PUBLICATION14 Dec 2022 — This methodology was developed by GLAN and Bellingcat in response to that challenge, to guide Bel...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/tag/verification/](https://www.bellingcat.com/tag/verification/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VerificationHow to Conduct Comprehensive Video Collection · Advanced Guide on Verifying Video Content. Fake News · Geolocation · Verifica...</p></details>
+   Link: <a href="https://www.bellingcat.com/tag/verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/verification/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>VerificationHow to Conduct Comprehensive Video Collection · Advanced Guide on Verifying Video Content. Fake News · [Geolocation](&amp;#123;&amp;#123; &#x27;geolocation/&#x27; | relative_url &amp;#125;&amp;#125;) · Verifica...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/about/principles-for-data-collection/](https://www.bellingcat.com/about/principles-for-data-collection/)  
+   Link: <a href="https://www.bellingcat.com/about/principles-for-data-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/about/principles-for-data-collection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Principles for Data CollectionHave reasonable steps been taken to verify the accuracy of the information? Can people in the investigation...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bellingcat.com  
    Title: history sarin use syrian conflict  
-   Link: [https://www.bellingcat.com/news/middle-east/2017/09/06/history-sarin-use-syrian-conflict/](https://www.bellingcat.com/news/middle-east/2017/09/06/history-sarin-use-syrian-conflict/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A History of Sarin Use in the Syrian Conflict6 Sept 2017 — The United Nations Mission could not verify the [chain of custody](&amp;#123;&amp;#123; &#x27;chain-of-custody/&#x27; | relative_url &amp;#125;&amp;#125;) for this samp...</p></details>
+   Link: <a href="https://www.bellingcat.com/news/middle-east/2017/09/06/history-sarin-use-syrian-conflict/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/news/middle-east/2017/09/06/history-sarin-use-syrian-conflict/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A History of Sarin Use in the Syrian Conflict6 Sept 2017 — The United Nations Mission could not verify the chain of custody for this samp...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/osint-switzerland_today-most-social-media-sites-delete-activity-7302568486512324608-LYH9](https://www.linkedin.com/posts/osint-switzerland_today-most-social-media-sites-delete-activity-7302568486512324608-LYH9)  
+   Link: <a href="https://www.linkedin.com/posts/osint-switzerland_today-most-social-media-sites-delete-activity-7302568486512324608-LYH9" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/osint-switzerland_today-most-social-media-sites-delete-activity-7302568486512324608-LYH9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedIn images contain metadata, unlike other platforms.Today, most social media sites delete the metadata contained in files uploaded b...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: magnetforensics.com  
    Title: getting to the source understanding metadata removal on social media  
-   Link: [https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/](https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/)  
+   Link: <a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting to the...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: citizenevidence.org  
    Title: sending encrypted photos while preserving metadata  
-   Link: [https://citizenevidence.org/2020/04/20/sending-encrypted-photos-while-preserving-metadata/](https://citizenevidence.org/2020/04/20/sending-encrypted-photos-while-preserving-metadata/)  
+   Link: <a href="https://citizenevidence.org/2020/04/20/sending-encrypted-photos-while-preserving-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/2020/04/20/sending-encrypted-photos-while-preserving-metadata/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>To send full resolution images while preserving EXIF data, stop...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bellingcat.gitbook.io  
    Title: Bellingcat Auto Archiver  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/auto-archiver](https://bellingcat.gitbook.io/toolkit/more/all-tools/auto-archiver)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BellingcatAuto Archiver - Bellingcat&#x27;s Online Investigation Toolkit - GitBookFeb 19, 2026 — The Auto Archiver is an open-source tool deve...</p></details>
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/auto-archiver" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/auto-archiver</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Auto Archiver - Bellingcat&#x27;s Online Investigation Toolkit - GitBookFeb 19, 2026 — The Auto Archiver is an open-source tool deve...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bellingcat.gitbook.io  
    Title: io Exif Tool  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/exiftool](https://bellingcat.gitbook.io/toolkit/more/all-tools/exiftool)  
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/exiftool" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/exiftool</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bellingcat&#x27;s Online Investigation Toolkit - GitBook1 Feb 2026 — It supports major standards (EXIF, IPTC, XMP, ICC) plus extensive camera...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bellingcat.gitbook.io  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/invid](https://bellingcat.gitbook.io/toolkit/more/all-tools/invid)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Bellingcat&#x27;s Online Investigation Toolkit1 Feb 2026 — The InVID Verification Plugin is a comprehensive toolkit designed to assist journ...</p></details>
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/invid" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/invid</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bellingcat&#x27;s Online Investigation Toolkit1 Feb 2026 — The InVID Verification Plugin is a comprehensive toolkit designed to assist journ...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: bellingcat.gitbook.io  
    Title: io Metadata  
-   Link: [https://bellingcat.gitbook.io/toolkit/categories/image-video/metadata](https://bellingcat.gitbook.io/toolkit/categories/image-video/metadata)  
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/categories/image-video/metadata" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/categories/image-video/metadata</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>With the click of a button you can remove the camera, location and other...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: forensicosint.com  
-   Link: [https://www.forensicosint.com/free-tools/image-metadata-analyzer](https://www.forensicosint.com/free-tools/image-metadata-analyzer)  
+   Link: <a href="https://www.forensicosint.com/free-tools/image-metadata-analyzer" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicosint.com/free-tools/image-metadata-analyzer</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, camera serial numbers, XMP edit history, and IPTC copyright...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: gijn.org  
-   Link: [https://gijn.org/stories/document-day-bellingcats-digital-forensics-tools/](https://gijn.org/stories/document-day-bellingcats-digital-forensics-tools/)  
+   Link: <a href="https://gijn.org/stories/document-day-bellingcats-digital-forensics-tools/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/stories/document-day-bellingcats-digital-forensics-tools/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It includes satellite and mapping services, tools for verifying...Read more...</p></details>
 
 ### Additional References
 
 27. <a id="endnote-27"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/964877612/Csfi-Mini-Project-1](https://www.scribd.com/document/964877612/Csfi-Mini-Project-1)  
+   Link: <a href="https://www.scribd.com/document/964877612/Csfi-Mini-Project-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/964877612/Csfi-Mini-Project-1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Image Metadata LossMini Project. Forensic Analysis of Image Metadata Loss on Social Media Platforms Using an EXIF Pr...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: removemd.com  
-   Link: [https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal](https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal)  
+   Link: <a href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow">https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and Faceboo...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: iccforum.com  
-   Link: [https://iccforum.com/cyber-evidence](https://iccforum.com/cyber-evidence)  
+   Link: <a href="https://iccforum.com/cyber-evidence" target="_blank" rel="noopener noreferrer nofollow">https://iccforum.com/cyber-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Criminal Court ForumHow Can Cyber Evidence Help the ICC?The OTP can develop protocols to request and obtain collected c...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: exifmeta.com  
-   Link: [https://exifmeta.com/](https://exifmeta.com/)  
+   Link: <a href="https://exifmeta.com/" target="_blank" rel="noopener noreferrer nofollow">https://exifmeta.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>View metadata online — extract camera settings, GPS coordinates, and embedded data from photos, videos, and documents.Read more...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: facebook.com  
    Title: ufo or drone involved in mid air collision with jet over florida remains in myst  
-   Link: [https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/](https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/)  
+   Link: <a href="https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or drone involved in mid-air collision with jet over...UFO or drone involved in mid-air collision with jet over Florida remains in m...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=HdgRkjebf2g](https://www.youtube.com/watch?v=HdgRkjebf2g)  
+   Link: <a href="https://www.youtube.com/watch?v=HdgRkjebf2g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=HdgRkjebf2g</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ExifTool Explained: How Investigators Extract Hidden MetadataExif takes picture information that may have been captured during the digita...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: americanbar.org  
    Title: international verification standards open source videos  
-   Link: [https://www.americanbar.org/groups/science_technology/resources/scitech-lawyer/archive/international-verification-standards-open-source-videos/](https://www.americanbar.org/groups/science_technology/resources/scitech-lawyer/archive/international-verification-standards-open-source-videos/)  
+   Link: <a href="https://www.americanbar.org/groups/science_technology/resources/scitech-lawyer/archive/international-verification-standards-open-source-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanbar.org/groups/science_technology/resources/scitech-lawyer/archive/international-verification-standards-open-source-videos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>International Verification Standards for Open Source Videos20 Feb 2024 — If the metadata has been stripped (for example, if the video was...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: towerforensics.co.uk  
    Title: what is exif data and how can digital forensics aid in image analysis  
-   Link: [https://www.towerforensics.co.uk/blog/what-is-exif-data-and-how-can-digital-forensics-aid-in-image-analysis/](https://www.towerforensics.co.uk/blog/what-is-exif-data-and-how-can-digital-forensics-aid-in-image-analysis/)  
+   Link: <a href="https://www.towerforensics.co.uk/blog/what-is-exif-data-and-how-can-digital-forensics-aid-in-image-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.towerforensics.co.uk/blog/what-is-exif-data-and-how-can-digital-forensics-aid-in-image-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is a standard format that includes a variety of metadata tags used by digital cameras...Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: metadataperspective.com  
    Title: Metadata Matters: Camera Original Photos vs  
-   Link: [https://metadataperspective.com/2025/11/04/metadata-matters-camera-original-photos-vs-screenshots-in-court/](https://metadataperspective.com/2025/11/04/metadata-matters-camera-original-photos-vs-screenshots-in-court/)  
+   Link: <a href="https://metadataperspective.com/2025/11/04/metadata-matters-camera-original-photos-vs-screenshots-in-court/" target="_blank" rel="noopener noreferrer nofollow">https://metadataperspective.com/2025/11/04/metadata-matters-camera-original-photos-vs-screenshots-in-court/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Screenshots in...4 Nov 2025 — In digital forensic analysis, an original photo is a piece of primary evidence that can be validated throu...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/](https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed UFO videos. Lawmakers insist that these recordings, still kept...</p></details>

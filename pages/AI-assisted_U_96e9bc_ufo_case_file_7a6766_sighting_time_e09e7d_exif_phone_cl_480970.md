@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /timeline-e3b338/
 nav_short_title: EXIF timing
 title: Can phone metadata prove the sighting time?
-title_full: Can phone metadata prove the sighting time? | Timeline
+title_full: Can phone metadata prove the sighting time?
 display_title_short: EXIF timing
 display_title: EXIF timing
 heading_title: Can phone metadata prove the sighting time?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can the sighting time actually be tested? | Case File
+parent_title: Can the sighting time actually be tested?
 parent_permalink: /timeline-e3b338/
 parent_nav_short_title: Timeline
 parent_heading_title: Can the sighting time actually be tested?
@@ -260,7 +260,7 @@ next_link:
   permalink: /false-precision/
   short_title: False precision
   heading_title: When AI makes uncertain UFO times look exact
-date: '2026-06-09 00:12:48 '
+date: '2026-06-10 20:35:41 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_exif_phone_cl_480970-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_exif_phone_cl_480970-Illustration-1.webp
@@ -273,7 +273,7 @@ Phone photos and videos are now among the most common forms of evidence attached
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_exif_phone_cl_480970-Illustration-1-dark.svg" | relative_url }}" alt="EXIF timing illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_exif_phone_cl_480970-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_exif_phone_cl_480970-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-EXIF metadata can provide a valuable timestamp anchor, especially when the [original file]({{ 'original-files/' | relative_url }}) is available directly from the recording device. But phone clocks drift, users change time zones, daylight saving settings fail, exported files lose metadata, and [social media]({{ 'reposts/' | relative_url }}) platforms routinely rewrite or strip timing information. A sighting that appears to have occurred at 21:14 may actually have been recorded several minutes, or even several hours, earlier or later. That difference can completely change whether the object aligns with a satellite pass, aircraft approach, bright planet, rocket stage re-entry or no obvious explanation at all.
+EXIF [metadata]({{ 'metadata/' | relative_url }}) can provide a valuable timestamp anchor, especially when the original file is available directly from the recording device. But phone clocks drift, users change time zones, daylight saving settings fail, exported files lose metadata, and social media platforms routinely rewrite or strip timing information. A sighting that appears to have occurred at 21:14 may actually have been recorded several minutes, or even several hours, earlier or later. That difference can completely change whether the object aligns with a satellite pass, [aircraft]({{ 'aircraft/' | relative_url }}) approach, bright planet, rocket stage re-entry or no obvious explanation at all.
 
 For AI-assisted UFO sighting investigation, metadata should therefore be treated as evidence to be tested, not as automatic proof. The aim is to determine how trustworthy the timing really is, how much uncertainty remains, and whether the file timing survives comparison with external records.
 
@@ -294,7 +294,7 @@ Exchangeable Image File Format, usually shortened to EXIF, is metadata embedded 
 
 </div>
 
-The most important field for UFO timeline reconstruction is usually `DateTimeOriginal`, which attempts to record when the image was captured. On newer devices there may also be timezone-related tags such as `OffsetTimeOriginal`. These became more widely supported only in recent years, meaning many older files contain local time but no explicit timezone reference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photo.stackexchange.com">[Photography Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photo.stackexchange.com</span><span class="citation-popover-snippet">Photography Stack ExchangeCan I assume the DateTimeOriginal of an image without...5 Nov 2022 — Other than the GPS timestamps, EXIF times...</span></span></span>
+The most important field for UFO timeline reconstruction is usually `DateTimeOriginal`, which attempts to record when the image was captured. On newer devices there may also be timezone-related tags such as `OffsetTimeOriginal`. These became more widely supported only in recent years, meaning many older files contain local time but no explicit timezone reference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photo.stackexchange.com">[Photography Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photo.stackexchange.com</span><span class="citation-popover-snippet">graphy Stack ExchangeCan I assume the DateTimeOriginal of an image without...5 Nov 2022 — Other than the GPS timestamps, EXIF times...</span></span></span>
 
 That limitation matters more than many witnesses realise. If a witness travelled recently, crossed time zones, manually changed clock settings, or restored a phone backup incorrectly, the recorded capture time may be detached from real local time. In practical UFO investigation work, that can create false matches or false eliminations.
 
@@ -316,7 +316,7 @@ These are not interchangeable. A screenshot, edited clip or re-saved video can i
 
 ## Why “automatic time” is not a guarantee
 
-Most modern phones synchronise their clocks automatically using network time services connected ultimately to highly accurate atomic clock systems. NIST explains that phone time is normally linked through telecommunications and GPS timing infrastructure to international atomic time standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/atomic-clocks/keeping-us-time" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">keeping us time</span><span class="citation-popover-snippet">NISTKeeping Us On Time | NISTJun 30, 2025 — All told, GPS delivers time that is accurate to within 100 billionths of a second. So the tim...</span></span></span>
+Most modern phones synchronise their clocks automatically using network time services connected ultimately to highly accurate atomic clock systems. NIST explains that phone time is normally linked through telecommunications and GPS timing infrastructure to international atomic time standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/atomic-clocks/keeping-us-time" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-title">keeping us time</span><span class="citation-popover-snippet">Keeping Us On Time &#124; NISTJun 30, 2025 — All told, GPS delivers time that is accurate to within 100 billionths of a second. So the tim...</span></span></span>
 
 That sounds reassuring, and in many ordinary cases it is. However, UFO investigations frequently involve edge cases where automatic synchronisation failed or became unreliable:
 
@@ -340,9 +340,6 @@ Investigators should therefore avoid phrases such as “the metadata proves the 
 > “The available metadata suggests capture near 21:14 local device time, pending validation against external timing references.”
 
 That wording preserves uncertainty honestly while still treating the metadata as useful evidence.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
 
 ## How daylight saving and timezone errors distort UFO timelines
 
@@ -430,16 +427,50 @@ A practical investigation hierarchy often looks like this:
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Supports treating metadata as uncertain evidence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Supports cautious interpretation of technical evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Data and Goliath on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=MwF-BAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Data and Goliath" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Data and Goliath">Data and Goliath</a>
+        </h4>
+        <p class="fr-book-author">By Bruce Schneier</p>
+        
+        <p class="fr-book-desc">Useful for understanding hidden data and digital records.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Data+and+Goliath+by+Bruce+Schneier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -454,7 +485,7 @@ A practical investigation hierarchy often looks like this:
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Keeps the topic anchored in UFO case files.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -462,49 +493,15 @@ A practical investigation hierarchy often looks like this:
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Data+and+Goliath&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Data and Goliath</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -531,76 +528,72 @@ A practical investigation hierarchy often looks like this:
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open memory card on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20memory%20card%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemory%20Card%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemory%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECard%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for memory card on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">memory card</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Memory</span><span class="fr-search-tag">Card</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-memory-card" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-camera-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-camera-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open digital recorder on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20digital%20recorder%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDigital%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERecorder%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDigital%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERecorder%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for digital recorder on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">digital recorder</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Digital</span><span class="fr-search-tag">Recorder</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=exif-timing-can-phone-metadata-prove-the-sighting-time-ai-assisted-ufo-sighting-investigation-memory-card&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -658,10 +651,10 @@ A practical investigation hierarchy often looks like this:
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -679,7 +672,7 @@ A practical investigation hierarchy often looks like this:
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -810,7 +803,7 @@ A practical investigation hierarchy often looks like this:
 </script>
 </section>
 
-5. Social media repost <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">IPTCSocial Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
+5. Social media repost <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
 6. Screenshot or screen recording
 
 AI-assisted workflows should automatically classify files into these confidence bands rather than treating all uploads equally.
@@ -827,7 +820,7 @@ A well-designed investigation workflow should automatically flag:
 * timezone mismatches
 * daylight saving inconsistencies
 * impossible chronology sequences
-* edits after the claimed [sighting time]({{ 'timeline-e3b338/' | relative_url }})
+* edits after the claimed sighting time
 * metadata inconsistent with the stated device model
 * exported or recompressed files
 * GPS-time versus device-time disagreement
@@ -853,13 +846,10 @@ The strongest cases combine metadata with external anchors such as:
 * flight tracks
 * witness cross-confirmation
 * astronomical conditions
-* [weather radar]({{ 'radar-errors/' | relative_url }})
-* live social media posts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">IPTCSocial Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
+* [weather]({{ 'weather/' | relative_url }}) radar
+* live social media posts <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
 
 AI is most effective when it treats metadata as one layer inside a broader evidence matrix rather than as a standalone truth source.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
 
 ## Practical signs that a timestamp is probably reliable
 
@@ -881,7 +871,7 @@ Lower-confidence indicators include:
 * screenshots instead of originals
 * inconsistent timezones
 * edited or transcoded files
-* metadata stripped by social media <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">IPTCSocial Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
+* metadata stripped by social media <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
 * impossible chronology sequences
 * device clocks obviously wrong elsewhere
 * witness uncertainty about phone settings
@@ -904,101 +894,101 @@ The key investigative lesson is simple: phone metadata is valuable, but it is no
 1. <a id="endnote-1"></a>
    Source: nist.gov  
    Title: keeping us time  
-   Link: [https://www.nist.gov/atomic-clocks/keeping-us-time](https://www.nist.gov/atomic-clocks/keeping-us-time)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTKeeping Us On Time | NISTJun 30, 2025 — All told, GPS delivers time that is accurate to within 100 billionths of a second. So the tim...</p></details>
+   Link: <a href="https://www.nist.gov/atomic-clocks/keeping-us-time" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/atomic-clocks/keeping-us-time</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Keeping Us On Time | NISTJun 30, 2025 — All told, GPS delivers time that is accurate to within 100 billionths of a second. So the tim...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nist.gov  
    Title: how does atomic time get your phone  
-   Link: [https://www.nist.gov/atomic-clocks/how-does-atomic-time-get-your-phone](https://www.nist.gov/atomic-clocks/how-does-atomic-time-get-your-phone)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTHow Does Atomic Time Get to Your Phone?Sep 30, 2024 — Follow the journey of time from atomic clocks in government labs to the phone i...</p></details>
+   Link: <a href="https://www.nist.gov/atomic-clocks/how-does-atomic-time-get-your-phone" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/atomic-clocks/how-does-atomic-time-get-your-phone</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does Atomic Time Get to Your Phone?Sep 30, 2024 — Follow the journey of time from atomic clocks in government labs to the phone i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: forum.neededapps.com  
    Title: You can manually add them via the tag manager.Read more  
-   Link: [https://forum.neededapps.com/t/exif-time-stamps-general-discussion/347](https://forum.neededapps.com/t/exif-time-stamps-general-discussion/347)  
+   Link: <a href="https://forum.neededapps.com/t/exif-time-stamps-general-discussion/347" target="_blank" rel="noopener noreferrer nofollow">https://forum.neededapps.com/t/exif-time-stamps-general-discussion/347</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NeededApps ForumEXIF time stamps-General Discussion - MetaImageJuly 30, 2023 — 30 Jul 2023 — Please note that MetaImage supports time zon...</p></details>
    Published: July 30, 2023  
 
 4. <a id="endnote-4"></a>
    Source: community.adobe.com  
    Title: This means exports from Lightroom would be out of order  
-   Link: [https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891](https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891)  
+   Link: <a href="https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891" target="_blank" rel="noopener noreferrer nofollow">https://community.adobe.com/feature-requests-676/p-add-proper-utc-offset-support-when-changing-image-time-665891</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Adobe CommunityP: Add proper UTC offset support when changing image time2 May 2024 — Some apps, such as Apple Photos, uses the utc offset...</p></details>
    Published: May 2024  
 
 5. <a id="endnote-5"></a>
    Source: discussions.apple.com  
    Title: DOC 250002750  
-   Link: [https://discussions.apple.com/docs/DOC-250002750](https://discussions.apple.com/docs/DOC-250002750)  
+   Link: <a href="https://discussions.apple.com/docs/DOC-250002750" target="_blank" rel="noopener noreferrer nofollow">https://discussions.apple.com/docs/DOC-250002750</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Support CommunityMovie dates and Photos.app20 Sept 2025 — 3. If &#x27;Keys:CreationDate&#x27; in a movie or &#x27;ExifIFD:OffsetTimeOriginal&#x27; meta...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: iptc.org  
    Title: social media sites photo metadata test results 2019  
-   Link: [https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/](https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IPTCSocial Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</p></details>
+   Link: <a href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow">https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: iptc.org  
    Title: Photo Metadata  
-   Link: [https://iptc.org/standards/photo-metadata/](https://iptc.org/standards/photo-metadata/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IPTCPhoto Metadata - IPTCWe examine metadata in commonly used software, social media platforms, and more. The removal of rights informati...</p></details>
+   Link: <a href="https://iptc.org/standards/photo-metadata/" target="_blank" rel="noopener noreferrer nofollow">https://iptc.org/standards/photo-metadata/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Metadata - IPTCWe examine metadata in commonly used software, social media platforms, and more. The removal of rights informati...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: iptc.org  
    Title: Many Social Media Sites Still Remove Image Rights  
-   Link: [https://www.iptc.org/news/many-social-media-sites-still-remove-image-rights-information-from-photos/](https://www.iptc.org/news/many-social-media-sites-still-remove-image-rights-information-from-photos/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IPTCJan 19, 2016 — Important image metadata is not retained in images after upload to some of the most popular social media sites, accord...</p></details>
+   Link: <a href="https://www.iptc.org/news/many-social-media-sites-still-remove-image-rights-information-from-photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.iptc.org/news/many-social-media-sites-still-remove-image-rights-information-from-photos/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jan 19, 2016 — Important image metadata is not retained in images after upload to some of the most popular social media sites, accord...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
+   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>images are transferred as “images” (i.e., in chat mode) or uploaded through social media, aggressive compression algorithms strip Exif me...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: photo.stackexchange.com  
-   Link: [https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a](https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Photography Stack ExchangeCan I assume the DateTimeOriginal of an image without...5 Nov 2022 — Other than the GPS timestamps, EXIF times...</p></details>
+   Link: <a href="https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/130570/can-i-assume-the-datetimeoriginal-of-an-image-without-an-offsettimeoriginal-is-a</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>graphy Stack ExchangeCan I assume the DateTimeOriginal of an image without...5 Nov 2022 — Other than the GPS timestamps, EXIF times...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: blogs.loc.gov  
    Title: social media networks stripping data from your digital photos  
-   Link: [https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/](https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/)  
+   Link: <a href="https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/" target="_blank" rel="noopener noreferrer nofollow">https://blogs.loc.gov/thesignal/2013/04/social-media-networks-stripping-data-from-your-digital-photos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Library of CongressSocial Media Networks Stripping Data from Your Digital...Apr 11, 2013 — This survey shows that a number of the mo...</p></details>
 
 ### Additional References
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/osxphotos/comments/1mssx37/datetimeoriginal_timezone_handling_issue/](https://www.reddit.com/r/osxphotos/comments/1mssx37/datetimeoriginal_timezone_handling_issue/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditDateTimeOriginal timezone handling issue: r/osxphotosIn your exiftool output there is no timezone data (OffsetTimeOriginal) whic...</p></details>
+   Link: <a href="https://www.reddit.com/r/osxphotos/comments/1mssx37/datetimeoriginal_timezone_handling_issue/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/osxphotos/comments/1mssx37/datetimeoriginal_timezone_handling_issue/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>DateTimeOriginal timezone handling issue: r/osxphotosIn your exiftool output there is no timezone data (OffsetTimeOriginal) whic...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Understanding EXIF Metadata and Photo Timestamps  
-   Link: [https://www.youtube.com/watch?v=Ff57L0-f4qY](https://www.youtube.com/watch?v=Ff57L0-f4qY)  
+   Link: <a href="https://www.youtube.com/watch?v=Ff57L0-f4qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ff57L0-f4qY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Your Phone Photos Have the Wrong Date...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Hidden Data Inside Your Digital Photos  
-   Link: [https://www.youtube.com/watch?v=c7rNf46s434](https://www.youtube.com/watch?v=c7rNf46s434)  
+   Link: <a href="https://www.youtube.com/watch?v=c7rNf46s434" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=c7rNf46s434</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Time Zone Settings Affect Photo Metadata...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
    Title: Digital Forensics: Analyzing Image Metadata  
-   Link: [https://www.youtube.com/watch?v=kYJjZ3L1oXk](https://www.youtube.com/watch?v=kYJjZ3L1oXk)  
+   Link: <a href="https://www.youtube.com/watch?v=kYJjZ3L1oXk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJjZ3L1oXk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hidden Data Inside Your Digital Photos...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: Why Your Phone Photos Have the Wrong Date  
-   Link: [https://www.youtube.com/watch?v=qT2bXN2S6Hk](https://www.youtube.com/watch?v=qT2bXN2S6Hk)  
+   Link: <a href="https://www.youtube.com/watch?v=qT2bXN2S6Hk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qT2bXN2S6Hk</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics: Analyzing Image Metadata...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: How Time Zone Settings Affect Photo Metadata  
-   Link: [https://www.youtube.com/watch?v=N4U3pQoI5Dk](https://www.youtube.com/watch?v=N4U3pQoI5Dk)  
+   Link: <a href="https://www.youtube.com/watch?v=N4U3pQoI5Dk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=N4U3pQoI5Dk</a>  

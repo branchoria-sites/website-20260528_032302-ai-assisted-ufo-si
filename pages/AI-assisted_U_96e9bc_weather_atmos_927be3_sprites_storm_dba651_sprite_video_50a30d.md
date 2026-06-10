@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /sprites/
 nav_short_title: Video tests
 title: What one frame can reveal
-title_full: What one frame can reveal | Sprites
+title_full: What one frame can reveal
 display_title_short: Video tests
 display_title: Video tests
 heading_title: What one frame can reveal
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Red flashes above storms and UFO reports | Weather
+parent_title: Red flashes above storms and UFO reports
 parent_permalink: /sprites/
 parent_nav_short_title: Sprites
 parent_heading_title: Red flashes above storms and UFO reports
@@ -260,7 +260,7 @@ prev_link:
   permalink: /storm-geometry/
   short_title: Storm geometry
   heading_title: Why sprites can look like hovering craft
-date: '2026-06-08 23:27:56 '
+date: '2026-06-10 20:09:17 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1.webp
@@ -269,11 +269,11 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_db
 
 ## Introduction
 
-A short, blurry phone clip can turn a distant [atmospheric]({{ 'scintillation/' | relative_url }}) flash into a convincing UFO claim within minutes. In reports involving red “objects” above thunderstorms, frame-by-frame review is often the fastest way to separate a transient luminous event such as a sprite from a solid airborne object. The key question is not whether the light looked strange in real time, but whether the video behaves like a physical craft, a [lightning]({{ 'lightning-timing/' | relative_url }})-related plasma event, or a camera artefact once individual frames are inspected.
+A short, blurry phone clip can turn a distant atmospheric flash into a convincing UFO claim within minutes. In reports involving red “objects” above thunderstorms, frame-by-frame [review]({{ 'review/' | relative_url }}) is often the fastest way to separate a transient luminous event such as a sprite from a solid airborne object. The key question is not whether the light looked strange in real time, but whether the video behaves like a physical craft, a lightning-related plasma event, or a camera artefact once individual frames are inspected.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1-dark.svg" | relative_url }}" alt="Video tests illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because sprites and related upper-atmosphere flashes can last only a few milliseconds, sometimes appearing in just one or two frames of standard [smartphone]({{ 'phone-cameras/' | relative_url }}) footage. NOAA and NASA both describe sprites as extremely brief transient luminous events linked to thunderstorms, often red in colour and visible high above storm systems. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span> In UFO investigations, those characteristics create a recurring problem: witnesses may sincerely report a [hovering]({{ 'wind-checks/' | relative_url }}) structured object when the recording actually contains a momentary atmospheric discharge amplified by compression, exposure, and motion blur.
+This matters because [sprites]({{ 'sprites/' | relative_url }}) and related upper-atmosphere flashes can last only a few milliseconds, sometimes appearing in just one or two frames of standard smartphone footage. NOAA and NASA both describe sprites as extremely brief transient luminous events linked to thunderstorms, often red in colour and visible high above storm systems. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span> In UFO investigations, those characteristics create a recurring problem: witnesses may sincerely report a hovering structured object when the recording actually contains a momentary atmospheric discharge amplified by compression, exposure, and motion blur.
 
 ## What one frame can reveal
 
@@ -291,13 +291,13 @@ A genuine structured object moving through the atmosphere usually shows continui
 
 </div>
 
-Sprites behave differently. They often appear abruptly with no approach path, peak instantly, then vanish without transitional movement. Instead of travelling through the frame, they “ignite” in place. Frame stepping commonly reveals branching filaments, diffuse upper glows, or vertically stretched tendrils inconsistent with aircraft lighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
+Sprites behave differently. They often appear abruptly with no approach path, peak instantly, then vanish without transitional movement. Instead of travelling through the frame, they “ignite” in place. Frame stepping commonly reveals branching filaments, diffuse upper glows, or vertically stretched tendrils inconsistent with [aircraft]({{ 'aircraft/' | relative_url }}) lighting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
 
 Investigators reviewing UFO clips tied to thunderstorms therefore treat the first appearance frame as critical evidence. If the object does not exist before the triggering frame and disappears immediately after, the probability shifts strongly toward a transient electrical event rather than a craft.
 
 ## Sprite clues in phone footage
 
-Modern phones unintentionally preserve useful forensic signatures. Even heavily compressed clips can contain timing and geometry clues that help distinguish sprites from drones, aircraft, meteors, or edited hoaxes.
+Modern phones unintentionally preserve useful forensic signatures. Even heavily compressed clips can contain timing and [geometry]({{ 'geometry/' | relative_url }}) clues that help distinguish sprites from drones, aircraft, meteors, or edited hoaxes.
 
 ### Sudden full-intensity appearance
 
@@ -332,7 +332,7 @@ Sprites usually appear far above cumulonimbus tops. If the light remains vertica
 
 ### Delayed appearance after lightning
 
-A surprisingly useful clue is timing offset. Sprites are often triggered after strong lightning discharges below the cloud deck. Frame-by-frame [review]({{ 'review/' | relative_url }}) sometimes reveals a lower-cloud lightning pulse occurring just before the red upper-atmosphere flash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</span></span></span>
+A surprisingly useful clue is timing offset. Sprites are often triggered after strong lightning discharges below the cloud deck. Frame-by-frame review sometimes reveals a lower-cloud lightning pulse occurring just before the red upper-atmosphere flash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</span></span></span>
 
 AI-assisted workflows can automate this check by:
 
@@ -406,11 +406,11 @@ A true sprite may only occupy 33 milliseconds in the source file even though rep
 
 ## Common artefacts that exaggerate motion
 
-Phone cameras do not record light in a neutral way. Several normal imaging behaviours can make a brief atmospheric flash appear mechanical or intelligent.
+[Phone cameras]({{ 'phone-cameras/' | relative_url }}) do not record light in a neutral way. Several normal imaging behaviours can make a brief atmospheric flash appear mechanical or intelligent.
 
 ### Rolling shutter distortion
 
-Most smartphones use CMOS sensors with rolling shutter readout, meaning different parts of the frame are captured milliseconds apart rather than simultaneously. Research into rolling-shutter video behaviour shows that rapidly changing light sources can become stretched, skewed, or segmented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1903.09889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Analysis of Rolling Shutter Effect on ENF based Video Forensics</span><span class="citation-popover-snippet">arXivAnalysis of Rolling Shutter Effect on ENF based Video ForensicsMarch 23, 2019...</span><span class="citation-popover-meta">Published: March 23, 2019</span></span></span>
+Most smartphones use CMOS sensors with rolling shutter readout, meaning different parts of the frame are captured milliseconds apart rather than simultaneously. Research into rolling-shutter video behaviour shows that rapidly changing light sources can become stretched, skewed, or segmented. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1903.09889" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Analysis of Rolling Shutter Effect on ENF based Video Forensics</span><span class="citation-popover-snippet">Analysis of Rolling Shutter Effect on ENF based Video ForensicsMarch 23, 2019...</span><span class="citation-popover-meta">Published: March 23, 2019</span></span></span>
 
 For sprite-like events, that can create:
 
@@ -475,11 +475,11 @@ An effective sprite-screening workflow typically combines:
 * Frame extraction
 * Exposure analysis
 * Motion vector tracking
-* [Weather radar]({{ 'radar-errors/' | relative_url }}) overlays
-* Lightning strike correlation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpritacular: NASA&#x27;s New Citizen Science Project to...Oct 26, 2022 — Sprites occur at some 50 miles (80 kilometers) altitude, high ab...</span></span></span>
+* [Weather]({{ 'weather/' | relative_url }}) radar overlays
+* Lightning strike correlation <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spritacular: NASA&#x27;s New Citizen Science Project to...Oct 26, 2022 — Sprites occur at some 50 miles (80 kilometers) altitude, high ab...</span></span></span>
 * Geolocation and horizon mapping
 
-AI systems can automate much of this triage. A model trained on known transient luminous events can compare frame geometry, colour distribution, and duration patterns against documented sprite footage. NASA’s Spritacular citizen-science effort and expanding amateur observation archives provide increasingly useful comparison material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASASpritacular: NASA&#x27;s New Citizen Science Project to...Oct 26, 2022 — Sprites occur at some 50 miles (80 kilometers) altitude, high ab...</span></span></span>
+AI systems can automate much of this triage. A model trained on known transient luminous events can compare frame geometry, colour distribution, and duration patterns against documented sprite footage. NASA’s Spritacular citizen-science effort and expanding amateur observation archives provide increasingly useful comparison material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">Spritacular: NASA&#x27;s New Citizen Science Project to...Oct 26, 2022 — Sprites occur at some 50 miles (80 kilometers) altitude, high ab...</span></span></span>
 
 That does not mean every red flash above storms is solved automatically. Some clips remain too compressed, too short, or too lacking in contextual metadata for reliable classification. In other cases, aircraft lights, distant lightning, sensor artefacts, and atmospheric events overlap in confusing ways.
 
@@ -571,7 +571,7 @@ Still, frame-by-frame testing sharply narrows the field of plausible explanation
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -598,76 +598,72 @@ Still, frame-by-frame testing sharply narrows the field of plausible explanation
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-ger&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-ger" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-artificial-intelligence-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-cd-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-cd-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-cd-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-band-concert-cd-se" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=video-tests-what-one-frame-can-reveal-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series-television-ger&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -725,10 +721,10 @@ Still, frame-by-frame testing sharply narrows the field of plausible explanation
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -746,7 +742,7 @@ Still, frame-by-frame testing sharply narrows the field of plausible explanation
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -881,131 +877,131 @@ Still, frame-by-frame testing sharply narrows the field of plausible explanation
 
 1. <a id="endnote-1"></a>
    Source: nssl.noaa.gov  
-   Link: [https://www.nssl.noaa.gov/education/svrwx101/lightning/types/](https://www.nssl.noaa.gov/education/svrwx101/lightning/types/)  
+   Link: <a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/types/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/citizen-science/spritacular/](https://science.nasa.gov/citizen-science/spritacular/)  
+   Link: <a href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/citizen-science/spritacular/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/](https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASASpritacular: NASA&#x27;s New Citizen Science Project to...Oct 26, 2022 — Sprites occur at some 50 miles (80 kilometers) altitude, high ab...</p></details>
+   Link: <a href="https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spritacular: NASA&#x27;s New Citizen Science Project to...Oct 26, 2022 — Sprites occur at some 50 miles (80 kilometers) altitude, high ab...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: earth.com  
    Title: nasa extraordinary event photo storms red sprites from iss astronauts  
-   Link: [https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/](https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/)  
+   Link: <a href="https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA shares photos of an extraordinary event witnessed...Mar 10, 2026 — A mysterious phenomenon known as “red sprites” randomly occur in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Sprite (lightning)  
-   Link: [https://en.wikipedia.org/wiki/Sprite_%28lightning%29](https://en.wikipedia.org/wiki/Sprite_%28lightning%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sprite_%28lightning%29</a>  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Upper-atmospheric lightning  
-   Link: [https://en.wikipedia.org/wiki/Upper-atmospheric_lightning](https://en.wikipedia.org/wiki/Upper-atmospheric_lightning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Upper-atmospheric_lightning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-atmospheric lightningUpper-atmospheric lightning is believed to be electrically induced forms of luminous plasma. The preferred...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Analysis of Rolling Shutter Effect on ENF based Video Forensics  
-   Link: [https://arxiv.org/abs/1903.09889](https://arxiv.org/abs/1903.09889)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAnalysis of Rolling Shutter Effect on ENF based Video ForensicsMarch 23, 2019...</p></details>
+   Link: <a href="https://arxiv.org/abs/1903.09889" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1903.09889</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Rolling Shutter Effect on ENF based Video ForensicsMarch 23, 2019...</p></details>
    Published: March 23, 2019  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.16868](https://arxiv.org/abs/2408.16868)  
+   Link: <a href="https://arxiv.org/abs/2408.16868" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.16868</a>  
 
 9. <a id="endnote-9"></a>
    Source: plus.nasa.gov  
-   Link: [https://plus.nasa.gov/video/chasing-sprites-in-electric-skies/](https://plus.nasa.gov/video/chasing-sprites-in-electric-skies/)  
+   Link: <a href="https://plus.nasa.gov/video/chasing-sprites-in-electric-skies/" target="_blank" rel="noopener noreferrer nofollow">https://plus.nasa.gov/video/chasing-sprites-in-electric-skies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites in Electric SkiesPaul Smith is a night-sky fanatic and photographer. His obsession is sprites: immense jolts of light that flicke...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2305.01565](https://arxiv.org/pdf/2305.01565)  
+   Link: <a href="https://arxiv.org/pdf/2305.01565" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2305.01565</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing lightning and transient luminous events from the...by Y Yair · 2023 · Cited by 9 — The mission objective was to manually recor...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Texas and Arkansas Red Sprites in high-speed captures  
-   Link: [http://www.youtube.com/watch?v=i3168xB5v2A](http://www.youtube.com/watch?v=i3168xB5v2A)  
+   Link: <a href="http://www.youtube.com/watch?v=i3168xB5v2A" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=i3168xB5v2A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites - Earth’s Global Circuit Conduits - Scientific Study Footage Captured in Slow Motion...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=tQGiroUAZzo](http://www.youtube.com/watch?v=tQGiroUAZzo)  
+   Link: <a href="http://www.youtube.com/watch?v=tQGiroUAZzo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tQGiroUAZzo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rare lighting sprite slow motion...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalgeographic.com  
-   Link: [https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicThe most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Red spites, a type of transient luminous ev...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: backyardastronomy.net  
    Title: Transient Luminous Events  
-   Link: [https://www.backyardastronomy.net/transient-luminous-events/](https://www.backyardastronomy.net/transient-luminous-events/)  
+   Link: <a href="https://www.backyardastronomy.net/transient-luminous-events/" target="_blank" rel="noopener noreferrer nofollow">https://www.backyardastronomy.net/transient-luminous-events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The term TLE is a broad term encompassing...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: seversondells.com  
-   Link: [https://www.seversondells.com/blog/tles](https://www.seversondells.com/blog/tles)  
+   Link: <a href="https://www.seversondells.com/blog/tles" target="_blank" rel="noopener noreferrer nofollow">https://www.seversondells.com/blog/tles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of Transient Luminous EventsNov 22, 2024 — TLEs are electrical discharges similar to lightning that occur in the upper atmosp...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/329956407_Demonstration_of_A_Visible_Light_Receiver_Using_Rolling-Shutter_Smartphone_Camera](https://www.researchgate.net/publication/329956407_Demonstration_of_A_Visible_Light_Receiver_Using_Rolling-Shutter_Smartphone_Camera)  
+   Link: <a href="https://www.researchgate.net/publication/329956407_Demonstration_of_A_Visible_Light_Receiver_Using_Rolling-Shutter_Smartphone_Camera" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/329956407_Demonstration_of_A_Visible_Light_Receiver_Using_Rolling-Shutter_Smartphone_Camera</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Demonstration of A Visible Light Receiver Using Rolling-...18 Nov 2025 — Demonstration of A Visible Light Receiver Using Rolling-Shutter...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: eso.org  
-   Link: [https://eso.org/public/videos/esocast81a/](https://eso.org/public/videos/esocast81a/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ESOcast 81: Red Sprites | ESOFootage and photos: ESO, Petr Horálek, L. Calçada, M. Kornmesser, A. Santerne, ESA, NASA, NOAA, image and vi...</p></details>
+   Link: <a href="https://eso.org/public/videos/esocast81a/" target="_blank" rel="noopener noreferrer nofollow">https://eso.org/public/videos/esocast81a/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>cast 81: Red Sprites | ESOFootage and photos: ESO, Petr Horálek, L. Calçada, M. Kornmesser, A. Santerne, ESA, NASA, NOAA, image and vi...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/376355972487572/posts/4901508146638976/](https://www.facebook.com/groups/376355972487572/posts/4901508146638976/)  
+   Link: <a href="https://www.facebook.com/groups/376355972487572/posts/4901508146638976/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/376355972487572/posts/4901508146638976/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red sprites captured with PVS-14 and iPhone 13 at 240 fpsThey are part of a group called Transient Luminous Events (TLEs), which also inc...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: uhu.epss.hu  
-   Link: [https://uhu.epss.hu/en/how-to-observe/](https://uhu.epss.hu/en/how-to-observe/)  
+   Link: <a href="https://uhu.epss.hu/en/how-to-observe/" target="_blank" rel="noopener noreferrer nofollow">https://uhu.epss.hu/en/how-to-observe/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to observe TLEs?Considering both their occurrence frequency and brightness, red sprites are the most likely transient luminous events (TL...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: earthdate.org  
-   Link: [https://www.earthdate.org/episodes/sprites-and-elves](https://www.earthdate.org/episodes/sprites-and-elves)  
+   Link: <a href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdate.org/episodes/sprites-and-elves</a>  
 
 21. <a id="endnote-21"></a>
    Source: facebook.com  
    Title: heres a super up close and detailed image of two distinct transient luminous eve  
-   Link: [https://www.facebook.com/paulmsmithphotography/posts/heres-a-super-up-close-and-detailed-image-of-two-distinct-transient-luminous-eve/1393831042373206/](https://www.facebook.com/paulmsmithphotography/posts/heres-a-super-up-close-and-detailed-image-of-two-distinct-transient-luminous-eve/1393831042373206/)  
+   Link: <a href="https://www.facebook.com/paulmsmithphotography/posts/heres-a-super-up-close-and-detailed-image-of-two-distinct-transient-luminous-eve/1393831042373206/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paulmsmithphotography/posts/heres-a-super-up-close-and-detailed-image-of-two-distinct-transient-luminous-eve/1393831042373206/</a>  
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NBPjUcMGqbY](https://www.youtube.com/watch?v=NBPjUcMGqbY)  
+   Link: <a href="https://www.youtube.com/watch?v=NBPjUcMGqbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NBPjUcMGqbY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Sprite? Earth&#x27;s Super Rare Red Lightning ExplainedA kind of transient luminous event or TLE, a sprite occurs during lightning s...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zaA8nT4qqM8](https://www.youtube.com/watch?v=zaA8nT4qqM8)  
+   Link: <a href="https://www.youtube.com/watch?v=zaA8nT4qqM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zaA8nT4qqM8</a>  
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
    Title: Red sprite lightning captured in incredible detail over  
-   Link: [https://www.reddit.com/r/interestingasfuck/comments/1gdq6sw/red_sprite_lightning_captured_in_incredible/](https://www.reddit.com/r/interestingasfuck/comments/1gdq6sw/red_sprite_lightning_captured_in_incredible/)  
+   Link: <a href="https://www.reddit.com/r/interestingasfuck/comments/1gdq6sw/red_sprite_lightning_captured_in_incredible/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/interestingasfuck/comments/1gdq6sw/red_sprite_lightning_captured_in_incredible/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO videos that have a grand total of 5 pixels. Show me a fully detailed 4k ultra-hd vids (the tech allows it) of UFOs that can be verifi...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/weekendtraveler195/posts/%EF%B8%8F-these-are-red-spritesmassive-electrical-bursts-that-appear-3050-miles-above-th/858098163926111/](https://www.facebook.com/weekendtraveler195/posts/%EF%B8%8F-these-are-red-spritesmassive-electrical-bursts-that-appear-3050-miles-above-th/858098163926111/)  
+   Link: <a href="https://www.facebook.com/weekendtraveler195/posts/%EF%B8%8F-these-are-red-spritesmassive-electrical-bursts-that-appear-3050-miles-above-th/858098163926111/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/weekendtraveler195/posts/%EF%B8%8F-these-are-red-spritesmassive-electrical-bursts-that-appear-3050-miles-above-th/858098163926111/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bove thunderstorms, near the edge of space. They last only...Read more...</p></details>

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /satellite-flares/
 nav_short_title: Earth Shadow
 title: Why Satellites Can Vanish In A Single Second
-title_full: Why Satellites Can Vanish In A Single Second | Satellite Flares
+title_full: Why Satellites Can Vanish In A Single Second
 display_title_short: Earth Shadow
 display_title: Earth Shadow
 heading_title: Why Satellites Can Vanish In A Single Second
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Some Satellites Suddenly Brighten And Vanish | Satellites
+parent_title: Why Some Satellites Suddenly Brighten And Vanish
 parent_permalink: /satellite-flares/
 parent_nav_short_title: Satellite Flares
 parent_heading_title: Why Some Satellites Suddenly Brighten And Vanish
@@ -260,7 +260,7 @@ next_link:
   permalink: /starlink-flares/
   short_title: Starlink Flares
   heading_title: Why Starlink Has Changed Modern UFO Reports
-date: '2026-06-08 23:23:52 '
+date: '2026-06-10 20:06:48 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-1.webp
@@ -279,7 +279,7 @@ The key misunderstanding is simple: satellites are usually visible only because 
 
 ## How Earth's shadow geometry works
 
-Earth continuously casts a cone-shaped shadow into space on the side opposite the Sun. Satellites orbiting through low Earth orbit repeatedly move into and out of this shadow region during each orbit. When they enter the darker central part of the shadow, known as the umbra, reflected sunlight stops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.farnell.com/en-IT/satellite-eclipse-definition?srsltid=AfmBOooGx0maO55IjAT2x6G2U3V_HaupppK3YEuPvJBc_cWduvb3QltF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: it.farnell.com">[Farnell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">it.farnell.com</span><span class="citation-popover-snippet">FarnellSatellite Eclipse definitionSatellites orbiting the Earth routinely pass through a shadow region on the opposite side of the plane...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/space/can-you-see-earths-shadow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">During a total lunar eclipse, Earth casts a noticeable shadow on the Moon. This shadow has three parts: the umbra (darkest part), penumbr...</span></span></span>
+Earth continuously casts a cone-shaped shadow into space on the side opposite the Sun. Satellites orbiting through low Earth orbit repeatedly move into and out of this shadow region during each orbit. When they enter the darker central part of the shadow, known as the umbra, reflected sunlight stops. <span class="citation-chip-wrap"><a class="citation-chip" href="https://it.farnell.com/en-IT/satellite-eclipse-definition?srsltid=AfmBOooGx0maO55IjAT2x6G2U3V_HaupppK3YEuPvJBc_cWduvb3QltF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: it.farnell.com">[Farnell]</a><span class="citation-popover" role="note"><span class="citation-popover-source">it.farnell.com</span><span class="citation-popover-snippet">Satellite Eclipse definitionSatellites orbiting the Earth routinely pass through a shadow region on the opposite side of the plane...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.livescience.com/space/can-you-see-earths-shadow" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">During a total lunar eclipse, Earth casts a noticeable shadow on the Moon. This shadow has three parts: the umbra (darkest part), penumbr...</span></span></span>
 
 For a ground observer, the effect can look dramatic because the satellite may still appear high in the sky and moving steadily one moment, then disappear completely the next.
 
@@ -297,9 +297,9 @@ The geometry behind this is counterintuitive to many witnesses:
 
 Because there is no physical explosion, turn, or deceleration, the object simply “switches off”. To someone unfamiliar with orbital visibility, that can feel unnatural.
 
-Amateur observing guides repeatedly note that satellites often disappear before reaching the horizon specifically because they have entered Earth’s shadow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">SkymapsObserving Earth SatellitesThey will disappear from view when in the Earth&#x27;s shadow. Some satellites flash every few seconds, a fea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomy.org.gg/more/iss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.org.gg">[The Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.org.gg</span><span class="citation-popover-title">Heavens-Above as an accurate enough location.Read more</span><span class="citation-popover-snippet">The Astronomy Section of La SociétéISS | Astronomy Section | La Société GuernesiaiseSimilarly, the satellite may enter the Earth&#x27;s shadow...</span></span></span> Section of La Société
+Amateur observing guides repeatedly note that satellites often disappear before reaching the horizon specifically because they have entered Earth’s shadow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skymaps.com">[Skymaps]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skymaps.com</span><span class="citation-popover-snippet">Observing Earth SatellitesThey will disappear from view when in the Earth&#x27;s shadow. Some satellites flash every few seconds, a fea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomy.org.gg/more/iss" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.org.gg">[The Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.org.gg</span><span class="citation-popover-title">Heavens-Above as an accurate enough location.Read more</span><span class="citation-popover-snippet">The Astronomy Section of La SociétéISS &#124; Astronomy Section &#124; La Société GuernesiaiseSimilarly, the satellite may enter the Earth&#x27;s shadow...</span></span></span> Section of La Société
 
-The transition can also vary slightly depending on the orbit and [atmospheric]({{ 'scintillation/' | relative_url }}) conditions. Some satellites fade over several seconds, while others vanish sharply. Research into satellite eclipse brightness shows that Earth’s atmosphere can refract and absorb light near the shadow boundary, creating transitional dimming effects before full eclipse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.08310" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivThe Brightness of Starlink and OneWeb Satellites During Ingress and Egress from Terrestrial EclipsesDecember 15, 2021...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span>
+The transition can also vary slightly depending on the orbit and atmospheric conditions. Some satellites fade over several seconds, while others vanish sharply. Research into satellite eclipse brightness shows that Earth’s atmosphere can refract and absorb light near the shadow boundary, creating transitional dimming effects before full eclipse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2112.08310" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Brightness of Starlink and OneWeb Satellites During Ingress and Egress from Terrestrial EclipsesDecember 15, 2021...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span>
 
 ## Why twilight sightings are most common
 
@@ -316,7 +316,7 @@ Visible satellite passes require a narrow lighting window:
 
 </div>
 
-This usually occurs shortly after sunset or before sunrise. Satellite tracking references consistently describe twilight as the optimal [observation]({{ 'observation-vs-claim/' | relative_url }}) period because satellites deep into the night are usually inside Earth’s shadow and therefore invisible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://physics.stackexchange.com/questions/388185/why-cant-we-see-the-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.stackexchange.com">[Physics Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.stackexchange.com</span><span class="citation-popover-title">why cant we see the satellites</span><span class="citation-popover-snippet">Physics Stack ExchangeWhy can&#x27;t we see the satellites?23 Feb 2018 — During night the sattelites on low orbits above you will be in the Ea...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Heavens-AboveExplanatory NotesUsually, it will either pass over during the daytime, or deep in the night when the satellite is also in th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/artificial-earth-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkWhat Is an Artificial Satellite: Examples, Uses &amp; How to See8 Apr 2026 — At some point during its motion, the satellite may sudd...</span></span></span>
+This usually occurs shortly after sunset or before sunrise. Satellite tracking references consistently describe twilight as the optimal observation period because satellites deep into the night are usually inside Earth’s shadow and therefore invisible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://physics.stackexchange.com/questions/388185/why-cant-we-see-the-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.stackexchange.com">[Physics Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.stackexchange.com</span><span class="citation-popover-title">why cant we see the satellites</span><span class="citation-popover-snippet">Physics Stack ExchangeWhy can&#x27;t we see the satellites?23 Feb 2018 — During night the sattelites on low orbits above you will be in the Ea...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesUsually, it will either pass over during the daytime, or deep in the night when the satellite is also in th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/artificial-earth-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkWhat Is an Artificial Satellite: Examples, Uses &amp; How to See8 Apr 2026 — At some point during its motion, the satellite may sudd...</span></span></span>
 
 This creates a pattern frequently seen in UFO databases:
 
@@ -429,7 +429,7 @@ The explanation becomes weaker when:
 Misidentification is common, but not every case fits cleanly into the satellite-shadow category. A balanced investigation separates:
 
 * confirmed orbital matches
-* [plausible]({{ 'plausible-cases/' | relative_url }}) but uncertain matches
+* plausible but uncertain matches
 * unresolved cases
 
 This distinction is important because overconfident debunking can be just as misleading as overconfident extraordinary claims.
@@ -444,7 +444,7 @@ That makes it valuable for automated triage systems:
 
 * witness reports can be time-aligned against orbital databases
 * shadow-entry predictions can be generated automatically
-* confidence scores can be assigned to candidate matches
+* [confidence]({{ 'confidence/' | relative_url }}) scores can be assigned to candidate matches
 * investigators can quickly separate likely satellite events from harder cases
 
 In practical terms, many reports that initially sound extraordinary reduce to a simple orbital lighting event once timing and geometry are checked carefully.
@@ -467,16 +467,16 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Directly relevant to satellites, visibility and night-sky checks.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -484,16 +484,16 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for understanding sudden disappearances and sky geometry.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -501,16 +501,16 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        
+        <p class="fr-book-desc">Supports broader sky orientation for satellite-like sightings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -518,16 +518,16 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Encourages testing sudden vanishing lights against ordinary orbital geometry.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -535,13 +535,13 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -568,76 +568,72 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open satellite model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20satellite%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESatellite%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESatellite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for satellite model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">satellite model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Satellite</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=some+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-some-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="some poster -book -books -dvd" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-some-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open some poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20some%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESome%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESome%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for some poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">some poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Some</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=some+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-some-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="some poster -book -books -dvd" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-some-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=earth-shadow-why-satellites-can-vanish-in-a-single-second-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -695,10 +691,10 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -716,7 +712,7 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -856,153 +852,153 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
 
 1. <a id="endnote-1"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/explain.aspx](https://www.heavens-above.com/explain.aspx)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveExplanatory NotesUsually, it will either pass over during the daytime, or deep in the night when the satellite is also in th...</p></details>
+   Link: <a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanatory NotesUsually, it will either pass over during the daytime, or deep in the night when the satellite is also in th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: skymaps.com  
-   Link: [https://www.skymaps.com/articles/n0012.html](https://www.skymaps.com/articles/n0012.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkymapsObserving Earth SatellitesThey will disappear from view when in the Earth&#x27;s shadow. Some satellites flash every few seconds, a fea...</p></details>
+   Link: <a href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skymaps.com/articles/n0012.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing Earth SatellitesThey will disappear from view when in the Earth&#x27;s shadow. Some satellites flash every few seconds, a fea...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: it.farnell.com  
-   Link: [https://it.farnell.com/en-IT/satellite-eclipse-definition?srsltid=AfmBOooGx0maO55IjAT2x6G2U3V_HaupppK3YEuPvJBc_cWduvb3QltF](https://it.farnell.com/en-IT/satellite-eclipse-definition?srsltid=AfmBOooGx0maO55IjAT2x6G2U3V_HaupppK3YEuPvJBc_cWduvb3QltF)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FarnellSatellite Eclipse definitionSatellites orbiting the Earth routinely pass through a shadow region on the opposite side of the plane...</p></details>
+   Link: <a href="https://it.farnell.com/en-IT/satellite-eclipse-definition?srsltid=AfmBOooGx0maO55IjAT2x6G2U3V_HaupppK3YEuPvJBc_cWduvb3QltF" target="_blank" rel="noopener noreferrer nofollow">https://it.farnell.com/en-IT/satellite-eclipse-definition?srsltid=AfmBOooGx0maO55IjAT2x6G2U3V_HaupppK3YEuPvJBc_cWduvb3QltF</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Eclipse definitionSatellites orbiting the Earth routinely pass through a shadow region on the opposite side of the plane...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2112.08310](https://arxiv.org/abs/2112.08310)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivThe Brightness of Starlink and OneWeb Satellites During Ingress and Egress from Terrestrial EclipsesDecember 15, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2112.08310" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2112.08310</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Brightness of Starlink and OneWeb Satellites During Ingress and Egress from Terrestrial EclipsesDecember 15, 2021...</p></details>
    Published: December 15, 2021  
 
 5. <a id="endnote-5"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/PassesHelp.aspx?Session=kebgfdhjcjgiibfmmgpmhoao](https://www.heavens-above.com/PassesHelp.aspx?Session=kebgfdhjcjgiibfmmgpmhoao)  
+   Link: <a href="https://www.heavens-above.com/PassesHelp.aspx?Session=kebgfdhjcjgiibfmmgpmhoao" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/PassesHelp.aspx?Session=kebgfdhjcjgiibfmmgpmhoao</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Only passes which reach an [elevation](&amp;#123;&amp;#123; &#x27;elevation/&#x27; | relative_url &amp;#125;&amp;#125;) of at least 10° are...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: heavens-above.com  
    Title: Frequently asked questions (FAQ)  
-   Link: [https://www.heavens-above.com/faq.aspx?alt=0&cul=en&lat=33.505672&lng=-90.632034&loc=Faisonia&tz=UCT](https://www.heavens-above.com/faq.aspx?alt=0&cul=en&lat=33.505672&lng=-90.632034&loc=Faisonia&tz=UCT)  
+   Link: <a href="https://www.heavens-above.com/faq.aspx?alt=0&amp;cul=en&amp;lat=33.505672&amp;lng=-90.632034&amp;loc=Faisonia&amp;tz=UCT" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/faq.aspx?alt=0&amp;cul=en&amp;lat=33.505672&amp;lng=-90.632034&amp;loc=Faisonia&amp;tz=UCT</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-Above...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2403.19722v1](https://arxiv.org/html/2403.19722v1)  
+   Link: <a href="https://arxiv.org/html/2403.19722v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2403.19722v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite Visibility During the April 2024 Total Eclipse8 Apr 2024 — Our simulations here show that sunlit Starlink satellites will not b...</p></details>
    Published: April 2024  
 
 8. <a id="endnote-8"></a>
    Source: starwalk.space  
-   Link: [https://starwalk.space/en/news/artificial-earth-satellites](https://starwalk.space/en/news/artificial-earth-satellites)  
+   Link: <a href="https://starwalk.space/en/news/artificial-earth-satellites" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/artificial-earth-satellites</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkWhat Is an Artificial Satellite: Examples, Uses &amp; How to See8 Apr 2026 — At some point during its motion, the satellite may sudd...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/can-you-see-earths-shadow](https://www.livescience.com/space/can-you-see-earths-shadow)  
+   Link: <a href="https://www.livescience.com/space/can-you-see-earths-shadow" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/can-you-see-earths-shadow</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>During a total lunar eclipse, Earth casts a noticeable shadow on the Moon. This shadow has three parts: the umbra (darkest part), penumbr...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: [astronomy](&#123;&#123; 'astronomy/' | relative_url &#125;&#125;). org.gg  
    Title: Heavens-Above as an accurate enough location.Read more  
-   Link: [https://astronomy.org.gg/more/iss](https://astronomy.org.gg/more/iss)  
+   Link: <a href="https://astronomy.org.gg/more/iss" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.org.gg/more/iss</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Astronomy Section of La SociétéISS | Astronomy Section | La Société GuernesiaiseSimilarly, the satellite may enter the Earth&#x27;s shadow...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: physics.stackexchange.com  
    Title: why cant we see the satellites  
-   Link: [https://physics.stackexchange.com/questions/388185/why-cant-we-see-the-satellites](https://physics.stackexchange.com/questions/388185/why-cant-we-see-the-satellites)  
+   Link: <a href="https://physics.stackexchange.com/questions/388185/why-cant-we-see-the-satellites" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/388185/why-cant-we-see-the-satellites</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physics Stack ExchangeWhy can&#x27;t we see the satellites?23 Feb 2018 — During night the sattelites on low orbits above you will be in the Ea...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: news.ycombinator.com  
-   Link: [https://news.ycombinator.com/item?id=26310845](https://news.ycombinator.com/item?id=26310845)  
+   Link: <a href="https://news.ycombinator.com/item?id=26310845" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=26310845</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker NewsMany people don&#x27;t know that you can actually see some of...If the satellite passed into the shadow of the earth and dissappea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Heavens-Above](https://en.wikipedia.org/wiki/Heavens-Above)  
+   Link: <a href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heavens-Above</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-Above - WikipediaIt provides detailed star charts showing the trajectory of the satellites against the background of the stars...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: astronomy.stackexchange.com  
    Title: why do satellites arcs end abruptly when observed from earth  
-   Link: [https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth](https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth)  
+   Link: <a href="https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I noticed that during the time it&#x27;s visible, it disappears before reaching the horizon, and sometimes reappears...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: [https://dictionary.cambridge.org/dictionary/english/heavens](https://dictionary.cambridge.org/dictionary/english/heavens)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| English meaning - Cambridge Dictionary6 days ago — an expression of surprise, anger, annoyance, or emphasis: Good heavens – I didn&#x27;t re...</p></details>
+   Link: <a href="https://dictionary.cambridge.org/dictionary/english/heavens" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/heavens</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge Dictionary6 days ago — an expression of surprise, anger, annoyance, or emphasis: Good heavens – I didn&#x27;t re...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/exceptionally-rare-sighting-of-planets-colliding-may-shed-light-on-the-crash-that-formed-the-moon](https://www.livescience.com/space/exceptionally-rare-sighting-of-planets-colliding-may-shed-light-on-the-crash-that-formed-the-moon)  
+   Link: <a href="https://www.livescience.com/space/exceptionally-rare-sighting-of-planets-colliding-may-shed-light-on-the-crash-that-formed-the-moon" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/exceptionally-rare-sighting-of-planets-colliding-may-shed-light-on-the-crash-that-formed-the-moon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ophic planet-on-planet crash that may mirror the ancient impact that formed...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: astronomy.stackexchange.com  
    Title: what could be an explanation for a satellite like moving light in the night sky  
-   Link: [https://astronomy.stackexchange.com/questions/50156/what-could-be-an-explanation-for-a-satellite-like-moving-light-in-the-night-sky](https://astronomy.stackexchange.com/questions/50156/what-could-be-an-explanation-for-a-satellite-like-moving-light-in-the-night-sky)  
+   Link: <a href="https://astronomy.stackexchange.com/questions/50156/what-could-be-an-explanation-for-a-satellite-like-moving-light-in-the-night-sky" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/50156/what-could-be-an-explanation-for-a-satellite-like-moving-light-in-the-night-sky</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>could be an explanation for a satellite-like moving...10 Aug 2022 — It very likely IS a satellite which is moving from the sunlit part i...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: spire.com  
-   Link: [https://spire.com/spirepedia/eclipse/](https://spire.com/spirepedia/eclipse/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spire: Global Data and AnalyticsDuring an eclipse, the satellite passes through the Earth&#x27;s shadow, resulting in a temporary loss of dir...</p></details>
+   Link: <a href="https://spire.com/spirepedia/eclipse/" target="_blank" rel="noopener noreferrer nofollow">https://spire.com/spirepedia/eclipse/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Data and AnalyticsDuring an eclipse, the satellite passes through the Earth&#x27;s shadow, resulting in a temporary loss of dir...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: satobs.org  
-   Link: [https://www.satobs.org/observe.html](https://www.satobs.org/observe.html)  
+   Link: <a href="https://www.satobs.org/observe.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/observe.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverObserving Earth SatellitesEarlier I alluded to the problem of the Earth&#x27;s shadow - when eclipsed the satellite is natu...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/9271545692867719/](https://www.facebook.com/groups/2365809903441367/posts/9271545692867719/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/9271545692867719/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/9271545692867719/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites disappear in the Earth&#x27;s shadowThe reason they disappear is because they enter the &#x27;umbra&#x27; (darkest part) of the earth&#x27;s shado...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: xt8dob.wordpress.com  
    Title: crash course heavens above part two satellite predictions  
-   Link: [https://xt8dob.wordpress.com/2015/05/25/crash-course-heavens-above-part-two-satellite-predictions/](https://xt8dob.wordpress.com/2015/05/25/crash-course-heavens-above-part-two-satellite-predictions/)  
+   Link: <a href="https://xt8dob.wordpress.com/2015/05/25/crash-course-heavens-above-part-two-satellite-predictions/" target="_blank" rel="noopener noreferrer nofollow">https://xt8dob.wordpress.com/2015/05/25/crash-course-heavens-above-part-two-satellite-predictions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Course in Heavens-Above: Part Two – Satellite PredictionsMay 25, 2015 — In this post, I will discuss the basic way of viewing predictions...</p></details>
    Published: May 25, 2015  
 
 22. <a id="endnote-22"></a>
    Source: saltofthecoast.com.au  
-   Link: [https://saltofthecoast.com.au/as-the-sun-disappears-and-darkness-spreads-across-the-landscape-a-rare-solar-phenomenon-will-unfold-an-event-scientists-describe-as-one-of-the-most-powerful-astronomical-moments-of-modern-times/](https://saltofthecoast.com.au/as-the-sun-disappears-and-darkness-spreads-across-the-landscape-a-rare-solar-phenomenon-will-unfold-an-event-scientists-describe-as-one-of-the-most-powerful-astronomical-moments-of-modern-times/)  
+   Link: <a href="https://saltofthecoast.com.au/as-the-sun-disappears-and-darkness-spreads-across-the-landscape-a-rare-solar-phenomenon-will-unfold-an-event-scientists-describe-as-one-of-the-most-powerful-astronomical-moments-of-modern-times/" target="_blank" rel="noopener noreferrer nofollow">https://saltofthecoast.com.au/as-the-sun-disappears-and-darkness-spreads-across-the-landscape-a-rare-solar-phenomenon-will-unfold-an-event-scientists-describe-as-one-of-the-most-powerful-astronomical-moments-of-modern-times/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>solar phenomenon will unfold, an event scientists describe as one of the...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: skyandtelescope.org  
    Title: flight into darkness observe the iss in earths shadow  
-   Link: [https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/](https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observe the International Space Station in Earth&#x27;s Shadow28 Aug 2024 — The International Space Station fades from white to red as it zips...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FoxWeather/posts/cool-visualization-check-out-the-awesome-moment-a-satellite-eclipse-occurs-which/979760611230900/?locale=ms_MY](https://www.facebook.com/FoxWeather/posts/cool-visualization-check-out-the-awesome-moment-a-satellite-eclipse-occurs-which/979760611230900/?locale=ms_MY)  
+   Link: <a href="https://www.facebook.com/FoxWeather/posts/cool-visualization-check-out-the-awesome-moment-a-satellite-eclipse-occurs-which/979760611230900/?locale=ms_MY" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxWeather/posts/cool-visualization-check-out-the-awesome-moment-a-satellite-eclipse-occurs-which/979760611230900/?locale=ms_MY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>eeping across the Sun&#x27;s disk against the backdrop of Earth&#x27;s limb.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: sws.bom.gov.au  
-   Link: [https://www.sws.bom.gov.au/Educational/5/4/3](https://www.sws.bom.gov.au/Educational/5/4/3)  
+   Link: <a href="https://www.sws.bom.gov.au/Educational/5/4/3" target="_blank" rel="noopener noreferrer nofollow">https://www.sws.bom.gov.au/Educational/5/4/3</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>bom.gov.auSatellites, Geo-stationary orbits and Solar EclipsesWhile in the Earth&#x27;s shadow the satellite gains no power from its all impor...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/26052703270992031/](https://www.facebook.com/groups/2365809903441367/posts/26052703270992031/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/26052703270992031/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/26052703270992031/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>own, so if they can&#x27;t &#x27;see&#x27; the sun, then we can&#x27;t see them.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: powickplayers.co.uk  
    Title: The moon continues its patient path. The Earth keeps spinning.Read more  
-   Link: [https://www.powickplayers.co.uk/05-042026870-as-the-sun-disappears-and-darkness-spreads-across-the-landscape-a-rare-solar-phenomenon-will-unfold-an-event-scientists-describe-as-one-of-the-most-powerful-astronomical-moments-of-modern-times-2/](https://www.powickplayers.co.uk/05-042026870-as-the-sun-disappears-and-darkness-spreads-across-the-landscape-a-rare-solar-phenomenon-will-unfold-an-event-scientists-describe-as-one-of-the-most-powerful-astronomical-moments-of-modern-times-2/)  
+   Link: <a href="https://www.powickplayers.co.uk/05-042026870-as-the-sun-disappears-and-darkness-spreads-across-the-landscape-a-rare-solar-phenomenon-will-unfold-an-event-scientists-describe-as-one-of-the-most-powerful-astronomical-moments-of-modern-times-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.powickplayers.co.uk/05-042026870-as-the-sun-disappears-and-darkness-spreads-across-the-landscape-a-rare-solar-phenomenon-will-unfold-an-event-scientists-describe-as-one-of-the-most-powerful-astronomical-moments-of-modern-times-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>As the sun disappears and darkness spreads across the...2 days ago — When the sun returns to its full, blinding self, nothing in the sky...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/j7pij9/eli5_why_do_satellites_not_cast_shadows_on_the/](https://www.reddit.com/r/explainlikeimfive/comments/j7pij9/eli5_why_do_satellites_not_cast_shadows_on_the/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/j7pij9/eli5_why_do_satellites_not_cast_shadows_on_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/j7pij9/eli5_why_do_satellites_not_cast_shadows_on_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>E today. Maybe I have a misunderstanding of how many satellite are...</p></details>

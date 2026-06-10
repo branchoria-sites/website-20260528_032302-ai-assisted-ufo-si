@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /case-file/
 nav_short_title: First account
 title: Why the first UFO account matters most
-title_full: Why the first UFO account matters most | Case File
+title_full: Why the first UFO account matters most
 display_title_short: First account
 display_title: First account
 heading_title: Why the first UFO account matters most
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Makes a UFO Report Investigable? | UFO Case AI
+parent_title: What Makes a UFO Report Investigable?
 parent_permalink: /case-file/
 parent_nav_short_title: Case File
 parent_heading_title: What Makes a UFO Report Investigable?
@@ -285,7 +285,7 @@ next_link:
   permalink: /geometry/
   short_title: Geometry
   heading_title: Where in the sky was the object?
-date: '2026-06-08 23:03:00 '
+date: '2026-06-10 19:54:26 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1.webp
@@ -294,17 +294,17 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22
 
 ## Introduction
 
-The first account of a UFO sighting is usually the most valuable version of the story. Not because it is automatically correct, but because it is the closest record to what the witness actually perceived before discussion, speculation, media coverage or repeated retelling begin to reshape memory. In AI-assisted UFO sighting investigation, this distinction matters. Automated comparison tools, timeline reconstruction and explanation screening all depend on separating raw [observation]({{ 'observation-vs-claim/' | relative_url }}) from later interpretation.
+The first account of a UFO sighting is usually the most valuable version of the story. Not because it is automatically correct, but because it is the closest record to what the witness actually perceived before discussion, speculation, media coverage or repeated retelling begin to reshape memory. In AI-assisted UFO sighting investigation, this distinction matters. Automated comparison tools, timeline reconstruction and explanation screening all depend on separating raw observation from later interpretation.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-dark.svg" | relative_url }}" alt="First account illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Research on eyewitness memory consistently shows that human recall is vulnerable to suggestion, leading questions and “post-event information” — details encountered after the [original]({{ 'original-evidence/' | relative_url }}) experience. Psychologists refer to this as the misinformation effect. Even sincere witnesses can absorb outside descriptions and later remember them as personal observations. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 3 — Thus, they aimed to show that leading questions...</span></span></span>
+Research on eyewitness memory consistently shows that human recall is vulnerable to suggestion, leading questions and “post-event information” — details encountered after the [original]({{ 'original-evidence/' | relative_url }}) experience. Psychologists refer to this as the misinformation effect. Even sincere witnesses can absorb outside descriptions and later remember them as personal observations. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 &#124; Car Crash Experimentby S McLeod · Cited by 3 — Thus, they aimed to show that leading questions...</span></span></span>
 
-That creates a practical problem for [UFO case files]({{ 'case-file/' | relative_url }}). A witness may initially report “a bright orange light moving slowly”, then later describe “a triangular craft hovering silently” after speaking with friends, watching social media clips or hearing another witness’s interpretation. Once those layers mix together, it becomes much harder to test the sighting against [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), astronomical objects, drones, balloons or atmospheric effects.
+That creates a practical problem for UFO [case files]({{ 'case-file/' | relative_url }}). A witness may initially report “a bright orange light moving slowly”, then later describe “a triangular craft hovering silently” after speaking with friends, watching social media clips or hearing another witness’s interpretation. Once those layers mix together, it becomes much harder to test the sighting against [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), astronomical objects, drones, balloons or atmospheric effects.
 
 ## What to preserve in the raw statement
 
-A useful first statement is not a polished narrative. It is a time-stamped snapshot of immediate perception. The goal is to capture what the witness directly experienced before memory drift begins.
+A useful first statement is not a polished narrative. It is a time-stamped snapshot of immediate perception. The goal is to capture what the witness directly experienced before [memory drift]({{ 'memory-drift/' | relative_url }}) begins.
 
 For UFO investigations, the most important principle is to preserve observation separately from interpretation. “I saw three white lights in a line” is an observation. “It was definitely a military craft” is an interpretation. A good intake process records both, but keeps them distinct.
 
@@ -312,12 +312,12 @@ The earliest statement should preserve:
 
 * Exact or estimated time of observation
 * Viewing location
+* Direction faced
+* Duration
+* [Weather]({{ 'weather/' | relative_url }}) and visibility
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Direction faced
-* Duration
-* Weather and visibility
 * Shape, colour and brightness as first perceived
 * Apparent motion
 * Sound or silence
@@ -326,7 +326,7 @@ The earliest statement should preserve:
 
 </div>
 
-Investigators should also record uncertainty rather than forcing confidence. A witness who says “I think it lasted about 30 seconds” is providing useful uncertainty information. Turning that into “duration: 30 seconds” creates false precision.
+Investigators should also record uncertainty rather than forcing confidence. A witness who says “I think it lasted about 30 seconds” is providing useful uncertainty information. Turning that into “duration: 30 seconds” creates [false precision]({{ 'false-precision/' | relative_url }}).
 
 This is especially important because modern UFO discussions often move rapidly online. A witness can upload a video within minutes and immediately receive hundreds of interpretations: Starlink satellites, Chinese lanterns, drones, military aircraft, plasma, extraterrestrial craft or camera artefacts. Those reactions can begin influencing memory before a formal statement is ever taken.
 
@@ -361,7 +361,7 @@ Human memory is reconstructive rather than playback-like. People do not retrieve
 
 That reconstruction process becomes especially risky in unusual sightings because witnesses naturally search for explanations after the event.
 
-Psychology research over several decades has shown that wording alone can alter recall. In the well-known Loftus and Palmer experiments, changing a single verb in a question altered how participants remembered a car accident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 3 — Thus, they aimed to show that leading questions...</span></span></span> Later research expanded this into broader studies of misinformation and post-event contamination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">While the Loftus et al. (1978) procedure may reliably produce inaccurate performance on recall and recognition tests, it is not clear ......</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0022096598924675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How Misinformation Alters Memoriesby DB Wright · 1998 · Cited by 124 — Over the past quarter of a century, hundreds of studies have demon...</span></span></span>
+Psychology research over several decades has shown that wording alone can alter recall. In the well-known Loftus and Palmer experiments, changing a single verb in a question altered how participants remembered a car accident. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 &#124; Car Crash Experimentby S McLeod · Cited by 3 — Thus, they aimed to show that leading questions...</span></span></span> Later research expanded this into broader studies of misinformation and post-event contamination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nih.gov</span><span class="citation-popover-title">PMCA Behavioral Account of the Misinformation Effect</span><span class="citation-popover-snippet">While the Loftus et al. (1978) procedure may reliably produce inaccurate performance on recall and recognition tests, it is not clear ......</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S0022096598924675" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How Misinformation Alters Memoriesby DB Wright · 1998 · Cited by 124 — Over the past quarter of a century, hundreds of studies have demon...</span></span></span>
 
 In UFO investigations, contamination often enters through five common pathways.
 
@@ -402,7 +402,7 @@ A witness may:
 
 </div>
 
-Research shows that post-event information from news and discussion environments can alter memory [confidence]({{ 'confidence/' | relative_url }}) and detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Misinformation Effect</span><span class="citation-popover-snippet">an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (Loftus &amp; Palmer, 1974) o...</span></span></span>
+Research shows that post-event information from news and discussion environments can alter memory confidence and detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-title">Misinformation Effect</span><span class="citation-popover-snippet">an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (Loftus &amp; Palmer, 1974) o...</span></span></span>
 
 This creates a major challenge for AI-assisted workflows. If investigators scrape later online discussions without preserving the original account separately, AI systems may incorrectly treat community speculation as witness evidence.
 
@@ -454,7 +454,7 @@ UK policing guidance specifically recommends allowing witnesses to describe even
 
 A newer risk comes from conversational AI systems themselves.
 
-Recent research found that AI interview systems using suggestive prompts could increase false memory formation in witness-style interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.04681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivConversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</span><span class="citation-popover-meta">Published: August 8, 2024</span></span></span>
+Recent research found that AI interview systems using suggestive prompts could increase false memory formation in witness-style interviews. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2408.04681" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Conversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</span><span class="citation-popover-meta">Published: August 8, 2024</span></span></span>
 
 This creates an important warning for AI-assisted UFO investigations. AI can help structure timelines, compare sightings and identify missing metadata, but it should not improvise speculative interview prompts or confidently suggest explanations during evidence collection.
 
@@ -463,9 +463,6 @@ An AI assistant that asks:
 > “Did the object teleport?”
 
 is no longer collecting evidence neutrally. It is potentially altering the witness memory.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
 
 ## Neutral follow-up questions that avoid leading the witness
 
@@ -529,7 +526,7 @@ are scientifically useful because they define the limits of the observation.
 AI systems trained on structured reports can use uncertainty markers to avoid overconfident matching and flawed confidence scoring.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ikvrwOnay3g" title="Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer">Your brain doesn’t detect reality. It creates it. | Lisa Feldman Barrett</a></p><p class="youtube-embed-meta">Channel: Big Think</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ikvrwOnay3g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ikvrwOnay3g">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
 
 ## Why this matters for UFO case credibility
 
@@ -589,7 +586,7 @@ The first witness statement is therefore not just paperwork. It is the foundatio
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Keeps the page anchored in UFO witness evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -599,16 +596,16 @@ The first witness statement is therefore not just paperwork. It is the foundatio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Explains attention and perception limits in witness accounts.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -616,16 +613,16 @@ The first witness statement is therefore not just paperwork. It is the foundatio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-        
+        <p class="fr-book-desc">Helps explain how later interpretation can reshape reports.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -633,16 +630,16 @@ The first witness statement is therefore not just paperwork. It is the foundatio
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports careful questioning and independent confirmation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -650,13 +647,13 @@ The first witness statement is therefore not just paperwork. It is the foundatio
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -683,76 +680,72 @@ The first witness statement is therefore not just paperwork. It is the foundatio
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=voice+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-voice-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="voice recorder" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-voice-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open voice recorder on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20voice%20recorder%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EVoice%20Recorder%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EVoice%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERecorder%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for voice recorder on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">voice recorder</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Voice</span><span class="fr-search-tag">Recorder</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=voice+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-voice-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="voice recorder" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-voice-recorder" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open science mug on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20science%20mug%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EScience%20Mug%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EScience%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMug%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for science mug on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">science mug</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Science</span><span class="fr-search-tag">Mug</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-science-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ban" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=first-account-why-the-first-ufo-account-matters-most-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-series&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -810,10 +803,10 @@ The first witness statement is therefore not just paperwork. It is the foundatio
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -831,7 +824,7 @@ The first witness statement is therefore not just paperwork. It is the foundatio
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -966,212 +959,212 @@ The first witness statement is therefore not just paperwork. It is the foundatio
 
 1. <a id="endnote-1"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0022096598924675](https://www.sciencedirect.com/science/article/pii/S0022096598924675)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0022096598924675" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0022096598924675</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Misinformation Alters Memoriesby DB Wright · 1998 · Cited by 124 — Over the past quarter of a century, hundreds of studies have demon...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAI and ML in studying UAP depends critically upon the quality of the data used to train the AI a...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: en.wikisource.org  
    Title: Responses to Statement of Task  
-   Link: [https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task](https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task)  
+   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — To date, UAP data often consist of observations initially acquired for oth...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/](https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/)  
+   Link: <a href="https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/nasa-to-release-discuss-unidentified-anomalous-phenomena-report/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA to Release, Discuss Unidentified Anomalous...NASA commissioned the study to examine UAP from a scientific perspective and create a...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: college.police.uk  
    Title: witness separation  
-   Link: [https://www.college.police.uk/guidance/obtaining-initial-accounts/witness-separation](https://www.college.police.uk/guidance/obtaining-initial-accounts/witness-separation)  
+   Link: <a href="https://www.college.police.uk/guidance/obtaining-initial-accounts/witness-separation" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/obtaining-initial-accounts/witness-separation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>College of PolicingWitness separation24 Nov 2020 — Officers and staff should separate witnesses to take initial accounts and make sure th...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: assets.college.police.uk  
    Title: College Assets Obtaining initial accounts from victims and witnesses  
-   Link: [https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_Guidelines.pdf](https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_Guidelines.pdf)  
+   Link: <a href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_Guidelines.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_Guidelines.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This College of Policing guidance report contains a set of guidelines on eliciting victim and witness initial (first) accounts.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: college.police.uk  
    Title: witnesses own words and open questioning  
-   Link: [https://www.college.police.uk/guidance/obtaining-initial-accounts/witnesses-own-words-and-open-questioning](https://www.college.police.uk/guidance/obtaining-initial-accounts/witnesses-own-words-and-open-questioning)  
+   Link: <a href="https://www.college.police.uk/guidance/obtaining-initial-accounts/witnesses-own-words-and-open-questioning" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/obtaining-initial-accounts/witnesses-own-words-and-open-questioning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>College of PolicingWitnesses&#x27; own words and open questioning24 Nov 2020 — Officers and staff should allow the witness to give an account...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.04681](https://arxiv.org/abs/2408.04681)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivConversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2408.04681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.04681</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</p></details>
    Published: August 8, 2024  
 
 9. <a id="endnote-9"></a>
    Source: rev.com  
-   Link: [https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript](https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript)  
+   Link: <a href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>to the limited number of high-quality data that surrounds...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAP9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of events in the sky...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: college.police.uk  
-   Link: [https://www.college.police.uk/print/pdf/node/7177](https://www.college.police.uk/print/pdf/node/7177)  
+   Link: <a href="https://www.college.police.uk/print/pdf/node/7177" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/print/pdf/node/7177</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Victim strategy30 Mar 2026 — Victims and/or witnesses have the right to be protected from intimidation or interference. If a victim or wi...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: college.police.uk  
    Title: working victims and witnesses  
-   Link: [https://www.college.police.uk/app/investigation/working-victims-and-witnesses](https://www.college.police.uk/app/investigation/working-victims-and-witnesses)  
+   Link: <a href="https://www.college.police.uk/app/investigation/working-victims-and-witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/app/investigation/working-victims-and-witnesses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Working with victims and witnesses23 Oct 2013 — A witness is a person, other than a defendant, who is likely to give evidence in court. A...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: assets.college.police.uk  
-   Link: [https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205](https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205)  
+   Link: <a href="https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205" target="_blank" rel="noopener noreferrer nofollow">https://assets.college.police.uk/s3fs-public/2020-11/Initial_Accounts_REA.pdf?v=1606213205</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>initial accounts from victims and witnessesThis report presents the findings of a rapid evidence assessment (REA) conducted to inform the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: college.police.uk  
    Title: obtaining initial accounts  
-   Link: [https://www.college.police.uk/guidance/obtaining-initial-accounts](https://www.college.police.uk/guidance/obtaining-initial-accounts)  
+   Link: <a href="https://www.college.police.uk/guidance/obtaining-initial-accounts" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/obtaining-initial-accounts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24 Nov 2020 — We have developed evidence-based guidelines on obtaining initial accounts from victims and witnesses.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: library.college.police.uk  
    Title: NPCC (2015) Guidance Visually Recorded Interviews 3rd Edition  
-   Link: [https://library.college.police.uk/docs/appref/NPCC-%282015%29-Guidance-Visually-Recorded-Interviews%203rd%20Edition.pdf](https://library.college.police.uk/docs/appref/NPCC-%282015%29-Guidance-Visually-Recorded-Interviews%203rd%20Edition.pdf)  
+   Link: <a href="https://library.college.police.uk/docs/appref/NPCC-%282015%29-Guidance-Visually-Recorded-Interviews%203rd%20Edition.pdf" target="_blank" rel="noopener noreferrer nofollow">https://library.college.police.uk/docs/appref/NPCC-%282015%29-Guidance-Visually-Recorded-Interviews%203rd%20Edition.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Structure of Visually Recorded Witness...1 Oct 2016 — The ability to effectively interview victims and witnesses is of vital impo...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: college.police.uk  
-   Link: [https://www.college.police.uk/guidance/obtaining-initial-accounts/introduction-initial-accounts](https://www.college.police.uk/guidance/obtaining-initial-accounts/introduction-initial-accounts)  
+   Link: <a href="https://www.college.police.uk/guidance/obtaining-initial-accounts/introduction-initial-accounts" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/obtaining-initial-accounts/introduction-initial-accounts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to initial accounts24 Nov 2020 — What is this guidance for? It is designed to provide clear evidence-based practice guidelin...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: college.police.uk  
    Title: initial accounts references  
-   Link: [https://www.college.police.uk/guidance/obtaining-initial-accounts/initial-accounts-references](https://www.college.police.uk/guidance/obtaining-initial-accounts/initial-accounts-references)  
+   Link: <a href="https://www.college.police.uk/guidance/obtaining-initial-accounts/initial-accounts-references" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/guidance/obtaining-initial-accounts/initial-accounts-references</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Initial accounts – references24 Nov 2020 — Paterson, H.M., Kemp, R.I., Ng, J.R. (2011) Combating Co‐witness contamination: Attempting to...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: college.police.uk  
-   Link: [https://www.college.police.uk/print/pdf/node/2644](https://www.college.police.uk/print/pdf/node/2644)  
+   Link: <a href="https://www.college.police.uk/print/pdf/node/2644" target="_blank" rel="noopener noreferrer nofollow">https://www.college.police.uk/print/pdf/node/2644</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigative interviewing23 Oct 2013 — Police officers are required to produce a statement from an interview conducted with a witness. S...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: police.uk  
-   Link: [https://www.police.uk/advice/advice-and-information/victim-support/giving-witness-victim-statement/](https://www.police.uk/advice/advice-and-information/victim-support/giving-witness-victim-statement/)  
+   Link: <a href="https://www.police.uk/advice/advice-and-information/victim-support/giving-witness-victim-statement/" target="_blank" rel="noopener noreferrer nofollow">https://www.police.uk/advice/advice-and-information/victim-support/giving-witness-victim-statement/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a witness or victim statementYour witness statement may be used as evidence in court. You don&#x27;t have to give a statement but you might st...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8 May 2026 — The UAP independent study team&#x27;s main focus for the report was to come up with a way in which to evaluate and study UAPs goi...</p></details>
    Published: May 2026  
 
 21. <a id="endnote-21"></a>
    Source: sciencedirect.com  
    Title: Misinformation Effect  
-   Link: [https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect](https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect)  
+   Link: <a href="https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/agricultural-and-biological-sciences/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewIn a typical misinformation effect study, participants witness an event, usually visually via slides (Loftus &amp; Palmer, 1974) o...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: simplypsychology.org  
    Title: loftus palmer  
-   Link: [https://www.simplypsychology.org/loftus-palmer.html](https://www.simplypsychology.org/loftus-palmer.html)  
+   Link: <a href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/loftus-palmer.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simply PsychologyLoftus and Palmer 1974 | Car Crash Experimentby S McLeod · Cited by 3 — Thus, they aimed to show that leading questions...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tandfonline.com  
-   Link: [https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901](https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901)  
+   Link: <a href="https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901" target="_blank" rel="noopener noreferrer nofollow">https://www.tandfonline.com/doi/full/10.1080/1068316X.2026.2637901</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor &amp; Francis OnlineNews as a form of post-event information: the effect of...by Z Crittenden · 2026 — Decades of research into the m...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: verywellmind.com  
    Title: Verywell Mind Eyewitness Testimony: Reliability and Examples  
-   Link: [https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757](https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757)  
+   Link: <a href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow">https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cps.gov.uk  
-   Link: [https://www.cps.gov.uk/prosecution-guidance/witnesses](https://www.cps.gov.uk/prosecution-guidance/witnesses)  
+   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/witnesses</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>15 Jul 2024 — This section sets out guidance on admitting agreed evidence and facts and witness statements taken over the telephone. Admi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: war.gov  
-   Link: [https://www.war.gov/UFO/](https://www.war.gov/UFO/)  
+   Link: <a href="https://www.war.gov/UFO/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/UFO/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidential Unsealing and Reporting System for UAP...8 May 2026 — The materials archived here are unresolved cases, meaning the governm...</p></details>
    Published: May 2026  
 
 27. <a id="endnote-27"></a>
    Source: Wikipedia  
    Title: Misinformation effect  
-   Link: [https://en.wikipedia.org/wiki/Misinformation_effect](https://en.wikipedia.org/wiki/Misinformation_effect)  
+   Link: <a href="https://en.wikipedia.org/wiki/Misinformation_effect" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Misinformation_effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effectThe misinformation effect occurs when a person&#x27;s recall of episodic memories becomes less accurate because of pos...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: support.gorilla.sc  
    Title: sc The Misinformation Effect  
-   Link: [https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect](https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect)  
+   Link: <a href="https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://support.gorilla.sc/support/educational-resources/classic-psychology-tasks/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation Effect - Gorilla Support DocumentationMisinformation refers to the fact that language in post-event questions can influenc...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect](https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect)  
+   Link: <a href="https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/social-sciences-and-humanities/misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Misinformation effect | Social Sciences and HumanitiesThe misinformation effect refers to the phenomenon where post-event information can...</p></details>
 
 ### Additional References
 
 30. <a id="endnote-30"></a>
    Source: nobaproject.com  
-   Link: [https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases](https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases)  
+   Link: <a href="https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases" target="_blank" rel="noopener noreferrer nofollow">https://nobaproject.com/modules/eyewitness-testimony-and-memory-biases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony and Memory BiasesThe misinformation in these studies has led people to incorrectly remember everything from small bu...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: lampardinquiry.org.uk  
-   Link: [https://lampardinquiry.org.uk/key-documents/protocol-on-witness-statements/](https://lampardinquiry.org.uk/key-documents/protocol-on-witness-statements/)  
+   Link: <a href="https://lampardinquiry.org.uk/key-documents/protocol-on-witness-statements/" target="_blank" rel="noopener noreferrer nofollow">https://lampardinquiry.org.uk/key-documents/protocol-on-witness-statements/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Protocol on Witness StatementsThe Inquiry&#x27;s principal objective is to ensure that every potential witness engaging with the Inquiry is ab...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: thedecisionlab.com  
-   Link: [https://thedecisionlab.com/[reference](https://thedecisionlab.com/[reference)  
+   Link: <a href="https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect" target="_blank" rel="noopener noreferrer nofollow">https://thedecisionlab.com/reference-guide/psychology/the-misinformation-effect</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Misinformation EffectThe misinformation effect happens when our memory for past events is altered after exposure to misleading inform...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: cps.gov.uk  
-   Link: [https://www.cps.gov.uk/prosecution-guidance/witness-protection-and-anonymity](https://www.cps.gov.uk/prosecution-guidance/witness-protection-and-anonymity)  
+   Link: <a href="https://www.cps.gov.uk/prosecution-guidance/witness-protection-and-anonymity" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/prosecution-guidance/witness-protection-and-anonymity</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Witness protection and anonymityFind advice and support for victims and witnesses about the journey from charge to conviction.... Inform...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: psychstory.co.uk  
-   Link: [https://www.psychstory.co.uk/memory/eye-witness-testimony](https://www.psychstory.co.uk/memory/eye-witness-testimony)  
+   Link: <a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyIn legal settings, poorly constructed questions in police interviews or courtrooms...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts](https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts)  
+   Link: <a href="https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/extraterrestrial-life/us-government-declassifies-nearly-200-uap-files-including-strange-sightings-from-apollo-astronauts</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US government declassifies nearly 200 UAP files...8 May 2026 — &quot;The materials archived here are unresolved cases, meaning the government...</p></details>
    Published: May 2026  
 
 37. <a id="endnote-37"></a>
    Source: unlock.org.uk  
-   Link: [https://unlock.org.uk/advice/disclosure-previous-convictions-court-proceedings/](https://unlock.org.uk/advice/disclosure-previous-convictions-court-proceedings/)  
+   Link: <a href="https://unlock.org.uk/advice/disclosure-previous-convictions-court-proceedings/" target="_blank" rel="noopener noreferrer nofollow">https://unlock.org.uk/advice/disclosure-previous-convictions-court-proceedings/</a>  
 
 38. <a id="endnote-38"></a>
    Source: cps.gov.uk  
-   Link: [https://www.cps.gov.uk/information-witnesses](https://www.cps.gov.uk/information-witnesses)  
+   Link: <a href="https://www.cps.gov.uk/information-witnesses" target="_blank" rel="noopener noreferrer nofollow">https://www.cps.gov.uk/information-witnesses</a>  
 
 39. <a id="endnote-39"></a>
    Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0](https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0)  
+   Link: <a href="https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comHigh-Quality Data is Worth a Thousand LLMs in Resolving...Among 51 cases of death row exonerations, a study posted here found...</p></details>

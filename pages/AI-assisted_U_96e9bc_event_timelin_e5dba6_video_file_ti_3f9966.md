@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /timeline/
 nav_short_title: Video timeline
 title: What the video really shows
-title_full: What the video really shows | Timeline
+title_full: What the video really shows
 display_title_short: Video timeline
 display_title: Video timeline
 heading_title: What the video really shows
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Else Was Happening During the Sighting? | UFO Case AI
+parent_title: What Else Was Happening During the Sighting?
 parent_permalink: /timeline/
 parent_nav_short_title: Timeline
 parent_heading_title: What Else Was Happening During the Sighting?
@@ -285,7 +285,7 @@ next_link:
   permalink: /weather-layers/
   short_title: Weather layers
   heading_title: How weather can reshape a sighting
-date: '2026-06-08 22:58:17 '
+date: '2026-06-10 19:51:39 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-1.webp
@@ -329,9 +329,9 @@ Those timestamps often diverge. A witness may sincerely state that a video was u
 
 </div>
 
-Digital-forensics guidance repeatedly warns that creation dates and frame timing information can change during processing or conversion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NISTOSAC 2022-S-0031 Standard Guide for Forensic Digital...For example, creation times or frame timing information may be changed...</span></span></span>
+Digital-forensics guidance repeatedly warns that creation dates and frame timing information can change during processing or conversion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">OSAC 2022-S-0031 Standard Guide for Forensic Digital...For example, creation times or frame timing information may be changed...</span></span></span>
 
-For that reason, a structured UFO case file should preserve:
+For that reason, a structured UFO [case file]({{ 'case-file/' | relative_url }}) should preserve:
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -351,16 +351,16 @@ For that reason, a structured UFO case file should preserve:
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Encourages careful interpretation of visual evidence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -368,16 +368,16 @@ For that reason, a structured UFO case file should preserve:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Visual Display of Quantitative Information on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SqVpAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Visual Display of Quantitative Information" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Visual Display of Quantitative Information">The Visual Display of Quantitative Information</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Edward R. Tufte</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Relevant to separating data from presentation effects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information+by+Edward+R.+Tufte&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -385,16 +385,16 @@ For that reason, a structured UFO case file should preserve:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Promotes evidence-led evaluation of recordings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -402,16 +402,16 @@ For that reason, a structured UFO case file should preserve:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Nigel Watson</p>
         
-        
+        <p class="fr-book-desc">Relevant to handling and assessing sighting evidence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -419,13 +419,13 @@ For that reason, a structured UFO case file should preserve:
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Visual+Display+of+Quantitative+Information&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Visual Display of Quantitative Information</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -452,76 +452,72 @@ For that reason, a structured UFO case file should preserve:
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera tripod on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20tripod%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Tripod%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETripod%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera tripod on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">camera tripod</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Tripod</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera filter on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20filter%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Filter%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFilter%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera filter on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera filter</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Filter</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-filter" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camcorder+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camcorder-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camcorder accessory" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camcorder-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camcorder accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camcorder%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamcorder%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamcorder%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camcorder accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camcorder accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camcorder</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camcorder+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camcorder-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camcorder accessory" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camcorder-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+lens+hood&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-lens-hood&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens hood" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-lens-hood" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera lens hood on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20lens%20hood%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Lens%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EHood%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELens%3C%2Ftext%3E%3Crect%20x%3D%22132%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22142%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EHood%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera lens hood on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera lens hood</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Lens</span><span class="fr-search-tag">Hood</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+lens+hood&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-lens-hood&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens hood" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-lens-hood" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=video-timeline-what-the-video-really-shows-ai-assisted-ufo-sighting-investigation-camera-tripod&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -579,10 +575,10 @@ For that reason, a structured UFO case file should preserve:
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -600,7 +596,7 @@ For that reason, a structured UFO case file should preserve:
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -742,7 +738,7 @@ This is especially important when a sighting becomes public quickly. Viral clips
 
 ### Why metadata alone is not enough
 
-Metadata can be extremely useful, but it is not automatically trustworthy. EXIF and container metadata may reveal device model, codec, GPS information, frame rate, timezone, and edit history, yet metadata can also be stripped, altered, or regenerated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — Buchholz and Spafford [8] explained h...</span></span></span>
+Metadata can be extremely useful, but it is not automatically trustworthy. EXIF and container metadata may reveal device model, codec, GPS information, frame rate, timezone, and edit history, yet metadata can also be stripped, altered, or regenerated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — Buchholz and Spafford [8] explained h...</span></span></span>
 
 An AI workflow should therefore compare metadata against independent anchors such as:
 
@@ -751,7 +747,7 @@ An AI workflow should therefore compare metadata against independent anchors suc
 * Aircraft positions.
 * Astronomical visibility.
 * Nearby CCTV timing.
-* Social-media posting times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCIdentification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</span></span></span>
+* Social-media posting times. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[pmc.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Identification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</span></span></span>
 * Audio events such as church bells, sirens, or train announcements.
 
 A claimed recording time that conflicts with visible cloud cover or aircraft lighting patterns may indicate either faulty timestamps or mistaken recollection rather than deliberate fabrication.
@@ -813,7 +809,7 @@ The result is that an object can appear to:
 
 A video timeline should therefore include exposure-state markers alongside witness recollection. Without them, later viewers may interpret a camera behaviour change as object behaviour.
 
-Frame-timing analysis standards used in digital forensics emphasise that timing and frame intervals require careful examination because stored video may not reflect perfectly continuous capture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swgde.org/wp-content/uploads/2023/11/2022-06-09-SWGDE-Best-Practices-for-Frame-Timing-Analysis-of-Video-Stored-in-ISO-Base-Media-File-Formats_v1.1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDE - SWGDESWGDE Best Practice for Frame Timing Analysis of Video...9 Jun 2022 — The purpose of this document is to provide forensic e...</span></span></span>
+Frame-timing analysis standards used in digital forensics emphasise that timing and frame intervals require careful examination because stored video may not reflect perfectly continuous capture. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.swgde.org/wp-content/uploads/2023/11/2022-06-09-SWGDE-Best-Practices-for-Frame-Timing-Analysis-of-Video-Stored-in-ISO-Base-Media-File-Formats_v1.1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swgde.org">[SWGDE - SWGDE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swgde.org</span><span class="citation-popover-snippet">SWGDESWGDE Best Practice for Frame Timing Analysis of Video...9 Jun 2022 — The purpose of this document is to provide forensic e...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-2-dark.svg" | relative_url }}" alt="Video timeline illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -832,7 +828,7 @@ The media timeline records observable file events:
 
 * Zoom increased from 3x to 10x.
 * Exposure dropped two stops.
-* Frame cadence changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NISTOSAC 2022-S-0031 Standard Guide for Forensic Digital...For example, creation times or frame timing information may be changed...</span></span></span>
+* Frame cadence changed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[nist.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">OSAC 2022-S-0031 Standard Guide for Forensic Digital...For example, creation times or frame timing information may be changed...</span></span></span>
 * Clip gap of 14 seconds.
 * Audio track cut.
 * File exported after trimming.
@@ -864,9 +860,9 @@ Social platforms routinely recompress footage. Some alter frame rates, strip met
 
 At that stage, claims about speed, acceleration, colour, or timing become much weaker because the media object itself has drifted far from the original capture.
 
-This is one reason why modern provenance systems are attracting attention. The Coalition for Content Provenance and Authenticity (C2PA) and related “Content Credentials” standards aim to preserve records of origin and edits in digital media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://c2pa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c2pa.org">[C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c2pa.org</span><span class="citation-popover-snippet">C2PAC2PA | Verifying Media Content SourcesC2PA provides an open technical standard for publishers, creators and consumers to establish th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://contentcredentials.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contentcredentials.org">[Content Credentials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contentcredentials.org</span><span class="citation-popover-snippet">Content Credentials | Verify Media AuthenticityContent Credentials provides media transparency with advanced authenticity detection tools...</span></span></span>
+This is one reason why modern provenance systems are attracting attention. The Coalition for Content Provenance and Authenticity (C2PA) and related “Content Credentials” standards aim to preserve records of origin and edits in digital media. <span class="citation-chip-wrap"><a class="citation-chip" href="https://c2pa.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: c2pa.org">[C2PA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">c2pa.org</span><span class="citation-popover-snippet">C2PA &#124; Verifying Media Content SourcesC2PA provides an open technical standard for publishers, creators and consumers to establish th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://contentcredentials.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: contentcredentials.org">[Content Credentials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">contentcredentials.org</span><span class="citation-popover-snippet">Content Credentials &#124; Verify Media AuthenticityContent Credentials provides media transparency with advanced authenticity detection tools...</span></span></span>
 
-However, current systems remain incomplete and fragile in practice. Metadata may still be stripped during uploads or exports, and researchers have warned that provenance standards should not yet be treated as foolproof authentication systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivVerifying Provenance of Digital Media: Why the C2PA Specifications Fall ShortApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Instagram head Adam Mosseri recently raised concerns about AI eroding authenticity and suggested labeling real media. While C2PA — backed...</span></span></span>
+However, current systems remain incomplete and fragile in practice. Metadata may still be stripped during uploads or exports, and researchers have warned that provenance standards should not yet be treated as foolproof authentication systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Verifying Provenance of Digital Media: Why the C2PA Specifications Fall ShortApril 27, 2026...</span><span class="citation-popover-meta">Published: April 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theverge.com">[The Verge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theverge.com</span><span class="citation-popover-snippet">Instagram head Adam Mosseri recently raised concerns about AI eroding authenticity and suggested labeling real media. While C2PA — backed...</span></span></span>
 
 For UFO investigations, these systems are potentially useful but should be treated as supporting evidence rather than definitive proof.
 
@@ -921,220 +917,220 @@ The value of AI-assisted reconstruction is not that it declares footage “real�
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCIdentification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC8404930/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification of Social-Media Platform of Videos through the...by L Maiano · 2021 · Cited by 23 — This is the first work that addres...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/103752968/The_Significance_of_Metadata_and_Video_Compression_for_Investigating_Video_Files_on_Social_Media_Forensic](https://www.academia.edu/103752968/The_Significance_of_Metadata_and_Video_Compression_for_Investigating_Video_Files_on_Social_Media_Forensic)  
+   Link: <a href="https://www.academia.edu/103752968/The_Significance_of_Metadata_and_Video_Compression_for_Investigating_Video_Files_on_Social_Media_Forensic" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/103752968/The_Significance_of_Metadata_and_Video_Compression_for_Investigating_Video_Files_on_Social_Media_Forensic</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Journal of Scientific Research in...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ijsrcseit.com  
-   Link: [https://ijsrcseit.com/CSEIT2390373](https://ijsrcseit.com/CSEIT2390373)  
+   Link: <a href="https://ijsrcseit.com/CSEIT2390373" target="_blank" rel="noopener noreferrer nofollow">https://ijsrcseit.com/CSEIT2390373</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Significance of Metadata and Video Compression for...30 Jun 2023 — We first propose the acquisition extraction analysis in a forensi...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20](https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTOSAC 2022-S-0031 Standard Guide for Forensic Digital...For example, creation times or frame timing information may be changed...</p></details>
+   Link: <a href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSAC 2022-S-0031 Standard Guide for Forensic Digital...For example, creation times or frame timing information may be changed...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/document/osac-2022-s-0031standard-guide-forensic-digital-video-examination-workflowopen-comment](https://www.nist.gov/document/osac-2022-s-0031standard-guide-forensic-digital-video-examination-workflowopen-comment)  
+   Link: <a href="https://www.nist.gov/document/osac-2022-s-0031standard-guide-forensic-digital-video-examination-workflowopen-comment" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2022-s-0031standard-guide-forensic-digital-video-examination-workflowopen-comment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Video Examination Workflow. 6 example, creation times or frame timing information may be changed as a.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SCIEPublishForensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — Buchholz and Spafford [8] explained h...</p></details>
+   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — Buchholz and Spafford [8] explained h...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: swgde.org  
-   Link: [https://www.swgde.org/wp-content/uploads/2023/11/2022-06-09-SWGDE-Best-Practices-for-Frame-Timing-Analysis-of-Video-Stored-in-ISO-Base-Media-File-Formats_v1.1.pdf](https://www.swgde.org/wp-content/uploads/2023/11/2022-06-09-SWGDE-Best-Practices-for-Frame-Timing-Analysis-of-Video-Stored-in-ISO-Base-Media-File-Formats_v1.1.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE - SWGDESWGDE Best Practice for Frame Timing Analysis of Video...9 Jun 2022 — The purpose of this document is to provide forensic e...</p></details>
+   Link: <a href="https://www.swgde.org/wp-content/uploads/2023/11/2022-06-09-SWGDE-Best-Practices-for-Frame-Timing-Analysis-of-Video-Stored-in-ISO-Base-Media-File-Formats_v1.1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/wp-content/uploads/2023/11/2022-06-09-SWGDE-Best-Practices-for-Frame-Timing-Analysis-of-Video-Stored-in-ISO-Base-Media-File-Formats_v1.1.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDESWGDE Best Practice for Frame Timing Analysis of Video...9 Jun 2022 — The purpose of this document is to provide forensic e...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: swgde.org  
-   Link: [https://www.swgde.org/documents/published-complete-listing/19-v-005-swgde-best-practice-for-frame-timing-analysis-of-video-stored-in-iso-base-media-file-formats/](https://www.swgde.org/documents/published-complete-listing/19-v-005-swgde-best-practice-for-frame-timing-analysis-of-video-stored-in-iso-base-media-file-formats/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDE - SWGDESWGDE Best Practice for Frame Timing Analysis of Video...The delta of packet presentation times identifies the elapsed time...</p></details>
+   Link: <a href="https://www.swgde.org/documents/published-complete-listing/19-v-005-swgde-best-practice-for-frame-timing-analysis-of-video-stored-in-iso-base-media-file-formats/" target="_blank" rel="noopener noreferrer nofollow">https://www.swgde.org/documents/published-complete-listing/19-v-005-swgde-best-practice-for-frame-timing-analysis-of-video-stored-in-iso-base-media-file-formats/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>SWGDESWGDE Best Practice for Frame Timing Analysis of Video...The delta of packet presentation times identifies the elapsed time...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: c2pa.org  
-   Link: [https://c2pa.org/](https://c2pa.org/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PAC2PA | Verifying Media Content SourcesC2PA provides an open technical standard for publishers, creators and consumers to establish th...</p></details>
+   Link: <a href="https://c2pa.org/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA | Verifying Media Content SourcesC2PA provides an open technical standard for publishers, creators and consumers to establish th...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: spec.c2pa.org  
-   Link: [https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html](https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html)  
+   Link: <a href="https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/explainer/Explainer.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>c2pa.orgC2PA and Content Credentials ExplainerProvenance, as C2PA defines it, refers to the facts about the history of a piece of digital...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2604.24890](https://arxiv.org/abs/2604.24890)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivVerifying Provenance of Digital Media: Why the C2PA Specifications Fall ShortApril 27, 2026...</p></details>
+   Link: <a href="https://arxiv.org/abs/2604.24890" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2604.24890</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verifying Provenance of Digital Media: Why the C2PA Specifications Fall ShortApril 27, 2026...</p></details>
    Published: April 27, 2026  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: OSIN T At Home #2  
-   Link: [https://www.youtube.com/watch?v=d3NsT8lJRlE](https://www.youtube.com/watch?v=d3NsT8lJRlE)  
+   Link: <a href="https://www.youtube.com/watch?v=d3NsT8lJRlE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=d3NsT8lJRlE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT At Home #2 - Five ways to find EXIF/metadata in a...In this video we&#x27;re going to look at five different ways to view the exit data...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=wMnVHeXPb6c](https://www.youtube.com/watch?v=wMnVHeXPb6c)  
+   Link: <a href="https://www.youtube.com/watch?v=wMnVHeXPb6c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=wMnVHeXPb6c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is C2PA? C2PA and Digital AuthenticityC2PA attaches digital credentials to content like an invisible watermark of sorts detailing th...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=fXDbZkEnojA](https://www.youtube.com/watch?v=fXDbZkEnojA)  
+   Link: <a href="https://www.youtube.com/watch?v=fXDbZkEnojA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=fXDbZkEnojA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot; evidence; they are often the primary data goldmines in modern...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: nist.gov  
    Title: Forensics@NIST Day 2.1 | NISTDIGITAL EVIDENCE. 9:00  
-   Link: [https://www.nist.gov/video/forensicsnist-day-21](https://www.nist.gov/video/forensicsnist-day-21)  
+   Link: <a href="https://www.nist.gov/video/forensicsnist-day-21" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/video/forensicsnist-day-21</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9:05am EST. Overview of the NIST Digital Evidence Program. Speaker(s). Barbara Guttman, NIST. 9:05 - 9:35am EST. NSRL...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nist.gov  
    Title: digital video exchange standards  
-   Link: [https://www.nist.gov/programs-projects/digital-video-exchange-standards](https://www.nist.gov/programs-projects/digital-video-exchange-standards)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTNov 7, 2016 — NIST is working with Law Enforcement, Industry, and the Standards Community to establish a standardized digital video d...</p></details>
+   Link: <a href="https://www.nist.gov/programs-projects/digital-video-exchange-standards" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/programs-projects/digital-video-exchange-standards</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nov 7, 2016 — NIST is working with Law Enforcement, Industry, and the Standards Community to establish a standardized digital video d...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nvlpubs.nist.gov  
-   Link: [https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8172.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8172.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Closed Circuit Digital Video Recording and...by M Garris · Cited by 1 — [Following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) the metadata analysis, the files were demultiplexed...</p></details>
+   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8172.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8172.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Closed Circuit Digital Video Recording and...by M Garris · Cited by 1 — Following the metadata analysis, the files were demultiplexed...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/document/standard-practice-data-retrieval-digital-cctv-systems](https://www.nist.gov/document/standard-practice-data-retrieval-digital-cctv-systems)  
+   Link: <a href="https://www.nist.gov/document/standard-practice-data-retrieval-digital-cctv-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/standard-practice-data-retrieval-digital-cctv-systems</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d interested parties can consider the recommendations of the OSAC pertaining to.Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: c2pa.org  
    Title: releases specification of worlds first industry standard for content provenance  
-   Link: [https://c2pa.org/c2pa-releases-specification-of-worlds-first-industry-standard-for-content-provenance/](https://c2pa.org/c2pa-releases-specification-of-worlds-first-industry-standard-for-content-provenance/)  
+   Link: <a href="https://c2pa.org/c2pa-releases-specification-of-worlds-first-industry-standard-for-content-provenance/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/c2pa-releases-specification-of-worlds-first-industry-standard-for-content-provenance/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Coalition for Content Provenance and Authenticity (...6 Jan 2022 — The Coalition for Content Provenance and Authenticity (C2PA) is an op...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: spec.c2pa.org  
-   Link: [https://spec.c2pa.org/specifications/specifications/2.4/index.html](https://spec.c2pa.org/specifications/specifications/2.4/index.html)  
+   Link: <a href="https://spec.c2pa.org/specifications/specifications/2.4/index.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>c2pa.orgC2PA Specifications:: C2PA SpecificationsThe Coalition for Content Provenance and Authenticity (C2PA)... standards for certifyi...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: c2pa.org  
-   Link: [https://c2pa.org/faqs/](https://c2pa.org/faqs/)  
+   Link: <a href="https://c2pa.org/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.org/faqs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQsIn the context of C2PA, content provenance is captured and preserved using Content Credentials, the technical standard the C2PA produ...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: spec.c2pa.org  
-   Link: [https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html](https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html)  
+   Link: <a href="https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html" target="_blank" rel="noopener noreferrer nofollow">https://spec.c2pa.org/specifications/specifications/2.4/specs/C2PA_Specification.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Credentials: C2PA Technical SpecificationProvenance empowers content creators and editors, regardless of their geographic location or de...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2105.06361](https://arxiv.org/abs/2105.06361)  
+   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video Files Using Metadataby Z Xiang · 2021 · Cited by 36 — This metadata information can be used to determine video...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: c2pa.wiki  
-   Link: [https://c2pa.wiki/](https://c2pa.wiki/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>C2PA: Content Provenance &amp; Authenticity Standard2 Dec 2025 — C2PA is an open technical standard providing publishers, creators, and consu...</p></details>
+   Link: <a href="https://c2pa.wiki/" target="_blank" rel="noopener noreferrer nofollow">https://c2pa.wiki/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Provenance &amp; Authenticity Standard2 Dec 2025 — C2PA is an open technical standard providing publishers, creators, and consu...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: NEW UPDATE: THE DIGITAL EVIDENCE RCMP MAY BE USING TO RECONSTRUCT THE NIGHT  
-   Link: [http://www.youtube.com/watch?v=wVmxo6EdkBg](http://www.youtube.com/watch?v=wVmxo6EdkBg)  
+   Link: <a href="http://www.youtube.com/watch?v=wVmxo6EdkBg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wVmxo6EdkBg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Idaho 4 Timeline — Evidence vs State Claims...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Idaho 4 Timeline — Evidence vs State Claims  
-   Link: [http://www.youtube.com/watch?v=4gHni83F_x8](http://www.youtube.com/watch?v=4gHni83F_x8)  
+   Link: <a href="http://www.youtube.com/watch?v=4gHni83F_x8" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=4gHni83F_x8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crime Scene Reconstruction...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Crime Scene Reconstruction  
-   Link: [http://www.youtube.com/watch?v=zVDIU-8xRtM](http://www.youtube.com/watch?v=zVDIU-8xRtM)  
+   Link: <a href="http://www.youtube.com/watch?v=zVDIU-8xRtM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=zVDIU-8xRtM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Project 002: Forensic Reconstruction of the Bernal Garcia Lineage...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: Project 002: Forensic Reconstruction of the Bernal Garcia Lineage  
-   Link: [http://www.youtube.com/watch?v=U1dVdEzDAeA](http://www.youtube.com/watch?v=U1dVdEzDAeA)  
+   Link: <a href="http://www.youtube.com/watch?v=U1dVdEzDAeA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=U1dVdEzDAeA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of Forensic Science: From Fingerprints to DNA Profiling...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: The Evolution of Forensic Science: From Fingerprints to DNA Profiling  
-   Link: [http://www.youtube.com/watch?v=TK1Yj4Of5A4](http://www.youtube.com/watch?v=TK1Yj4Of5A4)  
+   Link: <a href="http://www.youtube.com/watch?v=TK1Yj4Of5A4" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TK1Yj4Of5A4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital video forensics timeline reconstruction evidence Project 002: Forensic Reconstruction of the Bernal Garcia Lineage...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: contentcredentials.org  
-   Link: [https://contentcredentials.org/](https://contentcredentials.org/)  
+   Link: <a href="https://contentcredentials.org/" target="_blank" rel="noopener noreferrer nofollow">https://contentcredentials.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Content Credentials | Verify Media AuthenticityContent Credentials provides media transparency with advanced authenticity detection tools...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: theverge.com  
-   Link: [https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube](https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube)  
+   Link: <a href="https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/ai-artificial-intelligence/882956/ai-deepfake-detection-labels-c2pa-instagram-youtube</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instagram head Adam Mosseri recently raised concerns about AI eroding authenticity and suggested labeling real media. While C2PA — backed...</p></details>
 
 ### Additional References
 
 32. <a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY](https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY)  
+   Link: <a href="https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/399539984_FORENSIC_ANALYSIS_OF_TEMPORAL_INCONSISTENCIES_AND_METADATA_DISCREPANCIES_IN_CCTV_FOOTAGE_A_CASE_STUDY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>forensic analysis of temporal inconsistencies and metadata...9 Jan 2026 — The findings reveal measurable discrepancies between on-screen...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: businessinsider.com  
-   Link: [https://www.businessinsider.com/openai-adding-digital-watermarks-ai-images-deepfakes-2024-2](https://www.businessinsider.com/openai-adding-digital-watermarks-ai-images-deepfakes-2024-2)  
+   Link: <a href="https://www.businessinsider.com/openai-adding-digital-watermarks-ai-images-deepfakes-2024-2" target="_blank" rel="noopener noreferrer nofollow">https://www.businessinsider.com/openai-adding-digital-watermarks-ai-images-deepfakes-2024-2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These watermarks, powered by the Coalition for Content Provenance and Authenticity (C2PA), are intended to enhance public trust by verify...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/269070074/Forensic-Analysis-of-Video-Formats](https://www.scribd.com/document/269070074/Forensic-Analysis-of-Video-Formats)  
+   Link: <a href="https://www.scribd.com/document/269070074/Forensic-Analysis-of-Video-Formats" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/269070074/Forensic-Analysis-of-Video-Formats</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic Analysis of Video FormatsThe document discusses the analysis of video file formats to extract metadata and characteristics for f...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40daveowczarek/understanding-c2pa-and-audio-files-a347b6f748c9](https://medium.com/%40daveowczarek/understanding-c2pa-and-audio-files-a347b6f748c9)  
+   Link: <a href="https://medium.com/%40daveowczarek/understanding-c2pa-and-audio-files-a347b6f748c9" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40daveowczarek/understanding-c2pa-and-audio-files-a347b6f748c9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding C2PA and Audio Files | by Dave OwczarekC2PA provides tamper-evident assertion about the creators and provenance of a digita...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: certifywebcontent.com  
-   Link: [https://www.certifywebcontent.com/the-new-standard-for-digital-evidence-hashes-timestamps-and-forensic-declarations/](https://www.certifywebcontent.com/the-new-standard-for-digital-evidence-hashes-timestamps-and-forensic-declarations/)  
+   Link: <a href="https://www.certifywebcontent.com/the-new-standard-for-digital-evidence-hashes-timestamps-and-forensic-declarations/" target="_blank" rel="noopener noreferrer nofollow">https://www.certifywebcontent.com/the-new-standard-for-digital-evidence-hashes-timestamps-and-forensic-declarations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The new standard for digital evidence: hashes, timestamps...Mar 7, 2026 — By combining cryptographic hashes, trusted timestamps, and for...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: lcgdiscovery.com  
-   Link: [https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/](https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/)  
+   Link: <a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Compare the file&#x27;s creation times and frame timestamps with independent references, such as 911 CAD logs or...Read more...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: chesa.com  
    Title: understanding c2pa enhancing digital content provenance and authenticity  
-   Link: [https://chesa.com/understanding-c2pa-enhancing-digital-content-provenance-and-authenticity/](https://chesa.com/understanding-c2pa-enhancing-digital-content-provenance-and-authenticity/)  
+   Link: <a href="https://chesa.com/understanding-c2pa-enhancing-digital-content-provenance-and-authenticity/" target="_blank" rel="noopener noreferrer nofollow">https://chesa.com/understanding-c2pa-enhancing-digital-content-provenance-and-authenticity/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding C2PA: Enhancing Digital Content Provenance...23 Aug 2024 — C2PA is a groundbreaking initiative aimed at combating digital...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: onlinebrandambassadors.com  
    Title: C2PA: Certifying Digital Media Authenticity And Provenance What is C2PA?  
-   Link: [https://www.onlinebrandambassadors.com/c2pa-certifying-digital-medias-authenticity/?srsltid=AfmBOoqWseWDICBfnAhMz1H5Ls_pQsxWKpkO5NwwxIiRgRdA1wM6iMO9](https://www.onlinebrandambassadors.com/c2pa-certifying-digital-medias-authenticity/?srsltid=AfmBOoqWseWDICBfnAhMz1H5Ls_pQsxWKpkO5NwwxIiRgRdA1wM6iMO9)  
+   Link: <a href="https://www.onlinebrandambassadors.com/c2pa-certifying-digital-medias-authenticity/?srsltid=AfmBOoqWseWDICBfnAhMz1H5Ls_pQsxWKpkO5NwwxIiRgRdA1wM6iMO9" target="_blank" rel="noopener noreferrer nofollow">https://www.onlinebrandambassadors.com/c2pa-certifying-digital-medias-authenticity/?srsltid=AfmBOoqWseWDICBfnAhMz1H5Ls_pQsxWKpkO5NwwxIiRgRdA1wM6iMO9</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how this new standard, backed by Adobe and Microsoft, tracks the provenance and certifies the authenticity of digital media to fight...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: openaccess.thecvf.com  
    Title: Xiang Forensic Analysis of Video Files Using Metadata CVPRW 2021 paper  
-   Link: [https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf](https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf)  
+   Link: <a href="https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf" target="_blank" rel="noopener noreferrer nofollow">https://openaccess.thecvf.com/content/CVPR2021W/WMF/papers/Xiang_Forensic_Analysis_of_Video_Files_Using_Metadata_CVPRW_2021_paper.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>CVF Open AccessForensic Analysis of Video Files Using Metadataby Z Xiang · 2021 · Cited by 36 — In this paper we propose a framework that...</p></details>

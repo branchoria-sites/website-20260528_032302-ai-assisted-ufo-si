@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /weather/
 nav_short_title: Light pillars
 title: Are those alien beams really light pillars?
-title_full: Are those alien beams really light pillars? | Weather
+title_full: Are those alien beams really light pillars?
 display_title_short: Light pillars
 display_title: Light pillars
 heading_title: Are those alien beams really light pillars?
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Weather Make a UFO Look Stranger? | UFO Case AI
+parent_title: Can Weather Make a UFO Look Stranger?
 parent_permalink: /weather/
 parent_nav_short_title: Weather
 parent_heading_title: Can Weather Make a UFO Look Stranger?
@@ -285,7 +285,7 @@ next_link:
   permalink: /sprites/
   short_title: Sprites
   heading_title: Red flashes above storms and UFO reports
-date: '2026-06-08 23:07:28 '
+date: '2026-06-10 19:57:18 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1.webp
@@ -294,19 +294,19 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c4
 
 ## Introduction
 
-A vertical beam of light hanging in the sky can look deeply unnatural, especially when it appears motionless, sharply defined, and detached from any visible source on the ground. In UFO reporting, these displays are often described as “columns”, “portals”, “tractor beams”, or “searchlights from nowhere”. Yet one of the most common explanations is a well-understood [atmospheric]({{ 'scintillation/' | relative_url }}) optics effect called a light pillar.
+A vertical beam of light hanging in the sky can look deeply unnatural, especially when it appears motionless, sharply defined, and detached from any visible source on the ground. In UFO reporting, these displays are often described as “columns”, “portals”, “tractor beams”, or “searchlights from nowhere”. Yet one of the most common explanations is a well-understood atmospheric optics effect called a light pillar.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1-dark.svg" | relative_url }}" alt="Light pillars illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Light pillars form when bright light reflects from flat ice crystals suspended in cold air. Under the right conditions, ordinary ground lighting — street lamps, industrial sites, stadium floodlights, vehicle headlights, or even the Sun or Moon — can appear as luminous vertical shafts reaching into the sky. The effect is real, photographable, and sometimes spectacular enough to trigger UFO reports, especially during cold clear nights when the witness cannot easily identify the source below. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">January 8, 2026 — A light pillar or ice pillar is an atmospheric optical phenomenon in which a vertical beam of light appears to extend a...</span><span class="citation-popover-meta">Published: January 8, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.metservice.com/learning/light-pillars-e59eg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.metservice.com">[About MetService]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.metservice.com</span><span class="citation-popover-snippet">About MetServiceLight PillarsSome pillars are caused by sunlight, while they can also be created by moonlight, and even the light from Ve...</span></span></span>
+Light pillars form when bright light reflects from flat ice crystals suspended in cold air. Under the right conditions, ordinary ground lighting — street lamps, industrial sites, stadium floodlights, vehicle headlights, or even the Sun or Moon — can appear as luminous vertical shafts reaching into the sky. The effect is real, photographable, and sometimes spectacular enough to trigger UFO reports, especially during cold clear nights when the witness cannot easily identify the source below. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">January 8, 2026 — A light pillar or ice pillar is an atmospheric optical phenomenon in which a vertical beam of light appears to extend a...</span><span class="citation-popover-meta">Published: January 8, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.metservice.com/learning/light-pillars-e59eg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.metservice.com">[About MetService]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.metservice.com</span><span class="citation-popover-snippet">Light PillarsSome pillars are caused by sunlight, while they can also be created by moonlight, and even the light from Ve...</span></span></span>
 
-For AI-assisted UFO sighting investigation, light pillars matter because they create a strong illusion of altitude and structure. A witness may honestly report a [hovering]({{ 'wind-checks/' | relative_url }}) beam overhead even though the originating light source is on the ground several kilometres away. The task is therefore not to dismiss the sighting, but to test whether the environmental conditions, [geometry]({{ 'geometry/' | relative_url }}), and visual behaviour match a known pillar event.
+For AI-assisted UFO sighting investigation, light pillars matter because they create a strong illusion of altitude and structure. A witness may honestly report a hovering beam overhead even though the originating light source is on the ground several kilometres away. The task is therefore not to dismiss the sighting, but to test whether the environmental conditions, [geometry]({{ 'geometry/' | relative_url }}), and visual behaviour match a known pillar event.
 
 ## Why ice crystals make vertical columns of light
 
 Light pillars are caused by reflection, not by a physical beam extending upward through the atmosphere. Tiny plate-shaped ice crystals drift through cold air and act like countless small mirrors. When many crystals settle in roughly horizontal orientations, they reflect light toward an observer in a narrow vertical band. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[The Weather Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-snippet">The Weather ChannelThe Science Behind Light Pillars27 Jan 2017 — They&#x27;re most commonly seen when nearly flat, hexagonal-shaped ice crysta...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[2atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span>
 
-The effect is strongest in calm, cold conditions where the crystals remain stable rather than tumbling chaotically in turbulent air. Meteorological sources consistently associate strong pillar displays with [freezing]({{ 'freezing-fog/' | relative_url }}) temperatures, suspended ice crystals, and low wind conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">FOX WeatherMidwestern arctic blast leads to gorgeous light pillar...Jan 29, 2023 — Light pillars are created when lights on the Earth&#x27;s...</span></span></span> Newsweek Several features make these displays easy to mistake for unusual aerial phenomena: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">bizarre ice crystals light pillar vermont 1850812</span><span class="citation-popover-snippet">NewsweekPhoto Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — These crystals are so small and light that they can remain in...</span></span></span>
+The effect is strongest in calm, cold conditions where the crystals remain stable rather than tumbling chaotically in turbulent air. Meteorological sources consistently associate strong pillar displays with [freezing]({{ 'freezing-fog/' | relative_url }}) temperatures, suspended ice crystals, and low wind conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">FOX WeatherMidwestern arctic blast leads to gorgeous light pillar...Jan 29, 2023 — Light pillars are created when lights on the Earth&#x27;s...</span></span></span> Newsweek Several features make these displays easy to mistake for unusual aerial phenomena: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">bizarre ice crystals light pillar vermont 1850812</span><span class="citation-popover-snippet">Photo Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — These crystals are so small and light that they can remain in...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -321,11 +321,11 @@ The effect is strongest in calm, cold conditions where the crystals remain stabl
 
 Artificial lighting is especially important in UFO investigations because modern cities produce intense upward illumination. Sodium lamps, LED arrays, industrial facilities, ports, greenhouse complexes, ski resorts, oil infrastructure, and sports venues can all generate pillars visible many kilometres away. In very cold conditions, entire skylines can appear to project columns into the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">FOX WeatherMidwestern arctic blast leads to gorgeous light pillar...Jan 29, 2023 — Light pillars are created when lights on the Earth&#x27;s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theweathernetwork.com">[The Weather Network]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theweathernetwork.com</span><span class="citation-popover-snippet">The Weather NetworkWhen the skies come alive: The magic of ice crystal displays28 Jan 2026 — It happens when light reflects off ice cryst...</span></span></span>
 
-The phenomenon is not limited to urban environments. Moon pillars and sun pillars are natural variants produced by the same [reflective]({{ 'foil-flashes/' | relative_url }}) geometry. Weather agencies note that pillars are most often observed when the Sun is low near sunrise or sunset, though artificial-light pillars can occur at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.tt/sites/default/files/Optical%20Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.tt">[metoffice.gov.tt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.tt</span><span class="citation-popover-snippet">Atmospheric Optical PhenomenaSun / Light Pillars. • Sun Pillars appear most often at sunrise and sunset as a vertical shaft of light exte...</span></span></span>
+The phenomenon is not limited to urban environments. Moon pillars and sun pillars are natural variants produced by the same reflective geometry. [Weather]({{ 'weather/' | relative_url }}) agencies note that pillars are most often observed when the Sun is low near sunrise or sunset, though artificial-light pillars can occur at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.tt/sites/default/files/Optical%20Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.tt">[metoffice.gov.tt]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.tt</span><span class="citation-popover-snippet">Atmospheric Optical PhenomenaSun / Light Pillars. • Sun Pillars appear most often at sunrise and sunset as a vertical shaft of light exte...</span></span></span>
 
 ## Why witnesses often perceive them as solid beams
 
-Human depth perception struggles in dark skies with few visual reference points. When a witness sees a bright vertical shape against darkness, the brain often interprets it as a physical object or directed beam rather than a reflection effect.
+Human depth perception struggles in dark skies with few visual [reference points]({{ 'reference-points/' | relative_url }}). When a witness sees a bright vertical shape against darkness, the brain often interprets it as a physical object or directed beam rather than a reflection effect.
 
 Several recurring perception errors appear in UFO reports involving light pillars: <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/science/news/light-pillars-illuminate-skies" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[weather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-title">light pillars illuminate skies</span><span class="citation-popover-snippet">The Weather ChannelLight Pillars Illuminate Midwest Sky2 Dec 2015 — Though the phenomena have been known to stir up UFO reports, rest ass...</span></span></span>
 
@@ -334,7 +334,7 @@ Several recurring perception errors appear in UFO reports involving light pillar
 * **False structure perception:** shimmering edges look like metallic boundaries or energy fields.
 * **[False motion]({{ 'false-motion/' | relative_url }}) interpretation:** drifting ice crystals make the pillar appear alive or active.
 
-This becomes more pronounced in freezing fog, diamond dust conditions, or light haze where the lower portion of the source is partially hidden. The result can resemble a hovering craft projecting a column downward or upward.
+This becomes more pronounced in [freezing fog]({{ 'freezing-fog/' | relative_url }}), diamond dust conditions, or light haze where the lower portion of the source is partially hidden. The result can resemble a hovering craft projecting a column downward or upward.
 
 Witness descriptions often include phrases such as:
 
@@ -351,7 +351,7 @@ Witness descriptions often include phrases such as:
 
 These reports can sound extraordinary while still matching known atmospheric optics behaviour.
 
-Public reaction patterns also show how unusual the effect appears to non-specialists. Weather and astronomy outlets repeatedly document social media waves where residents interpret pillar displays as UFOs or invasion-like phenomena before meteorologists identify the cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/people-think-these-eerie-atmospheric-light-beams-are-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-title">people think these eerie atmospheric light beams are ufos</span><span class="citation-popover-snippet">ScienceAlertPeople Keep Thinking These Eerie Atmospheric Light...Feb 11, 2018 — The appearance of these pillars south of polar regions i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-snippet">The Weather ChannelThe Science Behind Light Pillars27 Jan 2017 — They&#x27;re most commonly seen when nearly flat, hexagonal-shaped ice crysta...</span></span></span>
+Public reaction patterns also show how unusual the effect appears to non-specialists. Weather and astronomy outlets repeatedly document social media waves where residents interpret pillar displays as UFOs or invasion-like phenomena before meteorologists identify the cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/people-think-these-eerie-atmospheric-light-beams-are-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-title">people think these eerie atmospheric light beams are ufos</span><span class="citation-popover-snippet">People Keep Thinking These Eerie Atmospheric Light...Feb 11, 2018 — The appearance of these pillars south of polar regions i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-snippet">The Weather ChannelThe Science Behind Light Pillars27 Jan 2017 — They&#x27;re most commonly seen when nearly flat, hexagonal-shaped ice crysta...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KjrxUR8iE_8" title="Not Aliens, But Science Explains Light Pillars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KjrxUR8iE_8" target="_blank" rel="noopener noreferrer">Not Aliens, But Science Explains Light Pillars</a></p><p class="youtube-embed-meta">Channel: 13 ON YOUR SIDE &middot; Views: 6.1K &middot; Uploaded: February 2021 &middot; Length: 2 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KjrxUR8iE_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KjrxUR8iE_8">Open on YouTube</a></p></div></div></div>
@@ -445,7 +445,7 @@ The pillar explanation becomes weaker when:
 * Witnesses observed a solid object with independent structure detached from the column.
 * Multiple observers from widely separated angles triangulated a real airborne object.
 
-Timing also matters. Pillars are usually associated with cold stable air and often appear during winter evenings, sunrise, or sunset conditions. Reports from warm humid nights without ice-crystal conditions require stronger supporting evidence before a pillar explanation is credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">bizarre ice crystals light pillar vermont 1850812</span><span class="citation-popover-snippet">NewsweekPhoto Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — These crystals are so small and light that they can remain in...</span></span></span>
+Timing also matters. Pillars are usually associated with cold stable air and often appear during winter evenings, sunrise, or sunset conditions. Reports from warm humid nights without ice-crystal conditions require stronger supporting evidence before a pillar explanation is credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">bizarre ice crystals light pillar vermont 1850812</span><span class="citation-popover-snippet">Photo Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — These crystals are so small and light that they can remain in...</span></span></span>
 
 Another warning sign is directional inconsistency. A genuine pillar remains aligned with its source geometry. If witnesses report a beam weaving between clouds, pursuing vehicles, changing altitude, or performing sharp manoeuvres, another explanation may be more plausible.
 
@@ -490,16 +490,16 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Introduces atmospheric phenomena that are often misidentified.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -507,16 +507,16 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for evaluating unusual visual claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -524,16 +524,16 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John D. Cox</p>
         
-        
+        <p class="fr-book-desc">Provides foundational weather and atmospheric knowledge.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -541,16 +541,16 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Rainbows%2C+Halos%2C+and+Glories+by+Robert+Greenler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Rainbows, Halos, and Glories on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Rainbows%2C+Halos%2C+and+Glories+by+Robert+Greenler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rainbows, Halos, and Glories">Rainbows, Halos, and Glories</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Robert Greenler</p>
         
-        
+        <p class="fr-book-desc">Directly explains light pillars and related optical effects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Rainbows%2C+Halos%2C+and+Glories+by+Robert+Greenler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -558,13 +558,13 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -591,76 +591,72 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/d36e3ebcf7ff5c84331e.jpg' | relative_url }}" alt="Listing image for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer">PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=night+sky+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-night-sky-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print -book -books" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-night-sky-print-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open night sky print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20night%20sky%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENight%20Sky%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENight%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESky%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for night sky print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">night sky print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Night</span><span class="fr-search-tag">Sky</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=night+sky+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-night-sky-print-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print -book -books" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-night-sky-print-book-boo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...."><img src="{{ '/assets/images/marketplace-covers/b890da874fffc4717b2b.jpg' | relative_url }}" alt="Listing image for Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2...." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien/Aliens Movie Posters &amp; Canvases, Framed/Unframed, Sizes A0 ,MAXI,A1,A2....</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aurora+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-aurora-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aurora wall art" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-aurora-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aurora wall art on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aurora%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAurora%20Wall%20Art%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAurora%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%3Crect%20x%3D%22132%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22142%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aurora wall art on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aurora wall art</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aurora</span><span class="fr-search-tag">Wall</span><span class="fr-search-tag">Art</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aurora+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-aurora-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aurora wall art" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-aurora-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/4b51086b6e0f30a899b6.jpg' | relative_url }}" alt="Listing image for ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer">ALIENS FILM MOVIE POSTER ALIEN FILM TV CLASSIC PRINT LARGE ART SIZE A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=are+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-are-poster-book-books-dv&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are poster -book -books -dvd" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-are-poster-book-books-dv" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open are poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20are%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAre%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAre%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for are poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">are poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Are</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=are+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-are-poster-book-books-dv&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="are poster -book -books -dvd" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-are-poster-book-books-dv" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=night+sky+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=light-pillars-are-those-alien-beams-really-light-pillars-ai-assisted-ufo-sighting-investigation-night-sky-print-book-boo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -718,10 +714,10 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -739,7 +735,7 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -875,158 +871,158 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Light pillar  
-   Link: [https://en.wikipedia.org/wiki/Light_pillar](https://en.wikipedia.org/wiki/Light_pillar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pillar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 8, 2026 — A light pillar or ice pillar is an atmospheric optical phenomenon in which a vertical beam of light appears to extend a...</p></details>
    Published: January 8, 2026  
 
 2. <a id="endnote-2"></a>
    Source: about.metservice.com  
-   Link: [https://about.metservice.com/learning/light-pillars-e59eg](https://about.metservice.com/learning/light-pillars-e59eg)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>About MetServiceLight PillarsSome pillars are caused by sunlight, while they can also be created by moonlight, and even the light from Ve...</p></details>
+   Link: <a href="https://about.metservice.com/learning/light-pillars-e59eg" target="_blank" rel="noopener noreferrer nofollow">https://about.metservice.com/learning/light-pillars-e59eg</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Light PillarsSome pillars are caused by sunlight, while they can also be created by moonlight, and even the light from Ve...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: weather.com  
-   Link: [https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming](https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming)  
+   Link: <a href="https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather ChannelThe Science Behind Light Pillars27 Jan 2017 — They&#x27;re most commonly seen when nearly flat, hexagonal-shaped ice crysta...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: atoptics.org.uk  
    Title: Light Pillars  
-   Link: [https://www.atoptics.org.uk/halo/lpil.htm](https://www.atoptics.org.uk/halo/lpil.htm)  
+   Link: <a href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/halo/lpil.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: newsweek.com  
    Title: bizarre ice crystals light pillar vermont 1850812  
-   Link: [https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812](https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NewsweekPhoto Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — These crystals are so small and light that they can remain in...</p></details>
+   Link: <a href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — These crystals are so small and light that they can remain in...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: weather.com  
    Title: 2024 12 27 weather words light pillar  
-   Link: [https://weather.com/science/weather-explainers/news/2024-12-27-weather-words-light-pillar](https://weather.com/science/weather-explainers/news/2024-12-27-weather-words-light-pillar)  
+   Link: <a href="https://weather.com/science/weather-explainers/news/2024-12-27-weather-words-light-pillar" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/news/2024-12-27-weather-words-light-pillar</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Words: Light Pillar | Weather.comJan 2, 2025 — Light pillars usually occur when temperatures are between 15° and -40° Fahrenheit...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: weather.com  
    Title: light pillars illuminate skies  
-   Link: [https://weather.com/science/news/light-pillars-illuminate-skies](https://weather.com/science/news/light-pillars-illuminate-skies)  
+   Link: <a href="https://weather.com/science/news/light-pillars-illuminate-skies" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/news/light-pillars-illuminate-skies</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather ChannelLight Pillars Illuminate Midwest Sky2 Dec 2015 — Though the phenomena have been known to stir up UFO reports, rest ass...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metoffice.gov.tt  
-   Link: [https://www.metoffice.gov.tt/sites/default/files/Optical%20Phenomena.pdf](https://www.metoffice.gov.tt/sites/default/files/Optical%20Phenomena.pdf)  
+   Link: <a href="https://www.metoffice.gov.tt/sites/default/files/Optical%20Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.tt/sites/default/files/Optical%20Phenomena.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optical PhenomenaSun / Light Pillars. • Sun Pillars appear most often at sunrise and sunset as a vertical shaft of light exte...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: weather.com  
-   Link: [https://weather.com/news/weather/video/sun-pillar-light-atmospheric-optics](https://weather.com/news/weather/video/sun-pillar-light-atmospheric-optics)  
+   Link: <a href="https://weather.com/news/weather/video/sun-pillar-light-atmospheric-optics" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/news/weather/video/sun-pillar-light-atmospheric-optics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather ChannelSun Pillars Are An Optical Phenomenon; Here&#x27;s How They FormIt&#x27;s called a sun pillar sometimes it&#x27;s called a light pill...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: sciencealert.com  
    Title: people think these eerie atmospheric light beams are ufos  
-   Link: [https://www.sciencealert.com/people-think-these-eerie-atmospheric-light-beams-are-ufos](https://www.sciencealert.com/people-think-these-eerie-atmospheric-light-beams-are-ufos)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceAlertPeople Keep Thinking These Eerie Atmospheric Light...Feb 11, 2018 — The appearance of these pillars south of polar regions i...</p></details>
+   Link: <a href="https://www.sciencealert.com/people-think-these-eerie-atmospheric-light-beams-are-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencealert.com/people-think-these-eerie-atmospheric-light-beams-are-ufos</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>People Keep Thinking These Eerie Atmospheric Light...Feb 11, 2018 — The appearance of these pillars south of polar regions i...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/owlie/weird-weather](https://www.weather.gov/owlie/weird-weather)  
+   Link: <a href="https://www.weather.gov/owlie/weird-weather" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/owlie/weird-weather</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>but in reality, light pillars are a common...Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: space.com  
    Title: Alien Glow?  
-   Link: [https://www.space.com/amp/35324-light-pillars-photo-ontario.html](https://www.space.com/amp/35324-light-pillars-photo-ontario.html)  
+   Link: <a href="https://www.space.com/amp/35324-light-pillars-photo-ontario.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/amp/35324-light-pillars-photo-ontario.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Brilliant Light Pillars Appear Over Canada13 Jan 2017 — The beams resemble so-called sun pillars, which appear as columns of light extend...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/arx/why_halos_sundogs_pillars](https://www.weather.gov/arx/why_halos_sundogs_pillars)  
+   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to its component colors. This creates the rainbow effect...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility](https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility)  
+   Link: <a href="https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/guides/observations/how-we-measure-visibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>we measure visibilityVisibility sensors measure the meteorological optical range which is defined as the length of atmosphere over which...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/weather/optical-effects](https://weather.metoffice.gov.uk/learn-about/weather/optical-effects)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effects: nature&#x27;s light showTheir red or yellow colour comes from the sun&#x27;s low angle, which forces light to travel through much more atm...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather](https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>weatherIn the atmosphere, the gases in it cause the light to slow down, change direction and scatter, for most colours the effect of this...</p></details>
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/met-office-for-schools/other-content/other-resources/understanding-weather</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the atmosphere, the gases in it cause the light to slow down, change direction and scatter, for most colours the effect of this...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: gi.alaska.edu  
    Title: dark season begins more light  
-   Link: [https://www.gi.alaska.edu/alaska-science-forum/dark-season-begins-more-light](https://www.gi.alaska.edu/alaska-science-forum/dark-season-begins-more-light)  
+   Link: <a href="https://www.gi.alaska.edu/alaska-science-forum/dark-season-begins-more-light" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/alaska-science-forum/dark-season-begins-more-light</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the dark season begins, more light appearsNov 20, 2025 — In this space in 2020, I wrote about ice pillars: Ice crystals sometimes take on...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: foxweather.com  
-   Link: [https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas](https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas)  
+   Link: <a href="https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX WeatherMidwestern arctic blast leads to gorgeous light pillar...Jan 29, 2023 — Light pillars are created when lights on the Earth&#x27;s...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theweathernetwork.com  
-   Link: [https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays](https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays)  
+   Link: <a href="https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays" target="_blank" rel="noopener noreferrer nofollow">https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weather NetworkWhen the skies come alive: The magic of ice crystal displays28 Jan 2026 — It happens when light reflects off ice cryst...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: crayfordmanorastro.com  
-   Link: [https://crayfordmanorastro.com/atmospheric-optics/](https://crayfordmanorastro.com/atmospheric-optics/)  
+   Link: <a href="https://crayfordmanorastro.com/atmospheric-optics/" target="_blank" rel="noopener noreferrer nofollow">https://crayfordmanorastro.com/atmospheric-optics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsA sun dog is also called a parhelion (plural parhelia) and is an atmospheric optical phenomenon that consists of a brig...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: mountwashington.org  
-   Link: [https://mountwashington.org/light-pillars/](https://mountwashington.org/light-pillars/)  
+   Link: <a href="https://mountwashington.org/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/light-pillars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Light PillarsThis optical effect happens when the sun is starting to set below the horizon. The same idea with the ice crystals falling p...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Denver/comments/11aia21/light_pillars_looking_south/](https://www.reddit.com/r/Denver/comments/11aia21/light_pillars_looking_south/)  
+   Link: <a href="https://www.reddit.com/r/Denver/comments/11aia21/light_pillars_looking_south/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Denver/comments/11aia21/light_pillars_looking_south/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Light pillars looking south: r/DenverLight pillars are caused by light being reflected by hexagonal ice crystals suspended in air. The c...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KjrxUR8iE_8](https://www.youtube.com/watch?v=KjrxUR8iE_8)  
+   Link: <a href="https://www.youtube.com/watch?v=KjrxUR8iE_8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KjrxUR8iE_8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not Aliens, But Science Explains Light PillarsThese pillars of light may seem like something from science fiction, but they are a real li...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=_Gzep-0wJJo](https://www.youtube.com/watch?v=_Gzep-0wJJo)  
+   Link: <a href="https://www.youtube.com/watch?v=_Gzep-0wJJo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_Gzep-0wJJo</a>  
 
 25. <a id="endnote-25"></a>
    Source: glimpseofinfinity.com  
    Title: ice crystals diamond dust light pillars a night i ll never forget  
-   Link: [https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/](https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/)  
+   Link: <a href="https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/" target="_blank" rel="noopener noreferrer nofollow">https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ice Crystals, Diamond Dust &amp; Light Pillars: A Night I&#x27;ll Never...Jan 17, 2024 — Light pillars are an atmospheric phenomena created when...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DUjBRpDAk2n/](https://www.instagram.com/p/DUjBRpDAk2n/)  
+   Link: <a href="https://www.instagram.com/p/DUjBRpDAk2n/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUjBRpDAk2n/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>a vertical shaft of light extending above or below the sun, caused by...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: earthlymission.com  
    Title: This Spectacular Atmospheric Phenomena Looks Like  
-   Link: [https://earthlymission.com/light-pillars-spectacular-atmospheric-phenomena-sun-pillar/](https://earthlymission.com/light-pillars-spectacular-atmospheric-phenomena-sun-pillar/)  
+   Link: <a href="https://earthlymission.com/light-pillars-spectacular-atmospheric-phenomena-sun-pillar/" target="_blank" rel="noopener noreferrer nofollow">https://earthlymission.com/light-pillars-spectacular-atmospheric-phenomena-sun-pillar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings are reported when during winter, the icy mist from the descending water interacts with the city lights. Indeed, they may lo...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nationalgeographic.com  
    Title: 150114 ice halo weird weather phenomena science  
-   Link: [https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science](https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Heavenly&#x27; Ice Halos Form Over New Mexico—What...Jan 15, 2015 — The glaring blob of light to the right of the pillar is called a sun dog...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: psl.noaa.gov  
    Title: Glittering Light on Water  
-   Link: [https://psl.noaa.gov/outreach/education/science/glitter/](https://psl.noaa.gov/outreach/education/science/glitter/)  
+   Link: <a href="https://psl.noaa.gov/outreach/education/science/glitter/" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/outreach/education/science/glitter/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Sciences Laboratory - NOAAby HGP are Formed · 1999 · Cited by 15 — Glitter patterns on water are similar to vertical light pilla...</p></details>

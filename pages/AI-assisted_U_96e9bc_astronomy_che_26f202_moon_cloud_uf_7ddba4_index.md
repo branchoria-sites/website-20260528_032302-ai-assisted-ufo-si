@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-astronomy-che/
 description: Focused pages that expand on Moon illusions.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4
-parent_title: Moon illusions | Astronomy
+parent_title: Moon illusions
 parent_nav_short_title: Moon illusions
 parent_permalink: /moon-illusions/
 ---

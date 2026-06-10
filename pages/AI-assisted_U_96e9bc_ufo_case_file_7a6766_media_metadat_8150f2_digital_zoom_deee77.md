@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /media-files/
 nav_short_title: Digital Zoom
 title: Why Phone Zoom Makes UFO Lights Look Alive
-title_full: Why Phone Zoom Makes UFO Lights Look Alive | Media files
+title_full: Why Phone Zoom Makes UFO Lights Look Alive
 display_title_short: Digital Zoom
 display_title: Digital Zoom
 heading_title: Why Phone Zoom Makes UFO Lights Look Alive
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What does a UFO video really prove? | Case File
+parent_title: What does a UFO video really prove?
 parent_permalink: /media-files/
 parent_nav_short_title: Media files
 parent_heading_title: What does a UFO video really prove?
@@ -260,7 +260,7 @@ next_link:
   permalink: /reposts/
   short_title: Reposts
   heading_title: What Gets Lost When UFO Clips Go Viral
-date: '2026-06-08 23:24:44 '
+date: '2026-06-10 20:07:18 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1.webp
@@ -273,11 +273,11 @@ A bright light filmed at long range can look startlingly alive on a phone screen
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-dark.svg" | relative_url }}" alt="Digital Zoom illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters in AI-assisted UFO sighting investigation because a dramatic-looking video can create a misleading impression of speed, manoeuvring or shape change. Investigators therefore need to separate true object movement from camera-induced artefacts. Digital zoom, low-light enhancement, [autofocus]({{ 'focus-blur/' | relative_url }}) hunting, image stabilisation and [atmospheric]({{ 'scintillation/' | relative_url }}) distortion can all combine to make ordinary aircraft, planets or drones look highly unusual. Modern smartphones are especially prone to this because they rely heavily on computational photography rather than purely optical imaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">HonorOptical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
+This matters in AI-assisted UFO sighting investigation because a dramatic-looking video can create a misleading impression of speed, manoeuvring or shape change. Investigators therefore need to separate true object movement from camera-induced artefacts. Digital zoom, low-light enhancement, autofocus hunting, image stabilisation and atmospheric distortion can all combine to make ordinary [aircraft]({{ 'aircraft/' | relative_url }}), planets or drones look highly unusual. Modern smartphones are especially prone to this because they rely heavily on computational photography rather than purely optical imaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
 
 ## How digital zoom exaggerates camera shake
 
-The most important thing to understand is that phone “zoom” is often not true optical magnification. Beyond a certain point, the phone is enlarging and processing a cropped section of the sensor rather than gathering more real visual detail through optics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">HonorOptical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span>
+The most important thing to understand is that phone “zoom” is often not true optical magnification. Beyond a certain point, the phone is enlarging and processing a cropped section of the sensor rather than gathering more real visual detail through optics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span>
 
 That becomes a major problem when filming a tiny point of light against a dark sky.
 
@@ -300,7 +300,7 @@ The result is a classic “dancing UFO” effect: the object appears to make sud
 
 In reality, the object may be almost stationary relative to the observer.
 
-Astronomy hobbyists encounter the same effect constantly when filming stars or planets through handheld phones. Even bright planets such as Venus or Jupiter can appear to jitter wildly once heavily magnified. Reddit astronomy discussions repeatedly show users mistaking digital zoom artefacts for object structure or movement when filming stars in fog or low light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Is it a reflection / refraction situation? Or is it actually getting details...</span></span></span>
+[Astronomy]({{ 'astronomy/' | relative_url }}) hobbyists encounter the same effect constantly when filming stars or planets through handheld phones. Even [bright planets]({{ 'bright-planets/' | relative_url }}) such as Venus or Jupiter can appear to jitter wildly once heavily magnified. Reddit astronomy discussions repeatedly show users mistaking digital zoom artefacts for object structure or movement when filming stars in fog or low light. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Is it a reflection / refraction situation? Or is it actually getting details...</span></span></span>
 
 For UFO investigators, this means apparent erratic motion should never be assessed without also examining:
 
@@ -309,7 +309,7 @@ For UFO investigators, this means apparent erratic motion should never be assess
 * Whether optical or digital zoom was active
 * Stabilisation behaviour
 * [Original]({{ 'original-evidence/' | relative_url }}) frame resolution
-* Background reference points
+* Background [reference points]({{ 'reference-points/' | relative_url }})
 
 If the object moves violently while stars, buildings or horizon features move identically, the motion is usually camera-induced rather than object-induced.
 
@@ -409,7 +409,7 @@ Another common illusion involves apparent acceleration.
 
 A distant aircraft crossing the sky slowly may appear to rocket across the frame once heavily zoomed. This happens because magnification compresses angular movement.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[At high zoom:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">The phone includes high-quality hardware like dual telephoto lenses (3x and 5x optical zoom) and a 200MP main sensor, which supports 2x z...</span></span></span>
+At high zoom: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">The phone includes high-quality hardware like dual telephoto lenses (3x and 5x optical zoom) and a 200MP main sensor, which supports 2x z...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
@@ -421,7 +421,7 @@ A distant aircraft crossing the sky slowly may appear to rocket across the frame
 
 </div>
 
-Without trees, rooftops or stars visible for [reference]({{ 'reference-points/' | relative_url }}), viewers lose the ability to judge scale and distance.
+Without trees, rooftops or stars visible for reference, viewers lose the ability to judge scale and distance.
 
 This creates a false impression of extraordinary speed.
 
@@ -523,23 +523,6 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -547,7 +530,7 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Keeps the further-reading lane anchored in UFO investigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -557,16 +540,16 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Smartphone Photography Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=pFBkvgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Smartphone Photography Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Smartphone Photography Guide">The Smartphone Photography Guide</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Peter Cope</p>
         
-        
+        <p class="fr-book-desc">Matches digital zoom and phone processing artefacts.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Smartphone+Photography+Guide+by+Peter+Cope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -574,16 +557,33 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        
+        <p class="fr-book-desc">Useful for understanding camera motion, focus, and image capture.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Encourages sceptical interpretation of dramatic footage.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -591,13 +591,13 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Smartphone+Photography+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Smartphone Photography books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Filmmaker%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Filmmaker&#x27;s books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -624,76 +624,72 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera lens filter on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20lens%20filter%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Lens%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EFilter%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELens%3C%2Ftext%3E%3Crect%20x%3D%22132%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22142%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFilter%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera lens filter on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">camera lens filter</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Lens</span><span class="fr-search-tag">Filter</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-lens-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens filter" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-lens-filter" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=phone+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-phone-poster-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone poster -book -books -dvd" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-phone-poster-book-books-d" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open phone poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20phone%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPhone%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPhone%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for phone poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">phone poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Phone</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=phone+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-phone-poster-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="phone poster -book -books -dvd" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-phone-poster-book-books-d" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=camera+lens+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=digital-zoom-why-phone-zoom-makes-ufo-lights-look-alive-ai-assisted-ufo-sighting-investigation-camera-lens-filter&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -751,10 +747,10 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -772,7 +768,7 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -907,59 +903,59 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
 
 1. <a id="endnote-1"></a>
    Source: honor.com  
-   Link: [https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5](https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HonorOptical Zoom vs Digital Zoom: Which Is Your [Smartphone](&amp;#123;&amp;#123; &#x27;phone-cameras/&#x27; | relative_url &amp;#125;&amp;#125;)...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</p></details>
+   Link: <a href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow">https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</p></details>
    Published: June 18, 2024  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Handheld Mobile Photography in Very Low Light  
-   Link: [https://arxiv.org/abs/1910.11336](https://arxiv.org/abs/1910.11336)  
+   Link: <a href="https://arxiv.org/abs/1910.11336" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1910.11336</a>  
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/](https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/)  
+   Link: <a href="https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askastronomy/comments/1hmfl4i/cool_but_weird_effect_from_stars_taken_on_my_i/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Is it a reflection / refraction situation? Or is it actually getting details...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/](https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>n the air for a few minutes. I would not call it a HD video...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: support.apple.com  
    Title: Support Use Night mode on your i Phone  
-   Link: [https://support.apple.com/en-us/102519](https://support.apple.com/en-us/102519)  
+   Link: <a href="https://support.apple.com/en-us/102519" target="_blank" rel="noopener noreferrer nofollow">https://support.apple.com/en-us/102519</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple SupportUse Night mode on your iPhone - Apple SupportOn supported iPhone models, you can use Night mode to capture photos when the c...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Computational Long Exposure Mobile Photography  
-   Link: [https://arxiv.org/abs/2308.01379](https://arxiv.org/abs/2308.01379)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivComputational Long Exposure Mobile PhotographyAugust 2, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2308.01379" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2308.01379</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Computational Long Exposure Mobile PhotographyAugust 2, 2023...</p></details>
    Published: August 2, 2023  
 
 7. <a id="endnote-7"></a>
    Source: reddit.com  
    Title: All the frames they shoot are at different exposure settings, light settings,  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/nqjxik/eli5_how_does_night_mode_on_phone_cameras_work/](https://www.reddit.com/r/explainlikeimfive/comments/nqjxik/eli5_how_does_night_mode_on_phone_cameras_work/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/nqjxik/eli5_how_does_night_mode_on_phone_cameras_work/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/nqjxik/eli5_how_does_night_mode_on_phone_cameras_work/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How does night mode on phone cameras work without the colors...June 2, 2021 — They take alot of pictures over and over with just the one...</p></details>
    Published: June 2, 2021  
 
 8. <a id="endnote-8"></a>
    Source: research.google  
    Title: Google Research Night Sight: Seeing in the Dark on Pixel Phones  
-   Link: [https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/](https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/)  
+   Link: <a href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow">https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: androidcentral.com  
-   Link: [https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work](https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work)  
+   Link: <a href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow">https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: amostech.com  
-   Link: [https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf](https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf)  
+   Link: <a href="https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AMOS Conference2015 abstracts of technical papersSeptember 4, 2015 — 15 Sept 2015 — In this paper, we present analysis of the errors asso...</p></details>
    Published: September 4, 2015  
 
@@ -967,54 +963,54 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DXOMARK/posts/-dxomarkexplains-the-technology-behind-smartphone-zoomby-2025-zoom-has-become-a-/1110866784416776/](https://www.facebook.com/DXOMARK/posts/-dxomarkexplains-the-technology-behind-smartphone-zoomby-2025-zoom-has-become-a-/1110866784416776/)  
+   Link: <a href="https://www.facebook.com/DXOMARK/posts/-dxomarkexplains-the-technology-behind-smartphone-zoomby-2025-zoom-has-become-a-/1110866784416776/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DXOMARK/posts/-dxomarkexplains-the-technology-behind-smartphone-zoomby-2025-zoom-has-become-a-/1110866784416776/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DXOMARKExplains | The Technology...Unlike optical zoom, digital zoom is not lossless, meaning some information from the scene is discard...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: lifewire.com  
-   Link: [https://www.lifewire.com/how-to-use-google-pixel-night-sight-4584906](https://www.lifewire.com/how-to-use-google-pixel-night-sight-4584906)  
+   Link: <a href="https://www.lifewire.com/how-to-use-google-pixel-night-sight-4584906" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/how-to-use-google-pixel-night-sight-4584906</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pixel suggests using Night Sight in low-light conditions, with a button prompt on the screen. Users can manually activate it by swiping o...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: techradar.com  
-   Link: [https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent](https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent)  
+   Link: <a href="https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent" target="_blank" rel="noopener noreferrer nofollow">https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The phone includes high-quality hardware like dual telephoto lenses (3x and 5x optical zoom) and a 200MP main sensor, which supports 2x z...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: boreal.org  
-   Link: [https://www.boreal.org/2024/08/12/501499/phone-cameras-can-take-in-more-light-than-the-human-eye-that-s-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera](https://www.boreal.org/2024/08/12/501499/phone-cameras-can-take-in-more-light-than-the-human-eye-that-s-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera)  
+   Link: <a href="https://www.boreal.org/2024/08/12/501499/phone-cameras-can-take-in-more-light-than-the-human-eye-that-s-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.boreal.org/2024/08/12/501499/phone-cameras-can-take-in-more-light-than-the-human-eye-that-s-why-low-light-events-like-the-northern-lights-often-look-better-through-your-phone-camera</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Phone cameras can take in more light than the human eye12 Aug 2024 — Phone cameras can take in more light than the human eye − that&#x27;s why...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: popsa.com  
-   Link: [https://popsa.com/perspectives/depth-of-field-smartphone-guide/](https://popsa.com/perspectives/depth-of-field-smartphone-guide/)  
+   Link: <a href="https://popsa.com/perspectives/depth-of-field-smartphone-guide/" target="_blank" rel="noopener noreferrer nofollow">https://popsa.com/perspectives/depth-of-field-smartphone-guide/</a>  
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
    Title: nasa assembles thousands of ultra sharp images fine tunes sensors corrects atmos  
-   Link: [https://www.facebook.com/storyjury/posts/nasa-assembles-thousands-of-ultra-sharp-images-fine-tunes-sensors-corrects-atmos/1264594475818008/](https://www.facebook.com/storyjury/posts/nasa-assembles-thousands-of-ultra-sharp-images-fine-tunes-sensors-corrects-atmos/1264594475818008/)  
+   Link: <a href="https://www.facebook.com/storyjury/posts/nasa-assembles-thousands-of-ultra-sharp-images-fine-tunes-sensors-corrects-atmos/1264594475818008/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/storyjury/posts/nasa-assembles-thousands-of-ultra-sharp-images-fine-tunes-sensors-corrects-atmos/1264594475818008/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA: assembles thousands of ultra-sharp images, fine...3 Apr 2026 — NASA: assembles thousands of ultra-sharp images, fine-tunes sensors...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=et74Bwqw5fM](https://www.youtube.com/watch?v=et74Bwqw5fM)  
+   Link: <a href="https://www.youtube.com/watch?v=et74Bwqw5fM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=et74Bwqw5fM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA | Wide Field Camera 3: Extending Hubble&#x27;s VisionThe Widefield camera 3 is one of those instruments uh that&#x27;s going to make Hubble yo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: medium.com  
    Title: All i Phones have optical image stabilisation on the main lens. This  
-   Link: [https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4](https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4)  
+   Link: <a href="https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take stunning night photography low light photos — iPhone and...March 14, 2018 — This is caused by either a subject moving or the camera...</p></details>
    Published: March 14, 2018  
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
    Title: How does i Phone 11 camera capture daylight-like photos in pitch  
-   Link: [https://www.facebook.com/groups/beginnersphotographygroup/posts/8547662538614936/](https://www.facebook.com/groups/beginnersphotographygroup/posts/8547662538614936/)  
+   Link: <a href="https://www.facebook.com/groups/beginnersphotographygroup/posts/8547662538614936/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/beginnersphotographygroup/posts/8547662538614936/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How does iPhone 11 camera capture daylight-like photos in pitch...October 19, 2024 — The camera sensed it was low light so it created a...</p></details>
    Published: October 19, 2024  
 
 20. <a id="endnote-20"></a>
    Source: science.gov  
-   Link: [https://www.science.gov/topicpages/c/camera%2Bcaptured%2Bimages](https://www.science.gov/topicpages/c/camera%2Bcaptured%2Bimages)  
+   Link: <a href="https://www.science.gov/topicpages/c/camera%2Bcaptured%2Bimages" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/c/camera%2Bcaptured%2Bimages</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>amera. Since motion is unknown, we resort to a blind...Read more...</p></details>

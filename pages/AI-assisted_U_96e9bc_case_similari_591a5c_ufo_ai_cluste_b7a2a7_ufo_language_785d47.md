@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /ai-clustering/
 nav_short_title: Media Leakage
 title: When UFO Buzzwords Trick AI Clustering Systems
-title_full: When UFO Buzzwords Trick AI Clustering Systems | AI Clustering
+title_full: When UFO Buzzwords Trick AI Clustering Systems
 display_title_short: Media Leakage
 display_title: Media Leakage
 heading_title: When UFO Buzzwords Trick AI Clustering Systems
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When Similar UFO Reports Actually Have Different Causes | Case Match
+parent_title: When Similar UFO Reports Actually Have Different Causes
 parent_permalink: /ai-clustering/
 parent_nav_short_title: AI Clustering
 parent_heading_title: When Similar UFO Reports Actually Have Different Causes
@@ -260,7 +260,7 @@ next_link:
   permalink: /orb-clusters/
   short_title: Orb Clusters
   heading_title: Why One 'Orb UFO' Can Mean Four Different Things
-date: '2026-06-08 23:16:16 '
+date: '2026-06-10 20:02:21 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-1.webp
@@ -300,9 +300,9 @@ This is especially dangerous in public UFO databases because many witnesses file
 
 ## Witness Language Versus Physical Evidence
 
-Human witnesses do not describe aerial events like [calibrated]({{ 'sensor-data/' | relative_url }}) sensors. They interpret what they see through memory, expectation, stress, visibility conditions, and available vocabulary. UFO culture adds another interpretive layer by supplying ready-made descriptive templates.
+Human witnesses do not describe aerial events like calibrated sensors. They interpret what they see through memory, expectation, stress, visibility conditions, and available vocabulary. UFO culture adds another interpretive layer by supplying ready-made descriptive templates.
 
-Psychological research on memory distortion and false recall has repeatedly shown that expectation and framing can alter later recollection. Studies involving alien abduction memories found elevated rates of false recall susceptibility among some participants, demonstrating how strong narrative frameworks can shape remembered experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 320 — Those reporting recovered and repress...</span></span></span>
+Psychological research on memory distortion and false recall has repeatedly shown that expectation and framing can alter later recollection. Studies involving alien abduction memories found elevated rates of false recall susceptibility among some participants, demonstrating how strong narrative frameworks can shape remembered experiences. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 320 — Those reporting recovered and repress...</span></span></span>
 
 That does not mean witnesses are dishonest. It means narrative language and perception interact.
 
@@ -322,7 +322,7 @@ An [AI clustering]({{ 'ai-clustering/' | relative_url }}) engine that relies mai
 
 For example, two reports may both contain the phrases:
 
-> “silent black triangle [hovering]({{ 'wind-checks/' | relative_url }}) overhead”
+> “silent black triangle hovering overhead”
 
 But structured investigation could reveal major differences:
 
@@ -332,9 +332,6 @@ A narrative-first clustering system might strongly group these cases. A context-
 
 This distinction is central to AI-assisted UFO investigation. Language similarity is only a lead. It is not evidence of common origin.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CZuitsbWHW0" title="New Physics Project: An Investigation on UFO and UAP Sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CZuitsbWHW0" target="_blank" rel="noopener noreferrer">New Physics Project: An Investigation on UFO and UAP Sightings</a></p><p class="youtube-embed-meta">Channel: New Physics Project</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CZuitsbWHW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CZuitsbWHW0">Open on YouTube</a></p></div></div></div>
-
 ## Why Social Media Magnifies the Contamination Problem
 
 Modern UFO reporting is increasingly immediate, networked, and algorithmically amplified. Witnesses no longer submit isolated handwritten reports weeks after an event. They often upload interpretations in real time while simultaneously consuming commentary from others.
@@ -343,7 +340,7 @@ That feedback loop changes the structure of the data before investigators even r
 
 A viral clip labelled “orb fleet” can rapidly standardise language across hundreds of unrelated observations. Online discussion threads frequently encourage users to reinterpret uncertain sightings using community-approved terminology. Even reporting databases can unintentionally reinforce this effect through dropdown menus and category labels.
 
-Natural-language clustering systems are especially vulnerable because repeated social phrasing creates dense semantic associations. Modern embedding models are designed to recognise conceptual similarity in wording. If a community repeatedly describes unrelated events using the same narrative frame, the model may produce artificially coherent clusters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7755067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCApplication of natural language processing algorithms</span><span class="citation-popover-snippet">PMCby V Ng · 2020 · Cited by 25 — The focus of this article is the application of natural language processing (NLP) for information extra...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_32.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceur-ws.org">[CEUR-WS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceur-ws.org</span><span class="citation-popover-title">CIRCLE 2022 paper 32</span><span class="citation-popover-snippet">Keywords. Machine...Read more...</span></span></span>
+Natural-language clustering systems are especially vulnerable because repeated social phrasing creates dense semantic associations. Modern embedding models are designed to recognise conceptual similarity in wording. If a community repeatedly describes unrelated events using the same narrative frame, the model may produce artificially coherent clusters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7755067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCApplication of natural language processing algorithms</span><span class="citation-popover-snippet">by V Ng · 2020 · Cited by 25 — The focus of this article is the application of natural language processing (NLP) for information extra...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_32.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceur-ws.org">[CEUR-WS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceur-ws.org</span><span class="citation-popover-title">CIRCLE 2022 paper 32</span><span class="citation-popover-snippet">Keywords. Machine...Read more...</span></span></span>
 
 This can produce several investigative failures:
 
@@ -366,14 +363,19 @@ Few UFO terms illustrate semantic drift better than “orb”.
 In contemporary UFO culture, the term can refer to:
 
 * distant aircraft lights,
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
 * planets near the horizon,
 * drones,
 * out-of-focus camera artefacts,
-* ball [lightning]({{ 'lightning-timing/' | relative_url }}) claims,
-* [infrared]({{ 'infrared-orbs/' | relative_url }}) glare,
+* ball lightning claims,
+* infrared glare,
 * lens reflections,
 * satellites,
 * or genuinely unresolved luminous phenomena.
+
+</div>
 
 Yet AI systems often treat “orb” as a meaningful object category because the word appears frequently and clusters strongly in text embeddings.
 
@@ -383,16 +385,11 @@ This matters operationally. If investigators query an archive for “orb sightin
 
 A better system separates:
 
-
-<div class="content-enhancement content-enhancement--metric" markdown="1">
-
 * witness wording,
 * inferred appearance,
 * measured behaviour,
 * environmental context,
-* and independently verified sensor data.
-
-</div>
+* and independently verified [sensor data]({{ 'sensor-data/' | relative_url }}).
 
 Without that separation, the AI risks modelling UFO folklore rather than aerial events.
 
@@ -420,20 +417,12 @@ the system isolates measurable attributes:
 * duration,
 * light colour,
 * sound,
-
-<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
-
-* weather,
+* [weather]({{ 'weather/' | relative_url }}),
 * nearby aircraft,
 * astronomical visibility,
 * and sensor source.
 
-</div>
-
 This reduces the influence of culturally fashionable phrases.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pVvHm6rf924" title="How Do AI And Machine Learning Predict Cyber Threats? - Your Engineering Future" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pVvHm6rf924" target="_blank" rel="noopener noreferrer">How Do AI And Machine Learning Predict Cyber Threats? - Your Engineering Future</a></p><p class="youtube-embed-meta">Channel: Your Engineering Future</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pVvHm6rf924" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pVvHm6rf924">Open on YouTube</a></p></div></div></div>
 
 ### Down-rank culturally loaded terms
 
@@ -443,6 +432,8 @@ A robust clustering system can reduce the weighting of these terms during simila
 
 This is similar to how search engines ignore overly common “stop words”, except here the stop words are culturally contaminated UFO descriptors.
 
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-dark.svg" | relative_url }}" alt="Media Leakage illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Time-aware linguistic analysis
 
 Vocabulary changes over decades. Good clustering systems account for this temporal drift.
@@ -451,19 +442,17 @@ A “flying saucer” report from 1954 may belong in the same behavioural family
 
 Time-aware modelling helps distinguish genuine long-term behavioural similarities from short-lived cultural terminology trends.
 
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-dark.svg" | relative_url }}" alt="Media Leakage illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Prioritise environmental correlation
 
 The most reliable clustering systems compare narrative similarity against independent context:
 
+
+<div class="content-enhancement content-enhancement--decision" markdown="1">
+
 * ADS-B aviation records,
 * satellite tracks,
 * launch schedules,
-* [weather radar]({{ 'radar-errors/' | relative_url }}),
-
-<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
-
+* weather radar,
 * astronomical visibility,
 * seismic events,
 * drone activity,
@@ -471,12 +460,9 @@ The most reliable clustering systems compare narrative similarity against indepe
 
 </div>
 
-If two reports sound alike but occur under incompatible physical conditions, the cluster confidence should decrease.
+If two reports sound alike but occur under incompatible physical conditions, the cluster [confidence]({{ 'confidence/' | relative_url }}) should decrease.
 
 This keeps the investigation anchored to the actual event rather than the mythology surrounding it.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yIEfm0oDsmM" title="Craziest New UFO Files Apollo 11 &amp; 12: Forensic Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yIEfm0oDsmM" target="_blank" rel="noopener noreferrer">Craziest New UFO Files Apollo 11 &amp; 12: Forensic Expert Analysis</a></p><p class="youtube-embed-meta">Channel: Dr. G Explains</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yIEfm0oDsmM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yIEfm0oDsmM">Open on YouTube</a></p></div></div></div>
 
 ## Why This Matters for “Unresolved” Cases
 
@@ -490,17 +476,22 @@ Conversely, truly unrelated sightings may merge into one giant category simply b
 
 That is why unresolved UFO investigation increasingly depends on structured event reconstruction rather than narrative resemblance alone. The most valuable similarities are not usually the loudest or most cinematic descriptions. They are the quieter consistencies hidden underneath:
 
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
 * repeated flight corridors,
 * recurring environmental conditions,
 * matching sensor anomalies,
 * similar angular movement,
 * or correlations with known aerospace activity.
 
+</div>
+
 Those patterns survive cultural fashion better than witness buzzwords do.
 
 ## AI Clustering Works Best When Language Is Treated as Evidence, Not Truth
 
-Language still matters in UFO investigation. Witness narratives can preserve important details about shape, motion, sound, emotional response, and sequencing. Modern NLP systems are useful for sorting vast archives and identifying potentially related reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumMore Than Meets The Eye: Unsupervised Learning on...March 14, 2018 — Using unsupervised text clustering on a UFO report dataset to...</span><span class="citation-popover-meta">Published: March 14, 2018</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/lazell/ufo_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">Exploratory analysis with clustering and NLP of UFO...This project explores the data collected by The National UFO Reporting center in a...</span></span></span>
+Language still matters in UFO investigation. Witness narratives can preserve important details about shape, motion, sound, emotional response, and sequencing. Modern NLP systems are useful for sorting vast archives and identifying potentially related reports. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">More Than Meets The Eye: Unsupervised Learning on...March 14, 2018 — Using unsupervised text clustering on a UFO report dataset to...</span><span class="citation-popover-meta">Published: March 14, 2018</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/lazell/ufo_reports" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-snippet">Exploratory analysis with clustering and NLP of UFO...This project explores the data collected by The National UFO Reporting center in a...</span></span></span>
 
 The problem begins when descriptive language becomes the dominant signal.
 
@@ -526,67 +517,67 @@ Keeping those layers distinct is essential if clustering systems are meant to id
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
         
-        
+        <p class="fr-book-desc">Relevant to how UFO descriptions and categories evolve.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
+        </h4>
+        <p class="fr-book-author">By Nate Silver</p>
+        
+        <p class="fr-book-desc">Directly supports avoiding false clusters from repeated language.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
+        </h4>
+        <p class="fr-book-author">By Daniel Kahneman</p>
+        
+        <p class="fr-book-desc">Explains cognitive shortcuts and framing effects in witness wording.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+        </h4>
+        <p class="fr-book-author">By Carl Sagan</p>
+        
+        <p class="fr-book-desc">Encourages skepticism toward culturally contagious claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -594,13 +585,13 @@ Keeping those layers distinct is essential if clustering systems are meant to id
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -627,76 +618,72 @@ Keeping those layers distinct is essential if clustering systems are meant to id
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-science-mug" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open science mug on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20science%20mug%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EScience%20Mug%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EScience%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMug%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for science mug on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">science mug</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Science</span><span class="fr-search-tag">Mug</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=science+mug&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-science-mug&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science mug" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-science-mug" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=media-leakage-when-ufo-buzzwords-trick-ai-clustering-systems-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -754,10 +741,10 @@ Keeping those layers distinct is essential if clustering systems are meant to id
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -775,7 +762,7 @@ Keeping those layers distinct is essential if clustering systems are meant to id
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -910,122 +897,122 @@ Keeping those layers distinct is essential if clustering systems are meant to id
 
 1. <a id="endnote-1"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244](https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumMore Than Meets The Eye: Unsupervised Learning on...March 14, 2018 — Using unsupervised text clustering on a UFO report dataset to...</p></details>
+   Link: <a href="https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40katie.lazell/more-than-meets-the-eye-unsupervised-learning-on-ufo-reports-part-i-f1f5320cc244</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>More Than Meets The Eye: Unsupervised Learning on...March 14, 2018 — Using unsupervised text clustering on a UFO report dataset to...</p></details>
    Published: March 14, 2018  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Cultural tracking  
-   Link: [https://en.wikipedia.org/wiki/Cultural_tracking](https://en.wikipedia.org/wiki/Cultural_tracking)  
+   Link: <a href="https://en.wikipedia.org/wiki/Cultural_tracking" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Cultural_tracking</a>  
 
 3. <a id="endnote-3"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC10796586/](https://pmc.ncbi.nlm.nih.gov/articles/PMC10796586/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10796586/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10796586/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experimental results demonstrate that our model performs exceptionally...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: journalofscientificexploration.org  
-   Link: [https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195](https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195)  
+   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3525/2195</a>  
 
 5. <a id="endnote-5"></a>
    Source: ceur-ws.org  
    Title: CIRCLE 2022 paper 32  
-   Link: [https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_32.pdf](https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_32.pdf)  
+   Link: <a href="https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_32.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_32.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Keywords. Machine...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40piyushkashyap045/text-clustering-and-topic-modeling-with-llms-446dd7657366](https://medium.com/%40piyushkashyap045/text-clustering-and-topic-modeling-with-llms-446dd7657366)  
+   Link: <a href="https://medium.com/%40piyushkashyap045/text-clustering-and-topic-modeling-with-llms-446dd7657366" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40piyushkashyap045/text-clustering-and-topic-modeling-with-llms-446dd7657366</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Text Clustering and Topic Modeling with LLMsText clustering is an unsupervised machine learning technique that groups similar documents t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: github.com  
-   Link: [https://github.com/lazell/ufo_reports](https://github.com/lazell/ufo_reports)  
+   Link: <a href="https://github.com/lazell/ufo_reports" target="_blank" rel="noopener noreferrer nofollow">https://github.com/lazell/ufo_reports</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploratory analysis with clustering and NLP of UFO...This project explores the data collected by The National UFO Reporting center in a...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCApplication of natural language processing algorithms  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC7755067/](https://pmc.ncbi.nlm.nih.gov/articles/PMC7755067/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby V Ng · 2020 · Cited by 25 — The focus of this article is the application of natural language processing (NLP) for information extra...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7755067/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC7755067/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by V Ng · 2020 · Cited by 25 — The focus of this article is the application of natural language processing (NLP) for information extra...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed](https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed)  
+   Link: <a href="https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/resonant-archive/close-encounters-and-information-theory-why-ufo-reports-read-like-corrupted-data-2fe7709828ed</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why UFO Reports Read Like Corrupted DataCurrent UFO reports depend on eyewitness testimony. Terrible data source. Augment with better sen...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0](https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0)  
+   Link: <a href="https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/high-quality-data-is-worth-a-thousand-llms-in-resolving-ambiguities-about-ufos-dab9bc74c7c0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>medium.comHigh-Quality Data is Worth a Thousand LLMs in Resolving...Recommended from Medium... I Used an LLM to Analyze 140,000 UFO Rep...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: joeornstein.github.io  
-   Link: [https://joeornstein.github.io/text-as-data/clustering.html](https://joeornstein.github.io/text-as-data/clustering.html)  
+   Link: <a href="https://joeornstein.github.io/text-as-data/clustering.html" target="_blank" rel="noopener noreferrer nofollow">https://joeornstein.github.io/text-as-data/clustering.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Text As DataBroadly speaking, we can divide the approaches for modeling text data into two camps: supervised learning and unsupervised le...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: [https://pubmed.ncbi.nlm.nih.gov/12150421/](https://pubmed.ncbi.nlm.nih.gov/12150421/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PubMedMemory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 320 — Those reporting recovered and repress...</p></details>
+   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/12150421/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/12150421/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Memory distortion in people reporting abduction by aliensby SA Clancy · 2002 · Cited by 320 — Those reporting recovered and repress...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: zenodo.org  
-   Link: [https://zenodo.org/records/10588816](https://zenodo.org/records/10588816)  
+   Link: <a href="https://zenodo.org/records/10588816" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10588816</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Weakest Link in the Chain of UFO EvidenceEyewitness reports of observations of UFOs are still the central argument in all discussions...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: levelup.gitconnected.com  
    Title: i used an llm to analyze 140 000 ufo reports the aliens are real 3d589ec4055d  
-   Link: [https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d](https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d)  
+   Link: <a href="https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d" target="_blank" rel="noopener noreferrer nofollow">https://levelup.gitconnected.com/i-used-an-llm-to-analyze-140-000-ufo-reports-the-aliens-are-real-3d589ec4055d</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aliens...4 Mar 2026 — What happens when you use AI to analyze 140000 UFO reports? A humorous data-driven dive into a world of alien...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 383878164 Machine Learning Predicts Accuracy in Eyewitnesses' Voices  
-   Link: [https://www.researchgate.net/publication/383878164_Machine_Learning_Predicts_Accuracy_in_Eyewitnesses%27_Voices](https://www.researchgate.net/publication/383878164_Machine_Learning_Predicts_Accuracy_in_Eyewitnesses%27_Voices)  
+   Link: <a href="https://www.researchgate.net/publication/383878164_Machine_Learning_Predicts_Accuracy_in_Eyewitnesses%27_Voices" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/383878164_Machine_Learning_Predicts_Accuracy_in_Eyewitnesses%27_Voices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Machine Learning Predicts Accuracy in Eyewitnesses&#x27; Voices9 Sept 2024 — Taken together, we find that machine learning methods are capable...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees](https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees)  
+   Link: <a href="https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/373255814_Reliability_of_UFO_Witness_Testimony_in_Extreme_Close_Encounters_Abductees_Contactees</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reliability of UFO Witness Testimony in Extreme Close...“A Brief History of the UFO-Abduction Phenomenon,” in Pritchard A., Pritchard D.E...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ahotcupofjoe.net  
-   Link: [https://ahotcupofjoe.net/2006/05/embellishments-of-memory-the-unreliable-nature-of-eyewitness-testimony/](https://ahotcupofjoe.net/2006/05/embellishments-of-memory-the-unreliable-nature-of-eyewitness-testimony/)  
+   Link: <a href="https://ahotcupofjoe.net/2006/05/embellishments-of-memory-the-unreliable-nature-of-eyewitness-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://ahotcupofjoe.net/2006/05/embellishments-of-memory-the-unreliable-nature-of-eyewitness-testimony/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>credible evidence for the existence of alien visitation to our...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/403152342_Forecasting_UFO_Sightings_via_Deep_Learning_and_Natural_Language_Generation](https://www.researchgate.net/publication/403152342_Forecasting_UFO_Sightings_via_Deep_Learning_and_Natural_Language_Generation)  
+   Link: <a href="https://www.researchgate.net/publication/403152342_Forecasting_UFO_Sightings_via_Deep_Learning_and_Natural_Language_Generation" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403152342_Forecasting_UFO_Sightings_via_Deep_Learning_and_Natural_Language_Generation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Utilization of Natural Language Processing for Analyzing...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: haraldmerckelbach.nl  
    Title: Memory distortion in people reporting abduction by aliens.Read more  
-   Link: [https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf](https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf)  
+   Link: <a href="https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf" target="_blank" rel="noopener noreferrer nofollow">https://haraldmerckelbach.nl/artikelen_engels/2009/Abducted%20By%20A%20UFO%2C%20Prevalence%20Information%20Affects%20Young%20Children%27s%20False%20Memories%20For%20An%20Implausible%20Event.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Abducted by a UFO: Prevalence Information Affects Young...by H OTGAAR · 2008 · Cited by 128 — individuals who report UFO abductions (Cla...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: academia.edu  
    Title: The Reliability of UFO Witness Testimony  
-   Link: [https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony](https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony)  
+   Link: <a href="https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/101922617/The_Reliability_of_UFO_Witness_Testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) The Reliability of UFO Witness Testimony17 May 2023 — The Reliability of UFO Witness Testimony is the first major book to comprehen...</p></details>
    Published: May 2023  
 
 21. <a id="endnote-21"></a>
    Source: dspace.mit.edu  
    Title: hong jhong47 sm tpp May 2022  
-   Link: [https://dspace.mit.edu/bitstream/handle/1721.1/144608/hong-jhong47-sm-tpp-May-2022.pdf?isAllowed=y&sequence=1](https://dspace.mit.edu/bitstream/handle/1721.1/144608/hong-jhong47-sm-tpp-May-2022.pdf?isAllowed=y&sequence=1)  
+   Link: <a href="https://dspace.mit.edu/bitstream/handle/1721.1/144608/hong-jhong47-sm-tpp-May-2022.pdf?isAllowed=y&amp;sequence=1" target="_blank" rel="noopener noreferrer nofollow">https://dspace.mit.edu/bitstream/handle/1721.1/144608/hong-jhong47-sm-tpp-May-2022.pdf?isAllowed=y&amp;sequence=1</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Thesis, Allegedly Jisoo Hongby J Hong · 2022 · Cited by 1 — Since 1947, reports of unidentified flying objects and alien en- counters hav...</p></details>
    Published: May 2022  
 
 22. <a id="endnote-22"></a>
    Source: enigmaticideas.com  
    Title: finding patterns in 152 000 ufo uap sightings  
-   Link: [https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/](https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/)  
+   Link: <a href="https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://enigmaticideas.com/finding-patterns-in-152-000-ufo-uap-sightings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using generative AI and natural language processing on multiple UFO sighting databases...Read more...</p></details>

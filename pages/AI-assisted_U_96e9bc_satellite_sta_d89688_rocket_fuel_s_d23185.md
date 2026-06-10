@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /satellites/
 nav_short_title: Rocket Spirals
 title: What Causes Giant Spiral Lights In The Sky
-title_full: What Causes Giant Spiral Lights In The Sky | Satellites
+title_full: What Causes Giant Spiral Lights In The Sky
 display_title_short: Rocket Spirals
 display_title: Rocket Spirals
 heading_title: What Causes Giant Spiral Lights In The Sky
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could It Be Starlink or a Satellite? | UFO Case AI
+parent_title: Could It Be Starlink or a Satellite?
 parent_permalink: /satellites/
 parent_nav_short_title: Satellites
 parent_heading_title: Could It Be Starlink or a Satellite?
@@ -285,7 +285,7 @@ next_link:
   permalink: /satellite-flares/
   short_title: Satellite Flares
   heading_title: Why Some Satellites Suddenly Brighten And Vanish
-date: '2026-06-08 22:59:36 '
+date: '2026-06-10 19:52:32 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-1.webp
@@ -294,15 +294,15 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d2
 
 ## Introduction
 
-Giant glowing spirals in the night sky can look deeply unnatural. Witnesses often describe them as [hovering]({{ 'wind-checks/' | relative_url }}) portals, rotating discs, or enormous luminous structures hanging silently above the horizon. In many cases, however, the cause is not an unknown craft but a high-altitude rocket fuel vent or exhaust plume illuminated by sunlight. These events are rare enough to surprise experienced skywatchers, yet dramatic enough to trigger widespread UFO reports across entire countries.
+Giant glowing spirals in the night sky can look deeply unnatural. Witnesses often describe them as hovering portals, rotating discs, or enormous luminous structures hanging silently above the horizon. In many cases, however, the cause is not an unknown craft but a high-altitude rocket fuel vent or exhaust plume illuminated by sunlight. These events are rare enough to surprise experienced skywatchers, yet dramatic enough to trigger widespread UFO reports across entire countries.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, rocket spirals are important because they produce a very specific pattern of evidence: large geographic visibility, short-lived but highly memorable motion, and strong timing correlations with launches or upper-stage manoeuvres. Unlike many ambiguous lights in the sky, these events can often be reconstructed with launch records, orbital timing, [atmospheric]({{ 'scintillation/' | relative_url }}) lighting [geometry]({{ 'geometry/' | relative_url }}), and witness clustering. At the same time, the emotional impact on observers is genuine. To someone unaware of rocket operations, a rotating blue-white spiral expanding across the night sky can appear completely inexplicable.
+For AI-assisted UFO sighting investigation, rocket spirals are important because they produce a very specific pattern of evidence: large geographic visibility, short-lived but highly memorable motion, and strong timing correlations with launches or upper-stage manoeuvres. Unlike many ambiguous lights in the sky, these events can often be reconstructed with launch records, orbital timing, atmospheric lighting [geometry]({{ 'geometry/' | relative_url }}), and witness clustering. At the same time, the emotional impact on observers is genuine. To someone unaware of rocket operations, a rotating blue-white spiral expanding across the night sky can appear completely inexplicable.
 
 ## What Causes Giant Spiral Lights In The Sky
 
-Rocket spirals usually form during operations involving an upper rocket stage after the main launch phase. The most common mechanism is fuel venting combined with stage rotation. A spinning stage releases excess propellant or exhaust gases into near-space conditions, where the material rapidly freezes into [reflective]({{ 'foil-flashes/' | relative_url }}) ice crystals. Sunlight striking the cloud from beyond the horizon then makes the structure glow against a dark sky. Sky News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
+Rocket spirals usually form during operations involving an upper rocket stage after the main launch phase. The most common mechanism is fuel venting combined with stage rotation. A spinning stage releases excess propellant or exhaust gases into near-space conditions, where the material rapidly freezes into reflective ice crystals. Sunlight striking the cloud from beyond the horizon then makes the structure glow against a dark sky. Sky News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 The spiral shape appears because the rocket stage itself is rotating while venting gas. To an observer on the ground, the expanding plume traces a corkscrew or galaxy-like pattern. Depending on viewing angle and lighting conditions, the effect may resemble:
 
@@ -351,7 +351,7 @@ This matters in witness interpretation. People often estimate distance incorrect
 
 </div>
 
-In reality, the apparent hovering effect often comes from the immense scale of the illuminated cloud and the lack of nearby visual reference points.
+In reality, the apparent hovering effect often comes from the immense scale of the illuminated cloud and the lack of nearby visual [reference points]({{ 'reference-points/' | relative_url }}).
 
 AI-assisted investigation systems can help separate these perceptions from physical geometry by reconstructing:
 
@@ -375,7 +375,7 @@ Once these are aligned, the event frequently becomes much less mysterious.
 
 ## The March 2025 UK And Europe Sightings
 
-One of the clearest modern examples occurred on 24 March 2025, when a glowing blue spiral became visible across the UK, Ireland, and large parts of mainland Europe. Witnesses reported the phenomenon from England, France, Croatia, Poland, Germany, and elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/earth-space/spacex-launch-blue-spiral-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-title">spacex launch blue spiral europe</span><span class="citation-popover-snippet">FOX WeatherVIDEO: Florida SpaceX launch produces dazzling blue...25 Mar 2025 — A blue spiral was seen in the night sky across Europe on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">what was the glowing blue spiral spotted in the skies above europe</span><span class="citation-popover-snippet">euronewsWhat was the glowing blue spiral seen in the night sky...25 Mar 2025 — &quot;The rocket&#x27;s frozen exhaust plume appears to be spinning...</span></span></span>
+One of the clearest modern examples occurred on 24 March 2025, when a glowing blue spiral became visible across the UK, Ireland, and large parts of mainland Europe. Witnesses reported the phenomenon from England, France, Croatia, Poland, Germany, and elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/earth-space/spacex-launch-blue-spiral-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-title">spacex launch blue spiral europe</span><span class="citation-popover-snippet">FOX WeatherVIDEO: Florida SpaceX launch produces dazzling blue...25 Mar 2025 — A blue spiral was seen in the night sky across Europe on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">what was the glowing blue spiral spotted in the skies above europe</span><span class="citation-popover-snippet">What was the glowing blue spiral seen in the night sky...25 Mar 2025 — &quot;The rocket&#x27;s frozen exhaust plume appears to be spinning...</span></span></span>
 
 The event produced classic UFO-style reactions:
 
@@ -390,7 +390,7 @@ The event produced classic UFO-style reactions:
 
 </div>
 
-The explanation emerged quickly because the event matched known launch activity. A SpaceX Falcon 9 carrying the classified NROL-69 payload had launched earlier from Cape Canaveral in Florida. The UK Met Office stated that the spiral was likely caused by the rocket’s frozen exhaust plume reflecting sunlight while spinning in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">what was the glowing blue spiral spotted in the skies above europe</span><span class="citation-popover-snippet">euronewsWhat was the glowing blue spiral seen in the night sky...25 Mar 2025 — &quot;The rocket&#x27;s frozen exhaust plume appears to be spinning...</span></span></span>
+The explanation emerged quickly because the event matched known launch activity. A SpaceX Falcon 9 carrying the classified NROL-69 payload had launched earlier from Cape Canaveral in Florida. The UK Met Office stated that the spiral was likely caused by the rocket’s frozen exhaust plume reflecting sunlight while spinning in the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">what was the glowing blue spiral spotted in the skies above europe</span><span class="citation-popover-snippet">What was the glowing blue spiral seen in the night sky...25 Mar 2025 — &quot;The rocket&#x27;s frozen exhaust plume appears to be spinning...</span></span></span>
 
 Reports indicated the spiral remained visible for several minutes before fading. Observers described a bright central core with expanding luminous arms. The shape slowly drifted before disappearing near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span>
 
@@ -448,12 +448,9 @@ The Norway case remains important because it established several recurring featu
 * Initial public confusion
 * Rapid spread of extraordinary interpretations online
 
-It also demonstrated how incomplete early information can fuel speculative narratives. Before launch details became widely known, explanations ranged from secret weapons to extraterrestrial visitation.
+It also demonstrated how [incomplete]({{ 'incomplete-data/' | relative_url }}) early information can fuel speculative narratives. Before launch details became widely known, explanations ranged from secret weapons to extraterrestrial visitation.
 
 For modern UFO investigation, the lesson is practical rather than dismissive. Witnesses were not fabricating what they saw. The visual event was genuinely extraordinary. The mistake was not in observation but in interpretation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wp3OdrCOzUI" title="Mysterious spirals light up night skies after SpaceX rocket launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer">Mysterious spirals light up night skies after SpaceX rocket launch</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 38.5K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wp3OdrCOzUI">Open on YouTube</a></p></div></div></div>
 
 ## Why These Events Still Produce Strong UFO Reactions
 
@@ -465,12 +462,12 @@ Several factors amplify this effect:
 
 Witnesses rarely see structured luminous formations spanning large sections of the sky. The scale can feel impossible for conventional technology.
 
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Motion is slow and silent
 
 Unlike meteors or aircraft, spirals often evolve gradually over several minutes with no audible sound.
 
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The lighting looks unnatural
 
 Blue-white glowing structures with defined edges resemble cinematic depictions of science fiction phenomena more than familiar aviation lights.
@@ -488,11 +485,11 @@ A good AI-assisted case workflow does not assume every unusual light has a munda
 For rocket spiral events, the strongest workflow usually includes:
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/w9RqZKnUKII" title="Rocket Fuel Dump Video 2007 12 10" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=w9RqZKnUKII" target="_blank" rel="noopener noreferrer">Rocket Fuel Dump Video 2007 12 10</a></p><p class="youtube-embed-meta">Channel: Stanley Howard</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=w9RqZKnUKII" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=w9RqZKnUKII">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wp3OdrCOzUI" title="Mysterious spirals light up night skies after SpaceX rocket launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer">Mysterious spirals light up night skies after SpaceX rocket launch</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 38.5K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wp3OdrCOzUI">Open on YouTube</a></p></div></div></div>
 
-1. Exact [sighting time]({{ 'timeline-e3b338/' | relative_url }}) and timezone
+1. Exact sighting time and timezone
 2. Witness location coordinates
-3. Viewing direction and elevation
+3. Viewing direction and [elevation]({{ 'elevation/' | relative_url }})
 4. Duration estimate
 5. Launch database correlation
 6. Satellite and upper-stage tracking
@@ -502,7 +499,7 @@ For rocket spiral events, the strongest workflow usually includes:
 
 The timing element is especially important. Most confirmed rocket spirals align extremely closely with launches or upper-stage activity within a predictable visibility window.
 
-Where uncertainty remains, investigators should separate levels of confidence carefully:
+Where uncertainty remains, investigators should separate levels of [confidence]({{ 'confidence/' | relative_url }}) carefully:
 
 * **Confirmed:** launch records and geometry closely match
 * **Highly plausible:** timing and visual pattern strongly fit
@@ -541,16 +538,16 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Gives readers practical sky-observing context for strange illuminated events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -558,16 +555,16 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Helps explain unusual sky observations within a wider observing framework.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -575,16 +572,16 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        
+        <p class="fr-book-desc">Supports recognition of normal night-sky objects and events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -592,16 +589,16 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Encourages testing spectacular-looking events against ordinary explanations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -609,13 +606,13 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -642,76 +639,72 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open spacecraft model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20spacecraft%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpacecraft%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpacecraft%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for spacecraft model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">spacecraft model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Spacecraft</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=nasa+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-nasa-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-nasa-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open nasa patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20nasa%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENasa%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENasa%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for nasa patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">nasa patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Nasa</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=nasa+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-nasa-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="nasa patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-nasa-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=giant+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-giant-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="giant poster -book -books -dvd" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-giant-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open giant poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20giant%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EGiant%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EGiant%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for giant poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">giant poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Giant</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=giant+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-giant-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="giant poster -book -books -dvd" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-giant-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=rocket-spirals-what-causes-giant-spiral-lights-in-the-sky-ai-assisted-ufo-sighting-investigation-spacecraft-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -769,10 +762,10 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -790,7 +783,7 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -926,138 +919,138 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
 1. <a id="endnote-1"></a>
    Source: news.sky.com  
    Title: News Glowing spiral appears in night sky  
-   Link: [https://news.sky.com/story/glowing-spiral-appears-in-night-sky-as-met-office-reveals-likely-cause-13335297](https://news.sky.com/story/glowing-spiral-appears-in-night-sky-as-met-office-reveals-likely-cause-13335297)  
+   Link: <a href="https://news.sky.com/story/glowing-spiral-appears-in-night-sky-as-met-office-reveals-likely-cause-13335297" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/glowing-spiral-appears-in-night-sky-as-met-office-reveals-likely-cause-13335297</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsGlowing spiral appears in night sky - as Met Office reveals...Mar 25, 2025 — These spirals form when ejected rocket fuel from th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: euronews.com  
    Title: what was the glowing blue spiral spotted in the skies above europe  
-   Link: [https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe](https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>euronewsWhat was the glowing blue spiral seen in the night sky...25 Mar 2025 — &quot;The rocket&#x27;s frozen exhaust plume appears to be spinning...</p></details>
+   Link: <a href="https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>What was the glowing blue spiral seen in the night sky...25 Mar 2025 — &quot;The rocket&#x27;s frozen exhaust plume appears to be spinning...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: space.com  
    Title: Mysterious blue spiral spotted over European skies  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos](https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/mysterious-blue-spiral-spotted-over-european-skies-what-was-it-photos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What...25 Mar 2025 — The cause of the strange blue spiral is actually a SpaceX Falcon 9 rocket that blasted off from Space Launch Comple...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-rocket-launch-blue-spiral-photo](https://www.space.com/spacex-rocket-launch-blue-spiral-photo)  
+   Link: <a href="https://www.space.com/spacex-rocket-launch-blue-spiral-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-rocket-launch-blue-spiral-photo</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wild blue spiral in New Zealand sky likely made by SpaceX...Jun 22, 2022 — &quot;The upper stage was probably spinning on its longest axis to...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: spacex.com  
    Title: Space X  
-   Link: [https://www.spacex.com/launches](https://www.spacex.com/launches)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX - LaunchesUpcoming launches; Starlink Mission. Falcon 9, SLC-40, Florida, Droneship, May 29, 2026; Starlink Mission. Falcon 9, S...</p></details>
+   Link: <a href="https://www.spacex.com/launches" target="_blank" rel="noopener noreferrer nofollow">https://www.spacex.com/launches</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>LaunchesUpcoming launches; Starlink Mission. Falcon 9, SLC-40, Florida, Droneship, May 29, 2026; Starlink Mission. Falcon 9, S...</p></details>
    Published: May 29, 2026  
 
 6. <a id="endnote-6"></a>
    Source: washingtonpost.com  
    Title: The Washington Post Did you see an alien-looking swirl in the sky?  
-   Link: [https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/](https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/)  
+   Link: <a href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</p></details>
    Published: March 24, 2025  
 
 7. <a id="endnote-7"></a>
    Source: amusingplanet.com  
    Title: the norway spiral  
-   Link: [https://www.amusingplanet.com/2016/02/the-norway-spiral.html](https://www.amusingplanet.com/2016/02/the-norway-spiral.html)  
+   Link: <a href="https://www.amusingplanet.com/2016/02/the-norway-spiral.html" target="_blank" rel="noopener noreferrer nofollow">https://www.amusingplanet.com/2016/02/the-norway-spiral.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>25 Feb 2016 — The exhaust plume, which is suspended against a dark sky is then illuminated by reflective high altitude sunlight through d...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: satobs.org  
-   Link: [https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf](https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf)  
+   Link: <a href="https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://satobs.org/seesat_ref/misc/Norway_Spiral_--_15_FAQS_final.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>• CLEAR SKIES meant that the sunlight plumes could be seen from the ground. • DEMOGRAPHIC HABITS...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: livescience.com  
    Title: Live Science Ghostly 'spiral' photobombs Perseid meteors over several US states  
-   Link: [https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it](https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it)  
+   Link: <a href="https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/ghostly-spiral-photobombs-perseid-meteors-over-several-us-states-and-experts-are-unsure-what-caused-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>states observed a mysterious, ghostly white spiral of light in the night sky. The spiral, which lingered for about 10 minutes before fadi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: livenowfox.com  
-   Link: [https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe](https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe)  
+   Link: <a href="https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/spacex-nrol-69-launch-spiral-sky-europe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LiveNOWWatch: SpaceX spy satellite launch leaves otherworldly...25 Mar 2025 — The cause of the cloud was either an exhaust plume or left...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: foxweather.com  
    Title: spacex launch blue spiral europe  
-   Link: [https://www.foxweather.com/earth-space/spacex-launch-blue-spiral-europe](https://www.foxweather.com/earth-space/spacex-launch-blue-spiral-europe)  
+   Link: <a href="https://www.foxweather.com/earth-space/spacex-launch-blue-spiral-europe" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/earth-space/spacex-launch-blue-spiral-europe</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FOX WeatherVIDEO: Florida SpaceX launch produces dazzling blue...25 Mar 2025 — A blue spiral was seen in the night sky across Europe on...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket](https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket)  
+   Link: <a href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/](https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/)  
+   Link: <a href="https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thejournal.ie/posts/a-blue-and-white-light-spiral-seen-over-europe-was-likely-caused-by-a-spacex-fal/1053145260191767/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>X Falcon 9 rocket launch in the US. The UK&#x27;s Met Office said the...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: dailymotion.com  
    Title: The rocket's frozen exhaust plume appears to be spinning  
-   Link: [https://www.dailymotion.com/video/x9gqe7u](https://www.dailymotion.com/video/x9gqe7u)  
+   Link: <a href="https://www.dailymotion.com/video/x9gqe7u" target="_blank" rel="noopener noreferrer nofollow">https://www.dailymotion.com/video/x9gqe7u</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Swirl in the sky: Met Office gives explanation for swirl which...&#x27;This is likely to be caused by the SpaceX Falcon 9 rocket, launched ea...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/space/space-exploration/dying-spacex-rocket-creates-glowing-galaxy-like-spiral-in-the-middle-of-the-northern-lights](https://www.livescience.com/space/space-exploration/dying-spacex-rocket-creates-glowing-galaxy-like-spiral-in-the-middle-of-the-northern-lights)  
+   Link: <a href="https://www.livescience.com/space/space-exploration/dying-spacex-rocket-creates-glowing-galaxy-like-spiral-in-the-middle-of-the-northern-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/space-exploration/dying-spacex-rocket-creates-glowing-galaxy-like-spiral-in-the-middle-of-the-northern-lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Dying SpaceX rocket creates glowing, galaxy-like spiral in...12 Mar 2024 — The ethereal, galaxy-shaped light show was caused by an illum...</p></details>
 
 ### Additional References
 
 16. <a id="endnote-16"></a>
    Source: x.com  
-   Link: [https://x.com/accuweather/status/1904547622234513862](https://x.com/accuweather/status/1904547622234513862)  
+   Link: <a href="https://x.com/accuweather/status/1904547622234513862" target="_blank" rel="noopener noreferrer nofollow">https://x.com/accuweather/status/1904547622234513862</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AccuWeatherA mesmerizing blue spiral appeared in the night sky in Europe caused by a SpaceX Falcon 9 rocket.⁣ The phenomenon was likely c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/KaitlinWrightWx/posts/spiral-over-europe-according-to-the-uk-met-office-this-was-likely-caused-by-spac/1179425453552915/](https://www.facebook.com/KaitlinWrightWx/posts/spiral-over-europe-according-to-the-uk-met-office-this-was-likely-caused-by-spac/1179425453552915/)  
+   Link: <a href="https://www.facebook.com/KaitlinWrightWx/posts/spiral-over-europe-according-to-the-uk-met-office-this-was-likely-caused-by-spac/1179425453552915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KaitlinWrightWx/posts/spiral-over-europe-according-to-the-uk-met-office-this-was-likely-caused-by-spac/1179425453552915/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPIRAL OVER EUROPE! According to the U.K. Met Office...SPIRAL OVER EUROPE! According to the U.K. Met Office, this was likely caused by S...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2](https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2)  
+   Link: <a href="https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/space-x-sky-spiral-yorkshire-t2cpgdxn2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Experts attribute the phenomenon to a fuel dump from a SpaceX Falcon 9 rocket launched earlier that day from Florida, carrying a national...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=J5_8MVctp30](https://www.youtube.com/watch?v=J5_8MVctp30)  
+   Link: <a href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=J5_8MVctp30</a>  
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/bbcworldservice/posts/this-large-glowing-spiral-visible-in-the-night-sky-in-the-uk-is-believed-to-have/1058004229687142/](https://www.facebook.com/bbcworldservice/posts/this-large-glowing-spiral-visible-in-the-night-sky-in-the-uk-is-believed-to-have/1058004229687142/)  
+   Link: <a href="https://www.facebook.com/bbcworldservice/posts/this-large-glowing-spiral-visible-in-the-night-sky-in-the-uk-is-believed-to-have/1058004229687142/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bbcworldservice/posts/this-large-glowing-spiral-visible-in-the-night-sky-in-the-uk-is-believed-to-have/1058004229687142/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The rocket&#x27;s frozen exhaust plume appears to be spinning in the atmosphere and reflecting...Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: iflscience.com  
    Title: why do rocket launches create weird spirals in the sky 68535  
-   Link: [https://www.iflscience.com/why-do-rocket-launches-create-weird-spirals-in-the-sky-68535](https://www.iflscience.com/why-do-rocket-launches-create-weird-spirals-in-the-sky-68535)  
+   Link: <a href="https://www.iflscience.com/why-do-rocket-launches-create-weird-spirals-in-the-sky-68535" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/why-do-rocket-launches-create-weird-spirals-in-the-sky-68535</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Do Rocket Launches Create Weird Spirals In The Sky?Apr 20, 2023 — The spiral pattern indicates that the second stage was spinning whe...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: earthsky.org  
    Title: strange spiral in the night sky rocket fuel dump aug 12 2025  
-   Link: [https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/](https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/)  
+   Link: <a href="https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/strange-spiral-in-the-night-sky-rocket-fuel-dump-aug-12-2025/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange spiral in the night sky was a rocket fuel dump12 Aug 2025 — The released fuel can freeze into ice crystals, and on a clear night...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: rocketmoney.com  
-   Link: [https://www.rocketmoney.com/](https://www.rocketmoney.com/)  
+   Link: <a href="https://www.rocketmoney.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.rocketmoney.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>scriptions, and helps you create a custom budget to track monthly spending and...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aviation/comments/1jj0g2i/seen_this_over_eastswitzerland_can_anyone_tell_me/](https://www.reddit.com/r/aviation/comments/1jj0g2i/seen_this_over_eastswitzerland_can_anyone_tell_me/)  
+   Link: <a href="https://www.reddit.com/r/aviation/comments/1jj0g2i/seen_this_over_eastswitzerland_can_anyone_tell_me/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aviation/comments/1jj0g2i/seen_this_over_eastswitzerland_can_anyone_tell_me/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e, hence the swirly pattern when the reaction thrusters fires.Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ITVCentral/posts/mystery-glowing-spiral-in-monday-night-sky-was-it-remnants-of-a-spacex-rocket/1055526626609552/](https://www.facebook.com/ITVCentral/posts/mystery-glowing-spiral-in-monday-night-sky-was-it-remnants-of-a-spacex-rocket/1055526626609552/)  
+   Link: <a href="https://www.facebook.com/ITVCentral/posts/mystery-glowing-spiral-in-monday-night-sky-was-it-remnants-of-a-spacex-rocket/1055526626609552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ITVCentral/posts/mystery-glowing-spiral-in-monday-night-sky-was-it-remnants-of-a-spacex-rocket/1055526626609552/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>osphere, reflecting sunlight and creating the spiral. The...Read more...</p></details>

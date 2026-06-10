@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /sensor-artefacts/
 nav_short_title: Gimbal Glare
 title: Did Infrared Glare Create the Gimbal Rotation Illusion?
-title_full: Did Infrared Glare Create the Gimbal Rotation Illusion? | Sensor Artefacts
+title_full: Did Infrared Glare Create the Gimbal Rotation Illusion?
 display_title_short: Gimbal Glare
 display_title: Gimbal Glare
 heading_title: Did Infrared Glare Create the Gimbal Rotation Illusion?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When the Camera Creates the UFO Effect | Video Limits
+parent_title: When the Camera Creates the UFO Effect
 parent_permalink: /sensor-artefacts/
 parent_nav_short_title: Sensor Artefacts
 parent_heading_title: When the Camera Creates the UFO Effect
@@ -260,7 +260,7 @@ next_link:
   permalink: /phone-drift/
   short_title: Phone Drift
   heading_title: Why Phone Cameras Make UFO Lights Seem Erratic
-date: '2026-06-09 00:16:59 '
+date: '2026-06-10 20:38:28 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18
 
 ## Introduction
 
-The Navy’s “Gimbal” video became one of the most discussed modern UFO clips because the bright object in the centre appears to rotate dramatically while flying through the sky. To many viewers, the rotation looked like a craft physically turning on its side in a way unlike a normal [aircraft]({{ 'aircraft/' | relative_url }}). But a growing body of technical analysis argues that the apparent rotation is more likely an [infrared]({{ 'infrared-orbs/' | relative_url }}) glare effect produced by the camera system itself rather than evidence that the object was spinning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">ly just looks like the IR glare of a distant jet engine...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Gimbal UFO</span><span class="citation-popover-snippet">A New AnalysisThe gimbal ufo video almost certainly shows a glare that hides the actual object and that the shape of the glare is only ro...</span></span></span>
+The Navy’s “Gimbal” video became one of the most discussed modern UFO clips because the bright object in the centre appears to rotate dramatically while flying through the sky. To many viewers, the rotation looked like a craft physically turning on its side in a way unlike a normal [aircraft]({{ 'aircraft/' | relative_url }}). But a growing body of technical analysis argues that the apparent rotation is more likely an infrared glare effect produced by the camera system itself rather than evidence that the object was spinning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">ly just looks like the IR glare of a distant jet engine...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Gimbal UFO</span><span class="citation-popover-snippet">A New AnalysisThe gimbal ufo video almost certainly shows a glare that hides the actual object and that the shape of the glare is only ro...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-1-dark.svg" | relative_url }}" alt="Gimbal Glare illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ This distinction matters in AI-assisted UFO sighting investigation because the v
 
 Forward-looking infrared systems, usually called FLIR systems, do not work like ordinary visible-light cameras. Instead of recording reflected light, they detect heat contrast. Very bright infrared sources can overwhelm parts of the imaging chain and create bloom, glare or diffraction-like artefacts around the target.
 
-In the Gimbal footage, the brightest part of the scene is likely the heat signature of engines or exhaust viewed at long distance. Analysts arguing for the glare explanation point out that the object’s apparent “craft shape” closely resembles known infrared blooming patterns rather than a sharply [resolved]({{ 'solved-later/' | relative_url }}) vehicle outline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[2leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — What you see is the infrared glare of the engines, larger than the plane. It looks like it is ro...</span></span></span>
+In the Gimbal footage, the brightest part of the scene is likely the heat signature of engines or exhaust viewed at long distance. Analysts arguing for the glare explanation point out that the object’s apparent “craft shape” closely resembles known infrared blooming patterns rather than a sharply resolved vehicle outline. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[2leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — What you see is the infrared glare of the engines, larger than the plane. It looks like it is ro...</span></span></span>
 
 Several details pushed investigators towards this interpretation:
 
@@ -288,7 +288,7 @@ Several details pushed investigators towards this interpretation:
 * The rotation happens while the object remains essentially featureless.
 * The surrounding image contains sharpening artefacts and halo effects typical of infrared processing systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — What you see is the infrared glare of the engines, larger than the plane. It looks like it is ro...</span></span></span>
 
-This does not prove the underlying target was definitely an ordinary aircraft. A real unknown object could still generate glare. The narrower claim is that the rotating diamond-like shape seen on screen may belong to the optics, not the target itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/videos/comments/tdud5t/gimbal_ufo_a_new_analysis_mick_west_lays_out_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Gimbal UFO</span><span class="citation-popover-snippet">RedditGimbal UFO - A New Analysis: Mick West lays out the more...March 14, 2022 — The gimbal ufo video almost certainly shows a glare th...</span><span class="citation-popover-meta">Published: March 14, 2022</span></span></span>
+This does not prove the underlying target was definitely an ordinary aircraft. A real unknown object could still generate glare. The narrower claim is that the rotating diamond-like shape seen on screen may belong to the optics, not the target itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/videos/comments/tdud5t/gimbal_ufo_a_new_analysis_mick_west_lays_out_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Gimbal UFO</span><span class="citation-popover-snippet">Gimbal UFO - A New Analysis: Mick West lays out the more...March 14, 2022 — The gimbal ufo video almost certainly shows a glare th...</span><span class="citation-popover-meta">Published: March 14, 2022</span></span></span>
 
 That distinction is crucial for evidence handling. An AI workflow that extracts “craft [geometry]({{ 'geometry/' | relative_url }})” directly from infrared frames without modelling [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) risks treating optical distortion as physical structure.
 
@@ -328,7 +328,7 @@ According to this interpretation, the glare artefact behaves differently from th
 
 This is why some analyses recreated similar effects by filming bright lights through rotating optical systems. The reproduced glare rotated in ways resembling the Navy footage even when the actual light source did not rotate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boingboing.net">[Boing Boing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boingboing.net</span><span class="citation-popover-title">navy ufo moves with camera mechanisms in glaring problem for alien fans</span><span class="citation-popover-snippet">Boing Boing&quot;Navy UFO&quot; moves with camera mechanisms in glaring...Mar 14, 2022 — The UFO bumps, turns and rolls with camera gimbal movemen...</span></span></span>
 
-Not every imaging specialist agrees on the precise mechanism. Some critics argue that parts of the proposed explanation oversimplify the optical design of the ATFLIR pod or incorrectly model where the glare originates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">a gimbal glare explainer.12230</span><span class="citation-popover-snippet">MetabunkA Gimbal Glare Explainer17 Jan 2022 — The rotating spikes you see in that military video are typical lens flares, probably caused...</span></span></span>
+Not every imaging specialist agrees on the precise mechanism. Some critics argue that parts of the proposed explanation oversimplify the optical design of the ATFLIR pod or incorrectly model where the glare originates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">a gimbal glare explainer.12230</span><span class="citation-popover-snippet">A Gimbal Glare Explainer17 Jan 2022 — The rotating spikes you see in that military video are typical lens flares, probably caused...</span></span></span>
 
 However, even among critics of specific reconstructions, there is broad acknowledgement that infrared systems can generate misleading artefacts and that the visible shape in the video cannot automatically be treated as the true shape of the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">GImbal Glare, Rotation, Clouds, and Angles8 Dec 2025 — it is alleged that glare can rotate independent of what the camera is doing...</span></span></span>
 
@@ -344,7 +344,7 @@ In ordinary daylight footage, investigators can use:
 * Surface detail
 * Reflections
 * Relative scale
-* [Atmospheric]({{ 'scintillation/' | relative_url }}) perspective
+* Atmospheric perspective
 
 In infrared footage, many of those clues disappear. The image instead emphasises heat intensity and sensor response. Bright exhausts can become oversized glowing forms while cooler aircraft structures vanish almost completely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — What you see is the infrared glare of the engines, larger than the plane. It looks like it is ro...</span></span></span>
 
@@ -387,7 +387,7 @@ Without that context, an AI model may confidently classify optical artefacts as 
 
 The glare explanation addresses the apparent rotation, but it does not fully resolve every aspect of the wider encounter.
 
-Former Navy personnel associated with the incident described additional radar contacts and reported multiple objects operating in the area. Some reconstruction efforts argue the target’s inferred motion still appears unusual under certain distance assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivReconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
+Former Navy personnel associated with the incident described additional radar contacts and reported multiple objects operating in the area. Some reconstruction efforts argue the target’s inferred motion still appears unusual under certain distance assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</span><span class="citation-popover-meta">Published: June 15, 2023</span></span></span>
 
 That means two separate questions must remain distinct:
 
@@ -436,14 +436,14 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Directly suits readers interested in Navy UAP videos.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -453,16 +453,16 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Balances infrared-glare claims with rigorous evidence standards.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -470,16 +470,16 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        
+        <p class="fr-book-author">By Bryan F. Peterson</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+        <p class="fr-book-desc">Explains camera behaviour, light and image distortions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -487,16 +487,16 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        
+        <p class="fr-book-desc">Useful for readers thinking about camera optics and image artefacts.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -504,13 +504,13 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -537,76 +537,72 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR"><img src="{{ '/assets/images/marketplace-covers/7d9b0d4234f87d9c370e.jpg' | relative_url }}" alt="Listing image for Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Zomei Q555 Professional Tripod Ball Head Travel for Canon Nikon Sony Camera DSLR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open thermal camera on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20thermal%20camera%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EThermal%20Camera%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EThermal%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for thermal camera on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">thermal camera</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Thermal</span><span class="fr-search-tag">Camera</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK"><img src="{{ '/assets/images/marketplace-covers/7d06cc1db4091aaf2e1b.jpg' | relative_url }}" alt="Listing image for Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">Lightweight Aluminium Tripod Telescopic Camera DSLR Stand With Phone Holder UK</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360Â° Ball Head for DSLR Sony Nikon K234A0+BH-28L"><img src="{{ '/assets/images/marketplace-covers/8d5936e2bf43be9ff85a.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360Â° Ball Head for DSLR Sony Nikon K234A0+BH-28L" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 63&#x27;&#x27; Camera Tripod 360Â° Ball Head for DSLR Sony Nikon K234A0+BH-28L</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy patch" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-navy-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open navy patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20navy%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENavy%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENavy%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for navy patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">navy patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Navy</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=navy+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-navy-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="navy patch" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-navy-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 75&quot; Camera Phone Tripod Lightweight Travel with Remote S255A3+BH-36"><img src="{{ '/assets/images/marketplace-covers/1ccdad4302c676ea99b2.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 75&quot; Camera Phone Tripod Lightweight Travel with Remote S255A3+BH-36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 75&quot; Camera Phone Tripod Lightweight Travel with Remote S255A3+BH-36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera tripod">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera tripod</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=gimbal-glare-did-infrared-glare-create-the-gimbal-rotation-illusion-ai-assisted-ufo-sighting-inv-thermal-camera&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -664,10 +660,10 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -685,7 +681,7 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -820,194 +816,194 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
 
 1. <a id="endnote-1"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=4X1PRDbtiF0](https://www.youtube.com/watch?v=4X1PRDbtiF0)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ly just looks like the IR glare of a distant jet engine...</p></details>
+   Link: <a href="https://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4X1PRDbtiF0</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ly just looks like the [IR glare](&amp;#123;&amp;#123; &#x27;ir-glare/&#x27; | relative_url &amp;#125;&amp;#125;) of a distant jet engine...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: youtube.com  
    Title: Gimbal UFO  
-   Link: [https://www.youtube.com/watch?v=qsEjV8DdSbs](https://www.youtube.com/watch?v=qsEjV8DdSbs)  
+   Link: <a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qsEjV8DdSbs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New AnalysisThe gimbal ufo video almost certainly shows a glare that hides the actual object and that the shape of the glare is only ro...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: leonarddavid.com  
    Title: debunking navy ufo videos  
-   Link: [https://www.leonarddavid.com/debunking-navy-ufo-videos/](https://www.leonarddavid.com/debunking-navy-ufo-videos/)  
+   Link: <a href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonarddavid.com/debunking-navy-ufo-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking Navy “UFO” Videos30 Apr 2020 — What you see is the infrared glare of the engines, larger than the plane. It looks like it is ro...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: vice.com  
    Title: the skeptics guide to the pentagons ufo videos  
-   Link: [https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/](https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/)  
+   Link: <a href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 —... gimbal mounted camera can produce the effects seen in the Navy footage...</p></details>
    Published: May 2020  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
    Title: Gimbal UFO  
-   Link: [https://www.reddit.com/r/videos/comments/tdud5t/gimbal_ufo_a_new_analysis_mick_west_lays_out_the/](https://www.reddit.com/r/videos/comments/tdud5t/gimbal_ufo_a_new_analysis_mick_west_lays_out_the/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditGimbal UFO - A New Analysis: Mick West lays out the more...March 14, 2022 — The gimbal ufo video almost certainly shows a glare th...</p></details>
+   Link: <a href="https://www.reddit.com/r/videos/comments/tdud5t/gimbal_ufo_a_new_analysis_mick_west_lays_out_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/videos/comments/tdud5t/gimbal_ufo_a_new_analysis_mick_west_lays_out_the/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal UFO - A New Analysis: Mick West lays out the more...March 14, 2022 — The gimbal ufo video almost certainly shows a glare th...</p></details>
    Published: March 14, 2022  
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Gimbal](https://en.wikipedia.org/wiki/Gimbal)  
+   Link: <a href="https://en.wikipedia.org/wiki/Gimbal" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Gimbal</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 15, 2026 — A gimbal is a pivoted support that permits rotation of an object about an axis. A set of three gimbals, one mounted on t...</p></details>
    Published: March 15, 2026  
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ka_bX9Hx1H0](https://www.youtube.com/watch?v=ka_bX9Hx1H0)  
+   Link: <a href="https://www.youtube.com/watch?v=ka_bX9Hx1H0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ka_bX9Hx1H0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>this rotation.... UFO files: Disclosure debate &amp; government...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: metabunk.org  
    Title: a gimbal glare explainer.12230  
-   Link: [https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/](https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MetabunkA Gimbal Glare Explainer17 Jan 2022 — The rotating spikes you see in that military video are typical lens flares, probably caused...</p></details>
+   Link: <a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Gimbal Glare Explainer17 Jan 2022 — The rotating spikes you see in that military video are typical lens flares, probably caused...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/ntt8ln/gimbal_video_is_not_debunked_new_chris_lehto_vid/](https://www.reddit.com/r/ufo/comments/ntt8ln/gimbal_video_is_not_debunked_new_chris_lehto_vid/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/ntt8ln/gimbal_video_is_not_debunked_new_chris_lehto_vid/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/ntt8ln/gimbal_video_is_not_debunked_new_chris_lehto_vid/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Gimbal video is NOT debunked!: New Chris Lehto vid: r/ufoThen he claimed a derotation device in the ATFLIR was responsible for the Gimba...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=5OVt_SkhCdw](https://www.youtube.com/watch?v=5OVt_SkhCdw)  
+   Link: <a href="https://www.youtube.com/watch?v=5OVt_SkhCdw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5OVt_SkhCdw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y, he presents it as just &quot;could the derotation...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2306.08773](https://arxiv.org/abs/2306.08773)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivReconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2306.08773" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.08773</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstruction of Potential Flight Paths for the January 2015 Gimbal UAPJune 15, 2023...</p></details>
    Published: June 15, 2023  
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/m251sy/mick_west_attempts_to_debunk_the_entire_gimbal/](https://www.reddit.com/r/ufo/comments/m251sy/mick_west_attempts_to_debunk_the_entire_gimbal/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/m251sy/mick_west_attempts_to_debunk_the_entire_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/m251sy/mick_west_attempts_to_debunk_the_entire_gimbal/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>t at his phone and calling it case closed...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/](https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/15fznjb/just_watched_mick_west_debunk_the_gimbal_video/</a>  
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS](https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS)  
+   Link: <a href="https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IR Glare Hypothesis. Mick West · 3:55 · Gimbal UFO: New Footage Proves Glare Rotation.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WVrlG8RhIGU](https://www.youtube.com/watch?v=WVrlG8RhIGU)  
+   Link: <a href="https://www.youtube.com/watch?v=WVrlG8RhIGU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WVrlG8RhIGU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>tigator Mick West and tech expert Dr Ramsey Faragher. #UAP #...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/](https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/)  
+   Link: <a href="https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GImbal Glare, Rotation, Clouds, and Angles8 Dec 2025 — it is alleged that glare can rotate independent of what the camera is doing...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: Pentagon UFO videos  
-   Link: [https://en.wikipedia.org/wiki/Pentagon_UFO_videos](https://en.wikipedia.org/wiki/Pentagon_UFO_videos)  
+   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Un...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: “Gimbal” UFO 3D Reconstruction (likely a private jet)  
-   Link: [https://www.youtube.com/watch?v=rGzJ9dx3n4o](https://www.youtube.com/watch?v=rGzJ9dx3n4o)  
+   Link: <a href="https://www.youtube.com/watch?v=rGzJ9dx3n4o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rGzJ9dx3n4o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Pentagon UFO Videos...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: VFX Artists DEBUNK Pentagon UFO Videos  
-   Link: [https://www.youtube.com/watch?v=jHDlfIaBEqw](https://www.youtube.com/watch?v=jHDlfIaBEqw)  
+   Link: <a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jHDlfIaBEqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Videos Explained: Mick West&#x27;s Expert Analysis...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: UFO Videos Explained: Mick West's Expert Analysis  
-   Link: [https://www.youtube.com/watch?v=-_4QF__92q0](https://www.youtube.com/watch?v=-_4QF__92q0)  
+   Link: <a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-_4QF__92q0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About The Navy UFO Videos...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: The Truth About The Navy UFO Videos  
-   Link: [https://www.youtube.com/watch?v=Y85Mv8P32-k](https://www.youtube.com/watch?v=Y85Mv8P32-k)  
+   Link: <a href="https://www.youtube.com/watch?v=Y85Mv8P32-k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y85Mv8P32-k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“Gimbal” UFO 3D Reconstruction (likely a private jet) - YouTube “Gimbal” UFO 3D Reconstruction (likely a private jet) - YouTube...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtu.be  
    Title: TWi T Tech Podcast Network  
-   Link: [https://youtu.be/ciopi2r7j-k](https://youtu.be/ciopi2r7j-k)  
+   Link: <a href="https://youtu.be/ciopi2r7j-k" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/ciopi2r7j-k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Get &quot;Escaping the Rabbit Hole&quot; on Amazon (Affiliate Link): [https://amzn.to/42HqpK1...&quot;](https://amzn.to/42HqpK1...&quot;)...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: theguardian.com  
    Title: The Guardian I study UFOs – and I don't believe the alien hype  
-   Link: [https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why](https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why)  
+   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — I looked up the camera&#x27;s patents; these revealed a de-rotation mechanism used to correct for “gimbal roll”, which...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: news.ycombinator.com  
-   Link: [https://news.ycombinator.com/item?id=20019375](https://news.ycombinator.com/item?id=20019375)  
+   Link: <a href="https://news.ycombinator.com/item?id=20019375" target="_blank" rel="noopener noreferrer nofollow">https://news.ycombinator.com/item?id=20019375</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hacker NewsIt&#x27;s appropriate that the first video is called &quot;gimbal&quot;...27 May 2019 — The rotation of the object happens exactly around t...</p></details>
    Published: May 2019  
 
 26. <a id="endnote-26"></a>
    Source: independent.co.uk  
    Title: navy ufo video camera glare b2037965  
-   Link: [https://www.independent.co.uk/space/navy-ufo-video-camera-glare-b2037965.html](https://www.independent.co.uk/space/navy-ufo-video-camera-glare-b2037965.html)  
+   Link: <a href="https://www.independent.co.uk/space/navy-ufo-video-camera-glare-b2037965.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/space/navy-ufo-video-camera-glare-b2037965.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The IndependentFamous Navy UFO video is camera glare hiding something...18 Mar 2022 — It&#x27;s an object that rotates in a way that matches...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: boingboing.net  
    Title: navy ufo moves with camera mechanisms in glaring problem for alien fans  
-   Link: [https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html](https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html)  
+   Link: <a href="https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Boing Boing&quot;Navy UFO&quot; moves with camera mechanisms in glaring...Mar 14, 2022 — The UFO bumps, turns and rolls with camera gimbal movemen...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: leonardodrs.com  
-   Link: [https://www.leonardodrs.com/news/press-releases/leonardo-drs-unveils-new-5-inch-electro-optical-infrared-stabilized-gimbal-for-group-1-uas-platforms/](https://www.leonardodrs.com/news/press-releases/leonardo-drs-unveils-new-5-inch-electro-optical-infrared-stabilized-gimbal-for-group-1-uas-platforms/)  
+   Link: <a href="https://www.leonardodrs.com/news/press-releases/leonardo-drs-unveils-new-5-inch-electro-optical-infrared-stabilized-gimbal-for-group-1-uas-platforms/" target="_blank" rel="noopener noreferrer nofollow">https://www.leonardodrs.com/news/press-releases/leonardo-drs-unveils-new-5-inch-electro-optical-infrared-stabilized-gimbal-for-group-1-uas-platforms/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Leonardo DRS Unveils New 5-inch Electro-Optical/Infrared...11 Sept 2023 — Leonardo DRS unveils a 5-inch EO/IR stabilized gimbal for Grou...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: petapixel.com  
    Title: famous navy ufo video was actually camera glare evidence suggests  
-   Link: [https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/](https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/)  
+   Link: <a href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow">https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Navy UFO Video Was Actually Camera Glare...Mar 14, 2022 — Analysis of the poster child for UFO footage indicate it is not anythin...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: yahoo.com  
    Title: famous navy ufo video camera 112646317  
-   Link: [https://www.yahoo.com/news/famous-navy-ufo-video-camera-112646317.html](https://www.yahoo.com/news/famous-navy-ufo-video-camera-112646317.html)  
+   Link: <a href="https://www.yahoo.com/news/famous-navy-ufo-video-camera-112646317.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/famous-navy-ufo-video-camera-112646317.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Navy UFO video is camera glare hiding something...Mar 17, 2022 — The UFO captured on video by the Pentagon is glare on the Navy j...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: patents.google.com  
-   Link: [https://patents.google.com/patent/US6288381B1/en](https://patents.google.com/patent/US6288381B1/en)  
+   Link: <a href="https://patents.google.com/patent/US6288381B1/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/US6288381B1/en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsIntegrated system for line-of-sight stabilization and auto-...An alignment and stabilization system that automatically ali...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: interestingengineering.com  
    Title: He thoroughly explains what we  
-   Link: [https://interestingengineering.com/videos/pentagon-gimbal-ufo](https://interestingengineering.com/videos/pentagon-gimbal-ufo)  
+   Link: <a href="https://interestingengineering.com/videos/pentagon-gimbal-ufo" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/videos/pentagon-gimbal-ufo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s everything we know about the Pentagon&#x27;s &quot;Gimbal...In this video, YouTuber Mick West offers a master class lecture on the notoriou...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: dji.com  
    Title: Official What is a gimbal?  
-   Link: [https://www.dji.com/media-center/insights/what-is-gimbal](https://www.dji.com/media-center/insights/what-is-gimbal)  
+   Link: <a href="https://www.dji.com/media-center/insights/what-is-gimbal" target="_blank" rel="noopener noreferrer nofollow">https://www.dji.com/media-center/insights/what-is-gimbal</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An easy-to-understand explanation of its...26 Feb 2026 — Rotation axis (2nd axis/3rd axis) This is the part that corrects the tilt and r...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/](https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/)  
+   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ave proven useful in resolving cases.Read more...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: tweaktown.com  
-   Link: [https://www.tweaktown.com/news/87719/navy-fighter-pilot-ufo-witness-explains-the-famous-gimbal-video/index.html](https://www.tweaktown.com/news/87719/navy-fighter-pilot-ufo-witness-explains-the-famous-gimbal-video/index.html)  
+   Link: <a href="https://www.tweaktown.com/news/87719/navy-fighter-pilot-ufo-witness-explains-the-famous-gimbal-video/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.tweaktown.com/news/87719/navy-fighter-pilot-ufo-witness-explains-the-famous-gimbal-video/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navy fighter pilot UFO witness explains the famous Gimbal...2 Aug 2022 — Lt. Ryan Graves, a former Navy fighter pilot that witnessed and...</p></details>

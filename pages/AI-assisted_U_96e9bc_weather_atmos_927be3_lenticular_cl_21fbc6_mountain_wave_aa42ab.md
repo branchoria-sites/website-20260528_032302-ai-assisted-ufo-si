@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /lenticulars/
 nav_short_title: Wave Patterns
 title: Why Some 'Flying Saucers' Stay Fixed Above Mountains
-title_full: Why Some 'Flying Saucers' Stay Fixed Above Mountains | Lenticulars
+title_full: Why Some 'Flying Saucers' Stay Fixed Above Mountains
 display_title_short: Wave Patterns
 display_title: Wave Patterns
 heading_title: Why Some 'Flying Saucers' Stay Fixed Above Mountains
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When clouds really do look like saucers | Weather
+parent_title: When clouds really do look like saucers
 parent_permalink: /lenticulars/
 parent_nav_short_title: Lenticulars
 parent_heading_title: When clouds really do look like saucers
@@ -266,7 +266,7 @@ next_link:
   permalink: /wind-checks/
   short_title: Wind Checks
   heading_title: Can Weather Data Explain a Hovering UFO Report?
-date: '2026-06-09 00:19:09 '
+date: '2026-06-10 20:39:50 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1.webp
@@ -275,11 +275,11 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21
 
 ## Introduction
 
-Some of the most convincing “[hovering]({{ 'wind-checks/' | relative_url }}) UFO” reports are linked to a very specific weather mechanism: mountain-wave airflow. In the right conditions, strong winds crossing hills or mountain ridges create invisible standing waves in the atmosphere. If enough moisture is present, smooth lens-shaped clouds form at the crests of those waves. These are [lenticular]({{ 'lenticulars/' | relative_url }}) clouds, and they can appear astonishingly artificial — metallic, layered, symmetrical and apparently motionless. Meteorological agencies including the UK Met Office explicitly note that they are a common explanation for flying-saucer sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/image/lenticular-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Center for Science EducationLenticular Clouds - UCAR Center for Science EducationLenticular, or lee wave, clouds form downwind of an obst...</span></span></span>
+Some of the most convincing “hovering UFO” reports are linked to a very specific [weather]({{ 'weather/' | relative_url }}) mechanism: mountain-wave airflow. In the right conditions, strong winds crossing hills or mountain ridges create invisible standing waves in the atmosphere. If enough moisture is present, smooth lens-shaped clouds form at the crests of those waves. These are lenticular clouds, and they can appear astonishingly artificial — metallic, layered, symmetrical and apparently motionless. Meteorological agencies including the UK Met Office explicitly note that they are a common explanation for flying-saucer sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/image/lenticular-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Center for Science EducationLenticular Clouds - UCAR Center for Science EducationLenticular, or lee wave, clouds form downwind of an obst...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1-dark.svg" | relative_url }}" alt="Wave Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, mountain-wave patterns matter because they produce a repeatable environmental signature. A report of a silent object hovering over high ground can often be checked against terrain orientation, upper-level wind direction, [atmospheric]({{ 'scintillation/' | relative_url }}) stability, cloud imagery and local [weather]({{ 'weather/' | relative_url }}) observations. When these elements line up, the “mystery craft” may turn out to be a natural standing-wave cloud regenerating continuously in one fixed location.
+For AI-assisted UFO sighting investigation, mountain-wave patterns matter because they produce a repeatable environmental signature. A report of a silent object hovering over high ground can often be checked against terrain orientation, upper-level wind direction, atmospheric stability, cloud imagery and local weather observations. When these elements line up, the “mystery craft” may turn out to be a natural standing-wave cloud regenerating continuously in one fixed location.
 
 ## Standing Waves And Cloud Regeneration
 
@@ -302,7 +302,7 @@ This regeneration effect is one reason witnesses sometimes reject ordinary cloud
 
 </div>
 
-Meteorological and aviation guidance repeatedly describe these formations as “standing lenticular” clouds because their apparent stillness is one of their defining features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2020/october/19/training-tip-standing-up-for-turbulence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">training tip standing up for turbulence</span><span class="citation-popover-snippet">AOPATraining Tip: Standing up for turbulenceOct 19, 2020 — If enough moisture is present, lenticular clouds can form to give a visual ind...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mountwashington.org/lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountwashington.org">[Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountwashington.org</span><span class="citation-popover-snippet">Mount Washington ObservatoryLenticular CloudsA lenticular cloud is a type of stationary lens shaped cloud that forms at high altitudes, t...</span></span></span>
+Meteorological and aviation guidance repeatedly describe these formations as “standing lenticular” clouds because their apparent stillness is one of their defining features. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aopa.org/news-and-media/all-news/2020/october/19/training-tip-standing-up-for-turbulence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-title">training tip standing up for turbulence</span><span class="citation-popover-snippet">Training Tip: Standing up for turbulenceOct 19, 2020 — If enough moisture is present, lenticular clouds can form to give a visual ind...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://mountwashington.org/lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountwashington.org">[Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountwashington.org</span><span class="citation-popover-snippet">Mount Washington ObservatoryLenticular CloudsA lenticular cloud is a type of stationary lens shaped cloud that forms at high altitudes, t...</span></span></span>
 
 ## Why Strong Winds Can Produce Motionless Clouds
 
@@ -368,7 +368,7 @@ AI-assisted screening systems can compare witness reports against topographic an
 * Nearby ridge lines or mountains.
 * Wind direction at multiple altitudes.
 * Stability layers in weather soundings.
-* Satellite cloud imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesdis.noaa.gov">[nesdis.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesdis.noaa.gov</span><span class="citation-popover-title">wave clouds</span><span class="citation-popover-snippet">Clouds | NESDIS - NOAASatellite imagery shows us rippled cloud patterns called wave clouds, or gravity waves. These form when stable air...</span></span></span>
+* Satellite cloud imagery. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nesdis.noaa.gov">[nesdis.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nesdis.noaa.gov</span><span class="citation-popover-title">wave clouds</span><span class="citation-popover-snippet">Clouds &#124; NESDIS - NOAASatellite imagery shows us rippled cloud patterns called wave clouds, or gravity waves. These form when stable air...</span></span></span>
 * Presence of other wave-cloud formations nearby.
 * Time of day and low-angle sunlight effects.
 * Repeated local reports from the same terrain corridor.
@@ -417,12 +417,12 @@ Several effects contribute:
 * Telephoto compression makes the cloud appear closer to terrain.
 * Sunset lighting creates metallic shading.
 * Isolated clouds against clear sky resemble discrete objects.
-* Layered lenticulars can mimic structured craft designs.
+* Layered [lenticulars]({{ 'lenticulars/' | relative_url }}) can mimic structured craft designs.
 * Slight camera shake creates apparent hovering motion.
 
 Some images also lose depth cues entirely. A witness may know the cloud is large and distant, but a cropped online image can make it resemble a compact object suspended above the landscape.
 
-AI-based image analysis systems therefore need environmental context rather than shape analysis alone. A smooth disc silhouette by itself is weak evidence. Correlation with mountain-wave conditions is often more informative than the image appearance.
+AI-based image analysis systems therefore need environmental context rather than shape analysis alone. A smooth disc silhouette by itself is [weak evidence]({{ 'weak-evidence/' | relative_url }}). Correlation with mountain-wave conditions is often more informative than the image appearance.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-3-dark.svg" | relative_url }}" alt="Wave Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -532,7 +532,7 @@ Mountain-wave analysis therefore becomes one of the fastest and most evidence-ba
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -559,76 +559,72 @@ Mountain-wave analysis therefore becomes one of the fastest and most evidence-ba
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=wave-patterns-why-some-flying-saucers-stay-fixed-above-mountains-ai-assisted-ufo-sighting-invest-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -686,10 +682,10 @@ Mountain-wave analysis therefore becomes one of the fastest and most evidence-ba
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -707,7 +703,7 @@ Mountain-wave analysis therefore becomes one of the fastest and most evidence-ba
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -842,151 +838,151 @@ Mountain-wave analysis therefore becomes one of the fastest and most evidence-ba
 
 1. <a id="endnote-1"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations](https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/abq/features_acsl](https://www.weather.gov/abq/features_acsl)  
+   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The most telling clue that a mountain wave exists is the presence of ACSL clouds...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: avmet.navcanada.ca  
-   Link: [https://avmet.navcanada.ca/en/mountain-wave.aspx](https://avmet.navcanada.ca/en/mountain-wave.aspx)  
+   Link: <a href="https://avmet.navcanada.ca/en/mountain-wave.aspx" target="_blank" rel="noopener noreferrer nofollow">https://avmet.navcanada.ca/en/mountain-wave.aspx</a>  
 
 4. <a id="endnote-4"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Hazardous Mountain Winds  
-   Link: [https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-57.pdf](https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-57.pdf)  
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Advisory_Circular/AC_00-57.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>In Figure 6-20, the [aircraft](&amp;#123;&amp;#123; &#x27;aircraft/&#x27; | relative_url &amp;#125;&amp;#125;) flew beneath an area of standing lenticular clouds.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/source/zhu/ZHU_Training_Page/turbulence_stuff/turbulence/turbulence.htm](https://www.weather.gov/source/zhu/ZHU_Training_Page/turbulence_stuff/turbulence/turbulence.htm)  
+   Link: <a href="https://www.weather.gov/source/zhu/ZHU_Training_Page/turbulence_stuff/turbulence/turbulence.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/source/zhu/ZHU_Training_Page/turbulence_stuff/turbulence/turbulence.htm</a>  
 
 6. <a id="endnote-6"></a>
    Source: aopa.org  
    Title: training tip standing up for turbulence  
-   Link: [https://www.aopa.org/news-and-media/all-news/2020/october/19/training-tip-standing-up-for-turbulence](https://www.aopa.org/news-and-media/all-news/2020/october/19/training-tip-standing-up-for-turbulence)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AOPATraining Tip: Standing up for turbulenceOct 19, 2020 — If enough moisture is present, lenticular clouds can form to give a visual ind...</p></details>
+   Link: <a href="https://www.aopa.org/news-and-media/all-news/2020/october/19/training-tip-standing-up-for-turbulence" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/news-and-media/all-news/2020/october/19/training-tip-standing-up-for-turbulence</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Training Tip: Standing up for turbulenceOct 19, 2020 — If enough moisture is present, lenticular clouds can form to give a visual ind...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/media/aly/stormbuster/Spring17SB.pdf](https://www.weather.gov/media/aly/stormbuster/Spring17SB.pdf)  
+   Link: <a href="https://www.weather.gov/media/aly/stormbuster/Spring17SB.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/media/aly/stormbuster/Spring17SB.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Spring, 2017Lenticular clouds – Often referred to as “mountain wave clouds” or “standing lenticular” (SL), these bright, stand-out clouds...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/hfo/lenticular](https://www.weather.gov/hfo/lenticular)  
+   Link: <a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/2003Nov 25, 2003 — Here is a simple little &quot;cartoon&quot; schematic of how a lenticular cloud forms. Note the wavelike...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: forecast.weather.gov  
-   Link: [https://forecast.weather.gov/glossary.php?word=A](https://forecast.weather.gov/glossary.php?word=A)  
+   Link: <a href="https://forecast.weather.gov/glossary.php?word=A" target="_blank" rel="noopener noreferrer nofollow">https://forecast.weather.gov/glossary.php?word=A</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>weather.govNOAA&#x27;s National Weather Service - GlossaryACCAS clouds are a sign of instability aloft, and may precede the rapid development...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsSightings of unidentified flying objects (UFOs) have been reported over our skies for decades. The Ministry of Defence has kep...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: weather.metoffice.gov.uk  
-   Link: [https://weather.metoffice.gov.uk/learn-about/weather/optical-effects](https://weather.metoffice.gov.uk/learn-about/weather/optical-effects)  
+   Link: <a href="https://weather.metoffice.gov.uk/learn-about/weather/optical-effects" target="_blank" rel="noopener noreferrer nofollow">https://weather.metoffice.gov.uk/learn-about/weather/optical-effects</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>effects: nature&#x27;s light showHaloes appear when sunlight or moonlight interacts with tiny ice crystals in high cirrus clouds or cirrostrat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: scied.ucar.edu  
-   Link: [https://scied.ucar.edu/image/lenticular-clouds](https://scied.ucar.edu/image/lenticular-clouds)  
+   Link: <a href="https://scied.ucar.edu/image/lenticular-clouds" target="_blank" rel="noopener noreferrer nofollow">https://scied.ucar.edu/image/lenticular-clouds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Center for Science EducationLenticular Clouds - UCAR Center for Science EducationLenticular, or lee wave, clouds form downwind of an obst...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: wx.erau.edu  
-   Link: [https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html](https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html)  
+   Link: <a href="https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html" target="_blank" rel="noopener noreferrer nofollow">https://wx.erau.edu/faculty/mullerb/Wx365/Mountain_waves/mountain_waves.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Embry-Riddle Aeronautical Universitymountain_wavesMountain waves are standing atmospheric waves caused by airflow over mountains, analogo...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: mountwashington.org  
-   Link: [https://mountwashington.org/lenticular-clouds/](https://mountwashington.org/lenticular-clouds/)  
+   Link: <a href="https://mountwashington.org/lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/lenticular-clouds/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mount Washington ObservatoryLenticular CloudsA lenticular cloud is a type of stationary lens shaped cloud that forms at high altitudes, t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aerocrewnews.com  
    Title: mountain wave turbulence  
-   Link: [https://aerocrewnews.com/2023/04/01/mountain-wave-turbulence/](https://aerocrewnews.com/2023/04/01/mountain-wave-turbulence/)  
+   Link: <a href="https://aerocrewnews.com/2023/04/01/mountain-wave-turbulence/" target="_blank" rel="noopener noreferrer nofollow">https://aerocrewnews.com/2023/04/01/mountain-wave-turbulence/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Apr 1, 2023 — If sufficient moisture is in place, altocumulus standing lenticular clouds (ACSL) can develop at the top of individual wave...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/tech/31236444/ufo-cloud-taieri-pet-new-zealand-nasa-satellite-image/](https://www.thesun.co.uk/tech/31236444/ufo-cloud-taieri-pet-new-zealand-nasa-satellite-image/)  
+   Link: <a href="https://www.thesun.co.uk/tech/31236444/ufo-cloud-taieri-pet-new-zealand-nasa-satellite-image/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/31236444/ufo-cloud-taieri-pet-new-zealand-nasa-satellite-image/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The phenomenon, captured by a NASA satellite in September and last seen by an Air New Zealand pilot in 2020, is an elongated altocumulus...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nesdis.noaa.gov  
    Title: wave clouds  
-   Link: [https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds](https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds)  
+   Link: <a href="https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/our-environment/clouds/wave-clouds</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Clouds | NESDIS - NOAASatellite imagery shows us rippled cloud patterns called wave clouds, or gravity waves. These form when stable air...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Lenticular cloud  
-   Link: [https://en.wikipedia.org/wiki/Lenticular_cloud](https://en.wikipedia.org/wiki/Lenticular_cloud)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds are stationary clouds that form mostly in the troposphere, typically in parallel alignment to the wi...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: mountwashington.org  
-   Link: [https://mountwashington.org/a-closer-look-at-lenticular-clouds/](https://mountwashington.org/a-closer-look-at-lenticular-clouds/)  
+   Link: <a href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow">https://mountwashington.org/a-closer-look-at-lenticular-clouds/</a>  
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/sites/default/files/2023-02/surface_plot_key.pdf](https://www.noaa.gov/sites/default/files/2023-02/surface_plot_key.pdf)  
+   Link: <a href="https://www.noaa.gov/sites/default/files/2023-02/surface_plot_key.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/sites/default/files/2023-02/surface_plot_key.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Map SymbolsAlong the center, the cloud types are indicated. The top symbol is the high-level cloud type followed by the mid-level...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: fly8ma.com  
-   Link: [https://fly8ma.com/topic/mountain-weather/](https://fly8ma.com/topic/mountain-weather/)  
+   Link: <a href="https://fly8ma.com/topic/mountain-weather/" target="_blank" rel="noopener noreferrer nofollow">https://fly8ma.com/topic/mountain-weather/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mountain WeatherRotor clouds are caused by the same weather pattern as lenticular clouds, stable air blowing perpendicularly across a mou...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: premierflightct.com  
-   Link: [https://www.premierflightct.com/newsletters/TrainingArticles/StandingLenticularClouds.html](https://www.premierflightct.com/newsletters/TrainingArticles/StandingLenticularClouds.html)  
+   Link: <a href="https://www.premierflightct.com/newsletters/TrainingArticles/StandingLenticularClouds.html" target="_blank" rel="noopener noreferrer nofollow">https://www.premierflightct.com/newsletters/TrainingArticles/StandingLenticularClouds.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Standing Lenticular CloudsStanding lenticular clouds are associated with a phenomenon known as mountain wave turbulence. But first: A qui...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/mountain-waves](https://skybrary.aero/articles/mountain-waves)  
+   Link: <a href="https://skybrary.aero/articles/mountain-waves" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/mountain-waves</a>  
 
 24. <a id="endnote-24"></a>
    Source: journals.ametsoc.org  
    Title: Furthermore, we suggest that the lenticular clouds may not be formed in all wave  
-   Link: [https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml](https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml)  
+   Link: <a href="https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml" target="_blank" rel="noopener noreferrer nofollow">https://journals.ametsoc.org/view/journals/mwre/145/1/mwr-d-16-0031.1.xml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Modeling Study of a Trapped Lee-Wave Event over the...by M Udina · 2017 · Cited by 24 — Although mountain waves are stationary, a time o...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NorthYorkshireWeatherUpdates/posts/1900-michael-spotted-these-brilliant-lenticular-ufo-clouds-over-garsdale-this-ev/1291394406468853/](https://www.facebook.com/NorthYorkshireWeatherUpdates/posts/1900-michael-spotted-these-brilliant-lenticular-ufo-clouds-over-garsdale-this-ev/1291394406468853/)  
+   Link: <a href="https://www.facebook.com/NorthYorkshireWeatherUpdates/posts/1900-michael-spotted-these-brilliant-lenticular-ufo-clouds-over-garsdale-this-ev/1291394406468853/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NorthYorkshireWeatherUpdates/posts/1900-michael-spotted-these-brilliant-lenticular-ufo-clouds-over-garsdale-this-ev/1291394406468853/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>☁️ NOT an alien invasion! These are Lenticular Clouds looking south from York, PA early this afternoon.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KgO7Kyq3q-U](https://www.youtube.com/watch?v=KgO7Kyq3q-U)  
+   Link: <a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgO7Kyq3q-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular CloudsLenticular clouds are also known as lenticularis because they are shaped like a lens. They are common over mountains whe...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: markhorrell.com  
    Title: 7 mountain weather phenomena a quick intro courtesy of tristan gooley  
-   Link: [https://www.markhorrell.com/blog/2024/7-mountain-weather-phenomena-a-quick-intro-courtesy-of-tristan-gooley/](https://www.markhorrell.com/blog/2024/7-mountain-weather-phenomena-a-quick-intro-courtesy-of-tristan-gooley/)  
+   Link: <a href="https://www.markhorrell.com/blog/2024/7-mountain-weather-phenomena-a-quick-intro-courtesy-of-tristan-gooley/" target="_blank" rel="noopener noreferrer nofollow">https://www.markhorrell.com/blog/2024/7-mountain-weather-phenomena-a-quick-intro-courtesy-of-tristan-gooley/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lens clouds... Also known as lenticular clouds, and by the Latin name altocumulus lenticularis, lens clouds occur when winds hit the sum...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: noaa.gov  
    Title: jetstream max surface weather plot symbols  
-   Link: [https://www.noaa.gov/jetstream/wxmaps-max/jetstream-max-surface-weather-plot-symbols](https://www.noaa.gov/jetstream/wxmaps-max/jetstream-max-surface-weather-plot-symbols)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>JetStream Max: Surface Weather Plot Symbols10 Feb 2025 — The [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) are the 100 symbols used in meteorology to describe the present we...</p></details>
+   Link: <a href="https://www.noaa.gov/jetstream/wxmaps-max/jetstream-max-surface-weather-plot-symbols" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/wxmaps-max/jetstream-max-surface-weather-plot-symbols</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>JetStream Max: Surface Weather Plot Symbols10 Feb 2025 — The following are the 100 symbols used in meteorology to describe the present we...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/chapter/bookseries/pii/S0074614210099171](https://www.sciencedirect.com/science/chapter/bookseries/pii/S0074614210099171)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directly to the lee of the higher peaks, the flow descends abruptly to the plains elevation...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/chapter/bookseries/pii/S0074614210099171" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/chapter/bookseries/pii/S0074614210099171</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Directly to the lee of the higher peaks, the flow descends abruptly to the plains [elevation](&amp;#123;&amp;#123; &#x27;elevation/&#x27; | relative_url &amp;#125;&amp;#125;)...</p></details>

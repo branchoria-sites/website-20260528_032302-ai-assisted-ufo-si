@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-astronomy-che/
 description: Focused pages that expand on Astronomy.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_astronomy_che_26f202
-parent_title: Astronomy | AI assisted UFO sighting investigation
+parent_title: Astronomy
 parent_nav_short_title: Astronomy
 parent_permalink: /astronomy/
 ---

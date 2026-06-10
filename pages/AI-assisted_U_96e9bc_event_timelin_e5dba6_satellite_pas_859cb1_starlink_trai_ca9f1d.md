@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /satellites-06e013/
 nav_short_title: Starlink Trains
 title: Why Starlink Trains Look Like Coordinated UFO Fleets
-title_full: Why Starlink Trains Look Like Coordinated UFO Fleets | Satellites
+title_full: Why Starlink Trains Look Like Coordinated UFO Fleets
 display_title_short: Starlink Trains
 display_title: Starlink Trains
 heading_title: Why Starlink Trains Look Like Coordinated UFO Fleets
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When satellites look stranger than expected | Timeline
+parent_title: When satellites look stranger than expected
 parent_permalink: /satellites-06e013/
 parent_nav_short_title: Satellites
 parent_heading_title: When satellites look stranger than expected
@@ -266,7 +266,7 @@ next_link:
   permalink: /tumbling-rockets/
   short_title: Tumbling Rockets
   heading_title: Why Some UFO Lights Pulse With Mechanical Precision
-date: '2026-06-08 23:56:41 '
+date: '2026-06-10 20:25:55 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-1.webp
@@ -279,7 +279,7 @@ Starlink satellite “trains” have become one of the most common modern trigge
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-1-dark.svg" | relative_url }}" alt="Starlink Trains illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, Starlink matters because it has changed the baseline pattern of public reports worldwide. Since 2019, police lines, local media, UFO reporting sites, and [social media]({{ 'reposts/' | relative_url }}) feeds have repeatedly filled with sightings that later matched known Starlink launches and orbital passes. The important investigative task is not simply identifying that Starlink exists, but understanding why the visual effect is so convincing, how launch timing affects visibility, and how automated timeline checks can quickly distinguish a satellite train from a more unusual aerial event. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">UFO sightings site receiving more than 150 reports about the satellite train.... SpaceXstarlinkUFOs. Join our commenting forum. Join tho...</span></span></span>
+For AI-assisted UFO sighting investigation, Starlink matters because it has changed the baseline pattern of public reports worldwide. Since 2019, police lines, local media, UFO reporting sites, and social media feeds have repeatedly filled with sightings that later matched known Starlink launches and orbital passes. The important investigative task is not simply identifying that Starlink exists, but understanding why the visual effect is so convincing, how launch timing affects visibility, and how automated timeline checks can quickly distinguish a satellite train from a more unusual aerial event. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">UFO sightings site receiving more than 150 reports about the satellite train.... SpaceXstarlinkUFOs. Join our commenting forum. Join tho...</span></span></span>
 
 ## Why newly launched trains appear brightest
 
@@ -299,9 +299,9 @@ This early deployment stage creates several visual effects strongly associated w
 
 </div>
 
-The twilight factor is especially important. Starlink satellites are most visible when observers on the ground are already in darkness but the satellites are still illuminated by sunlight high above Earth. That geometry produces bright [reflective]({{ 'foil-flashes/' | relative_url }}) passes against a dark sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-title">spacex starlink satellites night sky visibility guide</span><span class="citation-popover-snippet">Star WalkHow to See Starlink Satellite Train 2026?Starlink satellites appear as a &quot;train&quot; of lights for several days after launch. During...</span></span></span>
+The twilight factor is especially important. Starlink satellites are most visible when observers on the ground are already in darkness but the satellites are still illuminated by sunlight high above Earth. That [geometry]({{ 'geometry/' | relative_url }}) produces bright reflective passes against a dark sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-title">spacex starlink satellites night sky visibility guide</span><span class="citation-popover-snippet">Star WalkHow to See Starlink Satellite Train 2026?Starlink satellites appear as a &quot;train&quot; of lights for several days after launch. During...</span></span></span>
 
-To first-time observers, the combination feels unnatural because everyday aircraft traffic does not behave this way. Commercial planes blink, change altitude visibly, emit sound, and rarely maintain perfectly even spacing. A Starlink train instead resembles a moving procession of identical lights with no obvious propulsion signature.
+To first-time observers, the combination feels unnatural because everyday aircraft traffic does not behave this way. Commercial planes blink, change altitude visibly, emit sound, and rarely maintain perfectly [even spacing]({{ 'even-spacing/' | relative_url }}). A Starlink train instead resembles a moving procession of identical lights with no obvious propulsion signature.
 
 The effect is strongest during the first days after launch. As the satellites spread out and raise orbit, the “train” gradually dissolves into isolated points that become difficult for casual observers to distinguish from ordinary satellites. <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-title">spacex starlink satellites night sky visibility guide</span><span class="citation-popover-snippet">Star WalkHow to See Starlink Satellite Train 2026?Starlink satellites appear as a &quot;train&quot; of lights for several days after launch. During...</span></span></span>
 
@@ -309,13 +309,18 @@ The effect is strongest during the first days after launch. As the satellites sp
 
 Witness language around Starlink sightings is remarkably consistent across countries and reporting systems. Reports commonly describe:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * “a convoy of lights”
 * “a fleet moving in formation” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
 * “a row of UFOs”
 * “silent drones”
 * “an alien armada”
-* “objects [following]({{ 'following-moon/' | relative_url }}) each other”
+* “objects following each other”
 * “military formation lights” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+
+</div>
 
 These descriptions are not irrational. They are reasonable attempts to interpret an unfamiliar visual pattern. Humans are strongly conditioned to interpret coordinated motion as intentional behaviour. When multiple lights maintain equal spacing and identical speed, observers instinctively assume control, coordination, or shared purpose.
 
@@ -324,9 +329,6 @@ This becomes even more persuasive because the satellites move across the entire 
 Media coverage shows how quickly this produces mass reporting events. In 2019 and 2020, several Starlink launches triggered hundreds of UFO reports within hours across Europe and North America. One report surge mentioned more than 150 submissions tied to a single satellite train sighting event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">UFO sightings site receiving more than 150 reports about the satellite train.... SpaceXstarlinkUFOs. Join our commenting forum. Join tho...</span></span></span>
 
 The phenomenon also spreads socially. Once one witness publicly frames the lights as “mysterious”, nearby observers may interpret the same event through that lens. Viral clips on TikTok, Facebook, Reddit, and local news pages amplify this effect, especially when the footage lacks context about recent launches.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
 
 ## Why Starlink changed the global UFO reporting environment
 
@@ -358,7 +360,7 @@ Not all Starlink passes look alike. Several variables can make the same satellit
 
 ### Low horizon viewing angles
 
-When the satellites are close to the horizon, [atmospheric]({{ 'scintillation/' | relative_url }}) haze and perspective compression can make the train appear packed tightly together or partially blurred. Witnesses sometimes describe this as a glowing worm, cigar-shaped craft, or luminous bar rather than separate objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space Exploration Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">why would starlink launch appear as a blurred line</span><span class="citation-popover-snippet">Space Exploration Stack ExchangeWhy would Starlink launch appear as a blurred line?16 Jun 2024 — I believe that I recently saw a Starlink...</span></span></span>
+When the satellites are close to the horizon, atmospheric haze and perspective compression can make the train appear packed tightly together or partially blurred. Witnesses sometimes describe this as a glowing worm, cigar-shaped craft, or luminous bar rather than separate objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space Exploration Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">why would starlink launch appear as a blurred line</span><span class="citation-popover-snippet">Space Exploration Stack ExchangeWhy would Starlink launch appear as a blurred line?16 Jun 2024 — I believe that I recently saw a Starlink...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-2-dark.svg" | relative_url }}" alt="Starlink Trains illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_starlink_trai_ca9f1d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -377,13 +379,13 @@ Witness expectation strongly shapes interpretation. Someone already primed by lo
 Reddit discussions around Starlink sightings repeatedly show this transition from confusion to recognition. In several cases, users admitted filing UFO reports before later learning they had seen satellite trains or bright satellite flares. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/spacex/comments/bt32pn/starlink_tracking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">considered an impressive sight...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4h6OXRDhS4c" title="What are these STRANGE CHAINS OF LIGHTS in the Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4h6OXRDhS4c" target="_blank" rel="noopener noreferrer">What are these STRANGE CHAINS OF LIGHTS in the Sky?</a></p><p class="youtube-embed-meta">Channel: Something Incredible</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4h6OXRDhS4c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4h6OXRDhS4c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
 
 ## Pilot sightings and aviation confusion
 
 Starlink-related UFO reports are not limited to casual observers. Airline pilots have also reported unusual lights linked to satellite constellations and reflective orbital geometry.
 
-One 2024 aerospace case study reconstructed a 2022 Pacific sighting in which multiple commercial pilots reported unusual aerial phenomena later correlated with a recently launched Starlink train. Researchers combined flight paths, satellite orbital data, and illumination geometry to demonstrate how reflections from the satellites could create confusing visual behaviour from cockpit altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span></span></span>
+One 2024 aerospace case study reconstructed a 2022 Pacific sighting in which multiple commercial pilots reported unusual aerial phenomena later correlated with a recently launched Starlink train. Researchers combined flight paths, satellite [orbital data]({{ 'orbital-data/' | relative_url }}), and illumination geometry to demonstrate how reflections from the satellites could create confusing visual behaviour from cockpit altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span></span></span>
 
 This matters because pilots observe the sky under different conditions from ground witnesses:
 
@@ -410,13 +412,13 @@ One reason Starlink is so valuable in UFO triage workflows is that the evidence 
 
 A structured AI-assisted workflow usually checks:
 
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
 1. exact sighting time
 2. witness location
 3. viewing direction
-4. elevation angle
+4. [elevation]({{ 'elevation/' | relative_url }}) angle
+
+<div class="content-enhancement content-enhancement--step-flow" markdown="1">
+
 5. launch activity within the previous days
 6. predicted Starlink visibility passes
 7. twilight conditions
@@ -443,20 +445,12 @@ Strong Starlink matches typically include:
 Weak matches include:
 
 * abrupt directional changes
-* [hovering]({{ 'wind-checks/' | relative_url }}) behaviour
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
+* hovering behaviour
 * erratic acceleration
 * low-altitude interaction with terrain or structures
 * visibility during fully dark midnight conditions inconsistent with illumination geometry
 
-</div>
-
 The goal is not to dismiss witnesses, but to compare the report against known orbital behaviour as rigorously as possible.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FlLt_-968-Y" title="STARLINK SIGHTING from a Plane: Captain Explains the Satellite Train! 🛰️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FlLt_-968-Y" target="_blank" rel="noopener noreferrer">STARLINK SIGHTING from a Plane: Captain Explains the Satellite Train! 🛰️</a></p><p class="youtube-embed-meta">Channel: ViralVideoLab</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FlLt_-968-Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FlLt_-968-Y">Open on YouTube</a></p></div></div></div>
 
 ## Why Starlink remains important in modern UFO case analysis
 
@@ -478,16 +472,16 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Supports testing mass sightings against known satellite events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -495,16 +489,16 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Helps readers identify satellite trains and night-sky objects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -512,16 +506,16 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        
+        <p class="fr-book-desc">Relevant to practical satellite and twilight observation checks.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -529,16 +523,16 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        
+        <p class="fr-book-desc">Supports broader sky literacy for readers confused by Starlink trains.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -546,13 +540,13 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -579,76 +573,72 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open satellite model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20satellite%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESatellite%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESatellite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for satellite model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">satellite model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Satellite</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=spacex+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-spacex-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacex patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-spacex-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open spacex patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20spacex%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpacex%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpacex%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for spacex patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">spacex patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Spacex</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=spacex+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-spacex-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacex patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-spacex-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=like+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-like-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="like poster -book -books -dvd" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-like-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open like poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20like%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ELike%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELike%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for like poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">like poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Like</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=like+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-like-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="like poster -book -books -dvd" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-like-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=starlink-trains-a88b86-why-starlink-trains-look-like-coordinated-ufo-fleets-ai-assisted-ufo-sigh-satellite-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -706,10 +696,10 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -727,7 +717,7 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -863,204 +853,204 @@ For AI-assisted investigation systems, Starlink provides a useful example of how
 1. <a id="endnote-1"></a>
    Source: space.com  
    Title: Starlink satellite train: how to see and track it in the night sky  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starlink-train-circle-earth-in-amazing-satellite-video](https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starlink-train-circle-earth-in-amazing-satellite-video)  
+   Link: <a href="https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starlink-train-circle-earth-in-amazing-satellite-video" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/launches-spacecraft/watch-spacex-starlink-train-circle-earth-in-amazing-satellite-video</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shared on May 4, 2026, by Michael Nicolls, SpaceX&#x27;s Vice President of Starlink Engineering, the 3.5-minute video records the journey of o...</p></details>
    Published: May 4, 2026  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Starlink Mini Satellite Brightness Distributions Across the Sky  
-   Link: [https://arxiv.org/abs/2401.01546](https://arxiv.org/abs/2401.01546)  
+   Link: <a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2003.07446](https://arxiv.org/abs/2003.07446)  
+   Link: <a href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2003.07446</a>  
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/spacex/comments/bt32pn/starlink_tracking/](https://www.reddit.com/r/spacex/comments/bt32pn/starlink_tracking/)  
+   Link: <a href="https://www.reddit.com/r/spacex/comments/bt32pn/starlink_tracking/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spacex/comments/bt32pn/starlink_tracking/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>considered an impressive sight...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designed to deliver affordable internet to remote regions, Starlink&#x27;s low-Earth orbit constellation, potentially expanding to over 42,000...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
 8. <a id="endnote-8"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2201.05343](https://arxiv.org/abs/2201.05343)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivImpact of the SpaceX Starlink Satellites on the Zwicky Transient Facility Survey ObservationsJanuary 14, 2022...</p></details>
+   Link: <a href="https://arxiv.org/abs/2201.05343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.05343</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Impact of the SpaceX Starlink Satellites on the Zwicky Transient Facility Survey ObservationsJanuary 14, 2022...</p></details>
    Published: January 14, 2022  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
    Title: It's starlink.: r/space  
-   Link: [https://www.reddit.com/r/space/comments/15n15b1/its_starlink/](https://www.reddit.com/r/space/comments/15n15b1/its_starlink/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditIt&#x27;s starlink.: r/spaceAugust 10, 2023 — r/UFOs - The Princeton, KY UFO post that was deleted. 4. 84. 67...Read more...</p></details>
+   Link: <a href="https://www.reddit.com/r/space/comments/15n15b1/its_starlink/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/15n15b1/its_starlink/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s starlink.: r/spaceAugust 10, 2023 — r/UFOs - The Princeton, KY UFO post that was deleted. 4. 84. 67...Read more...</p></details>
    Published: August 10, 2023  
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/v5dk1g/why_starlink_satellites_are_so_visible_in_the/](https://www.reddit.com/r/Starlink/comments/v5dk1g/why_starlink_satellites_are_so_visible_in_the/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/v5dk1g/why_starlink_satellites_are_so_visible_in_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/v5dk1g/why_starlink_satellites_are_so_visible_in_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s them easier to see when light reflects off them...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.08155](https://arxiv.org/abs/2403.08155)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivEnhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
+   Link: <a href="https://arxiv.org/abs/2403.08155" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.08155</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enhancing Space Situational Awareness to Mitigate Risk: A Single-Case Study in the Misidentification of a Recently-Launched Starlink...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: space.com  
    Title: x starlink satellites 10 weird things  
-   Link: [https://www.space.com/spacex-starlink-satellites-10-weird-things](https://www.space.com/spacex-starlink-satellites-10-weird-things)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites-10-weird-things" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites-10-weird-things</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink in live-fire exercises; 9... Read more: No, they&#x27;re not aliens — SpaceX&#x27;s Starlink satellites surprise...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/](https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/1i3pmmi/how_long_after_launch_can_a_starlink_train_be_seen/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>part of the sky, at the right time of the day.Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/](https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/)  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/16knevh/really_bizarre_straight_line_of_moving_lights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r/videos - Given all the recent UFO sighting videos, here&#x27;s a video debunking.Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/[Astronomy](https://www.reddit.com/r/[Astronomy)  
+   Link: <a href="https://www.reddit.com/r/[Astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/[Astronomy</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ce debris issues. The aerodynamic drag means they decay in...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/](https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/)  
+   Link: <a href="https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/space/comments/bsnxr7/if_you_saw_a_string_of_lights_just_now_in_the_sky/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously good luck to be stargazing at that moment! Will the Starlink...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/TomSkilling/posts/space-x-satellites-are-being-mistaken-for-ufos-in-parts-of-the-country/10157731297166760/](https://www.facebook.com/TomSkilling/posts/space-x-satellites-are-being-mistaken-for-ufos-in-parts-of-the-country/10157731297166760/)  
+   Link: <a href="https://www.facebook.com/TomSkilling/posts/space-x-satellites-are-being-mistaken-for-ufos-in-parts-of-the-country/10157731297166760/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TomSkilling/posts/space-x-satellites-are-being-mistaken-for-ufos-in-parts-of-the-country/10157731297166760/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s. It&#x27;s just Starlink Satellites courtesy of SpaceX.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/WLTXNews19/posts/appearing-as-a-string-of-bright-lights-in-the-sky-starlink-satellite-trains-prom/721073330047611/](https://www.facebook.com/WLTXNews19/posts/appearing-as-a-string-of-bright-lights-in-the-sky-starlink-satellite-trains-prom/721073330047611/)  
+   Link: <a href="https://www.facebook.com/WLTXNews19/posts/appearing-as-a-string-of-bright-lights-in-the-sky-starlink-satellite-trains-prom/721073330047611/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WLTXNews19/posts/appearing-as-a-string-of-bright-lights-in-the-sky-starlink-satellite-trains-prom/721073330047611/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and U.K. of people seeing them, with explanations ranging from UFOs to an alien...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spacexgroup/posts/10161479123196318/](https://www.facebook.com/groups/spacexgroup/posts/10161479123196318/)  
+   Link: <a href="https://www.facebook.com/groups/spacexgroup/posts/10161479123196318/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacexgroup/posts/10161479123196318/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ght, moving lights shortly after sunset or before sunrise, as they...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MattDevittWeather/posts/new-not-a-ufo-but-a-train-of-starlink-satellites-from-spacex-was-spotted-passing/1477979900357334/](https://www.facebook.com/MattDevittWeather/posts/new-not-a-ufo-but-a-train-of-starlink-satellites-from-spacex-was-spotted-passing/1477979900357334/)  
+   Link: <a href="https://www.facebook.com/MattDevittWeather/posts/new-not-a-ufo-but-a-train-of-starlink-satellites-from-spacex-was-spotted-passing/1477979900357334/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MattDevittWeather/posts/new-not-a-ufo-but-a-train-of-starlink-satellites-from-spacex-was-spotted-passing/1477979900357334/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Not a UFO, but a train of Starlink satellites from SpaceX...NEW: Not a UFO, but a train of Starlink satellites from SpaceX was spotted p...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: independent.co.uk  
-   Link: [https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html](https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html)  
+   Link: <a href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow">https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings site receiving more than 150 reports about the satellite train.... SpaceXstarlinkUFOs. Join our commenting forum. Join tho...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: starwalk.space  
    Title: spacex starlink satellites night sky visibility guide  
-   Link: [https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide](https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide)  
+   Link: <a href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow">https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Star WalkHow to See Starlink Satellite Train 2026?Starlink satellites appear as a &quot;train&quot; of lights for several days after launch. During...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: space.stackexchange.com  
    Title: why would starlink launch appear as a blurred line  
-   Link: [https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line](https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line)  
+   Link: <a href="https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/66282/why-would-starlink-launch-appear-as-a-blurred-line</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Exploration Stack ExchangeWhy would Starlink launch appear as a blurred line?16 Jun 2024 — I believe that I recently saw a Starlink...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: earthsky.org  
    Title: spacex starlink satellites explained  
-   Link: [https://earthsky.org/space/spacex-starlink-satellites-explained/](https://earthsky.org/space/spacex-starlink-satellites-explained/)  
+   Link: <a href="https://earthsky.org/space/spacex-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/spacex-starlink-satellites-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens and that it was only the #starlink satellite.... Is the sudden upsurge in the number of Starlink satellites also causing UFO sigh...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: syfy.com  
    Title: spacex satellites are now being mistaken for ufos and making astronomers rage  
-   Link: [https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage](https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage)  
+   Link: <a href="https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/spacex-satellites-are-now-being-mistaken-for-ufos-and-making-astronomers-rage</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s not aliens, but short of a planetary takeover by tall greys...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: satellitemap.space  
-   Link: [https://satellitemap.space/constellation/starlink](https://satellitemap.space/constellation/starlink)  
+   Link: <a href="https://satellitemap.space/constellation/starlink" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/constellation/starlink</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites are visible on most clear evenings within 1–2 hours after sunset or before sunrise. Newly...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: futurism.com  
    Title: spacex starlink satellites ufos  
-   Link: [https://futurism.com/the-byte/spacex-starlink-satellites-ufos](https://futurism.com/the-byte/spacex-starlink-satellites-ufos)  
+   Link: <a href="https://futurism.com/the-byte/spacex-starlink-satellites-ufos" target="_blank" rel="noopener noreferrer nofollow">https://futurism.com/the-byte/spacex-starlink-satellites-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX&#x27;s Starlink satellites and not UFOs like locals thought... READ MORE: Starlink Satellites Produce Wave of UFO Sightings in the US...</p></details>
 
 ### Additional References
 
 28. <a id="endnote-28"></a>
    Source: axios.com  
-   Link: [https://www.axios.com/2022/01/18/spacex-starlink-streaks-images](https://www.axios.com/2022/01/18/spacex-starlink-streaks-images)  
+   Link: <a href="https://www.axios.com/2022/01/18/spacex-starlink-streaks-images" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2022/01/18/spacex-starlink-streaks-images</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From November 2019 to September 2021, 5,301 satellite streaks were identified in twilight photos, raising concerns among scientists about...</p></details>
    Published: November 2019  
 
 29. <a id="endnote-29"></a>
    Source: duvarenglish.com  
-   Link: [https://www.duvarenglish.com/turkish-man-mistakes-starlink-satellites-for-alien-invasion-calls-police-for-help-news-63055](https://www.duvarenglish.com/turkish-man-mistakes-starlink-satellites-for-alien-invasion-calls-police-for-help-news-63055)  
+   Link: <a href="https://www.duvarenglish.com/turkish-man-mistakes-starlink-satellites-for-alien-invasion-calls-police-for-help-news-63055" target="_blank" rel="noopener noreferrer nofollow">https://www.duvarenglish.com/turkish-man-mistakes-starlink-satellites-for-alien-invasion-calls-police-for-help-news-63055</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Turkish man mistakes Starlink satellites for alien invasion...26 Sept 2023 — A person who spotted SpaceX&#x27;s Starlink satellites in the sk...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/xdl2eKen_BA](https://www.youtube.com/shorts/xdl2eKen_BA)  
+   Link: <a href="https://www.youtube.com/shorts/xdl2eKen_BA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/xdl2eKen_BA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Sightings Explained: Starlink Satellites or Something...I believe they&#x27;re starlink satellites but every once in a while you&#x27;ll see a...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: forbes.com  
    Title: What Are Those Strange Moving Lights In The Night Sky?  
-   Link: [https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/](https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/)  
+   Link: <a href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Apr 2020 — There have been numerous reports from places like the U.S. and U.K. of people seeing them, with explanations ranging from U...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: foxnews.com  
    Title: ufo sightings spacex starlink train appears  
-   Link: [https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears](https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears)  
+   Link: <a href="https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears" target="_blank" rel="noopener noreferrer nofollow">https://www.foxnews.com/science/ufo-sightings-spacex-starlink-train-appears</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO &#x27;sightings&#x27; explode as SpaceX Starlink &#x27;train&#x27; appears28 May 2019 — UFO &#x27;sightings&#x27; explode as SpaceX Starlink &#x27;train&#x27; appears. By Ch...</p></details>
    Published: May 2019  
 
 33. <a id="endnote-33"></a>
    Source: star-gazing.co.uk  
    Title: Starlink – What have we just witnessed?  
-   Link: [https://www.star-gazing.co.uk/WebPage/starlink-spectacle/](https://www.star-gazing.co.uk/WebPage/starlink-spectacle/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Star-Gazing27 May 2019 — Once the string of satellites were deployed an hour after launch, reports started to come in about the satellite...</p></details>
+   Link: <a href="https://www.star-gazing.co.uk/WebPage/starlink-spectacle/" target="_blank" rel="noopener noreferrer nofollow">https://www.star-gazing.co.uk/WebPage/starlink-spectacle/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>27 May 2019 — Once the string of satellites were deployed an hour after launch, reports started to come in about the satellite...</p></details>
    Published: May 2019  
 
 34. <a id="endnote-34"></a>
    Source: astronomy.stackexchange.com  
    Title: can any satellite train still be seen  
-   Link: [https://astronomy.stackexchange.com/questions/37040/can-any-satellite-train-still-be-seen](https://astronomy.stackexchange.com/questions/37040/can-any-satellite-train-still-be-seen)  
+   Link: <a href="https://astronomy.stackexchange.com/questions/37040/can-any-satellite-train-still-be-seen" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/37040/can-any-satellite-train-still-be-seen</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>any satellite train still be seen?20 Jul 2020 — The Starlink satellites are visible with the naked eye even after they have spread out, h...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: fox5atlanta.com  
    Title: What are those lights in the sky?  
-   Link: [https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained](https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained)  
+   Link: <a href="https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained" target="_blank" rel="noopener noreferrer nofollow">https://www.fox5atlanta.com/news/what-those-lights-sky-starlink-satellites-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Starlink satellites explained8 Apr 2025 — Starlink satellites are especially noticeable shortly after deployment when they are closely gr...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DWleOzsDaTa/](https://www.instagram.com/p/DWleOzsDaTa/)  
+   Link: <a href="https://www.instagram.com/p/DWleOzsDaTa/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DWleOzsDaTa/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>But I know that the first sighting...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYJr6AwRIlY/](https://www.instagram.com/reel/DYJr6AwRIlY/)  
+   Link: <a href="https://www.instagram.com/reel/DYJr6AwRIlY/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYJr6AwRIlY/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>cript. [Loud, sustained screaming].Read more...</p></details>

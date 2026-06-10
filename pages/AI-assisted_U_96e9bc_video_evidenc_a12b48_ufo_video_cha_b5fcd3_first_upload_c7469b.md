@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /chain-of-custody/
 nav_short_title: First Upload
 title: Can You Still Find the Original UFO Upload?
-title_full: Can You Still Find the Original UFO Upload? | Chain of Custody
+title_full: Can You Still Find the Original UFO Upload?
 display_title_short: First Upload
 display_title: First Upload
 heading_title: Can You Still Find the Original UFO Upload?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can You Trust Where the UFO Video Came From | Video Limits
+parent_title: Can You Trust Where the UFO Video Came From
 parent_permalink: /chain-of-custody/
 parent_nav_short_title: Chain of Custody
 parent_heading_title: Can You Trust Where the UFO Video Came From
@@ -260,7 +260,7 @@ next_link:
   permalink: /geolocation/
   short_title: Geolocation
   heading_title: Did This UFO Video Really Come From Here?
-date: '2026-06-08 23:26:39 '
+date: '2026-06-10 20:08:30 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1.webp
@@ -277,9 +277,9 @@ The problem is that viral repost chains move faster than evidence preservation. 
 
 ## How repost chains erase source context
 
-A viral UFO clip rarely survives online in its original state. Most viewers encounter a reposted version detached from the account that first uploaded it. Every repost introduces new [uncertainty]({{ 'uncertainty-labels/' | relative_url }}).
+A viral UFO clip rarely survives online in its original state. Most viewers encounter a reposted version detached from the account that first uploaded it. Every repost introduces new uncertainty.
 
-Short-form platforms accelerate this process because they encourage rapid remixing. A witness uploads a clip with a neutral caption such as “strange lights over Manchester”. Minutes later, another account reposts it with claims about alien craft, military secrecy or “proof” of extraterrestrial activity. The visual content may remain mostly unchanged while the surrounding narrative mutates completely.
+Short-form platforms accelerate this process because they encourage rapid remixing. A witness uploads a clip with a neutral caption such as “strange lights over Manchester”. Minutes later, another account [reposts]({{ 'reposts/' | relative_url }}) it with claims about alien craft, military secrecy or “proof” of extraterrestrial activity. The visual content may remain mostly unchanged while the surrounding narrative mutates completely.
 
 Several technical changes happen during this process:
 
@@ -297,13 +297,13 @@ Several technical changes happen during this process:
 
 This is why chain-of-custody analysis in UFO investigation starts with chronology rather than spectacle. Investigators try to reconstruct the earliest known appearance of the footage before assessing what the object might be.
 
-The danger of losing source material is not theoretical. In its assessment of the well-known “GoFast” Navy footage, the US Department of Defense’s All-domain Anomaly Resolution Office stated that it relied on a publicly available FLIR copy because “the original file and its accompanying metadata are no longer available”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> Even in a military case with known institutional provenance, the loss of the original recording limited later analysis.
+The danger of losing source material is not theoretical. In its assessment of the well-known “GoFast” Navy footage, the US Department of Defense’s All-domain Anomaly Resolution Office stated that it relied on a publicly available FLIR copy because “the original file and its accompanying metadata are no longer available”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> Even in a military case with known institutional provenance, the loss of the original recording limited later analysis.
 
 For public UFO footage, the situation is usually much worse. The uploader may be anonymous, unreachable or impersonated by repost accounts. In some cases, the earliest surviving copy already contains edits.
 
 ## Reverse-searching frames across platforms
 
-There is still no universally reliable reverse-video search engine. Investigators therefore break videos into still frames and search those images individually. This approach, widely used in open-source intelligence and misinformation research, is one of the fastest ways to determine whether a “new” UFO clip actually circulated years earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gijn.org/resource/advanced-guide-on-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-snippet">GIJNAdvanced Guide on Verifying Video ContentThe first step in verifying video content is the same as verifying images — run a reverse im...</span></span></span>
+There is still no universally reliable reverse-video search engine. Investigators therefore break videos into still frames and search those images individually. This approach, widely used in open-source intelligence and misinformation research, is one of the fastest ways to determine whether a “new” UFO clip actually circulated years earlier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gijn.org/resource/advanced-guide-on-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video ContentThe first step in verifying video content is the same as verifying images — run a reverse im...</span></span></span>
 
 ### Why frame selection matters
 
@@ -322,10 +322,7 @@ Not every frame is equally useful. AI-assisted workflows usually prioritise fram
 
 </div>
 
-The most visually dramatic frame is often the least useful for provenance analysis. A glowing object against a black sky may generate no matches at all. A less dramatic frame showing rooftops, weather conditions or nearby lights can provide far stronger location clues.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mrNZNV8gXXM" title="How to use the InVID-WeVerify plugin to debunk disinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mrNZNV8gXXM" target="_blank" rel="noopener noreferrer">How to use the InVID-WeVerify plugin to debunk disinformation</a></p><p class="youtube-embed-meta">Channel: Medieklyngen &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mrNZNV8gXXM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mrNZNV8gXXM">Open on YouTube</a></p></div></div></div>
+The most visually dramatic frame is often the least useful for provenance analysis. A glowing object against a black sky may generate no matches at all. A less dramatic frame showing rooftops, [weather]({{ 'weather/' | relative_url }}) conditions or nearby lights can provide far stronger location clues.
 
 ### Keyframe extraction tools
 
@@ -362,9 +359,9 @@ This helps identify:
 
 </div>
 
-The technology is useful, but not definitive. Bellingcat and InVID both warn that reverse-image systems can produce misleading correlations if investigators treat visual similarity as proof of authenticity or proof of fakery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[Bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">guide to using reverse image search for investigations</span><span class="citation-popover-snippet">bellingcatGuide To Using Reverse Image Search For Investigations26 Dec 2019 — This guide will walk through detailed strategies to use rev...</span></span></span>
+The technology is useful, but not definitive. Bellingcat and InVID both warn that reverse-image systems can produce misleading correlations if investigators treat visual similarity as proof of authenticity or proof of fakery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[Bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">guide to using reverse image search for investigations</span><span class="citation-popover-snippet">Guide To Using Reverse Image Search For Investigations26 Dec 2019 — This guide will walk through detailed strategies to use rev...</span></span></span>
 
-A frame match only proves that visually similar media existed earlier. [Human review]({{ 'review/' | relative_url }}) is still required to establish whether the footage is genuinely recycled, independently recorded or simply resembles another event.
+A frame match only proves that visually similar media existed earlier. Human [review]({{ 'review/' | relative_url }}) is still required to establish whether the footage is genuinely recycled, independently recorded or simply resembles another event.
 
 ## What early uploads reveal about authenticity
 
@@ -404,7 +401,7 @@ If a video supposedly recorded during a midnight sighting first appeared online 
 Even approximate upload timing can help narrow candidate explanations. A low orange light near the horizon means something different during a documented SpaceX launch window than during ordinary night-time conditions.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mrNZNV8gXXM" title="How to use the InVID-WeVerify plugin to debunk disinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mrNZNV8gXXM" target="_blank" rel="noopener noreferrer">How to use the InVID-WeVerify plugin to debunk disinformation</a></p><p class="youtube-embed-meta">Channel: Medieklyngen &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mrNZNV8gXXM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mrNZNV8gXXM">Open on YouTube</a></p></div></div></div>
 
 ### Compression and editing clues
 
@@ -449,9 +446,6 @@ This creates a recurring category in UFO analysis: unresolved but weakly sourced
 
 That distinction is important. “Unresolved” does not automatically mean anomalous. Sometimes it simply means the chain of custody failed before investigators could preserve the [original evidence]({{ 'original-evidence/' | relative_url }}).
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NV4SxybVEWc" title="LINK! (feat. RXTKY)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer">LINK! (feat. RXTKY)</a></p><p class="youtube-embed-meta">Channel: Codet - Topic</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NV4SxybVEWc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NV4SxybVEWc">Open on YouTube</a></p></div></div></div>
-
 ## A practical workflow for tracing first uploads
 
 In AI-assisted UFO sighting investigation, provenance tracing usually follows a structured sequence rather than an open-ended internet search.
@@ -473,14 +467,14 @@ A typical workflow looks like this:
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Keeps the block relevant to public UFO evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -490,16 +484,16 @@ A typical workflow looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Fits source verification and resisting viral overclaiming.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -507,16 +501,16 @@ A typical workflow looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        
+        <p class="fr-book-desc">Matches repost chains and uncertain provenance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -524,16 +518,16 @@ A typical workflow looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Filmmaker&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zp4KMKwnYVoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Filmmaker&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Filmmaker&#x27;s Handbook">The Filmmaker&#x27;s Handbook</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Steven Ascher, Edward Pincus</p>
         
-        
+        <p class="fr-book-desc">Useful for understanding source media and transformations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Filmmaker%27s+Handbook+by+Steven+Ascher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -541,13 +535,13 @@ A typical workflow looks like this:
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -574,76 +568,72 @@ A typical workflow looks like this:
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera memory card on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20memory%20card%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Memory%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECard%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemory%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECard%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera memory card on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">camera memory card</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Memory</span><span class="fr-search-tag">Card</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera memory card" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-memory-card" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-alien-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=alien+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-alien-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien patch" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-alien-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=camera+memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=first-upload-can-you-still-find-the-original-ufo-upload-ai-assisted-ufo-sighting-investigation-camera-memory-card&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -701,10 +691,10 @@ A typical workflow looks like this:
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -722,7 +712,7 @@ A typical workflow looks like this:
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -871,220 +861,220 @@ The key lesson is simple: the first upload often contains more investigative val
 1. <a id="endnote-1"></a>
    Source: bellingcat.com  
    Title: guide to using reverse image search for investigations  
-   Link: [https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/](https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatGuide To Using Reverse Image Search For Investigations26 Dec 2019 — This guide will walk through detailed strategies to use rev...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2019/12/26/guide-to-using-reverse-image-search-for-investigations/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guide To Using Reverse Image Search For Investigations26 Dec 2019 — This guide will walk through detailed strategies to use rev...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: invid-project.eu  
-   Link: [https://www.invid-project.eu/tools-and-services/invid-verification-plugin/](https://www.invid-project.eu/tools-and-services/invid-verification-plugin/)  
+   Link: <a href="https://www.invid-project.eu/tools-and-services/invid-verification-plugin/" target="_blank" rel="noopener noreferrer nofollow">https://www.invid-project.eu/tools-and-services/invid-verification-plugin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>InVID projectInVID Verification PluginThe provided tools allow you to quickly get contextual information on Facebook and YouTube videos...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: aaro.mil  
    Title: [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</p></details>
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
    Title: UAP Imagery"Go Fast" Object, NAVAIR  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA: Case: &quot;GO FAST&quot; Video, Forward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: gijn.org  
-   Link: [https://gijn.org/resource/advanced-guide-on-verifying-video-content/](https://gijn.org/resource/advanced-guide-on-verifying-video-content/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GIJNAdvanced Guide on Verifying Video ContentThe first step in verifying video content is the same as verifying images — run a reverse im...</p></details>
+   Link: <a href="https://gijn.org/resource/advanced-guide-on-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/advanced-guide-on-verifying-video-content/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Guide on Verifying Video ContentThe first step in verifying video content is the same as verifying images — run a reverse im...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bellingcat.com  
    Title: advanced guide verifying video content  
-   Link: [https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/](https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/)  
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying images – run a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: weverify.eu  
-   Link: [https://weverify.eu/verification-plugin/](https://weverify.eu/verification-plugin/)  
+   Link: <a href="https://weverify.eu/verification-plugin/" target="_blank" rel="noopener noreferrer nofollow">https://weverify.eu/verification-plugin/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verification pluginThe InVID-WeVerify verification plugin is one of the most powerful tools for spotting misinformation online.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: invid-project.eu  
-   Link: [https://www.invid-project.eu/invid-verification-application/](https://www.invid-project.eu/invid-verification-application/)  
+   Link: <a href="https://www.invid-project.eu/invid-verification-application/" target="_blank" rel="noopener noreferrer nofollow">https://www.invid-project.eu/invid-verification-application/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The InVID Verification Application, an integrated tool for...The InVID Verification Application is a web-based integrated toolset for jo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: invid-project.eu  
-   Link: [https://www.invid-project.eu/tag/image-reverse-search/](https://www.invid-project.eu/tag/image-reverse-search/)  
+   Link: <a href="https://www.invid-project.eu/tag/image-reverse-search/" target="_blank" rel="noopener noreferrer nofollow">https://www.invid-project.eu/tag/image-reverse-search/</a>  
 
 10. <a id="endnote-10"></a>
    Source: invid-project.eu  
-   Link: [https://www.invid-project.eu/other-invid-technologies/](https://www.invid-project.eu/other-invid-technologies/)  
+   Link: <a href="https://www.invid-project.eu/other-invid-technologies/" target="_blank" rel="noopener noreferrer nofollow">https://www.invid-project.eu/other-invid-technologies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InVID tools and services for video analysis and rights...This experimental service allows the user to extract a set of representative ke...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: invid-project.eu  
    Title: In VI D Project  
-   Link: [https://www.invid-project.eu/](https://www.invid-project.eu/)  
+   Link: <a href="https://www.invid-project.eu/" target="_blank" rel="noopener noreferrer nofollow">https://www.invid-project.eu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InVID Project - Video VerificationThe InVID project develops a video verification platform to detect emerging stories and assess the reli...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: invid-project.eu  
-   Link: [https://www.invid-project.eu/tag/reverse-keyframe-search/](https://www.invid-project.eu/tag/reverse-keyframe-search/)  
+   Link: <a href="https://www.invid-project.eu/tag/reverse-keyframe-search/" target="_blank" rel="noopener noreferrer nofollow">https://www.invid-project.eu/tag/reverse-keyframe-search/</a>  
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/](https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>telemetry from the F/A-18F, AARO had to account for a range...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/](https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed UFO videos. Lawmakers insist that these recordings, still kept...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: ufo or drone involved in mid air collision with jet over florida remains in myst  
-   Link: [https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/](https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/)  
+   Link: <a href="https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or drone involved in mid-air collision with jet over...UFO or drone involved in mid-air collision with jet over Florida remains in m...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: bellingcat.com  
-   Title: a beginners guide to [social media](&#123;&#123; 'reposts/' | relative_url &#125;&#125;) verification  
-   Link: [https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)  
+   Title: a beginners guide to social media verification  
+   Link: <a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Social Media Verification01 Nov 2021 — The following guide seeks to explain how we can be vigilant about the videos...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: chromewebstore.google.com  
-   Link: [https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en](https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en)  
+   Link: <a href="https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>news debunker by InVID, WeVerify &amp; VeraAIThis toolbox allows you to quickly get contextual information on Facebook and Twitter images and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: chromewebstore.google.com  
-   Link: [https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=zh-tw](https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=zh-tw)  
+   Link: <a href="https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=zh-tw" target="_blank" rel="noopener noreferrer nofollow">https://chromewebstore.google.com/detail/fake-news-debunker-by-inv/mhccpoafgdgbhnjfhkcmgknndkeenfhe?hl=zh-tw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>news debunker InVID WeVerify VeraAIApr 13, 2026 — This plugin has been designed as a verification “Swiss army knife” helping journalists...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=mrNZNV8gXXM](https://www.youtube.com/watch?v=mrNZNV8gXXM)  
+   Link: <a href="https://www.youtube.com/watch?v=mrNZNV8gXXM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mrNZNV8gXXM</a>  
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: Reverse image search for video verification: Finding the original source  
-   Link: [https://www.youtube.com/watch?v=k4Y8U-p4UaU](https://www.youtube.com/watch?v=k4Y8U-p4UaU)  
+   Link: <a href="https://www.youtube.com/watch?v=k4Y8U-p4UaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4Y8U-p4UaU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to trace the origin of viral social media clips...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: youtube.com  
    Title: How to trace the origin of viral social media clips  
-   Link: [https://www.youtube.com/watch?v=3J5_p2y4_J4](https://www.youtube.com/watch?v=3J5_p2y4_J4)  
+   Link: <a href="https://www.youtube.com/watch?v=3J5_p2y4_J4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3J5_p2y4_J4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT techniques for tracking video provenance and repost chains...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
    Title: OSINT techniques for tracking video provenance and repost chains  
-   Link: [https://www.youtube.com/watch?v=Vp6c8Z9cT4w](https://www.youtube.com/watch?v=Vp6c8Z9cT4w)  
+   Link: <a href="https://www.youtube.com/watch?v=Vp6c8Z9cT4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vp6c8Z9cT4w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why metadata matters: Identifying the first upload of a video...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Why metadata matters: Identifying the first upload of a video  
-   Link: [https://www.youtube.com/watch?v=nO3_v5W1s-w](https://www.youtube.com/watch?v=nO3_v5W1s-w)  
+   Link: <a href="https://www.youtube.com/watch?v=nO3_v5W1s-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nO3_v5W1s-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital forensics: Verifying video history and avoiding misinformation...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Digital forensics: Verifying video history and avoiding misinformation  
-   Link: [https://www.youtube.com/watch?v=mD2_W3u8d9E](https://www.youtube.com/watch?v=mD2_W3u8d9E)  
+   Link: <a href="https://www.youtube.com/watch?v=mD2_W3u8d9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mD2_W3u8d9E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to trace the original source of viral videos OSINT Every OSINT Technique Explained in 5 Minutes Mr Ethical Hacker...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: citizenevidence.org  
    Title: how to use reverse image search for human rights investigations  
-   Link: [https://citizenevidence.org/2020/01/29/how-to-use-reverse-image-search-for-human-rights-investigations/](https://citizenevidence.org/2020/01/29/how-to-use-reverse-image-search-for-human-rights-investigations/)  
+   Link: <a href="https://citizenevidence.org/2020/01/29/how-to-use-reverse-image-search-for-human-rights-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/2020/01/29/how-to-use-reverse-image-search-for-human-rights-investigations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen Evidence LabHow to: Use Reverse Image Search for Human Rights...29 Jan 2020 — A reverse image search allows an investigator to s...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: citizenevidence.org  
    Title: how to use invid the swiss army knife of digital verification  
-   Link: [https://citizenevidence.org/2019/12/11/how-to-use-invid-the-swiss-army-knife-of-digital-verification/](https://citizenevidence.org/2019/12/11/how-to-use-invid-the-swiss-army-knife-of-digital-verification/)  
+   Link: <a href="https://citizenevidence.org/2019/12/11/how-to-use-invid-the-swiss-army-knife-of-digital-verification/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/2019/12/11/how-to-use-invid-the-swiss-army-knife-of-digital-verification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen Evidence LabHow to: Use InVid-WeVerify – the &#x27;Swiss Army Knife&#x27; of...11 Dec 2019 — It is built as a Swiss Army Knife for verific...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: bellingcat.gitbook.io  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/invid](https://bellingcat.gitbook.io/toolkit/more/all-tools/invid)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BellingcatInVID | Bellingcat&#x27;s Online Investigation Toolkit1 Feb 2026 — InVID provides tools for analyzing video authenticity by examinin...</p></details>
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/invid" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/invid</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>InVID | Bellingcat&#x27;s Online Investigation Toolkit1 Feb 2026 — InVID provides tools for analyzing video authenticity by examinin...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: bellingcat.gitbook.io  
    Title: io Reverse Image Search  
-   Link: [https://bellingcat.gitbook.io/toolkit/categories/image-video/reverse-image-search](https://bellingcat.gitbook.io/toolkit/categories/image-video/reverse-image-search)  
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/categories/image-video/reverse-image-search" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/categories/image-video/reverse-image-search</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Image Search - Bellingcat&#x27;s Online Investigation Toolkit07 Jun 2025 — This standalone application can be used to do a reverse image searc...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: archive.comsuregroup.com  
    Title: Bellingcats Digital Toolkit  
-   Link: [https://archive.comsuregroup.com/wp-content/uploads/2018/06/Bellingcats-Digital-Toolkit.pdf](https://archive.comsuregroup.com/wp-content/uploads/2018/06/Bellingcats-Digital-Toolkit.pdf)  
+   Link: <a href="https://archive.comsuregroup.com/wp-content/uploads/2018/06/Bellingcats-Digital-Toolkit.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.comsuregroup.com/wp-content/uploads/2018/06/Bellingcats-Digital-Toolkit.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>comsuregroup.comBellingcat&#x27;s Digital ToolkitReveal Image. Verification. Assistant. Forensic providing eight filters to detect still image...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: benedmo.eu  
    Title: bellingcats factcheck starter pack  
-   Link: [https://benedmo.eu/2023/12/15/bellingcats-factcheck-starter-pack/](https://benedmo.eu/2023/12/15/bellingcats-factcheck-starter-pack/)  
+   Link: <a href="https://benedmo.eu/2023/12/15/bellingcats-factcheck-starter-pack/" target="_blank" rel="noopener noreferrer nofollow">https://benedmo.eu/2023/12/15/bellingcats-factcheck-starter-pack/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bellingcat&#x27;s Factcheck Starter Pack15 Dec 2023 — This tool can also be used to translate text in a picture. A reverse image search is an...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: slideshare.net  
-   Link: [https://www.slideshare.net/slideshow/presentation-of-the-invid-verification-plugin/84167474](https://www.slideshare.net/slideshow/presentation-of-the-invid-verification-plugin/84167474)  
+   Link: <a href="https://www.slideshare.net/slideshow/presentation-of-the-invid-verification-plugin/84167474" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/presentation-of-the-invid-verification-plugin/84167474</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Presentation of the InVID Verification Plugin | PDFIt provides tools like a browser plugin for Chrome and Firefox that allows journalists...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: github.com  
-   Link: [https://github.com/invideu/invid-verification-plugin](https://github.com/invideu/invid-verification-plugin)  
+   Link: <a href="https://github.com/invideu/invid-verification-plugin" target="_blank" rel="noopener noreferrer nofollow">https://github.com/invideu/invid-verification-plugin</a>  
 
 33. <a id="endnote-33"></a>
    Source: medium.com  
    Title: top 10 osint tools for image and video verification in 2025 139f06458172  
-   Link: [https://medium.com/%40VerifyHQ/top-10-osint-tools-for-image-and-video-verification-in-2025-139f06458172](https://medium.com/%40VerifyHQ/top-10-osint-tools-for-image-and-video-verification-in-2025-139f06458172)  
+   Link: <a href="https://medium.com/%40VerifyHQ/top-10-osint-tools-for-image-and-video-verification-in-2025-139f06458172" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40VerifyHQ/top-10-osint-tools-for-image-and-video-verification-in-2025-139f06458172</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 10 OSINT Tools for Image and Video Verification in 2025A browser extension designed for video and image verification, InVID &amp; WeVerif...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: datasociety.net  
-   Link: [https://datasociety.net/wp-content/uploads/2020/03/How-To-Verify-Online-Census-Media-final.pdf](https://datasociety.net/wp-content/uploads/2020/03/How-To-Verify-Online-Census-Media-final.pdf)  
+   Link: <a href="https://datasociety.net/wp-content/uploads/2020/03/How-To-Verify-Online-Census-Media-final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://datasociety.net/wp-content/uploads/2020/03/How-To-Verify-Online-Census-Media-final.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Verify Online Census MediaRun a reverse image search, which can find identical copies of an image, organized by date and site. You can fi...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: pen.org  
-   Link: [https://pen.org/disinformation/facts-forward/detecting-disinformation-how-to-use-online-verification-and-bot-detection-tools-to-spot-disinformation/](https://pen.org/disinformation/facts-forward/detecting-disinformation-how-to-use-online-verification-and-bot-detection-tools-to-spot-disinformation/)  
+   Link: <a href="https://pen.org/disinformation/facts-forward/detecting-disinformation-how-to-use-online-verification-and-bot-detection-tools-to-spot-disinformation/" target="_blank" rel="noopener noreferrer nofollow">https://pen.org/disinformation/facts-forward/detecting-disinformation-how-to-use-online-verification-and-bot-detection-tools-to-spot-disinformation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting Disinformation: How to Use Online Verification...InVID offers a variety of options for analyzing the image or video...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: craftingpersuasion.com  
    Title: Social Media Online Investigation Tools Bellingcat June 2019  
-   Link: [https://www.craftingpersuasion.com/wp-content/uploads/2019/06/Social-Media-Online-Investigation-Tools-Bellingcat-June-2019.pdf](https://www.craftingpersuasion.com/wp-content/uploads/2019/06/Social-Media-Online-Investigation-Tools-Bellingcat-June-2019.pdf)  
+   Link: <a href="https://www.craftingpersuasion.com/wp-content/uploads/2019/06/Social-Media-Online-Investigation-Tools-Bellingcat-June-2019.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.craftingpersuasion.com/wp-content/uploads/2019/06/Social-Media-Online-Investigation-Tools-Bellingcat-June-2019.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This standalone application can be used to do a reverse image search on a large collection of images. robots...Read more...</p></details>
    Published: June 2019  
 
 37. <a id="endnote-37"></a>
    Source: firstdraftnews.org  
    Title: Page 2. FIRST DRAFT VACCINE INSIGHTS STUDY COMPANION.Read more  
-   Link: [https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf](https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf)  
+   Link: <a href="https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2021/03/First-Draft-Vaccine-Insights-Flexible-Learning-Course-6.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tips and tricks for verifying images and videos, and a look at...Tips and tricks for verifying images and videos, and a look at how they...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: factspace.org  
    Title: How to use In VID to verify videos  
-   Link: [https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/](https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/)  
+   Link: <a href="https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/" target="_blank" rel="noopener noreferrer nofollow">https://factspace.org/how-to-use-invid-to-verify-videos-a-step-by-step-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to use InVID to verify videos - A step-by-step guide20 Jun 2025 — Step 1: Install the InVID &amp; WeVerify Plugin · Step 2: Open the InVI...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: cedmohub.eu  
    Title: invid weverify verification plugin  
-   Link: [https://cedmohub.eu/invid-weverify-verification-plugin/](https://cedmohub.eu/invid-weverify-verification-plugin/)  
+   Link: <a href="https://cedmohub.eu/invid-weverify-verification-plugin/" target="_blank" rel="noopener noreferrer nofollow">https://cedmohub.eu/invid-weverify-verification-plugin/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>InVID-WeVerify verification plugin21 Apr 2022 — This toolbox allows you to quickly get contextual information on Facebook and Twitter ima...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: firstdraftnews.org  
-   Link: [https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf](https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf)  
+   Link: <a href="https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf" target="_blank" rel="noopener noreferrer nofollow">https://firstdraftnews.org/wp-content/uploads/2017/03/FDN_verificationguide_photos.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It came in via an anonymous email or chat app number.Read more...</p></details>

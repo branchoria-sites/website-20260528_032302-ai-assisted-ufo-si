@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /timeline/
 nav_short_title: Weather layers
 title: How weather can reshape a sighting
-title_full: How weather can reshape a sighting | Timeline
+title_full: How weather can reshape a sighting
 display_title_short: Weather layers
 display_title: Weather layers
 heading_title: How weather can reshape a sighting
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What Else Was Happening During the Sighting? | UFO Case AI
+parent_title: What Else Was Happening During the Sighting?
 parent_permalink: /timeline/
 parent_nav_short_title: Timeline
 parent_heading_title: What Else Was Happening During the Sighting?
@@ -279,7 +279,7 @@ prev_link:
   permalink: /video-timeline/
   short_title: Video timeline
   heading_title: What the video really shows
-date: '2026-06-08 22:58:42 '
+date: '2026-06-10 19:51:57 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-1.webp
@@ -288,17 +288,17 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b6
 
 ## Introduction
 
-[Weather]({{ 'weather/' | relative_url }}) is not background scenery in a UFO investigation. It can decide whether a reported object was even visible, whether its apparent movement makes physical sense, and whether a mundane explanation becomes stronger or weaker. A bright object behind thin cloud can appear to pulse or change shape. A balloon drifting at high altitude may move in a completely different direction from surface wind. A temperature inversion can bend light and distort distant objects into [hovering]({{ 'wind-checks/' | relative_url }}) shapes. Haze can make lights appear farther away, slower, larger, or strangely suspended.
+[Weather]({{ 'weather/' | relative_url }}) is not background scenery in a UFO investigation. It can decide whether a reported object was even visible, whether its apparent movement makes physical sense, and whether a mundane explanation becomes stronger or weaker. A bright object behind thin cloud can appear to pulse or change shape. A balloon drifting at high altitude may move in a completely different direction from surface wind. A temperature inversion can bend light and distort distant objects into hovering shapes. Haze can make lights appear farther away, slower, larger, or strangely suspended.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-1-dark.svg" | relative_url }}" alt="Weather layers illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI timeline reconstruction, weather therefore becomes a layered evidence problem rather than a simple “clear skies” or “cloudy” label. A useful reconstruction compares witness statements with cloud cover, visibility, upper-air wind, humidity, fog formation, pressure changes, and local [atmospheric]({{ 'scintillation/' | relative_url }}) optics during the exact sighting window. The goal is not to dismiss reports automatically. It is to test whether the reported behaviour matches known environmental effects, and to identify cases where weather conditions either strongly support or weaken conventional explanations.
+For AI timeline reconstruction, weather therefore becomes a layered evidence problem rather than a simple “clear skies” or “cloudy” label. A useful reconstruction compares witness statements with cloud cover, visibility, upper-air wind, humidity, fog formation, pressure changes, and local atmospheric optics during the exact sighting window. The goal is not to dismiss reports automatically. It is to test whether the reported behaviour matches known environmental effects, and to identify cases where weather conditions either strongly support or weaken conventional explanations.
 
 ## Cloud breaks, haze, and changing visibility
 
 Many UFO reports depend on transitions rather than stable conditions. Witnesses often describe objects “appearing suddenly”, “vanishing instantly”, or “hovering in and out”. In practice, these descriptions frequently line up with changing visibility layers.
 
-Thin cloud and broken cloud can dramatically alter brightness perception. Aircraft landing lights, planets, helicopters, or satellites may become visible only through temporary gaps in cloud cover. When clouds thicken again, the same object may seem to disappear unnaturally. In a timeline reconstruction, AI systems can compare the reported appearance and disappearance times against cloud movement from satellite imagery and local weather observations.
+Thin cloud and broken cloud can dramatically alter brightness perception. [Aircraft]({{ 'aircraft/' | relative_url }}) [landing lights]({{ 'landing-lights/' | relative_url }}), planets, helicopters, or satellites may become visible only through temporary gaps in cloud cover. When clouds thicken again, the same object may seem to disappear unnaturally. In a timeline reconstruction, AI systems can compare the reported appearance and disappearance times against cloud movement from satellite imagery and local weather observations.
 
 Haze is particularly important because it changes depth and distance perception. Aviation safety guidance repeatedly notes that atmospheric haze can make objects appear farther away and higher than they really are. <span class="citation-chip-wrap"><a class="citation-chip" href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learntoflyblog.com">[Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learntoflyblog.com</span><span class="citation-popover-snippet">Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — Atmospheric haze can create an illusion of being at a greate...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldmethod.com">[Boldmethod In a UFO context]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldmethod.com</span><span class="citation-popover-title">8 optical illusions pilots should understand</span><span class="citation-popover-snippet">According to the FAA, &quot;atmospheric haze can create an illusion of being at a greater distance and height from the runway. As a...Read more...</span></span></span>, that distortion matters because witnesses often estimate speed and size from apparent distance. A distant aircraft seen through haze may appear stationary for long periods, then suddenly accelerate once perspective changes.
 
@@ -332,7 +332,7 @@ This is one reason AI timeline reconstruction benefits from geographic modelling
 
 One of the most common mistakes in sighting analysis is assuming that a balloon must follow the wind felt by the witness on the ground. In reality, wind direction and speed often change substantially with altitude.
 
-A witness may report calm conditions while a weather balloon, advertising balloon, or drifting object moves rapidly hundreds or thousands of feet above. Temperature [inversions]({{ 'inversions/' | relative_url }}) are especially important here because they can separate stable surface air from stronger upper-level flow. NOAA and aviation weather guidance describe inversions as boundaries where warmer air overlays cooler air, often trapping haze and separating wind layers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/skew-t-plots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">skew t plots</span><span class="citation-popover-snippet">NOAASkew-T Plots28 Mar 2023 — When the normal temperature decrease is &quot;inverted&quot; and the temperature increases with height, this is calle...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</span></span></span>
+A witness may report calm conditions while a weather balloon, advertising balloon, or drifting object moves rapidly hundreds or thousands of feet above. Temperature [inversions]({{ 'inversions/' | relative_url }}) are especially important here because they can separate stable surface air from stronger upper-level flow. NOAA and aviation weather guidance describe inversions as boundaries where warmer air overlays cooler air, often trapping haze and separating wind layers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/skew-t-plots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">skew t plots</span><span class="citation-popover-snippet">Skew-T Plots28 Mar 2023 — When the normal temperature decrease is &quot;inverted&quot; and the temperature increases with height, this is calle...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</span></span></span>
 
 This matters because many UFO reports involve claims such as:
 
@@ -348,7 +348,7 @@ This matters because many UFO reports involve claims such as:
 
 Without upper-air data, these claims can be misleading. A balloon may appear stationary when moving directly toward or away from the observer. It may also cross from one wind layer into another and seem to turn sharply without propulsion.
 
-AI reconstruction systems can reduce these errors by incorporating:
+[AI reconstruction]({{ 'ai-reconstruction/' | relative_url }}) systems can reduce these errors by incorporating:
 
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -370,7 +370,7 @@ Terrain is frequently overlooked. Valleys, coastlines, hills, and urban heat isl
 
 Temperature inversions also influence sound and light propagation. Stable air layers can trap light distortions and reduce visual cues needed for judging movement. They may even alter how aircraft sound travels, making distant helicopters or jets seem strangely silent.
 
-Some inversion conditions create superior mirages known as Fata Morgana effects. These occur when light bends through layered air with different temperatures, producing distorted or elevated images. Aviation safety references describe how inversions can cause distant objects to appear suspended above the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryFata Morgana | SKYbrary Aviation SafetySuperior Mirage. A superior mirage occurs when there is a temperature inversion; the air b...</span></span></span>
+Some inversion conditions create superior mirages known as Fata Morgana effects. These occur when light bends through layered air with different temperatures, producing distorted or elevated images. Aviation safety references describe how inversions can cause distant objects to appear suspended above the horizon. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetySuperior Mirage. A superior mirage occurs when there is a temperature inversion; the air b...</span></span></span>
 
 Historically, some UFO reports over water, deserts, or polar regions have later been linked to mirage-like atmospheric conditions. The important point for investigators is not that every unusual sighting is a mirage, but that inversion layers can create visually convincing distortions under the right geometry.
 
@@ -389,22 +389,27 @@ An AI system can flag these conditions by checking:
 
 ## Weather effects that distort motion and shape
 
-Human perception becomes less reliable when visual references disappear. Aviation safety literature repeatedly warns that fog, darkness, haze, and low contrast conditions create optical illusions and spatial disorientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...By using visual references, the pilot can gather information about distance, speed, and depth. Any conditio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">10% of all general aviation accidents can be attributed to spatial disorientation, and 90% of these accidents are fatal.Read more...</span></span></span> Skybrary These effects overlap closely with many UFO descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryFata Morgana | SKYbrary Aviation SafetySuperior Mirage. A superior mirage occurs when there is a temperature inversion; the air b...</span></span></span>
+Human perception becomes less reliable when visual references disappear. Aviation safety literature repeatedly warns that fog, darkness, haze, and low contrast conditions create optical illusions and spatial disorientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...By using visual references, the pilot can gather information about distance, speed, and depth. Any conditio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">10% of all general aviation accidents can be attributed to spatial disorientation, and 90% of these accidents are fatal.Read more...</span></span></span> Skybrary These effects overlap closely with many UFO descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetySuperior Mirage. A superior mirage occurs when there is a temperature inversion; the air b...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-2-dark.svg" | relative_url }}" alt="Weather layers illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Autokinesis and stationary lights
 
-Autokinesis is a well-known night-time illusion where a stationary light appears to move when stared at against a dark background. Pilots and observers may perceive drifting, zig-zagging, or hovering motion even though the object itself remains fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">MediumIt&#x27;s a Confusing World Up There. The Specifics of Spatial...Spatial disorientation can also be caused by visual illusions. Your mi...</span></span></span>
+Autokinesis is a well-known night-time illusion where a stationary light appears to move when stared at against a dark background. Pilots and observers may perceive drifting, zig-zagging, or hovering motion even though the object itself remains fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">It&#x27;s a Confusing World Up There. The Specifics of Spatial...Spatial disorientation can also be caused by visual illusions. Your mi...</span></span></span>
 
 In UFO investigations, this becomes relevant when witnesses describe:
 
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
 * Sudden darting motion
 * Small erratic movements
-* Hovering lights that “reacted” to [observation]({{ 'observation-vs-claim/' | relative_url }})
+* Hovering lights that “reacted” to observation
 * Objects weaving in place
 
-An AI-assisted case review can compare the witness viewing conditions against known autokinesis triggers:
+</div>
+
+An AI-assisted case [review]({{ 'review/' | relative_url }}) can compare the witness viewing conditions against known autokinesis triggers:
 
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -425,22 +430,17 @@ This does not invalidate witness sincerity. It simply identifies conditions wher
 
 ### Fog and apparent disappearance
 
-Fog can rapidly erase depth cues. Aviation guidance notes that entering shallow fog layers changes perceived orientation and visibility dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">SkybraryVisual Illusions AwarenessEntering a fog layer also creates the perception of a pitch up, thus inducing a tendency to push over a...</span></span></span>
+Fog can rapidly erase depth cues. Aviation guidance notes that entering shallow fog layers changes perceived orientation and visibility dramatically. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions AwarenessEntering a fog layer also creates the perception of a pitch up, thus inducing a tendency to push over a...</span></span></span>
 
 For UFO reconstruction, fog matters because it can produce seemingly impossible disappearance events. An object descending into mist may appear to blink out instantly. A light behind patchy fog may pulse or fragment into multiple points.
 
 This becomes especially confusing in phone footage. Consumer cameras constantly adjust exposure and focus in low-contrast conditions. AI reconstruction should therefore compare witness claims with:
-
-
-<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Fog density estimates
 * Relative humidity
 * Camera exposure changes
 * Light bloom artefacts
 * Frame-by-frame brightness shifts
-
-</div>
 
 ### Flat light and loss of scale
 
@@ -525,16 +525,16 @@ That distinction matters because weather can either explain away apparent anomal
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Explains atmospheric effects relevant to UFO sightings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -542,16 +542,16 @@ That distinction matters because weather can either explain away apparent anomal
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Jack Williams</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for reconstructing conditions during sightings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -559,16 +559,16 @@ That distinction matters because weather can either explain away apparent anomal
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        
+        <p class="fr-book-desc">Explains cloud effects that often alter perceptions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -576,16 +576,16 @@ That distinction matters because weather can either explain away apparent anomal
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        
+        <p class="fr-book-desc">Supports weather-informed sky observation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -593,13 +593,13 @@ That distinction matters because weather can either explain away apparent anomal
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -626,76 +626,72 @@ That distinction matters because weather can either explain away apparent anomal
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=barometer+wall+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-barometer-wall-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="barometer wall decor" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-barometer-wall-decor" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open barometer wall decor on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20barometer%20wall%20decor%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EBarometer%20Wall%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDecor%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EBarometer%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%3Crect%20x%3D%22153%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22163%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDecor%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for barometer wall decor on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">barometer wall decor</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Barometer</span><span class="fr-search-tag">Wall</span><span class="fr-search-tag">Decor</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=barometer+wall+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-barometer-wall-decor&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="barometer wall decor" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-barometer-wall-decor" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=storm+tracker+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-storm-tracker-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm tracker radio" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-storm-tracker-radio" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open storm tracker radio on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20storm%20tracker%20radio%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EStorm%20Tracker%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERadio%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EStorm%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETracker%3C%2Ftext%3E%3Crect%20x%3D%22142%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22152%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERadio%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for storm tracker radio on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">storm tracker radio</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Storm</span><span class="fr-search-tag">Tracker</span><span class="fr-search-tag">Radio</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=storm+tracker+radio&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-storm-tracker-radio&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm tracker radio" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-storm-tracker-radio" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=cloud+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-cloud-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster -book -books" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-cloud-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open cloud poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20cloud%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECloud%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECloud%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for cloud poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">cloud poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Cloud</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=cloud+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-cloud-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud poster -book -books" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-cloud-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=meteorology+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-meteorology-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology sign" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-meteorology-sign" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open meteorology sign on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20meteorology%20sign%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMeteorology%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESign%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMeteorology%3C%2Ftext%3E%3Crect%20x%3D%22114%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22124%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESign%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for meteorology sign on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">meteorology sign</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Meteorology</span><span class="fr-search-tag">Sign</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=meteorology+sign&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-meteorology-sign&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorology sign" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-meteorology-sign" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=barometer+wall+decor&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=weather-layers-how-weather-can-reshape-a-sighting-ai-assisted-ufo-sighting-investigation-barometer-wall-decor&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -753,10 +749,10 @@ That distinction matters because weather can either explain away apparent anomal
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -774,7 +770,7 @@ That distinction matters because weather can either explain away apparent anomal
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -910,158 +906,158 @@ That distinction matters because weather can either explain away apparent anomal
 1. <a id="endnote-1"></a>
    Source: boldmethod.com  
    Title: 8 optical illusions pilots should understand  
-   Link: [https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/](https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/)  
+   Link: <a href="https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/blog/lists/2025/04/8-optical-illusions-pilots-should-understand/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the FAA, &quot;atmospheric haze can create an illusion of being at a greater distance and height from the runway. As a...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: noaa.gov  
    Title: skew t plots  
-   Link: [https://www.noaa.gov/jetstream/upperair/skew-t-plots](https://www.noaa.gov/jetstream/upperair/skew-t-plots)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAASkew-T Plots28 Mar 2023 — When the normal temperature decrease is &quot;inverted&quot; and the temperature increases with height, this is calle...</p></details>
+   Link: <a href="https://www.noaa.gov/jetstream/upperair/skew-t-plots" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/skew-t-plots</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skew-T Plots28 Mar 2023 — When the normal temperature decrease is &quot;inverted&quot; and the temperature increases with height, this is calle...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Inversion_%28meteorology%29](https://en.wikipedia.org/wiki/Inversion_%28meteorology%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Inversion_%28meteorology%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inversion (meteorology)In meteorology, an inversion (or temperature inversion) is a phenomenon in which a layer of warmer air overlies...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/fata-morgana](https://skybrary.aero/articles/fata-morgana)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryFata Morgana | SKYbrary Aviation SafetySuperior Mirage. A superior mirage occurs when there is a temperature inversion; the air b...</p></details>
+   Link: <a href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/fata-morgana</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana | SKYbrary Aviation SafetySuperior Mirage. A superior mirage occurs when there is a temperature inversion; the air b...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Spatial Disorientation: Visual Illusions  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10% of all general aviation accidents can be attributed to spatial disorientation, and 90% of these accidents are fatal.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/177.pdf](https://skybrary.aero/sites/default/files/bookshelf/177.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SkybraryVisual Illusions AwarenessEntering a fog layer also creates the perception of a pitch up, thus inducing a tendency to push over a...</p></details>
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessEntering a fog layer also creates the perception of a pitch up, thus inducing a tendency to push over a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b](https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MediumIt&#x27;s a Confusing World Up There. The Specifics of Spatial...Spatial disorientation can also be caused by visual illusions. Your mi...</p></details>
+   Link: <a href="https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>It&#x27;s a Confusing World Up There. The Specifics of Spatial...Spatial disorientation can also be caused by visual illusions. Your mi...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: ncei.noaa.gov  
    Title: dataset search  
-   Link: [https://www.ncei.noaa.gov/access/search/dataset-search](https://www.ncei.noaa.gov/access/search/dataset-search)  
+   Link: <a href="https://www.ncei.noaa.gov/access/search/dataset-search" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/search/dataset-search</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Search | National Centers for Environmental...This dataset includes five-minute reports with elements for wind speed and direction, visi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: vos.noaa.gov  
-   Link: [https://www.vos.noaa.gov/ObsHB-508/ObservingHandbook1_2010_508_compliant.pdf](https://www.vos.noaa.gov/ObsHB-508/ObservingHandbook1_2010_508_compliant.pdf)  
+   Link: <a href="https://www.vos.noaa.gov/ObsHB-508/ObservingHandbook1_2010_508_compliant.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.vos.noaa.gov/ObsHB-508/ObservingHandbook1_2010_508_compliant.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Code Symbols with Range of Values1 (NWSOH1) explains how to observe, how to code, and how to transmit weather observations from moving sh...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>moke reduces the light intensity arriving at the...Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: faa.gov  
    Title: FAA H 8083 28 Order 8083.28  
-   Link: [https://www.faa.gov/documentLibrary/media/Order/FAA-H-8083-28_Order_8083.28.pdf](https://www.faa.gov/documentLibrary/media/Order/FAA-H-8083-28_Order_8083.28.pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Weather Handbook 202225 Nov 2022 — This handbook consolidates the weather information from the [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) advisory circulars (AC)...</p></details>
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Order/FAA-H-8083-28_Order_8083.28.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Order/FAA-H-8083-28_Order_8083.28.pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Weather Handbook 202225 Nov 2022 — This handbook consolidates the weather information from the following advisory circulars (AC)...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA review of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/taking-the-fright-out-of-rotorcraft-night-flight-01ed87194c75](https://medium.com/faa/taking-the-fright-out-of-rotorcraft-night-flight-01ed87194c75)  
+   Link: <a href="https://medium.com/faa/taking-the-fright-out-of-rotorcraft-night-flight-01ed87194c75" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/taking-the-fright-out-of-rotorcraft-night-flight-01ed87194c75</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking the Fright Out of Rotorcraft Night FlightThreats such as reduced visibility, altered depth perception, and diminished spatial awar...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Fata Morgana (mirage)  
-   Link: [https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29](https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fata Morgana (mirage)Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: weather.gov  
    Title: Full Weather Glossary CALM  
-   Link: [https://www.weather.gov/otx/full_weather_glossary](https://www.weather.gov/otx/full_weather_glossary)  
+   Link: <a href="https://www.weather.gov/otx/full_weather_glossary" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/otx/full_weather_glossary</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Weather GlossaryCALM - the absence of apparent motion in the air. CAP - Temperature inversion which prevents convection from occurri...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: learntoflyblog.com  
-   Link: [https://learntoflyblog.com/human-factors-optical-illusions/](https://learntoflyblog.com/human-factors-optical-illusions/)  
+   Link: <a href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://learntoflyblog.com/human-factors-optical-illusions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — Atmospheric haze can create an illusion of being at a greate...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: community.wmo.int  
    Title: World Meteorological Organization Aviation  
-   Link: [https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud](https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud)  
+   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/aviation/aviation-hazards-low-visibility-and-low-cloud</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When a pilot is flying above a low-level haze layer (which...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: faasafety.gov  
    Title: FAA Safety Your Senses in the Shadows  
-   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
+   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...By using visual references, the pilot can gather information about distance, speed, and depth. Any conditio...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: faasafety.gov  
    Title: FAA Safety Library Contents  
-   Link: [https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6844](https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6844)  
+   Link: <a href="https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6844" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/gslac/alc/libview_normal.aspx?id=6844</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA SafetyLibrary Contents - FAA - FAASTeamThe change in light conditions created flat light. This lack of definition on the shaded side...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions](https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions)  
+   Link: <a href="https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing, Vision, Spatial Disorientation, and Visual Illusions4 Feb 2026 — This paper examines the critical flight physiological factors t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility](https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility)  
+   Link: <a href="https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Obstructions To VisibilityUnderstanding obstructions to visibility helps pilots recognize how phenomena such as fog, haze, smoke, and pre...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: cnes-geipan.fr  
-   Link: [https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf](https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf)  
+   Link: <a href="https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cnes-geipan.fr/sites/default/files/Aids_to_identification_of_flying_objects_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aids to identification of flying objectsAbout the only pattern noted, other than seasonal changes in the number of sightings, is that UFO...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: flightsafety.org  
-   Link: [https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf](https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf)  
+   Link: <a href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsThe absence of visual references in the pilot&#x27;s near vision affect...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: spaceweather.gov  
-   Link: [https://www.spaceweather.gov/](https://www.spaceweather.gov/)  
+   Link: <a href="https://www.spaceweather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Homepage | NOAA / NWS Space Weather Prediction CenterHome · About Space Weather · Impacts · Electric Power Transmission · GPS Systems · H...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: flyaeroguard.com  
-   Link: [https://www.flyaeroguard.com/learning-center/visual-illusions/](https://www.flyaeroguard.com/learning-center/visual-illusions/)  
+   Link: <a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A narrower than usual runway can create the illusion that the aircraft is in a higher altitude than it actually is.Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: epa.gov  
-   Link: [https://www.epa.gov/sites/default/files/2020-10/documents/mmgrma_0.pdf](https://www.epa.gov/sites/default/files/2020-10/documents/mmgrma_0.pdf)  
+   Link: <a href="https://www.epa.gov/sites/default/files/2020-10/documents/mmgrma_0.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/sites/default/files/2020-10/documents/mmgrma_0.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This document updates the June 1987 EPA document, &quot;On-Site Meteorological Program. Guidance for Regulatory Modeling Applications&quot;, EPA-45...</p></details>
    Published: June 1987  
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ueen-XMx3dw](https://www.youtube.com/watch?v=ueen-XMx3dw)  
+   Link: <a href="https://www.youtube.com/watch?v=ueen-XMx3dw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ueen-XMx3dw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Encountering Haze During VFR FlightIf a VFR pilot encounters haze the conventional advice is to climb to get on top of the haze for impro...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/i0f0cn/why_does_haze_have_different_effects_on_visual/](https://www.reddit.com/r/flying/comments/i0f0cn/why_does_haze_have_different_effects_on_visual/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/i0f0cn/why_does_haze_have_different_effects_on_visual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/i0f0cn/why_does_haze_have_different_effects_on_visual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In one case you&#x27;re more looking at vertical distance, in the other you&#x27;re looking at horizontal...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: community.wmo.int  
    Title: int Guide to Instruments and Methods of Observation (WMO-No  
-   Link: [https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8](https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8)  
+   Link: <a href="https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/site/knowledge-hub/programmes-and-initiatives/instruments-and-methods-of-observation-programme-imop/guide-instruments-and-methods-of-observation-wmo-no-8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>8)LATEST VERSION OF THE WMO-No. 8; Chapter 2, Measurement of temperature; Chapter 3, Measurement of atmospheric pressure; Chapter 4, M...</p></details>

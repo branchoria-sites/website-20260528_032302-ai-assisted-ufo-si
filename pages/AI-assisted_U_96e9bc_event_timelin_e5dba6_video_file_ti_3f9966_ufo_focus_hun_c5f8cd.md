@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /video-timeline/
 nav_short_title: Focus Errors
 title: Did The UFO Change Shape Or Did Focus Fail
-title_full: Did The UFO Change Shape Or Did Focus Fail | Video timeline
+title_full: Did The UFO Change Shape Or Did Focus Fail
 display_title_short: Focus Errors
 display_title: Focus Errors
 heading_title: Did The UFO Change Shape Or Did Focus Fail
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What the video really shows | Timeline
+parent_title: What the video really shows
 parent_permalink: /video-timeline/
 parent_nav_short_title: Video timeline
 parent_heading_title: What the video really shows
@@ -260,7 +260,7 @@ next_link:
   permalink: /parallel-timelines/
   short_title: Parallel Timelines
   heading_title: Why Witness Memory And File History Diverge
-date: '2026-06-08 23:58:40 '
+date: '2026-06-10 20:27:12 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f
 
 ## Introduction
 
-Many UFO videos that appear to show a glowing object changing shape are actually showing a camera losing focus. A distant point light can turn into a pulsing orb, a ring, a triangular craft, or a structured-looking object once a phone camera zooms in and [autofocus]({{ 'focus-blur/' | relative_url }}) starts hunting in low light. This effect is especially common in night recordings involving planets, [aircraft]({{ 'aircraft/' | relative_url }}) lights, drones, stars, or bright street-level sources viewed at long distance.
+Many UFO videos that appear to show a glowing object changing shape are actually showing a camera losing focus. A distant point light can turn into a pulsing orb, a ring, a triangular craft, or a structured-looking object once a phone camera zooms in and autofocus starts hunting in low light. This effect is especially common in night recordings involving planets, [aircraft]({{ 'aircraft/' | relative_url }}) lights, drones, stars, or bright street-level sources viewed at long distance.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1-dark.svg" | relative_url }}" alt="Focus Errors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -326,7 +326,7 @@ Night-sky photographers regularly disable autofocus for this reason. Guidance fo
 
 ## Why UFO Videos Often Look More Structured Than The Eye Saw
 
-Witnesses frequently report that the object looked simpler in person than it appears on video playback. This is not necessarily inconsistency or deception. Human vision and [smartphone]({{ 'phone-cameras/' | relative_url }}) imaging behave very differently at night.
+Witnesses frequently report that the object looked simpler in person than it appears on video playback. This is not necessarily inconsistency or deception. Human vision and smartphone imaging behave very differently at night.
 
 The human eye has limited night detail resolution and naturally stabilises perception. A phone camera, by contrast, stacks together:
 
@@ -343,11 +343,11 @@ The human eye has limited night detail resolution and naturally stabilises perce
 
 </div>
 
-Those systems can exaggerate patterns that never existed in the [original]({{ 'original-evidence/' | relative_url }}) scene. Research into synthetic bokeh and AI-assisted autofocus in mobile imaging demonstrates how much modern devices computationally manipulate focus and blur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.05698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Rendering Natural Camera Bokeh Effect with Deep Learning</span><span class="citation-popover-snippet">arXivRendering Natural Camera Bokeh Effect with Deep LearningJune 10, 2020...</span><span class="citation-popover-meta">Published: June 10, 2020</span></span></span>
+Those systems can exaggerate patterns that never existed in the [original]({{ 'original-evidence/' | relative_url }}) scene. Research into synthetic bokeh and AI-assisted autofocus in mobile imaging demonstrates how much modern devices computationally manipulate focus and blur. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2006.05698" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Rendering Natural Camera Bokeh Effect with Deep Learning</span><span class="citation-popover-snippet">Rendering Natural Camera Bokeh Effect with Deep LearningJune 10, 2020...</span><span class="citation-popover-meta">Published: June 10, 2020</span></span></span>
 
 This matters in UFO investigations because later viewers often treat the video as more authoritative than the witness account. Yet the opposite may be true. The witness may have seen only a bright light, while the device generated a far more dramatic image.
 
-A recurring pattern in online UFO clips is the “structured orb”: a glowing object with apparent internal geometry visible only at high zoom. In many cases, investigators reproduce similar shapes simply by defocusing bright planets or aircraft lights through phones or telescopes. Discussions in UFO analysis communities repeatedly identify this effect as a common source of confusion. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Chris Bledsoe Video: Looks like out of focus light, but...8 Jan 2025 — They look so much like out of focus stars/Venus that if they&#x27;re a...</span></span></span>
+A recurring pattern in online UFO clips is the “structured orb”: a glowing object with apparent internal geometry visible only at high zoom. In many cases, investigators reproduce similar shapes simply by defocusing [bright planets]({{ 'bright-planets/' | relative_url }}) or aircraft lights through phones or telescopes. Discussions in UFO analysis communities repeatedly identify this effect as a common source of confusion. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Chris Bledsoe Video: Looks like out of focus light, but...8 Jan 2025 — They look so much like out of focus stars/Venus that if they&#x27;re a...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-dark.svg" | relative_url }}" alt="Focus Errors illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -412,7 +412,7 @@ AI-assisted case systems can help identify autofocus-related artefacts automatic
 
 </div>
 
-An automated workflow can also flag situations where the recorded object exceeds the resolving capability of the device. If a phone sensor physically lacks enough detail to support the claimed structure, the system can downgrade confidence in morphological interpretations.
+An automated workflow can also flag situations where the recorded object exceeds the resolving capability of the device. If a phone sensor physically lacks enough detail to support the claimed structure, the system can downgrade [confidence]({{ 'confidence/' | relative_url }}) in morphological interpretations.
 
 This does not “debunk” the entire sighting. It simply narrows the evidential value of the video itself. The broader case may still include witness testimony, radar data, environmental context, or corroborating reports.
 
@@ -449,16 +449,16 @@ That is why video timelines and evidence handling matter so much in UFO investig
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-author">By Bryan F. Peterson</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+        <p class="fr-book-desc">Relevant to focus, exposure and point-light distortion.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -466,16 +466,16 @@ That is why video timelines and evidence handling matter so much in UFO investig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Strong fit for distinguishing object structure from image artefacts.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -483,16 +483,16 @@ That is why video timelines and evidence handling matter so much in UFO investig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports testing camera explanations before accepting anomalous claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -500,16 +500,16 @@ That is why video timelines and evidence handling matter so much in UFO investig
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Photographer&#x27;s Eye on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OsoqBgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Photographer&#x27;s Eye" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Photographer&#x27;s Eye">The Photographer&#x27;s Eye</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Michael Freeman</p>
         
-        
+        <p class="fr-book-desc">Helps readers understand composition, perception and visual interpretation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Photographer%27s+Eye+by+Michael+Freeman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -517,13 +517,13 @@ That is why video timelines and evidence handling matter so much in UFO investig
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -550,76 +550,72 @@ That is why video timelines and evidence handling matter so much in UFO investig
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera tripod on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20tripod%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Tripod%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETripod%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera tripod on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">camera tripod</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Tripod</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera filter on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20filter%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Filter%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFilter%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera filter on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera filter</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Filter</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-filter" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open memory card reader on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20memory%20card%20reader%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemory%20Card%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EReader%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemory%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECard%3C%2Ftext%3E%3Crect%20x%3D%22132%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22142%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EReader%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for memory card reader on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">memory card reader</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Memory</span><span class="fr-search-tag">Card</span><span class="fr-search-tag">Reader</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televis" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=focus-errors-did-the-ufo-change-shape-or-did-focus-fail-ai-assisted-ufo-sighting-investigation-camera-tripod&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -677,10 +673,10 @@ That is why video timelines and evidence handling matter so much in UFO investig
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -698,7 +694,7 @@ That is why video timelines and evidence handling matter so much in UFO investig
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -834,94 +830,94 @@ That is why video timelines and evidence handling matter so much in UFO investig
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Focus (optics)  
-   Link: [https://en.wikipedia.org/wiki/Focus_%28optics%29](https://en.wikipedia.org/wiki/Focus_%28optics%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Focus_%28optics%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Focus_%28optics%29</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Bokeh](https://en.wikipedia.org/wiki/Bokeh)  
+   Link: <a href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bokeh</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Defocus aberration  
-   Link: [https://en.wikipedia.org/wiki/Defocus_aberration](https://en.wikipedia.org/wiki/Defocus_aberration)  
+   Link: <a href="https://en.wikipedia.org/wiki/Defocus_aberration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Defocus_aberration</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Airy disk  
-   Link: [https://en.wikipedia.org/wiki/Airy_disk](https://en.wikipedia.org/wiki/Airy_disk)  
+   Link: <a href="https://en.wikipedia.org/wiki/Airy_disk" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Airy_disk</a>  
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Autofocus](https://en.wikipedia.org/wiki/Autofocus)  
+   Link: <a href="https://en.wikipedia.org/wiki/Autofocus" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Autofocus</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 18, 2004 — An autofocus (AF) optical system uses a sensor, a control system and a motor to focus on an automatically- or manual...</p></details>
    Published: September 18, 2004  
 
 6. <a id="endnote-6"></a>
    Source: electronics.howstuffworks.com  
-   Link: [https://electronics.howstuffworks.com/autofocus.htm](https://electronics.howstuffworks.com/autofocus.htm)  
+   Link: <a href="https://electronics.howstuffworks.com/autofocus.htm" target="_blank" rel="noopener noreferrer nofollow">https://electronics.howstuffworks.com/autofocus.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Autofocus Cameras WorkEver wonder how your camera knows what you&#x27;re looking at? Understand how autofocus cameras lock on to the object yo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/](https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/)  
+   Link: <a href="https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>nity. This will give you better control to get sharp...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/25662013690060993/](https://www.facebook.com/groups/2365809903441367/posts/25662013690060993/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/25662013690060993/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/25662013690060993/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Preventing focus issues when recording night sky videosThe image sensor in a smartphone camera is weak and practically &quot;blind,&quot; especiall...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv Rendering Natural Camera Bokeh Effect with Deep Learning  
-   Link: [https://arxiv.org/abs/2006.05698](https://arxiv.org/abs/2006.05698)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivRendering Natural Camera Bokeh Effect with Deep LearningJune 10, 2020...</p></details>
+   Link: <a href="https://arxiv.org/abs/2006.05698" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2006.05698</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendering Natural Camera Bokeh Effect with Deep LearningJune 10, 2020...</p></details>
    Published: June 10, 2020  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Synthetic Defocus and Look-Ahead Autofocus for Casual Videography  
-   Link: [https://arxiv.org/abs/1905.06326](https://arxiv.org/abs/1905.06326)  
+   Link: <a href="https://arxiv.org/abs/1905.06326" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1905.06326</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1hbkxoq/watch_this_to_better_understand_in_focus_and_out/](https://www.reddit.com/r/UFOs/comments/1hbkxoq/watch_this_to_better_understand_in_focus_and_out/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditWatch this to better understand in focus and out of...December 11, 2024 — Is it a UFO or something ordinary? From the guy&#x27;s reacti...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1hbkxoq/watch_this_to_better_understand_in_focus_and_out/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1hbkxoq/watch_this_to_better_understand_in_focus_and_out/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch this to better understand in focus and out of...December 11, 2024 — Is it a UFO or something ordinary? From the guy&#x27;s reacti...</p></details>
    Published: December 11, 2024  
 
 12. <a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: [https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/](https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/)  
+   Link: <a href="https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Bledsoe Video: Looks like out of focus light, but...8 Jan 2025 — They look so much like out of focus stars/Venus that if they&#x27;re a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1gt67rd/still_from_the_new_uap_video_with_color/](https://www.reddit.com/r/aliens/comments/1gt67rd/still_from_the_new_uap_video_with_color/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1gt67rd/still_from_the_new_uap_video_with_color/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1gt67rd/still_from_the_new_uap_video_with_color/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>deo is 100% a Chinese latern not an alien space craft. https...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/canon/comments/1dxhix9/how_do_phone_cameras_always_seem_to_everything_in/](https://www.reddit.com/r/canon/comments/1dxhix9/how_do_phone_cameras_always_seem_to_everything_in/)  
+   Link: <a href="https://www.reddit.com/r/canon/comments/1dxhix9/how_do_phone_cameras_always_seem_to_everything_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/canon/comments/1dxhix9/how_do_phone_cameras_always_seem_to_everything_in/</a>  
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/343329786021733/posts/2324191084602250/](https://www.facebook.com/groups/343329786021733/posts/2324191084602250/)  
+   Link: <a href="https://www.facebook.com/groups/343329786021733/posts/2324191084602250/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/343329786021733/posts/2324191084602250/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Last time it looked like a ufo 🛸...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/Adorama/posts/dont-use-f22-heres-why-if-your-shots-look-soft-at-high-apertures-its-not-your-le/1283211900501281/](https://www.facebook.com/Adorama/posts/dont-use-f22-heres-why-if-your-shots-look-soft-at-high-apertures-its-not-your-le/1283211900501281/)  
+   Link: <a href="https://www.facebook.com/Adorama/posts/dont-use-f22-heres-why-if-your-shots-look-soft-at-high-apertures-its-not-your-le/1283211900501281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Adorama/posts/dont-use-f22-heres-why-if-your-shots-look-soft-at-high-apertures-its-not-your-le/1283211900501281/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Practically what...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DS2MuDuDTiL/](https://www.instagram.com/reel/DS2MuDuDTiL/)  
+   Link: <a href="https://www.instagram.com/reel/DS2MuDuDTiL/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DS2MuDuDTiL/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Create this effect using only your phone 🥰 This technique is...Here&#x27;s how it works: Bokeh is the soft, dreamy blur you see in the backgr...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: gregbenzphotography.com  
    Title: three easy ways to focus your camera at night  
-   Link: [https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/](https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/)  
+   Link: <a href="https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/" target="_blank" rel="noopener noreferrer nofollow">https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Greg Benz PhotographyThree Easy Ways to Focus Your Camera at Night2 Nov 2016 — Once you have focused the camera, make sure you&#x27;ve switche...</p></details>
 
 ### Additional References
@@ -929,56 +925,56 @@ That is why video timelines and evidence handling matter so much in UFO investig
 19. <a id="endnote-19"></a>
    Source: interceptor121.com  
    Title: focussing techniques for video part ii auto focus settings  
-   Link: [https://interceptor121.com/2020/02/17/focussing-techniques-for-video-part-ii-auto-focus-settings/](https://interceptor121.com/2020/02/17/focussing-techniques-for-video-part-ii-auto-focus-settings/)  
+   Link: <a href="https://interceptor121.com/2020/02/17/focussing-techniques-for-video-part-ii-auto-focus-settings/" target="_blank" rel="noopener noreferrer nofollow">https://interceptor121.com/2020/02/17/focussing-techniques-for-video-part-ii-auto-focus-settings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Focussing Techniques for Video – Part II Auto Focus Settings17 Feb 2020 — In this article I diagnose 3 classic focus issues and provide s...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: electronics.alibaba.com  
    Title: autofocus camera mobile phone guide what actually matters  
-   Link: [https://electronics.alibaba.com/buyingguides/autofocus-camera-mobile-phone-guide-what-actually-matters](https://electronics.alibaba.com/buyingguides/autofocus-camera-mobile-phone-guide-what-actually-matters)  
+   Link: <a href="https://electronics.alibaba.com/buyingguides/autofocus-camera-mobile-phone-guide-what-actually-matters" target="_blank" rel="noopener noreferrer nofollow">https://electronics.alibaba.com/buyingguides/autofocus-camera-mobile-phone-guide-what-actually-matters</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Choose an Autofocus Camera Mobile Phone30 Apr 2026 — Learn how autofocus works in smartphones, what specs truly affect focus speed and...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: aldomedia.com  
    Title: Best Tips for UFO and UAP Photography with Your  
-   Link: [https://www.aldomedia.com/blog/ufo-uap-photography-tips](https://www.aldomedia.com/blog/ufo-uap-photography-tips)  
+   Link: <a href="https://www.aldomedia.com/blog/ufo-uap-photography-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.aldomedia.com/blog/ufo-uap-photography-tips</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs directly, external lighting can help illuminate surrounding details if needed. Reporting and Sharing Your Photos. Once you&#x27;ve captur...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: photo.stackexchange.com  
-   Link: [https://photo.stackexchange.com/questions/13456/technically-why-is-the-out-of-focus-area-blurred-more-when-using-a-bigger-apert](https://photo.stackexchange.com/questions/13456/technically-why-is-the-out-of-focus-area-blurred-more-when-using-a-bigger-apert)  
+   Link: <a href="https://photo.stackexchange.com/questions/13456/technically-why-is-the-out-of-focus-area-blurred-more-when-using-a-bigger-apert" target="_blank" rel="noopener noreferrer nofollow">https://photo.stackexchange.com/questions/13456/technically-why-is-the-out-of-focus-area-blurred-more-when-using-a-bigger-apert</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>stackexchange.comTechnically, why is the out of focus area blurred more when...25 Jun 2011 — I&#x27;m wondering, technically, why and how doe...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ToN15U6dy1Q](https://www.youtube.com/watch?v=ToN15U6dy1Q)  
+   Link: <a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ToN15U6dy1Q</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ght sky with both a smart phone and a DSLR camera whilst under...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: fstoppers.com  
    Title: original what lens diffraction and when does diffraction happen 6022  
-   Link: [https://fstoppers.com/editorial/original-what-lens-diffraction-and-when-does-diffraction-happen-6022](https://fstoppers.com/editorial/original-what-lens-diffraction-and-when-does-diffraction-happen-6022)  
+   Link: <a href="https://fstoppers.com/editorial/original-what-lens-diffraction-and-when-does-diffraction-happen-6022" target="_blank" rel="noopener noreferrer nofollow">https://fstoppers.com/editorial/original-what-lens-diffraction-and-when-does-diffraction-happen-6022</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The resulting 36 megapixel images revealed that...Read more...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: cambridgeincolour.com  
-   Link: [https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm](https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm)  
+   Link: <a href="https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cambridgeincolour.com/tutorials/diffraction-photography.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cambridge in ColourDiffraction Limited Photography: Pixel Size, Aperture and...It happens because light begins to disperse or &quot;diffract&quot;...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: How Autofocus Works  
-   Link: [https://www.youtube.com/watch?v=B-TOUPXytw4](https://www.youtube.com/watch?v=B-TOUPXytw4)  
+   Link: <a href="https://www.youtube.com/watch?v=B-TOUPXytw4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=B-TOUPXytw4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ComputerphileWhy are some cameras faster to focus than others? Dr Andy French explains the different approaches the computers inside came...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: photographylife.com  
    Title: what is diffraction in photography  
-   Link: [https://photographylife.com/what-is-diffraction-in-photography](https://photographylife.com/what-is-diffraction-in-photography)  
+   Link: <a href="https://photographylife.com/what-is-diffraction-in-photography" target="_blank" rel="noopener noreferrer nofollow">https://photographylife.com/what-is-diffraction-in-photography</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In fact, every time that waves pass through a slit, they will...Read more...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: photographylife.com  
    Title: autofocus modes  
-   Link: [https://photographylife.com/autofocus-modes](https://photographylife.com/autofocus-modes)  
+   Link: <a href="https://photographylife.com/autofocus-modes" target="_blank" rel="noopener noreferrer nofollow">https://photographylife.com/autofocus-modes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Explained2 Aug 2023 — In this article, I will teach you everything I know about focus modes on modern DSLR and mirrorless cameras.Read more...</p></details>

@@ -252,7 +252,7 @@ child_links:
   permalink: /weather/
   short_title: Weather
   heading_title: Can Weather Make a UFO Look Stranger?
-date: '2026-06-08 22:38:13 '
+date: '2026-06-10 19:39:54 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc-overview.webp
@@ -267,7 +267,7 @@ That distinction matters because modern UAP work is moving towards better data r
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc-overview.webp" | relative_url }}" alt="Overview image for AI assisted UFO sighting investigation" loading="eager" decoding="sync" fetchpriority="high">
 ## Start with a case file, not a mystery
 
-A sighting becomes investigable only when it is anchored to a precise event. The minimum useful [case file]({{ 'case-file/' | relative_url }}) records date, time, location, viewing direction, elevation above the horizon, duration, object description, apparent motion, sound, weather, witness position, camera details, and any supporting material. A report saying “bright object over town last night” is a story; a report saying “bright white light, 21:43 BST, viewed west-north-west from a given street, moving left to right for 90 seconds, filmed on a phone at 3x zoom” is a case.
+A sighting becomes investigable only when it is anchored to a precise event. The minimum useful case file records date, time, location, viewing direction, [elevation]({{ 'elevation/' | relative_url }}) above the horizon, duration, object description, apparent motion, sound, [weather]({{ 'weather/' | relative_url }}), witness position, camera details, and any supporting material. A report saying “bright object over town last night” is a story; a report saying “bright white light, 21:43 BST, viewed west-north-west from a given street, moving left to right for 90 seconds, filmed on a phone at 3x zoom” is a case.
 
 AI can help at intake by asking follow-up questions, normalising vague descriptions, flagging missing fields, and converting free text into a structured schema. It can also preserve the witness’s original wording alongside cleaned data. That is important because interpretation can change: “hovering” may mean physically stationary, apparently stationary because it was heading towards the observer, or simply moving too slowly for the witness to perceive against a blank sky.
 
@@ -377,7 +377,7 @@ The highest-yield checks are usually:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -404,76 +404,72 @@ The highest-yield checks are usually:
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-poster-book-books-series-television-gerry-a" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open alien t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20alien%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAlien%20T%20Shirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAlien%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for alien t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">alien t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Alien</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=alien+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-alien-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien t shirt" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-alien-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-model-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-model-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+model+-gerry+-anderson+-series+-television+-band+-concert+-tour+-album+-cd+-ticket+-lp+-michael&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-model-gerry-anderson-series-television-band&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo model -gerry -anderson -series -television -band -concert -tour -album -cd -ticket -lp -michael" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-model-gerry-anderson-series-television-band" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-space-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space wall art on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Wall%20Art%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space wall art on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space wall art</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Wall</span><span class="fr-search-tag">Art</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-space-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space wall art" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-space-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=ai-assisted-ufo-sighting-investigation-can-ai-help-explain-ufo-sightings-ufo-poster-book-books-series-television-gerry-a&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -531,10 +527,10 @@ The highest-yield checks are usually:
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -552,7 +548,7 @@ The highest-yield checks are usually:
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -701,7 +697,7 @@ NASA’s study highlighted exactly this problem: UAP analysis is hampered by poo
 
 A practical case file should therefore rank evidence by diagnostic strength:
 
-* **High value:** independent observations from different locations; original unedited files; [calibrated]({{ 'sensor-data/' | relative_url }}) camera or instrument data; reliable time synchronisation; known field of view; aircraft, satellite, radar, or weather matches; consistent bearing estimates.
+* **High value:** independent observations from different locations; original unedited files; calibrated camera or instrument data; reliable time synchronisation; known field of view; aircraft, satellite, radar, or weather matches; consistent bearing estimates.
 * **Medium value:** single phone video with metadata; multiple witnesses in the same place; contextual clues such as landmarks, cloud layers, sound, or local reports.
 * **Low value:** cropped clips, reposted social-media video, edited compilations, vague dates, anonymous retellings, or descriptions with no location and no time.
 
@@ -726,7 +722,7 @@ For example, a report might say that a silent orange light crossed a coastal tow
 * other nearby reports described the same object from a different angle;
 * local power, network, emergency-service, or aviation incidents occurred at the same time.
 
-Meteostat and Open-Meteo illustrate the kind of weather material such systems can use: Meteostat provides long-term station time series and developer access to historical weather data, while Open-Meteo says its historical weather API draws on reanalysis datasets combining station, aircraft, buoy, radar, and satellite observations. Meteostat [2Meteostat Developers](#endnote-7 "Endnote 7")
+Meteostat and Open-Meteo illustrate the kind of weather material such systems can use: Meteostat provides long-term station time series and developer access to historical [weather data]({{ 'weather-data/' | relative_url }}), while Open-Meteo says its historical weather API draws on reanalysis datasets combining station, aircraft, buoy, radar, and satellite observations. Meteostat [2Meteostat Developers](#endnote-7 "Endnote 7")
 
 Geophysical checks are usually lower priority for a sky sighting, but they can matter when witnesses report ground vibration, lights near the horizon, or local anomalies. The USGS earthquake catalogue API allows custom searches for earthquake information by parameter, making it possible to test whether a reported time and place overlapped with recorded seismic activity. [USGS Earthquake Hazards Program](#endnote-9 "Endnote 9")
 
@@ -744,7 +740,7 @@ The main failure modes are predictable:
 * **Metadata trust errors.** Social-media upload time, edited video metadata, or copied filenames can be mistaken for original capture data.
 * **Language contamination.** Witness phrases such as “impossible speed” or “no known aircraft” can influence a model even before the physical checks are complete.
 
-This is why AI-assisted UFO investigation needs auditability. The National Institute of Standards and Technology’s AI Risk Management Framework emphasises test, evaluation, verification, and validation across the AI lifecycle, along with context, data, model, task, and output as separate dimensions. Those ideas fit UAP work well: the system should record what data it used, what it ignored, how confident it is, and what human [review]({{ 'review/' | relative_url }}) is still required. [NIST Publications](#endnote-10 "Endnote 10")
+This is why AI-assisted UFO investigation needs auditability. The National Institute of Standards and Technology’s AI Risk Management Framework emphasises test, evaluation, verification, and validation across the AI lifecycle, along with context, data, model, task, and output as separate dimensions. Those ideas fit UAP work well: the system should record what data it used, what it ignored, how confident it is, and what human review is still required. [NIST Publications](#endnote-10 "Endnote 10")
 
 A useful output might say: “Balloon is plausible because the apparent motion matches wind direction and the object is morphologically consistent with a lighter-than-air object, but confidence remains moderate because distance and altitude are unknown.” That is better than “identified as balloon” when the evidence does not justify closure.
 
@@ -775,7 +771,7 @@ StatusMeaningExampleRuled outThe evidence conflicts with the explanationSatellit
 
 AI is especially useful for historical comparison. A new report can be embedded into a database of earlier cases using features such as date, time, location type, object colour, number of objects, movement pattern, duration, angular size, altitude estimate, sensor type, weather, and final explanation.
 
-That allows clustering: many reports that feel unique to witnesses may form recognisable groups. Starlink trains often produce reports of evenly spaced lights moving in a line; aircraft landing lights produce bright stationary or slow-growing lights; balloons produce wind-aligned drift; birds and insects can create surprising infrared signatures; astronomical objects produce fixed or slowly moving points near predictable sky positions. AARO’s own public resolutions show how morphology and behaviour can support balloon and bird assessments, while also showing that some videos remain unresolved because the data is not enough for confident attribution. [AARO](https://www.aaro.mil/Congressional-Press-Products/)
+That allows clustering: many reports that feel unique to witnesses may form recognisable groups. Starlink trains often produce reports of evenly spaced lights moving in a line; aircraft [landing lights]({{ 'landing-lights/' | relative_url }}) produce bright stationary or slow-growing lights; balloons produce wind-aligned drift; birds and insects can create surprising infrared signatures; astronomical objects produce fixed or slowly moving points near predictable sky positions. AARO’s own public resolutions show how morphology and behaviour can support balloon and bird assessments, while also showing that some videos remain unresolved because the data is not enough for confident attribution. [AARO](https://www.aaro.mil/Congressional-Press-Products/)
 
 Similarity search should not be used as proof. It is a lead generator. If a new sighting resembles prior Starlink cases, the system still has to run the orbital geometry for the exact time and place. If it resembles a balloon, the system still needs wind data, object motion, and preferably source evidence. If it resembles a past unresolved case, that does not make it more extraordinary; it may simply share the same missing-data problem.
 
@@ -786,7 +782,7 @@ A public-facing AI-assisted UFO investigation page should be clear enough for a 
 A strong public case page includes:
 
 * **Event summary:** what was reported, where, when, and for how long.
-* **Evidence inventory:** witness account, [original files]({{ 'original-files/' | relative_url }}), metadata, instruments, secondary reports, and missing material.
+* **Evidence inventory:** witness account, original files, metadata, instruments, secondary reports, and missing material.
 * **Timeline:** reported sighting time plus relevant aircraft, satellite, astronomy, weather, launch, and local-context checks.
 * **Candidate explanations:** what fits, what conflicts, and what remains unknown.
 * **Confidence language:** not “debunked” or “proved”, but “high-confidence aircraft match”, “plausible satellite flare”, “weak balloon hypothesis”, or “unresolved due to insufficient data”.
@@ -815,240 +811,240 @@ What AI cannot do is replace good data. A model cannot recover a missing bearing
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: satellitemap.space  
-   Link: [https://satellitemap.space/](https://satellitemap.space/)  
+   Link: <a href="https://satellitemap.space/" target="_blank" rel="noopener noreferrer nofollow">https://satellitemap.space/</a>  
 
 3. <a id="endnote-3"></a>
    Source: celestrak.org  
    Title: Celes Trak Starlink TLEs No information is available for this page  
-   Link: [https://celestrak.org/NORAD/elements/gp.php?FORMAT=tle&GROUP=starlink](https://celestrak.org/NORAD/elements/gp.php?FORMAT=tle&GROUP=starlink)  
+   Link: <a href="https://celestrak.org/NORAD/elements/gp.php?FORMAT=tle&amp;GROUP=starlink" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/gp.php?FORMAT=tle&amp;GROUP=starlink</a>  
 
 4. <a id="endnote-4"></a>
    Source: ssd.jpl.nasa.gov  
    Title: JPL Solar System Dynamics NASA Horizons Manual  
-   Link: [https://ssd.jpl.nasa.gov/horizons/manual.html](https://ssd.jpl.nasa.gov/horizons/manual.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/manual.html</a>  
 
 5. <a id="endnote-5"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Imagery...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: meteostat.net  
-   Link: [https://meteostat.net/](https://meteostat.net/)  
+   Link: <a href="https://meteostat.net/" target="_blank" rel="noopener noreferrer nofollow">https://meteostat.net/</a>  
 
 7. <a id="endnote-7"></a>
    Source: dev.meteostat.net  
    Title: Developers Meteostat Developers: Home Meteostat Developers  
-   Link: [https://dev.meteostat.net/](https://dev.meteostat.net/)  
+   Link: <a href="https://dev.meteostat.net/" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/</a>  
 
 8. <a id="endnote-8"></a>
    Source: open-meteo.com  
-   Link: [https://open-meteo.com/en/docs/historical-weather-api](https://open-meteo.com/en/docs/historical-weather-api)  
+   Link: <a href="https://open-meteo.com/en/docs/historical-weather-api" target="_blank" rel="noopener noreferrer nofollow">https://open-meteo.com/en/docs/historical-weather-api</a>  
 
 9. <a id="endnote-9"></a>
    Source: earthquake.usgs.gov  
    Title: Earthquake Hazards Program API Documentation  
-   Link: [https://earthquake.usgs.gov/fdsnws/event/1/](https://earthquake.usgs.gov/fdsnws/event/1/)  
+   Link: <a href="https://earthquake.usgs.gov/fdsnws/event/1/" target="_blank" rel="noopener noreferrer nofollow">https://earthquake.usgs.gov/fdsnws/event/1/</a>  
 
 10. <a id="endnote-10"></a>
    Source: nvlpubs.nist.gov  
    Title: Publications Artificial Intelligence Risk Management Framework (AI RMF 1.0)  
-   Link: [https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf](https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf)  
+   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ai/nist.ai.100-1.pdf</a>  
 
 11. <a id="endnote-11"></a>
    Source: archive.org  
-   Link: [https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt](https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt)  
+   Link: <a href="https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/ProjectBlueBookSpecialReport14/pbbsr14_djvu.txt</a>  
 
 12. <a id="endnote-12"></a>
    Source: GOV.UK  
    Title: ufo reports in the uk  
-   Link: [https://www.gov.uk/government/publications/ufo-reports-in-the-uk](https://www.gov.uk/government/publications/ufo-reports-in-the-uk)  
+   Link: <a href="https://www.gov.uk/government/publications/ufo-reports-in-the-uk" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ufo-reports-in-the-uk</a>  
 
 13. <a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 14. <a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 15. <a id="endnote-15"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/faqs/](https://science.nasa.gov/uap/faqs/)  
+   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
 16. <a id="endnote-16"></a>
    Source: ntrs.nasa.gov  
-   Link: [https://ntrs.nasa.gov/citations/20220009665](https://ntrs.nasa.gov/citations/20220009665)  
+   Link: <a href="https://ntrs.nasa.gov/citations/20220009665" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/20220009665</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 18. <a id="endnote-18"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 19. <a id="endnote-19"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/](https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/help-with-your-research/research-guides/ufos/</a>  
 
 20. <a id="endnote-20"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/itl/ai-risk-management-framework](https://www.nist.gov/itl/ai-risk-management-framework)  
+   Link: <a href="https://www.nist.gov/itl/ai-risk-management-framework" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/itl/ai-risk-management-framework</a>  
 
 21. <a id="endnote-21"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/overview](https://dev.meteostat.net/overview)  
+   Link: <a href="https://dev.meteostat.net/overview" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/overview</a>  
 
 22. <a id="endnote-22"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/api](https://dev.meteostat.net/api)  
+   Link: <a href="https://dev.meteostat.net/api" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api</a>  
 
 23. <a id="endnote-23"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/python](https://dev.meteostat.net/python)  
+   Link: <a href="https://dev.meteostat.net/python" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/python</a>  
 
 24. <a id="endnote-24"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/quality.html](https://dev.meteostat.net/quality.html)  
+   Link: <a href="https://dev.meteostat.net/quality.html" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/quality.html</a>  
 
 25. <a id="endnote-25"></a>
    Source: earthquake.usgs.gov  
-   Link: [https://earthquake.usgs.gov/earthquakes/search/](https://earthquake.usgs.gov/earthquakes/search/)  
+   Link: <a href="https://earthquake.usgs.gov/earthquakes/search/" target="_blank" rel="noopener noreferrer nofollow">https://earthquake.usgs.gov/earthquakes/search/</a>  
 
 26. <a id="endnote-26"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/products/web-tools/apis](https://www.usgs.gov/products/web-tools/apis)  
+   Link: <a href="https://www.usgs.gov/products/web-tools/apis" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/products/web-tools/apis</a>  
 
 27. <a id="endnote-27"></a>
    Source: usgs.gov  
-   Link: [https://www.usgs.gov/programs/earthquake-hazards/earthquakes](https://www.usgs.gov/programs/earthquake-hazards/earthquakes)  
+   Link: <a href="https://www.usgs.gov/programs/earthquake-hazards/earthquakes" target="_blank" rel="noopener noreferrer nofollow">https://www.usgs.gov/programs/earthquake-hazards/earthquakes</a>  
 
 28. <a id="endnote-28"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933](https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933)  
+   Link: <a href="https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/nasa-ufo-report-live-scientists-to-release-unidentified-anomalous-phenomena-findings-12960933</a>  
 
 29. <a id="endnote-29"></a>
    Source: celestrak.com  
-   Link: [https://celestrak.com/SpaceTrack/](https://celestrak.com/SpaceTrack/)  
+   Link: <a href="https://celestrak.com/SpaceTrack/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.com/SpaceTrack/</a>  
 
 30. <a id="endnote-30"></a>
    Source: archives.gov  
    Title: Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 31. <a id="endnote-31"></a>
    Source: medium.com  
-   Link: [https://medium.com/meteostat](https://medium.com/meteostat)  
+   Link: <a href="https://medium.com/meteostat" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/meteostat</a>  
 
 32. <a id="endnote-32"></a>
    Source: avi-loeb.medium.com  
    Title: a new calculation on the fly to the nasa uap study 2dacaf860cac  
-   Link: [https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac](https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac)  
+   Link: <a href="https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/a-new-calculation-on-the-fly-to-the-nasa-uap-study-2dacaf860cac</a>  
 
 33. <a id="endnote-33"></a>
    Source: space.com  
    Title: starlink satellite train how to see and track it  
-   Link: [https://www.space.com/starlink-satellite-train-how-to-see-and-track-it](https://www.space.com/starlink-satellite-train-how-to-see-and-track-it)  
+   Link: <a href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/starlink-satellite-train-how-to-see-and-track-it</a>  
 
 34. <a id="endnote-34"></a>
    Source: mode-s.org  
-   Link: [https://mode-s.org/atmdata/sources/](https://mode-s.org/atmdata/sources/)  
+   Link: <a href="https://mode-s.org/atmdata/sources/" target="_blank" rel="noopener noreferrer nofollow">https://mode-s.org/atmdata/sources/</a>  
 
 35. <a id="endnote-35"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/](https://www.adsbexchange.com/)  
+   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
 
 36. <a id="endnote-36"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/data-products/sample-data/](https://www.adsbexchange.com/data-products/sample-data/)  
+   Link: <a href="https://www.adsbexchange.com/data-products/sample-data/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/sample-data/</a>  
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 38. <a id="endnote-38"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/data-products/](https://www.adsbexchange.com/data-products/)  
+   Link: <a href="https://www.adsbexchange.com/data-products/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/</a>  
 
 39. <a id="endnote-39"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/api/aircraft/v2/docs](https://www.adsbexchange.com/api/aircraft/v2/docs)  
+   Link: <a href="https://www.adsbexchange.com/api/aircraft/v2/docs" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/api/aircraft/v2/docs</a>  
 
 40. <a id="endnote-40"></a>
    Source: globe.adsbexchange.com  
-   Link: [https://globe.adsbexchange.com/](https://globe.adsbexchange.com/)  
+   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
 
 41. <a id="endnote-41"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/version-2-api/](https://www.adsbexchange.com/version-2-api/)  
+   Link: <a href="https://www.adsbexchange.com/version-2-api/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/version-2-api/</a>  
 
 42. <a id="endnote-42"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/data-products/sample-api-call/](https://www.adsbexchange.com/data-products/sample-api-call/)  
+   Link: <a href="https://www.adsbexchange.com/data-products/sample-api-call/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/data-products/sample-api-call/</a>  
 
 43. <a id="endnote-43"></a>
    Source: xweather.com  
    Title: Weather API  
-   Link: [https://www.xweather.com/docs/weather-api/endpoints/earthquakes](https://www.xweather.com/docs/weather-api/endpoints/earthquakes)  
+   Link: <a href="https://www.xweather.com/docs/weather-api/endpoints/earthquakes" target="_blank" rel="noopener noreferrer nofollow">https://www.xweather.com/docs/weather-api/endpoints/earthquakes</a>  
 
 ### Additional References
 
 44. <a id="endnote-44"></a>
    Source: youtube.com  
    Title: Investigating UAP with Scientific Rigor and Data Analysis  
-   Link: [https://www.youtube.com/watch?v=t4o945T9R4I](https://www.youtube.com/watch?v=t4o945T9R4I)  
+   Link: <a href="https://www.youtube.com/watch?v=t4o945T9R4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t4o945T9R4I</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These videos provide relevant context on the integration of artificial intelligence into the scientific study of anomalous aerial phenome...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf](https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf)  
+   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP81R00560R000100060001-5.pdf</a>  
 
 46. <a id="endnote-46"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
 
 47. <a id="endnote-47"></a>
    Source: youtube.com  
    Title: The Galileo Project: Searching for Extraterrestrial Technology  
-   Link: [https://www.youtube.com/watch?v=0k1L2zXm6hI](https://www.youtube.com/watch?v=0k1L2zXm6hI)  
+   Link: <a href="https://www.youtube.com/watch?v=0k1L2zXm6hI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0k1L2zXm6hI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Detecting and Tracking UAP with AI and Multi-Sensor Data...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: youtube.com  
    Title: Detecting and Tracking UAP with AI and Multi-Sensor Data  
-   Link: [https://www.youtube.com/watch?v=uT35i6y-J1M](https://www.youtube.com/watch?v=uT35i6y-J1M)  
+   Link: <a href="https://www.youtube.com/watch?v=uT35i6y-J1M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uT35i6y-J1M</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How AI is Transforming Modern Scientific Investigation...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: How AI is Transforming Modern Scientific Investigation  
-   Link: [https://www.youtube.com/watch?v=j0z4FziM5-U](https://www.youtube.com/watch?v=j0z4FziM5-U)  
+   Link: <a href="https://www.youtube.com/watch?v=j0z4FziM5-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=j0z4FziM5-U</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating UAP with Scientific Rigor and Data Analysis...</p></details>
 
 50. <a id="endnote-50"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 51. <a id="endnote-51"></a>
    Source: youtube.com  
    Title: NASA's UAP Independent Study Team Public Meeting  
-   Link: [https://www.youtube.com/watch?v=sK9Mj21235k](https://www.youtube.com/watch?v=sK9Mj21235k)  
+   Link: <a href="https://www.youtube.com/watch?v=sK9Mj21235k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sK9Mj21235k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Galileo Project: Searching for Extraterrestrial Technology...</p></details>
 
 52. <a id="endnote-52"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: [https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/](https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/)  
+   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
 
 53. <a id="endnote-53"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle](https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle)  
+   Link: <a href="https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle</a>  

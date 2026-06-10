@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-case-similari/
 description: Focused pages that expand on NUFORC Cases.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa
-parent_title: NUFORC Cases | Case Match
+parent_title: NUFORC Cases
 parent_nav_short_title: NUFORC Cases
 parent_permalink: /nuforc-cases/
 ---

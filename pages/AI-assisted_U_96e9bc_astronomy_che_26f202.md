@@ -35,7 +35,7 @@ sidebar_expanded_urls:
 - /ai-assisted-ufo-sighting-investigation/
 nav_short_title: Astronomy
 title: Was the UFO Really in the Sky Map?
-title_full: Was the UFO Really in the Sky Map? | UFO Case AI
+title_full: Was the UFO Really in the Sky Map?
 display_title_short: Astronomy
 display_title: Astronomy
 heading_title: Was the UFO Really in the Sky Map?
@@ -313,7 +313,7 @@ next_link:
   permalink: /case-file/
   short_title: Case File
   heading_title: What Makes a UFO Report Investigable?
-date: '2026-06-08 22:39:33 '
+date: '2026-06-10 19:40:50 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-overview.webp
@@ -335,7 +335,7 @@ For an AI-assisted UFO sighting investigation, this is one of the quickest high-
 
 Astronomical explanations matter because they have a long record of producing convincing but ordinary UFO reports. A U.S. Air Force Project [Blue Book]({{ 'blue-book/' | relative_url }}) fact sheet, preserved by the National Archives, says 12,618 sightings were reported between 1947 and 1969, with 701 remaining “unidentified”; another Project Blue Book document notes that astronomical sightings were among the most common types, including bright stars, planets, comets, fireballs, meteors, auroral streamers and other celestial bodies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That historical lesson transfers directly into modern casework. A witness can be sincere, observant and still misjudge distance or motion because the night sky lacks familiar scale cues. A planet low over rooftops may look like a [hovering]({{ 'wind-checks/' | relative_url }}) object. The Moon behind broken cloud may seem to pulse or follow a car. A meteor may be reported as a “craft” because it appears bright, coloured, silent and fast. A re-entry can fragment slowly enough to look engineered.
+That historical lesson transfers directly into modern casework. A witness can be sincere, observant and still misjudge distance or motion because the night sky lacks familiar scale cues. A planet low over rooftops may look like a hovering object. The Moon behind broken cloud may seem to pulse or follow a car. A meteor may be reported as a “craft” because it appears bright, coloured, silent and fast. A re-entry can fragment slowly enough to look engineered.
 
 The first astronomy triage should separate the likely object classes:
 
@@ -343,7 +343,7 @@ The first astronomy triage should separate the likely object classes:
 
 **The Moon.** The Moon is not usually mistaken for a small object when seen plainly, but partial cloud, haze, reflections, unusual colour near the horizon, or a narrow view through trees and buildings can make it appear detached from the familiar lunar disc. A serious case file should record lunar phase, altitude, azimuth, illumination and cloud cover before treating a large luminous patch as unexplained.
 
-**Bright stars.** Sirius, Vega, Arcturus, Capella and other bright stars can appear to flash colour when low in the sky because their light passes through more turbulent atmosphere. Unlike [aircraft]({{ 'aircraft/' | relative_url }}), they remain fixed relative to the star background, but a handheld camera, moving witness or drifting cloud can create apparent motion. A star explanation is stronger when the object was stationary for many minutes and weakens when there is clear sustained travel across the sky against fixed foreground references.
+**Bright stars.** [Sirius]({{ 'sirius/' | relative_url }}), Vega, Arcturus, Capella and other bright stars can appear to flash colour when low in the sky because their light passes through more turbulent atmosphere. Unlike [aircraft]({{ 'aircraft/' | relative_url }}), they remain fixed relative to the star background, but a handheld camera, moving witness or drifting cloud can create apparent motion. A star explanation is stronger when the object was stationary for many minutes and weakens when there is clear sustained travel across the sky against fixed foreground references.
 
 **Meteors and fireballs.** The American Meteor Society defines a fireball as a very bright meteor, generally brighter than magnitude -4, roughly comparable to Venus at its brightest. The International Meteor Organization similarly describes fireballs as meteors brighter than normal. These objects can be spectacular enough to draw many independent reports over a wide area, but they are usually brief and directional rather than hovering or manoeuvring. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -429,7 +429,7 @@ The strongest workflow uses at least two independent checks:
         </h4>
         <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Supports practical sky-map checking from an observerâ€™s location.</p>
+        <p class="fr-book-desc">Supports practical sky-map checking from an observer’s location.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -445,7 +445,7 @@ The strongest workflow uses at least two independent checks:
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -472,76 +472,72 @@ The strongest workflow uses at least two independent checks:
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=planet+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-planet-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster -book -books" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-planet-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open planet poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20planet%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPlanet%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPlanet%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for planet poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">planet poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Planet</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=planet+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-planet-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="planet poster -book -books" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-planet-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open astronomy wall art on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20astronomy%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAstronomy%20Wall%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAstronomy%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%3Crect%20x%3D%22153%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22163%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for astronomy wall art on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">astronomy wall art</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Astronomy</span><span class="fr-search-tag">Wall</span><span class="fr-search-tag">Art</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=astronomy+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy wall art" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=telescope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-telescope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope model" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-telescope-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open telescope model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20telescope%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ETelescope%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETelescope%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for telescope model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">telescope model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Telescope</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=telescope+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-telescope-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope model" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-telescope-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large"><img src="{{ '/assets/images/marketplace-covers/0e5dbc87c8d72719964f.jpg' | relative_url }}" alt="Listing image for Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=solar+system+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-solar-system-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar system model" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-solar-system-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open solar system model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20solar%20system%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESolar%20System%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESolar%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESystem%3C%2Ftext%3E%3Crect%20x%3D%22135%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22145%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for solar system model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">solar system model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Solar</span><span class="fr-search-tag">System</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=solar+system+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-solar-system-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="solar system model" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-solar-system-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=planet+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=astronomy-was-the-ufo-really-in-the-sky-map-ai-assisted-ufo-sighting-investigation-planet-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -599,10 +595,10 @@ The strongest workflow uses at least two independent checks:
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -620,7 +616,7 @@ The strongest workflow uses at least two independent checks:
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -834,11 +830,11 @@ A useful astronomy evidence block includes:
 
 **Candidate match table.** Each candidate should have altitude, azimuth, brightness where available, expected motion, visibility conditions and a plain-language fit assessment.
 
-**Evidence limitations.** Common weaknesses include vague time, no bearing, no horizon reference, moving vehicle [observation]({{ 'observation-vs-claim/' | relative_url }}), phone zoom, rolling-shutter artefacts, wrong time zone, daylight saving errors, and uncertainty over whether the witness meant magnetic north, true north, or a landmark direction.
+**Evidence limitations.** Common weaknesses include vague time, no bearing, no horizon reference, moving vehicle observation, phone zoom, rolling-shutter artefacts, wrong time zone, daylight saving errors, and uncertainty over whether the witness meant magnetic north, true north, or a landmark direction.
 
 **Reviewer note.** The final note should state what changed after the astronomy check: “Venus is a strong candidate”, “meteor explanation fits the duration but not the reported hovering”, “Moon was below the horizon”, or “no bright astronomical object was in the reported sector.”
 
-NASA’s UAP study emphasised the need for higher-quality, better-calibrated data and careful characterisation before applying machine learning. In this narrow astronomy task, that means AI is most useful when it makes the check faster, more consistent and more transparent: it should gather the sky data, expose the assumptions, preserve the witness’s original account, and show exactly why a celestial explanation fits, partly fits, or fails. [NASA Science](#endnote-1 "Snippet: NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev")
+NASA’s UAP study emphasised the need for higher-quality, better-calibrated data and careful characterisation before applying machine learning. In this narrow astronomy task, that means AI is most useful when it makes the check faster, more consistent and more transparent: it should gather the sky data, expose the assumptions, preserve the witness’s [original]({{ 'original-evidence/' | relative_url }}) account, and show exactly why a celestial explanation fits, partly fits, or fails. [NASA Science](#endnote-1 "Snippet: NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev")
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-dark.svg" | relative_url }}" alt="Astronomy illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -846,263 +842,263 @@ NASA’s UAP study emphasised the need for higher-quality, better-calibrated dat
 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</p></details>
    Published: June 16, 2022  
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team Report... UFO Reporting Center4. This results in inhomogeneously collected, processed, and curated dat...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: [https://www.archives.gov/research/military/air-force/ufos](https://www.archives.gov/research/military/air-force/ufos)  
+   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
 
 4. <a id="endnote-4"></a>
    Source: space.com  
    Title: whats that bright light after sunset venus is dazzling the evening sky right now  
-   Link: [https://www.space.com/stargazing/whats-that-bright-light-after-sunset-venus-is-dazzling-the-evening-sky-right-now](https://www.space.com/stargazing/whats-that-bright-light-after-sunset-venus-is-dazzling-the-evening-sky-right-now)  
+   Link: <a href="https://www.space.com/stargazing/whats-that-bright-light-after-sunset-venus-is-dazzling-the-evening-sky-right-now" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/whats-that-bright-light-after-sunset-venus-is-dazzling-the-evening-sky-right-now</a>  
 
 5. <a id="endnote-5"></a>
    Source: celestrak.org  
-   Link: [https://celestrak.org/NORAD/elements/](https://celestrak.org/NORAD/elements/)  
+   Link: <a href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/elements/</a>  
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/nasa-bright-light-video](https://www.wired.com/story/nasa-bright-light-video)  
+   Link: <a href="https://www.wired.com/story/nasa-bright-light-video" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/nasa-bright-light-video</a>  
 
 7. <a id="endnote-7"></a>
    Source: ssd.jpl.nasa.gov  
    Title: JPL Solar System Dynamics NASA Horizons Manual  
-   Link: [https://ssd.jpl.nasa.gov/horizons/manual.html](https://ssd.jpl.nasa.gov/horizons/manual.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/manual.html</a>  
 
 8. <a id="endnote-8"></a>
    Source: ssd.jpl.nasa.gov  
    Title: JPL Solar System Dynamics Horizons Tutorial  
-   Link: [https://ssd.jpl.nasa.gov/horizons/tutorial.html](https://ssd.jpl.nasa.gov/horizons/tutorial.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/horizons/tutorial.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/tutorial.html</a>  
 
 9. <a id="endnote-9"></a>
    Source: stellarium.org  
-   Link: [https://stellarium.org/](https://stellarium.org/)  
+   Link: <a href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/</a>  
 
 10. <a id="endnote-10"></a>
    Source: files.ncas.org  
    Title: Files Condon Report, Section II  
-   Link: [https://files.ncas.org/condon/text/sec-ii.htm](https://files.ncas.org/condon/text/sec-ii.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/sec-ii.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/sec-ii.htm</a>  
 
 11. <a id="endnote-11"></a>
    Source: space.com  
    Title: nasa ufo uap study team first results revealed  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
 
 12. <a id="endnote-12"></a>
    Source: space.com  
    Title: project blue book ufos season two  
-   Link: [https://www.space.com/project-blue-book-ufos-season-two.html](https://www.space.com/project-blue-book-ufos-season-two.html)  
+   Link: <a href="https://www.space.com/project-blue-book-ufos-season-two.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/project-blue-book-ufos-season-two.html</a>  
 
 13. <a id="endnote-13"></a>
    Source: news.sky.com  
    Title: russia relentlessly targeting uk infrastructure spy chief warns 13548309  
-   Link: [https://news.sky.com/story/russia-relentlessly-targeting-uk-infrastructure-spy-chief-warns-13548309](https://news.sky.com/story/russia-relentlessly-targeting-uk-infrastructure-spy-chief-warns-13548309)  
+   Link: <a href="https://news.sky.com/story/russia-relentlessly-targeting-uk-infrastructure-spy-chief-warns-13548309" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/russia-relentlessly-targeting-uk-infrastructure-spy-chief-warns-13548309</a>  
 
 14. <a id="endnote-14"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: [https://ssd.jpl.nasa.gov/horizons/news.html](https://ssd.jpl.nasa.gov/horizons/news.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/horizons/news.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/news.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: [https://ssd.jpl.nasa.gov/horizons/app.html](https://ssd.jpl.nasa.gov/horizons/app.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/horizons/app.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/app.html</a>  
 
 16. <a id="endnote-16"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: [https://ssd.jpl.nasa.gov/faq.html](https://ssd.jpl.nasa.gov/faq.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/faq.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/faq.html</a>  
 
 17. <a id="endnote-17"></a>
    Source: ares.jsc.nasa.gov  
    Title: how to find meteorites  
-   Link: [https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/](https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/)  
+   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/</a>  
 
 18. <a id="endnote-18"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/columns/v04n01/](https://www.celestrak.org/columns/v04n01/)  
+   Link: <a href="https://www.celestrak.org/columns/v04n01/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v04n01/</a>  
 
 19. <a id="endnote-19"></a>
    Source: files.ncas.org  
-   Link: [https://files.ncas.org/condon/text/case37.htm](https://files.ncas.org/condon/text/case37.htm)  
+   Link: <a href="https://files.ncas.org/condon/text/case37.htm" target="_blank" rel="noopener noreferrer nofollow">https://files.ncas.org/condon/text/case37.htm</a>  
 
 20. <a id="endnote-20"></a>
    Source: archives.gov  
    Title: project blue book 50th anniversary  
-   Link: [https://www.archives.gov/news/articles/project-blue-book-50th-anniversary](https://www.archives.gov/news/articles/project-blue-book-50th-anniversary)  
+   Link: <a href="https://www.archives.gov/news/articles/project-blue-book-50th-anniversary" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/news/articles/project-blue-book-50th-anniversary</a>  
 
 21. <a id="endnote-21"></a>
    Source: stargazing.net  
-   Link: [https://www.stargazing.net/mas/usno3.htm](https://www.stargazing.net/mas/usno3.htm)  
+   Link: <a href="https://www.stargazing.net/mas/usno3.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.stargazing.net/mas/usno3.htm</a>  
 
 22. <a id="endnote-22"></a>
    Source: stellarium.org  
-   Link: [https://stellarium.org/en_GB/](https://stellarium.org/en_GB/)  
+   Link: <a href="https://stellarium.org/en_GB/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium.org/en_GB/</a>  
 
 23. <a id="endnote-23"></a>
    Source: catalog.data.gov  
    Title: fireball and bolide reports  
-   Link: [https://catalog.data.gov/dataset/fireball-and-bolide-reports](https://catalog.data.gov/dataset/fireball-and-bolide-reports)  
+   Link: <a href="https://catalog.data.gov/dataset/fireball-and-bolide-reports" target="_blank" rel="noopener noreferrer nofollow">https://catalog.data.gov/dataset/fireball-and-bolide-reports</a>  
 
 24. <a id="endnote-24"></a>
    Source: rmg.co.uk  
-   Link: [https://www.rmg.co.uk/stories/space-astronomy/planet-venus](https://www.rmg.co.uk/stories/space-astronomy/planet-venus)  
+   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
 
 25. <a id="endnote-25"></a>
    Source: amsmeteors.org  
-   Link: [https://www.amsmeteors.org/fireballs/](https://www.amsmeteors.org/fireballs/)  
+   Link: <a href="https://www.amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.amsmeteors.org/fireballs/</a>  
 
 26. <a id="endnote-26"></a>
    Source: rhodesmill.org  
    Title: Rhodes Mill Positions — Skyfield documentation  
-   Link: [https://rhodesmill.org/skyfield/positions.html](https://rhodesmill.org/skyfield/positions.html)  
+   Link: <a href="https://rhodesmill.org/skyfield/positions.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/positions.html</a>  
 
 27. <a id="endnote-27"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/data/AltAz](https://aa.usno.navy.mil/data/AltAz)  
+   Link: <a href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/AltAz</a>  
 
 28. <a id="endnote-28"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/faq/alt_az](https://aa.usno.navy.mil/faq/alt_az)  
+   Link: <a href="https://aa.usno.navy.mil/faq/alt_az" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/alt_az</a>  
 
 29. <a id="endnote-29"></a>
    Source: fireball.amsmeteors.org  
    Title: American Meteor Society Report a Fireball  
-   Link: [https://fireball.amsmeteors.org/](https://fireball.amsmeteors.org/)  
+   Link: <a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
 
 30. <a id="endnote-30"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2014acm..conf..201H/abstract](https://ui.adsabs.harvard.edu/abs/2014acm..conf..201H/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2014acm..conf..201H/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2014acm..conf..201H/abstract</a>  
 
 31. <a id="endnote-31"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
+   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
 
 32. <a id="endnote-32"></a>
    Source: Wikipedia  
    Title: Space debris  
-   Link: [https://en.wikipedia.org/wiki/Space_debris](https://en.wikipedia.org/wiki/Space_debris)  
+   Link: <a href="https://en.wikipedia.org/wiki/Space_debris" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Space_debris</a>  
 
 33. <a id="endnote-33"></a>
    Source: Wikipedia  
    Title: Project Blue Book  
-   Link: [https://en.wikipedia.org/wiki/Project_Blue_Book](https://en.wikipedia.org/wiki/Project_Blue_Book)  
+   Link: <a href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Project_Blue_Book</a>  
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
    Title: Stellarium (software)  
-   Link: [https://en.wikipedia.org/wiki/Stellarium_%28software%29](https://en.wikipedia.org/wiki/Stellarium_%28software%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Stellarium_%28software%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stellarium_%28software%29</a>  
 
 35. <a id="endnote-35"></a>
    Source: britannica.com  
    Title: Project Blue Book  
-   Link: [https://www.britannica.com/topic/Project-Blue-Book](https://www.britannica.com/topic/Project-Blue-Book)  
+   Link: <a href="https://www.britannica.com/topic/Project-Blue-Book" target="_blank" rel="noopener noreferrer nofollow">https://www.britannica.com/topic/Project-Blue-Book</a>  
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/royalmuseumsgreenwich/posts/welcome-to-astronomers-take-over-as-you-travel-through-this-new-family-friendly-/1379653580864218/](https://www.facebook.com/royalmuseumsgreenwich/posts/welcome-to-astronomers-take-over-as-you-travel-through-this-new-family-friendly-/1379653580864218/)  
+   Link: <a href="https://www.facebook.com/royalmuseumsgreenwich/posts/welcome-to-astronomers-take-over-as-you-travel-through-this-new-family-friendly-/1379653580864218/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalmuseumsgreenwich/posts/welcome-to-astronomers-take-over-as-you-travel-through-this-new-family-friendly-/1379653580864218/</a>  
 
 37. <a id="endnote-37"></a>
    Source: stellarium-web.org  
-   Link: [https://stellarium-web.org/](https://stellarium-web.org/)  
+   Link: <a href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-web.org/</a>  
 
 38. <a id="endnote-38"></a>
    Source: stellarium-web.org  
-   Link: [https://stellarium-web.org/p](https://stellarium-web.org/p)  
+   Link: <a href="https://stellarium-web.org/p" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-web.org/p</a>  
 
 39. <a id="endnote-39"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
 
 40. <a id="endnote-40"></a>
    Source: cdn.nationalarchives.gov.uk  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf](https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/aug-2009-research-guide.pdf</a>  
 
 41. <a id="endnote-41"></a>
    Source: rhodesmill.org  
    Title: Table of Contents — Skyfield documentation  
-   Link: [https://rhodesmill.org/skyfield/toc.html](https://rhodesmill.org/skyfield/toc.html)  
+   Link: <a href="https://rhodesmill.org/skyfield/toc.html" target="_blank" rel="noopener noreferrer nofollow">https://rhodesmill.org/skyfield/toc.html</a>  
 
 42. <a id="endnote-42"></a>
    Source: github.com  
-   Link: [https://github.com/stellarium/stellarium](https://github.com/stellarium/stellarium)  
+   Link: <a href="https://github.com/stellarium/stellarium" target="_blank" rel="noopener noreferrer nofollow">https://github.com/stellarium/stellarium</a>  
 
 43. <a id="endnote-43"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?hl=en_GB&id=com.noctuasoftware.stellarium_free](https://play.google.com/store/apps/details?hl=en_GB&id=com.noctuasoftware.stellarium_free)  
+   Link: <a href="https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.noctuasoftware.stellarium_free" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?hl=en_GB&amp;id=com.noctuasoftware.stellarium_free</a>  
 
 44. <a id="endnote-44"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2015IAUGA..2256293G/abstract](https://ui.adsabs.harvard.edu/abs/2015IAUGA..2256293G/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2015IAUGA..2256293G/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2015IAUGA..2256293G/abstract</a>  
 
 45. <a id="endnote-45"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: [https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/abstract](https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/abstract)  
+   Link: <a href="https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2013A%26A...558A..33A/abstract</a>  
 
 46. <a id="endnote-46"></a>
    Source: gi.alaska.edu  
-   Link: [https://www.gi.alaska.edu/alaska-science-forum/venus](https://www.gi.alaska.edu/alaska-science-forum/venus)  
+   Link: <a href="https://www.gi.alaska.edu/alaska-science-forum/venus" target="_blank" rel="noopener noreferrer nofollow">https://www.gi.alaska.edu/alaska-science-forum/venus</a>  
 
 47. <a id="endnote-47"></a>
    Source: stellarium-labs.com  
-   Link: [https://stellarium-labs.com/stellarium-mobile-plus/](https://stellarium-labs.com/stellarium-mobile-plus/)  
+   Link: <a href="https://stellarium-labs.com/stellarium-mobile-plus/" target="_blank" rel="noopener noreferrer nofollow">https://stellarium-labs.com/stellarium-mobile-plus/</a>  
 
 48. <a id="endnote-48"></a>
    Source: en.wiktionary.org  
-   Link: [https://en.wiktionary.org/wiki/American](https://en.wiktionary.org/wiki/American)  
+   Link: <a href="https://en.wiktionary.org/wiki/American" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/American</a>  
 
 49. <a id="endnote-49"></a>
    Source: spacedata.aei.org  
-   Link: [https://spacedata.aei.org/space/debris](https://spacedata.aei.org/space/debris)  
+   Link: <a href="https://spacedata.aei.org/space/debris" target="_blank" rel="noopener noreferrer nofollow">https://spacedata.aei.org/space/debris</a>  
 
 ### Additional References
 
 50. <a id="endnote-50"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010002-9</a>  
 
 51. <a id="endnote-51"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction](https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction)  
+   Link: <a href="https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/collection/ufos-fact-or-fiction</a>  
 
 52. <a id="endnote-52"></a>
    Source: nsa.gov  
-   Link: [https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf](https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf)  
+   Link: <a href="https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nsa.gov/portals/75/documents/news-features/declassified-documents/ufo/usaf_fact_sheet_95_03.pdf</a>  
 
 53. <a id="endnote-53"></a>
    Source: youtube.com  
    Title: Venus as a UFO: Why Planets Look Like Mysterious Lights  
-   Link: [https://www.youtube.com/watch?v=sIu9H6l7Xh0](https://www.youtube.com/watch?v=sIu9H6l7Xh0)  
+   Link: <a href="https://www.youtube.com/watch?v=sIu9H6l7Xh0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sIu9H6l7Xh0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Distinguish Between Meteors, Satellites, and Aircraft...</p></details>
 
 54. <a id="endnote-54"></a>
    Source: youtube.com  
    Title: How to Distinguish Between Meteors, Satellites, and Aircraft  
-   Link: [https://www.youtube.com/watch?v=Xn77H3T4dD8](https://www.youtube.com/watch?v=Xn77H3T4dD8)  
+   Link: <a href="https://www.youtube.com/watch?v=Xn77H3T4dD8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Xn77H3T4dD8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Physics of Why Stars and Planets Twinkle...</p></details>
 
 55. <a id="endnote-55"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/spacecom/posts/a-meteorite-has-crashed-through-the-roof-of-a-house-after-thousands-observed-a-s/1279529187371096/](https://www.facebook.com/spacecom/posts/a-meteorite-has-crashed-through-the-roof-of-a-house-after-thousands-observed-a-s/1279529187371096/)  
+   Link: <a href="https://www.facebook.com/spacecom/posts/a-meteorite-has-crashed-through-the-roof-of-a-house-after-thousands-observed-a-s/1279529187371096/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/spacecom/posts/a-meteorite-has-crashed-through-the-roof-of-a-house-after-thousands-observed-a-s/1279529187371096/</a>  
 
 56. <a id="endnote-56"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/americanair/?hl=en](https://www.instagram.com/americanair/?hl=en)  
+   Link: <a href="https://www.instagram.com/americanair/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/americanair/?hl=en</a>  
 
 57. <a id="endnote-57"></a>
    Source: tripadvisor.co.uk  
-   Link: [https://www.tripadvisor.co.uk/Airline_Review-d8729020-Reviews-American-Airlines](https://www.tripadvisor.co.uk/Airline_Review-d8729020-Reviews-American-Airlines)  
+   Link: <a href="https://www.tripadvisor.co.uk/Airline_Review-d8729020-Reviews-American-Airlines" target="_blank" rel="noopener noreferrer nofollow">https://www.tripadvisor.co.uk/Airline_Review-d8729020-Reviews-American-Airlines</a>  
 
 58. <a id="endnote-58"></a>
    Source: americanexpress.com  
-   Link: [https://www.americanexpress.com/en-gb/](https://www.americanexpress.com/en-gb/)  
+   Link: <a href="https://www.americanexpress.com/en-gb/" target="_blank" rel="noopener noreferrer nofollow">https://www.americanexpress.com/en-gb/</a>  
 
 59. <a id="endnote-59"></a>
    Source: thehistoryreader.com  
-   Link: [https://www.thehistoryreader.com/cultural-history/official-history-ufos/](https://www.thehistoryreader.com/cultural-history/official-history-ufos/)  
+   Link: <a href="https://www.thehistoryreader.com/cultural-history/official-history-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/cultural-history/official-history-ufos/</a>  

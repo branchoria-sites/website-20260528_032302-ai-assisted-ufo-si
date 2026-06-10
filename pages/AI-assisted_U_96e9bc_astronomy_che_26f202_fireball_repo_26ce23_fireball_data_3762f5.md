@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /fireballs/
 nav_short_title: Meteor Databases
 title: Can Public Fireball Logs Solve A UFO Report?
-title_full: Can Public Fireball Logs Solve A UFO Report? | Fireballs
+title_full: Can Public Fireball Logs Solve A UFO Report?
 display_title_short: Meteor Databases
 display_title: Meteor Databases
 heading_title: Can Public Fireball Logs Solve A UFO Report?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When many UFO reports point to one meteor | Astronomy
+parent_title: When many UFO reports point to one meteor
 parent_permalink: /fireballs/
 parent_nav_short_title: Fireballs
 parent_heading_title: When many UFO reports point to one meteor
@@ -260,7 +260,7 @@ prev_link:
   permalink: /green-fireballs/
   short_title: Green Fireballs
   heading_title: Why Green Meteors Look Like Alien Craft
-date: '2026-06-08 23:37:46 '
+date: '2026-06-10 20:15:20 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1.webp
@@ -269,11 +269,11 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26
 
 ## Introduction
 
-A surprising number of UFO reports can be resolved in minutes by checking public fireball databases. When a bright object crosses the sky at high speed, witnesses often describe it as a glowing craft, missile, orb, or silent [aircraft]({{ 'aircraft/' | relative_url }}). Yet meteor organisations now collect thousands of near real-time public reports from people across entire regions, allowing investigators to compare sightings against known [atmospheric]({{ 'scintillation/' | relative_url }}) events almost immediately.
+A surprising number of UFO reports can be resolved in minutes by checking public fireball databases. When a bright object crosses the sky at high speed, witnesses often describe it as a glowing craft, missile, orb, or silent [aircraft]({{ 'aircraft/' | relative_url }}). Yet meteor organisations now collect thousands of near real-time public reports from people across entire regions, allowing investigators to compare sightings against known atmospheric events almost immediately.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1-dark.svg" | relative_url }}" alt="Meteor Databases illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO investigation, this matters because a meteor leaves a recognisable data pattern. Reports appear within the same few minutes, over a wide geographic area, with broadly consistent directions of travel and very short durations. Databases from the American Meteor Society (AMS), the International Meteor Organization (IMO), and NASA’s fireball systems allow investigators to test whether a sighting matches a documented meteor event before treating it as unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/American_Meteor_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">American Meteor SocietyIts affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, meteoric fireba...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs | IMOReports are also shared with the general public in the form of our Fireball Sightings Log...</span></span></span>
+For AI-assisted UFO investigation, this matters because a meteor leaves a recognisable data pattern. Reports appear within the same few minutes, over a wide geographic area, with broadly consistent directions of travel and very short durations. Databases from the American Meteor Society (AMS), the International Meteor Organization (IMO), and NASA’s fireball systems allow investigators to test whether a sighting matches a documented meteor event before treating it as unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/American_Meteor_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">American Meteor SocietyIts affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, meteoric fireba...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs &#124; IMOReports are also shared with the general public in the form of our Fireball Sightings Log...</span></span></span>
 
 ## Why fireball databases are so useful in UFO screening
 
@@ -287,10 +287,10 @@ Public fireball databases help investigators answer three core questions quickly
 
 The AMS and IMO systems are especially valuable because they aggregate civilian witness reports into searchable event pages. These databases often include:
 
-* exact or approximate [observation]({{ 'observation-vs-claim/' | relative_url }}) times
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
+* exact or approximate observation times
 * witness locations
 * estimated brightness
 * duration
@@ -311,7 +311,7 @@ For UFO investigation workflows, the key point is not astronomical precision. It
 
 The simplest fireball check is often the most effective: compare timestamps.
 
-Meteor events are extremely brief. The AMS notes that most fireballs last only a few seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/American_Meteor_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">American Meteor SocietyIts affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, meteoric fireba...</span></span></span> By contrast, many traditional UFO reports involve objects observed for several minutes or longer.
+Meteor events are extremely brief. The AMS notes that most [fireballs]({{ 'fireballs/' | relative_url }}) last only a few seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/American_Meteor_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">American Meteor SocietyIts affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, meteoric fireba...</span></span></span> By contrast, many traditional UFO reports involve objects observed for several minutes or longer.
 
 In practice, investigators often see patterns like this:
 
@@ -325,7 +325,7 @@ In practice, investigators often see patterns like this:
 
 </div>
 
-An AI-assisted workflow can automatically compare a witness [timestamp]({{ 'sky-checks/' | relative_url }}) against public meteor logs from the same hour. If a fireball event already exists in AMS or IMO records, the system can flag the case for likely meteor correlation instead of escalating it as an anomalous aerial event.
+An AI-assisted workflow can automatically compare a witness timestamp against public meteor logs from the same hour. If a fireball event already exists in AMS or IMO records, the system can flag the case for likely meteor correlation instead of escalating it as an anomalous aerial event.
 
 This process is particularly effective for reports involving:
 
@@ -342,9 +342,6 @@ This process is particularly effective for reports involving:
 </div>
 
 Those are classic fireball signatures rather than controlled aircraft behaviour.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T9vTyrmkV1o" title="Meteor fireball streaks over tri-state sky, sonic boom heard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T9vTyrmkV1o" target="_blank" rel="noopener noreferrer">Meteor fireball streaks over tri-state sky, sonic boom heard</a></p><p class="youtube-embed-meta">Channel: News 12 &middot; Views: 2.6K &middot; Uploaded: April 2026 &middot; Length: 1 minute 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T9vTyrmkV1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T9vTyrmkV1o">Open on YouTube</a></p></div></div></div>
 
 ### Handling imperfect witness timing
 
@@ -403,7 +400,7 @@ The AMS homepage regularly highlights “major fireball events” receiving doze
 
 ### The International Meteor Organization system
 
-The IMO performs a similar role internationally and maintains searchable fireball logs with public visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs | IMOReports are also shared with the general public in the form of our Fireball Sightings Log...</span></span></span>
+The IMO performs a similar role internationally and maintains searchable fireball logs with public visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs &#124; IMOReports are also shared with the general public in the form of our Fireball Sightings Log...</span></span></span>
 
 This becomes particularly useful for European sightings, where witnesses in several countries may observe the same event.
 
@@ -431,7 +428,7 @@ Natural-language processing can also standardise witness wording. Terms like:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* “fireball” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Fireball | Astronomy and Astrophysics | Research StartersFireballs are exceptionally bright meteors that appear in Earth&#x27;s atmosphere, ou...</span></span></span>
+* “fireball” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Fireball &#124; Astronomy and Astrophysics &#124; Research StartersFireballs are exceptionally bright meteors that appear in Earth&#x27;s atmosphere, ou...</span></span></span>
 * “orb”
 * “missile”
 * “falling star”
@@ -445,7 +442,7 @@ may all refer to the same meteor event.
 This reduces false escalation of ordinary atmospheric events into unresolved UFO cases.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O2WDdTc3kfE" title="5 Incredible Meteor Impacts Caught On Camera" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O2WDdTc3kfE" target="_blank" rel="noopener noreferrer">5 Incredible Meteor Impacts Caught On Camera</a></p><p class="youtube-embed-meta">Channel: Underworld</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O2WDdTc3kfE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O2WDdTc3kfE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T9vTyrmkV1o" title="Meteor fireball streaks over tri-state sky, sonic boom heard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T9vTyrmkV1o" target="_blank" rel="noopener noreferrer">Meteor fireball streaks over tri-state sky, sonic boom heard</a></p><p class="youtube-embed-meta">Channel: News 12 &middot; Views: 2.6K &middot; Uploaded: April 2026 &middot; Length: 1 minute 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T9vTyrmkV1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T9vTyrmkV1o">Open on YouTube</a></p></div></div></div>
 
 ## Triangulating paths from public data
 
@@ -475,14 +472,14 @@ By combining reports from multiple locations, investigators can estimate:
 * visible flight path
 * likely fall zones for meteorites
 
-The IMO and AMS both use aggregated reports to estimate trajectories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs | IMOReports are also shared with the general public in the form of our Fireball Sightings Log...</span></span></span>
+The IMO and AMS both use aggregated reports to estimate trajectories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs &#124; IMOReports are also shared with the general public in the form of our Fireball Sightings Log...</span></span></span>
 
-NASA’s fireball databases add another layer by incorporating sensor and satellite detections for larger events. NASA’s Center for Near Earth Object Studies (CNEOS) maintains a global fireball dataset including energy estimates, altitude data, and location information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">CNEOS - NASAThe following chart shows reported fireball events for which geographic location data are provided. Each event&#x27;s calculated t...</span></span></span>
+NASA’s fireball databases add another layer by incorporating sensor and satellite detections for larger events. NASA’s Center for Near Earth Object Studies (CNEOS) maintains a global fireball dataset including energy estimates, altitude data, and location information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cneos.jpl.nasa.gov">[CNEOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cneos.jpl.nasa.gov</span><span class="citation-popover-snippet">NASAThe following chart shows reported fireball events for which geographic location data are provided. Each event&#x27;s calculated t...</span></span></span>
 
 For especially bright bolides, investigators may also compare:
 
 * infrasound detections
-* [weather radar]({{ 'radar-errors/' | relative_url }}) anomalies
+* [weather]({{ 'weather/' | relative_url }}) radar anomalies
 * satellite optical detections
 * dashboard camera footage
 * security camera timestamps
@@ -503,9 +500,6 @@ But triangulated public reports frequently show the object was actually tens of 
 
 This mismatch between perceived proximity and actual altitude is one of the most important reasons fireball databases are so effective in UFO investigation.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
-
 ## Where meteor databases still have limits
 
 Fireball databases are powerful, but they do not solve every sighting.
@@ -525,7 +519,7 @@ Likewise, not every bright sky object is a meteor. Re-entering space debris, roc
 
 ## How AI changes the speed of UFO explanation
 
-Historically, meteor correlation could take days. Investigators had to gather newspaper accounts, compare phone calls, or wait for astronomy organisations to publish summaries.
+Historically, meteor correlation could take days. Investigators had to gather newspaper accounts, compare phone calls, or wait for [astronomy]({{ 'astronomy/' | relative_url }}) organisations to publish summaries.
 
 Now, AI-assisted systems can compare a new UFO report against live meteor databases within seconds.
 
@@ -554,16 +548,16 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Helps readers identify meteors and other sky events often mistaken for UFOs.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -571,16 +565,16 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Provides broader sky-identification skills useful in UFO screening.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -588,16 +582,16 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Meteors and How to Observe Them on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=iu9XakR51EsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Meteors and How to Observe Them" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteors and How to Observe Them">Meteors and How to Observe Them</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Robert Lunsford</p>
         
-        
+        <p class="fr-book-desc">Directly covers meteor observation and reporting workflows.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them+by+Robert+Lunsford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -605,16 +599,16 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Field Guide to Meteors and Meteorites on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OMgDhc8d7v4C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Field Guide to Meteors and Meteorites" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to Meteors and Meteorites">Field Guide to Meteors and Meteorites</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By O. Richard Norton, Lawrence Chitwood</p>
         
-        
+        <p class="fr-book-desc">Relevant to fireball reports, trajectories and meteor evidence.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Field+Guide+to+Meteors+and+Meteorites+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -622,13 +616,13 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Meteors+and+How+to+Observe+Them&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Meteors and How to Observe Them</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -655,76 +649,72 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron SkyMaster 71018 Binocular and tripod"><img src="{{ '/assets/images/marketplace-covers/0fdc8b4d609b8ce92a6e.jpg' | relative_url }}" alt="Listing image for Celestron SkyMaster 71018 Binocular and tripod" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron SkyMaster 71018 Binocular and tripod</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-meteorite-display" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open meteorite display on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20meteorite%20display%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMeteorite%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDisplay%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMeteorite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDisplay%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for meteorite display on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">meteorite display</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Meteorite</span><span class="fr-search-tag">Display</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-meteorite-display&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite display" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-meteorite-display" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. Â£109.47! NEW UNOPENED"><img src="{{ '/assets/images/marketplace-covers/759a151e24a0a2615498.jpg' | relative_url }}" alt="Listing image for ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. Â£109.47! NEW UNOPENED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. Â£109.47! NEW UNOPENED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti"><img src="{{ '/assets/images/marketplace-covers/77ed29261fdf5164fc5b.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open telescope accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20telescope%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ETelescope%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETelescope%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for telescope accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">telescope accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Telescope</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New"><img src="{{ '/assets/images/marketplace-covers/dc9cf14405df7bf77e6d.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=logs+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-logs-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logs poster -book -books -dvd" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-logs-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open logs poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20logs%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ELogs%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELogs%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for logs poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">logs poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Logs</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=logs+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-logs-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="logs poster -book -books -dvd" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-logs-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=meteorite+display&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=meteor-databases-can-public-fireball-logs-solve-a-ufo-report-ai-assisted-ufo-sighting-investigat-meteorite-display&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -782,10 +772,10 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -803,7 +793,7 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -938,247 +928,247 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
 
 1. <a id="endnote-1"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/fireballs/fireballs/](https://www.imo.net/observations/fireballs/fireballs/)  
+   Link: <a href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireballs/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationFireballs | IMOReports are also shared with the general public in the form of our Fireball Sightings Log...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/](https://cneos.jpl.nasa.gov/fireballs/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CNEOS - NASAThe [following](&amp;#123;&amp;#123; &#x27;following-moon/&#x27; | relative_url &amp;#125;&amp;#125;) chart shows reported fireball events for which geographic location data are provided. Each event&#x27;s calculated t...</p></details>
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe following chart shows reported fireball events for which geographic location data are provided. Each event&#x27;s calculated t...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: data.nasa.gov  
    Title: Open Data Portal Fireball And Bolide Reports  
-   Link: [https://data.nasa.gov/dataset/fireball-and-bolide-reports](https://data.nasa.gov/dataset/fireball-and-bolide-reports)  
+   Link: <a href="https://data.nasa.gov/dataset/fireball-and-bolide-reports" target="_blank" rel="noopener noreferrer nofollow">https://data.nasa.gov/dataset/fireball-and-bolide-reports</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>And Bolide Reports - DatasetMar 31, 2025 — A fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter whe...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/fireballs/fireball-report-program/](https://www.imo.net/observations/fireballs/fireball-report-program/)  
+   Link: <a href="https://www.imo.net/observations/fireballs/fireball-report-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/fireball-report-program/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Meteor OrganizationFireball Program | IMOThe Fireball Report online form guides you through describing what you saw in a wa...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: fireball.imo.net  
    Title: browse events  
-   Link: [https://fireball.imo.net/members/imo_view/browse_events](https://fireball.imo.net/members/imo_view/browse_events)  
+   Link: <a href="https://fireball.imo.net/members/imo_view/browse_events" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_events</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>EventsInternational Meteor Organization.... Events found: 254 in 2026 with at least 5 reports Page 1 / 6. ID, # of Rep. UT Date &amp; Time...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home](https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The International Meteor Organization received over 2,800 reports of the event, accompanied by multiple video recordings shared on social...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ssd-api.jpl.nasa.gov  
-   Link: [https://ssd-api.jpl.nasa.gov/doc/fireball.html](https://ssd-api.jpl.nasa.gov/doc/fireball.html)  
+   Link: <a href="https://ssd-api.jpl.nasa.gov/doc/fireball.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd-api.jpl.nasa.gov/doc/fireball.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ry will return content representing one...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: space.com  
    Title: Fireball sightings are surging across the US  
-   Link: [https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on](https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on)  
+   Link: <a href="https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/meteor-showers/fireball-sightings-are-surging-across-the-us-heres-whats-really-going-on</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Meteor Society (AMS) recorded a significant increase in large, well-reported fireball events, particularly those producing m...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: fireballs.ndc.nasa.gov  
-   Link: [https://fireballs.ndc.nasa.gov/](https://fireballs.ndc.nasa.gov/)  
+   Link: <a href="https://fireballs.ndc.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.ndc.nasa.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s All Sky Fireball NetworkThis website displays fireball data in the form of images, movies, diagrams, and text files. The data is o...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: fireball.imo.net  
    Title: browse reports  
-   Link: [https://fireball.imo.net/members/imo_view/browse_reports](https://fireball.imo.net/members/imo_view/browse_reports)  
+   Link: <a href="https://fireball.imo.net/members/imo_view/browse_reports" target="_blank" rel="noopener noreferrer nofollow">https://fireball.imo.net/members/imo_view/browse_reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>reportsReports found: 7513 in the last 30 days Page 1 / 151; Event 2051-2026; 2051a, 2026-03-22 02:30 UT, 2026-03-21 21:30 -5 time zone...</p></details>
    Published: March 22, 2026  
 
 11. <a id="endnote-11"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/](https://www.imo.net/)  
+   Link: <a href="https://www.imo.net/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>24Feb 85 reports · 20Feb 41 reports · 18Feb 31 reports (AR, KS...).Read more...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/fireballs/observations/](https://www.imo.net/observations/fireballs/observations/)  
+   Link: <a href="https://www.imo.net/observations/fireballs/observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/fireballs/observations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observations of FireballsIt is impossible to do fireball-observing exercises as the objects are totally unpredictable in appearance and a...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: fireballs.imo.net  
    Title: view video  
-   Link: [https://fireballs.imo.net/members/imo_video/view_video?video_id=20826](https://fireballs.imo.net/members/imo_video/view_video?video_id=20826)  
+   Link: <a href="https://fireballs.imo.net/members/imo_video/view_video?video_id=20826" target="_blank" rel="noopener noreferrer nofollow">https://fireballs.imo.net/members/imo_video/view_video?video_id=20826</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>video has been uploaded on the American Meteor Society Website.AMS Event: 845-2026, Report (845u-2026) Parker, CO, USThis video may not b...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: imo.net  
-   Link: [https://www.imo.net/observations/](https://www.imo.net/observations/)  
+   Link: <a href="https://www.imo.net/observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.imo.net/observations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ObservationsAnd if you spotted a fireball, or wish to know more about bright meteors, please follow the Fireball Observations section. In...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/intro.html](https://cneos.jpl.nasa.gov/fireballs/intro.html)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/intro.html" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/intro.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>and bolidesA fireball is an unusually bright meteor that reaches a visual magnitude of -3 or brighter when seen at the observer&#x27;s zenith...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: jpl.nasa.gov  
-   Link: [https://www.jpl.nasa.gov/news/us-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/](https://www.jpl.nasa.gov/news/us-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/)  
+   Link: <a href="https://www.jpl.nasa.gov/news/us-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/us-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force Releases Decades of Bolide Data to...Apr 7, 2022 — The newly released data is composed of information on the changing bright...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/solar-system/u-s-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/](https://www.nasa.gov/solar-system/u-s-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/)  
+   Link: <a href="https://www.nasa.gov/solar-system/u-s-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/solar-system/u-s-space-force-releases-decades-of-bolide-data-to-nasa-for-planetary-defense-studies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Force Releases Decades of Bolide Data to...Apr 7, 2022 — The newly released data is comprised of information on the changing brigh...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cneos.jpl.nasa.gov  
-   Link: [https://cneos.jpl.nasa.gov/fireballs/lc/](https://cneos.jpl.nasa.gov/fireballs/lc/)  
+   Link: <a href="https://cneos.jpl.nasa.gov/fireballs/lc/" target="_blank" rel="noopener noreferrer nofollow">https://cneos.jpl.nasa.gov/fireballs/lc/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data - Fireballs - NASAThe following table provides links to light curve data collected by US Government sensors on fireball events.Read...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: ares.jsc.nasa.gov  
    Title: how to find meteorites  
-   Link: [https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/](https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/)  
+   Link: <a href="https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/how-to-find-meteorites/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to Find MeteoritesFind &quot;ALL Meteor Sighting Reports Click Here&quot; on the web page to visit the EW list. International Meteor Organization...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: science.nasa.gov  
    Title: mapping fireballs 84763  
-   Link: [https://science.nasa.gov/earth/earth-observatory/mapping-fireballs-84763/](https://science.nasa.gov/earth/earth-observatory/mapping-fireballs-84763/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/mapping-fireballs-84763/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/mapping-fireballs-84763/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FireballsEach of these 556 events resulted in a very bright meteor—also known as a bolide or fireball. On the map, orange dots represent...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: catalog.data.gov  
    Title: fireball and bolide reports  
-   Link: [https://catalog.data.gov/dataset/fireball-and-bolide-reports](https://catalog.data.gov/dataset/fireball-and-bolide-reports)  
+   Link: <a href="https://catalog.data.gov/dataset/fireball-and-bolide-reports" target="_blank" rel="noopener noreferrer nofollow">https://catalog.data.gov/dataset/fireball-and-bolide-reports</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And Bolide ReportsThe following table provides a chronological data summary of fireball and bolide events provided by US Government senso...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: catalog.data.gov  
    Title: fireball and bolide reports api  
-   Link: [https://catalog.data.gov/dataset/fireball-and-bolide-reports-api](https://catalog.data.gov/dataset/fireball-and-bolide-reports-api)  
+   Link: <a href="https://catalog.data.gov/dataset/fireball-and-bolide-reports-api" target="_blank" rel="noopener noreferrer nofollow">https://catalog.data.gov/dataset/fireball-and-bolide-reports-api</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>And Bolide Reports APIAPI using chronological data summary of fireball and bolide events provided by US Government sensors.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
    Title: Meteor fireball streaks over tri-state sky, sonic boom heard  
-   Link: [https://www.youtube.com/watch?v=T9vTyrmkV1o](https://www.youtube.com/watch?v=T9vTyrmkV1o)  
+   Link: <a href="https://www.youtube.com/watch?v=T9vTyrmkV1o" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=T9vTyrmkV1o</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball over UK captured by camera network...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: youtube.com  
    Title: Fireball over UK captured by camera network  
-   Link: [https://www.youtube.com/watch?v=vV92kS3rR0k](https://www.youtube.com/watch?v=vV92kS3rR0k)  
+   Link: <a href="https://www.youtube.com/watch?v=vV92kS3rR0k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vV92kS3rR0k</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to report a fireball sighting to the American Meteor Society...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/](https://amsmeteors.org/fireballs/)  
+   Link: <a href="https://amsmeteors.org/fireballs/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireballsA fireball is another term for a very bright meteor, generally brighter than magnitude -4, which is about...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/fireball-or-contrail/](https://amsmeteors.org/fireballs/fireball-or-contrail/)  
+   Link: <a href="https://amsmeteors.org/fireballs/fireball-or-contrail/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/fireball-or-contrail/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyFireball or Contrail?A fireball is another term for a very bright meteor. Fireballs can develop two types of trail...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: fireball.amsmeteors.org  
    Title: American Meteor Society Report a Fireball  
-   Link: [https://fireball.amsmeteors.org/](https://fireball.amsmeteors.org/)  
+   Link: <a href="https://fireball.amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://fireball.amsmeteors.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyReport a Fireball - American Meteor SocietyReport it: it may be a fireball. We are going to ask you to fill an int...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/](https://amsmeteors.org/)  
+   Link: <a href="https://amsmeteors.org/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyAmerican Meteor SocietyEveryday, we receive reports about fireballs from all around the world. Here are some of th...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: ebsco.com  
-   Link: [https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball](https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball)  
+   Link: <a href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow">https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball | Astronomy and Astrophysics | Research StartersFireballs are exceptionally bright meteors that appear in Earth&#x27;s atmosphere, ou...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: amsmeteors.org  
-   Link: [https://amsmeteors.org/fireballs/faqf/](https://amsmeteors.org/fireballs/faqf/)  
+   Link: <a href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow">https://amsmeteors.org/fireballs/faqf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball FAQsGenerally speaking, a fireball must be greater than about magnitude -8 to -10 in order to potentially produce a meteorite fa...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: militaryembedded.com  
    Title: fireball data collected by government sensors released by space force  
-   Link: [https://militaryembedded.com/ai/big-data/fireball-data-collected-by-government-sensors-released-by-space-force](https://militaryembedded.com/ai/big-data/fireball-data-collected-by-government-sensors-released-by-space-force)  
+   Link: <a href="https://militaryembedded.com/ai/big-data/fireball-data-collected-by-government-sensors-released-by-space-force" target="_blank" rel="noopener noreferrer nofollow">https://militaryembedded.com/ai/big-data/fireball-data-collected-by-government-sensors-released-by-space-force</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball data collected by government sensors released...Apr 8, 2022 — The public release of decades of data collected by US government...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: sciencythoughts.blogspot.com  
    Title: fireball meteor over new york state  
-   Link: [https://sciencythoughts.blogspot.com/2019/03/fireball-meteor-over-new-york-state.html](https://sciencythoughts.blogspot.com/2019/03/fireball-meteor-over-new-york-state.html)  
+   Link: <a href="https://sciencythoughts.blogspot.com/2019/03/fireball-meteor-over-new-york-state.html" target="_blank" rel="noopener noreferrer nofollow">https://sciencythoughts.blogspot.com/2019/03/fireball-meteor-over-new-york-state.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>These are typically caused by pieces of rock burning up in the...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Meteor](https://en.wikipedia.org/wiki/Meteor)  
+   Link: <a href="https://en.wikipedia.org/wiki/Meteor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Meteor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>MeteorA meteor, known colloquially as a shooting star, is a glowing streak of a small body (usually meteoroid) going through Earth&#x27;s a...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: Wikipedia  
    Title: American Meteor Society  
-   Link: [https://en.wikipedia.org/wiki/American_Meteor_Society](https://en.wikipedia.org/wiki/American_Meteor_Society)  
+   Link: <a href="https://en.wikipedia.org/wiki/American_Meteor_Society" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/American_Meteor_Society</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>American Meteor SocietyIts affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, meteoric fireba...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: data.smartidf.services  
-   Link: [https://data.smartidf.services/explore/dataset/nasa-fireball-and-bolide-reports/](https://data.smartidf.services/explore/dataset/nasa-fireball-and-bolide-reports/)  
+   Link: <a href="https://data.smartidf.services/explore/dataset/nasa-fireball-and-bolide-reports/" target="_blank" rel="noopener noreferrer nofollow">https://data.smartidf.services/explore/dataset/nasa-fireball-and-bolide-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fireball and Bolide Reports / Rapports de météores et...&quot;The table provides information on the date and time of each fireball event, its...</p></details>
 
 ### Additional References
 
 37. <a id="endnote-37"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/international](https://www.merriam-webster.com/dictionary/international)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/international" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/international</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>INTERNATIONAL Definition &amp; Meaning1. of, relating to, or affecting two or more nations international trade 2. of, relating to, or constit...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac](https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac)  
+   Link: <a href="https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40souravmohile/analysing-fireball-and-bolide-events-using-nasa-data-33945b7af4ac</a>  
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
    Title: according to the american meteor society a fireball is another term for a very b  
-   Link: [https://www.facebook.com/wtol11/posts/according-to-the-american-meteor-society-a-fireball-is-another-term-for-a-very-b/10157442155256481/](https://www.facebook.com/wtol11/posts/according-to-the-american-meteor-society-a-fireball-is-another-term-for-a-very-b/10157442155256481/)  
+   Link: <a href="https://www.facebook.com/wtol11/posts/according-to-the-american-meteor-society-a-fireball-is-another-term-for-a-very-b/10157442155256481/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wtol11/posts/according-to-the-american-meteor-society-a-fireball-is-another-term-for-a-very-b/10157442155256481/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>According to the American Meteor Society, a fireball...Sep 30, 2020 — According to the American Meteor Society, a fireball is another te...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
    Title: new fireball report in cneos fireball and bolide data provided by us government  
-   Link: [https://www.facebook.com/100063944562099/posts/new-fireball-report-in-cneos-fireball-and-bolide-data-provided-by-us-government-/10156186978996688/](https://www.facebook.com/100063944562099/posts/new-fireball-report-in-cneos-fireball-and-bolide-data-provided-by-us-government-/10156186978996688/)  
+   Link: <a href="https://www.facebook.com/100063944562099/posts/new-fireball-report-in-cneos-fireball-and-bolide-data-provided-by-us-government-/10156186978996688/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100063944562099/posts/new-fireball-report-in-cneos-fireball-and-bolide-data-provided-by-us-government-/10156186978996688/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New fireball report in CNEOS Fireball and Bolide Data...Aug 27, 2019 — New fireball report in CNEOS Fireball and Bolide Data provided by...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: emeteornews.net  
    Title: news from the meteor library near earth object studies cneos fireball database  
-   Link: [https://www.emeteornews.net/2025/06/23/news-from-the-meteor-library-near-earth-object-studies-cneos-fireball-database/](https://www.emeteornews.net/2025/06/23/news-from-the-meteor-library-near-earth-object-studies-cneos-fireball-database/)  
+   Link: <a href="https://www.emeteornews.net/2025/06/23/news-from-the-meteor-library-near-earth-object-studies-cneos-fireball-database/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2025/06/23/news-from-the-meteor-library-near-earth-object-studies-cneos-fireball-database/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Near-Earth Object Studies (CNEOS) Fireball DatabaseJun 23, 2025 — Abstract: Fireballs (bolides) are high-energy luminous phenomena produc...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: gfo.rocks  
-   Link: [https://gfo.rocks/](https://gfo.rocks/)  
+   Link: <a href="https://gfo.rocks/" target="_blank" rel="noopener noreferrer nofollow">https://gfo.rocks/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Fireball Observatory: HomeThe Global Fireball Observatory is an multi-institutional collaboration, with partner networks around th...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: astronomy.stackexchange.com  
    Title: accessing detailed bolide trajectory spectroscopy data  
-   Link: [https://astronomy.stackexchange.com/questions/58428/accessing-detailed-bolide-trajectory-spectroscopy-data](https://astronomy.stackexchange.com/questions/58428/accessing-detailed-bolide-trajectory-spectroscopy-data)  
+   Link: <a href="https://astronomy.stackexchange.com/questions/58428/accessing-detailed-bolide-trajectory-spectroscopy-data" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/58428/accessing-detailed-bolide-trajectory-spectroscopy-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>detailed bolide trajectory/spectroscopy dataAug 26, 2024 — The Fireballs API appears to provide some very high level data on where and wh...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXa4Io0jKsJ/](https://www.instagram.com/reel/DXa4Io0jKsJ/)  
+   Link: <a href="https://www.instagram.com/reel/DXa4Io0jKsJ/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXa4Io0jKsJ/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>y doubled in Q1 2026 vs the 5-year average, but total meteor activity...Read more...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: wafb.com  
    Title: bright fireball lights up south louisiana skies  
-   Link: [https://www.wafb.com/2026/03/03/bright-fireball-lights-up-south-louisiana-skies/](https://www.wafb.com/2026/03/03/bright-fireball-lights-up-south-louisiana-skies/)  
+   Link: <a href="https://www.wafb.com/2026/03/03/bright-fireball-lights-up-south-louisiana-skies/" target="_blank" rel="noopener noreferrer nofollow">https://www.wafb.com/2026/03/03/bright-fireball-lights-up-south-louisiana-skies/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 2, 2026 — According to the American Meteor Society, a fireball is defined as a meteor brighter than the planet Venus, making it one o...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: aas.org  
-   Link: [https://aas.org/faq/where-do-i-report-discovery-cometmeteorufo-etc](https://aas.org/faq/where-do-i-report-discovery-cometmeteorufo-etc)  
+   Link: <a href="https://aas.org/faq/where-do-i-report-discovery-cometmeteorufo-etc" target="_blank" rel="noopener noreferrer nofollow">https://aas.org/faq/where-do-i-report-discovery-cometmeteorufo-etc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>be reported to the Central Bureau for Astronomical Telegrams...</p></details>

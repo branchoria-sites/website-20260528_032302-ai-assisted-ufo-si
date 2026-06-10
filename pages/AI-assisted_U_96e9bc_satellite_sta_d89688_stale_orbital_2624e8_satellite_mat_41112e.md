@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /orbital-data/
 nav_short_title: Match Confidence
 title: Why nearest satellite is not always the answer
-title_full: Why nearest satellite is not always the answer | Orbital Data
+title_full: Why nearest satellite is not always the answer
 display_title_short: Match Confidence
 display_title: Match Confidence
 heading_title: Why nearest satellite is not always the answer
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Bad Orbital Data Creates False UFO Matches | Satellites
+parent_title: How Bad Orbital Data Creates False UFO Matches
 parent_permalink: /orbital-data/
 parent_nav_short_title: Orbital Data
 parent_heading_title: How Bad Orbital Data Creates False UFO Matches
@@ -260,7 +260,7 @@ next_link:
   permalink: /starlink-drift/
   short_title: Starlink Drift
   heading_title: When Starlink is only a weak UFO answer
-date: '2026-06-09 00:04:43 '
+date: '2026-06-10 20:30:56 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1.webp
@@ -275,27 +275,22 @@ A good UFO investigation does not simply ask, “Was there a satellite nearby?�
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1-dark.svg" | relative_url }}" alt="Match Confidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 [Confidence]({{ 'confidence/' | relative_url }}) scoring is designed to stop that problem. In an AI-assisted UFO workflow, automated systems should rank candidate satellite explanations according to evidence quality, orbital reliability, geometry, and observational consistency rather than returning a single definitive label. This becomes especially important when analysing historical sightings using older [orbital data]({{ 'orbital-data/' | relative_url }}), manoeuvring satellites, incomplete witness accounts, or uncertain flare events.
 
-The practical goal is not mathematical perfection. It is transparent [uncertainty]({{ 'uncertainty-labels/' | relative_url }}) handling. Readers, investigators, journalists, and witnesses should be able to see whether a proposed satellite explanation is strong, moderate, weak, or speculative — and why.
+The practical goal is not mathematical perfection. It is transparent uncertainty handling. Readers, investigators, journalists, and witnesses should be able to see whether a proposed satellite explanation is strong, moderate, weak, or speculative — and why.
 
 ## Why nearest satellite is not always the answer
 
 A common failure mode in UFO analysis software is proximity bias. The system finds the closest object in orbital databases and assumes it explains the sighting. In reality, visible satellite identification depends on several independent conditions aligning at the same time:
 
-
-<div class="content-enhancement content-enhancement--metric" markdown="1">
-
 * The satellite must actually have been in the reported sky sector.
 * The timing must match closely.
 * The satellite must have been illuminated by sunlight.
-* The observer must have been positioned within the visible reflection geometry.
+* The observer must have been positioned within the visible reflection [geometry]({{ 'geometry/' | relative_url }}).
 * The brightness must be plausible for that object type.
 * The orbital data must still have been reliable for that date.
 
-</div>
-
 If any of those conditions fail, the confidence should fall sharply.
 
-This matters because publicly available orbital predictions drift over time. Standard Two-Line Element (TLE) predictions propagated through SGP4 models can accumulate kilometre-scale errors within days, especially for low Earth orbit satellites and manoeuvring constellations such as Starlink. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCOrbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 2 — Compared to infrequently maneuvering spac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 22 — The research reveals that SGP4 achieved OP errors of...</span></span></span> Even a small positional error can move a predicted pass far enough across the sky to create a false visual “match”.
+This matters because publicly available orbital predictions drift over time. Standard Two-Line Element (TLE) predictions propagated through SGP4 models can accumulate kilometre-scale errors within days, especially for low Earth orbit satellites and manoeuvring constellations such as Starlink. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 2 — Compared to infrequently maneuvering spac...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mdpi.com">[MDPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mdpi.com</span><span class="citation-popover-snippet">Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 22 — The research reveals that SGP4 achieved OP errors of...</span></span></span> Even a small positional error can move a predicted pass far enough across the sky to create a false visual “match”.
 
 Modern mega-constellations complicate this further because satellites regularly alter orbit. Research on Starlink tracking has shown that public prediction errors can grow substantially over time and that manoeuvre activity degrades long-term reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: raa-journal.org">[Raa Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">raa-journal.org</span><span class="citation-popover-snippet">Also, the SGP4 model is not able to accurately account for the continuous low thrust effect on the...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect For UFO case review]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span>, that means “nearest object” should usually be treated as the start of the investigation, not the conclusion.
 
@@ -350,7 +345,7 @@ Low-confidence matches often involve:
 
 </div>
 
-Research into TLE propagation accuracy consistently shows prediction quality degrades with time from the orbital epoch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Inside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span> GNSS](#endnote-18 "Snippet: ENTER LEO on the GNSS Stage: Navigation with Starlink...Nov 29, 2021 — The tradeoff is in satellite position accuracy: the SGP4 propagat...") A robust scoring system therefore needs to penalise explanations built on old or weak orbital assumptions.
+Research into TLE propagation accuracy consistently shows prediction quality degrades with time from the orbital epoch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Inside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span> GNSS](#endnote-18 "Snippet: ENTER LEO on the GNSS Stage: Navigation with Starlink...Nov 29, 2021 — The tradeoff is in satellite position accuracy: the SGP4 propagat...") A robust scoring system therefore needs to penalise explanations built on old or weak orbital assumptions.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWpeN3cU17Q" title="SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: AlphaPhoenix &middot; Views: 39.4K &middot; Uploaded: July 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWpeN3cU17Q">Open on YouTube</a></p></div></div></div>
@@ -359,9 +354,9 @@ Research into TLE propagation accuracy consistently shows prediction quality deg
 
 Many false satellite identifications ignore a basic visibility question: could the object realistically have appeared that bright?
 
-Satellites do not emit visible light themselves. They reflect sunlight. Visibility therefore depends on solar geometry, [atmospheric]({{ 'scintillation/' | relative_url }}) conditions, observer position, and spacecraft orientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satfleetlive.com">[SatFleet Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satfleetlive.com</span><span class="citation-popover-title">Sat Fleet Live Why Are Satellites So Bright?</span><span class="citation-popover-snippet">satellites reflect sunlight and produce no light of their own, entering the shadow makes them immediately invisibl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flareSatellite flare, also known as satellite glint, is a brief and bright &quot;flare&quot; in visibility of an satellite. It is caus...</span></span></span> This is especially important in flare cases. Bright satellite glints can appear suddenly and disappear within seconds, producing dramatic reports that resemble UFO behaviour. Iridium flares became famous examples because highly reflective antennas created narrow reflection zones visible only from certain ground positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span>
+Satellites do not emit visible light themselves. They reflect sunlight. Visibility therefore depends on solar geometry, atmospheric conditions, observer position, and spacecraft orientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satfleetlive.com">[SatFleet Live]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satfleetlive.com</span><span class="citation-popover-title">Sat Fleet Live Why Are Satellites So Bright?</span><span class="citation-popover-snippet">satellites reflect sunlight and produce no light of their own, entering the shadow makes them immediately invisibl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flareSatellite flare, also known as satellite glint, is a brief and bright &quot;flare&quot; in visibility of an satellite. It is caus...</span></span></span> This is especially important in flare cases. Bright satellite glints can appear suddenly and disappear within seconds, producing dramatic reports that resemble UFO behaviour. Iridium flares became famous examples because highly reflective antennas created narrow reflection zones visible only from certain ground positions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span>
 
-Modern Starlink satellites can also produce strong flares under specific geometries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> But not every Starlink pass produces visible brightness. A weakly illuminated object below naked-eye visibility should not receive a high-confidence identification score simply because its orbit crossed the area.
+Modern Starlink satellites can also produce strong flares under specific geometries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> But not every Starlink pass produces visible brightness. A weakly illuminated object below naked-eye visibility should not receive a high-confidence identification score simply because its orbit crossed the area.
 
 Good scoring systems therefore separate:
 
@@ -407,10 +402,15 @@ This category is often the most honest outcome.
 
 The satellite may fit the general direction and timing, but:
 
+
+<div class="content-enhancement content-enhancement--metric" markdown="1">
+
 * witness timing may be uncertain
 * orbital data may be stale
 * brightness estimates may not fully align
 * the track may only partially overlap
+
+</div>
 
 This should not be presented as solved. It is better framed as “a plausible satellite correlation requiring caution”.
 
@@ -441,7 +441,7 @@ Sometimes the correct outcome is simply that no convincing satellite candidate e
 
 That does not automatically make a sighting extraordinary. Other explanations may remain possible:
 
-* aircraft
+* [aircraft]({{ 'aircraft/' | relative_url }})
 * drones
 * balloons
 * atmospheric optics
@@ -481,7 +481,7 @@ For example:
 
 Those cases should not collapse into the same confidence number.
 
-Research into improving orbital prediction models shows that even advanced propagation techniques still face substantial uncertainty when relying on public TLE data alone. ScienceDirect Springer That makes transparency essential. Investigators should be able to see whether uncertainty comes from the witness account <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10291-025-01963-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">position error from 2.5 km to approximately 200 m for Orbcomm satellites</span><span class="citation-popover-snippet">SpringerNetwork-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</span></span></span>, the orbital model, or the visibility reconstruction.
+Research into improving orbital prediction models shows that even advanced propagation techniques still face substantial uncertainty when relying on public TLE data alone. ScienceDirect Springer That makes transparency essential. Investigators should be able to see whether uncertainty comes from the witness account <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10291-025-01963-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">position error from 2.5 km to approximately 200 m for Orbcomm satellites</span><span class="citation-popover-snippet">Network-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</span></span></span>, the orbital model, or the visibility reconstruction.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-dark.svg" | relative_url }}" alt="Match Confidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -557,16 +557,16 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Relevant to satellite visibility, sky position and timing checks.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -574,16 +574,16 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Best fit for distinguishing strong satellite matches from weak correlations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -591,16 +591,16 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        
+        <p class="fr-book-desc">Supports practical checks of track, brightness and sky direction.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -608,16 +608,16 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
         
-        
+        <p class="fr-book-desc">Fits avoiding false closure when the nearest satellite only partly fits.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -625,13 +625,13 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -658,76 +658,72 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open satellite model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20satellite%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESatellite%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESatellite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for satellite model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">satellite model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Satellite</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=not+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-not-poster-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="not poster -book -books -dvd" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-not-poster-book-books-d" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open not poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20not%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENot%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENot%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for not poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">not poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Not</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=not+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-not-poster-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="not poster -book -books -dvd" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-not-poster-book-books-d" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=match-confidence-why-nearest-satellite-is-not-always-the-answer-ai-assisted-ufo-sighting-investi-satellite-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -785,10 +781,10 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -806,7 +802,7 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -941,146 +937,146 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
 
 1. <a id="endnote-1"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/](https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCOrbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 2 — Compared to infrequently maneuvering spac...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 2 — Compared to infrequently maneuvering spac...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2226-4310/10/6/532](https://www.mdpi.com/2226-4310/10/6/532)  
+   Link: <a href="https://www.mdpi.com/2226-4310/10/6/532" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2226-4310/10/6/532</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Research on Enhanced Orbit Prediction Techniques...by J Chen · 2023 · Cited by 22 — The research reveals that SGP4 achieved OP errors of...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.19850](https://arxiv.org/abs/2605.19850)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.19850</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: raa-journal.org  
-   Link: [https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf](https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf)  
+   Link: <a href="https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.raa-journal.org/issues/all/2022/v22n11/202211/P020221110639422377110.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Also, the SGP4 model is not able to accurately account for the continuous low thrust effect on the...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X](https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.13752](https://arxiv.org/abs/2505.13752)  
+   Link: <a href="https://arxiv.org/abs/2505.13752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.13752</a>  
 
 7. <a id="endnote-7"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121](https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117708006121</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Simplified General Perturbations-4 (SGP4) propagator was used.Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite flareSatellite flare, also known as satellite glint, is a brief and bright &quot;flare&quot; in visibility of an satellite. It is caus...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: sciencedirect.com  
    Title: ScienceDirect The visual appearance of the Iridium® satellites  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273](https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0094576502001273</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The cause of the...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Extreme Flaring of Starlink Satellites  
-   Link: [https://arxiv.org/abs/2405.13091](https://arxiv.org/abs/2405.13091)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivExtreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2405.13091" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2405.13091</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extreme Flaring of Starlink SatellitesMay 21, 2024...</p></details>
    Published: May 21, 2024  
 
 11. <a id="endnote-11"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0094576524006374](https://www.sciencedirect.com/science/article/pii/S0094576524006374)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectClosing the gap between SGP4 and high-precision...by G Acciarini · 2025 · Cited by 16 — We showed how the new propagation m...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0094576524006374" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0094576524006374</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the gap between SGP4 and high-precision...by G Acciarini · 2025 · Cited by 16 — We showed how the new propagation m...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: link.springer.com  
    Title: position error from 2.5 km to approximately 200 m for Orbcomm satellites  
-   Link: [https://link.springer.com/article/10.1007/s10291-025-01963-0](https://link.springer.com/article/10.1007/s10291-025-01963-0)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerNetwork-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</p></details>
+   Link: <a href="https://link.springer.com/article/10.1007/s10291-025-01963-0" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/article/10.1007/s10291-025-01963-0</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Network-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/1424-8220/25/13/4079](https://www.mdpi.com/1424-8220/25/13/4079)  
+   Link: <a href="https://www.mdpi.com/1424-8220/25/13/4079" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/1424-8220/25/13/4079</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 3 — Compared to infrequently maneuvering space t...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: mdpi.com  
-   Link: [https://www.mdpi.com/2076-3417/11/21/10181](https://www.mdpi.com/2076-3417/11/21/10181)  
+   Link: <a href="https://www.mdpi.com/2076-3417/11/21/10181" target="_blank" rel="noopener noreferrer nofollow">https://www.mdpi.com/2076-3417/11/21/10181</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simplified Approach to Detect Satellite Maneuvers Using...by A Mukundan · 2021 · Cited by 42 — In this study, an algorithm to identify t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S0273117716306251](https://www.sciencedirect.com/science/article/abs/pii/S0273117716306251)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S0273117716306251" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S0273117716306251</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analytical representations of precise orbit predictions for...by J Sang · 2017 · Cited by 22 — The fitting errors of the 7-day orbit pos...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/pdf/2402.04830](https://arxiv.org/pdf/2402.04830)  
+   Link: <a href="https://arxiv.org/pdf/2402.04830" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/2402.04830</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>closing the gap between sgp4 and high-precision...by G Acciarini · 2024 · Cited by 16 — Then, we also conduct an experiment on a group o...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2402.04830v2](https://arxiv.org/html/2402.04830v2)  
+   Link: <a href="https://arxiv.org/html/2402.04830v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2402.04830v2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Closing the Gap Between SGP4 and High-Precision...Feb 26, 2024 — In the context of SGP4, most of the proposed techniques focus on creati...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: satfleetlive.com  
    Title: Sat Fleet Live Why Are Satellites So Bright?  
-   Link: [https://satfleetlive.com/blogs/why-are-satellites-so-bright/](https://satfleetlive.com/blogs/why-are-satellites-so-bright/)  
+   Link: <a href="https://satfleetlive.com/blogs/why-are-satellites-so-bright/" target="_blank" rel="noopener noreferrer nofollow">https://satfleetlive.com/blogs/why-are-satellites-so-bright/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>satellites reflect sunlight and produce no light of their own, entering the shadow makes them immediately invisibl...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/259899828_Accuracy_Assessment_of_SGP4_Orbit_Information_Conversion_into_Osculating_Elements](https://www.researchgate.net/publication/259899828_Accuracy_Assessment_of_SGP4_Orbit_Information_Conversion_into_Osculating_Elements)  
+   Link: <a href="https://www.researchgate.net/publication/259899828_Accuracy_Assessment_of_SGP4_Orbit_Information_Conversion_into_Osculating_Elements" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/259899828_Accuracy_Assessment_of_SGP4_Orbit_Information_Conversion_into_Osculating_Elements</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Accuracy Assessment of SGP4 Orbit Information...Mar 12, 2022 — The satellite ephemeris derived from the TLE-SGP4 model may contain...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: amostech.com  
-   Link: [https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf](https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf)  
+   Link: <a href="https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/TechnicalPapers/2023/Poster/Constant.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis of Mega-Constellation Data Time-Series Charles CoOur investigation into TLE latencies and locations aimed to ascertain whether t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: catchingtime.com  
-   Link: [https://catchingtime.com/starlink-satellite-swarm-from-37n-latitude/](https://catchingtime.com/starlink-satellite-swarm-from-37n-latitude/)  
+   Link: <a href="https://catchingtime.com/starlink-satellite-swarm-from-37n-latitude/" target="_blank" rel="noopener noreferrer nofollow">https://catchingtime.com/starlink-satellite-swarm-from-37n-latitude/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>4/10/24: Starlink Satellite Swarm from 37°N latitudeFlares of this type are essentially direct specular reflections of the sun (which lie...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/supplemental/](https://www.celestrak.org/NORAD/elements/supplemental/)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Current Supplemental GP Element SetsThe 31 Space Track GPEs show an average error of 7.54 km over this period with a maximum error (for P...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: space-track.org  
-   Link: [https://www.space-track.org/documentation](https://www.space-track.org/documentation)  
+   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Help DocumentationThe general perturbations (GP) class is an efficient listing of the newest SGP4 keplerian element set for each man-made...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2365809903441367/posts/7829632610392375/](https://www.facebook.com/groups/2365809903441367/posts/7829632610392375/)  
+   Link: <a href="https://www.facebook.com/groups/2365809903441367/posts/7829632610392375/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2365809903441367/posts/7829632610392375/</a>  
 
 25. <a id="endnote-25"></a>
    Source: satspy.com  
-   Link: [https://satspy.com/when-to-look-satellite.html](https://satspy.com/when-to-look-satellite.html)  
+   Link: <a href="https://satspy.com/when-to-look-satellite.html" target="_blank" rel="noopener noreferrer nofollow">https://satspy.com/when-to-look-satellite.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When are the best times to look?Satellites are visible when the observer is in darkness, but the satellite is still illuminated by sunlig...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/](https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/)  
+   Link: <a href="https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some info was send to me concering the TLE&#x27;s drawn...CelesTrak was accurate. H-A wasn&#x27;t. Today I compared a prediction using yesterday&#x27;s...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: kids.kiddle.co  
-   Link: [https://kids.kiddle.co/Satellite_flare](https://kids.kiddle.co/Satellite_flare)  
+   Link: <a href="https://kids.kiddle.co/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://kids.kiddle.co/Satellite_flare</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>flare Facts for KidsIt happens when sunlight bounces off a man-made satellite and reflects directly back to Earth. Imagine a mirror catch...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: satobs.org  
-   Link: [https://www.satobs.org/iridium.html](https://www.satobs.org/iridium.html)  
+   Link: <a href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/iridium.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverIridium FlaresThe plate or MMA can provide a direct (specular) reflection of the sun&#x27;s disk. This specular reflection...</p></details>

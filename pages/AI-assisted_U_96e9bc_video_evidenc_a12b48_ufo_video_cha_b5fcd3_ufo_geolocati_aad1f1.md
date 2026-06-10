@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /chain-of-custody/
 nav_short_title: Geolocation
 title: Did This UFO Video Really Come From Here?
-title_full: Did This UFO Video Really Come From Here? | Chain of Custody
+title_full: Did This UFO Video Really Come From Here?
 display_title_short: Geolocation
 display_title: Geolocation
 heading_title: Did This UFO Video Really Come From Here?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can You Trust Where the UFO Video Came From | Video Limits
+parent_title: Can You Trust Where the UFO Video Came From
 parent_permalink: /chain-of-custody/
 parent_nav_short_title: Chain of Custody
 parent_heading_title: Can You Trust Where the UFO Video Came From
@@ -266,7 +266,7 @@ next_link:
   permalink: /missing-metadata-28b5a6/
   short_title: Missing Metadata
   heading_title: What Happens When UFO Video Metadata Disappears?
-date: '2026-06-09 00:18:30 '
+date: '2026-06-10 20:39:23 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_ufo_geolocati_aad1f1-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_ufo_geolocati_aad1f1-Illustration-1.webp
@@ -281,28 +281,23 @@ A surprising number of UFO videos collapse under a simple question: was the foot
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_ufo_geolocati_aad1f1-Illustration-1-dark.svg" | relative_url }}" alt="Geolocation illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_ufo_geolocati_aad1f1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_ufo_geolocati_aad1f1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Investigators now compare visible terrain, skylines, cloud patterns, shadows, stars and even the direction of sunset against maps, satellite imagery and environmental records. The methods are heavily borrowed from open-source intelligence work used by organisations such as Bellingcat and Amnesty International’s Evidence Lab, where analysts routinely verify the location and timing of conflict footage and eyewitness videos. bellingcat <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amnesty.de/tag/citizen-evidence-lab" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnesty.de">[Citizen Evidence Lab]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnesty.de</span><span class="citation-popover-snippet">Citizen Evidence LabDie US-Sektion von Amnesty hat ein Online-Tool entwickelt, mit dem Menschenrechtsorganisationen feststellen können, o...</span></span></span>
 
-For UFO footage, this matters because chain-of-custody problems often begin with location [uncertainty]({{ 'uncertainty-labels/' | relative_url }}). A clip labelled “over rural Wales last night” may actually match an older video filmed in Arizona years earlier. A supposed military encounter may turn out to be a commercial flight corridor visible from a completely different coastline. Geolocation does not prove that an object is extraordinary, but it can prove whether the surrounding story survives basic scrutiny.
+For UFO footage, this matters because chain-of-custody problems often begin with location uncertainty. A clip labelled “over rural Wales last night” may actually match an older video filmed in Arizona years earlier. A supposed military encounter may turn out to be a commercial flight corridor visible from a completely different coastline. Geolocation does not prove that an object is extraordinary, but it can prove whether the surrounding story survives basic scrutiny.
 
 ## Matching Skylines and Terrain Features
 
 The most reliable UFO geolocation work usually begins with ordinary physical details rather than the object itself. Mountains, road layouts, antenna masts, coastlines, building silhouettes and even tree lines can anchor a video to a real place.
 
-Open-source investigators commonly compare footage against satellite imagery, street-level imagery and 3D terrain models. Bellingcat’s published geolocation methods repeatedly emphasise identifying fixed [reference points]({{ 'reference-points/' | relative_url }}) before interpreting the event being filmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[Bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">shadow geolocate geolocation locate image tool open source bellingcat measure</span><span class="citation-popover-snippet">bellingcatGeolocate Images with Bellingcat&#x27;s Shadow Finder Tool22 Aug 2024 — Bellingcat&#x27;s new Shadow Finder Tool, developed with our Disc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[Bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">using the sun and the shadows for geolocation</span><span class="citation-popover-snippet">bellingcatUsing the Sun and the Shadows for Geolocation3 Dec 2020 — SunCalc lets users analyse the position of shadows and the sun at any...</span></span></span>
+Open-source investigators commonly compare footage against satellite imagery, street-level imagery and 3D terrain models. Bellingcat’s published geolocation methods repeatedly emphasise identifying fixed [reference points]({{ 'reference-points/' | relative_url }}) before interpreting the event being filmed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[Bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">shadow geolocate geolocation locate image tool open source bellingcat measure</span><span class="citation-popover-snippet">Geolocate Images with Bellingcat&#x27;s Shadow Finder Tool22 Aug 2024 — Bellingcat&#x27;s new Shadow Finder Tool, developed with our Disc...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[Bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">using the sun and the shadows for geolocation</span><span class="citation-popover-snippet">Using the Sun and the Shadows for Geolocation3 Dec 2020 — SunCalc lets users analyse the position of shadows and the sun at any...</span></span></span>
 
 In UFO analysis, several clues tend to matter most:
 
 * Distinctive mountain ridges or coastline shapes
 * Building spacing and roof [geometry]({{ 'geometry/' | relative_url }})
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * Road bends and junction layouts
 * Power pylons, radio towers and wind turbines
 * Relative height of landmarks
-* Horizon profile and elevation
+* Horizon profile and [elevation]({{ 'elevation/' | relative_url }})
 * Water reflections and shoreline orientation
-
-</div>
 
 A claimed location can often be tested surprisingly quickly. If a witness says a glowing object hovered west of a city skyline at sunset, the skyline orientation must physically support that claim. If the sun would actually have been behind the camera at that hour, the narrative already weakens.
 
@@ -325,26 +320,21 @@ AI-assisted workflows now automate parts of this process by:
 
 </div>
 
-That automation can dramatically reduce search time, but human review remains essential. Similar skylines can produce false positives, especially in flat terrain or dense urban areas.
+That automation can dramatically reduce search time, but human [review]({{ 'review/' | relative_url }}) remains essential. Similar skylines can produce false positives, especially in flat terrain or dense urban areas.
 
 ### The danger of cropped footage
 
-A recurring problem in viral UFO videos is aggressive cropping. [Social media]({{ 'reposts/' | relative_url }}) reposts often zoom tightly onto the alleged object, removing the wider horizon and destroying geolocation clues.
+A recurring problem in viral UFO videos is aggressive cropping. Social media [reposts]({{ 'reposts/' | relative_url }}) often zoom tightly onto the alleged object, removing the wider horizon and destroying geolocation clues.
 
 That matters because the missing surroundings may reveal entirely ordinary explanations. A distant aircraft landing path, for example, can look highly unusual once the horizon and airport approach direction are cropped out.
 
 Investigators therefore prioritise:
 
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
 1. The widest available version of the footage
 2. Earliest uploads
 3. Unedited audio
-4. Original aspect ratios
+4. [Original]({{ 'original-evidence/' | relative_url }}) aspect ratios
 5. Stable frames before digital zoom begins
-
-</div>
 
 Without those elements, AI systems may confidently analyse an incomplete or misleading visual scene.
 
@@ -357,7 +347,7 @@ Geolocation and chronolocation usually work together. Even if investigators iden
 
 Shadows are one of the strongest environmental clues available. Bellingcat and other open-source investigators regularly use sun position and shadow angle analysis to estimate where and when footage was captured. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2021/05/18/unsure-when-a-video-or-photo-was-taken-how-to-tell-by-measuring-the-length-of-shadows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Unsure When a Video or Photo was Taken?</span><span class="citation-popover-snippet">How to Tell by...18 May 2021 — It&#x27;s already well known that it&#x27;s possible to use the angle of shadows to assess the time in an image. Su...</span><span class="citation-popover-meta">Published: May 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">satellite imagery bands guide</span><span class="citation-popover-snippet">A Beginner&#x27;s Guide to Seeing More With Satellite Imagery10 Jan 2025 — The simplest way to visualise these invisible bands of light is to...</span></span></span>
 
-Modern tools such as SunCalc and Bellingcat’s Shadow Finder allow analysts to compare: <span class="citation-chip-wrap"><a class="citation-chip" href="https://bellingcat.gitbook.io/toolkit/more/all-tools/shadow-finder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.gitbook.io">[bellingcat.gitbook.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.gitbook.io</span><span class="citation-popover-title">Bellingcat Shadow Finder</span><span class="citation-popover-snippet">BellingcatShadow Finder - Bellingcat&#x27;s Online Investigation Toolkit2 Mar 2026 — Shadow Finder maps all points on the earth where a shadow...</span></span></span>
+Modern tools such as SunCalc and Bellingcat’s Shadow Finder allow analysts to compare: <span class="citation-chip-wrap"><a class="citation-chip" href="https://bellingcat.gitbook.io/toolkit/more/all-tools/shadow-finder" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.gitbook.io">[bellingcat.gitbook.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.gitbook.io</span><span class="citation-popover-title">Bellingcat Shadow Finder</span><span class="citation-popover-snippet">Shadow Finder - Bellingcat&#x27;s Online Investigation Toolkit2 Mar 2026 — Shadow Finder maps all points on the earth where a shadow...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -380,11 +370,16 @@ Weather records are often underestimated in UFO investigation. Historical weathe
 
 Investigators compare these records against what appears in the footage:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * Were the clouds consistent with reported conditions?
 * Did the moon phase match?
 * Was there rain, haze or fog at the time?
 * Did wind direction fit smoke or cloud movement?
-* Were [atmospheric]({{ 'scintillation/' | relative_url }}) conditions suitable for optical effects?
+* Were atmospheric conditions suitable for optical effects?
+
+</div>
 
 This can radically reshape a case.
 
@@ -398,7 +393,7 @@ AI-assisted systems can now automate portions of this correlation by cross-refer
 
 Night footage introduces another layer of geolocation evidence: the sky itself.
 
-Investigators increasingly use astronomy software to compare visible stars, planets and moon position against the claimed filming time and direction. A bright “hovering UFO” may align exactly with Venus, Jupiter or a known satellite pass once the camera orientation is reconstructed.
+Investigators increasingly use astronomy software to compare visible stars, planets and [moon position]({{ 'moon-position/' | relative_url }}) against the claimed filming time and direction. A bright “hovering UFO” may align exactly with Venus, Jupiter or a known satellite pass once the camera orientation is reconstructed.
 
 The same applies to aircraft routes. If geolocation places the witness beneath a known approach corridor, the probability of misidentified landing lights increases substantially.
 
@@ -431,11 +426,16 @@ A clip presented as “secret military footage” may actually come from a publi
 
 This is one reason chain-of-custody problems matter so much. Viral reposting frequently disconnects footage from the original witness account, leaving investigators with:
 
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
 * No confirmed filming position
 * No reliable compass direction
-* No exact [timestamp]({{ 'sky-checks/' | relative_url }})
+* No exact timestamp
 * No original metadata
 * No uncompressed source file
+
+</div>
 
 At that point, even sophisticated AI analysis may rest on incorrect assumptions.
 
@@ -483,7 +483,7 @@ Responsible investigation separates:
 
 * verified facts,
 * inferred possibilities,
-* [plausible]({{ 'plausible-cases/' | relative_url }}) explanations,
+* plausible explanations,
 * and unresolved unknowns.
 
 A video that cannot be geolocated should not automatically be treated as extraordinary evidence. It simply occupies a weaker evidential category.
@@ -521,14 +521,14 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Keeps the reading lane aligned with UFO case verification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -538,16 +538,16 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Fits verification of extraordinary claims through grounded checks.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -555,16 +555,16 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        
+        <p class="fr-book-desc">Useful for weighing location claims against competing signals.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -572,16 +572,16 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Prisoners+of+geography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prisoners of geography on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Prisoners+of+geography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prisoners of geography">Prisoners of geography</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Unknown author</p>
         
-        
+        <p class="fr-book-desc">Broader commercial geography pick for readers interested in maps and terrain.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Prisoners+of+geography&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -589,13 +589,13 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -622,76 +622,72 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-world-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-world-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open world map poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20world%20map%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWorld%20Map%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWorld%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMap%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for world map poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">world map poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">World</span><span class="fr-search-tag">Map</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-world-map-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="world map poster -book -books" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-world-map-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open did poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20did%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDid%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDid%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for did poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">did poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Did</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-did-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-did-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=world+map+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=geolocation-did-this-ufo-video-really-come-from-here-ai-assisted-ufo-sighting-investigation-world-map-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -749,10 +745,10 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -770,7 +766,7 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -906,223 +902,223 @@ That distinction is increasingly important in AI-assisted UFO sighting investiga
 1. <a id="endnote-1"></a>
    Source: bellingcat.com  
    Title: shadow geolocate geolocation locate image tool open source bellingcat measure  
-   Link: [https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/](https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatGeolocate Images with Bellingcat&#x27;s Shadow Finder Tool22 Aug 2024 — Bellingcat&#x27;s new Shadow Finder Tool, developed with our Disc...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Geolocate Images with Bellingcat&#x27;s Shadow Finder Tool22 Aug 2024 — Bellingcat&#x27;s new Shadow Finder Tool, developed with our Disc...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: amnesty.org  
    Title: a guide to how amnesty verifies military attacks in ukraine  
-   Link: [https://www.amnesty.org/en/latest/news/2022/03/a-guide-to-how-amnesty-verifies-military-attacks-in-ukraine/](https://www.amnesty.org/en/latest/news/2022/03/a-guide-to-how-amnesty-verifies-military-attacks-in-ukraine/)  
+   Link: <a href="https://www.amnesty.org/en/latest/news/2022/03/a-guide-to-how-amnesty-verifies-military-attacks-in-ukraine/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/latest/news/2022/03/a-guide-to-how-amnesty-verifies-military-attacks-in-ukraine/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Geo and chrono-location. Confirming where and when a video...Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bellingcat.com  
    Title: using the sun and the shadows for geolocation  
-   Link: [https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/](https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatUsing the Sun and the Shadows for Geolocation3 Dec 2020 — SunCalc lets users analyse the position of shadows and the sun at any...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Using the Sun and the Shadows for Geolocation3 Dec 2020 — SunCalc lets users analyse the position of shadows and the sun at any...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: bellingcat.com  
    Title: Unsure When a Video or Photo was Taken?  
-   Link: [https://www.bellingcat.com/resources/2021/05/18/unsure-when-a-video-or-photo-was-taken-how-to-tell-by-measuring-the-length-of-shadows/](https://www.bellingcat.com/resources/2021/05/18/unsure-when-a-video-or-photo-was-taken-how-to-tell-by-measuring-the-length-of-shadows/)  
+   Link: <a href="https://www.bellingcat.com/resources/2021/05/18/unsure-when-a-video-or-photo-was-taken-how-to-tell-by-measuring-the-length-of-shadows/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/05/18/unsure-when-a-video-or-photo-was-taken-how-to-tell-by-measuring-the-length-of-shadows/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Tell by...18 May 2021 — It&#x27;s already well known that it&#x27;s possible to use the angle of shadows to assess the time in an image. Su...</p></details>
    Published: May 2021  
 
 5. <a id="endnote-5"></a>
    Source: ncei.noaa.gov  
-   Link: [https://www.ncei.noaa.gov/cdo-web/](https://www.ncei.noaa.gov/cdo-web/)  
+   Link: <a href="https://www.ncei.noaa.gov/cdo-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/cdo-web/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ta in addition to station history information...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: open-meteo.com  
    Title: historical weather api  
-   Link: [https://open-meteo.com/en/docs/historical-weather-api](https://open-meteo.com/en/docs/historical-weather-api)  
+   Link: <a href="https://open-meteo.com/en/docs/historical-weather-api" target="_blank" rel="noopener noreferrer nofollow">https://open-meteo.com/en/docs/historical-weather-api</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>️ Historical Weather APIHistorical 🌤️ [weather data](&amp;#123;&amp;#123; &#x27;weather-data/&#x27; | relative_url &amp;#125;&amp;#125;) from 1940 onwards with weather records dating back to 1940 and hourly resolution avail...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ncei.noaa.gov  
    Title: NCEINational Centers for Environmental Information (NCEI)  
-   Link: [https://www.ncei.noaa.gov/](https://www.ncei.noaa.gov/)  
+   Link: <a href="https://www.ncei.noaa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Centers for Environmental Information (NCEI) - NOAANOAA NCEI provides trusted environmental data about historical weather, climate, ocean...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: lab.witness.org  
-   Link: [https://lab.witness.org/portfolio_page/verification/](https://lab.witness.org/portfolio_page/verification/)  
+   Link: <a href="https://lab.witness.org/portfolio_page/verification/" target="_blank" rel="noopener noreferrer nofollow">https://lab.witness.org/portfolio_page/verification/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>WITNESS Media LabWITNESS Media Lab Verification ResourcesIt includes a step-by-step guide to verify and catalog online footage of human r...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: amnesty.org  
-   Link: [https://www.amnesty.org/en/latest/news/2018/09/digitally-dissecting-atrocities-amnesty-internationals-open-source-investigations/](https://www.amnesty.org/en/latest/news/2018/09/digitally-dissecting-atrocities-amnesty-internationals-open-source-investigations/)  
+   Link: <a href="https://www.amnesty.org/en/latest/news/2018/09/digitally-dissecting-atrocities-amnesty-internationals-open-source-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/latest/news/2018/09/digitally-dissecting-atrocities-amnesty-internationals-open-source-investigations/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amnesty InternationalAmnesty International&#x27;s open source investigations26 Sep 2018 — Amnesty International has pioneered using open sourc...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: academic.oup.com  
-   Link: [https://academic.oup.com/jicj/article/21/4/661/7502637](https://academic.oup.com/jicj/article/21/4/661/7502637)  
+   Link: <a href="https://academic.oup.com/jicj/article/21/4/661/7502637" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jicj/article/21/4/661/7502637</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicExpert Evidence and Digital Open Source Informationby M Gillett · 2023 · Cited by 20 — This article examines how the Court ca...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: amnesty.org  
-   Link: [https://www.amnesty.org/en/latest/press-release/2019/12/amnesty-international-updates-citizen-evidence-lab-for-cutting-edge-open-source-human-rights-investigations/](https://www.amnesty.org/en/latest/press-release/2019/12/amnesty-international-updates-citizen-evidence-lab-for-cutting-edge-open-source-human-rights-investigations/)  
+   Link: <a href="https://www.amnesty.org/en/latest/press-release/2019/12/amnesty-international-updates-citizen-evidence-lab-for-cutting-edge-open-source-human-rights-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/latest/press-release/2019/12/amnesty-international-updates-citizen-evidence-lab-for-cutting-edge-open-source-human-rights-investigations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amnesty International updates Citizen Evidence Lab for...11 Dec 2019 — It includes guides on tools and techniques to verify open source...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: amnesty.org  
-   Link: [https://www.amnesty.org/en/wp-content/uploads/2025/09/ASA3302062025ENGLISH.pdf](https://www.amnesty.org/en/wp-content/uploads/2025/09/ASA3302062025ENGLISH.pdf)  
+   Link: <a href="https://www.amnesty.org/en/wp-content/uploads/2025/09/ASA3302062025ENGLISH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/wp-content/uploads/2025/09/ASA3302062025ENGLISH.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>devices being surveilled by unknown black ghosts with red eyes hovering...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: amnesty.org  
-   Link: [https://www.amnesty.org/ar/wp-content/uploads/2024/12/EUR7088132024ENGLISH.pdf](https://www.amnesty.org/ar/wp-content/uploads/2024/12/EUR7088132024ENGLISH.pdf)  
+   Link: <a href="https://www.amnesty.org/ar/wp-content/uploads/2024/12/EUR7088132024ENGLISH.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/ar/wp-content/uploads/2024/12/EUR7088132024ENGLISH.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>“A DIGITAL PRISON”16 Dec 2024 — The Security Lab used digital forensic tools developed by Amnesty International, including the open-sourc...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: amnesty.de  
-   Link: [https://www.amnesty.de/tag/citizen-evidence-lab](https://www.amnesty.de/tag/citizen-evidence-lab)  
+   Link: <a href="https://www.amnesty.de/tag/citizen-evidence-lab" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.de/tag/citizen-evidence-lab</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen Evidence LabDie US-Sektion von Amnesty hat ein Online-Tool entwickelt, mit dem Menschenrechtsorganisationen feststellen können, o...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: amnesty.de  
    Title: deutschland verbrechen am bildschirm aufdecken  
-   Link: [https://www.amnesty.de/informieren/amnesty-journal/deutschland-verbrechen-am-bildschirm-aufdecken](https://www.amnesty.de/informieren/amnesty-journal/deutschland-verbrechen-am-bildschirm-aufdecken)  
+   Link: <a href="https://www.amnesty.de/informieren/amnesty-journal/deutschland-verbrechen-am-bildschirm-aufdecken" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.de/informieren/amnesty-journal/deutschland-verbrechen-am-bildschirm-aufdecken</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Verbrechen am Bildschirm aufdecken7 Dec 2020 — Das Evidence Lab hat auch Luftangriffe im Jemen oder Polizeigewalt in den USA untersucht...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: lab.witness.org  
    Title: ethical wednesdays when eyewitness footage cannot be verified  
-   Link: [https://lab.witness.org/ethical-wednesdays-when-eyewitness-footage-cannot-be-verified/](https://lab.witness.org/ethical-wednesdays-when-eyewitness-footage-cannot-be-verified/)  
+   Link: <a href="https://lab.witness.org/ethical-wednesdays-when-eyewitness-footage-cannot-be-verified/" target="_blank" rel="noopener noreferrer nofollow">https://lab.witness.org/ethical-wednesdays-when-eyewitness-footage-cannot-be-verified/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Wednesdays: When Eyewitness Footage Cannot be...One of the greatest risks of using eyewitness videos in reporting is not understanding t...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/education/resource-collections/climate/climate-data-monitoring](https://www.noaa.gov/education/resource-collections/climate/climate-data-monitoring)  
+   Link: <a href="https://www.noaa.gov/education/resource-collections/climate/climate-data-monitoring" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/education/resource-collections/climate/climate-data-monitoring</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A true color satellite image of North America with some cloud cover.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bellingcat.com  
    Title: satellite imagery bands guide  
-   Link: [https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/](https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/)  
+   Link: <a href="https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2025/01/10/satellite-imagery-bands-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Seeing More With Satellite Imagery10 Jan 2025 — The simplest way to visualise these invisible bands of light is to...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/](https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/)  
+   Link: <a href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronolocation: Determining When a Photo was Taken...8 May 2023 — Bellingcat has used such chronolocation techniques to determine when u...</p></details>
    Published: May 2023  
 
 20. <a id="endnote-20"></a>
    Source: citizenevidence.org  
-   Link: [https://citizenevidence.org/](https://citizenevidence.org/)  
+   Link: <a href="https://citizenevidence.org/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen Evidence LabCitizen Evidence LabThe Evidence Lab is Amnesty International&#x27;s digital investigations team, working to advance digit...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bellingcat.gitbook.io  
    Title: quick geolocation search  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/quick-geolocation-search](https://bellingcat.gitbook.io/toolkit/more/all-tools/quick-geolocation-search)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BellingcatQuick geolocation search | Bellingcat&#x27;s Online Investigation...Feb 22, 2026 — Quick Geolocation Search is a repository of vari...</p></details>
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/quick-geolocation-search" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/quick-geolocation-search</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick geolocation search | Bellingcat&#x27;s Online Investigation...Feb 22, 2026 — Quick Geolocation Search is a repository of vari...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bellingcat.gitbook.io  
    Title: google earth pro  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/google-earth-pro](https://bellingcat.gitbook.io/toolkit/more/all-tools/google-earth-pro)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BellingcatGoogle Earth Pro | Bellingcat&#x27;s Online Investigation ToolkitFeb 25, 2026 — It allows users to explore a 3D representation of th...</p></details>
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/google-earth-pro" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/google-earth-pro</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google Earth Pro | Bellingcat&#x27;s Online Investigation ToolkitFeb 25, 2026 — It allows users to explore a 3D representation of th...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: citizenevidence.org  
    Title: geolocation through building panorama images  
-   Link: [https://citizenevidence.org/2019/12/10/geolocation-through-building-panorama-images/](https://citizenevidence.org/2019/12/10/geolocation-through-building-panorama-images/)  
+   Link: <a href="https://citizenevidence.org/2019/12/10/geolocation-through-building-panorama-images/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/2019/12/10/geolocation-through-building-panorama-images/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen Evidence LabCreating a Panorama from a Video for Geolocation and...10 Dec 2019 — Tutorial on building a single panorama image fr...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: bellingcat.gitbook.io  
    Title: Bellingcat Shadow Finder  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/shadow-finder](https://bellingcat.gitbook.io/toolkit/more/all-tools/shadow-finder)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BellingcatShadow Finder - Bellingcat&#x27;s Online Investigation Toolkit2 Mar 2026 — Shadow Finder maps all points on the earth where a shadow...</p></details>
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/shadow-finder" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/shadow-finder</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shadow Finder - Bellingcat&#x27;s Online Investigation Toolkit2 Mar 2026 — Shadow Finder maps all points on the earth where a shadow...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: citizenevidence.org  
-   Link: [https://citizenevidence.org/2021/12/10/not-everything-is-verifiable-but-thats-ok-lessons-from-a-failed-geolocation/](https://citizenevidence.org/2021/12/10/not-everything-is-verifiable-but-thats-ok-lessons-from-a-failed-geolocation/)  
+   Link: <a href="https://citizenevidence.org/2021/12/10/not-everything-is-verifiable-but-thats-ok-lessons-from-a-failed-geolocation/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/2021/12/10/not-everything-is-verifiable-but-thats-ok-lessons-from-a-failed-geolocation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Citizen Evidence LabNot Everything is Verifiable, But That&#x27;s OK10 Dec 2021 — Not Everything is Verifiable, But That&#x27;s OK: Lessons From a...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: citizenevidence.org  
    Title: Digital Verification Archives  
-   Link: [https://citizenevidence.org/category/method/digital-verification/page/2/](https://citizenevidence.org/category/method/digital-verification/page/2/)  
+   Link: <a href="https://citizenevidence.org/category/method/digital-verification/page/2/" target="_blank" rel="noopener noreferrer nofollow">https://citizenevidence.org/category/method/digital-verification/page/2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Page 2 of 6How Amnesty&#x27;s Digital Verification Corps documented the November 2019 protests in Iran · Ten questions we&#x27;re asking about ethi...</p></details>
    Published: November 2019  
 
 27. <a id="endnote-27"></a>
    Source: bellingcat.gitbook.io  
    Title: io Geolocation  
-   Link: [https://bellingcat.gitbook.io/toolkit/categories/geolocation](https://bellingcat.gitbook.io/toolkit/categories/geolocation)  
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/categories/geolocation" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/categories/geolocation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bellingcat&#x27;s Online Investigation Toolkit - GitBook12 Mar 2026 — To analyse shadows in source imagery, Shadow Finder maps all points on t...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: amnesty.org.nz  
-   Link: [https://amnesty.org.nz/amnesty-international-updates-citizen-evidence-lab-cutting-edge-open-source-human-rights/](https://amnesty.org.nz/amnesty-international-updates-citizen-evidence-lab-cutting-edge-open-source-human-rights/)  
+   Link: <a href="https://amnesty.org.nz/amnesty-international-updates-citizen-evidence-lab-cutting-edge-open-source-human-rights/" target="_blank" rel="noopener noreferrer nofollow">https://amnesty.org.nz/amnesty-international-updates-citizen-evidence-lab-cutting-edge-open-source-human-rights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ges, and highlights Amnesty International case studies showing how methodologies...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40dam_coffee/bellingcat-challenge-up-the-creek-7b878568ad25](https://medium.com/%40dam_coffee/bellingcat-challenge-up-the-creek-7b878568ad25)  
+   Link: <a href="https://medium.com/%40dam_coffee/bellingcat-challenge-up-the-creek-7b878568ad25" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40dam_coffee/bellingcat-challenge-up-the-creek-7b878568ad25</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Bellingcat Challenge: Up The Creek | by Dam CoffeeThis challenge was solved using both metadata and visual geolocation. First, extracting...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: scribd.com  
-   Link: [https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit](https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit)  
+   Link: <a href="https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/784989239/Bellingcat-s-Online-Investigation-Toolkit</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, websites to archive web pages, and much more.Read more...</p></details>
 
 ### Additional References
 
 31. <a id="endnote-31"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/bellingcat_how-to-find-a-location-using-only-the-shadow-activity-7278001752497373184-EPzm](https://www.linkedin.com/posts/bellingcat_how-to-find-a-location-using-only-the-shadow-activity-7278001752497373184-EPzm)  
+   Link: <a href="https://www.linkedin.com/posts/bellingcat_how-to-find-a-location-using-only-the-shadow-activity-7278001752497373184-EPzm" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/bellingcat_how-to-find-a-location-using-only-the-shadow-activity-7278001752497373184-EPzm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>how to find a location using only the shadow | BellingcatA tool that will let you put in the length of a shadow and get a bunch of locati...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: github.com  
-   Link: [https://github.com/bellingcat/toolkit/blob/main/gitbook/tools/shadow-finder/README.md](https://github.com/bellingcat/toolkit/blob/main/gitbook/tools/shadow-finder/README.md)  
+   Link: <a href="https://github.com/bellingcat/toolkit/blob/main/gitbook/tools/shadow-finder/README.md" target="_blank" rel="noopener noreferrer nofollow">https://github.com/bellingcat/toolkit/blob/main/gitbook/tools/shadow-finder/README.md</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>toolkit/gitbook/tools/shadow-finder/README.md at mainTo analyse shadows in source imagery, Shadow Finder maps all points on the earth whe...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: hertie-school.org  
    Title: workshop open source investigation for human rights ethics methods and practices  
-   Link: [https://www.hertie-school.org/en/news/allcontent/detail/content/workshop-open-source-investigation-for-human-rights-ethics-methods-and-practices](https://www.hertie-school.org/en/news/allcontent/detail/content/workshop-open-source-investigation-for-human-rights-ethics-methods-and-practices)  
+   Link: <a href="https://www.hertie-school.org/en/news/allcontent/detail/content/workshop-open-source-investigation-for-human-rights-ethics-methods-and-practices" target="_blank" rel="noopener noreferrer nofollow">https://www.hertie-school.org/en/news/allcontent/detail/content/workshop-open-source-investigation-for-human-rights-ethics-methods-and-practices</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Workshop: Open-source investigation for human rights17 Feb 2020 — The demonstrators presented case studies showing how methodologies such...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: factcheckni.org  
    Title: digital verification for human rights amnesty international imaginebelfast  
-   Link: [https://factcheckni.org/articles/news/digital-verification-for-human-rights-amnesty-international-imaginebelfast/](https://factcheckni.org/articles/news/digital-verification-for-human-rights-amnesty-international-imaginebelfast/)  
+   Link: <a href="https://factcheckni.org/articles/news/digital-verification-for-human-rights-amnesty-international-imaginebelfast/" target="_blank" rel="noopener noreferrer nofollow">https://factcheckni.org/articles/news/digital-verification-for-human-rights-amnesty-international-imaginebelfast/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital verification for human rights: Amnesty International...28 Mar 2019 — Citizen Evidence Lab is an online space created by Amnesty...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/shorts/X4ttdyrF7oc](https://www.youtube.com/shorts/X4ttdyrF7oc)  
+   Link: <a href="https://www.youtube.com/shorts/X4ttdyrF7oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/X4ttdyrF7oc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Simplify Geolocation with Bellingcat&#x27;s Shadow Finder ToolBellingcat&#x27;s Shadow Finder Tool simplifies geolocation by analyzing shadows. Usi...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=8RRF45BTy-8](https://www.youtube.com/watch?v=8RRF45BTy-8)  
+   Link: <a href="https://www.youtube.com/watch?v=8RRF45BTy-8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8RRF45BTy-8</a>  
 
 37. <a id="endnote-37"></a>
    Source: climate.gov  
-   Link: [https://www.climate.gov/maps-data/climate-data-primer/how-do-weather-observations-become-climate-data](https://www.climate.gov/maps-data/climate-data-primer/how-do-weather-observations-become-climate-data)  
+   Link: <a href="https://www.climate.gov/maps-data/climate-data-primer/how-do-weather-observations-become-climate-data" target="_blank" rel="noopener noreferrer nofollow">https://www.climate.gov/maps-data/climate-data-primer/how-do-weather-observations-become-climate-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How do weather observations become climate information?Once weather data has passed quality control, it becomes part of the larger data r...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: spaceweather.gov  
    Title: 43 years solar synoptic maps featured video slatecom  
-   Link: [https://www.spaceweather.gov/news/43-years-solar-synoptic-maps-featured-video-slatecom](https://www.spaceweather.gov/news/43-years-solar-synoptic-maps-featured-video-slatecom)  
+   Link: <a href="https://www.spaceweather.gov/news/43-years-solar-synoptic-maps-featured-video-slatecom" target="_blank" rel="noopener noreferrer nofollow">https://www.spaceweather.gov/news/43-years-solar-synoptic-maps-featured-video-slatecom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>43 Years of Solar Synoptic Maps featured in video on Slate...21 Sept 2015 — Slate.com posted a video showcasing each hand-drawn Solar Sy...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: humanrights.berkeley.edu  
    Title: Evidence Lab's geolocation of a video of an incident in Mahbere  
-   Link: [https://humanrights.berkeley.edu/wp-content/uploads/2024/05/Guide-for-judges.pdf](https://humanrights.berkeley.edu/wp-content/uploads/2024/05/Guide-for-judges.pdf)  
+   Link: <a href="https://humanrights.berkeley.edu/wp-content/uploads/2024/05/Guide-for-judges.pdf" target="_blank" rel="noopener noreferrer nofollow">https://humanrights.berkeley.edu/wp-content/uploads/2024/05/Guide-for-judges.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Berkeley Human Rights CenterEvaluating digital open source imagery: A guide for judges...24 May 2024 — Figure F: Terrain mapping example...</p></details>
    Published: May 2024  
 
 40. <a id="endnote-40"></a>
    Source: visualcrossing.com  
-   Link: [https://www.visualcrossing.com/](https://www.visualcrossing.com/)  
+   Link: <a href="https://www.visualcrossing.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.visualcrossing.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>queries using global historical, real-time, and forecast data from trusted sources...Read more...</p></details>

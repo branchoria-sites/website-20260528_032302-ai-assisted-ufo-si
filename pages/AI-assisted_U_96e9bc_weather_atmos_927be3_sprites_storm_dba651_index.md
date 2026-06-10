@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-weather-atmos/
 description: Focused pages that expand on Sprites.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651
-parent_title: Sprites | Weather
+parent_title: Sprites
 parent_nav_short_title: Sprites
 parent_permalink: /sprites/
 ---

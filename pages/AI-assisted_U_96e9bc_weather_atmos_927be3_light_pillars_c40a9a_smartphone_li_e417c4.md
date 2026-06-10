@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /light-pillars/
 nav_short_title: Phone Cameras
 title: Why Phone Footage Makes Light Pillars Look Alien
-title_full: Why Phone Footage Makes Light Pillars Look Alien | Light pillars
+title_full: Why Phone Footage Makes Light Pillars Look Alien
 display_title_short: Phone Cameras
 display_title: Phone Cameras
 heading_title: Why Phone Footage Makes Light Pillars Look Alien
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are those alien beams really light pillars? | Weather
+parent_title: Are those alien beams really light pillars?
 parent_permalink: /light-pillars/
 parent_nav_short_title: Light pillars
 parent_heading_title: Are those alien beams really light pillars?
@@ -260,7 +260,7 @@ prev_link:
   permalink: /light-maps/
   short_title: Light Maps
   heading_title: Can Night Light Maps Explain A UFO Beam?
-date: '2026-06-09 00:20:01 '
+date: '2026-06-10 20:40:18 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1.webp
@@ -273,7 +273,7 @@ A real light pillar can already look strange to the naked eye: a vertical shaft 
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1-dark.svg" | relative_url }}" alt="Phone Cameras illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That mismatch matters in AI-assisted UFO sighting investigation because investigators increasingly work from phone footage rather than direct [observation]({{ 'observation-vs-claim/' | relative_url }}). Computational photography systems inside modern phones aggressively brighten dark scenes, merge multiple exposures, amplify colour, and smooth noise. Those processes can unintentionally transform a faint [atmospheric]({{ 'scintillation/' | relative_url }}) optics effect into something resembling a glowing “energy beam” or a structured object. Understanding how the camera altered the scene is often as important as understanding the atmospheric phenomenon itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurotraining.net/computational-photography-how-to-capture-stunning-night-shots-with-your-phone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurotraining.net">[Euro Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurotraining.net</span><span class="citation-popover-title">Euro Tech How Computational Photography Lets Phones Shine After Dark</span><span class="citation-popover-snippet">Euro TechHow Computational Photography Lets Phones Shine After DarkSeptember 10, 2025 — 9 Sept 2025 — Discover how computational photogra...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: androidcentral.com">[Android Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">androidcentral.com</span><span class="citation-popover-snippet">At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</span></span></span>
+That mismatch matters in AI-assisted UFO sighting investigation because investigators increasingly work from phone footage rather than direct observation. Computational photography systems inside modern phones aggressively brighten dark scenes, merge multiple exposures, amplify colour, and smooth noise. Those processes can unintentionally transform a faint atmospheric optics effect into something resembling a glowing “energy beam” or a structured object. Understanding how the camera altered the scene is often as important as understanding the atmospheric phenomenon itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurotraining.net/computational-photography-how-to-capture-stunning-night-shots-with-your-phone/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurotraining.net">[Euro Tech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurotraining.net</span><span class="citation-popover-title">Euro Tech How Computational Photography Lets Phones Shine After Dark</span><span class="citation-popover-snippet">Euro TechHow Computational Photography Lets Phones Shine After DarkSeptember 10, 2025 — 9 Sept 2025 — Discover how computational photogra...</span><span class="citation-popover-meta">Published: September 10, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: androidcentral.com">[Android Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">androidcentral.com</span><span class="citation-popover-snippet">At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</span></span></span>
 
 ## Exposure Stacking Can Turn a Faint Glow Into a Solid Beam
 
@@ -293,7 +293,7 @@ Several effects combine at once:
 
 </div>
 
-The result is often a beam that appears unnaturally clean and geometrically stable. In reality, many [light pillars]({{ 'light-pillars/' | relative_url }}) flicker subtly and blend softly into surrounding haze when viewed directly by eye. Computational processing suppresses much of that ambiguity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: androidcentral.com">[Android Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">androidcentral.com</span><span class="citation-popover-snippet">At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</span></span></span> Visidon This difference becomes especially misleading in UFO investigations because viewers tend to trust video more than witness recollection. A per <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visidon.fi/why-night-hdr-is-more-challenging-than-daytime-hdr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visidon.fi">[visidon.fi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visidon.fi</span><span class="citation-popover-snippet">VisidonWhy Night HDR Is More Challenging Than Daytime HDRAt night, there is less visual information to mask mistakes, making artifacts mo...</span></span></span> son may initially describe “a strange glow” yet later reinterpret the event after seeing their own footage, now dominated by a vivid vertical column.
+The result is often a beam that appears unnaturally clean and geometrically stable. In reality, many [light pillars]({{ 'light-pillars/' | relative_url }}) flicker subtly and blend softly into surrounding haze when viewed directly by eye. Computational processing suppresses much of that ambiguity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: androidcentral.com">[Android Central]</a><span class="citation-popover" role="note"><span class="citation-popover-source">androidcentral.com</span><span class="citation-popover-snippet">At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</span></span></span> Visidon This difference becomes especially misleading in UFO investigations because viewers tend to trust video more than witness recollection. A per <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.visidon.fi/why-night-hdr-is-more-challenging-than-daytime-hdr/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visidon.fi">[visidon.fi]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visidon.fi</span><span class="citation-popover-snippet">Why Night HDR Is More Challenging Than Daytime HDRAt night, there is less visual information to mask mistakes, making artifacts mo...</span></span></span> son may initially describe “a strange glow” yet later reinterpret the event after seeing their own footage, now dominated by a vivid vertical column.
 
 ## Small Sensors Push Phones Toward Aggressive Processing
 
@@ -340,9 +340,9 @@ Common distortions include:
 
 </div>
 
-When uploaded to [social media]({{ 'reposts/' | relative_url }}), further compression and contrast enhancement can intensify the effect again. [Reposted clips]({{ 'reposted-clips/' | relative_url }}) often lose subtle gradients and dark detail, leaving only a hard luminous shaft against a black sky.
+When uploaded to social media, further compression and contrast enhancement can intensify the effect again. [Reposted clips]({{ 'reposted-clips/' | relative_url }}) often lose subtle gradients and dark detail, leaving only a hard luminous shaft against a black sky.
 
-Investigators using AI-assisted workflows should therefore preserve [original files]({{ 'original-files/' | relative_url }}) whenever possible. Metadata, exposure information, frame timing, and uncompressed originals can help distinguish genuine scene characteristics from software enhancement.
+Investigators using AI-assisted workflows should therefore preserve [original files]({{ 'original-files/' | relative_url }}) whenever possible. [Metadata]({{ 'metadata/' | relative_url }}), exposure information, frame timing, and uncompressed originals can help distinguish genuine scene characteristics from software enhancement.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-2-dark.svg" | relative_url }}" alt="Phone Cameras illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -420,7 +420,7 @@ For rapid UFO triage, several warning signs suggest a camera-amplified atmospher
 
 * The beam remains vertically aligned despite camera movement.
 * The colour matches nearby ground lighting.
-* Weather records show freezing temperatures or ice crystals.
+* [Weather]({{ 'weather/' | relative_url }}) records show [freezing]({{ 'freezing-fog/' | relative_url }}) temperatures or ice crystals.
 * Witnesses describe a weaker effect than the footage suggests.
 * The beam becomes more dramatic when digital zoom is used.
 * Different phones record the same event differently.
@@ -519,7 +519,7 @@ The key point is not that the witness fabricated the sighting. The light pillar 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -546,76 +546,72 @@ The key point is not that the witness fabricated the sighting. The light pillar 
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art â€“ Film Prints A4 A3"><img src="{{ '/assets/images/marketplace-covers/9c35116790861d91309c.jpg' | relative_url }}" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art â€“ Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art â€“ Film Prints A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/18b9c9d3e53d32eab1c8.jpg' | relative_url }}" alt="Listing image for Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien 3 Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE"><img src="{{ '/assets/images/marketplace-covers/d36e3ebcf7ff5c84331e.jpg' | relative_url }}" alt="Listing image for PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer">PREDATOR / BADLANDS / ALIENS POSTER ART PRINTS A4 A3 SIZE - BUY 2 GET ANY 2 FREE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien 1979 Movie Poster A5 A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/d6aa9c4204a047bec601.jpg' | relative_url }}" alt="Listing image for Alien 1979 Movie Poster A5 A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Alien 1979 Movie Poster A5 A4 A3 A2 A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=phone-cameras-why-phone-footage-makes-light-pillars-look-alien-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -673,10 +669,10 @@ The key point is not that the witness fabricated the sighting. The light pillar 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -694,7 +690,7 @@ The key point is not that the witness fabricated the sighting. The light pillar 
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -829,91 +825,91 @@ The key point is not that the witness fabricated the sighting. The light pillar 
 
 1. <a id="endnote-1"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/309955462_Burst_photography_for_high_dynamic_range_and_low-light_imaging_on_mobile_cameras](https://www.researchgate.net/publication/309955462_Burst_photography_for_high_dynamic_range_and_low-light_imaging_on_mobile_cameras)  
+   Link: <a href="https://www.researchgate.net/publication/309955462_Burst_photography_for_high_dynamic_range_and_low-light_imaging_on_mobile_cameras" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/309955462_Burst_photography_for_high_dynamic_range_and_low-light_imaging_on_mobile_cameras</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>y can gather, leading to noisy images in low light.Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: visidon.fi  
-   Link: [https://www.visidon.fi/why-night-hdr-is-more-challenging-than-daytime-hdr/](https://www.visidon.fi/why-night-hdr-is-more-challenging-than-daytime-hdr/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>VisidonWhy Night HDR Is More Challenging Than Daytime HDRAt night, there is less visual information to mask mistakes, making artifacts mo...</p></details>
+   Link: <a href="https://www.visidon.fi/why-night-hdr-is-more-challenging-than-daytime-hdr/" target="_blank" rel="noopener noreferrer nofollow">https://www.visidon.fi/why-night-hdr-is-more-challenging-than-daytime-hdr/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Night HDR Is More Challenging Than Daytime HDRAt night, there is less visual information to mask mistakes, making artifacts mo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: lifewire.com  
-   Link: [https://www.lifewire.com/hdr-images-on-the-iphone-camera-are-not-very-good-heres-why-7094889](https://www.lifewire.com/hdr-images-on-the-iphone-camera-are-not-very-good-heres-why-7094889)  
+   Link: <a href="https://www.lifewire.com/hdr-images-on-the-iphone-camera-are-not-very-good-heres-why-7094889" target="_blank" rel="noopener noreferrer nofollow">https://www.lifewire.com/hdr-images-on-the-iphone-camera-are-not-very-good-heres-why-7094889</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Despite advancements in phone camera technology, including Smart HDR, users like technology critic Michael Tsai and Tech YouTuber Marques...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: picturecorrect.com  
-   Link: [https://www.picturecorrect.com/decoding-darkness-how-smartphones-capture-the-night/](https://www.picturecorrect.com/decoding-darkness-how-smartphones-capture-the-night/)  
+   Link: <a href="https://www.picturecorrect.com/decoding-darkness-how-smartphones-capture-the-night/" target="_blank" rel="noopener noreferrer nofollow">https://www.picturecorrect.com/decoding-darkness-how-smartphones-capture-the-night/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Decoding Darkness: How Smartphones Capture the NightGenerally, larger sensors can gather more light, leading to better image quality and...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Rod (optical phenomenon)  
-   Link: [https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29](https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rod_%28optical_phenomenon%29</a>  
 
 6. <a id="endnote-6"></a>
    Source: eurotraining.net  
    Title: Euro Tech How Computational Photography Lets Phones Shine After Dark  
-   Link: [https://www.eurotraining.net/computational-photography-how-to-capture-stunning-night-shots-with-your-phone/](https://www.eurotraining.net/computational-photography-how-to-capture-stunning-night-shots-with-your-phone/)  
+   Link: <a href="https://www.eurotraining.net/computational-photography-how-to-capture-stunning-night-shots-with-your-phone/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurotraining.net/computational-photography-how-to-capture-stunning-night-shots-with-your-phone/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Euro TechHow Computational Photography Lets Phones Shine After DarkSeptember 10, 2025 — 9 Sept 2025 — Discover how computational photogra...</p></details>
    Published: September 10, 2025  
 
 7. <a id="endnote-7"></a>
    Source: androidcentral.com  
-   Link: [https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work](https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work)  
+   Link: <a href="https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work" target="_blank" rel="noopener noreferrer nofollow">https://www.androidcentral.com/phones/tech-talk-how-does-your-phone-cameras-night-mode-work</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the hardware level, a larger sensor and wider aperture allow more light to be captured in dark environments. However, the real innovat...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: graphics.stanford.edu  
-   Link: [https://graphics.stanford.edu/papers/night-sight-sigasia19/night-sight-sigasia19.pdf](https://graphics.stanford.edu/papers/night-sight-sigasia19/night-sight-sigasia19.pdf)  
+   Link: <a href="https://graphics.stanford.edu/papers/night-sight-sigasia19/night-sight-sigasia19.pdf" target="_blank" rel="noopener noreferrer nofollow">https://graphics.stanford.edu/papers/night-sight-sigasia19/night-sight-sigasia19.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford GraphicsHandheld Mobile Photography in Very Low LightThis paper presents a system for producing detailed, realistic- looking pho...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: medium.com  
-   Link: [https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4](https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4)  
+   Link: <a href="https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40Mike_James/take-stunning-night-photography-low-light-photos-iphone-and-android-tips-5224d5546db4</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Take stunning night photography low light photosOur objective is to capture the subject within a sufficiently lit and detailed scene, wit...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/skeptic/comments/379nt7/ufos_and_cell_phones_with_cameras/](https://www.reddit.com/r/skeptic/comments/379nt7/ufos_and_cell_phones_with_cameras/)  
+   Link: <a href="https://www.reddit.com/r/skeptic/comments/379nt7/ufos_and_cell_phones_with_cameras/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/379nt7/ufos_and_cell_phones_with_cameras/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and cell phones with cameras: r/skepticIt&#x27;s funny how now that we have cell phones with cameras and always on GPS, there has been n...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/S25Ultra/comments/1n5a8x8/artifacts_in_low_light_photos/](https://www.reddit.com/r/S25Ultra/comments/1n5a8x8/artifacts_in_low_light_photos/)  
+   Link: <a href="https://www.reddit.com/r/S25Ultra/comments/1n5a8x8/artifacts_in_low_light_photos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/S25Ultra/comments/1n5a8x8/artifacts_in_low_light_photos/</a>  
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/panoramicphotographers/posts/7021690594541658/](https://www.facebook.com/groups/panoramicphotographers/posts/7021690594541658/)  
+   Link: <a href="https://www.facebook.com/groups/panoramicphotographers/posts/7021690594541658/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/panoramicphotographers/posts/7021690594541658/</a>  
 
 13. <a id="endnote-13"></a>
    Source: alynwallacephotography.com  
    Title: astrophotography with a smartphone huawei redmi google pixel iphone  
-   Link: [https://alynwallacephotography.com/blog/astrophotography-with-a-smartphone-huawei-redmi-google-pixel-iphone](https://alynwallacephotography.com/blog/astrophotography-with-a-smartphone-huawei-redmi-google-pixel-iphone)  
+   Link: <a href="https://alynwallacephotography.com/blog/astrophotography-with-a-smartphone-huawei-redmi-google-pixel-iphone" target="_blank" rel="noopener noreferrer nofollow">https://alynwallacephotography.com/blog/astrophotography-with-a-smartphone-huawei-redmi-google-pixel-iphone</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astrophotography with a Smartphone25 Jul 2021 — By using techniques such as stacking multiple images for noise reduction, or using artifi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: aldomedia.com  
    Title: Best Tips for UFO and UAP Photography with Your  
-   Link: [https://www.aldomedia.com/blog/ufo-uap-photography-tips](https://www.aldomedia.com/blog/ufo-uap-photography-tips)  
+   Link: <a href="https://www.aldomedia.com/blog/ufo-uap-photography-tips" target="_blank" rel="noopener noreferrer nofollow">https://www.aldomedia.com/blog/ufo-uap-photography-tips</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs directly, external lighting can help illuminate surrounding details if needed. Reporting and Sharing Your Photos. Once you&#x27;ve captur...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUOnZPKDH65/](https://www.instagram.com/reel/DUOnZPKDH65/)  
+   Link: <a href="https://www.instagram.com/reel/DUOnZPKDH65/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUOnZPKDH65/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ne craft #ufo #uap #unidentified #ufosighting #orb. more. View all...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: techgenyz.com  
    Title: AI enables better HDR, realistic portrait  
-   Link: [https://techgenyz.com/next-gen-smartphone-camera-ai-brilliant-night-mode/](https://techgenyz.com/next-gen-smartphone-camera-ai-brilliant-night-mode/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TechgenyzNext-Gen Smartphone Camera AI: Brilliant Night Mode...20 Jan 2026 — Night Mode and Astro Mode use computational photography to...</p></details>
+   Link: <a href="https://techgenyz.com/next-gen-smartphone-camera-ai-brilliant-night-mode/" target="_blank" rel="noopener noreferrer nofollow">https://techgenyz.com/next-gen-smartphone-camera-ai-brilliant-night-mode/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Next-Gen Smartphone Camera AI: Brilliant Night Mode...20 Jan 2026 — Night Mode and Astro Mode use computational photography to...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: techtrendske.co.ke  
    Title: night mode smartphone photography guide  
-   Link: [https://techtrendske.co.ke/2025/08/10/night-mode-smartphone-photography-guide/](https://techtrendske.co.ke/2025/08/10/night-mode-smartphone-photography-guide/)  
+   Link: <a href="https://techtrendske.co.ke/2025/08/10/night-mode-smartphone-photography-guide/" target="_blank" rel="noopener noreferrer nofollow">https://techtrendske.co.ke/2025/08/10/night-mode-smartphone-photography-guide/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Mode Smartphone Photography Explained10 Aug 2025 — Night Mode smartphone photography blends big sensors, smart software, and AI to...</p></details>

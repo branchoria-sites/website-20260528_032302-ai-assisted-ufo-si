@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /missing-data/
 nav_short_title: Rendlesham
 title: Why Rendlesham Forest Still Divides Investigators
-title_full: Why Rendlesham Forest Still Divides Investigators | Missing Data
+title_full: Why Rendlesham Forest Still Divides Investigators
 display_title_short: Rendlesham
 display_title: Rendlesham
 heading_title: Why Rendlesham Forest Still Divides Investigators
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why So Many Older UFO Cases Stayed Unresolved | Case Match
+parent_title: Why So Many Older UFO Cases Stayed Unresolved
 parent_permalink: /missing-data/
 parent_nav_short_title: Missing Data
 parent_heading_title: Why So Many Older UFO Cases Stayed Unresolved
@@ -266,7 +266,7 @@ next_link:
   permalink: /timing-gaps/
   short_title: Timing Gaps
   heading_title: How Missing Time Windows Derail UFO Reconstruction
-date: '2026-06-08 23:43:11 '
+date: '2026-06-10 20:18:23 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_rendlesham_in_b4e099-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_rendlesham_in_b4e099-Illustration-1.webp
@@ -310,10 +310,15 @@ One reason Rendlesham still receives serious attention is the existence of the s
 
 For investigators, the tape is valuable because it preserves:
 
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
 * Approximate timing progression
 * Immediate observational language
 * Environmental reactions
-* Witness [uncertainty]({{ 'uncertainty-labels/' | relative_url }}) before later interpretation hardened
+* Witness uncertainty before later interpretation hardened
+
+</div>
 
 But even this evidence is incomplete. The recording contains gaps because the device was switched on and off repeatedly. The surviving tape lasts under 18 minutes but covers a much longer period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: commons.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">commons.wikimedia.org</span><span class="citation-popover-title">Commons File:Halt Memorandum.jpg</span><span class="citation-popover-snippet">Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</span></span></span>
 
@@ -324,7 +329,7 @@ That missing continuity creates a major reconstruction problem. A modern AI time
 
 ## How missing files and changing testimony complicated analysis
 
-Rendlesham became a textbook example of how historical UFO cases drift over time. The original evidence base was relatively small, but later books, documentaries, interviews, and conferences expanded the narrative dramatically. Some details now commonly associated with the case either appeared years later or became more specific over repeated retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Rendleshama village and civil parish near Woodbridge, Suffolk, United Kingdom. It was a royal centre of authority for the king of the...</span></span></span>
+Rendlesham became a textbook example of how historical UFO cases drift over time. The [original evidence]({{ 'original-evidence/' | relative_url }}) base was relatively small, but later books, documentaries, interviews, and conferences expanded the narrative dramatically. Some details now commonly associated with the case either appeared years later or became more specific over repeated retellings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Rendleshama village and civil parish near Woodbridge, Suffolk, United Kingdom. It was a royal centre of authority for the king of the...</span></span></span>
 
 Sergeant Jim Penniston’s later claims are central to this problem. Early witness statements did not include some of the more extraordinary details that later became associated with his account, including prolonged close inspection of a landed craft, symbolic markings, and later claims involving binary code messages. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ie/podcast/the-rendlesham-ufo-binary-code/id1602263087?i=1000756737524" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsThe Rendlesham UFO Binary Code23 Mar 2026 —... Penniston &#x27;The Rendlesham Enigma&#x27; The Rendlesham Forest Incident of Decembe...</span></span></span>
 
@@ -344,19 +349,14 @@ A modern AI-assisted investigation would attempt to reconstruct the entire local
 
 These include:
 
-* Precise witness [geolocation]({{ 'geolocation/' | relative_url }}) tracks
-
-<div class="content-enhancement content-enhancement--metric" markdown="1">
-
+* Precise witness geolocation tracks
 * Continuous radio logs
 * Full radar data
 * Verified aircraft movement data
 * Exact meteorological conditions at observation points
-* Reliable elevation and azimuth measurements
+* Reliable [elevation]({{ 'elevation/' | relative_url }}) and azimuth measurements
 * Instrument calibration records
 * Contemporaneous photography or video
-
-</div>
 
 Without those anchors, later investigators were forced to rely heavily on memory and interpretation.
 
@@ -383,13 +383,13 @@ Yet the lighthouse explanation never fully settled the case because several aspe
 
 </div>
 
-Supporters of the unresolved interpretation also point to Halt’s recorded reactions and the seriousness with which some military personnel treated the events at the time. Critics counter that military status alone does not eliminate misperception, especially during confusing nighttime conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-title">rendlesham forest incident charles halt interview 2015 2422702 Dec2015</span><span class="citation-popover-snippet">Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — Three decades on, TheJournal.ie talks to the man at the ce...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia From a modern analytical perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>, both sides are partly constrained by the same problem: [insufficient]({{ 'data-limits/' | relative_url }}) calibrated evidence.
+Supporters of the unresolved interpretation also point to Halt’s recorded reactions and the seriousness with which some military personnel treated the events at the time. Critics counter that military status alone does not eliminate misperception, especially during confusing nighttime conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thejournal.ie">[TheJournal.ie]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thejournal.ie</span><span class="citation-popover-title">rendlesham forest incident charles halt interview 2015 2422702 Dec2015</span><span class="citation-popover-snippet">Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — Three decades on, TheJournal.ie talks to the man at the ce...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia From a modern analytical perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rendlesham Forest incident</span><span class="citation-popover-snippet">Rendlesham Forest incident</span></span></span>, both sides are partly constrained by the same problem: insufficient calibrated evidence.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_rendlesham_in_b4e099-Illustration-3-dark.svg" | relative_url }}" alt="Rendlesham illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_rendlesham_in_b4e099-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_rendlesham_in_b4e099-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### How AI reconstruction would approach Rendlesham today
 
-If a comparable event occurred now, an AI-assisted workflow could test the lighthouse and astronomy hypotheses far more rigorously than investigators could in 1980.
+If a comparable event occurred now, an AI-assisted workflow could test the lighthouse and [astronomy]({{ 'astronomy/' | relative_url }}) hypotheses far more rigorously than investigators could in 1980.
 
 A modern system would attempt to correlate:
 
@@ -448,6 +448,23 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encounter in Rendlesham Forest on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=aMpnAgAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Encounter in Rendlesham Forest" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encounter in Rendlesham Forest">Encounter in Rendlesham Forest</a>
+        </h4>
+        <p class="fr-book-author">By Nick Pope, John Burroughs et al.</p>
+        
+        <p class="fr-book-desc">Directly addresses the incident, witnesses and disputed evidence.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest+by+Nick+Pope&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -455,7 +472,7 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Relevant to official witnesses and evidential controversy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -465,16 +482,16 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for evaluating contested claims and missing data.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -482,33 +499,16 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jKCyEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
         </h4>
         <p class="fr-book-author">By J. Allen Hynek</p>
         
-        
+        <p class="fr-book-desc">Provides broader case-evaluation context for unresolved incidents.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -516,13 +516,13 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encounter+in+Rendlesham+Forest&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encounter in Rendlesham Forest</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -549,76 +549,72 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open military aircraft model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20military%20aircraft%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMilitary%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAircraft%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMilitary%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAircraft%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for military aircraft model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">military aircraft model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Military</span><span class="fr-search-tag">Aircraft</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=rendlesham-why-rendlesham-forest-still-divides-investigators-ai-assisted-ufo-sighting-investigat-ufo-poster-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -676,10 +672,10 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -697,7 +693,7 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -833,146 +829,146 @@ For AI-assisted UFO sighting investigation, that may be Rendlesham’s most usef
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Rendlesham Forest incident  
-   Link: [https://en.wikipedia.org/wiki/Rendlesham_Forest_incident](https://en.wikipedia.org/wiki/Rendlesham_Forest_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham_Forest_incident</a>  
 
 2. <a id="endnote-2"></a>
    Source: ianridpath.com  
-   Link: [https://www.ianridpath.com/ufo/appendix.html](https://www.ianridpath.com/ufo/appendix.html)  
+   Link: <a href="https://www.ianridpath.com/ufo/appendix.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/appendix.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Appendix – Col Halt&#x27;s memo to the MoDThis is the text of the single-page memo written by Lt Col Halt to the UK&#x27;s Ministry of Defence repo...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: ianridpath.com  
    Title: Rendlesham Forest UFO  
-   Link: [https://www.ianridpath.com/ufo/rendlesham2c.html](https://www.ianridpath.com/ufo/rendlesham2c.html)  
+   Link: <a href="https://www.ianridpath.com/ufo/rendlesham2c.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham2c.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The witness statements 2Here are the [original](&amp;#123;&amp;#123; &#x27;original-evidence/&#x27; | relative_url &amp;#125;&amp;#125;) statements provided by five of the participants on the first night of the Rendlesham Forest...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: commons.wikimedia.org  
    Title: Commons File:Halt Memorandum.jpg  
-   Link: [https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg](https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3AHalt_Memorandum.jpg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Halt Memorandum.jpg - Wikimedia CommonsEnglish: Memorandum by Lieutenant Colonel Charles Halt to the British Minist...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ianridpath.com  
-   Link: [https://www.ianridpath.com/ufo/halttape.html](https://www.ianridpath.com/ufo/halttape.html)  
+   Link: <a href="https://www.ianridpath.com/ufo/halttape.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the Halt tapeA transcript of Col Halt&#x27;s tape recording made during his sighting of the Rendlesham Forest UFO on t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: commons.wikimedia.org  
-   Link: [https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg](https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg)  
+   Link: <a href="https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3ARendelsham.ogg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wikimedia CommonsFile:Rendelsham.ogg6 Aug 2025 — English: Declassified audio document from the UK Ministry of Defence. Audio recording ma...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: podcasts.apple.com  
-   Link: [https://podcasts.apple.com/ie/podcast/the-rendlesham-ufo-binary-code/id1602263087?i=1000756737524](https://podcasts.apple.com/ie/podcast/the-rendlesham-ufo-binary-code/id1602263087?i=1000756737524)  
+   Link: <a href="https://podcasts.apple.com/ie/podcast/the-rendlesham-ufo-binary-code/id1602263087?i=1000756737524" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/the-rendlesham-ufo-binary-code/id1602263087?i=1000756737524</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsThe Rendlesham UFO Binary Code23 Mar 2026 —... Penniston &#x27;The Rendlesham Enigma&#x27; The Rendlesham Forest Incident of Decembe...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: thejournal.ie  
    Title: rendlesham forest incident charles halt interview 2015 2422702 Dec2015  
-   Link: [https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/](https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/)  
+   Link: <a href="https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/" target="_blank" rel="noopener noreferrer nofollow">https://www.thejournal.ie/rendlesham-forest-incident-charles-halt-interview-2015-2422702-Dec2015/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Christmas lights: The inside story of one of the world&#x27;s most...24 Dec 2015 — Three decades on, TheJournal.ie talks to the man at the ce...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: ianridpath.com  
-   Link: [https://www.ianridpath.com/ufo/rendlesham1b.html](https://www.ianridpath.com/ufo/rendlesham1b.html)  
+   Link: <a href="https://www.ianridpath.com/ufo/rendlesham1b.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/rendlesham1b.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Before the month was out a real-life UFO encounter was to play itself out in Rendlesham Forest...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Rendlesham](https://en.wikipedia.org/wiki/Rendlesham)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rendlesham" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rendlesham</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendleshama village and civil parish near Woodbridge, Suffolk, United Kingdom. It was a royal centre of authority for the king of the...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: ianridpath.com  
-   Link: [https://www.ianridpath.com/ufo/halttape-analysis2.html](https://www.ianridpath.com/ufo/halttape-analysis2.html)  
+   Link: <a href="https://www.ianridpath.com/ufo/halttape-analysis2.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/halttape-analysis2.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO – the Halt tape analysedA step-by-step analysis of Col Halt&#x27;s tape recording made during his sighting of the Rendle...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nationalarchives.gov.uk  
-   Link: [https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/](https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reportsThe United States Air Commanding Officer at RAF Woodbridge, Lieutenant Colonel Charles Halt, reported seeing lights near the r...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link: [https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/](https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/)  
+   Link: <a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cdn.nationalarchives.gov.uk  
    Title: nationalarchives.gov.uk UF O files  
-   Link: [https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf](https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf)  
+   Link: <a href="https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.nationalarchives.gov.uk/documents/ufo-transcript-aug-09.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>files - August 2009 podcastThere are two files that deal with the “Rendlesham Forest” UFO sightings in Suffolk. Page 2. 2. Rendlesham is...</p></details>
    Published: August 2009  
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/qcc0to/the_halt_tapes_full_audio_recording_from_colonel/](https://www.reddit.com/r/ufo/comments/qcc0to/the_halt_tapes_full_audio_recording_from_colonel/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/qcc0to/the_halt_tapes_full_audio_recording_from_colonel/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/qcc0to/the_halt_tapes_full_audio_recording_from_colonel/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ting the Rendlesham UFO Incident. Rendlesham UFO: Lt Colonel...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: themorbidtourist.com  
    Title: rendlesham forest  
-   Link: [https://themorbidtourist.com/rendlesham-forest/](https://themorbidtourist.com/rendlesham-forest/)  
+   Link: <a href="https://themorbidtourist.com/rendlesham-forest/" target="_blank" rel="noopener noreferrer nofollow">https://themorbidtourist.com/rendlesham-forest/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Rendlesham Forest UFO Incident: What Happened?Jul 2, 2024 — During the early hours of 26th December, two United States Air Force patr...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: military-history.fandom.com  
    Title: Rendlesham Forest incident  
-   Link: [https://military-history.fandom.com/wiki/Rendlesham_Forest_incident](https://military-history.fandom.com/wiki/Rendlesham_Forest_incident)  
+   Link: <a href="https://military-history.fandom.com/wiki/Rendlesham_Forest_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/Rendlesham_Forest_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Halt by Fred A. Buran, 81st Security Police Squadron...Read more...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1cqt0ov/just_dropped_ross_coulthart_7news_special_on/](https://www.reddit.com/r/aliens/comments/1cqt0ov/just_dropped_ross_coulthart_7news_special_on/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1cqt0ov/just_dropped_ross_coulthart_7news_special_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1cqt0ov/just_dropped_ross_coulthart_7news_special_on/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>JUST DROPPED: Ross Coulthart 7News special on...JUST DROPPED: Ross Coulthart 7News special on Rendlesham Forest UFO sighting: Eyewitness...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: [https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case](https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case)  
+   Link: <a href="https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2026/apr/30/the-rendlesham-forest-mystery-its-the-perfect-storm-of-a-ufo-case</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The most notable encounter involved U.S. Air Force personnel Jim Penniston, John Burroughs, and Charles Halt, who reported strange lights...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: forestryengland.uk  
-   Link: [https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest](https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest)  
+   Link: <a href="https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest" target="_blank" rel="noopener noreferrer nofollow">https://www.forestryengland.uk/rendlesham-forest/ufo-trail-rendlesham-forest</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO trail at Rendlesham ForestThis trail will stimulate your imagination, taking you through forest, heathland and wetlands and some of t...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: santitafarella.wordpress.com  
-   Link: [https://santitafarella.wordpress.com/2009/08/20/the-rendlesham-forest-ufo-incident-the-testimony-of-sgt-james-penniston-and-col-charles-halt-usaf/](https://santitafarella.wordpress.com/2009/08/20/the-rendlesham-forest-ufo-incident-the-testimony-of-sgt-james-penniston-and-col-charles-halt-usaf/)  
+   Link: <a href="https://santitafarella.wordpress.com/2009/08/20/the-rendlesham-forest-ufo-incident-the-testimony-of-sgt-james-penniston-and-col-charles-halt-usaf/" target="_blank" rel="noopener noreferrer nofollow">https://santitafarella.wordpress.com/2009/08/20/the-rendlesham-forest-ufo-incident-the-testimony-of-sgt-james-penniston-and-col-charles-halt-usaf/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO Incident: The Testimony of Sgt...Aug 20, 2009 — And here&#x27;s the famous “Halt memo” written just a few weeks after t...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: enigmalabs.io  
-   Link: [https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c](https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c)  
+   Link: <a href="https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c" target="_blank" rel="noopener noreferrer nofollow">https://enigmalabs.io/library/3077098c-118a-4311-b071-87e6c2de4a3c</a>  
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cd6cwt_dtQI](https://www.youtube.com/watch?v=cd6cwt_dtQI)  
+   Link: <a href="https://www.youtube.com/watch?v=cd6cwt_dtQI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cd6cwt_dtQI</a>  
 
 24. <a id="endnote-24"></a>
    Source: skeptic.org.uk  
    Title: from the archive the rendlesham incident some lessons for ufology  
-   Link: [https://www.skeptic.org.uk/2006/04/from-the-archive-the-rendlesham-incident-some-lessons-for-ufology/](https://www.skeptic.org.uk/2006/04/from-the-archive-the-rendlesham-incident-some-lessons-for-ufology/)  
+   Link: <a href="https://www.skeptic.org.uk/2006/04/from-the-archive-the-rendlesham-incident-some-lessons-for-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2006/04/from-the-archive-the-rendlesham-incident-some-lessons-for-ufology/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From the archive: The Rendlesham Incident7 Apr 2006 — From the archives in 2006, Jenny Randles describes her own long involvement with th...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: discoveryuk.com  
    Title: rendlesham forest ufo britains roswell incident explored  
-   Link: [https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/](https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/)  
+   Link: <a href="https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/rendlesham-forest-ufo-britains-roswell-incident-explored/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rendlesham Forest UFO: Britain&#x27;s Roswell Incident Explored16 Dec 2024 — According to official documents, witnesses described a glowing ob...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/OMGTheWhyFiles/posts/the-rendlesham-ufo-encounter-and-the-alien-message-from-the-futurethe-night-afte/1086075023527997/](https://www.facebook.com/OMGTheWhyFiles/posts/the-rendlesham-ufo-encounter-and-the-alien-message-from-the-futurethe-night-afte/1086075023527997/)  
+   Link: <a href="https://www.facebook.com/OMGTheWhyFiles/posts/the-rendlesham-ufo-encounter-and-the-alien-message-from-the-futurethe-night-afte/1086075023527997/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/posts/the-rendlesham-ufo-encounter-and-the-alien-message-from-the-futurethe-night-afte/1086075023527997/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ghts near Rendlesham Forest in Suffolk, England, which became...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
    Title: ultimate 1980 rendlesham incident analysis was  
-   Link: [https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/](https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/uatn4n/ultimate_1980_rendlesham_incident_analysis_was/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>was the black glassy object an actual case of time travel?...In december 1980, just after midgnight, a smooth, black, glassy car-sized t...</p></details>
    Published: december 1980  

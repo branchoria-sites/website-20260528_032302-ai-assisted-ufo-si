@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /video-limits/
 nav_short_title: Chain of Custody
 title: Can You Trust Where the UFO Video Came From
-title_full: Can You Trust Where the UFO Video Came From | Video Limits
+title_full: Can You Trust Where the UFO Video Came From
 display_title_short: Chain of Custody
 display_title: Chain of Custody
 heading_title: Can You Trust Where the UFO Video Came From
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Why Clear UFO Videos Can Still Mislead | UFO Case AI
+parent_title: Why Clear UFO Videos Can Still Mislead
 parent_permalink: /video-limits/
 parent_nav_short_title: Video Limits
 parent_heading_title: Why Clear UFO Videos Can Still Mislead
@@ -285,7 +285,7 @@ next_link:
   permalink: /go-fast-parallax/
   short_title: Go Fast Parallax
   heading_title: Why the Go Fast UFO Only Looked Hypersonic
-date: '2026-06-08 23:06:37 '
+date: '2026-06-10 19:56:43 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1.webp
@@ -298,32 +298,27 @@ A UFO video can go viral within minutes, but the [original evidence]({{ 'origina
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1-dark.svg" | relative_url }}" alt="Chain of Custody illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That chain of custody problem matters because AI-assisted UFO sighting investigation depends on context as much as imagery. A striking light in the sky is far less useful without the [original file]({{ 'original-files/' | relative_url }}), upload history, device metadata, witness timeline and surrounding environmental data. Open-source verification methods developed by journalists, human rights investigators and digital forensic researchers are now widely used in UFO analysis for exactly this reason: they help determine whether footage is original, recycled, manipulated, mislabelled or impossible to verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amnesty.org/en/latest/campaigns/2014/07/real-vs-fake-how-to-authenticate-youtube-videos-for-human-rights-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnesty.org">[Amnesty International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnesty.org</span><span class="citation-popover-title">International How to authenticate You Tube videos for human rights work</span><span class="citation-popover-snippet">Amnesty InternationalHow to authenticate YouTube videos for human rights workJuly 8, 2014 — 8 Jul 2014 — The Citizen Evidence Lab—launche...</span><span class="citation-popover-meta">Published: July 8, 2014</span></span></span> 2bellingcat
+That chain of custody problem matters because AI-assisted UFO sighting investigation depends on context as much as imagery. A striking light in the sky is far less useful without the [original]({{ 'original-evidence/' | relative_url }}) file, upload history, device metadata, witness timeline and surrounding environmental data. Open-source verification methods developed by journalists, human rights investigators and digital forensic researchers are now widely used in UFO analysis for exactly this reason: they help determine whether footage is original, recycled, manipulated, mislabelled or impossible to verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amnesty.org/en/latest/campaigns/2014/07/real-vs-fake-how-to-authenticate-youtube-videos-for-human-rights-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnesty.org">[Amnesty International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnesty.org</span><span class="citation-popover-title">International How to authenticate You Tube videos for human rights work</span><span class="citation-popover-snippet">Amnesty InternationalHow to authenticate YouTube videos for human rights workJuly 8, 2014 — 8 Jul 2014 — The Citizen Evidence Lab—launche...</span><span class="citation-popover-meta">Published: July 8, 2014</span></span></span> 2bellingcat
 
 In UFO investigation, the central question is often not “does the video look convincing?” but “can anyone prove where this clip actually came from?”
 
 ## Why Public UFO Footage Loses Reliability So Quickly
 
-Most publicly circulated UFO footage reaches investigators after several stages of transformation. A witness may upload a phone video to TikTok, another user reposts it to X or YouTube, commentary channels add zooms or colour filters, and compilation accounts remove timestamps or audio. Every step can destroy evidence.
+Most publicly circulated UFO footage reaches investigators after several stages of transformation. A witness may upload a phone video to TikTok, another user [reposts]({{ 'reposts/' | relative_url }}) it to X or YouTube, commentary channels add zooms or colour filters, and compilation accounts remove timestamps or audio. Every step can destroy evidence.
 
 Modern social platforms routinely recompress uploaded video. That process may remove Exchangeable Image File Format (EXIF) metadata, reduce frame quality, alter frame rates or strip GPS information. Once the original upload is gone, later copies may preserve only the visible pixels while losing the contextual data needed for reconstruction.
 
 This creates a major weakness in UFO case analysis:
 
-
-<div class="content-enhancement content-enhancement--comparison" markdown="1">
-
 * The object may be genuine, but the claimed date or location may be false.
 * The footage may be real, but edited to exaggerate motion or brightness.
-* The clip may depict an ordinary aircraft, flare or balloon from years earlier.
+* The clip may depict an ordinary [aircraft]({{ 'aircraft/' | relative_url }}), flare or balloon from years earlier.
 * The original witness may no longer be identifiable.
 * Investigators may have no way to compare the public clip with the source recording.
 
-</div>
-
 The problem becomes especially serious when public debate outruns evidence preservation. Viral UFO clips are often mirrored thousands of times before anyone archives the first upload or contacts the uploader directly.
 
-The Pentagon’s All-domain Anomaly Resolution Office (AARO) has publicly acknowledged how damaging lost source material can be. In its published assessment of the famous “GoFast” Navy video, AARO stated that it analysed a publicly available FLIR copy because “the original file and its accompanying metadata are no longer available”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> Even in a military case with known provenance, missing source data limited what analysts could measure with confidence.
+The Pentagon’s All-domain Anomaly Resolution Office (AARO) has publicly acknowledged how damaging lost source material can be. In its published assessment of the famous “GoFast” Navy video, AARO stated that it analysed a publicly available FLIR copy because “the original file and its accompanying metadata are no longer available”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> Even in a military case with known provenance, missing source data limited what analysts could measure with confidence.
 
 ## Finding the Earliest Upload
 
@@ -383,7 +378,7 @@ This technique regularly exposes UFO footage that was originally:
 
 ### Chronolocation and geolocation
 
-Open-source investigators increasingly combine upload tracing with “chronolocation” and [geolocation]({{ 'geolocation/' | relative_url }}) techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">advanced guide verifying video content</span><span class="citation-popover-snippet">bellingcatAdvanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying image...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">a beginners guide to social media verification</span><span class="citation-popover-snippet">A Beginner&#x27;s Guide to Social Media Verification1 Nov 2021 — The following guide seeks to explain how we can be vigilant about the videos...</span></span></span>
+Open-source investigators increasingly combine upload tracing with “chronolocation” and [geolocation]({{ 'geolocation/' | relative_url }}) techniques. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">advanced guide verifying video content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying image...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">a beginners guide to social media verification</span><span class="citation-popover-snippet">A Beginner&#x27;s Guide to Social Media Verification1 Nov 2021 — The following guide seeks to explain how we can be vigilant about the videos...</span></span></span>
 
 Geolocation attempts to verify where footage was recorded by comparing visible terrain, buildings, roads, mountains or coastlines against satellite imagery and mapping tools.
 
@@ -432,7 +427,7 @@ Common examples include:
 
 Once detached from their original context, these clips can circulate for years as unexplained UFO encounters.
 
-Bellingcat’s verification guides repeatedly note that misleading footage is often not technically fake at all; it is genuine footage paired with false claims about time, place or meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-snippet">bellingcatSeparating Fact from Fiction on Social Media in Times of...Oct 26, 2023 — One simple way to check is to use Google reverse ima...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">searching the earth essential geolocation tools for verification</span><span class="citation-popover-snippet">bellingcatSearching the Earth: Essential Geolocation Tools for...25 Jul 2015 — Geolocation is a verification method where landmarks and...</span></span></span>
+Bellingcat’s verification guides repeatedly note that misleading footage is often not technically fake at all; it is genuine footage paired with false claims about time, place or meaning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-snippet">Separating Fact from Fiction on Social Media in Times of...Oct 26, 2023 — One simple way to check is to use Google reverse ima...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">searching the earth essential geolocation tools for verification</span><span class="citation-popover-snippet">Searching the Earth: Essential Geolocation Tools for...25 Jul 2015 — Geolocation is a verification method where landmarks and...</span></span></span>
 
 ### Signs that a UFO clip may have been altered
 
@@ -441,6 +436,9 @@ Alteration does not always mean advanced manipulation. In many cases, small edit
 Investigators look for:
 
 * Abrupt cuts hiding context
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
+
 * Speed changes
 * Artificial zooms
 * Stabilisation artefacts
@@ -449,6 +447,8 @@ Investigators look for:
 * Repeated frames
 * Audio mismatches
 * Overlays hiding source details
+
+</div>
 
 AI-assisted workflows can help identify some of these anomalies by comparing frame consistency, compression signatures and motion patterns across the clip. However, automated detection remains imperfect, especially after multiple reposts.
 
@@ -464,7 +464,7 @@ Metadata can provide some of the strongest anchors in a UFO investigation, yet i
 
 ### What metadata can reveal
 
-Original [video files]({{ 'video-timeline/' | relative_url }}) may contain:
+Original video files may contain:
 
 * Recording date and time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">using the sun and the shadows for geolocation</span><span class="citation-popover-snippet">3 Dec 2020 — SunCalc lets users analyse the position of shadows and the sun at any given time and date, at any given location.Read more...</span></span></span>
 * Device model
@@ -476,7 +476,7 @@ Original [video files]({{ 'video-timeline/' | relative_url }}) may contain:
 
 When matched against environmental records, these details can help reconstruct the event timeline.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[For example:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-snippet">bellingcatSeparating Fact from Fiction on Social Media in Times of...Oct 26, 2023 — One simple way to check is to use Google reverse ima...</span></span></span>
+For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-snippet">Separating Fact from Fiction on Social Media in Times of...Oct 26, 2023 — One simple way to check is to use Google reverse ima...</span></span></span>
 
 * Claimed timestamps can be checked against sunset time
 * GPS coordinates can be matched to witness descriptions
@@ -578,9 +578,9 @@ This mismatch between virality and evidential quality is one reason AI-assisted 
 
 ## What Good Chain of Custody Looks Like in a UFO Case
 
-A well-preserved UFO video case usually includes most of the [following]({{ 'following-moon/' | relative_url }}):
+A well-preserved UFO video case usually includes most of the following:
 
-* Original uncompressed file <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AAROAARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span>
+* Original uncompressed file <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span>
 * Verified witness identity or traceable source
 * Exact recording location
 * Reliable timestamp
@@ -616,7 +616,7 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Focuses on documented cases and evidential standards.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -626,16 +626,16 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Encourages source checking and skepticism toward unsupported claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -643,16 +643,16 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        
+        <p class="fr-book-desc">Supports analysis of visual material and provenance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -660,16 +660,16 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Investigations Manual on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Investigations Manual">UFO Investigations Manual</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Nigel Watson</p>
         
-        
+        <p class="fr-book-desc">Relevant to preserving chains of evidence and case documentation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Investigations+Manual+by+Nigel+Watson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -677,13 +677,13 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -710,76 +710,72 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera tripod on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20tripod%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Tripod%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETripod%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera tripod on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">camera tripod</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Tripod</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-accessory-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory lot" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-accessory-lot" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera accessory lot on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20accessory%20lot%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%20Lot%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera accessory lot on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera accessory lot</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory+lot&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-accessory-lot&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory lot" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-accessory-lot" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-you-poster-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-you-poster-book-books-d" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open you poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20you%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EYou%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EYou%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for you poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">you poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">You</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=you+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-you-poster-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="you poster -book -books -dvd" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-you-poster-book-books-d" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=chain-of-custody-can-you-trust-where-the-ufo-video-came-from-ai-assisted-ufo-sighting-investigat-camera-tripod&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -837,10 +833,10 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -858,7 +854,7 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -994,249 +990,249 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
 1. <a id="endnote-1"></a>
    Source: amnesty.org  
    Title: International How to authenticate You Tube videos for human rights work  
-   Link: [https://www.amnesty.org/en/latest/campaigns/2014/07/real-vs-fake-how-to-authenticate-youtube-videos-for-human-rights-work/](https://www.amnesty.org/en/latest/campaigns/2014/07/real-vs-fake-how-to-authenticate-youtube-videos-for-human-rights-work/)  
+   Link: <a href="https://www.amnesty.org/en/latest/campaigns/2014/07/real-vs-fake-how-to-authenticate-youtube-videos-for-human-rights-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.amnesty.org/en/latest/campaigns/2014/07/real-vs-fake-how-to-authenticate-youtube-videos-for-human-rights-work/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amnesty InternationalHow to authenticate YouTube videos for human rights workJuly 8, 2014 — 8 Jul 2014 — The Citizen Evidence Lab—launche...</p></details>
    Published: July 8, 2014  
 
 2. <a id="endnote-2"></a>
    Source: bellingcat.com  
    Title: advanced guide verifying video content  
-   Link: [https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/](https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatAdvanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying image...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Guide on Verifying Video Content30 Jun 2017 — The first step in verifying video content is the same as verifying image...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: bellingcat.com  
    Title: a beginners guide to social media verification  
-   Link: [https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/](https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/)  
+   Link: <a href="https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/01/a-beginners-guide-to-social-media-verification/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Social Media Verification1 Nov 2021 — The following guide seeks to explain how we can be vigilant about the videos...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: aaro.mil  
-   Title: Go Fast Case Resolution Card Methodology Final  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAROAARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</p></details>
+   Title: [Go Fast](&#123;&#123; 'go-fast/' | relative_url &#125;&#125;) Case Resolution Card Methodology Final  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/](https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatSeparating Fact from Fiction on Social Media in Times of...Oct 26, 2023 — One simple way to check is to use Google reverse ima...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2023/10/26/separating-fact-from-fiction-on-social-media-in-times-of-conflict/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Separating Fact from Fiction on Social Media in Times of...Oct 26, 2023 — One simple way to check is to use Google reverse ima...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: bellingcat.com  
    Title: searching the earth essential geolocation tools for verification  
-   Link: [https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/](https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcatSearching the Earth: Essential Geolocation Tools for...25 Jul 2015 — Geolocation is a verification method where landmarks and...</p></details>
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2015/07/25/searching-the-earth-essential-geolocation-tools-for-verification/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Searching the Earth: Essential Geolocation Tools for...25 Jul 2015 — Geolocation is a verification method where landmarks and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/tag/chronolocation/](https://www.bellingcat.com/tag/chronolocation/)  
+   Link: <a href="https://www.bellingcat.com/tag/chronolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/chronolocation/</a>  
 
 8. <a id="endnote-8"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/](https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/)  
+   Link: <a href="https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2023/05/08/chronolocation-determining-when-a-photo-was-taken-using-facebook-google-street-view-and-assorted-tiny-details/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chronolocation: Determining When a Photo was Taken...8 May 2023 — Bellingcat has used such chronolocation techniques to determine when u...</p></details>
    Published: May 2023  
 
 9. <a id="endnote-9"></a>
    Source: gijn.org  
    Title: 10 lessons from bellingcats logan williams on digital forensic techniques  
-   Link: [https://gijn.org/resource/10-lessons-from-bellingcats-logan-williams-on-digital-forensic-techniques/](https://gijn.org/resource/10-lessons-from-bellingcats-logan-williams-on-digital-forensic-techniques/)  
+   Link: <a href="https://gijn.org/resource/10-lessons-from-bellingcats-logan-williams-on-digital-forensic-techniques/" target="_blank" rel="noopener noreferrer nofollow">https://gijn.org/resource/10-lessons-from-bellingcats-logan-williams-on-digital-forensic-techniques/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Lessons from Bellingcat&#x27;s Logan Williams on Digital...5 May 2022 — You can check that metadata against other evidence to look for sig...</p></details>
    Published: May 2022  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=AqkwnxHLoBs](https://www.youtube.com/watch?v=AqkwnxHLoBs)  
+   Link: <a href="https://www.youtube.com/watch?v=AqkwnxHLoBs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AqkwnxHLoBs</a>  
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=Y7RZACW31tI](https://www.youtube.com/watch?v=Y7RZACW31tI)  
+   Link: <a href="https://www.youtube.com/watch?v=Y7RZACW31tI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Y7RZACW31tI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Full Episode) | UFOs: Investigating the Unknown | National Geographic...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=equWt9Dq5b0](https://www.youtube.com/watch?v=equWt9Dq5b0)  
+   Link: <a href="https://www.youtube.com/watch?v=equWt9Dq5b0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=equWt9Dq5b0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How To... Use Bellingcat&#x27;s Instagram Locations Search ToolIn this video we&#x27;ll be learning how to use Belling cat&#x27;s Instagram location Sea...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=WpRWkuYu9V8](https://www.youtube.com/watch?v=WpRWkuYu9V8)  
+   Link: <a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WpRWkuYu9V8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>All the videos from Pentagon&#x27;s first batch of UFO filesThe Pentagon on Friday began releasing more unclassified files on UFOs and UAPs, i...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=YdD7Tw2sHfQ](https://www.youtube.com/watch?v=YdD7Tw2sHfQ)  
+   Link: <a href="https://www.youtube.com/watch?v=YdD7Tw2sHfQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YdD7Tw2sHfQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US releases files on UFOs, decades of sightings revealed#GlobalNews. US releases files on UFOs, decades of sightings revealed. 63K views...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ZtBYZJIkdJc](https://www.youtube.com/watch?v=ZtBYZJIkdJc)  
+   Link: <a href="https://www.youtube.com/watch?v=ZtBYZJIkdJc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZtBYZJIkdJc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO LIVE: Secret Alien Files Finally Opened During Explosive...UFO LIVE: Secret Alien Files Finally Opened During Explosive Hearing | US...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=DDWmWkOQYdw](https://www.youtube.com/watch?v=DDWmWkOQYdw)  
+   Link: <a href="https://www.youtube.com/watch?v=DDWmWkOQYdw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DDWmWkOQYdw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO NEWS LIVE | Government UFO Files Raise Serious...LIVE: &#x27;Aliens are real&#x27;, Trump Exposes Hidden UFO Secrets That Governments Tried De...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: bellingcat.com  
    Title: first steps to getting started in open source research  
-   Link: [https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/](https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/)  
+   Link: <a href="https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2021/11/09/first-steps-to-getting-started-in-open-source-research/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>9 Nov 2021 — This guide will cover concrete steps that you can take to develop skills, discover communities based on your interests, and...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: bellingcat.com  
    Title: a beginners guide to geolocation  
-   Link: [https://www.bellingcat.com/resources/how-tos/2014/07/09/a-beginners-guide-to-geolocation/](https://www.bellingcat.com/resources/how-tos/2014/07/09/a-beginners-guide-to-geolocation/)  
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2014/07/09/a-beginners-guide-to-geolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2014/07/09/a-beginners-guide-to-geolocation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Beginner&#x27;s Guide to Geolocating Videos9 Jul 2014 — In this article, I&#x27;ll explain some of the techniques I use to identify those locatio...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/](https://www.bellingcat.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bellingcat - the home of online investigationsBellingcat has collected useful open source resources in one place to help researchers and...</p></details>
+   Link: <a href="https://www.bellingcat.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the home of online investigationsBellingcat has collected useful open source resources in one place to help researchers and...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/](https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/)  
+   Link: <a href="https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2024/08/22/shadow-geolocate-geolocation-locate-image-tool-open-source-bellingcat-measure/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geolocate Images with Bellingcat&#x27;s Shadow Finder ToolBellingcat&#x27;s new Shadow Finder Tool, developed with our Discord community, helps you...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: bellingcat.com  
-   Link: [https://www.bellingcat.com/tag/verification/](https://www.bellingcat.com/tag/verification/)  
+   Link: <a href="https://www.bellingcat.com/tag/verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/tag/verification/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VerificationHow to Conduct Comprehensive Video Collection · Advanced Guide on Verifying Video Content. Fake News · Geolocation · Verifica...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: bellingcat.com  
    Title: conduct comprehensive video collection  
-   Link: [https://www.bellingcat.com/resources/how-tos/2017/10/17/conduct-comprehensive-video-collection/](https://www.bellingcat.com/resources/how-tos/2017/10/17/conduct-comprehensive-video-collection/)  
+   Link: <a href="https://www.bellingcat.com/resources/how-tos/2017/10/17/conduct-comprehensive-video-collection/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/how-tos/2017/10/17/conduct-comprehensive-video-collection/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Conduct Comprehensive Video Collection17 Oct 2017 — This guide will provide advice and some tips on how to gather as much video as...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: bellingcat.com  
    Title: using the sun and the shadows for geolocation  
-   Link: [https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/](https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/)  
+   Link: <a href="https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/" target="_blank" rel="noopener noreferrer nofollow">https://www.bellingcat.com/resources/2020/12/03/using-the-sun-and-the-shadows-for-geolocation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Dec 2020 — SunCalc lets users analyse the position of shadows and the sun at any given time and date, at any given location.Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aaro.mil  
    Title: UAP Imagery"Go Fast" Object, NAVAIR  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA: Case: &quot;GO FAST&quot; Video, Forward-Looking [Infrared](&amp;#123;&amp;#123; &#x27;infrared-orbs/&#x27; | relative_url &amp;#125;&amp;#125;) video footage of an unidentified object recorded by the aircrew of a U.S...</p></details>
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA: Case: &quot;GO FAST&quot; Video, Forward-Looking Infrared video footage of an unidentified object recorded by the aircrew of a U.S...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: Investigating UAP: The importance of metadata and provenance  
-   Link: [https://www.youtube.com/watch?v=k4Y8U-p4UaU](https://www.youtube.com/watch?v=k4Y8U-p4UaU)  
+   Link: <a href="https://www.youtube.com/watch?v=k4Y8U-p4UaU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k4Y8U-p4UaU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Forensics: How to spot manipulated viral videos...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Digital Forensics: How to spot manipulated viral videos  
-   Link: [https://www.youtube.com/watch?v=3J5_p2y4_J4](https://www.youtube.com/watch?v=3J5_p2y4_J4)  
+   Link: <a href="https://www.youtube.com/watch?v=3J5_p2y4_J4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=3J5_p2y4_J4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why social media re-compression ruins evidence analysis...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Why social media re-compression ruins evidence analysis  
-   Link: [https://www.youtube.com/watch?v=nO3_v5W1s-w](https://www.youtube.com/watch?v=nO3_v5W1s-w)  
+   Link: <a href="https://www.youtube.com/watch?v=nO3_v5W1s-w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nO3_v5W1s-w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT techniques for verifying UFO and public footage...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
    Title: OSINT techniques for verifying UFO and public footage  
-   Link: [https://www.youtube.com/watch?v=Vp6c8Z9cT4w](https://www.youtube.com/watch?v=Vp6c8Z9cT4w)  
+   Link: <a href="https://www.youtube.com/watch?v=Vp6c8Z9cT4w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Vp6c8Z9cT4w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The challenge of chain of custody in modern UAP investigations...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: The challenge of chain of custody in modern UAP investigations  
-   Link: [https://www.youtube.com/watch?v=mD2_W3u8d9E](https://www.youtube.com/watch?v=mD2_W3u8d9E)  
+   Link: <a href="https://www.youtube.com/watch?v=mD2_W3u8d9E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mD2_W3u8d9E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OSINT video verification techniques digital forensics UFO Top 3 OSINT tools for Finding Anyone on the Internet Guide4 cyber...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: theverge.com  
    Title: The Verge How the experts figure out what's real in the age of deepfakes  
-   Link: [https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway](https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway)  
+   Link: <a href="https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway" target="_blank" rel="noopener noreferrer nofollow">https://www.theverge.com/tech/888303/photo-video-fake-news-verification-nyt-bellingway</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Trusted digital investigators like The New York Times, Bellingcat, and Indicator rely on rigorous verification protocols to discern real...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: bellingcat.gitbook.io  
    Title: Bellingcat In VID  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/invid](https://bellingcat.gitbook.io/toolkit/more/all-tools/invid)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BellingcatInVID - Bellingcat&#x27;s Online Investigation Toolkit - GitBook3 May 2026 — The InVID Verification Plugin is a comprehensive toolki...</p></details>
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/invid" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/invid</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>InVID - Bellingcat&#x27;s Online Investigation Toolkit - GitBook3 May 2026 — The InVID Verification Plugin is a comprehensive toolki...</p></details>
    Published: May 2026  
 
 32. <a id="endnote-32"></a>
    Source: bellingcat.gitbook.io  
-   Link: [https://bellingcat.gitbook.io/toolkit](https://bellingcat.gitbook.io/toolkit)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BellingcatHome - Bellingcat&#x27;s Online Investigation Toolkit - GitBookSep 25, 2025 — Our toolkit includes satellite and mapping services, t...</p></details>
+   Link: <a href="https://bellingcat.gitbook.io/toolkit" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Home - Bellingcat&#x27;s Online Investigation Toolkit - GitBookSep 25, 2025 — Our toolkit includes satellite and mapping services, t...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/](https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/)  
+   Link: <a href="https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1iooz44/pentagon_releases_aaro_report_on_go_fast_video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>telemetry from the F/A-18F, AARO had to account for a range...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: bellingcat.gitbook.io  
    Title: io M W Geofind  
-   Link: [https://bellingcat.gitbook.io/toolkit/more/all-tools/mw-geofind](https://bellingcat.gitbook.io/toolkit/more/all-tools/mw-geofind)  
+   Link: <a href="https://bellingcat.gitbook.io/toolkit/more/all-tools/mw-geofind" target="_blank" rel="noopener noreferrer nofollow">https://bellingcat.gitbook.io/toolkit/more/all-tools/mw-geofind</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geofind - Bellingcat&#x27;s Online Investigation Toolkit - GitBook18 Mar 2026 — MW Geofind is an online tool designed for identifying YouTube...</p></details>
 
 ### Additional References
 
 35. <a id="endnote-35"></a>
    Source: medium.com  
-   Link: [https://medium.com/1st-draft/knowing-where-to-look-sources-of-imagery-for-geolocation-b13f9d816413](https://medium.com/1st-draft/knowing-where-to-look-sources-of-imagery-for-geolocation-b13f9d816413)  
+   Link: <a href="https://medium.com/1st-draft/knowing-where-to-look-sources-of-imagery-for-geolocation-b13f9d816413" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/1st-draft/knowing-where-to-look-sources-of-imagery-for-geolocation-b13f9d816413</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Knowing where to look: Sources of imagery for geolocationBellingcat&#x27;s Eliot Higgins explains where he turns to for corroborating evidence...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
    Title: ufo or drone involved in mid air collision with jet over florida remains in myst  
-   Link: [https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/](https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/)  
+   Link: <a href="https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AIRLINESECRETS/posts/ufo-or-drone-involved-in-mid-air-collision-with-jet-over-florida-remains-in-myst/588794373784590/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO or drone involved in mid-air collision with jet over...UFO or drone involved in mid-air collision with jet over Florida remains in m...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: nypost.com  
    Title: pentagon claims to debunk famous gofast ufo radar video  
-   Link: [https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/](https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/)  
+   Link: <a href="https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/11/20/us-news/pentagon-claims-to-debunk-famous-gofast-ufo-radar-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon claims to debunk famous &#x27;GOFAST&#x27; UFO radar...20 Nov 2024 — The “GOFAST” video shows a radar recording of an object that appeare...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: defensescoop.com  
    Title: uap aaro findings go fast puerto rico mt etna objects  
-   Link: [https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/](https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/)  
+   Link: <a href="https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2024/11/19/uap-aaro-findings-go-fast-puerto-rico-mt-etna-objects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>parallax&#x27; makes it look like the object is moving much faster.” He said AARO officials wrote a paper on parallax that was released on the...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/](https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/)  
+   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/reports-indicate-that-congress-is-pressing-the-pentagon-to-release-46-classified/1610016534458313/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ed UFO videos. Lawmakers insist that these recordings, still kept...</p></details>
 
 40. <a id="endnote-40"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DYU1MzyRtsi/](https://www.instagram.com/reel/DYU1MzyRtsi/)  
+   Link: <a href="https://www.instagram.com/reel/DYU1MzyRtsi/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYU1MzyRtsi/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>files being released by the government......Read more...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: samimaatta.fi  
    Title: verifying a video from social media  
-   Link: [https://samimaatta.fi/en/verifying-a-video-from-social-media/](https://samimaatta.fi/en/verifying-a-video-from-social-media/)  
+   Link: <a href="https://samimaatta.fi/en/verifying-a-video-from-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://samimaatta.fi/en/verifying-a-video-from-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Sept 2022 — Bellingcat&#x27;s investigation flowchart. Originality: Was the image or video used before? Who? Who is the source of the photo...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: metabunk.org  
    Title: nasa panel analyzes go fast.13174  
-   Link: [https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/](https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/)  
+   Link: <a href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of parallax—b...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: dailygrail.com  
    Title: The Daily Grail Not So (Go)Fast!  
-   Link: [https://www.dailygrail.com/2025/02/not-so-gofast-uap-government-office-presents-analysis-of-navy-video/](https://www.dailygrail.com/2025/02/not-so-gofast-uap-government-office-presents-analysis-of-navy-video/)  
+   Link: <a href="https://www.dailygrail.com/2025/02/not-so-gofast-uap-government-office-presents-analysis-of-navy-video/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2025/02/not-so-gofast-uap-government-office-presents-analysis-of-navy-video/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Government Office Presents...19 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: exposingtheinvisible.org  
    Title: creative geolocation  
-   Link: [https://exposingtheinvisible.org/en/articles/creative-geolocation/](https://exposingtheinvisible.org/en/articles/creative-geolocation/)  
+   Link: <a href="https://exposingtheinvisible.org/en/articles/creative-geolocation/" target="_blank" rel="noopener noreferrer nofollow">https://exposingtheinvisible.org/en/articles/creative-geolocation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting Creative with GeolocationAug 9, 2021 — During a Bellingcat investigation to geolocate an image of mass executions in or near Beng...</p></details>

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /orbital-data/
 nav_short_title: TLE Choice
 title: Did the right orbital data match the sighting?
-title_full: Did the right orbital data match the sighting? | Orbital Data
+title_full: Did the right orbital data match the sighting?
 display_title_short: TLE Choice
 display_title: TLE Choice
 heading_title: Did the right orbital data match the sighting?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How Bad Orbital Data Creates False UFO Matches | Satellites
+parent_title: How Bad Orbital Data Creates False UFO Matches
 parent_permalink: /orbital-data/
 parent_nav_short_title: Orbital Data
 parent_heading_title: How Bad Orbital Data Creates False UFO Matches
@@ -260,7 +260,7 @@ prev_link:
   permalink: /starlink-drift/
   short_title: Starlink Drift
   heading_title: When Starlink is only a weak UFO answer
-date: '2026-06-09 00:04:16 '
+date: '2026-06-10 20:30:37 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_26
 
 ## Introduction
 
-A satellite identification is only as trustworthy as the [orbital data]({{ 'orbital-data/' | relative_url }}) used to generate it. In UFO and UAP case [review]({{ 'review/' | relative_url }}), one of the most common hidden errors is matching a sighting against the wrong Two-Line Element set, usually called a TLE. A TLE is not a permanent description of an orbit. It is a dated orbital snapshot tied to a specific epoch time, and prediction accuracy falls away as the orbit evolves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">CelesTrakFrequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span>
+A satellite identification is only as trustworthy as the [orbital data]({{ 'orbital-data/' | relative_url }}) used to generate it. In UFO and UAP case [review]({{ 'review/' | relative_url }}), one of the most common hidden errors is matching a sighting against the wrong Two-Line Element set, usually called a TLE. A TLE is not a permanent description of an orbit. It is a dated orbital snapshot tied to a specific epoch time, and prediction accuracy falls away as the orbit evolves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1-dark.svg" | relative_url }}" alt="TLE Choice illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -277,7 +277,7 @@ That matters directly when investigating historical sightings. A bright moving o
 
 ## Why TLE epoch dates matter
 
-Every TLE contains an epoch: the exact [reference]({{ 'reference-points/' | relative_url }}) time at which the orbital elements are intended to best describe the satellite’s position and motion. CelesTrak’s documentation describes the epoch as the time to which all time-varying orbital fields are referenced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">CelesTrakFrequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span>
+Every TLE contains an epoch: the exact reference time at which the orbital elements are intended to best describe the satellite’s position and motion. CelesTrak’s documentation describes the epoch as the time to which all time-varying orbital fields are referenced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span>
 
 This creates a basic but critical rule for sighting analysis:
 
@@ -292,15 +292,15 @@ This creates a basic but critical rule for sighting analysis:
 
 Many false satellite matches originate from software silently violating that rule. Some online trackers prioritise convenience over forensic reconstruction. A user enters a historical date, but the platform still relies on recent orbital elements and propagates them backward far beyond their reliable range.
 
-The problem is especially severe with modern constellations. Starlink spacecraft regularly manoeuvre, change altitude, and experience varying drag conditions. Recent empirical work on Starlink propagation found median errors growing from roughly 1 km at six hours to tens of kilometres after seven days, depending on orbit shell and modelling assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span>
+The problem is especially severe with modern constellations. Starlink spacecraft regularly manoeuvre, change altitude, and experience varying drag conditions. Recent empirical work on Starlink propagation found median errors growing from roughly 1 km at six hours to tens of kilometres after seven days, depending on orbit shell and modelling assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span>
 
-For UFO investigation, even a modest timing or positional error can matter because apparent brightness depends on exact geometry between the satellite, Sun, and observer. A propagated path that is only slightly wrong may still produce a convincing-looking sky track on a map while failing to reproduce the actual visual appearance reported by witnesses.
+For UFO investigation, even a modest timing or positional error can matter because apparent brightness depends on exact [geometry]({{ 'geometry/' | relative_url }}) between the satellite, Sun, and observer. A propagated path that is only slightly wrong may still produce a convincing-looking sky track on a map while failing to reproduce the actual visual appearance reported by witnesses.
 
 ## The hidden trap in “perfect” satellite matches
 
 A suspiciously clean match is not automatically a strong match.
 
-AI-assisted investigation systems can create false confidence if they treat orbital prediction as deterministic rather than probabilistic. A generated report may state:
+AI-assisted investigation systems can create [false confidence]({{ 'false-confidence/' | relative_url }}) if they treat orbital prediction as deterministic rather than probabilistic. A generated report may state:
 
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -340,16 +340,13 @@ In practice, a credible historical match should answer several separate question
 
 A system that only checks sky position can easily produce false positives.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bcvnfQlz1x4" title="The Only Video Needed to Understand Orbital Mechanics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bcvnfQlz1x4" target="_blank" rel="noopener noreferrer">The Only Video Needed to Understand Orbital Mechanics</a></p><p class="youtube-embed-meta">Channel: Animations Xplaned</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bcvnfQlz1x4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bcvnfQlz1x4">Open on YouTube</a></p></div></div></div>
-
 ## Live feeds versus historical archives
 
 Many public-facing satellite tools are designed for present-time observing rather than forensic reconstruction. That distinction matters more than many investigators realise.
 
 ### Live tracking feeds are optimised for convenience
 
-Modern feeds from sources such as CelesTrak or Space-Track provide continuously updated GP data and TLE sets intended for operational tracking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">CelesTrakFrequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">CelesTrakFrequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span>
+Modern feeds from sources such as CelesTrak or Space-Track provide continuously updated GP data and TLE sets intended for operational tracking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span>
 
 For current observations this works well enough. A user wants to know whether the ISS will pass overhead tonight, and the software uses fresh orbital elements generated near the observation time.
 
@@ -363,7 +360,7 @@ Historical TLE archives preserve orbital element sets as they existed at earlier
 
 Important examples include:
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[* CelesTrak archival datasets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">CelesTrakFrequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[* Space-Track historical GP records]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-snippet">Space TrackHelp DocumentationWhat is a TLE checksum? A checksum is rudimentary means of detecting errors which may have been introduced d...</span></span></span>
+<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[* CelesTrak archival datasets]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space-track.org">[* Space-Track historical GP records]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space-track.org</span><span class="citation-popover-snippet">Space TrackHelp DocumentationWhat is a TLE checksum? A checksum is rudimentary means of detecting errors which may have been introduced d...</span></span></span>
 * Jonathan McDowell’s Planet4589 historical element archives <span class="citation-chip-wrap"><a class="citation-chip" href="https://planet4589.org/space/ele.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planet4589.org">[Planet 4589]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planet4589.org</span><span class="citation-popover-snippet">Planet 4589Historical TLE Orbital ElementsThis database is useful for historical analysis, but does not contain recent element sets and s...</span></span></span>
 
 These datasets are imperfect. Some records are incomplete. Some historical catalogues contain object misidentifications or corrected entries. McDowell specifically notes cases where NORAD issued TLEs describing the orbit of a different object than the listed catalogue number. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planet4589.org/space/ele.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planet4589.org">[Planet 4589]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planet4589.org</span><span class="citation-popover-snippet">Planet 4589Historical TLE Orbital ElementsThis database is useful for historical analysis, but does not contain recent element sets and s...</span></span></span>
@@ -398,16 +395,13 @@ Low Earth orbit objects create most false UFO satellite matches because they:
 
 </div>
 
-Starlink has intensified this issue because the constellation is enormous and constantly changing. Research into orbital decay and prediction error during Solar Cycle 25 shows how geomagnetic activity can accelerate orbital changes and reduce prediction reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span>
+Starlink has intensified this issue because the constellation is enormous and constantly changing. Research into orbital decay and prediction error during Solar Cycle 25 shows how geomagnetic activity can accelerate orbital changes and reduce prediction reliability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span>
 
 This means a reconstructed pass from stale data may place a satellite in approximately the right part of the sky while still being wrong in visible behaviour, timing, brightness, or direction.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VqOqZBRZsj8" title="Firearm Science: Bullet Trajectory" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VqOqZBRZsj8" target="_blank" rel="noopener noreferrer">Firearm Science: Bullet Trajectory</a></p><p class="youtube-embed-meta">Channel: GOnraMedia</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VqOqZBRZsj8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VqOqZBRZsj8">Open on YouTube</a></p></div></div></div>
-
 ## AI systems can amplify bad orbital assumptions
 
-Automation improves UFO investigation only if [uncertainty]({{ 'uncertainty-labels/' | relative_url }}) is preserved properly.
+Automation improves UFO investigation only if uncertainty is preserved properly.
 
 A common failure mode is:
 
@@ -425,12 +419,12 @@ The workflow appears rigorous, but the uncertainty may never be exposed to the u
 
 A more credible AI-assisted process should retain:
 
+* TLE epoch age
+* propagation duration
+* [confidence]({{ 'confidence/' | relative_url }}) interval
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* TLE epoch age
-* propagation duration
-* confidence interval
 * manoeuvre risk
 * archive source
 * atmospheric conditions
@@ -455,7 +449,7 @@ A satellite explanation should not be treated as persuasive unless the underlyin
 
 For historical UFO analysis, a minimally credible satellite match should include:
 
-Required metadataWhy it mattersTLE epoch timestampShows whether the orbital data were temporally appropriateSource archiveDistinguishes live feeds from historical recordsPropagation intervalIndicates how far the orbit was extrapolatedSatellite catalogue numberPrevents confusion between similarly named objectsIllumination statusDetermines whether the object could actually be visibleObserver coordinatesVisibility changes strongly with locationPredicted magnitude or brightness estimateHelps compare against witness descriptionDirection and [elevation]({{ 'elevation/' | relative_url }}) trackAllows comparison against reported movementConfidence or uncertainty statementPrevents false certainty
+Required metadataWhy it mattersTLE epoch timestampShows whether the orbital data were temporally appropriateSource archiveDistinguishes live feeds from historical recordsPropagation intervalIndicates how far the orbit was extrapolatedSatellite catalogue numberPrevents confusion between similarly named objectsIllumination statusDetermines whether the object could actually be visibleObserver coordinatesVisibility changes strongly with locationPredicted magnitude or brightness estimateHelps compare against witness descriptionDirection and elevation trackAllows comparison against reported movementConfidence or uncertainty statementPrevents false certainty
 
 Without this metadata, a “satellite identified” label is difficult to audit and easy to overstate.
 
@@ -471,9 +465,6 @@ A TLE generated days or weeks away from the event is a warning sign, especially 
 
 If a tool cannot show where the orbital data came from, the result is difficult to verify independently.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ywpREl0aYME" title="Space Situational Awareness Scientia In Absentia, by Moriba Jah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ywpREl0aYME" target="_blank" rel="noopener noreferrer">Space Situational Awareness Scientia In Absentia, by Moriba Jah</a></p><p class="youtube-embed-meta">Channel: Global Challenges Foundation</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ywpREl0aYME" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ywpREl0aYME">Open on YouTube</a></p></div></div></div>
-
 ### The match only fits position, not behaviour
 
 A satellite may occupy the same region of sky while failing to match:
@@ -487,11 +478,11 @@ A satellite may occupy the same region of sky while failing to match:
 
 ### The object was manoeuvring
 
-Modern satellites frequently alter orbit. Some studies now focus specifically on detecting manoeuvres and anomalies within TLE histories because standard propagation assumptions fail during active orbital changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span>
+Modern satellites frequently alter orbit. Some studies now focus specifically on detecting manoeuvres and anomalies within TLE histories because standard propagation assumptions fail during active orbital changes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span>
 
 ### The explanation depends on excessive propagation
 
-SGP4 propagation models are practical and widely used, but even developers and documentation sources note that TLE usefulness is limited around the epoch window. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pypi.org/project/sgp4/2.13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pypi.org">[PyPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pypi.org</span><span class="citation-popover-snippet">PyPIsgp4 2.13Track earth satellite TLE orbits using up-to-date 2010 version of SGP4.... Each TLE record specifies the “epoch date” for w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Two-line_element_set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Two-line element set</span><span class="citation-popover-snippet">Two-line element setA two-line element set (TLE, or more rarely 2LE) or three-line element set (3LE) is a data format encoding a list...</span></span></span> A reconstruction propagated too far beyond the original epoch may look precise while carrying large hidden uncertainty.
+SGP4 propagation models are practical and widely used, but even developers and documentation sources note that TLE usefulness is limited around the epoch window. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pypi.org/project/sgp4/2.13/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pypi.org">[PyPI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pypi.org</span><span class="citation-popover-snippet">sgp4 2.13Track earth satellite TLE orbits using up-to-date 2010 version of SGP4.... Each TLE record specifies the “epoch date” for w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Two-line_element_set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Two-line element set</span><span class="citation-popover-snippet">Two-line element setA two-line element set (TLE, or more rarely 2LE) or three-line element set (3LE) is a data format encoding a list...</span></span></span> A reconstruction propagated too far beyond the original epoch may look precise while carrying large hidden uncertainty.
 
 ## The practical takeaway for UFO case analysis
 
@@ -520,16 +511,16 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Supports sky reconstruction and satellite-pass checking for historical reports.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -537,16 +528,16 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Strong fit for stale orbital data and false matches.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -554,16 +545,16 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        
+        <p class="fr-book-desc">Provides practical context for sky maps and observing geometry.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -571,16 +562,16 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orbital Mechanics for Engineering Students on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rzw4wOHDpjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Orbital Mechanics for Engineering Students" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orbital Mechanics for Engineering Students">Orbital Mechanics for Engineering Students</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Howard D. Curtis</p>
         
-        
+        <p class="fr-book-desc">Relevant to TLEs, orbit propagation and why satellite predictions drift.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -588,13 +579,13 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -621,76 +612,72 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open satellite model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20satellite%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESatellite%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESatellite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for satellite model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">satellite model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Satellite</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open rocket model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20rocket%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERocket%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERocket%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for rocket model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">rocket model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Rocket</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-did-poster-book-books-dv&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-did-poster-book-books-dv" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open did poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20did%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDid%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDid%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for did poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">did poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Did</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=did+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-did-poster-book-books-dv&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="did poster -book -books -dvd" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-did-poster-book-books-dv" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=tle-choice-did-the-right-orbital-data-match-the-sighting-ai-assisted-ufo-sighting-investigation-satellite-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -748,10 +735,10 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -769,7 +756,7 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -904,171 +891,171 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
 
 1. <a id="endnote-1"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/columns/v04n03/](https://www.celestrak.org/columns/v04n03/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CelesTrakFrequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</p></details>
+   Link: <a href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/columns/v04n03/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Two-line element set  
-   Link: [https://en.wikipedia.org/wiki/Two-line_element_set](https://en.wikipedia.org/wiki/Two-line_element_set)  
+   Link: <a href="https://en.wikipedia.org/wiki/Two-line_element_set" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Two-line_element_set</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Two-line element setA two-line element set (TLE, or more rarely 2LE) or three-line element set (3LE) is a data format encoding a list...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2605.19850](https://arxiv.org/abs/2605.19850)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivHow long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
+   Link: <a href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2605.19850</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv How long can you trust a Starlink TLE?  
-   Link: [https://arxiv.org/html/2605.19850v1](https://arxiv.org/html/2605.19850v1)  
+   Link: <a href="https://arxiv.org/html/2605.19850v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2605.19850v1</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>An empirical...8 days ago — We exploit both features by sampling starting TLEs at one per satellite-day and searching for matching end T...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: planet4589.org  
-   Link: [https://planet4589.org/space/ele.html](https://planet4589.org/space/ele.html)  
+   Link: <a href="https://planet4589.org/space/ele.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/ele.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Planet 4589Historical TLE Orbital ElementsThis database is useful for historical analysis, but does not contain recent element sets and s...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: planet4589.org  
-   Link: [https://planet4589.org/space/xtle.html](https://planet4589.org/space/xtle.html)  
+   Link: <a href="https://planet4589.org/space/xtle.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/xtle.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Not infrequently, NORAD issued a TLE for one object which really described the...Read more...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/](https://www.celestrak.org/NORAD/elements/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CelesTrakNORAD GP Element Sets Current DataIf you are looking for an easy way to determine which GP groups a particular object is in, you...</p></details>
+   Link: <a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD GP Element Sets Current DataIf you are looking for an easy way to determine which GP groups a particular object is in, you...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/documentation/gp-data-formats.php](https://www.celestrak.org/NORAD/documentation/gp-data-formats.php)  
+   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A New Way to Obtain GP Data (aka TLEs)CelesTrak will work to ensure that all GP data received via 18 SPCS and Space Track will be ingeste...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: space-track.org  
-   Link: [https://www.space-track.org/documentation](https://www.space-track.org/documentation)  
+   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space TrackHelp DocumentationWhat is a TLE checksum? A checksum is rudimentary means of detecting errors which may have been introduced d...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2505.13752](https://arxiv.org/abs/2505.13752)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivTracking Reentries of Starlink Satellites During the Rising Phase of Solar Cycle 25May 19, 2025...</p></details>
+   Link: <a href="https://arxiv.org/abs/2505.13752" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2505.13752</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Reentries of Starlink Satellites During the Rising Phase of Solar Cycle 25May 19, 2025...</p></details>
    Published: May 19, 2025  
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2312.02460](https://arxiv.org/abs/2312.02460)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivOptimal Proposal Particle Filters for Detecting Anomalies and Manoeuvres from Two Line Element DataDecember 5, 2023...</p></details>
+   Link: <a href="https://arxiv.org/abs/2312.02460" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.02460</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Optimal Proposal Particle Filters for Detecting Anomalies and Manoeuvres from Two Line Element DataDecember 5, 2023...</p></details>
    Published: December 5, 2023  
 
 13. <a id="endnote-13"></a>
    Source: pypi.org  
-   Link: [https://pypi.org/project/sgp4/2.13/](https://pypi.org/project/sgp4/2.13/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>PyPIsgp4 2.13Track earth satellite TLE orbits using up-to-date 2010 version of SGP4.... Each TLE record specifies the “epoch date” for w...</p></details>
+   Link: <a href="https://pypi.org/project/sgp4/2.13/" target="_blank" rel="noopener noreferrer nofollow">https://pypi.org/project/sgp4/2.13/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>sgp4 2.13Track earth satellite TLE orbits using up-to-date 2010 version of SGP4.... Each TLE record specifies the “epoch date” for w...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: arxiv.org  
    Title: arXiv Hybrid SGP4 orbit propagator  
-   Link: [https://arxiv.org/abs/1703.03569](https://arxiv.org/abs/1703.03569)  
+   Link: <a href="https://arxiv.org/abs/1703.03569" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1703.03569</a>  
 
 15. <a id="endnote-15"></a>
    Source: celestrak.org  
-   Link: [https://celestrak.org/columns/v04n05/](https://celestrak.org/columns/v04n05/)  
+   Link: <a href="https://celestrak.org/columns/v04n05/" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/columns/v04n05/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>More Frequently Asked QuestionsHow often these updates occur depends upon a number of factors such as the orbit type or maneuvering capab...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: celestrak.org  
    Title: tle fmt  
-   Link: [https://celestrak.org/NORAD/documentation/tle-fmt.php](https://celestrak.org/NORAD/documentation/tle-fmt.php)  
+   Link: <a href="https://celestrak.org/NORAD/documentation/tle-fmt.php" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/documentation/tle-fmt.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NORAD Two-Line Element Set Format1 Jul 2022 — Lines 1 and 2 are the standard Two-Line Orbital Element Set Format identical to that used b...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/supplemental/](https://www.celestrak.org/NORAD/elements/supplemental/)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Current Supplemental GP Element SetsTLE/3LE 2LE... That means the supplemental GPEs, which are generated with an epoch matching that TOA...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/supplemental/index.php?FORMAT=tle](https://www.celestrak.org/NORAD/elements/supplemental/index.php?FORMAT=tle)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/index.php?FORMAT=tle" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/index.php?FORMAT=tle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Current Supplemental GP Element SetsIt should be noted that the Space Track GPEs used here have epochs ranging from Day 361.44451533 to D...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: celestrak.org  
    Title: sup gp queries  
-   Link: [https://celestrak.org/NORAD/documentation/sup-gp-queries.php](https://celestrak.org/NORAD/documentation/sup-gp-queries.php)  
+   Link: <a href="https://celestrak.org/NORAD/documentation/sup-gp-queries.php" target="_blank" rel="noopener noreferrer nofollow">https://celestrak.org/NORAD/documentation/sup-gp-queries.php</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Perform SupGP QueriesMar 19, 2026 — Allowed formats are: TLE or 3LE: Three-line element sets. 2LE: Two-line element sets (no satel...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: planet4589.org  
-   Link: [https://planet4589.org/space/index.html](https://planet4589.org/space/index.html)  
+   Link: <a href="https://planet4589.org/space/index.html" target="_blank" rel="noopener noreferrer nofollow">https://planet4589.org/space/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jonathan&#x27;s Space Home PageHistorical satellite TLE orbital elements (up to 2005). Historical orbital elements (including contributions fr...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: x.com  
-   Link: [https://x.com/planet4589](https://x.com/planet4589)  
+   Link: <a href="https://x.com/planet4589" target="_blank" rel="noopener noreferrer nofollow">https://x.com/planet4589</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Jonathan McDowell (@planet4589) / Posts / XJonathan McDowell (@planet4589) - Posts - Astronomer commenting on space launches. Orbital Pol...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: satsig.net  
    Title: tle archive  
-   Link: [https://www.satsig.net/satellite/tle-archive/tle-archive.htm](https://www.satsig.net/satellite/tle-archive/tle-archive.htm)  
+   Link: <a href="https://www.satsig.net/satellite/tle-archive/tle-archive.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.satsig.net/satellite/tle-archive/tle-archive.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Collection of old geostationary two line...Raw TLE text files from 1998 onwards, about one per year for geostationary Clarke orbit satel...</p></details>
 
 ### Additional References
 
 25. <a id="endnote-25"></a>
    Source: satfleetlive.com  
-   Link: [https://satfleetlive.com/blogs/what-is-a-tle/](https://satfleetlive.com/blogs/what-is-a-tle/)  
+   Link: <a href="https://satfleetlive.com/blogs/what-is-a-tle/" target="_blank" rel="noopener noreferrer nofollow">https://satfleetlive.com/blogs/what-is-a-tle/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What is a TLE and How to Read ItTLE data is published for free by CelesTrak / NORAD and updated regularly. SatFleet Live refreshes its TL...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153/SDC6-paper153.pdf](https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153/SDC6-paper153.pdf)  
+   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153/SDC6-paper153.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/153/SDC6-paper153.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Public release of the TLE catalog has occurred for many years, first...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: space.stackexchange.com  
    Title: can the tle epoch be listed as in the future how  
-   Link: [https://space.stackexchange.com/questions/28365/can-the-tle-epoch-be-listed-as-in-the-future-how](https://space.stackexchange.com/questions/28365/can-the-tle-epoch-be-listed-as-in-the-future-how)  
+   Link: <a href="https://space.stackexchange.com/questions/28365/can-the-tle-epoch-be-listed-as-in-the-future-how" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/28365/can-the-tle-epoch-be-listed-as-in-the-future-how</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How?12 Jul 2018 — Can the epoch time of a TLE be in the future? Context: ISS TLE from Heavens Above 1 25544U 98067A 18193.60071450.00016...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: docs.poliastro.space  
    Title: space Loading OMM and TLE satellite data  
-   Link: [https://docs.poliastro.space/en/latest/examples/loading-OMM-and-TLE-satellite-data.html](https://docs.poliastro.space/en/latest/examples/loading-OMM-and-TLE-satellite-data.html)  
+   Link: <a href="https://docs.poliastro.space/en/latest/examples/loading-OMM-and-TLE-satellite-data.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.poliastro.space/en/latest/examples/loading-OMM-and-TLE-satellite-data.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OMM and TLE satellite data - poliastroFrom the Celestrak TLE FAQ: The elements in the two-line element sets are mean elements calculated...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: docs.poliastro.space  
    Title: space Loading OMM and TLE satellite data  
-   Link: [https://docs.poliastro.space/en/stable/examples/Loading%20OMM%20and%20TLE%20satellite%20data.html](https://docs.poliastro.space/en/stable/examples/Loading%20OMM%20and%20TLE%20satellite%20data.html)  
+   Link: <a href="https://docs.poliastro.space/en/stable/examples/Loading%20OMM%20and%20TLE%20satellite%20data.html" target="_blank" rel="noopener noreferrer nofollow">https://docs.poliastro.space/en/stable/examples/Loading%20OMM%20and%20TLE%20satellite%20data.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OMM and TLE satellite data - poliastroPropagate the TLE or OMM using the SGP4 algorithm, which produces cartesian elements (position and...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: space.stackexchange.com  
    Title: is an orbital epoch merely a timestamp  
-   Link: [https://space.stackexchange.com/questions/1896/is-an-orbital-epoch-merely-a-timestamp](https://space.stackexchange.com/questions/1896/is-an-orbital-epoch-merely-a-timestamp)  
+   Link: <a href="https://space.stackexchange.com/questions/1896/is-an-orbital-epoch-merely-a-timestamp" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/1896/is-an-orbital-epoch-merely-a-timestamp</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an orbital epoch merely a timestamp?11 Sept 2013 — The epoch defines the time to which all of the time-varying fields in the element set...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: aerospace.jamiepegg.com  
    Title: two line element sets tle  
-   Link: [https://aerospace.jamiepegg.com/osint-and-reconnaissance/satellite-telemetry/two-line-element-sets-tle](https://aerospace.jamiepegg.com/osint-and-reconnaissance/satellite-telemetry/two-line-element-sets-tle)  
+   Link: <a href="https://aerospace.jamiepegg.com/osint-and-reconnaissance/satellite-telemetry/two-line-element-sets-tle" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.jamiepegg.com/osint-and-reconnaissance/satellite-telemetry/two-line-element-sets-tle</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>jamiepegg.comTwo-Line Element Sets (TLE) - Satellite Security GuideOct 15, 2024 — A two-line element set (TLE/2LE) or three-line element...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: space.stackexchange.com  
    Title: comtwo line elements  
-   Link: [https://space.stackexchange.com/questions/26290/obtain-archived-tle-data](https://space.stackexchange.com/questions/26290/obtain-archived-tle-data)  
+   Link: <a href="https://space.stackexchange.com/questions/26290/obtain-archived-tle-data" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/26290/obtain-archived-tle-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>line elements - Obtain archived TLE data29 Mar 2018 — Now I&#x27;m achieving the up-to-date TLE from the celestrak.com and tle.info However, f...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: analyticalgraphics.my.site.com  
    Title: Where can I find archived or historical TLE data  
-   Link: [https://analyticalgraphics.my.site.com/faqs/articles/Keyword/Where-can-I-find-archived-or-historical-TLE-data](https://analyticalgraphics.my.site.com/faqs/articles/Keyword/Where-can-I-find-archived-or-historical-TLE-data)  
+   Link: <a href="https://analyticalgraphics.my.site.com/faqs/articles/Keyword/Where-can-I-find-archived-or-historical-TLE-data" target="_blank" rel="noopener noreferrer nofollow">https://analyticalgraphics.my.site.com/faqs/articles/Keyword/Where-can-I-find-archived-or-historical-TLE-data</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For each, you can specify a historical date. Problem, Where can I find archived or...Read more...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/](https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/)  
+   Link: <a href="https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/Satellite.apt.group/posts/3151860448330702/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Some info was send to me concering the TLE&#x27;s drawn...This means that, until Heavens-above updates the TLE, their predicted times will be...</p></details>

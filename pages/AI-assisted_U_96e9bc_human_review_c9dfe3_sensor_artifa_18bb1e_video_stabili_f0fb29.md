@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /sensor-errors/
 nav_short_title: False Motion
 title: Can camera software fake impossible UFO movement?
-title_full: Can camera software fake impossible UFO movement? | Sensor Errors
+title_full: Can camera software fake impossible UFO movement?
 display_title_short: False Motion
 display_title: False Motion
 heading_title: Can camera software fake impossible UFO movement?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could the Camera Be Creating the UFO? | Review
+parent_title: Could the Camera Be Creating the UFO?
 parent_permalink: /sensor-errors/
 parent_nav_short_title: Sensor Errors
 parent_heading_title: Could the Camera Be Creating the UFO?
@@ -260,7 +260,7 @@ next_link:
   permalink: /focus-blur/
   short_title: Focus Blur
   heading_title: Why blurry lights become triangle UFOs on camera
-date: '2026-06-08 23:21:27 '
+date: '2026-06-10 20:05:23 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18b
 
 ## Introduction
 
-A surprising amount of “impossible” UFO motion is created by the camera rather than the object in the sky. Modern phones, drones and military imaging systems routinely stabilise footage in real time, digitally shifting frames to reduce shake and keep the horizon steady. Combined with rolling shutter distortion, zoom, [autofocus]({{ 'focus-blur/' | relative_url }}) and low-light processing, that correction can make ordinary lights appear to leap sideways, stop instantly, accelerate unnaturally or hover with impossible precision.
+A surprising amount of “impossible” UFO motion is created by the camera rather than the object in the sky. Modern phones, drones and military imaging systems routinely stabilise footage in real time, digitally shifting frames to reduce shake and keep the horizon steady. Combined with rolling shutter distortion, zoom, autofocus and low-light processing, that correction can make ordinary lights appear to leap sideways, stop instantly, accelerate unnaturally or hover with impossible precision.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-dark.svg" | relative_url }}" alt="False Motion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -290,7 +290,7 @@ Image stabilisation is designed to make handheld footage look smoother. Cameras 
 
 These systems are optimised for human viewing, not scientific measurement. Their goal is to reduce visible shake, even if that means altering the apparent path of objects within the frame.
 
-This becomes especially misleading in UFO clips because the object is often tiny, bright and distant. A small light against a dark sky gives the stabilisation software very little reliable [reference]({{ 'reference-points/' | relative_url }}) information. Instead of locking perfectly onto the target, the software may stabilise against the background horizon, clouds or noise patterns while the bright point appears to jump unpredictably.
+This becomes especially misleading in UFO clips because the object is often tiny, bright and distant. A small light against a dark sky gives the stabilisation software very little reliable reference information. Instead of locking perfectly onto the target, the software may stabilise against the background horizon, clouds or noise patterns while the bright point appears to jump unpredictably.
 
 A common failure mode appears during heavy zoom. Tiny hand movements become massively exaggerated at long focal lengths, so stabilisation software aggressively compensates. The result can resemble sudden lateral acceleration by the object itself. In reality, the camera is drifting one way while the software overcorrects the other way.
 
@@ -307,17 +307,17 @@ Investigators reviewing UFO footage therefore need to separate three different m
 
 </div>
 
-Without that separation, a perfectly ordinary aircraft light can appear to perform extraordinary manoeuvres.
+Without that separation, a perfectly ordinary [aircraft]({{ 'aircraft/' | relative_url }}) light can appear to perform extraordinary manoeuvres.
 
 ## Why “hovering perfectly still” can also be fake
 
-Stabilisation does not only create false acceleration. It can also create the illusion of impossible [hovering]({{ 'wind-checks/' | relative_url }}).
+Stabilisation does not only create false acceleration. It can also create the illusion of impossible hovering.
 
 Many UFO reports describe an object that remains “locked in place” despite obvious camera shake. This often feels convincing because the background visibly moves while the bright object appears unnaturally stable. However, some stabilisation systems prioritise bright contrast features and may partially anchor the image around the target itself.
 
 This can create a false impression that the object is intelligently holding position against wind or motion.
 
-The effect becomes more dramatic at night because there are fewer stable reference points in the scene. A bright planet, distant aircraft landing light or drone LED may become the most visually dominant element in the frame. The stabilisation algorithm may then treat it as an anchor point, suppressing camera shake around it while the surrounding background shifts.
+The effect becomes more dramatic at night because there are fewer stable [reference points]({{ 'reference-points/' | relative_url }}) in the scene. A bright planet, distant aircraft landing light or drone LED may become the most visually dominant element in the frame. The stabilisation algorithm may then treat it as an anchor point, suppressing camera shake around it while the surrounding background shifts.
 
 Investigators should therefore be cautious when witnesses say a filmed object “stayed perfectly still” despite handheld filming. The stability may belong to the software correction rather than the object in the sky.
 
@@ -347,7 +347,7 @@ These distortions are well known in cinematography and drone footage, but in UFO
 
 A bright point of light filmed during rapid panning can become elongated or warped because different rows of the sensor captured the object at slightly different moments. A moving aircraft may appear to bend sharply. A hovering drone can appear to oscillate or ripple unnaturally.
 
-Adobe’s own documentation on rolling shutter correction describes how fast motion and sensor readout timing create visible distortion in video footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adobe.com">[Adobe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adobe.com</span><span class="citation-popover-snippet">AdobeHow to fix the rolling shutter effectVideo cameras that have rolling shutters can create unintended distortions in your footage. Lea...</span></span></span> Technical research into rolling shutter stabilisation likewise shows that modern stabilisation systems actively reshape frames to compensate for these distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[graphics.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">Using our algorithm, we show...Read more...</span></span></span>
+Adobe’s own documentation on rolling shutter correction describes how fast motion and sensor readout timing create visible distortion in video footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adobe.com">[Adobe]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adobe.com</span><span class="citation-popover-snippet">How to fix the rolling shutter effectVideo cameras that have rolling shutters can create unintended distortions in your footage. Lea...</span></span></span> Technical research into rolling shutter stabilisation likewise shows that modern stabilisation systems actively reshape frames to compensate for these distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[graphics.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">Using our algorithm, we show...Read more...</span></span></span>
 
 That correction process matters because stabilisation and rolling shutter interact with each other. The software is not merely recording the distortion. It is trying to predict and repair it in real time.
 
@@ -379,16 +379,16 @@ A typical sequence looks like this:
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Understanding Exposure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=v4lw2lZKmioC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Understanding Exposure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Understanding Exposure">Understanding Exposure</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-author">By Bryan F. Peterson</p>
+        <p class="fr-book-popularity">Rating: 4.5/5 from 19 Google Books ratings</p>
+        <p class="fr-book-desc">Relevant to how cameras alter apparent light and motion.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Understanding+Exposure+by+Bryan+F.+Peterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -396,16 +396,16 @@ A typical sequence looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Helps readers separate image evidence from camera-created effects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -413,16 +413,16 @@ A typical sequence looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports testing sensor explanations before claiming impossible motion.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -430,16 +430,16 @@ A typical sequence looks like this:
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        
+        <p class="fr-book-desc">Fits misread motion caused by stabilisation and processing.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -447,13 +447,13 @@ A typical sequence looks like this:
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Understanding+Exposure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Understanding Exposure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -480,76 +480,72 @@ A typical sequence looks like this:
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set"><img src="{{ '/assets/images/marketplace-covers/574ef758882798ed962a.jpg' | relative_url }}" alt="Listing image for 6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">6in1 Camera Cleaner Kit For Digital Camera Lens Sensor Cleaning Tools Set</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera tripod on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20tripod%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Tripod%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETripod%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera tripod on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">camera tripod</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Tripod</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for K&amp;F CONCEPT 10-in-1 Camera Cleaning Kit with Lens Pen, Air Blower ,Cloth, Liquid"><img src="{{ '/assets/images/marketplace-covers/fd2d983785f6c03910bd.jpg' | relative_url }}" alt="Listing image for K&amp;F CONCEPT 10-in-1 Camera Cleaning Kit with Lens Pen, Air Blower ,Cloth, Liquid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">K&amp;F CONCEPT 10-in-1 Camera Cleaning Kit with Lens Pen, Air Blower ,Cloth, Liquid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-filter" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera filter on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20filter%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Filter%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EFilter%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera filter on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera filter</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Filter</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+filter&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-filter&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera filter" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-filter" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lens Camera Cleaning Brush DSLR Kit Professional For Canon/Nikon/Sony Panasonic"><img src="{{ '/assets/images/marketplace-covers/52190ab33c4f77558585.jpg' | relative_url }}" alt="Listing image for Lens Camera Cleaning Brush DSLR Kit Professional For Canon/Nikon/Sony Panasonic" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">Lens Camera Cleaning Brush DSLR Kit Professional For Canon/Nikon/Sony Panasonic</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning"><img src="{{ '/assets/images/marketplace-covers/d24ac360e1803eb2ee7e.jpg' | relative_url }}" alt="Listing image for Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">Camera Lens Cleaning Kit-30 Pcs - Professional DSLR Camera APS-C Sensor Cleaning</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for camera lens cleaning kit">Search <span data-ebay-domain-label>eBay.co.uk</span>: camera lens cleaning kit</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open memory card reader on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20memory%20card%20reader%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemory%20Card%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EReader%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemory%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECard%3C%2Ftext%3E%3Crect%20x%3D%22132%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22142%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EReader%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for memory card reader on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">memory card reader</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Memory</span><span class="fr-search-tag">Card</span><span class="fr-search-tag">Reader</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=camera+lens+cleaning+kit&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera lens cleaning kit" data-ebay-reference="false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-lens-cleaning-ki" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=false-motion-can-camera-software-fake-impossible-ufo-movement-ai-assisted-ufo-sighting-investiga-camera-tripod&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -607,10 +603,10 @@ A typical sequence looks like this:
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -628,7 +624,7 @@ A typical sequence looks like this:
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -780,7 +776,7 @@ People sometimes assume that military footage avoids these issues because it com
 
 Infrared tracking systems often stabilise the horizon or target independently while the sensor assembly rotates internally. This can make glare patterns or optical artefacts appear to rotate, drift or maintain impossible orientation relative to the background.
 
-Debates around the US Navy “Gimbal” footage frequently centre on this issue. Some analysts argue that the apparent rotation reflects sensor and glare behaviour inside the stabilised imaging system rather than physical rotation of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
+Debates around the US Navy “Gimbal” footage frequently centre on this issue. Some analysts argue that the apparent rotation reflects sensor and glare behaviour inside the stabilised imaging system rather than physical rotation of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
 
 The key investigative point is not whether every sceptical interpretation is correct. It is that stabilised military footage still requires sensor analysis before motion claims can be trusted.
 
@@ -796,13 +792,13 @@ Investigators should ask:
 * Do stars or clouds shift consistently with the object?
 * Does the object move independently of frame corrections?
 * Are apparent accelerations synchronised with camera shake?
-* Does the motion persist in the unstabilised original footage?
+* Does the motion persist in the unstabilised [original]({{ 'original-evidence/' | relative_url }}) footage?
 
 A useful technique is frame-by-frame background tracking. If trees, rooftops or stars move in patterns matching the “UFO manoeuvre”, the movement is probably camera-induced.
 
 This becomes especially important in AI-assisted workflows. Motion-analysis systems can mistakenly classify stabilisation artefacts as anomalous behaviour if they only track the bright target rather than the full frame context.
 
-Parallax errors can compound the problem. A distant object viewed against moving foreground references may appear to accelerate dramatically even when travelling at ordinary speed. Researchers discussing Navy UFO videos have repeatedly pointed to parallax and camera motion as major sources of misleading apparent velocity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">PBS3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</span></span></span>
+Parallax errors can compound the problem. A distant object viewed against moving foreground references may appear to accelerate dramatically even when travelling at ordinary speed. Researchers discussing Navy UFO videos have repeatedly pointed to parallax and camera motion as major sources of misleading apparent velocity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</span></span></span>
 
 Good investigative practice therefore compares:
 
@@ -863,168 +859,168 @@ In many cases, the most dramatic manoeuvre in the clip may belong not to the obj
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
    Published: September 13, 2023  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Rolling shutter  
-   Link: [https://en.wikipedia.org/wiki/Rolling_shutter](https://en.wikipedia.org/wiki/Rolling_shutter)  
+   Link: <a href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Rolling_shutter</a>  
 
 3. <a id="endnote-3"></a>
    Source: adobe.com  
-   Link: [https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html](https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AdobeHow to fix the rolling shutter effectVideo cameras that have rolling shutters can create unintended distortions in your footage. Lea...</p></details>
+   Link: <a href="https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html" target="_blank" rel="noopener noreferrer nofollow">https://www.adobe.com/creativecloud/video/discover/rolling-shutter-effect.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to fix the rolling shutter effectVideo cameras that have rolling shutters can create unintended distortions in your footage. Lea...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: graphics.stanford.edu  
-   Link: [https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf](https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf)  
+   Link: <a href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow">https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Using our algorithm, we show...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/](https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditAccording to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</p></details>
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</p></details>
    Published: August 31, 2023  
 
 6. <a id="endnote-6"></a>
    Source: pbs.org  
-   Link: [https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos](https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PBS3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</p></details>
+   Link: <a href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=PmbKPrQoaRY](https://www.youtube.com/watch?v=PmbKPrQoaRY)  
+   Link: <a href="https://www.youtube.com/watch?v=PmbKPrQoaRY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PmbKPrQoaRY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>DO YOU NEED IMAGE STABILIZATION | Can You Tell the...Image stabilization can be helpful only if you&#x27;re already shooting at a proper shut...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ixTICcLXueg](https://www.youtube.com/watch?v=ixTICcLXueg)  
+   Link: <a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ixTICcLXueg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>and other smartphone sensor metadata from multiple...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=dNVtMmLlnoE](https://www.youtube.com/watch?v=dNVtMmLlnoE)  
+   Link: <a href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dNVtMmLlnoE</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>rd shapes out of fast moving objects...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=28L2XalNr5A](https://www.youtube.com/watch?v=28L2XalNr5A)  
+   Link: <a href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=28L2XalNr5A</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r &amp; Rolling Shutter Repair effects in Adobe After Effects...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Warp Stabilizer EXPLAINED  
-   Link: [https://www.youtube.com/watch?v=q9ucxKwZmec](https://www.youtube.com/watch?v=q9ucxKwZmec)  
+   Link: <a href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q9ucxKwZmec</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Fix Shaky Video in Premiere Pro... Crop Less, Smooth More 11:02 Borders, Synthesize Edges 13:55 Detailed &amp; Fast Analysis 14:47 Rolling Sh...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=jHDlfIaBEqw](https://www.youtube.com/watch?v=jHDlfIaBEqw)  
+   Link: <a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jHDlfIaBEqw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VFX Artists DEBUNK Pentagon UFO VideosNewly leaked video allegedly shows one of the us navy&#x27;s stealth ships tracking an unknown object in...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
    Title: Smartphone Video Stabilisation Explained  
-   Link: [https://www.youtube.com/watch?v=qbMJfIhmtz4](https://www.youtube.com/watch?v=qbMJfIhmtz4)  
+   Link: <a href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qbMJfIhmtz4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The BEST Video...New smartphone image stabilisation to hit smartphone is changing how we shoot video, from OIS, EIS Super Steady Mode an...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Da Vinci Resolve Stabilizer EXPLAINED  
-   Link: [https://www.youtube.com/watch?v=lAQsITCy9V8](https://www.youtube.com/watch?v=lAQsITCy9V8)  
+   Link: <a href="https://www.youtube.com/watch?v=lAQsITCy9V8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lAQsITCy9V8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DaVinci Resolve Stabilizer EXPLAINED - Fix Shaky Video FASTI&#x27;m going to be explaining everything that you need to know about DaVinci Reso...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/](https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/k3ovw2/why_are_ufo_sighting_videos_always_so_blurry/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY are UFO Sighting videos always so blurry, wobbly...If someone can establish a baseline of how it&#x27;s moving relative to the ground, th...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: How Electronic Image Stabilization Works  
-   Link: [http://www.youtube.com/watch?v=0h9V4_o87Sg](http://www.youtube.com/watch?v=0h9V4_o87Sg)  
+   Link: <a href="http://www.youtube.com/watch?v=0h9V4_o87Sg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=0h9V4_o87Sg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Optical vs Electronic Image Stabilization...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Understanding Optical vs Electronic Image Stabilization  
-   Link: [http://www.youtube.com/watch?v=uD5o9VlP618](http://www.youtube.com/watch?v=uD5o9VlP618)  
+   Link: <a href="http://www.youtube.com/watch?v=uD5o9VlP618" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=uD5o9VlP618</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why Digital Zoom is Usually a Bad Idea...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Why Digital Zoom is Usually a Bad Idea  
-   Link: [http://www.youtube.com/watch?v=kYJjSjN7Upo](http://www.youtube.com/watch?v=kYJjSjN7Upo)  
+   Link: <a href="http://www.youtube.com/watch?v=kYJjSjN7Upo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=kYJjSjN7Upo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital Image Stabilization - Why it creates warping...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Digital Image Stabilization  
-   Link: [http://www.youtube.com/watch?v=o04jB71W2iM](http://www.youtube.com/watch?v=o04jB71W2iM)  
+   Link: <a href="http://www.youtube.com/watch?v=o04jB71W2iM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=o04jB71W2iM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Camera Stabilization Effects Can Mislead Viewers...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
    Title: How Camera Stabilization Effects Can Mislead Viewers  
-   Link: [http://www.youtube.com/watch?v=yW4cI1c6k2g](http://www.youtube.com/watch?v=yW4cI1c6k2g)  
+   Link: <a href="http://www.youtube.com/watch?v=yW4cI1c6k2g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=yW4cI1c6k2g</a>  
 
 ### Additional References
 
 21. <a id="endnote-21"></a>
    Source: dpreview.com  
-   Link: [https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera](https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera)  
+   Link: <a href="https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera" target="_blank" rel="noopener noreferrer nofollow">https://www.dpreview.com/videos/8005507960/dpreview-tv-why-electronic-image-stabilization-works-better-on-your-gopro-than-your-camera</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>DPReview TV: Why electronic image stabilization works better...Chris explains the limits of electronic image stabilization, and why your...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/vuegraphy/posts/4177116265950240/](https://www.facebook.com/groups/vuegraphy/posts/4177116265950240/)  
+   Link: <a href="https://www.facebook.com/groups/vuegraphy/posts/4177116265950240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/vuegraphy/posts/4177116265950240/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Minimizing rolling shutter effect in photos and videosThe distortion of a rolling shutter is only noticeable with very fast moving object...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: cvl.isy.liu.se  
-   Link: [https://www.cvl.isy.liu.se/education/tutorials/rolling-shutter-tutorial/pdf/Rectification_and_Stabilisation45m.pdf](https://www.cvl.isy.liu.se/education/tutorials/rolling-shutter-tutorial/pdf/Rectification_and_Stabilisation45m.pdf)  
+   Link: <a href="https://www.cvl.isy.liu.se/education/tutorials/rolling-shutter-tutorial/pdf/Rectification_and_Stabilisation45m.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cvl.isy.liu.se/education/tutorials/rolling-shutter-tutorial/pdf/Rectification_and_Stabilisation45m.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>III: Rectification and StabilisationClear improvement compared to input videos, but small difference compared to frame-global rectificati...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: smartphones.gadgethacks.com  
    Title: everything you should know about rolling shutter your phones camera 0196244  
-   Link: [https://smartphones.gadgethacks.com/how-to/everything-you-should-know-about-rolling-shutter-your-phones-camera-0196244/](https://smartphones.gadgethacks.com/how-to/everything-you-should-know-about-rolling-shutter-your-phones-camera-0196244/)  
+   Link: <a href="https://smartphones.gadgethacks.com/how-to/everything-you-should-know-about-rolling-shutter-your-phones-camera-0196244/" target="_blank" rel="noopener noreferrer nofollow">https://smartphones.gadgethacks.com/how-to/everything-you-should-know-about-rolling-shutter-your-phones-camera-0196244/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You Should Know About Rolling Shutter on Your...29 Apr 2019 — If the camera uses a CMOS sensor, rolling shutter will likely be an issue...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: thenationalnews.com  
    Title: nasas ufo report advises us government on how to detect mysterious objects  
-   Link: [https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/](https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/)  
+   Link: <a href="https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/" target="_blank" rel="noopener noreferrer nofollow">https://www.thenationalnews.com/world/us-news/2023/09/14/nasas-ufo-report-advises-us-government-on-how-to-detect-mysterious-objects/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nasa&#x27;s UFO report reveals how public can help hunt for...14 Sept 2023 — Released online on Thursday, the 36-page document says that exis...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: space.com  
    Title: sensor metadata, and the lack of baseline data," the report states  
-   Link: [https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed](https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceNASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
+   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: [https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/](https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/)  
+   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: [https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/](https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/)  
+   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: thedebrief.org  
    Title: nasas unidentified anomalous phenomena report key takeaways  
-   Link: [https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/](https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/)  
+   Link: <a href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: avweb.com  
    Title: nasa report no aliens but more uap investigations needed  
-   Link: [https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/](https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/)  
+   Link: <a href="https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/" target="_blank" rel="noopener noreferrer nofollow">https://avweb.com/aviation-news/nasa-report-no-aliens-but-more-uap-investigations-needed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Report: No Aliens, But More UAP Investigations...15 Sept 2023 — The report said investigations have thus far “been hampered by poor...</p></details>

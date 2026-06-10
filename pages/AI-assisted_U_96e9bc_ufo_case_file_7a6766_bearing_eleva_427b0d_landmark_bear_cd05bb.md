@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /geometry/
 nav_short_title: Landmarks
 title: Can landmarks make a UFO bearing testable?
-title_full: Can landmarks make a UFO bearing testable? | Geometry
+title_full: Can landmarks make a UFO bearing testable?
 display_title_short: Landmarks
 display_title: Landmarks
 heading_title: Can landmarks make a UFO bearing testable?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Where in the sky was the object? | Case File
+parent_title: Where in the sky was the object?
 parent_permalink: /geometry/
 parent_nav_short_title: Geometry
 parent_heading_title: Where in the sky was the object?
@@ -266,7 +266,7 @@ next_link:
   permalink: /sightlines/
   short_title: Sightlines
   heading_title: Did the UFO vanish or just pass behind something?
-date: '2026-06-09 00:06:58 '
+date: '2026-06-10 20:32:21 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1.webp
@@ -275,7 +275,7 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_42
 
 ## Introduction
 
-A UFO report becomes far more useful when a witness can say “it appeared above the water tower” or “it crossed left of the church spire” instead of simply “it was in the west”. Landmarks turn a vague memory into a testable sightline. In AI-assisted UFO sighting investigation, that shift matters because a reconstructed line of sight can be compared against [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite paths, astronomical objects, terrain profiles and weather data.
+A UFO report becomes far more useful when a witness can say “it appeared above the water tower” or “it crossed left of the church spire” instead of simply “it was in the west”. Landmarks turn a vague memory into a testable sightline. In AI-assisted UFO sighting investigation, that shift matters because a reconstructed line of sight can be compared against [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite paths, astronomical objects, terrain profiles and [weather data]({{ 'weather-data/' | relative_url }}).
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1-dark.svg" | relative_url }}" alt="Landmarks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -374,7 +374,7 @@ This matters in UFO investigations because dramatic narrative details can uninte
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-2-dark.svg" | relative_url }}" alt="Landmarks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Handling compass error and uncertainty bands
 
-Phone compasses are useful but imperfect. Modern smartphones rely on magnetometers that can be distorted by nearby metal objects, vehicle frames, electrical systems and magnetic accessories. Manufacturers and technical guidance documents routinely warn that [calibration]({{ 'calibration/' | relative_url }}) and environmental interference can affect heading accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fizziq.org/en/post/magnetometer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fizziq.org">[Fizziq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fizziq.org</span><span class="citation-popover-snippet">Why is a smartphone compass not affected by magnets?29 Jan 2025 — For accurate measurements, the magnetometer must be calibrated to compe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.huawei.com/en/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.huawei.com">[HUAWEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.huawei.com</span><span class="citation-popover-snippet">HUAWEIThe compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</span></span></span> Honor Investigators therefore avoid treating a single phone reading as exact truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/global/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[honor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">ep your phone away from the magnetic interference · Calibrate the compass.Read more...</span></span></span>
+Phone compasses are useful but imperfect. Modern smartphones rely on magnetometers that can be distorted by nearby metal objects, vehicle frames, electrical systems and magnetic accessories. Manufacturers and technical guidance documents routinely warn that [calibration]({{ 'calibration/' | relative_url }}) and environmental interference can affect heading accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fizziq.org/en/post/magnetometer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fizziq.org">[Fizziq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fizziq.org</span><span class="citation-popover-snippet">Why is a smartphone compass not affected by magnets?29 Jan 2025 — For accurate measurements, the magnetometer must be calibrated to compe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.huawei.com/en/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.huawei.com">[HUAWEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.huawei.com</span><span class="citation-popover-snippet">The compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</span></span></span> Honor Investigators therefore avoid treating a single phone reading as exact truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/global/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[honor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">ep your phone away from the magnetic interference · Calibrate the compass.Read more...</span></span></span>
 
 Common sources of compass error include:
 
@@ -382,7 +382,7 @@ Common sources of compass error include:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * standing near parked vehicles
-* magnetic phone cases <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.huawei.com/en/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.huawei.com">[consumer.huawei.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.huawei.com</span><span class="citation-popover-snippet">HUAWEIThe compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</span></span></span>
+* magnetic phone cases <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.huawei.com/en/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.huawei.com">[consumer.huawei.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.huawei.com</span><span class="citation-popover-snippet">The compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</span></span></span>
 * railway infrastructure
 * overhead power cables
 * poor sensor calibration
@@ -411,7 +411,7 @@ Compass readings become stronger when they are:
 * recorded immediately during the sighting
 * supported by landmarks
 * repeated by multiple witnesses
-* calibrated outdoors away from interference <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.huawei.com/en/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.huawei.com">[consumer.huawei.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.huawei.com</span><span class="citation-popover-snippet">HUAWEIThe compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</span></span></span>
+* calibrated outdoors away from interference <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.huawei.com/en/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.huawei.com">[consumer.huawei.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.huawei.com</span><span class="citation-popover-snippet">The compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</span></span></span>
 * consistent with terrain geometry
 
 </div>
@@ -491,14 +491,31 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=ftWHEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+        </h4>
+        <p class="fr-book-author">By J. Allen Hynek</p>
+        
+        <p class="fr-book-desc">Directly relevant to structured witness reports and sighting analysis.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kKQQ2lE8BKIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Focuses on credible reporting and investigation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -508,16 +525,16 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for bearings, landmarks and sky orientation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -525,33 +542,16 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Map Reading and Land Navigation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=sM28swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Map Reading and Land Navigation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Map Reading and Land Navigation">Map Reading and Land Navigation</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Department of the Army</p>
         
-        
+        <p class="fr-book-desc">Matches bearing reconstruction and landmark analysis.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
-        </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
-        
-        
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Map+Reading+and+Land+Navigation+by+Department+of+the+Army&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -559,13 +559,13 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -592,76 +592,72 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-make-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-make-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open make poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20make%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMake%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMake%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for make poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">make poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Make</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=make+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-make-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="make poster -book -books -dvd" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-make-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=landmarks-c7d484-can-landmarks-make-a-ufo-bearing-testable-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -719,10 +715,10 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -740,7 +736,7 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -876,90 +872,90 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
 1. <a id="endnote-1"></a>
    Source: dvikan.no  
    Title: A Human Error Approach to Aviation Accident Analysis  
-   Link: [https://dvikan.no/ntnu-studentserver/reports/A%20Human%20Error%20Approach%20to%20Aviation%20Accident%20Analysis.pdf](https://dvikan.no/ntnu-studentserver/reports/A%20Human%20Error%20Approach%20to%20Aviation%20Accident%20Analysis.pdf)  
+   Link: <a href="https://dvikan.no/ntnu-studentserver/reports/A%20Human%20Error%20Approach%20to%20Aviation%20Accident%20Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dvikan.no/ntnu-studentserver/reports/A%20Human%20Error%20Approach%20to%20Aviation%20Accident%20Analysis.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>based errors, which are now labeled &quot;attention/memory.&quot; Also added is a &quot;knowledge information&quot; category, which is a type of error that...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: researchgate.net  
    Title: These methods  
-   Link: [https://www.researchgate.net/publication/392824350_True_North_and_Direction-Finding_for_Archaeoastronomy](https://www.researchgate.net/publication/392824350_True_North_and_Direction-Finding_for_Archaeoastronomy)  
+   Link: <a href="https://www.researchgate.net/publication/392824350_True_North_and_Direction-Finding_for_Archaeoastronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392824350_True_North_and_Direction-Finding_for_Archaeoastronomy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>True North and Direction-Finding for ArchaeoastronomyJune 18, 2025 — 18 Jun 2025 — In this paper several methods that can be used to esta...</p></details>
    Published: June 18, 2025  
 
 3. <a id="endnote-3"></a>
    Source: consumer.huawei.com  
-   Link: [https://consumer.huawei.com/en/support/content/en-us00410250/](https://consumer.huawei.com/en/support/content/en-us00410250/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>HUAWEIThe compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</p></details>
+   Link: <a href="https://consumer.huawei.com/en/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow">https://consumer.huawei.com/en/support/content/en-us00410250/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: honor.com  
-   Link: [https://www.honor.com/global/support/content/en-us00410250/](https://www.honor.com/global/support/content/en-us00410250/)  
+   Link: <a href="https://www.honor.com/global/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow">https://www.honor.com/global/support/content/en-us00410250/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ep your phone away from the magnetic interference · Calibrate the compass.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: fizziq.org  
-   Link: [https://www.fizziq.org/en/post/magnetometer](https://www.fizziq.org/en/post/magnetometer)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is a smartphone compass not affected by magnets?29 Jan 2025 — For accurate measurements, the magnetometer must be [calibrated](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;) to compe...</p></details>
+   Link: <a href="https://www.fizziq.org/en/post/magnetometer" target="_blank" rel="noopener noreferrer nofollow">https://www.fizziq.org/en/post/magnetometer</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is a smartphone compass not affected by magnets?29 Jan 2025 — For accurate measurements, the magnetometer must be calibrated to compe...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/267154787_Analysis_of_Compass_Sensor_Accuracy_on_Several_Mobile_Devices_in_an_Industrial_Environment](https://www.researchgate.net/publication/267154787_Analysis_of_Compass_Sensor_Accuracy_on_Several_Mobile_Devices_in_an_Industrial_Environment)  
+   Link: <a href="https://www.researchgate.net/publication/267154787_Analysis_of_Compass_Sensor_Accuracy_on_Several_Mobile_Devices_in_an_Industrial_Environment" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267154787_Analysis_of_Compass_Sensor_Accuracy_on_Several_Mobile_Devices_in_an_Industrial_Environment</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>A study by Hölzl et al. found that the probability of having an error below 20 • is...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: electronics.stackexchange.com  
    Title: why do compass chips in cellphones require frequent calibration  
-   Link: [https://electronics.stackexchange.com/questions/249072/why-do-compass-chips-in-cellphones-require-frequent-calibration](https://electronics.stackexchange.com/questions/249072/why-do-compass-chips-in-cellphones-require-frequent-calibration)  
+   Link: <a href="https://electronics.stackexchange.com/questions/249072/why-do-compass-chips-in-cellphones-require-frequent-calibration" target="_blank" rel="noopener noreferrer nofollow">https://electronics.stackexchange.com/questions/249072/why-do-compass-chips-in-cellphones-require-frequent-calibration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Electrical Engineering Stack ExchangeWhy do compass chips in cellphones require frequent...Aug 1, 2016 — Phones (some more than others?)...</p></details>
 
 ### Additional References
 
 8. <a id="endnote-8"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap1_section_1.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 1. Air NavigationThe FAA has the statutory authority to establish, operate, maintain air navigation facilities and to prescribe s...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cia.gov  
-   Link: [https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0](https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0)  
+   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp81r00560r000100010001-0</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>THE NATIONAL INVESTIGATIONS COMMITTEE ON...[Blue Book](&amp;#123;&amp;#123; &#x27;blue-book/&#x27; | relative_url &amp;#125;&amp;#125;) UFO investigation, prepared analyses of UFO data for AF, liaison officer between Da...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: stonekick.com  
-   Link: [https://stonekick.com/compass_guide.html](https://stonekick.com/compass_guide.html)  
+   Link: <a href="https://stonekick.com/compass_guide.html" target="_blank" rel="noopener noreferrer nofollow">https://stonekick.com/compass_guide.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Accurate Compass Android App User GuideThe sensors are very sensitive to interference from external magnetic fields and need regular cali...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AVIO.KNOWLEDGE/posts/direct-indicating-magnetic-compassand-variation-effect-error/1307228961443590/](https://www.facebook.com/AVIO.KNOWLEDGE/posts/direct-indicating-magnetic-compassand-variation-effect-error/1307228961443590/)  
+   Link: <a href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/direct-indicating-magnetic-compassand-variation-effect-error/1307228961443590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AVIO.KNOWLEDGE/posts/direct-indicating-magnetic-compassand-variation-effect-error/1307228961443590/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Direct-Indicating Magnetic Compass And variation effect errorThe compass error (combined variation and deviation) is therefore 8°E. Since...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: calibratecompass.com  
-   Link: [https://calibratecompass.com/](https://calibratecompass.com/)  
+   Link: <a href="https://calibratecompass.com/" target="_blank" rel="noopener noreferrer nofollow">https://calibratecompass.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Calibrate Compass on your phone or tabletTL;DR: To calibrate the compass on Android, move your phone in a smooth figure-8, tilt th...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/3708.pdf](https://skybrary.aero/sites/default/files/bookshelf/3708.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/3708.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/3708.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Manual of Aircraft Accident and Incident InvestigationIn the event of an actual accident or serious incident, these relationships will be...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: noirlab.edu  
-   Link: [https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf](https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf)  
+   Link: <a href="https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf" target="_blank" rel="noopener noreferrer nofollow">https://noirlab.edu/public/media/archives/techdocs/pdf/techdoc033.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Working Group ReportsThe SATCON2 Scientific Organizing Committee and the many members of our working groups have prepared these reports i...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: news.ncac.mn  
-   Link: [https://news.ncac.mn/uploads/bookSubject/2022-10/633bd2734cda9.pdf](https://news.ncac.mn/uploads/bookSubject/2022-10/633bd2734cda9.pdf)  
+   Link: <a href="https://news.ncac.mn/uploads/bookSubject/2022-10/633bd2734cda9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://news.ncac.mn/uploads/bookSubject/2022-10/633bd2734cda9.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the fluxgate compass error advanced by. ALPA could not be disproven. Such error may account for the initial directional error of the flig...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: appstoryo.com  
-   Link: [https://www.appstoryo.com/en/blog/how-to-calibrate-compass-android](https://www.appstoryo.com/en/blog/how-to-calibrate-compass-android)  
+   Link: <a href="https://www.appstoryo.com/en/blog/how-to-calibrate-compass-android" target="_blank" rel="noopener noreferrer nofollow">https://www.appstoryo.com/en/blog/how-to-calibrate-compass-android</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn how to calibrate your magnetometer with the figure-eight method, understand µT readings...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: stonekick.com  
-   Link: [https://stonekick.com/blog/magnometers-accelerometers-and-calibrating-your-android-device.html](https://stonekick.com/blog/magnometers-accelerometers-and-calibrating-your-android-device.html)  
+   Link: <a href="https://stonekick.com/blog/magnometers-accelerometers-and-calibrating-your-android-device.html" target="_blank" rel="noopener noreferrer nofollow">https://stonekick.com/blog/magnometers-accelerometers-and-calibrating-your-android-device.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the “sensor status” or “calibrate” menu option of our Accurate Compass or Sun...Read more...</p></details>

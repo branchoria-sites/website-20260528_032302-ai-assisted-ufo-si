@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-aircraft-dron/
 description: Focused pages that expand on Aircraft.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a
-parent_title: Aircraft | AI assisted UFO sighting investigation
+parent_title: Aircraft
 parent_nav_short_title: Aircraft
 parent_permalink: /aircraft/
 ---

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /re-entry-breakups/
 nav_short_title: Fragment Formations
 title: Why Re entry Debris Looks Like Flying Formations
-title_full: Why Re entry Debris Looks Like Flying Formations | Re entry Breakups
+title_full: Why Re entry Debris Looks Like Flying Formations
 display_title_short: Fragment Formations
 display_title: Fragment Formations
 heading_title: Why Re entry Debris Looks Like Flying Formations
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When A Fireball Is Really Falling Space Debris | Satellites
+parent_title: When A Fireball Is Really Falling Space Debris
 parent_permalink: /re-entry-breakups/
 parent_nav_short_title: Re entry Breakups
 parent_heading_title: When A Fireball Is Really Falling Space Debris
@@ -260,7 +260,7 @@ next_link:
   permalink: /long-fireballs/
   short_title: Long Fireballs
   heading_title: Why Some 'Meteor' UFOs Stay Visible For Minutes
-date: '2026-06-09 00:00:51 '
+date: '2026-06-10 20:28:37 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-1.webp
@@ -273,7 +273,7 @@ One of the most misleading features of a satellite or rocket-body re-entry is th
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-1-dark.svg" | relative_url }}" alt="Fragment Formations illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, recognising a fragmentation train is a high-value screening step. Automated comparison against known re-entry signatures, orbital decay predictions, witness timing, and video motion analysis can quickly separate many “fleet” sightings from aircraft, drones, meteors, or genuinely unresolved reports. The visual pattern is distinctive once investigators know what to examine: shallow trajectories, long-duration visibility, multiple fragments maintaining similar spacing, and slow apparent drift across the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">These reentries can often look like shooting stars (meteors) with a bright central body followed by a long...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">UNOOSASpace Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reent...</span></span></span>
+For AI-assisted UFO sighting investigation, recognising a fragmentation train is a high-value screening step. Automated comparison against known re-entry signatures, orbital decay predictions, witness timing, and video motion analysis can quickly separate many “fleet” sightings from aircraft, drones, meteors, or genuinely unresolved reports. The visual pattern is distinctive once investigators know what to examine: shallow trajectories, long-duration visibility, multiple fragments maintaining similar spacing, and slow apparent drift across the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">These reentries can often look like shooting stars (meteors) with a bright central body followed by a long...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Space Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reent...</span></span></span>
 
 ## How Breakup Trains Create Parallel Lights
 
@@ -296,7 +296,7 @@ The geometry creates several recurring visual effects:
 
 A major reason witnesses interpret these events as formations is scale confusion. Re-entry fragments may be tens or hundreds of kilometres above Earth. At that altitude, small separations between debris pieces can appear enormous from the ground, creating the illusion of multiple large craft travelling together.
 
-Unlike conventional aircraft formations, the fragments are not actively steering. Their similar movement comes from shared orbital velocity. Re-entering debris typically remains close to horizontal relative to the Earth’s surface because space hardware re-enters at extremely shallow angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">UNOOSASpace Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reent...</span></span></span>
+Unlike conventional aircraft formations, the fragments are not actively steering. Their similar movement comes from shared orbital velocity. Re-entering debris typically remains close to horizontal relative to the Earth’s surface because space hardware re-enters at extremely shallow angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unoosa.org">[UNOOSA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unoosa.org</span><span class="citation-popover-snippet">Space Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reent...</span></span></span>
 
 ## Why Witnesses Perceive Controlled Movement
 
@@ -325,16 +325,21 @@ Humans are highly sensitive to pattern recognition. Parallel movement strongly s
 
 The effect becomes stronger when:
 
-* fragments brighten at different times; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceEarthquake sensors can track space junk that crashes back to EarthJanuary 24, 2026 — Researchers from Johns Hopkins University and I...</span><span class="citation-popover-meta">Published: January 24, 2026</span></span></span>
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* fragments brighten at different times; <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Earthquake sensors can track space junk that crashes back to EarthJanuary 24, 2026 — Researchers from Johns Hopkins University and I...</span><span class="citation-popover-meta">Published: January 24, 2026</span></span></span>
 * some pieces temporarily disappear behind haze or cloud;
 * the observer sees only part of the train;
-* [smartphone]({{ 'phone-cameras/' | relative_url }}) cameras exaggerate spacing and jitter.
+* smartphone cameras exaggerate spacing and jitter.
+
+</div>
 
 Investigators repeatedly find that witnesses reinterpret passive fragmentation as active manoeuvring after reviewing memory or discussing the event socially online.
 
 ### Fragment drift can mimic turning
 
-As fragments encounter differing [atmospheric]({{ 'scintillation/' | relative_url }}) drag, their spacing changes slowly. To observers, this may resemble intelligent repositioning. Perspective effects also matter: debris approaching the horizon can appear to curve or bank despite [following]({{ 'following-moon/' | relative_url }}) a stable orbital descent path.
+As fragments encounter differing atmospheric drag, their spacing changes slowly. To observers, this may resemble intelligent repositioning. Perspective effects also matter: debris approaching the horizon can appear to curve or bank despite following a stable orbital descent path.
 
 This is one reason re-entry events generate persistent UFO claims even when the underlying cause becomes publicly identified later.
 
@@ -425,7 +430,7 @@ Useful automated checks include:
 
 Because re-entry formations are visible across huge areas, AI systems are especially effective at identifying them through mass reporting patterns. A single event may produce hundreds of posts across multiple towns within minutes. That broad simultaneous visibility strongly favours a high-altitude explanation.
 
-Emerging sensor methods may improve this further. Researchers have recently shown that seismic and acoustic monitoring systems can help reconstruct re-entry paths by detecting sonic booms from descending debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">SpaceEarthquake sensors can track space junk that crashes back to EarthJanuary 24, 2026 — Researchers from Johns Hopkins University and I...</span><span class="citation-popover-meta">Published: January 24, 2026</span></span></span>
+Emerging sensor methods may improve this further. Researchers have recently shown that seismic and acoustic monitoring systems can help reconstruct re-entry paths by detecting sonic booms from descending debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Earthquake sensors can track space junk that crashes back to EarthJanuary 24, 2026 — Researchers from Johns Hopkins University and I...</span><span class="citation-popover-meta">Published: January 24, 2026</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-3-dark.svg" | relative_url }}" alt="Fragment Formations illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -435,10 +440,15 @@ Several widely shared UFO incidents have eventually been identified as orbital d
 
 Common characteristics include:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * witnesses across multiple regions reporting “formations”;
 * videos showing slow-moving parallel lights;
-* confusion amplified through [social media]({{ 'reposts/' | relative_url }});
+* confusion amplified through social media;
 * later confirmation of satellite or rocket-body decay.
+
+</div>
 
 The visual drama of these events often encourages extraordinary interpretations before orbital analysts publish confirmations. Public discussion tends to focus on the apparent coordination of the lights rather than the broader physical context.
 
@@ -453,9 +463,6 @@ Not every multiple-light sighting is re-entry debris. Aircraft formations, drone
 
 Investigators should avoid overcorrecting by assuming every formation is mundane debris. Instead, the goal is structured elimination:
 
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
 1. Establish timing and direction.
 2. Check known re-entry databases and orbital decay predictions.
 3. Compare witness duration estimates.
@@ -463,11 +470,9 @@ Investigators should avoid overcorrecting by assuming every formation is mundane
 5. Analyse videos for aviation lighting or independent manoeuvres.
 6. Correlate reports geographically.
 
-</div>
+A sighting becomes more unusual if the objects show verified independent acceleration, abrupt directional changes, hovering, or behaviour inconsistent with ballistic descent. Most re-entry trains do not display those features once perspective effects and recording artefacts are accounted for.
 
-A sighting becomes more unusual if the objects show verified independent acceleration, abrupt directional changes, [hovering]({{ 'wind-checks/' | relative_url }}), or behaviour inconsistent with ballistic descent. Most re-entry trains do not display those features once perspective effects and recording artefacts are accounted for.
-
-The important investigative lesson is that “formation flight” alone is weak evidence for extraordinary craft. In many UFO reports, it is exactly what ordinary orbital debris naturally produces.
+The important investigative lesson is that “formation flight” alone is [weak evidence]({{ 'weak-evidence/' | relative_url }}) for extraordinary craft. In many UFO reports, it is exactly what ordinary orbital debris naturally produces.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -481,16 +486,16 @@ The important investigative lesson is that “formation flight” alone is weak 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for distinguishing formation-like debris from meteors and aircraft.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -498,16 +503,16 @@ The important investigative lesson is that “formation flight” alone is weak 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Relevant to analysing moving lights and sky patterns.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -515,16 +520,16 @@ The important investigative lesson is that “formation flight” alone is weak 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports natural and aerospace explanations for apparent formations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -532,16 +537,16 @@ The important investigative lesson is that “formation flight” alone is weak 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orbital Mechanics for Engineering Students on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rzw4wOHDpjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Orbital Mechanics for Engineering Students" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orbital Mechanics for Engineering Students">Orbital Mechanics for Engineering Students</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Howard D. Curtis</p>
         
-        
+        <p class="fr-book-desc">Relevant to orbital debris paths and fragment motion, though specialist.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -549,13 +554,13 @@ The important investigative lesson is that “formation flight” alone is weak 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -582,76 +587,72 @@ The important investigative lesson is that “formation flight” alone is weak 
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Snoopy Space Mission Patch Badge Patches Badges"><img src="{{ '/assets/images/marketplace-covers/10ce9042b28d4ddb454f.jpg' | relative_url }}" alt="Listing image for Snoopy Space Mission Patch Badge Patches Badges" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Snoopy Space Mission Patch Badge Patches Badges</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: space mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open satellite model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20satellite%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESatellite%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESatellite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for satellite model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">satellite model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Satellite</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Artemis Mission Embroidered Patch NASA Hook and Loop for Tactical Hat Backpack"><img src="{{ '/assets/images/marketplace-covers/f786dce885d6f1015ca9.jpg' | relative_url }}" alt="Listing image for Artemis Mission Embroidered Patch NASA Hook and Loop for Tactical Hat Backpack" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Artemis Mission Embroidered Patch NASA Hook and Loop for Tactical Hat Backpack</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: space mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open rocket model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20rocket%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERocket%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERocket%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for rocket model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">rocket model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Rocket</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 20 NASA Space Shuttle Mission Patches- STS-129, 124, 125, 1983 Enterprise"><img src="{{ '/assets/images/marketplace-covers/4d17440c11c08f2e96eb.jpg' | relative_url }}" alt="Listing image for Lot of 20 NASA Space Shuttle Mission Patches- STS-129, 124, 125, 1983 Enterprise" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Lot of 20 NASA Space Shuttle Mission Patches- STS-129, 124, 125, 1983 Enterprise</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: space mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches"><img src="{{ '/assets/images/marketplace-covers/82cd0f39311298a65a37.jpg' | relative_url }}" alt="Listing image for Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">Vintage Lot of 60 NASA STS Shuttle Mission Astronaut Space Patches</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space mission patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: space mission patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+mission+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space mission patch" data-ebay-reference="fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-space-mission-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=fragment-formations-why-re-entry-debris-looks-like-flying-formations-ai-assisted-ufo-sighting-in-satellite-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -709,10 +710,10 @@ The important investigative lesson is that “formation flight” alone is weak 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -730,7 +731,7 @@ The important investigative lesson is that “formation flight” alone is weak 
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -865,129 +866,129 @@ The important investigative lesson is that “formation flight” alone is weak 
 
 1. <a id="endnote-1"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/node/44081/printable/print](https://aerospace.org/node/44081/printable/print)  
+   Link: <a href="https://aerospace.org/node/44081/printable/print" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/node/44081/printable/print</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>These reentries can often look like shooting stars (meteors) with a bright central body followed by a long...Read more...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: unoosa.org  
-   Link: [https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf](https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UNOOSASpace Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reent...</p></details>
+   Link: <a href="https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.unoosa.org/pdf/pres/stsc2012/tech-39E.pdf</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Debris Reentry HazardsSpace hardware reenters at very shallow angle (&lt;1 degree). • ~40 objects weighing more than 1 ton reent...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: conference.sdo.esoc.esa.int  
    Title: SDC9 paper135  
-   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/135/SDC9-paper135.pdf](https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/135/SDC9-paper135.pdf)  
+   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/135/SDC9-paper135.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc9/paper/135/SDC9-paper135.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>VALIDATION OF THE ESA STATISTICAL RE-ENTRY...March 25, 2025 — by M Zigo · Cited by 1 — All-sky cameras, initially designed for meteor de...</p></details>
    Published: March 25, 2025  
 
 4. <a id="endnote-4"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/cords](https://aerospace.org/cords)  
+   Link: <a href="https://aerospace.org/cords" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/cords</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationSpace DebrisThe CORDS Reentry Database documents objects and payloads that have reentered earth&#x27;s atmosphere sin...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aerospace.org  
-   Link: [https://aerospace.org/reentries](https://aerospace.org/reentries)  
+   Link: <a href="https://aerospace.org/reentries" target="_blank" rel="noopener noreferrer nofollow">https://aerospace.org/reentries</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Aerospace CorporationReentriesThe Center for Orbital and Reentry Debris Studies (CORDS) Reentry Database documents objects and payloa...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth](https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceEarthquake sensors can track space junk that crashes back to EarthJanuary 24, 2026 — Researchers from Johns Hopkins University and I...</p></details>
+   Link: <a href="https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/satellites/earthquake-sensors-can-track-space-junk-that-crashes-back-to-earth</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Earthquake sensors can track space junk that crashes back to EarthJanuary 24, 2026 — Researchers from Johns Hopkins University and I...</p></details>
    Published: January 24, 2026  
 
 7. <a id="endnote-7"></a>
    Source: news.sky.com  
-   Link: [https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508](https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508)  
+   Link: <a href="https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/ufo-files-latest-new-release-in-us-reveals-reports-of-unexplained-green-orbs-discs-and-fireballs-13543508</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>files latest: US intel officer saw &#x27;glowing orbs&#x27; split in...5 days ago — Donald Trump has been teasing the release of UFO files since F...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: conference.sdo.esoc.esa.int  
    Title: SDC4 paper44  
-   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf](https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf)  
+   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc4/paper/44/SDC4-paper44.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unfortunately, debris from reentering objects is rarely found on the ground, and any that is found is rarely analyzed.Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: conference.sdo.esoc.esa.int  
-   Link: [https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/147/SDC6-paper147.pdf](https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/147/SDC6-paper147.pdf)  
+   Link: <a href="https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/147/SDC6-paper147.pdf" target="_blank" rel="noopener noreferrer nofollow">https://conference.sdo.esoc.esa.int/proceedings/sdc6/paper/147/SDC6-paper147.pdf</a>  
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Space Shuttle Columbia  
-   Link: [http://www.youtube.com/watch?v=RG4fhNVxOUY](http://www.youtube.com/watch?v=RG4fhNVxOUY)  
+   Link: <a href="http://www.youtube.com/watch?v=RG4fhNVxOUY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=RG4fhNVxOUY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Falcon 9 over Downtown Los Angeles...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: youtube.com  
    Title: Space X Falcon 9 over Downtown Los Angeles  
-   Link: [http://www.youtube.com/watch?v=K5YVqKS6Tdg](http://www.youtube.com/watch?v=K5YVqKS6Tdg)  
+   Link: <a href="http://www.youtube.com/watch?v=K5YVqKS6Tdg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=K5YVqKS6Tdg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX Starship explodes and sends debris across night sky...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
    Title: Space X Starship explodes and sends debris across night sky  
-   Link: [http://www.youtube.com/watch?v=tfEW7VFcawQ](http://www.youtube.com/watch?v=tfEW7VFcawQ)  
+   Link: <a href="http://www.youtube.com/watch?v=tfEW7VFcawQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=tfEW7VFcawQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incredible scene as SpaceX launch illuminates night sky...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: adsabs.harvard.edu  
-   Link: [https://adsabs.harvard.edu/full/2003JIMO...31...88J](https://adsabs.harvard.edu/full/2003JIMO...31...88J)  
+   Link: <a href="https://adsabs.harvard.edu/full/2003JIMO...31...88J" target="_blank" rel="noopener noreferrer nofollow">https://adsabs.harvard.edu/full/2003JIMO...31...88J</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Here, we show that this can...Read more...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration P.L  
-   Link: [https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf](https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf)  
+   Link: <a href="https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/sites/faa.gov/files/Report_to_Congress_Reentry_Disposal_of_Satellites.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>116-260 Risks Associated with Reentry Disposal of...October 5, 2023 — 22 Sept 2023 — This report evaluates the risk to people on the gro...</p></details>
    Published: October 5, 2023  
 
 15. <a id="endnote-15"></a>
    Source: apogee-magazine.com  
    Title: Apogee V2N3  
-   Link: [https://apogee-magazine.com/wp-content/uploads/2025/11/Apogee_V2N3.pdf](https://apogee-magazine.com/wp-content/uploads/2025/11/Apogee_V2N3.pdf)  
+   Link: <a href="https://apogee-magazine.com/wp-content/uploads/2025/11/Apogee_V2N3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://apogee-magazine.com/wp-content/uploads/2025/11/Apogee_V2N3.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SPACE DEBRIS7 Nov 2025 — These proposals include establishing orbital debris mitigation as one of the Sustainable Development Goals that...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ecss.nl  
-   Link: [https://ecss.nl/wp-content/uploads/2016/09/ECSS-Training-L2-U102012-07.pdf](https://ecss.nl/wp-content/uploads/2016/09/ECSS-Training-L2-U102012-07.pdf)  
+   Link: <a href="https://ecss.nl/wp-content/uploads/2016/09/ECSS-Training-L2-U102012-07.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ecss.nl/wp-content/uploads/2016/09/ECSS-Training-L2-U102012-07.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rationale of the course b. Areas to be addressed. 2. Space Debris Mitigation: An Overview. 3. Space Debris Mitigation Requirements.Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: pauldmaley.com  
-   Link: [https://pauldmaley.com/sd3/](https://pauldmaley.com/sd3/)  
+   Link: <a href="https://pauldmaley.com/sd3/" target="_blank" rel="noopener noreferrer nofollow">https://pauldmaley.com/sd3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>space balls” on their property. The release of government files on UFO sightings, including the official report on the Ashburton Space Ba...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FLTimesUnion/posts/the-defense-department-released-a-second-batch-of-previously-classified-files-on/1467707152065623/](https://www.facebook.com/FLTimesUnion/posts/the-defense-department-released-a-second-batch-of-previously-classified-files-on/1467707152065623/)  
+   Link: <a href="https://www.facebook.com/FLTimesUnion/posts/the-defense-department-released-a-second-batch-of-previously-classified-files-on/1467707152065623/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FLTimesUnion/posts/the-defense-department-released-a-second-batch-of-previously-classified-files-on/1467707152065623/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>space aliens and spying by a hostile nation using advanced technology.... Many Military U.F.O. Reports Are Just Foreign Spying or Airbor...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: thesun.co.uk  
-   Link: [https://www.thesun.co.uk/tech/33181994/space-debris-rocket-parts-plane-flight-risk/](https://www.thesun.co.uk/tech/33181994/space-debris-rocket-parts-plane-flight-risk/)  
+   Link: <a href="https://www.thesun.co.uk/tech/33181994/space-debris-rocket-parts-plane-flight-risk/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/33181994/space-debris-rocket-parts-plane-flight-risk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>El aumento en los lanzamientos de cohetes ha incrementado los desechos espaciales que caen sin control a la Tierra, creando un peligro pa...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=w47VDSNy-5s](http://www.youtube.com/watch?v=w47VDSNy-5s)  
+   Link: <a href="http://www.youtube.com/watch?v=w47VDSNy-5s" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=w47VDSNy-5s</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellite rocket body re-entry fragmentation train formation Insane Reason Why Ballistic Missiles Do Not Burn During Re-entry! 😯 Aviation...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: iaaspace.org  
-   Link: [https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf](https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf)  
+   Link: <a href="https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://iaaspace.org/wp-content/uploads/iaa/Scientific%20Activity/debris6.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The drag force that such objects experience is due to their interaction with the few air...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: medium.com  
-   Link: [https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04](https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04)  
+   Link: <a href="https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-aerospace-corporation/a-quick-guide-to-understanding-orbital-debris-reentry-predictions-4b84a8e2bd04</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, with the yellow “circles” icon indicating the midpoint of our latest reentry...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: satobs.org  
    Title: Visually Observed Natural Re entries latest draft  
-   Link: [https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf](https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf)  
+   Link: <a href="https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/reentry/Visually_Observed_Natural_Re-entries_latest_draft.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observed re-entries #22.xlsx26 Aug 2014 — Ballester Olmos, &quot;Airliners and UFOs over Japan&quot;, UFO Fotocat Blog, Jul 14, 2...</p></details>
 
 0
@@ -1000,28 +1001,28 @@ The important investigative lesson is that “formation flight” alone is weak 
 24. <a id="endnote-24"></a>
    Source: Wikipedia  
    Title: UFO sightings in outer space  
-   Link: [https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space](https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space)  
+   Link: <a href="https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_sightings_in_outer_space</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO sightings in outer spaceWithin the UFO community, stories have spread that Neil Armstrong was reported to have witnessed multiple...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: universetoday.com  
    Title: lights sky meteors reentry et  
-   Link: [https://www.universetoday.com/articles/lights-sky-meteors-reentry-et](https://www.universetoday.com/articles/lights-sky-meteors-reentry-et)  
+   Link: <a href="https://www.universetoday.com/articles/lights-sky-meteors-reentry-et" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/lights-sky-meteors-reentry-et</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reentries move slower still, and will shed lots of debris. Here&#x27;s what we&#x27;re looking at to judge suspect sighting...Read more...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: Incredible scene as Space X launch illuminates night sky  
-   Link: [http://www.youtube.com/watch?v=6W2G4Gq8W4c](http://www.youtube.com/watch?v=6W2G4Gq8W4c)  
+   Link: <a href="http://www.youtube.com/watch?v=6W2G4Gq8W4c" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6W2G4Gq8W4c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky Wonders in SWFL: Perseid Meteors, Satellites, Birds, and Unexplained Objects Explained...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: orbitaldebris.jsc.nasa.gov  
    Title: quarterly news  
-   Link: [https://orbitaldebris.jsc.nasa.gov/quarterly-news/](https://orbitaldebris.jsc.nasa.gov/quarterly-news/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>| Orbital Debris Program Office | Quarterly NewsThe ODQN publishes some of the latest events in orbital debris research, offers orbital d...</p></details>
+   Link: <a href="https://orbitaldebris.jsc.nasa.gov/quarterly-news/" target="_blank" rel="noopener noreferrer nofollow">https://orbitaldebris.jsc.nasa.gov/quarterly-news/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Orbital Debris Program Office | Quarterly NewsThe ODQN publishes some of the latest events in orbital debris research, offers orbital d...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: astronomycenter.net  
-   Link: [https://astronomycenter.net/srw/index.html](https://astronomycenter.net/srw/index.html)  
+   Link: <a href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow">https://astronomycenter.net/srw/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Many reports of UFO&#x27;s can be linked to streaks in the sky that are most often spotted...Read more...</p></details>

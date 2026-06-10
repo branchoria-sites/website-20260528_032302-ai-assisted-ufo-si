@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /weather-layers/
 nav_short_title: Haze Effects
 title: How Haze Turns Ordinary Lights Into Strange UFOs
-title_full: How Haze Turns Ordinary Lights Into Strange UFOs | Weather layers
+title_full: How Haze Turns Ordinary Lights Into Strange UFOs
 display_title_short: Haze Effects
 display_title: Haze Effects
 heading_title: How Haze Turns Ordinary Lights Into Strange UFOs
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How weather can reshape a sighting | Timeline
+parent_title: How weather can reshape a sighting
 parent_permalink: /weather-layers/
 parent_nav_short_title: Weather layers
 parent_heading_title: How weather can reshape a sighting
@@ -266,7 +266,7 @@ next_link:
   permalink: /inversion-illusions/
   short_title: Inversion Illusions
   heading_title: Why Some UFO Lights Seem To Hover Motionless
-date: '2026-06-08 23:59:00 '
+date: '2026-06-10 20:27:26 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1.webp
@@ -279,7 +279,7 @@ Haze is one of the most common reasons ordinary [aircraft]({{ 'aircraft/' | rela
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1-dark.svg" | relative_url }}" alt="Haze Effects illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This effect is well known in aviation safety research. Pilot training material from the FAA and other flight-safety organisations repeatedly warns that [atmospheric]({{ 'scintillation/' | relative_url }}) haze makes objects appear farther away and higher than they really are. CAU <span class="citation-chip-wrap"><a class="citation-chip" href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learntoflyblog.com">[Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learntoflyblog.com</span><span class="citation-popover-snippet">Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — Atmospheric haze can create an illusion of being at a greate...</span></span></span> In a UFO context, the same illusion can make a conventional aircraft look unlike any familiar aircraft at all. AI-assisted sighting analysis therefore treats haze as a measurable evidence layer rather than a vague [weather]({{ 'weather/' | relative_url }}) condition.
+This effect is well known in aviation safety research. Pilot training material from the FAA and other flight-safety organisations repeatedly warns that atmospheric haze makes objects appear farther away and higher than they really are. CAU <span class="citation-chip-wrap"><a class="citation-chip" href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learntoflyblog.com">[Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learntoflyblog.com</span><span class="citation-popover-snippet">Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — Atmospheric haze can create an illusion of being at a greate...</span></span></span> In a UFO context, the same illusion can make a conventional aircraft look unlike any familiar aircraft at all. AI-assisted sighting analysis therefore treats haze as a measurable evidence layer rather than a vague [weather]({{ 'weather/' | relative_url }}) condition.
 
 ## Why haze alters size and distance perception
 
@@ -300,9 +300,9 @@ This creates several recurring UFO-report patterns:
 
 </div>
 
-These effects become especially strong near airports. Aircraft on approach often keep landing lights aimed toward the observer for several minutes. Through humid or smoky air, those lights can bloom into glowing orbs with little visible aircraft structure behind them. Witnesses may report a silent hovering sphere even though the aircraft is moving steadily.
+These effects become especially strong near airports. Aircraft on approach often keep [landing lights]({{ 'landing-lights/' | relative_url }}) aimed toward the observer for several minutes. Through humid or smoky air, those lights can bloom into glowing orbs with little visible aircraft structure behind them. Witnesses may report a silent hovering sphere even though the aircraft is moving steadily.
 
-Perspective also matters. A distant aircraft travelling toward the observer shows little sideways motion. In clear air, its shape and blinking lights still reveal that it is an aircraft. In haze, only the central light source may remain visible. Without reliable reference points, the object can appear fixed in place, then suddenly “shoot away” when the aircraft changes heading or passes overhead.
+Perspective also matters. A distant aircraft travelling toward the observer shows little sideways motion. In clear air, its shape and blinking lights still reveal that it is an aircraft. In haze, only the central light source may remain visible. Without reliable [reference points]({{ 'reference-points/' | relative_url }}), the object can appear fixed in place, then suddenly “shoot away” when the aircraft changes heading or passes overhead.
 
 FAA material on visual illusions and spatial disorientation repeatedly stresses that poor visibility and degraded visual references distort human judgement of distance, movement, and orientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">10% of all general aviation accidents can be attributed to spatial disorientation, and 90% of these accidents are fatal.Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...By using visual references, the pilot can gather information about distance, speed, and depth. Any conditio...</span></span></span> UFO investigations encounter the same perceptual failures from the ground observer's perspective.
 
@@ -310,7 +310,7 @@ FAA material on visual illusions and spatial disorientation repeatedly stresses 
 
 Haze does not simply dim lights. It scatters them.
 
-Tiny water droplets and aerosol particles spread light outward, producing halos, glow effects, and blurred edges. A single aircraft [landing light]({{ 'landing-lights/' | relative_url }}) can therefore appear as:
+Tiny water droplets and aerosol particles spread light outward, producing halos, glow effects, and blurred edges. A single aircraft landing light can therefore appear as:
 
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
@@ -375,7 +375,7 @@ A particularly common pattern involves aircraft emerging gradually from haze. In
 
 ## Why haze can make aircraft seem silent
 
-Witnesses frequently report glowing objects with no audible engine noise. Haze itself does not block sound effectively, but the same atmospheric conditions that create haze often involve temperature inversions or layered air masses that alter sound propagation.
+Witnesses frequently report glowing objects with no audible engine noise. Haze itself does not block sound effectively, but the same atmospheric conditions that create haze often involve temperature [inversions]({{ 'inversions/' | relative_url }}) or layered air masses that alter sound propagation.
 
 Distance estimation errors are again central. If haze causes a witness to believe an aircraft is much farther away than it really is, the expected sound level becomes mismatched with what they hear. A nearby aircraft may seem “too quiet”, while a distant aircraft may seem “impossibly loud”.
 
@@ -449,7 +449,7 @@ For example:
 1. A witness reports a hovering orange orb low in the western sky.
 2. ADS-B aircraft tracking shows inbound aircraft aligned toward the observer.
 3. METAR data shows reduced visibility with high humidity and smoke haze.
-4. Video analysis reveals pulsing caused by [autofocus]({{ 'focus-blur/' | relative_url }}) hunting and atmospheric turbulence.
+4. Video analysis reveals pulsing caused by autofocus hunting and atmospheric turbulence.
 5. The “hover” disappears once the aircraft banks during final approach.
 
 That does not automatically prove every sighting is misidentification. Some reports still contain inconsistencies after atmospheric checks. However, haze analysis often explains why witnesses sincerely report extraordinary motion, shape, colour, or behaviour even when the source object was conventional.
@@ -492,16 +492,16 @@ In many cases, the result is not that witnesses “imagined” something. It is 
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Directly supports haze, visibility and atmospheric interpretation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -509,16 +509,16 @@ In many cases, the result is not that witnesses “imagined” something. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for understanding visibility, haze and changing conditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -526,16 +526,16 @@ In many cases, the result is not that witnesses “imagined” something. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports natural explanations for strange-looking lights.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -543,16 +543,16 @@ In many cases, the result is not that witnesses “imagined” something. It is 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        
+        <p class="fr-book-desc">Adds aircraft perception and flight-context relevance.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -560,13 +560,13 @@ In many cases, the result is not that witnesses “imagined” something. It is 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -593,76 +593,72 @@ In many cases, the result is not that witnesses “imagined” something. It is 
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">aviation poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=into+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-into-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="into poster -book -books -dvd" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-into-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open into poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20into%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EInto%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EInto%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for into poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">into poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Into</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=into+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-into-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="into poster -book -books -dvd" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-into-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=into+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-into-memorabilia-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="into memorabilia -book -books -dvd" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-into-memorabilia-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open into memorabilia on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20into%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EInto%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EInto%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for into memorabilia on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">into memorabilia</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Into</span><span class="fr-search-tag">Memorabilia</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=into+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-into-memorabilia-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="into memorabilia -book -books -dvd" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-into-memorabilia-book-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=haze-effects-how-haze-turns-ordinary-lights-into-strange-ufos-ai-assisted-ufo-sighting-investiga-aviation-poster-book-bo&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -720,10 +716,10 @@ In many cases, the result is not that witnesses “imagined” something. It is 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -741,7 +737,7 @@ In many cases, the result is not that witnesses “imagined” something. It is 
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -876,100 +872,100 @@ In many cases, the result is not that witnesses “imagined” something. It is 
 
 1. <a id="endnote-1"></a>
    Source: learntoflyblog.com  
-   Link: [https://learntoflyblog.com/human-factors-optical-illusions/](https://learntoflyblog.com/human-factors-optical-illusions/)  
+   Link: <a href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://learntoflyblog.com/human-factors-optical-illusions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — Atmospheric haze can create an illusion of being at a greate...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Spatial Disorientation: Visual Illusions  
-   Link: [https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf](https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf)  
+   Link: <a href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>10% of all general aviation accidents can be attributed to spatial disorientation, and 90% of these accidents are fatal.Read more...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: faasafety.gov  
    Title: FAA Safety Your Senses in the Shadows  
-   Link: [https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf](https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf)  
+   Link: <a href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nighttime Visual Illusions...By using visual references, the pilot can gather information about distance, speed, and depth. Any conditio...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: flighttrainingcentral.com  
    Title: be aware of these 5 night flying deceptions  
-   Link: [https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/](https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/)  
+   Link: <a href="https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/" target="_blank" rel="noopener noreferrer nofollow">https://flighttrainingcentral.com/2022/12/be-aware-of-these-5-night-flying-deceptions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Training CentralBe aware of these 5 night flying deceptions19 Dec 2022 — False Horizon Flying – at night under clear skies with gr...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: hartzellprop.com  
    Title: watch out for night flight illusions  
-   Link: [https://hartzellprop.com/watch-out-for-night-flight-illusions/](https://hartzellprop.com/watch-out-for-night-flight-illusions/)  
+   Link: <a href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://hartzellprop.com/watch-out-for-night-flight-illusions/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hartzell PropellerWatch Out for These 5 Night Flight Illusions24 Sept 2019 — To prevent this illusion, pilots flying at night should rely...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: flightsafety.org  
    Title: Flight Safety Foundation FSF ALAR Briefing Note 5.3 -- Visual Illusions  
-   Link: [https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf](https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf)  
+   Link: <a href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — The absence of visual references in the pilot&#x27;s nea...</p></details>
    Published: March 2, 2005  
 
 7. <a id="endnote-7"></a>
    Source: flightsafety.org  
    Title: in the dark  
-   Link: [https://flightsafety.org/asw-article/in-the-dark/](https://flightsafety.org/asw-article/in-the-dark/)  
+   Link: <a href="https://flightsafety.org/asw-article/in-the-dark/" target="_blank" rel="noopener noreferrer nofollow">https://flightsafety.org/asw-article/in-the-dark/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Safety FoundationIn the Dark20 Jan 2017 — Most night-vision–related accidents, however, occur because pilots misperceive visual cu...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: chinook-helicopter.com  
    Title: Visual Illusions  
-   Link: [https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html](https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html)  
+   Link: <a href="https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chinook-helicopter.com/standards/Illusions/Visual_Illusions.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>To determine the actual course and direction...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions](https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions)  
+   Link: <a href="https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/400385806_Physiology_in_Aviation_Hearing_Vision_Spatial_Disorientation_and_Visual_Illusions</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hearing, Vision, Spatial Disorientation, and Visual Illusions4 Feb 2026 — This paper examines the critical flight physiological factors t...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471](https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471)  
+   Link: <a href="https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/mitigating-the-hazard-of-visual-illusions-fb3c35009471</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mitigating the Hazard of Visual IllusionsA [review](&amp;#123;&amp;#123; &#x27;review/&#x27; | relative_url &amp;#125;&amp;#125;) of aircraft mishaps quickly reveals that visual illusions and/or poor visibility have b...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: cfinotebook.net  
-   Link: [https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility](https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility)  
+   Link: <a href="https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility" target="_blank" rel="noopener noreferrer nofollow">https://www.cfinotebook.net/notebook/weather-and-atmosphere/obstructions-to-visibility</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Obstructions To VisibilityUnderstanding obstructions to visibility helps pilots recognize how phenomena such as fog, haze, smoke, and pre...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/343329786021733/posts/2535777973443559/](https://www.facebook.com/groups/343329786021733/posts/2535777973443559/)  
+   Link: <a href="https://www.facebook.com/groups/343329786021733/posts/2535777973443559/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/343329786021733/posts/2535777973443559/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>That haze-type phenomenon on the horizonThat haze-type phenomenon on the horizon Sorry to reopen this but the haze isn&#x27;t (a) pollution fr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/sites/default/files/bookshelf/177.pdf](https://skybrary.aero/sites/default/files/bookshelf/177.pdf)  
+   Link: <a href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/sites/default/files/bookshelf/177.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Visual Illusions AwarenessEntering a fog layer also creates the perception of a pitch up, thus inducing a tendency to push over and place...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DH1ue4INnGU/](https://www.instagram.com/reel/DH1ue4INnGU/)  
+   Link: <a href="https://www.instagram.com/reel/DH1ue4INnGU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DH1ue4INnGU/</a>  
 
 15. <a id="endnote-15"></a>
    Source: flyaeroguard.com  
-   Link: [https://www.flyaeroguard.com/learning-center/visual-illusions/](https://www.flyaeroguard.com/learning-center/visual-illusions/)  
+   Link: <a href="https://www.flyaeroguard.com/learning-center/visual-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flyaeroguard.com/learning-center/visual-illusions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A narrower than usual runway can create the illusion that the aircraft is in a higher altitude than it actually is.Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/i0f0cn/why_does_haze_have_different_effects_on_visual/](https://www.reddit.com/r/flying/comments/i0f0cn/why_does_haze_have_different_effects_on_visual/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/i0f0cn/why_does_haze_have_different_effects_on_visual/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/i0f0cn/why_does_haze_have_different_effects_on_visual/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>In one case you&#x27;re more looking at vertical distance, in the other you&#x27;re looking at horizontal...Read more...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: calaero.edu  
-   Link: [https://calaero.edu/aeronautics/aeromedical-factors/7-runway-illusions/](https://calaero.edu/aeronautics/aeromedical-factors/7-runway-illusions/)  
+   Link: <a href="https://calaero.edu/aeronautics/aeromedical-factors/7-runway-illusions/" target="_blank" rel="noopener noreferrer nofollow">https://calaero.edu/aeronautics/aeromedical-factors/7-runway-illusions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>July 11, 2023 — 11 Jul 2023 — So much so that the FAA has something to say about it – “atmospheric haze can create an illusion of being a...</p></details>
    Published: July 11, 2023  
 
 18. <a id="endnote-18"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NIMETNIGERIA/posts/%EF%B8%8F-horizontal-visibility-why-it-matters-%EF%B8%8Fwhat-is-horizontal-visibilitythe-max-dis/1056628219832878/](https://www.facebook.com/NIMETNIGERIA/posts/%EF%B8%8F-horizontal-visibility-why-it-matters-%EF%B8%8Fwhat-is-horizontal-visibilitythe-max-dis/1056628219832878/)  
+   Link: <a href="https://www.facebook.com/NIMETNIGERIA/posts/%EF%B8%8F-horizontal-visibility-why-it-matters-%EF%B8%8Fwhat-is-horizontal-visibilitythe-max-dis/1056628219832878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NIMETNIGERIA/posts/%EF%B8%8F-horizontal-visibility-why-it-matters-%EF%B8%8Fwhat-is-horizontal-visibilitythe-max-dis/1056628219832878/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>night over a dark ocean, etc., it is Instrument Meteorological...Read more...</p></details>

@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /satellites/
 nav_short_title: Satellite Flares
 title: Why Some Satellites Suddenly Brighten And Vanish
-title_full: Why Some Satellites Suddenly Brighten And Vanish | Satellites
+title_full: Why Some Satellites Suddenly Brighten And Vanish
 display_title_short: Satellite Flares
 display_title: Satellite Flares
 heading_title: Why Some Satellites Suddenly Brighten And Vanish
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Could It Be Starlink or a Satellite? | UFO Case AI
+parent_title: Could It Be Starlink or a Satellite?
 parent_permalink: /satellites/
 parent_nav_short_title: Satellites
 parent_heading_title: Could It Be Starlink or a Satellite?
@@ -285,7 +285,7 @@ next_link:
   permalink: /starlink-trains/
   short_title: Starlink Trains
   heading_title: Why Starlink Trains Still Surprise Experienced Witnesses
-date: '2026-06-08 23:00:07 '
+date: '2026-06-10 19:52:46 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-1.webp
@@ -302,7 +302,7 @@ This matters in AI-assisted UFO investigation because flare timing is highly tes
 
 ## How reflection angles create visible flares
 
-Most visible satellites are not emitting light. They are reflecting sunlight. Under ordinary conditions they appear as faint moving points, but certain [reflective]({{ 'foil-flashes/' | relative_url }}) surfaces can briefly direct a concentrated beam of sunlight toward a small area on Earth. When an observer falls inside that reflected beam, the satellite suddenly brightens.
+Most visible satellites are not emitting light. They are reflecting sunlight. Under ordinary conditions they appear as faint moving points, but certain reflective surfaces can briefly direct a concentrated beam of sunlight toward a small area on Earth. When an observer falls inside that reflected beam, the satellite suddenly brightens.
 
 The classic example was the old Iridium communications constellation. These satellites carried large polished antennas that produced highly predictable “Iridium flares”, sometimes becoming brighter than Venus for a few seconds before fading again. The flare geometry was so reliable that observers could calculate exact times and locations years in advance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">flight into darkness observe the iss in earths shadow</span><span class="citation-popover-snippet">Sky &amp; TelescopeObserve the International Space Station in Earth&#x27;s Shadow28 Aug 2024 — The International Space Station fades from white to...</span></span></span>
 
@@ -324,9 +324,6 @@ For UFO case analysis, flare behaviour usually follows a recognisable sequence:
 That pattern differs from most [aircraft]({{ 'aircraft/' | relative_url }}) lighting. Aircraft lights usually blink rhythmically, maintain steadier brightness, or change gradually with distance and orientation. Satellite flares are often smooth, silent, and short-lived. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wxguys.ssec.wisc.edu/2018/11/05/wxsats_night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxguys.ssec.wisc.edu">[The Weather Guys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxguys.ssec.wisc.edu</span><span class="citation-popover-title">wxsats night</span><span class="citation-popover-snippet">The Weather GuysCan we see satellites at night?5 Nov 2018 — Satellites are visible in the night sky when sunlight reflects off of their s...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popastro.com/blog/2018/10/16/last-chance-to-see-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popastro.com">[Popular Astronomy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popastro.com</span><span class="citation-popover-title">last chance to see iridium flares</span><span class="citation-popover-snippet">Popular AstronomyLast chance to see Iridium flares16 Oct 2018 — The first generation of these satellites had polished surfaces which coul...</span></span></span>
 
 An AI-assisted workflow can compare witness timing against predicted orbital tracks and solar geometry. If the flare peak coincides closely with a known pass and the reported direction matches the satellite trajectory, [confidence]({{ 'confidence/' | relative_url }}) in the explanation rises significantly.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LzzROZzjTyw" title="Iridium Flares Are Disappearing From The Skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LzzROZzjTyw" target="_blank" rel="noopener noreferrer">Iridium Flares Are Disappearing From The Skies</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 283.4K &middot; Uploaded: September 2018 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LzzROZzjTyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LzzROZzjTyw">Open on YouTube</a></p></div></div></div>
 
 ## Why satellites suddenly vanish
 
@@ -378,7 +375,7 @@ Importantly, brightness can vary enough that a witness may only notice the flare
 Astronomical studies also show that twilight conditions are especially important. Satellite visibility increases near the day-night boundary because the observer is dark-adapted while the spacecraft remains sunlit above the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amostech.com/TechnicalPapers/2024/SDA-Systems-and-Instrumentation/Caddy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amostech.com">[AMOS Conference]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amostech.com</span><span class="citation-popover-snippet">AMOS ConferenceA Surprising Boost in Starlink Satellite Brightness at Optical...by SE Caddy · 2024 · Cited by 5 — In addition, when rest...</span></span></span> 2arXiv
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J1Fxl4cGVd4" title="Why There Is Light on Earth But Not in Space" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J1Fxl4cGVd4" target="_blank" rel="noopener noreferrer">Why There Is Light on Earth But Not in Space</a></p><p class="youtube-embed-meta">Channel: BRIGHT SIDE</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J1Fxl4cGVd4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J1Fxl4cGVd4">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LzzROZzjTyw" title="Iridium Flares Are Disappearing From The Skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LzzROZzjTyw" target="_blank" rel="noopener noreferrer">Iridium Flares Are Disappearing From The Skies</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 283.4K &middot; Uploaded: September 2018 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LzzROZzjTyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LzzROZzjTyw">Open on YouTube</a></p></div></div></div>
 
 ## Distinguishing flares from aircraft lights
 
@@ -414,25 +411,16 @@ A good automated workflow tests:
 * Observer location.
 * Exact or estimated time.
 * Viewing direction and [elevation]({{ 'elevation/' | relative_url }}).
-
-<div class="content-enhancement content-enhancement--metric" markdown="1">
-
 * Duration of visibility.
 * Brightness changes.
 * Sunset or dawn conditions.
-* Known satellite passes and orbital data.
-
-</div>
+* Known satellite passes and [orbital data]({{ 'orbital-data/' | relative_url }}).
 
 If the predicted pass timing differs by only seconds and the disappearance coincides with Earth-shadow entry, the explanation becomes much stronger than a vague “there was a satellite somewhere overhead”.
 
 Equally important, failed matches matter too. If no visible satellites were in the relevant sky sector, if the light performed impossible manoeuvres, or if the duration conflicts strongly with orbital motion, investigators can downgrade the satellite hypothesis rather than forcing the fit.
 
 That distinction is central to balanced UFO analysis. Satellite flare checks are not designed to dismiss reports automatically. Their value lies in rapidly identifying a specific, testable mechanism that explains many sudden-light sightings with high confidence while leaving genuinely unresolved cases open for deeper examination.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWpeN3cU17Q" title="SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: AlphaPhoenix</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWpeN3cU17Q">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -446,16 +434,16 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Helps readers understand satellite spotting and night-sky visibility.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -463,16 +451,16 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Provides practical context for identifying moving lights in the sky.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -480,16 +468,16 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Backyard Astronomer&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=hdvYKwAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Backyard Astronomer&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Backyard Astronomer&#x27;s Guide">The Backyard Astronomer&#x27;s Guide</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson, Alan Dyer</p>
         
-        
+        <p class="fr-book-desc">Covers observing conditions and sky-object identification.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+Guide+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -497,16 +485,16 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports careful interpretation of apparently anomalous sightings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -514,13 +502,13 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Backyard+Astronomer%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Backyard Astronomer&#x27;s books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -547,76 +535,72 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open astronomy telescope on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20astronomy%20telescope%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAstronomy%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ETelescope%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAstronomy%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETelescope%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for astronomy telescope on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">astronomy telescope</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Astronomy</span><span class="fr-search-tag">Telescope</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=astronomy+telescope&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-astronomy-telescope&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy telescope" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-astronomy-telescope" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open spacecraft model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20spacecraft%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpacecraft%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EModel%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpacecraft%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for spacecraft model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">spacecraft model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Spacecraft</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="spacecraft model" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=some+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-some-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="some poster -book -books -dvd" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-some-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open some poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20some%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESome%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESome%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for some poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">some poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Some</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=some+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-some-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="some poster -book -books -dvd" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-some-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=satellite-flares-why-some-satellites-suddenly-brighten-and-vanish-ai-assisted-ufo-sighting-inves-space-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -674,10 +658,10 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -695,7 +679,7 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -831,139 +815,139 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
 2. <a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv Starlink Mini Satellite Brightness Distributions Across the Sky  
-   Link: [https://arxiv.org/abs/2401.01546](https://arxiv.org/abs/2401.01546)  
+   Link: <a href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2401.01546</a>  
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2506.19092v1](https://arxiv.org/html/2506.19092v1)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivSimulated impact on LSST data of Starlink V1.5 and V2...23 Jun 2025 — We find that the V2 Starlink satellites appear brightest at t...</p></details>
+   Link: <a href="https://arxiv.org/html/2506.19092v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.19092v1</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulated impact on LSST data of Starlink V1.5 and V2...23 Jun 2025 — We find that the V2 Starlink satellites appear brightest at t...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: space.com  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Designed to deliver affordable internet to remote regions, Starlink&#x27;s low-Earth orbit constellation, potentially expanding to over 42,000...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Visual Brightness Characteristics of Starlink Generation 1 Satellites  
-   Link: [https://arxiv.org/abs/2210.17268](https://arxiv.org/abs/2210.17268)  
+   Link: <a href="https://arxiv.org/abs/2210.17268" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2210.17268</a>  
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2201.05343](https://arxiv.org/abs/2201.05343)  
+   Link: <a href="https://arxiv.org/abs/2201.05343" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2201.05343</a>  
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration is an independent agency of the U.S. federal government responsible for the Unit...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: starlink.com  
-   Link: [https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoriE7aTojEGYvfK6ulYulCo6gUt_ielTK0dWJ2-2xvXgz5l9gMt](https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoriE7aTojEGYvfK6ulYulCo6gUt_ielTK0dWJ2-2xvXgz5l9gMt)  
+   Link: <a href="https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoriE7aTojEGYvfK6ulYulCo6gUt_ielTK0dWJ2-2xvXgz5l9gMt" target="_blank" rel="noopener noreferrer nofollow">https://starlink.com/public-files/BrightnessMitigationBestPracticesSatelliteOperators.pdf?srsltid=AfmBOoriE7aTojEGYvfK6ulYulCo6gUt_ielTK0dWJ2-2xvXgz5l9gMt</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The visibility of a satellite also depends on the...Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side](https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side)  
+   Link: <a href="https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side</a>  
 
 10. <a id="endnote-10"></a>
    Source: wxguys.ssec.wisc.edu  
    Title: wxsats night  
-   Link: [https://wxguys.ssec.wisc.edu/2018/11/05/wxsats_night/](https://wxguys.ssec.wisc.edu/2018/11/05/wxsats_night/)  
+   Link: <a href="https://wxguys.ssec.wisc.edu/2018/11/05/wxsats_night/" target="_blank" rel="noopener noreferrer nofollow">https://wxguys.ssec.wisc.edu/2018/11/05/wxsats_night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The [Weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;) GuysCan we see satellites at night?5 Nov 2018 — Satellites are visible in the night sky when sunlight reflects off of their s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: skyandtelescope.org  
    Title: flight into darkness observe the iss in earths shadow  
-   Link: [https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/](https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/observing-news/flight-into-darkness-observe-the-iss-in-earths-shadow/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky &amp; TelescopeObserve the International Space Station in Earth&#x27;s Shadow28 Aug 2024 — The International Space Station fades from white to...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: skyandtelescope.org  
-   Link: [https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/](https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/)  
+   Link: <a href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Catch an Iridium FlarePlanning Your Iridium Flare Observation. Most would-be Iridium flare watchers need go no further than Heaven...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: popastro.com  
    Title: last chance to see iridium flares  
-   Link: [https://www.popastro.com/blog/2018/10/16/last-chance-to-see-iridium-flares/](https://www.popastro.com/blog/2018/10/16/last-chance-to-see-iridium-flares/)  
+   Link: <a href="https://www.popastro.com/blog/2018/10/16/last-chance-to-see-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow">https://www.popastro.com/blog/2018/10/16/last-chance-to-see-iridium-flares/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular AstronomyLast chance to see Iridium flares16 Oct 2018 — The first generation of these satellites had polished surfaces which coul...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cloudynights.com  
    Title: Cloudy Nights What do iridium flares look like?  
-   Link: [https://www.cloudynights.com/forums/topic/909550-what-do-iridium-flares-look-like/](https://www.cloudynights.com/forums/topic/909550-what-do-iridium-flares-look-like/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/909550-what-do-iridium-flares-look-like/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/909550-what-do-iridium-flares-look-like/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Those satellites have all been de-orbited. But plenty of other satellites can flare...Read more...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: livescience.com  
    Title: can you see earths shadow  
-   Link: [https://www.livescience.com/space/can-you-see-earths-shadow](https://www.livescience.com/space/can-you-see-earths-shadow)  
+   Link: <a href="https://www.livescience.com/space/can-you-see-earths-shadow" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/space/can-you-see-earths-shadow</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Can you see Earth&#x27;s shadow?14 Mar 2026 — Additionally, telescopes can show how geostationary satellites &quot;vanish&quot; in Earth&#x27;s shadow. Such...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: amostech.com  
-   Link: [https://amostech.com/TechnicalPapers/2024/SDA-Systems-and-Instrumentation/Caddy.pdf](https://amostech.com/TechnicalPapers/2024/SDA-Systems-and-Instrumentation/Caddy.pdf)  
+   Link: <a href="https://amostech.com/TechnicalPapers/2024/SDA-Systems-and-Instrumentation/Caddy.pdf" target="_blank" rel="noopener noreferrer nofollow">https://amostech.com/TechnicalPapers/2024/SDA-Systems-and-Instrumentation/Caddy.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AMOS ConferenceA Surprising Boost in Starlink Satellite Brightness at Optical...by SE Caddy · 2024 · Cited by 5 — In addition, when rest...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: avi-loeb.medium.com  
-   Link: [https://avi-loeb.medium.com/space-companies-did-not-pollute-our-night-sky-for-billions-of-years-and-should-not-do-so-in-the-336d23e9d2bb](https://avi-loeb.medium.com/space-companies-did-not-pollute-our-night-sky-for-billions-of-years-and-should-not-do-so-in-the-336d23e9d2bb)  
+   Link: <a href="https://avi-loeb.medium.com/space-companies-did-not-pollute-our-night-sky-for-billions-of-years-and-should-not-do-so-in-the-336d23e9d2bb" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/space-companies-did-not-pollute-our-night-sky-for-billions-of-years-and-should-not-do-so-in-the-336d23e9d2bb</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Companies Did Not Pollute Our Night Sky for Billions of...Communication satellites are already leaving unavoidable marks on the images o...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: skymaps.com  
-   Link: [https://www.skymaps.com/articles/n0012.html](https://www.skymaps.com/articles/n0012.html)  
+   Link: <a href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skymaps.com/articles/n0012.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing Earth SatellitesLow Earth orbiting satellites are not visible throughout the night because at late hours the Earth&#x27;s shadow wil...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/smartphoneastro/posts/924506416808748/](https://www.facebook.com/groups/smartphoneastro/posts/924506416808748/)  
+   Link: <a href="https://www.facebook.com/groups/smartphoneastro/posts/924506416808748/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/smartphoneastro/posts/924506416808748/</a>  
 
 21. <a id="endnote-21"></a>
    Source: twistedsifter.com  
-   Link: [https://twistedsifter.com/2026/05/nasa-and-katalyst-space-technologies-are-soon-to-launch-a-robotic-spacecraft-with-hopes-that-it-can-catch-a-vital-observatory-before-it-falls-back-into-our-atmosphere/](https://twistedsifter.com/2026/05/nasa-and-katalyst-space-technologies-are-soon-to-launch-a-robotic-spacecraft-with-hopes-that-it-can-catch-a-vital-observatory-before-it-falls-back-into-our-atmosphere/)  
+   Link: <a href="https://twistedsifter.com/2026/05/nasa-and-katalyst-space-technologies-are-soon-to-launch-a-robotic-spacecraft-with-hopes-that-it-can-catch-a-vital-observatory-before-it-falls-back-into-our-atmosphere/" target="_blank" rel="noopener noreferrer nofollow">https://twistedsifter.com/2026/05/nasa-and-katalyst-space-technologies-are-soon-to-launch-a-robotic-spacecraft-with-hopes-that-it-can-catch-a-vital-observatory-before-it-falls-back-into-our-atmosphere/</a>  
 
 22. <a id="endnote-22"></a>
    Source: photonicsonline.com  
-   Link: [https://www.photonicsonline.com/doc/from-starlink-to-visorsat-cutting-satellite-brightness-to-preserve-our-night-skies-0001](https://www.photonicsonline.com/doc/from-starlink-to-visorsat-cutting-satellite-brightness-to-preserve-our-night-skies-0001)  
+   Link: <a href="https://www.photonicsonline.com/doc/from-starlink-to-visorsat-cutting-satellite-brightness-to-preserve-our-night-skies-0001" target="_blank" rel="noopener noreferrer nofollow">https://www.photonicsonline.com/doc/from-starlink-to-visorsat-cutting-satellite-brightness-to-preserve-our-night-skies-0001</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From Starlink To VisorSat Cutting Satellite Brightness...3 Apr 2025 — Recent technological advances in anti-reflective coatings offer a...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=LzzROZzjTyw](https://www.youtube.com/watch?v=LzzROZzjTyw)  
+   Link: <a href="https://www.youtube.com/watch?v=LzzROZzjTyw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=LzzROZzjTyw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Iridium Flares Are Disappearing From The SkiesIridium flares they are an endangered species and it&#x27;s a really cool thing to see this sate...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: news.northeastern.edu  
    Title: An artificial constellation of thousands of satellites illuminates the night  
-   Link: [https://news.northeastern.edu/2026/03/24/space-mirrors-satellites-sunlight-earth/](https://news.northeastern.edu/2026/03/24/space-mirrors-satellites-sunlight-earth/)  
+   Link: <a href="https://news.northeastern.edu/2026/03/24/space-mirrors-satellites-sunlight-earth/" target="_blank" rel="noopener noreferrer nofollow">https://news.northeastern.edu/2026/03/24/space-mirrors-satellites-sunlight-earth/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirrors Could Beam Sunlight Back to Earth — At a CostMar 24, 2026 — An array of man-made satellites beam sunlight down to Earth...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: science.nasa.gov  
    Title: the science of sunglint 84333  
-   Link: [https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/](https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/the-science-of-sunglint-84333/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science of SunglintThat gleam is caused by sunglint, an optical phenomenon that occurs when sunlight reflects off the surface of water at...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: nss.org  
-   Link: [https://nss.org/wp-content/uploads/SSP-DOE-Brightness-Due-To-Reflected-Sunlight.pdf](https://nss.org/wp-content/uploads/SSP-DOE-Brightness-Due-To-Reflected-Sunlight.pdf)  
+   Link: <a href="https://nss.org/wp-content/uploads/SSP-DOE-Brightness-Due-To-Reflected-Sunlight.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nss.org/wp-content/uploads/SSP-DOE-Brightness-Due-To-Reflected-Sunlight.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Parameters in Eq. (1) are now. 55. Page 59. K = 0.8 r = 0.8...Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askscience/comments/2z3tae/how_is_it_that_you_can_see_satellites_and_the/](https://www.reddit.com/r/askscience/comments/2z3tae/how_is_it_that_you_can_see_satellites_and_the/)  
+   Link: <a href="https://www.reddit.com/r/askscience/comments/2z3tae/how_is_it_that_you_can_see_satellites_and_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/2z3tae/how_is_it_that_you_can_see_satellites_and_the/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aren&#x27;t in a high enough orbit for it to be sunlight so they must be...</p></details>

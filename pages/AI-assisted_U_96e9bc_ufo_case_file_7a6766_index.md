@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-ufo-case-file/
 description: Focused pages that expand on Case File.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_ufo_case_file_7a6766
-parent_title: Case File | AI assisted UFO sighting investigation
+parent_title: Case File
 parent_nav_short_title: Case File
 parent_permalink: /case-file/
 ---

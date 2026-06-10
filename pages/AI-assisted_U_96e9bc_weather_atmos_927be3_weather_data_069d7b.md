@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /weather/
 nav_short_title: Weather data
 title: Weather records that change a UFO case
-title_full: Weather records that change a UFO case | Weather
+title_full: Weather records that change a UFO case
 display_title_short: Weather data
 display_title: Weather data
 heading_title: Weather records that change a UFO case
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Weather Make a UFO Look Stranger? | UFO Case AI
+parent_title: Can Weather Make a UFO Look Stranger?
 parent_permalink: /weather/
 parent_nav_short_title: Weather
 parent_heading_title: Can Weather Make a UFO Look Stranger?
@@ -279,7 +279,7 @@ prev_link:
   permalink: /sprites/
   short_title: Sprites
   heading_title: Red flashes above storms and UFO reports
-date: '2026-06-08 22:47:31 '
+date: '2026-06-10 19:45:24 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-1.webp
@@ -292,7 +292,7 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-1-dark.svg" | relative_url }}" alt="Weather data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That matters because many common misidentifications depend heavily on atmospheric conditions. Low cloud can hide aircraft structure while leaving navigation lights visible. Temperature inversions can distort distance and radar behaviour. Ice crystals can create bright pillars and mock suns. Thunderstorms can generate upper-atmosphere flashes that resemble structured luminous objects. A structured case file therefore treats weather as evidence with timestamps, coordinates, and uncertainty ranges rather than as vague background context. NASA’s 2023 independent UAP study stressed that better environmental data and standardised collection methods are central to improving case quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+That matters because many common misidentifications depend heavily on atmospheric conditions. Low cloud can hide aircraft structure while leaving navigation lights visible. Temperature [inversions]({{ 'inversions/' | relative_url }}) can distort distance and radar behaviour. Ice crystals can create bright pillars and mock suns. Thunderstorms can generate upper-atmosphere flashes that resemble structured luminous objects. A structured [case file]({{ 'case-file/' | relative_url }}) therefore treats weather as evidence with timestamps, coordinates, and uncertainty ranges rather than as vague background context. NASA’s 2023 independent UAP study stressed that better environmental data and standardised collection methods are central to improving case quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Surface observations and aviation reports
 
@@ -302,11 +302,11 @@ METAR reports — routine aviation weather observations — are especially impor
 
 A case confidence check often starts with questions such as:
 
+* Was visibility genuinely clear, or reduced by haze, mist, smoke, rain, or fog?
+* Was there a low cloud ceiling that could hide [aircraft]({{ 'aircraft/' | relative_url }}) bodies while leaving lights visible?
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Was visibility genuinely clear, or reduced by haze, mist, smoke, rain, or fog?
-* Was there a low cloud ceiling that could hide aircraft bodies while leaving lights visible?
 * Were winds strong enough to move balloons, lanterns, or drifting clouds in the reported direction?
 * Did the atmosphere support unusual optical effects?
 * Did conditions change rapidly during the sighting window?
@@ -364,7 +364,7 @@ This comparison is especially useful in cases involving:
 
 </div>
 
-AI-assisted systems can automate this step by comparing witness direction-of-travel statements against archived wind layers at different altitudes. That matters because surface winds may differ significantly from winds a few thousand feet higher. A balloon apparently “moving intelligently” at ground level may simply be [following]({{ 'following-moon/' | relative_url }}) a higher-altitude wind stream invisible to observers.
+AI-assisted systems can automate this step by comparing witness direction-of-travel statements against archived wind layers at different altitudes. That matters because surface winds may differ significantly from winds a few thousand feet higher. A balloon apparently “moving intelligently” at ground level may simply be following a higher-altitude wind stream invisible to observers.
 
 ## Radar, satellite and lightning layers
 
@@ -374,7 +374,7 @@ These datasets help investigators answer a more specific question: was the atmos
 
 ### Storm systems and transient luminous events
 
-Thunderstorm environments deserve special attention because they can generate rare upper-atmosphere electrical events such as sprites, blue jets, and elves. NASA’s UAP study specifically referenced sprites as an example of unusual atmospheric phenomena that observers may misidentify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> National Geographic has also documented how transient luminous events can appear highly unfamiliar even to experienced skywatchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">lightning sprites transient luminous events thunderstorms</span><span class="citation-popover-snippet">National GeographicThe most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the cu...</span></span></span>
+Thunderstorm environments deserve special attention because they can generate rare upper-atmosphere electrical events such as [sprites]({{ 'sprites/' | relative_url }}), blue jets, and elves. NASA’s UAP study specifically referenced sprites as an example of unusual atmospheric phenomena that observers may misidentify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> National Geographic has also documented how transient luminous events can appear highly unfamiliar even to experienced skywatchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalgeographic.com">[National Geographic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalgeographic.com</span><span class="citation-popover-title">lightning sprites transient luminous events thunderstorms</span><span class="citation-popover-snippet">National GeographicThe most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the cu...</span></span></span>
 
 These events matter in UFO investigations because they can produce:
 
@@ -399,7 +399,7 @@ Lightning-mapper satellites have improved this process significantly. NOAA’s G
 
 Radar evidence often sounds persuasive in UFO discussions, but weather conditions can complicate interpretation.
 
-Temperature [inversions]({{ 'inversions/' | relative_url }}), moisture layers, precipitation, and anomalous propagation can produce misleading radar returns. Older radar systems were especially vulnerable to atmospheric distortion. Modern meteorological radar products therefore become useful not only for detecting storms but for testing whether unusual radar contacts appeared during conditions known to affect signal propagation.
+Temperature inversions, moisture layers, precipitation, and anomalous propagation can produce misleading radar returns. Older radar systems were especially vulnerable to atmospheric distortion. Modern meteorological radar products therefore become useful not only for detecting storms but for testing whether unusual radar contacts appeared during conditions known to affect signal propagation.
 
 This matters because a combined “visual plus radar” report is frequently treated as stronger evidence. Sometimes that is justified. Sometimes weather data weakens the case considerably.
 
@@ -437,7 +437,7 @@ This becomes valuable in cases where observers report:
 
 </div>
 
-Geostationary weather satellites now provide high-frequency cloud imagery over large areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> STAR website Investigators can combine this with witness coordinates, terrain elevation, and viewing direction to estimate whether cloud layers or storm structures matched the account.
+Geostationary weather satellites now provide high-frequency cloud imagery over large areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: star.nesdis.noaa.gov">[NESDIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">star.nesdis.noaa.gov</span><span class="citation-popover-snippet">NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</span></span></span> STAR website Investigators can combine this with witness coordinates, terrain [elevation]({{ 'elevation/' | relative_url }}), and viewing direction to estimate whether cloud layers or storm structures matched the account.
 
 In practice, this often changes confidence levels in subtle ways rather than producing dramatic debunks. A report may remain unexplained while still becoming less reliable because cloud conditions prevented accurate range estimation.
 
@@ -452,7 +452,7 @@ A structured investigation benefits from separating cases into categories such a
 * **Strong weather consistency** — the report closely matches known atmospheric or optical conditions.
 * **Partial weather consistency** — some features align with weather data, while others remain unclear.
 * **Weather contradiction** — reported conditions conflict with recorded observations.
-* **Weather-[insufficient]({{ 'data-limits/' | relative_url }})** — available data is too sparse for a confident assessment.
+* **Weather-insufficient** — available data is too sparse for a confident assessment.
 
 This distinction matters because many UFO discussions collapse into false certainty at both extremes. Sceptical commentary may dismiss witnesses too quickly, while believers may treat unresolved details as proof of something extraordinary.
 
@@ -499,7 +499,7 @@ A useful automated system can:
 * Flag inversion-prone weather setups
 * Compare similar historical sightings under matching conditions
 
-The important limitation is that automation should rank plausibility, not manufacture certainty. A weather match does not automatically close a case, and a lack of weather explanation does not automatically elevate a sighting into something extraordinary. The real value comes from reducing avoidable ambiguity and improving the reliability of the [case file]({{ 'case-file/' | relative_url }}) before stronger claims are made.
+The important limitation is that automation should rank plausibility, not manufacture certainty. A weather match does not automatically close a case, and a lack of weather explanation does not automatically elevate a sighting into something extraordinary. The real value comes from reducing avoidable ambiguity and improving the reliability of the case file before stronger claims are made.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -513,16 +513,16 @@ The important limitation is that automation should rank plausibility, not manufa
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Directly relevant to interpreting weather records.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -530,16 +530,16 @@ The important limitation is that automation should rank plausibility, not manufa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Helps readers understand meteorological data.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -547,16 +547,16 @@ The important limitation is that automation should rank plausibility, not manufa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Jack Williams</p>
         
-        
+        <p class="fr-book-desc">Covers observations, storms and forecasting.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -564,16 +564,16 @@ The important limitation is that automation should rank plausibility, not manufa
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Useful for evidence-based reasoning.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -581,13 +581,13 @@ The important limitation is that automation should rank plausibility, not manufa
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -614,76 +614,72 @@ The important limitation is that automation should rank plausibility, not manufa
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=weather+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-weather-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather map print -book -books" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-weather-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open weather map print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20weather%20map%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWeather%20Map%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPrint%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWeather%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMap%3C%2Ftext%3E%3Crect%20x%3D%22139%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22149%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for weather map print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">weather map print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Weather</span><span class="fr-search-tag">Map</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=weather+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-weather-map-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="weather map print -book -books" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-weather-map-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open that poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20that%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EThat%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EThat%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for that poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">that poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">That</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=that+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-that-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that poster -book -books -dvd" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-that-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=that+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-that-memorabilia-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that memorabilia -book -books -dvd" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-that-memorabilia-book-books-d" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open that memorabilia on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20that%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EThat%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EThat%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for that memorabilia on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">that memorabilia</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">That</span><span class="fr-search-tag">Memorabilia</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=that+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-that-memorabilia-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="that memorabilia -book -books -dvd" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-that-memorabilia-book-books-d" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=weather+map+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=weather-data-weather-records-that-change-a-ufo-case-ai-assisted-ufo-sighting-investigation-weather-map-print-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -741,10 +737,10 @@ The important limitation is that automation should rank plausibility, not manufa
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -762,7 +758,7 @@ The important limitation is that automation should rank plausibility, not manufa
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -898,147 +894,147 @@ The important limitation is that automation should rank plausibility, not manufa
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</p></details>
    Published: September 13, 2023  
 
 2. <a id="endnote-2"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/asos/METAR.html](https://www.weather.gov/asos/METAR.html)  
+   Link: <a href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/asos/METAR.html</a>  
 
 3. <a id="endnote-3"></a>
    Source: star.nesdis.noaa.gov  
-   Link: [https://www.star.nesdis.noaa.gov/GOES/](https://www.star.nesdis.noaa.gov/GOES/)  
+   Link: <a href="https://www.star.nesdis.noaa.gov/GOES/" target="_blank" rel="noopener noreferrer nofollow">https://www.star.nesdis.noaa.gov/GOES/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA / NESDIS / STAR websiteGOES Imagery ViewerGOES Image Viewer. Click on a region to view images and animations for that region. Covera...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/ilm/aviation](https://www.weather.gov/ilm/aviation)  
+   Link: <a href="https://www.weather.gov/ilm/aviation" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ilm/aviation</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation WeatherGFA FORECAST. Ceiling &amp; Visibility Clouds Precipitation Thunderstorms Temperature Winds Turbulence Icing... Center Weath...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: aviationweather.gov  
-   Link: [https://aviationweather.gov/data/metar/](https://aviationweather.gov/data/metar/)  
+   Link: <a href="https://aviationweather.gov/data/metar/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/data/metar/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aviation Weather CenterMETAR and TAF DataCeiling &amp; Visibility Clouds Precipitation Thunderstorms Temperature Winds Turbulence Icing... P...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs](https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs)  
+   Link: <a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: metoffice.gov.uk  
    Title: whats the difference between mist fog and haze  
-   Link: [https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze](https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/whats-the-difference-between-mist-fog-and-haze</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeMist, fog, and haze: What&#x27;s the difference?10 Sept 2025 — For aviation purposes, fog is the name given when visibility drops be...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: universalweather.com  
    Title: aviation weather tips all you need to know about ceilings  
-   Link: [https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/](https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/)  
+   Link: <a href="https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Universal Weather and AviationUnderstanding Ceiling Conditions and Flight Impacts29 Jul 2025 — Ceiling conditions—referring to the height...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/low-level-forecasts](https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/low-level-forecasts)  
+   Link: <a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/low-level-forecasts" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/low-level-forecasts</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Met OfficeLow Level ForecastsLow-level aviation forecasts, including F214, F215, F415, and F424, in helping pilots assess weather conditi...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalgeographic.com  
    Title: lightning sprites transient luminous events thunderstorms  
-   Link: [https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms](https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/lightning-sprites-transient-luminous-events-thunderstorms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicThe most otherworldly, mysterious forms of lightning on Earth26 Jun 2025 — Scientists are working to understand the cu...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: metoffice.gov.uk  
    Title: what is anticyclonic gloom  
-   Link: [https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom](https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom)  
+   Link: <a href="https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/blog/2025/what-is-anticyclonic-gloom</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>?13 Oct 2025 — Anticyclonic gloom occurs when a high-pressure system settles over the UK, creating a stable atmosphere that suppresses ve...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/research/library-and-archive/publications/factsheets](https://www.metoffice.gov.uk/research/library-and-archive/publications/factsheets)  
+   Link: <a href="https://www.metoffice.gov.uk/research/library-and-archive/publications/factsheets" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/research/library-and-archive/publications/factsheets</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FactsheetsIf you are interested in clouds or thunderstorms, UK climate or weather extremes, these factsheets clearly describe and illustr...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/METAR](https://en.wikipedia.org/wiki/METAR)  
+   Link: <a href="https://en.wikipedia.org/wiki/METAR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/METAR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>METARsMETAR is a format for reporting weather information. A METAR weather report is predominantly used by aircraft pilots, and by met...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: How to read a synoptic weather chart  
-   Link: [https://www.youtube.com/watch?v=RVBhb1cahNM](https://www.youtube.com/watch?v=RVBhb1cahNM)  
+   Link: <a href="https://www.youtube.com/watch?v=RVBhb1cahNM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=RVBhb1cahNM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Met Office explains...These weather charts or synop charts are a meteorological road map that reveal the complex patterns behind the wea...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aviationweather.gov  
-   Link: [https://aviationweather.gov/gfa/?tab=cigvis](https://aviationweather.gov/gfa/?tab=cigvis)  
+   Link: <a href="https://aviationweather.gov/gfa/?tab=cigvis" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/?tab=cigvis</a>  
 
 16. <a id="endnote-16"></a>
    Source: wiki.ivao.aero  
-   Link: [https://wiki.ivao.aero/en/home/training/documentation/metar_explanation](https://wiki.ivao.aero/en/home/training/documentation/metar_explanation)  
+   Link: <a href="https://wiki.ivao.aero/en/home/training/documentation/metar_explanation" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/metar_explanation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>explanation | IVAO Documentation LibraryWhen the sky is obscured, the observations of vertical visibility should be reported in lieu of c...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: GOV.UK  
    Title: met office weather and climate forecasting  
-   Link: [https://www.gov.uk/algorithmic-transparency-records/met-office-weather-and-climate-forecasting](https://www.gov.uk/algorithmic-transparency-records/met-office-weather-and-climate-forecasting)  
+   Link: <a href="https://www.gov.uk/algorithmic-transparency-records/met-office-weather-and-climate-forecasting" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/algorithmic-transparency-records/met-office-weather-and-climate-forecasting</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Office: Weather and climate forecasting10 Feb 2025 — The purpose of the tool is to generate accurate forecasts of the weather across the...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: ansperformance.eu  
    Title: META R  
-   Link: [https://ansperformance.eu/acronym/metar/](https://ansperformance.eu/acronym/metar/)  
+   Link: <a href="https://ansperformance.eu/acronym/metar/" target="_blank" rel="noopener noreferrer nofollow">https://ansperformance.eu/acronym/metar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>METAR - METeorological Aerodrome or Aeronautical ReportMETAR is a format for reporting weather information typically from airports or per...</p></details>
 
 ### Additional References
 
 19. <a id="endnote-19"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html](https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/ATpubs/AIM_html/chap7_section_1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Chapter 7. Safety of FlightThe following are examples of aviation forecasts depicted on the GFA: Terminal Aerodrome Forecast (TAF); Ceili...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle](https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) New observations of sprites from the space shuttleWe imaged sprites from an altitude of 280 km using a [calibrated](&amp;#123;&amp;#123; &#x27;sensor-data/&#x27; | relative_url &amp;#125;&amp;#125;) multispectral cam...</p></details>
+   Link: <a href="https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228727730_New_observations_of_sprites_from_the_space_shuttle</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) New observations of sprites from the space shuttleWe imaged sprites from an altitude of 280 km using a calibrated multispectral cam...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: navcanada.ca  
-   Link: [https://www.navcanada.ca/en/aviation-weather-services-guide.pdf](https://www.navcanada.ca/en/aviation-weather-services-guide.pdf)  
+   Link: <a href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.navcanada.ca/en/aviation-weather-services-guide.pdf</a>  
 
 22. <a id="endnote-22"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/2017/03/check-weather-satellites-flashy-lightning-mapper](https://www.wired.com/2017/03/check-weather-satellites-flashy-lightning-mapper)  
+   Link: <a href="https://www.wired.com/2017/03/check-weather-satellites-flashy-lightning-mapper" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2017/03/check-weather-satellites-flashy-lightning-mapper</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This capability is crucial for predicting severe weather events, such as thunderstorms, tornadoes, and wildfires, helping to keep people...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: boldmethod.com  
-   Link: [https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/](https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/)  
+   Link: <a href="https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/</a>  
 
 24. <a id="endnote-24"></a>
    Source: moratech.com  
-   Link: [https://www.moratech.com/aviation/metaf-abbrev.html](https://www.moratech.com/aviation/metaf-abbrev.html)  
+   Link: <a href="https://www.moratech.com/aviation/metaf-abbrev.html" target="_blank" rel="noopener noreferrer nofollow">https://www.moratech.com/aviation/metaf-abbrev.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>METAR/TAF AbbreviationsMETAR and TAF Weather Reports; Weather Identifiers:; B - Began BC Patches BL Blowing BR Mist &gt;=5/8. DR Low Drift...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=g5wBWOTrloA](https://www.youtube.com/watch?v=g5wBWOTrloA)  
+   Link: <a href="https://www.youtube.com/watch?v=g5wBWOTrloA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g5wBWOTrloA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Decode METARs and TAFsIn this video I go over examples of decoding aviation METARs and TAFs. Meteorological Aerodrome Reports (MET...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: abc.net.au  
    Title: declassified ufo reports to open a window into new science  
-   Link: [https://www.abc.net.au/news/2021-07-01/declassified-ufo-reports-to-open-a-window-into-new-science/100254896](https://www.abc.net.au/news/2021-07-01/declassified-ufo-reports-to-open-a-window-into-new-science/100254896)  
+   Link: <a href="https://www.abc.net.au/news/2021-07-01/declassified-ufo-reports-to-open-a-window-into-new-science/100254896" target="_blank" rel="noopener noreferrer nofollow">https://www.abc.net.au/news/2021-07-01/declassified-ufo-reports-to-open-a-window-into-new-science/100254896</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomer says declassified UFO reports will open way...30 Jun 2021 — The declassifying of military UFO reports by the United States wi...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/paulmsmithphotography/posts/an-incredible-display-of-red-sprites-and-secondary-tles-over-storms-this-springi/1330772145345763/](https://www.facebook.com/paulmsmithphotography/posts/an-incredible-display-of-red-sprites-and-secondary-tles-over-storms-this-springi/1330772145345763/)  
+   Link: <a href="https://www.facebook.com/paulmsmithphotography/posts/an-incredible-display-of-red-sprites-and-secondary-tles-over-storms-this-springi/1330772145345763/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/paulmsmithphotography/posts/an-incredible-display-of-red-sprites-and-secondary-tles-over-storms-this-springi/1330772145345763/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>It is not very often that you get such a display of power like this with...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/](https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/)  
+   Link: <a href="https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceTubeOfficial0/posts/-this-isnt-a-glitch-this-is-realcaptured-above-a-powerful-thunderstorm-in-the-us/122247371906175506/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>electrical discharges that occur between 30 and 55 miles...Read more...</p></details>

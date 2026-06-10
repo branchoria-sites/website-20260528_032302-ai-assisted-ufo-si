@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /tracker-gaps/
 nav_short_title: Military gaps
 title: Why Some Military Flights Seem To Disappear
-title_full: Why Some Military Flights Seem To Disappear | Tracker gaps
+title_full: Why Some Military Flights Seem To Disappear
 display_title_short: Military gaps
 display_title: Military gaps
 heading_title: Why Some Military Flights Seem To Disappear
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What if the plane is not on the tracker? | Aircraft
+parent_title: What if the plane is not on the tracker?
 parent_permalink: /tracker-gaps/
 parent_nav_short_title: Tracker gaps
 parent_heading_title: What if the plane is not on the tracker?
@@ -260,7 +260,7 @@ prev_link:
   permalink: /drone-visibility/
   short_title: Drone visibility
   heading_title: Why Public Trackers Miss So Many Drones
-date: '2026-06-08 23:34:59 '
+date: '2026-06-10 20:13:46 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-1.webp
@@ -275,7 +275,7 @@ A military [aircraft]({{ 'aircraft/' | relative_url }}) disappearing from a publ
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-1-dark.svg" | relative_url }}" alt="Military gaps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why military aircraft do not appear consistently
 
-Public flight trackers mainly depend on ADS-B, or Automatic Dependent Surveillance–Broadcast. Aircraft equipped with ADS-B transmit their position, altitude, speed and identifier using onboard transponders. Websites such as Flightradar24 combine those signals with volunteer receiver networks and additional feeds to create live maps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Flightradar24ADS-BOur network of more than 50,000 ADS-B receivers around the world receive flight data from aircraft with ADS-B transpond...</span></span></span>
+Public flight trackers mainly depend on ADS-B, or Automatic Dependent Surveillance–Broadcast. Aircraft equipped with ADS-B transmit their position, altitude, speed and identifier using onboard transponders. Websites such as Flightradar24 combine those signals with volunteer receiver networks and additional feeds to create live maps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">ADS-BOur network of more than 50,000 ADS-B receivers around the world receive flight data from aircraft with ADS-B transpond...</span></span></span>
 
 The important detail for UFO casework is that public visibility is not controlled by a single switch. Several different systems affect whether a military aircraft becomes visible:
 
@@ -290,7 +290,7 @@ The important detail for UFO casework is that public visibility is not controlle
 
 </div>
 
-This is why investigators sometimes see contradictory results between tracking platforms. One site may show a tanker or transport aircraft openly while another displays nothing at all. Reddit discussions among ADS-B hobbyists repeatedly note that aircraft visible on ADS-B Exchange may be absent from Flightradar24 or FlightAware because of commercial filtering policies rather than missing transmissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/flightradar24/comments/tacwup/question_why_do_some_planes_not_show_up_on_fr24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">but now I&#x27;ve gone</span><span class="citation-popover-snippet">Redditquestion: why do some planes not show up on FR24, but...March 9, 2022 — so I started tracking flights partly because I live in the...</span><span class="citation-popover-meta">Published: March 9, 2022</span></span></span>
+This is why investigators sometimes see contradictory results between tracking platforms. One site may show a tanker or transport aircraft openly while another displays nothing at all. Reddit discussions among ADS-B hobbyists repeatedly note that aircraft visible on ADS-B Exchange may be absent from Flightradar24 or FlightAware because of commercial filtering policies rather than missing transmissions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/flightradar24/comments/tacwup/question_why_do_some_planes_not_show_up_on_fr24/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">but now I&#x27;ve gone</span><span class="citation-popover-snippet">question: why do some planes not show up on FR24, but...March 9, 2022 — so I started tracking flights partly because I live in the...</span><span class="citation-popover-meta">Published: March 9, 2022</span></span></span>
 
 For UFO analysis, the key lesson is simple: absence on one public tracker is [weak evidence]({{ 'weak-evidence/' | relative_url }}) unless multiple independent sources are checked.
 
@@ -298,7 +298,7 @@ For UFO analysis, the key lesson is simple: absence on one public tracker is [we
 
 Many public tracking platforms intentionally suppress selected aircraft. This is not limited to military operations. Governments, private operators and security-sensitive flights have long pushed for restrictions on public redistribution of aircraft data.
 
-The FAA’s Limiting Aircraft Data Displayed programme, known as LADD, allows operators to request reduced public distribution of their flight information through FAA data systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbaa.org">[NBAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbaa.org</span><span class="citation-popover-snippet">NBAALimiting Aircraft Data Displayed (LADD)The Limiting Aircraft Data Displayed (LADD) program was developed by FAA in part to address pr...</span></span></span> Although originally associated with private and corporate aviation, similar concerns affect state and military flights.
+The FAA’s Limiting Aircraft Data Displayed programme, known as LADD, allows operators to request reduced public distribution of their flight information through FAA data systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbaa.org">[NBAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbaa.org</span><span class="citation-popover-snippet">Limiting Aircraft Data Displayed (LADD)The Limiting Aircraft Data Displayed (LADD) program was developed by FAA in part to address pr...</span></span></span> Although originally associated with private and corporate aviation, similar concerns affect state and military flights.
 
 Flightradar24 openly states that some military and government aircraft may be blocked entirely, while high-profile aircraft such as Air Force One are not displayed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.fr24.com">[Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.fr24.com</span><span class="citation-popover-title">Military and government aircraft may also be blocked entirely.Read more</span><span class="citation-popover-snippet">Flightradar24 Support centerWhy is some aircraft information limited or not visible?10 Apr 2026 — High-profile aircraft, like Air Force O...</span></span></span> That means a witness near a military base may genuinely observe aircraft activity while mainstream tracker apps appear empty.
 
@@ -414,7 +414,7 @@ This matters because witnesses frequently circulate isolated screenshots online 
 A balanced AI-assisted workflow should therefore preserve the distinction between:
 
 * no aircraft detected
-* no aircraft publicly displayed <span class="citation-chip-wrap"><a class="citation-chip" href="https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbaa.org">[nbaa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbaa.org</span><span class="citation-popover-snippet">NBAALimiting Aircraft Data Displayed (LADD)The Limiting Aircraft Data Displayed (LADD) program was developed by FAA in part to address pr...</span></span></span>
+* no aircraft publicly displayed <span class="citation-chip-wrap"><a class="citation-chip" href="https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbaa.org">[nbaa.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbaa.org</span><span class="citation-popover-snippet">Limiting Aircraft Data Displayed (LADD)The Limiting Aircraft Data Displayed (LADD) program was developed by FAA in part to address pr...</span></span></span>
 * incomplete reception
 * filtered military traffic <span class="citation-chip-wrap"><a class="citation-chip" href="https://discussions.flightaware.com/t/can-i-track-military-planes-anywhere/77978" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discussions.flightaware.com">[discussions.flightaware.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discussions.flightaware.com</span><span class="citation-popover-title">can i track military planes anywhere</span><span class="citation-popover-snippet">i track military planes anywhere? - Aviation25 Jun 2021 — You can use ADSBExchange, they are not filtering military traffic as long as th...</span></span></span>
 * uncertain correlation
@@ -433,7 +433,7 @@ Examples include:
 * fighters conducting afterburner climbs
 * aircraft approaching head-on at night
 * formation flights with changing spacing
-* helicopters using [infrared]({{ 'infrared-orbs/' | relative_url }}) or search lighting
+* helicopters using infrared or search lighting
 * drones accompanying military exercises
 * transport aircraft performing repeated circuits
 
@@ -457,7 +457,7 @@ For an AI-assisted sighting investigation, military-aircraft screening works bes
 5. [Review]({{ 'review/' | relative_url }}) whether only partial tracks are visible.
 6. Examine tanker patterns and support aircraft.
 7. Compare witness timing with known exercises or deployments.
-8. Preserve [uncertainty]({{ 'uncertainty-labels/' | relative_url }}) where data remain incomplete.
+8. Preserve uncertainty where data remain incomplete.
 
 Importantly, none of these steps automatically “debunk” a UFO sighting. They simply prevent investigators from treating incomplete public tracking data as definitive proof that no aircraft were present.
 
@@ -490,7 +490,7 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Connects official and military contexts with UFO claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -500,16 +500,16 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skunk Works on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nXUbFuRT9LwC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Skunk Works" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Strong fit for military aircraft context.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -517,16 +517,16 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Helps avoid overclaiming from incomplete public tracks.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -534,16 +534,16 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        
+        <p class="fr-book-desc">Provides grounding in aircraft flight and perception.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -551,13 +551,13 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skunk+Works&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skunk Works</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -584,76 +584,72 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open military aircraft model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20military%20aircraft%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMilitary%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAircraft%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMilitary%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAircraft%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for military aircraft model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">military aircraft model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Military</span><span class="fr-search-tag">Aircraft</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-military-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="military aircraft model" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-military-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-aviation-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-aviation-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-aviation-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-aviation-poster-book-bo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-aviation-poster-book-bo" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open adsb receiver on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20adsb%20receiver%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAdsb%20Receiver%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAdsb%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EReceiver%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for adsb receiver on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">adsb receiver</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Adsb</span><span class="fr-search-tag">Receiver</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=adsb+receiver&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-adsb-receiver&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="adsb receiver" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-adsb-receiver" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=military+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=military-gaps-why-some-military-flights-seem-to-disappear-ai-assisted-ufo-sighting-investigation-military-aircraft-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -711,10 +707,10 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -732,7 +728,7 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -867,262 +863,262 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
 
 1. <a id="endnote-1"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/how-it-works/ads-b](https://www.flightradar24.com/how-it-works/ads-b)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24ADS-BOur network of more than 50,000 ADS-B receivers around the world receive flight data from aircraft with ADS-B transpond...</p></details>
+   Link: <a href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/ads-b</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-BOur network of more than 50,000 ADS-B receivers around the world receive flight data from aircraft with ADS-B transpond...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: reddit.com  
    Title: but now I've gone  
-   Link: [https://www.reddit.com/r/flightradar24/comments/tacwup/question_why_do_some_planes_not_show_up_on_fr24/](https://www.reddit.com/r/flightradar24/comments/tacwup/question_why_do_some_planes_not_show_up_on_fr24/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Redditquestion: why do some planes not show up on FR24, but...March 9, 2022 — so I started tracking flights partly because I live in the...</p></details>
+   Link: <a href="https://www.reddit.com/r/flightradar24/comments/tacwup/question_why_do_some_planes_not_show_up_on_fr24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flightradar24/comments/tacwup/question_why_do_some_planes_not_show_up_on_fr24/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>question: why do some planes not show up on FR24, but...March 9, 2022 — so I started tracking flights partly because I live in the...</p></details>
    Published: March 9, 2022  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/16751vw/military_jets_not_showing_on_radar/](https://www.reddit.com/r/ADSB/comments/16751vw/military_jets_not_showing_on_radar/)  
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/16751vw/military_jets_not_showing_on_radar/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/16751vw/military_jets_not_showing_on_radar/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>t yet I can find other military jets on the radar.Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: nbaa.org  
-   Link: [https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/](https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBAALimiting Aircraft Data Displayed (LADD)The Limiting Aircraft Data Displayed (LADD) program was developed by FAA in part to address pr...</p></details>
+   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/limiting-aircraft-data-displayed-ladd/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Limiting Aircraft Data Displayed (LADD)The Limiting Aircraft Data Displayed (LADD) program was developed by FAA in part to address pr...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: wired.com  
-   Link: [https://www.wired.com/story/ads-b-exchange-jetnet-sale](https://www.wired.com/story/ads-b-exchange-jetnet-sale)  
+   Link: <a href="https://www.wired.com/story/ads-b-exchange-jetnet-sale" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/ads-b-exchange-jetnet-sale</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>This sale has angered ADS-B Exchange&#x27;s user base, who fear that the new owners will censor data, steer the platform away from its open-so...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/technology/equipadsb/privacy](https://www.faa.gov/air_traffic/technology/equipadsb/privacy)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/privacy" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/privacy</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationADS-B Privacy22 Mar 2025 — The PIA program enables interested aircraft owners to request an alternate, tem...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: nbaa.org  
    Title: Privacy ICAO Address (PIA)  
-   Link: [https://nbaa.org/aircraft-operations/security/privacy/privacy-icao-address-pia/](https://nbaa.org/aircraft-operations/security/privacy/privacy-icao-address-pia/)  
+   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/privacy-icao-address-pia/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/privacy-icao-address-pia/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aircraft OperationsUpon receiving the assigned PIA, the requester has 30 calendar days to program their ADS-B transponder to the assigned...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/gop52j/adsb_privacy/](https://www.reddit.com/r/flying/comments/gop52j/adsb_privacy/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/gop52j/adsb_privacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/gop52j/adsb_privacy/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Privacy: r/flyingIf Flightradar24 scares you, have a look at ADSB Exchange, you might not sleep well. On select the U to see all...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/1j3058p/what_is_the_difference_bw_adsb_and_flightradar24/](https://www.reddit.com/r/ADSB/comments/1j3058p/what_is_the_difference_bw_adsb_and_flightradar24/)  
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/1j3058p/what_is_the_difference_bw_adsb_and_flightradar24/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/1j3058p/what_is_the_difference_bw_adsb_and_flightradar24/</a>  
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/](https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/)  
+   Link: <a href="https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ADSB/comments/18l27c7/adsb_tracking_websites_do_not_show_every_aircraft/</a>  
 
 12. <a id="endnote-12"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/](https://www.faa.gov/)  
+   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
 13. <a id="endnote-13"></a>
    Source: adsbperformance.faa.gov  
-   Link: [https://adsbperformance.faa.gov/PIA/Application.aspx](https://adsbperformance.faa.gov/PIA/Application.aspx)  
+   Link: <a href="https://adsbperformance.faa.gov/PIA/Application.aspx" target="_blank" rel="noopener noreferrer nofollow">https://adsbperformance.faa.gov/PIA/Application.aspx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ICAO Address Application: [Checklist](&amp;#123;&amp;#123; &#x27;checklist/&#x27; | relative_url &amp;#125;&amp;#125;) - Equip ADS-BThe FAA Program Office provides this automated tool in order to assist aircraft owners a...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nbaa.org  
-   Link: [https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/](https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/)  
+   Link: <a href="https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/" target="_blank" rel="noopener noreferrer nofollow">https://nbaa.org/aircraft-operations/security/privacy/ads-b-privacy-faq/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Privacy FAQThe FAA&#x27;s Limiting Aircraft Data Displayed (LADD) and Privacy ICAO Address (PIA) programs offer privacy protections in t...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ads-b.nl  
-   Link: [https://www.ads-b.nl/](https://www.ads-b.nl/)  
+   Link: <a href="https://www.ads-b.nl/" target="_blank" rel="noopener noreferrer nofollow">https://www.ads-b.nl/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking Military AircraftWelkom! ADS-B.nl shows worldwide collected military tracking data by feeders using the excellent API from ADSBe...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: ads-b.nl  
-   Link: [https://ads-b.nl/index.php?pageno=1099&type=TWR](https://ads-b.nl/index.php?pageno=1099&type=TWR)  
+   Link: <a href="https://ads-b.nl/index.php?pageno=1099&amp;type=TWR" target="_blank" rel="noopener noreferrer nofollow">https://ads-b.nl/index.php?pageno=1099&amp;type=TWR</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mplete different way. Enjoy...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: flightradar24.com  
    Title: new filters flightradar24 mobile app  
-   Link: [https://www.flightradar24.com/blog/tutorial/new-filters-flightradar24-mobile-app/](https://www.flightradar24.com/blog/tutorial/new-filters-flightradar24-mobile-app/)  
+   Link: <a href="https://www.flightradar24.com/blog/tutorial/new-filters-flightradar24-mobile-app/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/tutorial/new-filters-flightradar24-mobile-app/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Choose a single category or multiple categories, like Passenger, Cargo, or Military.Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: forum.flightradar24.com  
-   Link: [https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/5303-blocked-flights/page2](https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/5303-blocked-flights/page2)  
+   Link: <a href="https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/5303-blocked-flights/page2" target="_blank" rel="noopener noreferrer nofollow">https://forum.flightradar24.com/forum/radar-forums/flightradar24-web-page-and-apps/5303-blocked-flights/page2</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>aka Aircraft,Vehicles,etc... It&#x27;s hard to get a good number as we have received several ModeS...Read more...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/blog/videos/how-does-ads-b-work/](https://www.flightradar24.com/blog/videos/how-does-ads-b-work/)  
+   Link: <a href="https://www.flightradar24.com/blog/videos/how-does-ads-b-work/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/videos/how-does-ads-b-work/</a>  
 
 20. <a id="endnote-20"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/how-it-works](https://www.flightradar24.com/how-it-works)  
+   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How it worksADS-B signal is picked up by a receiver connected to Flightradar24&#x27;s network... Only aircraft equipped with an ADS-B transpo...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: flightradar24.com  
    Title: Apply for a free ADS-B receiver  
-   Link: [https://www.flightradar24.com/apply-for-receiver](https://www.flightradar24.com/apply-for-receiver)  
+   Link: <a href="https://www.flightradar24.com/apply-for-receiver" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/apply-for-receiver</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Find out you can apply for a free ADS-B receiver with Flightradar24...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: flightradar24.com  
    Title: What's this plane doing?  
-   Link: [https://www.flightradar24.com/blog/inside-flightradar24/whats-this-plane-doing-answering-recent-frequently-asked-questions/](https://www.flightradar24.com/blog/inside-flightradar24/whats-this-plane-doing-answering-recent-frequently-asked-questions/)  
+   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/whats-this-plane-doing-answering-recent-frequently-asked-questions/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/whats-this-plane-doing-answering-recent-frequently-asked-questions/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Answering recent frequently...10 Apr 2020 — Generally, aircraft requesting that they not be displayed on Flightradar24 are military airc...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: flightaware.com  
-   Link: [https://www.flightaware.com/adsb/](https://www.flightaware.com/adsb/)  
+   Link: <a href="https://www.flightaware.com/adsb/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightaware.com/adsb/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Flight TrackingFlightAware operates a worldwide network of ADS-B and Mode S receivers that track ADS-B or Mode S equipped aircraft...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: discussions.flightaware.com  
    Title: can i track military planes anywhere  
-   Link: [https://discussions.flightaware.com/t/can-i-track-military-planes-anywhere/77978](https://discussions.flightaware.com/t/can-i-track-military-planes-anywhere/77978)  
+   Link: <a href="https://discussions.flightaware.com/t/can-i-track-military-planes-anywhere/77978" target="_blank" rel="noopener noreferrer nofollow">https://discussions.flightaware.com/t/can-i-track-military-planes-anywhere/77978</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>i track military planes anywhere? - Aviation25 Jun 2021 — You can use ADSBExchange, they are not filtering military traffic as long as th...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: youtube.com  
    Title: The Best Military Aircraft Tracker! Easily Track Military Aircraft  
-   Link: [http://www.youtube.com/watch?v=7AWonvyyCAM](http://www.youtube.com/watch?v=7AWonvyyCAM)  
+   Link: <a href="http://www.youtube.com/watch?v=7AWonvyyCAM" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=7AWonvyyCAM</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADSB Exchange - Dayton Hamvention 2022...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: youtube.com  
    Title: ADSB Exchange  
-   Link: [http://www.youtube.com/watch?v=_6MSVa8Oerw](http://www.youtube.com/watch?v=_6MSVa8Oerw)  
+   Link: <a href="http://www.youtube.com/watch?v=_6MSVa8Oerw" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=_6MSVa8Oerw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>TheIntelFrog How To ADSBExchange...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: support.fr24.com  
    Title: Military and government aircraft may also be blocked entirely.Read more  
-   Link: [https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-](https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-)  
+   Link: <a href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow">https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24 Support centerWhy is some aircraft information limited or not visible?10 Apr 2026 — High-profile aircraft, like Air Force O...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/](https://www.adsbexchange.com/)  
+   Link: <a href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B ExchangeADS-B ExchangeADS-B Exchange offers four production-ready subscription data products delivering real-time and historical gl...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: nationaldefensemagazine.org  
-   Link: [https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft](https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft)  
+   Link: <a href="https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft" target="_blank" rel="noopener noreferrer nofollow">https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Defense MagazineOpen Source Flight Tracking Called Threat to Military AircraftFeb 6, 2023 — Most are now equipped with Federal A...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: globe.adsbexchange.com  
-   Link: [https://globe.adsbexchange.com/](https://globe.adsbexchange.com/)  
+   Link: <a href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow">https://globe.adsbexchange.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>adsbexchange.comADS-B Exchange - track aircraft liveADS-B Exchange - track aircraft live - aircraft flight history...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/map-help/](https://www.adsbexchange.com/map-help/)  
+   Link: <a href="https://www.adsbexchange.com/map-help/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/map-help/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Map HelpChoose from a wide range of Maps, Charts, and overlays such as [weather](&amp;#123;&amp;#123; &#x27;weather/&#x27; | relative_url &amp;#125;&amp;#125;) to display aircraft on. This is also where you turn on you...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/track-specific-aircraft/](https://www.adsbexchange.com/track-specific-aircraft/)  
+   Link: <a href="https://www.adsbexchange.com/track-specific-aircraft/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/track-specific-aircraft/</a>  
 
 33. <a id="endnote-33"></a>
    Source: adsbexchange.com  
-   Link: [https://www.adsbexchange.com/what-is-the-exchange/](https://www.adsbexchange.com/what-is-the-exchange/)  
+   Link: <a href="https://www.adsbexchange.com/what-is-the-exchange/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsbexchange.com/what-is-the-exchange/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nging transparency and inclusivity to the...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: support.adsbexchange.com  
    Title: 44653064937741 Map Help  
-   Link: [https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help](https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help)  
+   Link: <a href="https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help" target="_blank" rel="noopener noreferrer nofollow">https://support.adsbexchange.com/hc/en-us/articles/44653064937741-Map-Help</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Help15 May 2026 — Search Box. tar1090 has a universal search box that will find ICAO number, registration number, and aircraft type. Filt...</p></details>
    Published: May 2026  
 
 35. <a id="endnote-35"></a>
    Source: play.google.com  
-   Link: [https://play.google.com/store/apps/details?id=com.enthusiasticcoder.adsbflightmonitor](https://play.google.com/store/apps/details?id=com.enthusiasticcoder.adsbflightmonitor)  
+   Link: <a href="https://play.google.com/store/apps/details?id=com.enthusiasticcoder.adsbflightmonitor" target="_blank" rel="noopener noreferrer nofollow">https://play.google.com/store/apps/details?id=com.enthusiasticcoder.adsbflightmonitor</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flight Tracker - Apps on Google PlayTrack and view planes flying in the local area as well as around the world using a radar style simila...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: adsbx.discourse.group  
    Title: ADS B Exchange  
-   Link: [https://adsbx.discourse.group/t/adsb-exchange-frequently-asked-questions/341](https://adsbx.discourse.group/t/adsb-exchange-frequently-asked-questions/341)  
+   Link: <a href="https://adsbx.discourse.group/t/adsb-exchange-frequently-asked-questions/341" target="_blank" rel="noopener noreferrer nofollow">https://adsbx.discourse.group/t/adsb-exchange-frequently-asked-questions/341</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>If one of our feeders is receiving it, the data will be there. This includes...Read more...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: [https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast)  
+   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance–BroadcastADS-B is an aviation surveillance technology and form of electronic conspicuity in which an...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Flightradar24](https://en.wikipedia.org/wiki/Flightradar24)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flightradar24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Flightradar24Flightradar24 is a Swedish Internet-based service that shows real-time aircraft flight tracking information on a map. It...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: x.com  
-   Link: [https://x.com/flightradar24](https://x.com/flightradar24)  
+   Link: <a href="https://x.com/flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://x.com/flightradar24</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s | FAQ: fr24.com/faq |...Read more...</p></details>
 
 ### Additional References
 
 40. <a id="endnote-40"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/218676792817854/posts/1445695896782598/](https://www.facebook.com/groups/218676792817854/posts/1445695896782598/)  
+   Link: <a href="https://www.facebook.com/groups/218676792817854/posts/1445695896782598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/218676792817854/posts/1445695896782598/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tracking military aircraft with ads-b appThis is the ADSB Exchange. The link works best (apparently) in Internet Explorer or on mobile ap...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: adsb.lol  
-   Link: [https://www.adsb.lol/](https://www.adsb.lol/)  
+   Link: <a href="https://www.adsb.lol/" target="_blank" rel="noopener noreferrer nofollow">https://www.adsb.lol/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>unfiltered flight tracking, open dataADSB.lol is an unfiltered flight tracker with a focus on open data. Data is provided by people like...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: aviation.stackexchange.com  
    Title: I do understand that low-flying military airplanes do no necessarily get  
-   Link: [https://aviation.stackexchange.com/questions/92283/why-do-some-military-flight-appear-on-flightradar-but-some-not](https://aviation.stackexchange.com/questions/92283/why-do-some-military-flight-appear-on-flightradar-but-some-not)  
+   Link: <a href="https://aviation.stackexchange.com/questions/92283/why-do-some-military-flight-appear-on-flightradar-but-some-not" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/92283/why-do-some-military-flight-appear-on-flightradar-but-some-not</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>do some military flight appear on Flightradar but...18 Mar 2022 — I often see military flights in the sky, which do not appear on Flight...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=KahiBjBmgrc](https://www.youtube.com/watch?v=KahiBjBmgrc)  
+   Link: <a href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KahiBjBmgrc</a>  
 
 44. <a id="endnote-44"></a>
    Source: e3aviationassociation.com  
    Title: understanding ads b compliance in general aviation  
-   Link: [https://e3aviationassociation.com/aviation-articles/understanding-ads-b-compliance-in-general-aviation/](https://e3aviationassociation.com/aviation-articles/understanding-ads-b-compliance-in-general-aviation/)  
+   Link: <a href="https://e3aviationassociation.com/aviation-articles/understanding-ads-b-compliance-in-general-aviation/" target="_blank" rel="noopener noreferrer nofollow">https://e3aviationassociation.com/aviation-articles/understanding-ads-b-compliance-in-general-aviation/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding ADS-B Compliance in General Aviation27 Dec 2025 — Explore ADS-B compliance and its impact on aviation safety, including cos...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: transportation.gov  
    Title: privacy icao address program  
-   Link: [https://www.transportation.gov/individuals/privacy/privacy-icao-address-program](https://www.transportation.gov/individuals/privacy/privacy-icao-address-program)  
+   Link: <a href="https://www.transportation.gov/individuals/privacy/privacy-icao-address-program" target="_blank" rel="noopener noreferrer nofollow">https://www.transportation.gov/individuals/privacy/privacy-icao-address-program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Dec 2019 — ADS-B Out, broadcasts information about an aircraft&#x27;s flight identification and 24-bit ICAO aircraft address to any ADS-B 1...</p></details>
 
 46. <a id="endnote-46"></a>
    Source: ainonline.com  
    Title: faa updates ads b privacy icao address program  
-   Link: [https://www.ainonline.com/aviation-news/business-aviation/2024-12-19/faa-updates-ads-b-privacy-icao-address-program](https://www.ainonline.com/aviation-news/business-aviation/2024-12-19/faa-updates-ads-b-privacy-icao-address-program)  
+   Link: <a href="https://www.ainonline.com/aviation-news/business-aviation/2024-12-19/faa-updates-ads-b-privacy-icao-address-program" target="_blank" rel="noopener noreferrer nofollow">https://www.ainonline.com/aviation-news/business-aviation/2024-12-19/faa-updates-ads-b-privacy-icao-address-program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA Updates ADS-B Privacy ICAO Address Program To...19 Dec 2024 — The FAA created the PIA program to help aircraft operators who prefer...</p></details>
 
 47. <a id="endnote-47"></a>
    Source: scandiego.com  
-   Link: [https://www.scandiego.com/viewtopic.php?t=1780](https://www.scandiego.com/viewtopic.php?t=1780)  
+   Link: <a href="https://www.scandiego.com/viewtopic.php?t=1780" target="_blank" rel="noopener noreferrer nofollow">https://www.scandiego.com/viewtopic.php?t=1780</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>For discussion about civilian aircraft radio...Read more...</p></details>
 
 48. <a id="endnote-48"></a>
    Source: aopa.org  
    Title: faa streamlines ads b privacy program  
-   Link: [https://www.aopa.org/news-and-media/all-news/2024/december/04/faa-streamlines-ads-b-privacy-program](https://www.aopa.org/news-and-media/all-news/2024/december/04/faa-streamlines-ads-b-privacy-program)  
+   Link: <a href="https://www.aopa.org/news-and-media/all-news/2024/december/04/faa-streamlines-ads-b-privacy-program" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/news-and-media/all-news/2024/december/04/faa-streamlines-ads-b-privacy-program</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAA streamlines ADS-B privacy programDec 4, 2024 — The FAA recently made three updates to its ADS-B Privacy International Civil Aviation...</p></details>
 
 49. <a id="endnote-49"></a>
    Source: youtube.com  
    Title: How Does Flightradar24 Work? Tracking Airplanes Explained!  
-   Link: [http://www.youtube.com/watch?v=JrlAHuFvAjc](http://www.youtube.com/watch?v=JrlAHuFvAjc)  
+   Link: <a href="http://www.youtube.com/watch?v=JrlAHuFvAjc" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=JrlAHuFvAjc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why are some military aircraft hidden on flight trackers ADS-B filtering How Does Flightradar24 Work? Tracking Airplanes Explained...</p></details>

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /satellites-06e013/
 nav_short_title: Tumbling Rockets
 title: Why Some UFO Lights Pulse With Mechanical Precision
-title_full: Why Some UFO Lights Pulse With Mechanical Precision | Satellites
+title_full: Why Some UFO Lights Pulse With Mechanical Precision
 display_title_short: Tumbling Rockets
 display_title: Tumbling Rockets
 heading_title: Why Some UFO Lights Pulse With Mechanical Precision
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When satellites look stranger than expected | Timeline
+parent_title: When satellites look stranger than expected
 parent_permalink: /satellites-06e013/
 parent_nav_short_title: Satellites
 parent_heading_title: When satellites look stranger than expected
@@ -260,7 +260,7 @@ prev_link:
   permalink: /starlink-trains-a88b86/
   short_title: Starlink Trains
   heading_title: Why Starlink Trains Look Like Coordinated UFO Fleets
-date: '2026-06-08 23:57:05 '
+date: '2026-06-10 20:26:12 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1.webp
@@ -269,7 +269,7 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_85
 
 ## Introduction
 
-Some UFO reports describe lights that pulse with uncanny regularity: bright, dim, bright again, sometimes every few seconds for several minutes. Witnesses often interpret this as intelligent signalling, [hovering]({{ 'wind-checks/' | relative_url }}) craft activity, or structured manoeuvring. In many cases, however, the pattern closely matches a known orbital phenomenon: a tumbling rocket body or uncontrolled satellite reflecting sunlight at repeating angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/tumble/tumbleintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverTumbling SatellitesThis flashing behavior is caused by the rotation of the satellite around its rotation axis. The sat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Heavens-AboveExplanatory NotesSatellite predictions and other astronomical data customised for your location... Many of the visible obje...</span></span></span>
+Some UFO reports describe lights that pulse with uncanny regularity: bright, dim, bright again, sometimes every few seconds for several minutes. Witnesses often interpret this as intelligent signalling, hovering craft activity, or structured manoeuvring. In many cases, however, the pattern closely matches a known orbital phenomenon: a tumbling rocket body or uncontrolled satellite reflecting sunlight at repeating angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/tumble/tumbleintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverTumbling SatellitesThis flashing behavior is caused by the rotation of the satellite around its rotation axis. The sat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesSatellite predictions and other astronomical data customised for your location... Many of the visible obje...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1-dark.svg" | relative_url }}" alt="Tumbling Rockets illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -279,7 +279,7 @@ This matters in AI-assisted UFO sighting investigation because repeating flashes
 
 A rocket stage left in orbit after launch is rarely stable forever. Over time, gravitational forces, fuel venting, collisions with tiny debris, and uneven heating can cause it to rotate unpredictably. The object then tumbles through space like a spinning bottle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nebula.esa.int/sites/default/files/neb_tec_studies/2745/public/GT17-152GR_EX.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nebula.esa.int">[Nebula Public Library]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nebula.esa.int</span><span class="citation-popover-snippet">Nebula Public LibraryTUMBLING MOTION ASSESSMENT FOR SPACE DEBRIS...December 19, 2022 — 19 Dec 2022 — In a simplified approach we can dis...</span><span class="citation-popover-meta">Published: December 19, 2022</span></span></span>
 
-When sunlight strikes [reflective]({{ 'foil-flashes/' | relative_url }}) surfaces on that rotating object, the brightness seen from Earth changes continuously. Most of the time the object may be too faint to notice. But every few seconds, one reflective face aligns with the observer and produces a sudden glint. The result is a pulse pattern that can look deliberate despite being entirely mechanical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/tumble/tumbleintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverTumbling SatellitesThis flashing behavior is caused by the rotation of the satellite around its rotation axis. The sat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://spacewatch.lpl.arizona.edu/fmo-project/how-find/tutorial/tumbling-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewatch.lpl.arizona.edu">[2SPACEWATCH®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewatch.lpl.arizona.edu</span><span class="citation-popover-title">SPACEWATCH®Tumbling Satellites</span><span class="citation-popover-snippet">When the highly reflective...</span></span></span>
+When sunlight strikes reflective surfaces on that rotating object, the brightness seen from Earth changes continuously. Most of the time the object may be too faint to notice. But every few seconds, one reflective face aligns with the observer and produces a sudden glint. The result is a pulse pattern that can look deliberate despite being entirely mechanical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/tumble/tumbleintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverTumbling SatellitesThis flashing behavior is caused by the rotation of the satellite around its rotation axis. The sat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://spacewatch.lpl.arizona.edu/fmo-project/how-find/tutorial/tumbling-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewatch.lpl.arizona.edu">[2SPACEWATCH®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewatch.lpl.arizona.edu</span><span class="citation-popover-title">SPACEWATCH®Tumbling Satellites</span><span class="citation-popover-snippet">When the highly reflective...</span></span></span>
 
 Several characteristics tend to recur in witness reports linked to tumbling objects:
 
@@ -318,7 +318,7 @@ That contrast feels artificial rather than astronomical. Some witnesses therefor
 
 The illusion is amplified when the observer lacks visible [reference points]({{ 'reference-points/' | relative_url }}). A high satellite moving directly toward or away from the observer can appear almost stationary. If only the flashes are visible, the motion between them may be missed entirely. This creates reports of “hovering pulsing lights” that later match orbital debris tracks.
 
-AI-assisted timeline reconstruction benefits from treating these witness descriptions as perception data rather than literal motion data. “It stayed still and flashed every few seconds” may still fit a satellite pass if the angular motion was shallow relative to the witness viewpoint.
+AI-assisted timeline reconstruction benefits from treating these witness descriptions as perception data rather than literal motion data. “It stayed still and flashed every few seconds” may still fit a satellite pass if the [angular motion]({{ 'angular-motion/' | relative_url }}) was shallow relative to the witness viewpoint.
 
 ## Distinguishing tumbling pulses from aircraft strobes
 
@@ -376,12 +376,17 @@ is providing evidence more consistent with rotation than with aircraft behaviour
 
 In AI-assisted investigation systems, pulse periodicity can become a measurable feature:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * stable interval → likely rotating object,
-* variable interval → more likely aircraft or [atmospheric]({{ 'scintillation/' | relative_url }}) effect,
+* variable interval → more likely aircraft or atmospheric effect,
 * grouped flash bursts → possible strobe system,
 * isolated single flare → likely specular glint rather than tumbling.
 
-This allows automated triage before human review.
+</div>
+
+This allows automated triage before human [review]({{ 'review/' | relative_url }}).
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-2-dark.svg" | relative_url }}" alt="Tumbling Rockets illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -391,7 +396,7 @@ Many reports initially logged as unexplained aerial lights were later connected 
 
 ### The post-Iridium flare era
 
-The famous Iridium satellite flares demonstrated how startling orbital reflections could become. Some flashes briefly exceeded the brightness of Venus and appeared suddenly in otherwise empty sky. Although the original Iridium constellation used controlled antenna geometry rather than uncontrolled tumbling, it familiarised investigators with how orbital reflections could mimic extraordinary events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
+The famous Iridium satellite flares demonstrated how startling orbital reflections could become. Some flashes briefly exceeded the brightness of Venus and appeared suddenly in otherwise empty sky. Although the original Iridium constellation used controlled antenna [geometry]({{ 'geometry/' | relative_url }}) rather than uncontrolled tumbling, it familiarised investigators with how orbital reflections could mimic extraordinary events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
 
 After the retirement of many older satellites and rocket stages, observers increasingly reported repeating flare sequences instead of single flashes. Amateur satellite trackers and astronomy forums regularly identified these as tumbling debris objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/379146-wild-flashing-rocket-body/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Is anyone</span><span class="citation-popover-snippet">Cloudy NightsWild Flashing Rocket Body - Solar System Observing21 Jun 2012 — The sharp flashes remind me of what one would see when sunli...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/379146-wild-flashing-rocket-body/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Is anyone</span><span class="citation-popover-snippet">Cloudy NightsWild Flashing Rocket Body - Solar System Observing21 Jun 2012 — The sharp flashes remind me of what one would see when sunli...</span></span></span>
 
@@ -409,9 +414,9 @@ Astronomy communities contain numerous reports from observers convinced they had
 
 </div>
 
-In many documented cases, the timing and direction later matched catalogued rocket bodies or failed satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/heavensabove/comments/970rez/blinking_satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">RedditBlinking satellites?: r/heavensaboveA non-operational satellite with a tumbling attitude will thus blink at an observer as the ref...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/heavensabove/comments/6t6obm/tumbling_high_satellite_giving_flares_every_45_sec/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">&lt;=-3 or brighter) about 4-5 sec later it would flash dimmer...Read more...</span></span></span>
+In many documented cases, the timing and direction later matched catalogued rocket bodies or failed satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/heavensabove/comments/970rez/blinking_satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Blinking satellites?: r/heavensaboveA non-operational satellite with a tumbling attitude will thus blink at an observer as the ref...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/heavensabove/comments/6t6obm/tumbling_high_satellite_giving_flares_every_45_sec/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">&lt;=-3 or brighter) about 4-5 sec later it would flash dimmer...Read more...</span></span></span>
 
-This does not mean every pulsing light has a confirmed identification. Orbital databases are [incomplete]({{ 'incomplete-data/' | relative_url }}), especially for debris fragments and inactive objects. But repeating flash behaviour is strongly associated with rotating space hardware.
+This does not mean every pulsing light has a confirmed identification. Orbital databases are incomplete, especially for debris fragments and inactive objects. But repeating flash behaviour is strongly associated with rotating space hardware.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-3-dark.svg" | relative_url }}" alt="Tumbling Rockets illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -421,18 +426,13 @@ For investigators, tumbling satellites are useful because they generate measurab
 
 A strong investigative workflow can compare:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * witness time,
 * flash interval,
 * travel direction,
-* elevation angle,
+* [elevation]({{ 'elevation/' | relative_url }}) angle,
 * twilight conditions,
 * satellite predictions,
 * known rocket-body catalogues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.astronomy.com/science/satellite-fake-out/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.com">[astronomy.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.com</span><span class="citation-popover-title">satellite fake out</span><span class="citation-popover-snippet">Astronomy MagazineSatellite &#x27;fake out&#x27;18 May 2023 — If the object itself were elongated, like a rocket body, this could explain the “fake...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>
-
-</div>
 
 Modern satellite-tracking systems already classify many objects as active satellites, debris, or rocket bodies. Sites such as Heavens-Above and specialist observer networks document predicted passes and observed tumbling behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/AllSats.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">H-2A ROCKET BODY, 3.7, 05:51:01, 10°, WNW, 06:11:35, 53°, SW, 06:16:56, 10°, SE...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/faq.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">en the sky is reasonably dark.... tumbling rocket body).Read more...</span></span></span>
 
@@ -483,16 +483,16 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for understanding satellites and repeating sky flashes.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -500,16 +500,16 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Supports observing and identifying orbital light behaviour.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -517,16 +517,16 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Encourages natural explanations for precise flashing patterns.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -534,16 +534,16 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Orbital Mechanics for Engineering Students on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rzw4wOHDpjQC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Orbital Mechanics for Engineering Students" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Orbital Mechanics for Engineering Students">Orbital Mechanics for Engineering Students</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Howard D. Curtis</p>
         
-        
+        <p class="fr-book-desc">Relevant to tumbling hardware and orbital reflections, though specialist.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Orbital+Mechanics+for+Engineering+Students+by+Howard+D.+Curtis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -551,13 +551,13 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -584,76 +584,72 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-satellite-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open satellite model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20satellite%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESatellite%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESatellite%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for satellite model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">satellite model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Satellite</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-satellite-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="satellite model" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-satellite-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-rocket-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open rocket model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20rocket%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERocket%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERocket%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for rocket model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">rocket model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Rocket</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=rocket+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-rocket-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="rocket model" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-rocket-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=some+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-some-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="some poster -book -books -dvd" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-some-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open some poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20some%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESome%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESome%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for some poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">some poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Some</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=some+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-some-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="some poster -book -books -dvd" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-some-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=satellite+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=tumbling-rockets-why-some-ufo-lights-pulse-with-mechanical-precision-ai-assisted-ufo-sighting-in-satellite-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -711,10 +707,10 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -732,7 +728,7 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -867,161 +863,161 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
 
 1. <a id="endnote-1"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/explain.aspx](https://www.heavens-above.com/explain.aspx)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Heavens-AboveExplanatory NotesSatellite predictions and other astronomical data customised for your location... Many of the visible obje...</p></details>
+   Link: <a href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/explain.aspx</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Explanatory NotesSatellite predictions and other astronomical data customised for your location... Many of the visible obje...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Satellite flare  
-   Link: [https://en.wikipedia.org/wiki/Satellite_flare](https://en.wikipedia.org/wiki/Satellite_flare)  
+   Link: <a href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Satellite_flare</a>  
 
 3. <a id="endnote-3"></a>
    Source: astronomy.com  
    Title: satellite fake out  
-   Link: [https://www.astronomy.com/science/satellite-fake-out/](https://www.astronomy.com/science/satellite-fake-out/)  
+   Link: <a href="https://www.astronomy.com/science/satellite-fake-out/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/science/satellite-fake-out/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomy MagazineSatellite &#x27;fake out&#x27;18 May 2023 — If the object itself were elongated, like a rocket body, this could explain the “fake...</p></details>
    Published: May 2023  
 
 4. <a id="endnote-4"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/heavensabove/comments/6t6obm/tumbling_high_satellite_giving_flares_every_45_sec/](https://www.reddit.com/r/heavensabove/comments/6t6obm/tumbling_high_satellite_giving_flares_every_45_sec/)  
+   Link: <a href="https://www.reddit.com/r/heavensabove/comments/6t6obm/tumbling_high_satellite_giving_flares_every_45_sec/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/heavensabove/comments/6t6obm/tumbling_high_satellite_giving_flares_every_45_sec/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>&lt;=-3 or brighter) about 4-5 sec later it would flash dimmer...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/heavensabove/comments/970rez/blinking_satellites/](https://www.reddit.com/r/heavensabove/comments/970rez/blinking_satellites/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditBlinking satellites?: r/heavensaboveA non-operational satellite with a tumbling attitude will thus blink at an observer as the ref...</p></details>
+   Link: <a href="https://www.reddit.com/r/heavensabove/comments/970rez/blinking_satellites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/heavensabove/comments/970rez/blinking_satellites/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Blinking satellites?: r/heavensaboveA non-operational satellite with a tumbling attitude will thus blink at an observer as the ref...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/AllSats.aspx](https://www.heavens-above.com/AllSats.aspx)  
+   Link: <a href="https://www.heavens-above.com/AllSats.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/AllSats.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>H-2A ROCKET BODY, 3.7, 05:51:01, 10°, WNW, 06:11:35, 53°, SW, 06:16:56, 10°, SE...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Heaven](https://en.wikipedia.org/wiki/Heaven)  
+   Link: <a href="https://en.wikipedia.org/wiki/Heaven" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Heaven</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>HeavenHeaven, or the Heavens, is a common religious cosmological or supernatural place where beings such as deities, angels, souls, sa...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/faq.aspx](https://www.heavens-above.com/faq.aspx)  
+   Link: <a href="https://www.heavens-above.com/faq.aspx" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/faq.aspx</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>en the sky is reasonably dark.... tumbling rocket body).Read more...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: youtube.com  
    Title: Tumbling Rockets  
-   Link: [http://www.youtube.com/watch?v=TqEg5uq2jrY](http://www.youtube.com/watch?v=TqEg5uq2jrY)  
+   Link: <a href="http://www.youtube.com/watch?v=TqEg5uq2jrY" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=TqEg5uq2jrY</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Tumbling rocket body...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
    Title: Tumbling rocket body  
-   Link: [http://www.youtube.com/watch?v=StXN3Nabp7w](http://www.youtube.com/watch?v=StXN3Nabp7w)  
+   Link: <a href="http://www.youtube.com/watch?v=StXN3Nabp7w" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=StXN3Nabp7w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tumbling Iridium-17 Satellite Passes the Orion Nebula...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: satobs.org  
-   Link: [https://www.satobs.org/tumble/tumbleintro.html](https://www.satobs.org/tumble/tumbleintro.html)  
+   Link: <a href="https://www.satobs.org/tumble/tumbleintro.html" target="_blank" rel="noopener noreferrer nofollow">https://www.satobs.org/tumble/tumbleintro.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Satellites ObserverTumbling SatellitesThis flashing behavior is caused by the rotation of the satellite around its rotation axis. The sat...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: nebula.esa.int  
-   Link: [https://nebula.esa.int/sites/default/files/neb_tec_studies/2745/public/GT17-152GR_EX.pdf](https://nebula.esa.int/sites/default/files/neb_tec_studies/2745/public/GT17-152GR_EX.pdf)  
+   Link: <a href="https://nebula.esa.int/sites/default/files/neb_tec_studies/2745/public/GT17-152GR_EX.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nebula.esa.int/sites/default/files/neb_tec_studies/2745/public/GT17-152GR_EX.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Nebula Public LibraryTUMBLING MOTION ASSESSMENT FOR SPACE DEBRIS...December 19, 2022 — 19 Dec 2022 — In a simplified approach we can dis...</p></details>
    Published: December 19, 2022  
 
 13. <a id="endnote-13"></a>
    Source: spacewatch.lpl.arizona.edu  
    Title: SPACEWATCH®Tumbling Satellites  
-   Link: [https://spacewatch.lpl.arizona.edu/fmo-project/how-find/tutorial/tumbling-satellites](https://spacewatch.lpl.arizona.edu/fmo-project/how-find/tutorial/tumbling-satellites)  
+   Link: <a href="https://spacewatch.lpl.arizona.edu/fmo-project/how-find/tutorial/tumbling-satellites" target="_blank" rel="noopener noreferrer nofollow">https://spacewatch.lpl.arizona.edu/fmo-project/how-find/tutorial/tumbling-satellites</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When the highly reflective...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: cloudynights.com  
    Title: Is anyone  
-   Link: [https://www.cloudynights.com/forums/topic/379146-wild-flashing-rocket-body/](https://www.cloudynights.com/forums/topic/379146-wild-flashing-rocket-body/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/379146-wild-flashing-rocket-body/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/379146-wild-flashing-rocket-body/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsWild Flashing Rocket Body - Solar System Observing21 Jun 2012 — The sharp flashes remind me of what one would see when sunli...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: cloudynights.com  
    Title: Cloudy Nights Tumbling Satellite?  
-   Link: [https://www.cloudynights.com/topic/673255-tumbling-satellite/](https://www.cloudynights.com/topic/673255-tumbling-satellite/)  
+   Link: <a href="https://www.cloudynights.com/topic/673255-tumbling-satellite/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/topic/673255-tumbling-satellite/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>General Observing and AstronomyAug 20, 2019 — It is rotating once every 12 seconds. It is completely invisible except for at 6 second int...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: alynwallacephotography.com  
-   Link: [https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite](https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite)  
+   Link: <a href="https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite" target="_blank" rel="noopener noreferrer nofollow">https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Alyn Wallace PhotographySorry That&#x27;s Not A Meteor, It&#x27;s A Satellite21 Apr 2020 — Aircraft trails have dotted lines from blinking navigati...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: cloudynights.com  
    Title: Cloudy Nights Searching to ID a random object  
-   Link: [https://www.cloudynights.com/topic/441209-searching-to-id-a-random-object/](https://www.cloudynights.com/topic/441209-searching-to-id-a-random-object/)  
+   Link: <a href="https://www.cloudynights.com/topic/441209-searching-to-id-a-random-object/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/topic/441209-searching-to-id-a-random-object/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pulsing/flashing is a dead satellite. I can still run a simulation and see what it was though. obin...Read more...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: cloudynights.com  
    Title: Cloudy Nights Tumbling satellite  
-   Link: [https://www.cloudynights.com/forums/topic/588543-tumbling-satellite/](https://www.cloudynights.com/forums/topic/588543-tumbling-satellite/)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/588543-tumbling-satellite/" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/588543-tumbling-satellite/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cloudy NightsTumbling satellite - Solar System Observing20 Aug 2017 — We saw a tumbling rocket body from the dark skies of the Cherokee N...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: cloudynights.com  
-   Link: [https://www.cloudynights.com/forums/topic/966523-mystery-flares-has-anyone-seen-these/?comment=14169443&do=findComment](https://www.cloudynights.com/forums/topic/966523-mystery-flares-has-anyone-seen-these/?comment=14169443&do=findComment)  
+   Link: <a href="https://www.cloudynights.com/forums/topic/966523-mystery-flares-has-anyone-seen-these/?comment=14169443&amp;do=findComment" target="_blank" rel="noopener noreferrer nofollow">https://www.cloudynights.com/forums/topic/966523-mystery-flares-has-anyone-seen-these/?comment=14169443&amp;do=findComment</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;MYSTERY&quot; FLARES, Has Anyone Seen These?1 Jun 2025 — These are single, one-and-done events (never a 2nd flare), intensely bright (approx...</p></details>
 
 ### Additional References
 
 20. <a id="endnote-20"></a>
    Source: skymaps.com  
-   Link: [https://www.skymaps.com/articles/n0012.html](https://www.skymaps.com/articles/n0012.html)  
+   Link: <a href="https://www.skymaps.com/articles/n0012.html" target="_blank" rel="noopener noreferrer nofollow">https://www.skymaps.com/articles/n0012.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Observing Earth SatellitesSome satellites flash every few seconds, a feature typical of a tumbling satellite such as a discarded rocket b...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: phys.org  
-   Link: [https://phys.org/news/2016-08-skymeteors-reentry.html](https://phys.org/news/2016-08-skymeteors-reentry.html)  
+   Link: <a href="https://phys.org/news/2016-08-skymeteors-reentry.html" target="_blank" rel="noopener noreferrer nofollow">https://phys.org/news/2016-08-skymeteors-reentry.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lights in the sky—meteors, reentry, or E.T.?Aug 2, 2016 — A tumbling rocket booster can often flare in a manner similar to Iridium satell...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/casastronomy/posts/9536445496444237/](https://www.facebook.com/groups/casastronomy/posts/9536445496444237/)  
+   Link: <a href="https://www.facebook.com/groups/casastronomy/posts/9536445496444237/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/casastronomy/posts/9536445496444237/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>osmos 2455. I can&#x27;t find any information indicating...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: earthsky.org  
    Title: i saw a flash in the night sky what is it  
-   Link: [https://earthsky.org/space/i-saw-a-flash-in-the-night-sky-what-is-it/](https://earthsky.org/space/i-saw-a-flash-in-the-night-sky-what-is-it/)  
+   Link: <a href="https://earthsky.org/space/i-saw-a-flash-in-the-night-sky-what-is-it/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/space/i-saw-a-flash-in-the-night-sky-what-is-it/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>So long, Iridium flares | Space7 Jan 2019 — You can still see flashes in the night sky. Other objects that produce flashes in the sky inc...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: yahoo.com  
    Title: nasa satellite crash not source 140752408  
-   Link: [https://www.yahoo.com/news/nasa-satellite-crash-not-source-140752408.html](https://www.yahoo.com/news/nasa-satellite-crash-not-source-140752408.html)  
+   Link: <a href="https://www.yahoo.com/news/nasa-satellite-crash-not-source-140752408.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/nasa-satellite-crash-not-source-140752408.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA satellite crash not source of mysterious flash of light...30 Apr 2023 — NASA has denied claims made by Kyiv&#x27;s city authorities that...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: space.stackexchange.com  
    Title: what did i see multiple satellite flares  
-   Link: [https://space.stackexchange.com/questions/64444/what-did-i-see-multiple-satellite-flares](https://space.stackexchange.com/questions/64444/what-did-i-see-multiple-satellite-flares)  
+   Link: <a href="https://space.stackexchange.com/questions/64444/what-did-i-see-multiple-satellite-flares" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/64444/what-did-i-see-multiple-satellite-flares</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Multiple &quot;satellite&quot; flares30 Sept 2023 — All of the objects flared multiple times with a frequency of around 3 to 5 seconds. Each would...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/newscientist/posts/a-satellite-that-had-been-dead-for-decades-suddenly-blasted-out-a-powerful-radio/1136097488558867/](https://www.facebook.com/newscientist/posts/a-satellite-that-had-been-dead-for-decades-suddenly-blasted-out-a-powerful-radio/1136097488558867/)  
+   Link: <a href="https://www.facebook.com/newscientist/posts/a-satellite-that-had-been-dead-for-decades-suddenly-blasted-out-a-powerful-radio/1136097488558867/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/newscientist/posts/a-satellite-that-had-been-dead-for-decades-suddenly-blasted-out-a-powerful-radio/1136097488558867/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>or a random spark. NASA&#x27;s Relay 2 satellite was one of the...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: space.stackexchange.com  
-   Link: [https://space.stackexchange.com/questions/45185/which-flashing-satellite-did-i-see](https://space.stackexchange.com/questions/45185/which-flashing-satellite-did-i-see)  
+   Link: <a href="https://space.stackexchange.com/questions/45185/which-flashing-satellite-did-i-see" target="_blank" rel="noopener noreferrer nofollow">https://space.stackexchange.com/questions/45185/which-flashing-satellite-did-i-see</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Space Exploration Stack ExchangeWhich flashing satellite did I see?Jul 3, 2020 — I looked to me like a satellite passing almost exactly o...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spacehipsters/posts/6821296454581846/](https://www.facebook.com/groups/spacehipsters/posts/6821296454581846/)  
+   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/6821296454581846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/6821296454581846/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>northern Virginia and I was looking up at the...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: skyandtelescope.org  
    Title: take a sat seeing tour  
-   Link: [https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/take-a-sat-seeing-tour/](https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/take-a-sat-seeing-tour/)  
+   Link: <a href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/take-a-sat-seeing-tour/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/take-a-sat-seeing-tour/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Take a &quot;Sat-seeing&quot; Tour23 Jul 2006 — Want to track down the Hubble Space Telescope or a tumbling rocket body in space? Computer software...</p></details>

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /timeline-e3b338/
 nav_short_title: Timing anchors
 title: Small digital clues that fix a UFO timeline
-title_full: Small digital clues that fix a UFO timeline | Timeline
+title_full: Small digital clues that fix a UFO timeline
 display_title_short: Timing anchors
 display_title: Timing anchors
 heading_title: Small digital clues that fix a UFO timeline
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can the sighting time actually be tested? | Case File
+parent_title: Can the sighting time actually be tested?
 parent_permalink: /timeline-e3b338/
 parent_nav_short_title: Timeline
 parent_heading_title: Can the sighting time actually be tested?
@@ -260,7 +260,7 @@ prev_link:
   permalink: /false-precision/
   short_title: False precision
   heading_title: When AI makes uncertain UFO times look exact
-date: '2026-06-09 00:12:17 '
+date: '2026-06-10 20:35:25 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-1.webp
@@ -275,7 +275,7 @@ A UFO sighting often becomes more useful to investigators when the witness stops
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-1-dark.svg" | relative_url }}" alt="Timing anchors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, these small digital traces matter because almost every ordinary explanation is time-sensitive. A satellite flare visible at 21:11 may be gone by 21:15. A commercial [aircraft]({{ 'aircraft/' | relative_url }}) may pass through the relevant sky sector for less than two minutes. The value of timing anchors is not that they prove a sighting was extraordinary, but that they allow competing explanations to be tested against real-world records instead of reconstructed memory alone.
 
-Modern digital forensics already treats timestamps as central evidence for reconstructing events, while also warning that clocks drift, [metadata]({{ 'metadata/' | relative_url }}) can be altered, and systems may disagree with one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nbftools.com/important-role-of-timestamps-in-forensic-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbftools.com">[NBFTools]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbftools.com</span><span class="citation-popover-title">They are required to create an accurate timeline of events.Read more</span><span class="citation-popover-snippet">NBFToolsImportant Role of Timestamps in Forensic Science6 May 2025 — Timestamps play an important role in forensic investigation, both in...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...Time may be wrong due to the system clock drifting off...</span></span></span> In UFO timeline reconstruction, the same principles apply on a smaller and more public-facing scale.
+Modern digital forensics already treats timestamps as central evidence for reconstructing events, while also warning that clocks drift, [metadata]({{ 'metadata/' | relative_url }}) can be altered, and systems may disagree with one another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nbftools.com/important-role-of-timestamps-in-forensic-science/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nbftools.com">[NBFTools]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nbftools.com</span><span class="citation-popover-title">They are required to create an accurate timeline of events.Read more</span><span class="citation-popover-snippet">Important Role of Timestamps in Forensic Science6 May 2025 — Timestamps play an important role in forensic investigation, both in...</span><span class="citation-popover-meta">Published: May 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...Time may be wrong due to the system clock drifting off...</span></span></span> In UFO timeline reconstruction, the same principles apply on a smaller and more public-facing scale.
 
 ## Why surrounding events are often remembered better than the sighting
 
@@ -295,7 +295,7 @@ Psychologists and forensic investigators have long recognised that memory works 
 
 may provide stronger timing evidence than someone insisting they remember an exact minute unaided.
 
-This becomes especially important when reports are filed days or weeks later. Witnesses often unconsciously compress or expand event duration. A 90-second [observation]({{ 'observation-vs-claim/' | relative_url }}) may later feel like ten minutes. Stress, darkness, excitement and conversation with other witnesses can reshape recollection further. Digital traces do not remove [uncertainty]({{ 'uncertainty-labels/' | relative_url }}), but they reduce dependence on reconstructed memory.
+This becomes especially important when reports are filed days or weeks later. Witnesses often unconsciously compress or expand event duration. A 90-second observation may later feel like ten minutes. Stress, darkness, excitement and conversation with other witnesses can reshape recollection further. Digital traces do not remove uncertainty, but they reduce dependence on reconstructed memory.
 
 In some investigations, the sighting itself is never directly recorded, yet surrounding digital behaviour still creates a usable chronology. A person might not film the object, but their phone logs reveal:
 
@@ -324,11 +324,11 @@ This matters because many candidate explanations can then be checked minute-by-m
 * ISS passes,
 * meteor reports,
 * rocket launches,
-* [weather radar]({{ 'radar-errors/' | relative_url }}),
+* [weather]({{ 'weather/' | relative_url }}) radar,
 * lightning detection,
 * local drone activity.
 
-AI-assisted workflows are useful here because they can automatically align communication timestamps with external databases and calculate overlap confidence instead of relying on manual comparison.
+AI-assisted workflows are useful here because they can automatically align communication timestamps with external databases and calculate overlap [confidence]({{ 'confidence/' | relative_url }}) instead of relying on manual comparison.
 
 Call logs can also help establish sequencing. A witness may phone someone immediately after the sighting, creating a “no later than” boundary. Even unanswered calls can help if they coincide with the observation period.
 
@@ -352,7 +352,7 @@ Digital forensics guidance from NIST and related research repeatedly notes that 
 
 ### Smart doorbells and home security devices
 
-Smart doorbells are increasingly useful because they create independent event logs tied to motion detection, camera activation and alerts. Ring devices, for example, maintain event histories for motion alerts and recordings that users can review later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en-uk.ring.com/pages/plans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en-uk.ring.com">[Ring]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en-uk.ring.com</span><span class="citation-popover-snippet">RingRing Protect - Subscription Plans for Home SecurityUp to 180 Days of Event History. Record your motion events and scroll back through...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ring.com/support/articles/16fks/Using-Event-History-Timeline?srsltid=AfmBOooOGegCRWzSCpp4HPhnVULkb-76PVBahWYsbp_Ur4ssT6_29qfi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ring.com">[Ring]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ring.com</span><span class="citation-popover-title">Viewing your Event History and Event</span><span class="citation-popover-snippet">Summary in the...In the Ring app, you can view a history of what&#x27;s happened on your Ring devices like Motion Alerts, Doorbell Rings, and...</span></span></span>
+Smart doorbells are increasingly useful because they create independent event logs tied to motion detection, camera activation and alerts. Ring devices, for example, maintain event histories for motion alerts and recordings that users can [review]({{ 'review/' | relative_url }}) later. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en-uk.ring.com/pages/plans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en-uk.ring.com">[Ring]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en-uk.ring.com</span><span class="citation-popover-snippet">Ring Protect - Subscription Plans for Home SecurityUp to 180 Days of Event History. Record your motion events and scroll back through...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ring.com/support/articles/16fks/Using-Event-History-Timeline?srsltid=AfmBOooOGegCRWzSCpp4HPhnVULkb-76PVBahWYsbp_Ur4ssT6_29qfi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ring.com">[Ring]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ring.com</span><span class="citation-popover-title">Viewing your Event History and Event</span><span class="citation-popover-snippet">Summary in the...In the Ring app, you can view a history of what&#x27;s happened on your Ring devices like Motion Alerts, Doorbell Rings, and...</span></span></span>
 
 For UFO timeline reconstruction, these systems can help in several ways:
 
@@ -372,7 +372,7 @@ A witness may say they stepped outside “a few minutes after the alert from the
 
 Doorbell footage can also reveal negative evidence. If a witness claims an object hovered silently above nearby rooftops for fifteen minutes, but the neighbourhood camera network shows no residents looking upward or reacting, that inconsistency becomes relevant.
 
-At the same time, smart-home systems introduce their own complications. Ring users have documented cases where timestamps displayed incorrectly because of timezone or server issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Ring/comments/1dx0y5y/ring_camera_time_is_wrong_on_the_actual_video_utc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ring camera time is wrong on the actual video utc</span><span class="citation-popover-snippet">RedditRing camera time is wrong on the actual video UTC issueJuly 6, 2024 — My Ring Camera recorded videos are showing a time stamp 7 hou...</span><span class="citation-popover-meta">Published: July 6, 2024</span></span></span> Motion systems can miss events due to blind spots, incorrect mounting height or sensitivity settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tech/34321779/ring-doorbell-height-how-high-motion-sensors-camera-doorframe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">The Sun Exact height your Ring doorbell MUST be</span><span class="citation-popover-snippet">The device should be installed approximately 1.2 meters (48 inches) above ground level. Mounting it too high can result in reduced effect...</span></span></span> Some devices only save clips when triggered rather than recording continuously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Ring/comments/a3esa7/ring_alerts_showing_up_with_gmt_time_stamps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Android App.... Any one else seeing this issue? Have contacted support several times...Read more...</span></span></span>
+At the same time, smart-home systems introduce their own complications. Ring users have documented cases where timestamps displayed incorrectly because of timezone or server issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Ring/comments/1dx0y5y/ring_camera_time_is_wrong_on_the_actual_video_utc/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">ring camera time is wrong on the actual video utc</span><span class="citation-popover-snippet">Ring camera time is wrong on the actual video UTC issueJuly 6, 2024 — My Ring Camera recorded videos are showing a time stamp 7 hou...</span><span class="citation-popover-meta">Published: July 6, 2024</span></span></span> Motion systems can miss events due to blind spots, incorrect mounting height or sensitivity settings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.thesun.co.uk/tech/34321779/ring-doorbell-height-how-high-motion-sensors-camera-doorframe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thesun.co.uk">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thesun.co.uk</span><span class="citation-popover-title">The Sun Exact height your Ring doorbell MUST be</span><span class="citation-popover-snippet">The device should be installed approximately 1.2 meters (48 inches) above ground level. Mounting it too high can result in reduced effect...</span></span></span> Some devices only save clips when triggered rather than recording continuously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Ring/comments/a3esa7/ring_alerts_showing_up_with_gmt_time_stamps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Android App.... Any one else seeing this issue? Have contacted support several times...Read more...</span></span></span>
 
 That means a missing clip does not necessarily mean nothing happened.
 
@@ -406,10 +406,10 @@ These traces become especially valuable when several witnesses share overlapping
 
 Modern life produces constant automated prompts:
 
-* [weather]({{ 'weather/' | relative_url }}) alerts,
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
+* weather alerts,
 * smart-light activations,
 * parcel notifications,
 * ride-share receipts,
@@ -442,9 +442,9 @@ This is one area where automation genuinely improves investigative consistency. 
 
 ## How to separate confirmed anchors from inferred timing
 
-Not every digital clue deserves equal confidence. One of the biggest risks in UFO timeline reconstruction is quietly converting weak assumptions into false precision.
+Not every digital clue deserves equal confidence. One of the biggest risks in UFO timeline reconstruction is quietly converting weak assumptions into [false precision]({{ 'false-precision/' | relative_url }}).
 
-A defensible case file separates three different categories clearly.
+A defensible [case file]({{ 'case-file/' | relative_url }}) separates three different categories clearly.
 
 ### Confirmed anchors
 
@@ -452,7 +452,7 @@ These are timestamps directly supported by preserved records.
 
 Examples include:
 
-* [original]({{ 'original-evidence/' | relative_url }}) SMS logs,
+* original SMS logs,
 * exported messaging histories,
 * native video metadata,
 * server-based app timestamps,
@@ -461,7 +461,7 @@ Examples include:
 
 These anchors still require validation, but they are rooted in observable records rather than memory alone.
 
-A preserved original file is much stronger than a screenshot. Digital forensics literature repeatedly warns that metadata can be altered, stripped or rewritten during export and sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-032-17300-3_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">SpringerReliability and Completeness of Metadata Extraction Tools in...by B Guwor · 2025 — Digital images serve as a vital source of evi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/metadata-extraction-for-digital-forensics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-title">metadata extraction for digital forensics</span><span class="citation-popover-snippet">in 2026 | FastioLearn how forensic investigators extract and preserve file metadata as evidence, from write-blocking to hash verification...</span></span></span>
+A preserved original file is much stronger than a screenshot. Digital forensics literature repeatedly warns that metadata can be altered, stripped or rewritten during export and sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/chapter/10.1007/978-3-032-17300-3_1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">Reliability and Completeness of Metadata Extraction Tools in...by B Guwor · 2025 — Digital images serve as a vital source of evi...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://fast.io/resources/metadata-extraction-for-digital-forensics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fast.io">[Fastio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fast.io</span><span class="citation-popover-title">metadata extraction for digital forensics</span><span class="citation-popover-snippet">in 2026 &#124; FastioLearn how forensic investigators extract and preserve file metadata as evidence, from write-blocking to hash verification...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-3-dark.svg" | relative_url }}" alt="Timing anchors illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -497,7 +497,7 @@ Possible causes include:
 * reused screenshots,
 * incorrect witness recollection.
 
-Research into digital timeline reconstruction repeatedly identifies clock drift and inconsistent systems as a major challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dfrws.org/wp-content/uploads/2024/07/Was-the-clock-correct-Exploring-timestamp-interp_2024_Forensic-Science-Inte.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfrws.org">[DFRWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfrws.org</span><span class="citation-popover-title">Was the clock correct?</span><span class="citation-popover-snippet">Exploring timestamp interpretation...by C Vanini · 2024 · Cited by 19 — The examiner assigns C1 to the observed digital evidence under t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...Time may be wrong due to the system clock drifting off...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://citeseerx.ist.psu.edu/document?doi=d0e290455599cc01d282bf1448f40e2132f3103b&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">CiteSeerXTime Line Analysis in Digital Forensicsby EE Eiland · 2006 · Cited by 7 — The most benign causes of er- ror are lack of or incor...</span></span></span>, investigators should resist forcing agreement between conflicting records. A better approach is to preserve uncertainty openly:
+Research into digital timeline reconstruction repeatedly identifies clock drift and inconsistent systems as a major challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dfrws.org/wp-content/uploads/2024/07/Was-the-clock-correct-Exploring-timestamp-interp_2024_Forensic-Science-Inte.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dfrws.org">[DFRWS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dfrws.org</span><span class="citation-popover-title">Was the clock correct?</span><span class="citation-popover-snippet">Exploring timestamp interpretation...by C Vanini · 2024 · Cited by 19 — The examiner assigns C1 to the observed digital evidence under t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...Time may be wrong due to the system clock drifting off...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://citeseerx.ist.psu.edu/document?doi=d0e290455599cc01d282bf1448f40e2132f3103b&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: citeseerx.ist.psu.edu">[CiteSeerX In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">citeseerx.ist.psu.edu</span><span class="citation-popover-snippet">Time Line Analysis in Digital Forensicsby EE Eiland · 2006 · Cited by 7 — The most benign causes of er- ror are lack of or incor...</span></span></span>, investigators should resist forcing agreement between conflicting records. A better approach is to preserve uncertainty openly:
 
 * “Message timestamps place the event between 21:06 and 21:11.”
 * “Doorbell timing conflicts with phone metadata by approximately four minutes.”
@@ -536,23 +536,6 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
-        
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -560,7 +543,7 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
         </h4>
         <p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Provides domain context for timing-based sighting checks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -570,16 +553,16 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports evidence discipline in public UFO claims.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -587,16 +570,33 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        
+        <p class="fr-book-desc">Matches using timing anchors without overclaiming.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Superforecasting on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=_lMPDAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Superforecasting" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Superforecasting">Superforecasting</a>
+        </h4>
+        <p class="fr-book-author">By Philip E. Tetlock, Dan Gardner</p>
+        
+        <p class="fr-book-desc">Relevant to uncertainty ranges and competing explanations.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Superforecasting+by+Philip+E.+Tetlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -604,13 +604,13 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Signal and the Noise</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -637,76 +637,72 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-digital-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open digital recorder on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20digital%20recorder%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EDigital%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERecorder%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EDigital%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERecorder%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for digital recorder on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">digital recorder</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Digital</span><span class="fr-search-tag">Recorder</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-digital-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="digital recorder" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-digital-recorder" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-memory-card" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open memory card on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20memory%20card%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemory%20Card%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemory%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECard%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for memory card on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">memory card</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Memory</span><span class="fr-search-tag">Card</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=memory+card&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-memory-card&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-memory-card" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-camera-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">camera accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-camera-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera accessory" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-camera-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=digital+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=timing-anchors-small-digital-clues-that-fix-a-ufo-timeline-ai-assisted-ufo-sighting-investigatio-digital-recorder&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -764,10 +760,10 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -785,7 +781,7 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -921,183 +917,183 @@ In AI-assisted UFO investigation, this is one of the most practical uses of auto
 1. <a id="endnote-1"></a>
    Source: nbftools.com  
    Title: They are required to create an accurate timeline of events.Read more  
-   Link: [https://www.nbftools.com/important-role-of-timestamps-in-forensic-science/](https://www.nbftools.com/important-role-of-timestamps-in-forensic-science/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NBFToolsImportant Role of Timestamps in Forensic Science6 May 2025 — Timestamps play an important role in forensic investigation, both in...</p></details>
+   Link: <a href="https://www.nbftools.com/important-role-of-timestamps-in-forensic-science/" target="_blank" rel="noopener noreferrer nofollow">https://www.nbftools.com/important-role-of-timestamps-in-forensic-science/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Important Role of Timestamps in Forensic Science6 May 2025 — Timestamps play an important role in forensic investigation, both in...</p></details>
    Published: May 2025  
 
 2. <a id="endnote-2"></a>
    Source: nvlpubs.nist.gov  
-   Link: [https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf)  
+   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...Time may be wrong due to the system clock drifting off...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S266628172500071X](https://www.sciencedirect.com/science/article/pii/S266628172500071X)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S266628172500071X" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S266628172500071X</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>As drift accumulates, the discrepancies between different systems&#x27; clocks can grow, making it increasingly difficult to...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: dfrws.org  
    Title: Was the clock correct?  
-   Link: [https://dfrws.org/wp-content/uploads/2024/07/Was-the-clock-correct-Exploring-timestamp-interp_2024_Forensic-Science-Inte.pdf](https://dfrws.org/wp-content/uploads/2024/07/Was-the-clock-correct-Exploring-timestamp-interp_2024_Forensic-Science-Inte.pdf)  
+   Link: <a href="https://dfrws.org/wp-content/uploads/2024/07/Was-the-clock-correct-Exploring-timestamp-interp_2024_Forensic-Science-Inte.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dfrws.org/wp-content/uploads/2024/07/Was-the-clock-correct-Exploring-timestamp-interp_2024_Forensic-Science-Inte.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Exploring timestamp interpretation...by C Vanini · 2024 · Cited by 19 — The examiner assigns C1 to the observed digital evidence under t...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: en-uk.ring.com  
-   Link: [https://en-uk.ring.com/pages/plans](https://en-uk.ring.com/pages/plans)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RingRing Protect - Subscription Plans for Home SecurityUp to 180 Days of Event History. Record your motion events and scroll back through...</p></details>
+   Link: <a href="https://en-uk.ring.com/pages/plans" target="_blank" rel="noopener noreferrer nofollow">https://en-uk.ring.com/pages/plans</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ring Protect - Subscription Plans for Home SecurityUp to 180 Days of Event History. Record your motion events and scroll back through...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ring.com  
    Title: Viewing your Event History and Event  
-   Link: [https://ring.com/support/articles/16fks/Using-Event-History-Timeline?srsltid=AfmBOooOGegCRWzSCpp4HPhnVULkb-76PVBahWYsbp_Ur4ssT6_29qfi](https://ring.com/support/articles/16fks/Using-Event-History-Timeline?srsltid=AfmBOooOGegCRWzSCpp4HPhnVULkb-76PVBahWYsbp_Ur4ssT6_29qfi)  
+   Link: <a href="https://ring.com/support/articles/16fks/Using-Event-History-Timeline?srsltid=AfmBOooOGegCRWzSCpp4HPhnVULkb-76PVBahWYsbp_Ur4ssT6_29qfi" target="_blank" rel="noopener noreferrer nofollow">https://ring.com/support/articles/16fks/Using-Event-History-Timeline?srsltid=AfmBOooOGegCRWzSCpp4HPhnVULkb-76PVBahWYsbp_Ur4ssT6_29qfi</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary in the...In the Ring app, you can view a history of what&#x27;s happened on your Ring devices like Motion Alerts, Doorbell Rings, and...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: community.ring.com  
-   Link: [https://community.ring.com/conversations/ring-app/event-history-only-for-cameras/66b8d55801c35713dfc77cbc](https://community.ring.com/conversations/ring-app/event-history-only-for-cameras/66b8d55801c35713dfc77cbc)  
+   Link: <a href="https://community.ring.com/conversations/ring-app/event-history-only-for-cameras/66b8d55801c35713dfc77cbc" target="_blank" rel="noopener noreferrer nofollow">https://community.ring.com/conversations/ring-app/event-history-only-for-cameras/66b8d55801c35713dfc77cbc</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ring CommunityEvent History only for cameras?11 Aug 2024 — From the Ring app dashboard, you can tap the History tile, then change the Dev...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: reddit.com  
    Title: ring camera time is wrong on the actual video utc  
-   Link: [https://www.reddit.com/r/Ring/comments/1dx0y5y/ring_camera_time_is_wrong_on_the_actual_video_utc/](https://www.reddit.com/r/Ring/comments/1dx0y5y/ring_camera_time_is_wrong_on_the_actual_video_utc/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RedditRing camera time is wrong on the actual video UTC issueJuly 6, 2024 — My Ring Camera recorded videos are showing a time stamp 7 hou...</p></details>
+   Link: <a href="https://www.reddit.com/r/Ring/comments/1dx0y5y/ring_camera_time_is_wrong_on_the_actual_video_utc/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ring/comments/1dx0y5y/ring_camera_time_is_wrong_on_the_actual_video_utc/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ring camera time is wrong on the actual video UTC issueJuly 6, 2024 — My Ring Camera recorded videos are showing a time stamp 7 hou...</p></details>
    Published: July 6, 2024  
 
 9. <a id="endnote-9"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ring/comments/a3esa7/ring_alerts_showing_up_with_gmt_time_stamps/](https://www.reddit.com/r/Ring/comments/a3esa7/ring_alerts_showing_up_with_gmt_time_stamps/)  
+   Link: <a href="https://www.reddit.com/r/Ring/comments/a3esa7/ring_alerts_showing_up_with_gmt_time_stamps/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ring/comments/a3esa7/ring_alerts_showing_up_with_gmt_time_stamps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Android App.... Any one else seeing this issue? Have contacted support several times...Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: ring.com  
-   Link: [https://ring.com/gb/en/support/articles/v4wro/Setting-up-Motion-Schedules?srsltid=AfmBOorpRBcpTdzB0-TtZG0LOBfnXkpB8b1XXVUx0AXZz4Au3zbzLjDG](https://ring.com/gb/en/support/articles/v4wro/Setting-up-Motion-Schedules?srsltid=AfmBOorpRBcpTdzB0-TtZG0LOBfnXkpB8b1XXVUx0AXZz4Au3zbzLjDG)  
+   Link: <a href="https://ring.com/gb/en/support/articles/v4wro/Setting-up-Motion-Schedules?srsltid=AfmBOorpRBcpTdzB0-TtZG0LOBfnXkpB8b1XXVUx0AXZz4Au3zbzLjDG" target="_blank" rel="noopener noreferrer nofollow">https://ring.com/gb/en/support/articles/v4wro/Setting-up-Motion-Schedules?srsltid=AfmBOorpRBcpTdzB0-TtZG0LOBfnXkpB8b1XXVUx0AXZz4Au3zbzLjDG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Setting up Motion SchedulesWith Motion Schedules, you can schedule periods of time when you do not want to receive Motion Alerts from you...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ring/comments/16nom4y/is_there_a_way_to_watch_a_full_record_of_the/](https://www.reddit.com/r/Ring/comments/16nom4y/is_there_a_way_to_watch_a_full_record_of_the/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Redditr/Ring - is there a way to watch a full record of the night, not...September 20, 2023 — I&#x27;m wondering can i go back and watch the...</p></details>
+   Link: <a href="https://www.reddit.com/r/Ring/comments/16nom4y/is_there_a_way_to_watch_a_full_record_of_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ring/comments/16nom4y/is_there_a_way_to_watch_a_full_record_of_the/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/Ring - is there a way to watch a full record of the night, not...September 20, 2023 — I&#x27;m wondering can i go back and watch the...</p></details>
    Published: September 20, 2023  
 
 12. <a id="endnote-12"></a>
    Source: guardian-forensics.com  
-   Link: [https://guardian-forensics.com/digital-forensics/complete-guide-to-digital-forensics/](https://guardian-forensics.com/digital-forensics/complete-guide-to-digital-forensics/)  
+   Link: <a href="https://guardian-forensics.com/digital-forensics/complete-guide-to-digital-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://guardian-forensics.com/digital-forensics/complete-guide-to-digital-forensics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Guardian ForensicsCommon Types of Digital Forensics in the Modern CourtroomMay 14, 2026 — 14 May 2026 — Smart speakers and video doorbell...</p></details>
    Published: May 14, 2026  
 
 13. <a id="endnote-13"></a>
    Source: link.springer.com  
-   Link: [https://link.springer.com/chapter/10.1007/978-3-032-17300-3_1](https://link.springer.com/chapter/10.1007/978-3-032-17300-3_1)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpringerReliability and Completeness of Metadata Extraction Tools in...by B Guwor · 2025 — Digital images serve as a vital source of evi...</p></details>
+   Link: <a href="https://link.springer.com/chapter/10.1007/978-3-032-17300-3_1" target="_blank" rel="noopener noreferrer nofollow">https://link.springer.com/chapter/10.1007/978-3-032-17300-3_1</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Reliability and Completeness of Metadata Extraction Tools in...by B Guwor · 2025 — Digital images serve as a vital source of evi...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: ring.com  
-   Link: [https://ring.com/support/articles/d6p12/managing-alerts-for-ring-doorbells-and-cameras?srsltid=AfmBOopYOkvctqmVe8nyjCm0E9qMzVnKF7cihq1gKxmnZPhyNT8y0bvQ](https://ring.com/support/articles/d6p12/managing-alerts-for-ring-doorbells-and-cameras?srsltid=AfmBOopYOkvctqmVe8nyjCm0E9qMzVnKF7cihq1gKxmnZPhyNT8y0bvQ)  
+   Link: <a href="https://ring.com/support/articles/d6p12/managing-alerts-for-ring-doorbells-and-cameras?srsltid=AfmBOopYOkvctqmVe8nyjCm0E9qMzVnKF7cihq1gKxmnZPhyNT8y0bvQ" target="_blank" rel="noopener noreferrer nofollow">https://ring.com/support/articles/d6p12/managing-alerts-for-ring-doorbells-and-cameras?srsltid=AfmBOopYOkvctqmVe8nyjCm0E9qMzVnKF7cihq1gKxmnZPhyNT8y0bvQ</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Managing alerts for Ring doorbells and camerasTo turn on Smart Alerts, tap the Motion Settings tile on the device&#x27;s page in the Ring app...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ring.com  
-   Link: [https://ring.com/gb/en/support/articles?query=time&srsltid=AfmBOoq4GTTZ5efcgPINr9rcVh8fJOsdxfvkSh4Ax886qXK9Dg50pVha](https://ring.com/gb/en/support/articles?query=time&srsltid=AfmBOoq4GTTZ5efcgPINr9rcVh8fJOsdxfvkSh4Ax886qXK9Dg50pVha)  
+   Link: <a href="https://ring.com/gb/en/support/articles?query=time&amp;srsltid=AfmBOoq4GTTZ5efcgPINr9rcVh8fJOsdxfvkSh4Ax886qXK9Dg50pVha" target="_blank" rel="noopener noreferrer nofollow">https://ring.com/gb/en/support/articles?query=time&amp;srsltid=AfmBOoq4GTTZ5efcgPINr9rcVh8fJOsdxfvkSh4Ax886qXK9Dg50pVha</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Time, Morning, Evening, Custom)...Read more...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: en-uk.ring.com  
    Title: new features now in the ring app custom app alerts motion snooze and more 4  
-   Link: [https://en-uk.ring.com/blogs/alwayshome/new-features-now-in-the-ring-app-custom-app-alerts-motion-snooze-and-more-4](https://en-uk.ring.com/blogs/alwayshome/new-features-now-in-the-ring-app-custom-app-alerts-motion-snooze-and-more-4)  
+   Link: <a href="https://en-uk.ring.com/blogs/alwayshome/new-features-now-in-the-ring-app-custom-app-alerts-motion-snooze-and-more-4" target="_blank" rel="noopener noreferrer nofollow">https://en-uk.ring.com/blogs/alwayshome/new-features-now-in-the-ring-app-custom-app-alerts-motion-snooze-and-more-4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>App Alerts, Motion Snooze and More!26 Jan 2018 — Just like the snooze button on your alarm clock, Ring&#x27;s new Motion Snooze feature lets y...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S2666281723002007](https://www.sciencedirect.com/science/article/pii/S2666281723002007)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S2666281723002007" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S2666281723002007</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAIRness in digital forensics datasets&#x27; metadataby S Mombelli · 2024 · Cited by 10 — This study evaluates metadata completeness and asses...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nvlpubs.nist.gov  
    Title: NIST.IR.8354 draft  
-   Link: [https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354-draft.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354-draft.pdf)  
+   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354-draft.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354-draft.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation Techniques: A NIST Scientific Foundation...9 May 2022 — Common methods include deleting relevant files, creating bogus art...</p></details>
    Published: May 2022  
 
 19. <a id="endnote-19"></a>
    Source: nist.gov  
    Title: statistical methods for change detection over time in digital forensics data  
-   Link: [https://www.nist.gov/system/files/documents/2016/12/05/statistical_methods_for_change_detection_over_time_in_digital_forensics_data.pdf](https://www.nist.gov/system/files/documents/2016/12/05/statistical_methods_for_change_detection_over_time_in_digital_forensics_data.pdf)  
+   Link: <a href="https://www.nist.gov/system/files/documents/2016/12/05/statistical_methods_for_change_detection_over_time_in_digital_forensics_data.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/system/files/documents/2016/12/05/statistical_methods_for_change_detection_over_time_in_digital_forensics_data.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Statistical Methods for Change Detection over Time in...5 Dec 2016 — Quantify answers to specific questions. – Is there evidence of a si...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Ring/comments/1dzgir5/my_ring_camera_keep_alerting_me_to_a_motion_or/](https://www.reddit.com/r/Ring/comments/1dzgir5/my_ring_camera_keep_alerting_me_to_a_motion_or/)  
+   Link: <a href="https://www.reddit.com/r/Ring/comments/1dzgir5/my_ring_camera_keep_alerting_me_to_a_motion_or/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Ring/comments/1dzgir5/my_ring_camera_keep_alerting_me_to_a_motion_or/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s been months. Best of luck.Read more...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: thesun.co.uk  
    Title: The Sun Exact height your Ring doorbell MUST be  
-   Link: [https://www.thesun.co.uk/tech/34321779/ring-doorbell-height-how-high-motion-sensors-camera-doorframe/](https://www.thesun.co.uk/tech/34321779/ring-doorbell-height-how-high-motion-sensors-camera-doorframe/)  
+   Link: <a href="https://www.thesun.co.uk/tech/34321779/ring-doorbell-height-how-high-motion-sensors-camera-doorframe/" target="_blank" rel="noopener noreferrer nofollow">https://www.thesun.co.uk/tech/34321779/ring-doorbell-height-how-high-motion-sensors-camera-doorframe/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The device should be installed approximately 1.2 meters (48 inches) above ground level. Mounting it too high can result in reduced effect...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: fast.io  
    Title: metadata extraction for digital forensics  
-   Link: [https://fast.io/resources/metadata-extraction-for-digital-forensics/](https://fast.io/resources/metadata-extraction-for-digital-forensics/)  
+   Link: <a href="https://fast.io/resources/metadata-extraction-for-digital-forensics/" target="_blank" rel="noopener noreferrer nofollow">https://fast.io/resources/metadata-extraction-for-digital-forensics/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in 2026 | FastioLearn how forensic investigators extract and preserve file metadata as evidence, from write-blocking to hash verification...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: citeseerx.ist.psu.edu  
-   Link: [https://citeseerx.ist.psu.edu/document?doi=d0e290455599cc01d282bf1448f40e2132f3103b&repid=rep1&type=pdf](https://citeseerx.ist.psu.edu/document?doi=d0e290455599cc01d282bf1448f40e2132f3103b&repid=rep1&type=pdf)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CiteSeerXTime Line Analysis in Digital Forensicsby EE Eiland · 2006 · Cited by 7 — The most benign causes of er- ror are lack of or incor...</p></details>
+   Link: <a href="https://citeseerx.ist.psu.edu/document?doi=d0e290455599cc01d282bf1448f40e2132f3103b&amp;repid=rep1&amp;type=pdf" target="_blank" rel="noopener noreferrer nofollow">https://citeseerx.ist.psu.edu/document?doi=d0e290455599cc01d282bf1448f40e2132f3103b&amp;repid=rep1&amp;type=pdf</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Line Analysis in Digital Forensicsby EE Eiland · 2006 · Cited by 7 — The most benign causes of er- ror are lack of or incor...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/391219183_SoK_Timeline_based_event_reconstruction_for_digital_forensics_Terminology_methodology_and_current_challenges](https://www.researchgate.net/publication/391219183_SoK_Timeline_based_event_reconstruction_for_digital_forensics_Terminology_methodology_and_current_challenges)  
+   Link: <a href="https://www.researchgate.net/publication/391219183_SoK_Timeline_based_event_reconstruction_for_digital_forensics_Terminology_methodology_and_current_challenges" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/391219183_SoK_Timeline_based_event_reconstruction_for_digital_forensics_Terminology_methodology_and_current_challenges</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>SoK: Timeline based event reconstruction for digital forensics28 Apr 2025 — Event reconstruction is a technique that examiners can use to...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: academia.edu  
-   Link: [https://www.academia.edu/65318753/Time_Line_Analysis_in_Digital_Forensics](https://www.academia.edu/65318753/Time_Line_Analysis_in_Digital_Forensics)  
+   Link: <a href="https://www.academia.edu/65318753/Time_Line_Analysis_in_Digital_Forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/65318753/Time_Line_Analysis_in_Digital_Forensics</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Time Line Analysis in Digital ForensicsTime lines are an essential part of forensic analysis. Reconstructing the event sequence around an...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: techfusion.com  
-   Link: [https://techfusion.com/metadata-forensics-digital-trail/](https://techfusion.com/metadata-forensics-digital-trail/)  
+   Link: <a href="https://techfusion.com/metadata-forensics-digital-trail/" target="_blank" rel="noopener noreferrer nofollow">https://techfusion.com/metadata-forensics-digital-trail/</a>  
 
 27. <a id="endnote-27"></a>
    Source: forensicfocus.com  
    Title: mobile forensics a short guide to digital evidence recovery from mobile devices  
-   Link: [https://www.forensicfocus.com/guides/mobile-forensics-a-short-guide-to-digital-evidence-recovery-from-mobile-devices/](https://www.forensicfocus.com/guides/mobile-forensics-a-short-guide-to-digital-evidence-recovery-from-mobile-devices/)  
+   Link: <a href="https://www.forensicfocus.com/guides/mobile-forensics-a-short-guide-to-digital-evidence-recovery-from-mobile-devices/" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicfocus.com/guides/mobile-forensics-a-short-guide-to-digital-evidence-recovery-from-mobile-devices/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mobile Forensics: A Short Guide to Digital Evidence...12 Feb 2025 — Read our comprehensive guide to mobile forensics, covering key proce...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: computer.org  
-   Link: [https://www.computer.org/csdl/proceedings-article/tps-isa/2024/867400a011/23ylIjUo7VS](https://www.computer.org/csdl/proceedings-article/tps-isa/2024/867400a011/23ylIjUo7VS)  
+   Link: <a href="https://www.computer.org/csdl/proceedings-article/tps-isa/2024/867400a011/23ylIjUo7VS" target="_blank" rel="noopener noreferrer nofollow">https://www.computer.org/csdl/proceedings-article/tps-isa/2024/867400a011/23ylIjUo7VS</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(CoC) in digital forensics, a simple yet powerful process vital for ensuring the trustworthiness and...Read more...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=E4yzcnq3CeE](https://www.youtube.com/watch?v=E4yzcnq3CeE)  
+   Link: <a href="https://www.youtube.com/watch?v=E4yzcnq3CeE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=E4yzcnq3CeE</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Does the Timeline in the Ring App Work? | Ask RingHow Does the Timeline in the Ring App Work? Watch as Sitara takes us through how to...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: linkedin.com  
    Title: Linked In Understanding Metadata in Digital Forensics: HTML vs  
-   Link: [https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc](https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc)  
+   Link: <a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>EXIFThis blog post aims to clarify the differences between HTML metadata and EXIF data, discuss their implications in legal contexts, and...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: computerforensicslab.co.uk  
    Title: forensic timeline analysis tools challenges best practices  
-   Link: [https://computerforensicslab.co.uk/forensic-timeline-analysis-tools-challenges-best-practices/](https://computerforensicslab.co.uk/forensic-timeline-analysis-tools-challenges-best-practices/)  
+   Link: <a href="https://computerforensicslab.co.uk/forensic-timeline-analysis-tools-challenges-best-practices/" target="_blank" rel="noopener noreferrer nofollow">https://computerforensicslab.co.uk/forensic-timeline-analysis-tools-challenges-best-practices/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Forensic timeline analysis: tools, challenges, best practices7 Apr 2026 — TL;DR: Forensic timeline analysis reconstructs digital events t...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: eclipseforensics.com  
    Title: cell phone forensics what your device can reveal in court  
-   Link: [https://eclipseforensics.com/cell-phone-forensics-what-your-device-can-reveal-in-court/](https://eclipseforensics.com/cell-phone-forensics-what-your-device-can-reveal-in-court/)  
+   Link: <a href="https://eclipseforensics.com/cell-phone-forensics-what-your-device-can-reveal-in-court/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/cell-phone-forensics-what-your-device-can-reveal-in-court/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cell Phone Forensics: What Your Device Can Reveal in...25 Aug 2025 — Metadata—including timestamps, file hashes, device IDs, and record...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: belkasoft.com  
-   Link: [https://belkasoft.com/digital-forensic-timeline-analysis](https://belkasoft.com/digital-forensic-timeline-analysis)  
+   Link: <a href="https://belkasoft.com/digital-forensic-timeline-analysis" target="_blank" rel="noopener noreferrer nofollow">https://belkasoft.com/digital-forensic-timeline-analysis</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>e sources, making it easier to correlate events across different types of...Read more...</p></details>

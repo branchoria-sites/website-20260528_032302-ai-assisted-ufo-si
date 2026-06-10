@@ -35,7 +35,7 @@ sidebar_expanded_urls:
 - /ai-assisted-ufo-sighting-investigation/
 nav_short_title: Timeline
 title: What Else Was Happening During the Sighting?
-title_full: What Else Was Happening During the Sighting? | UFO Case AI
+title_full: What Else Was Happening During the Sighting?
 display_title_short: Timeline
 display_title: Timeline
 heading_title: What Else Was Happening During the Sighting?
@@ -313,7 +313,7 @@ next_link:
   permalink: /video-limits/
   short_title: Video Limits
   heading_title: Why Clear UFO Videos Can Still Mislead
-date: '2026-06-08 22:41:02 '
+date: '2026-06-10 19:41:48 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview.webp
@@ -326,13 +326,13 @@ AI timeline reconstruction for a single UFO event means rebuilding the minutes a
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview.webp" | relative_url }}" alt="Overview image for Timeline" loading="eager" decoding="sync" fetchpriority="high">
-For an AI-assisted UFO sighting investigation, the timeline is the bridge between a raw story and a testable case file. A light seen at 21:43 is not assessed in isolation. It is compared with [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite passes, Moon and planet positions, wind at altitude, visibility, cloud, local power or network incidents, nearby events, and any gaps in the witness account. NASA’s independent UAP study made the same broad point in scientific terms: useful UAP analysis depends on robust data, good metadata, [calibrated]({{ 'sensor-data/' | relative_url }}) observations, and systematic reporting rather than isolated anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
+For an AI-assisted UFO sighting investigation, the timeline is the bridge between a raw story and a testable [case file]({{ 'case-file/' | relative_url }}). A light seen at 21:43 is not assessed in isolation. It is compared with [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite passes, Moon and planet positions, wind at altitude, visibility, cloud, local power or network incidents, nearby events, and any gaps in the witness account. NASA’s independent UAP study made the same broad point in scientific terms: useful UAP analysis depends on robust data, good metadata, calibrated observations, and systematic reporting rather than isolated anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
 ## Before, during, and after the event
 
 A good sighting timeline starts before the witness first noticed the object. That may sound excessive, but many explanations only become visible when the event is widened slightly. A satellite may have entered sunlight a minute before the witness looked up. A helicopter may have turned towards the observer before seeming to hover. A balloon may have drifted with the wind for half an hour before crossing the viewing line. A bright planet may have been present all evening, then become conspicuous when clouds thinned or the witness moved to a darker spot.
 
-The first step is to define the event time window. For a brief phone video, that may mean five minutes before the first frame and five minutes after the last frame. For a longer witness account, it may mean an hour either side. For reports involving launches, re-entries, storms, or multiple witnesses, the window may need to extend further. The important point is that the AI system should not treat the reported start time as absolute truth. It should preserve the original claim, extract any embedded clues, and mark [confidence]({{ 'confidence/' | relative_url }}): device timestamp, witness estimate, [social media]({{ 'reposts/' | relative_url }}) post time, emergency call log, CCTV clock, or later recollection.
+The first step is to define the event time window. For a brief phone video, that may mean five minutes before the first frame and five minutes after the last frame. For a longer witness account, it may mean an hour either side. For reports involving launches, re-entries, storms, or multiple witnesses, the window may need to extend further. The important point is that the AI system should not treat the reported start time as absolute truth. It should preserve the [original]({{ 'original-evidence/' | relative_url }}) claim, extract any embedded clues, and mark [confidence]({{ 'confidence/' | relative_url }}): device timestamp, witness estimate, social media post time, emergency call log, CCTV clock, or later recollection.
 
 A practical reconstruction usually separates the window into three bands:
 
@@ -568,7 +568,7 @@ For a single UFO event, the central question is not “what was it?” asked in 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -595,76 +595,72 @@ For a single UFO event, the central question is not “what was it?” asked in 
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO 1982 Tour Programme Book With Poster"><img src="{{ '/assets/images/marketplace-covers/9c0ed3d28411d7c56755.jpg' | relative_url }}" alt="Listing image for UFO 1982 Tour Programme Book With Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO 1982 Tour Programme Book With Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=event+timeline+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-event-timeline-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster -book -books" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-event-timeline-poster-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open event timeline poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20event%20timeline%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EEvent%20Timeline%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EEvent%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETimeline%3C%2Ftext%3E%3Crect%20x%3D%22149%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22159%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for event timeline poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">event timeline poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Event</span><span class="fr-search-tag">Timeline</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=event+timeline+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-event-timeline-poster-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="event timeline poster -book -books" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-event-timeline-poster-book-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=forensic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-forensic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forensic wall art" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-forensic-wall-art" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open forensic wall art on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20forensic%20wall%20art%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EForensic%20Wall%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EForensic%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWall%3C%2Ftext%3E%3Crect%20x%3D%22146%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22156%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for forensic wall art on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">forensic wall art</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Forensic</span><span class="fr-search-tag">Wall</span><span class="fr-search-tag">Art</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=forensic+wall+art&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-forensic-wall-art&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="forensic wall art" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-forensic-wall-art" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+report+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-report-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO report poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-report-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO report poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20report%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Report%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EReport%3C%2Ftext%3E%3Crect%20x%3D%22132%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22142%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO report poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO report poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Report</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+report+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-report-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO report poster -book -books -series -television -gerry -anderson -band -concert -tour -album -cd" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-report-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open else poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20else%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EElse%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EElse%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for else poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">else poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Else</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=else+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-else-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="else poster -book -books -dvd" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-else-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=event+timeline+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=timeline-what-else-was-happening-during-the-sighting-ai-assisted-ufo-sighting-investigation-event-timeline-poster-book-b&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -722,10 +718,10 @@ For a single UFO event, the central question is not “what was it?” asked in 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -743,7 +739,7 @@ For a single UFO event, the central question is not “what was it?” asked in 
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -879,292 +875,292 @@ For a single UFO event, the central question is not “what was it?” asked in 
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science Independent Study Team Report  
-   Link: [https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf](https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf)  
+   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: [https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/](https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/)  
+   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
 
 3. <a id="endnote-3"></a>
    Source: opensky-network.org  
-   Link: [https://opensky-network.org/](https://opensky-network.org/)  
+   Link: <a href="https://opensky-network.org/" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/</a>  
 
 4. <a id="endnote-4"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/how-it-works](https://www.flightradar24.com/how-it-works)  
+   Link: <a href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works</a>  
 
 5. <a id="endnote-5"></a>
    Source: flightradar24.com  
-   Link: [https://www.flightradar24.com/how-it-works/mlat](https://www.flightradar24.com/how-it-works/mlat)  
+   Link: <a href="https://www.flightradar24.com/how-it-works/mlat" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/how-it-works/mlat</a>  
 
 6. <a id="endnote-6"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/elements/](https://www.celestrak.org/NORAD/elements/)  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/</a>  
 
 7. <a id="endnote-7"></a>
    Source: space-track.org  
-   Link: [https://www.space-track.org/documentation](https://www.space-track.org/documentation)  
+   Link: <a href="https://www.space-track.org/documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.space-track.org/documentation</a>  
 
 8. <a id="endnote-8"></a>
    Source: heavens-above.com  
-   Link: [https://www.heavens-above.com/](https://www.heavens-above.com/)  
+   Link: <a href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.heavens-above.com/</a>  
 
 9. <a id="endnote-9"></a>
    Source: ssd.jpl.nasa.gov  
    Title: JPL Solar System Dynamics NASA Horizons Manual  
-   Link: [https://ssd.jpl.nasa.gov/horizons/manual.html](https://ssd.jpl.nasa.gov/horizons/manual.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/manual.html</a>  
 
 10. <a id="endnote-10"></a>
    Source: ssd-api.jpl.nasa.gov  
    Title: Horizon API  
-   Link: [https://ssd-api.jpl.nasa.gov/doc/horizons.html](https://ssd-api.jpl.nasa.gov/doc/horizons.html)  
+   Link: <a href="https://ssd-api.jpl.nasa.gov/doc/horizons.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd-api.jpl.nasa.gov/doc/horizons.html</a>  
 
 11. <a id="endnote-11"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/documentation/services-web-api](https://www.weather.gov/documentation/services-web-api)  
+   Link: <a href="https://www.weather.gov/documentation/services-web-api" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/documentation/services-web-api</a>  
 
 12. <a id="endnote-12"></a>
    Source: ncei.noaa.gov  
    Title: NCEIPast Weather  
-   Link: [https://www.ncei.noaa.gov/access/past-weather/](https://www.ncei.noaa.gov/access/past-weather/)  
+   Link: <a href="https://www.ncei.noaa.gov/access/past-weather/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/past-weather/</a>  
 
 13. <a id="endnote-13"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/api/point](https://dev.meteostat.net/api/point)  
+   Link: <a href="https://dev.meteostat.net/api/point" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api/point</a>  
 
 14. <a id="endnote-14"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/quality.html](https://dev.meteostat.net/quality.html)  
+   Link: <a href="https://dev.meteostat.net/quality.html" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/quality.html</a>  
 
 15. <a id="endnote-15"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
 16. <a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/](https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/</a>  
 
 17. <a id="endnote-17"></a>
    Source: aaro.mil  
    Title: Puerto Rico UAP Case Resolution  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf](https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_Puerto_Rico_UAP_Case_Resolution.pdf</a>  
 
 18. <a id="endnote-18"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/uap/](https://science.nasa.gov/uap/)  
+   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
 19. <a id="endnote-19"></a>
    Source: opensky-network.org  
-   Link: [https://opensky-network.org/data/scientific](https://opensky-network.org/data/scientific)  
+   Link: <a href="https://opensky-network.org/data/scientific" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data/scientific</a>  
 
 20. <a id="endnote-20"></a>
    Source: opensky-network.org  
-   Link: [https://opensky-network.org/about/faq](https://opensky-network.org/about/faq)  
+   Link: <a href="https://opensky-network.org/about/faq" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/about/faq</a>  
 
 21. <a id="endnote-21"></a>
    Source: opensky-network.org  
-   Link: [https://opensky-network.org/data](https://opensky-network.org/data)  
+   Link: <a href="https://opensky-network.org/data" target="_blank" rel="noopener noreferrer nofollow">https://opensky-network.org/data</a>  
 
 22. <a id="endnote-22"></a>
    Source: wow.metoffice.gov.uk  
    Title: metoffice.gov.uk Met Office WOW  
-   Link: [https://wow.metoffice.gov.uk/](https://wow.metoffice.gov.uk/)  
+   Link: <a href="https://wow.metoffice.gov.uk/" target="_blank" rel="noopener noreferrer nofollow">https://wow.metoffice.gov.uk/</a>  
 
 23. <a id="endnote-23"></a>
    Source: wow.metoffice.gov.uk  
-   Link: [https://wow.metoffice.gov.uk/support](https://wow.metoffice.gov.uk/support)  
+   Link: <a href="https://wow.metoffice.gov.uk/support" target="_blank" rel="noopener noreferrer nofollow">https://wow.metoffice.gov.uk/support</a>  
 
 24. <a id="endnote-24"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/services/data/datapoint/uk-observations-detailed-documentation](https://www.metoffice.gov.uk/services/data/datapoint/uk-observations-detailed-documentation)  
+   Link: <a href="https://www.metoffice.gov.uk/services/data/datapoint/uk-observations-detailed-documentation" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/data/datapoint/uk-observations-detailed-documentation</a>  
 
 25. <a id="endnote-25"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/](https://www.aaro.mil/)  
+   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
 26. <a id="endnote-26"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: [https://www.aaro.mil/Congressional-Press-Products/](https://www.aaro.mil/Congressional-Press-Products/)  
+   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
 27. <a id="endnote-27"></a>
    Source: aaro.mil  
    Title: AARO Satellite Flaring Paper 508 FINAL 04222025  
-   Link: [https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf](https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf)  
+   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AARO_Satellite_Flaring_Paper_508_FINAL_04222025.pdf</a>  
 
 28. <a id="endnote-28"></a>
    Source: meteostat.net  
-   Link: [https://meteostat.net/](https://meteostat.net/)  
+   Link: <a href="https://meteostat.net/" target="_blank" rel="noopener noreferrer nofollow">https://meteostat.net/</a>  
 
 29. <a id="endnote-29"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/api/stations/hourly.html](https://dev.meteostat.net/api/stations/hourly.html)  
+   Link: <a href="https://dev.meteostat.net/api/stations/hourly.html" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api/stations/hourly.html</a>  
 
 30. <a id="endnote-30"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/python](https://dev.meteostat.net/python)  
+   Link: <a href="https://dev.meteostat.net/python" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/python</a>  
 
 31. <a id="endnote-31"></a>
    Source: dev.meteostat.net  
-   Link: [https://dev.meteostat.net/api](https://dev.meteostat.net/api)  
+   Link: <a href="https://dev.meteostat.net/api" target="_blank" rel="noopener noreferrer nofollow">https://dev.meteostat.net/api</a>  
 
 32. <a id="endnote-32"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: [https://ssd.jpl.nasa.gov/horizons/news.html](https://ssd.jpl.nasa.gov/horizons/news.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/horizons/news.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/news.html</a>  
 
 33. <a id="endnote-33"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: [https://ssd.jpl.nasa.gov/horizons/tutorial.html](https://ssd.jpl.nasa.gov/horizons/tutorial.html)  
+   Link: <a href="https://ssd.jpl.nasa.gov/horizons/tutorial.html" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/horizons/tutorial.html</a>  
 
 34. <a id="endnote-34"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: [https://ssd.jpl.nasa.gov/api/horizons.api?APPARENT=%27AIRLESS%27+&CENTER=%27M39%40399%27+&COMMAND=%27DES%3D20415029%27+&ELEV_CUT=%270%27+&EPHEM_TYPE=%27OBSERVER%27+&MAKE_EPHEM=%27YES%27+&OBJ_DATA=%27YES%27+&QUANTITIES=%271%2C4%2C9%2C20%2C23%2C24%2C29%2C47%2C48%27+&SKIP_DAYLT=%27YES%27&START_TIME=%272024-06-25+UT%27+&STEP_SIZE=%271+HOURS%27+&STOP_TIME=%272024-07-02%27+&format=text](https://ssd.jpl.nasa.gov/api/horizons.api?APPARENT=%27AIRLESS%27+&CENTER=%27M39%40399%27+&COMMAND=%27DES%3D20415029%27+&ELEV_CUT=%270%27+&EPHEM_TYPE=%27OBSERVER%27+&MAKE_EPHEM=%27YES%27+&OBJ_DATA=%27YES%27+&QUANTITIES=%271%2C4%2C9%2C20%2C23%2C24%2C29%2C47%2C48%27+&SKIP_DAYLT=%27YES%27&START_TIME=%272024-06-25+UT%27+&STEP_SIZE=%271+HOURS%27+&STOP_TIME=%272024-07-02%27+&format=text)  
+   Link: <a href="https://ssd.jpl.nasa.gov/api/horizons.api?APPARENT=%27AIRLESS%27+&amp;CENTER=%27M39%40399%27+&amp;COMMAND=%27DES%3D20415029%27+&amp;ELEV_CUT=%270%27+&amp;EPHEM_TYPE=%27OBSERVER%27+&amp;MAKE_EPHEM=%27YES%27+&amp;OBJ_DATA=%27YES%27+&amp;QUANTITIES=%271%2C4%2C9%2C20%2C23%2C24%2C29%2C47%2C48%27+&amp;SKIP_DAYLT=%27YES%27&amp;START_TIME=%272024-06-25+UT%27+&amp;STEP_SIZE=%271+HOURS%27+&amp;STOP_TIME=%272024-07-02%27+&amp;format=text" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/api/horizons.api?APPARENT=%27AIRLESS%27+&amp;CENTER=%27M39%40399%27+&amp;COMMAND=%27DES%3D20415029%27+&amp;ELEV_CUT=%270%27+&amp;EPHEM_TYPE=%27OBSERVER%27+&amp;MAKE_EPHEM=%27YES%27+&amp;OBJ_DATA=%27YES%27+&amp;QUANTITIES=%271%2C4%2C9%2C20%2C23%2C24%2C29%2C47%2C48%27+&amp;SKIP_DAYLT=%27YES%27&amp;START_TIME=%272024-06-25+UT%27+&amp;STEP_SIZE=%271+HOURS%27+&amp;STOP_TIME=%272024-07-02%27+&amp;format=text</a>  
 
 35. <a id="endnote-35"></a>
    Source: ssd.jpl.nasa.gov  
-   Link: [https://ssd.jpl.nasa.gov/api/horizons.api?CENTER=%27coord%40399%27&COMMAND=%27199%27&COORD_TYPE=%27GEODETIC%27&EPHEM_TYPE=%27OBSERVER%27&MAKE_EPHEM=%27YES%27&OBJ_DATA=%27NO%27&QUANTITIES=%274%2C9%27&SITE_COORD=%27-2.5852%2C49.4383%2C0%27&START_TIME=%272026-04-20%3A30%27&STEP_SIZE=%2710m%27&STOP_TIME=%272026-04-20%3A30%27&TIME_TYPE=%27UT%27&format=text](https://ssd.jpl.nasa.gov/api/horizons.api?CENTER=%27coord%40399%27&COMMAND=%27199%27&COORD_TYPE=%27GEODETIC%27&EPHEM_TYPE=%27OBSERVER%27&MAKE_EPHEM=%27YES%27&OBJ_DATA=%27NO%27&QUANTITIES=%274%2C9%27&SITE_COORD=%27-2.5852%2C49.4383%2C0%27&START_TIME=%272026-04-20%3A30%27&STEP_SIZE=%2710m%27&STOP_TIME=%272026-04-20%3A30%27&TIME_TYPE=%27UT%27&format=text)  
+   Link: <a href="https://ssd.jpl.nasa.gov/api/horizons.api?CENTER=%27coord%40399%27&amp;COMMAND=%27199%27&amp;COORD_TYPE=%27GEODETIC%27&amp;EPHEM_TYPE=%27OBSERVER%27&amp;MAKE_EPHEM=%27YES%27&amp;OBJ_DATA=%27NO%27&amp;QUANTITIES=%274%2C9%27&amp;SITE_COORD=%27-2.5852%2C49.4383%2C0%27&amp;START_TIME=%272026-04-20%3A30%27&amp;STEP_SIZE=%2710m%27&amp;STOP_TIME=%272026-04-20%3A30%27&amp;TIME_TYPE=%27UT%27&amp;format=text" target="_blank" rel="noopener noreferrer nofollow">https://ssd.jpl.nasa.gov/api/horizons.api?CENTER=%27coord%40399%27&amp;COMMAND=%27199%27&amp;COORD_TYPE=%27GEODETIC%27&amp;EPHEM_TYPE=%27OBSERVER%27&amp;MAKE_EPHEM=%27YES%27&amp;OBJ_DATA=%27NO%27&amp;QUANTITIES=%274%2C9%27&amp;SITE_COORD=%27-2.5852%2C49.4383%2C0%27&amp;START_TIME=%272026-04-20%3A30%27&amp;STEP_SIZE=%2710m%27&amp;STOP_TIME=%272026-04-20%3A30%27&amp;TIME_TYPE=%27UT%27&amp;format=text</a>  
 
 36. <a id="endnote-36"></a>
    Source: noaa.gov  
    Title: weather observations  
-   Link: [https://www.noaa.gov/education/resource-collections/weather-atmosphere/weather-observations](https://www.noaa.gov/education/resource-collections/weather-atmosphere/weather-observations)  
+   Link: <a href="https://www.noaa.gov/education/resource-collections/weather-atmosphere/weather-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/education/resource-collections/weather-atmosphere/weather-observations</a>  
 
 37. <a id="endnote-37"></a>
    Source: ncei.noaa.gov  
-   Link: [https://www.ncei.noaa.gov/access/homr/](https://www.ncei.noaa.gov/access/homr/)  
+   Link: <a href="https://www.ncei.noaa.gov/access/homr/" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/homr/</a>  
 
 38. <a id="endnote-38"></a>
    Source: noaa.gov  
    Title: weather and climate resources  
-   Link: [https://www.noaa.gov/tools-and-resources/weather-and-climate-resources](https://www.noaa.gov/tools-and-resources/weather-and-climate-resources)  
+   Link: <a href="https://www.noaa.gov/tools-and-resources/weather-and-climate-resources" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/tools-and-resources/weather-and-climate-resources</a>  
 
 39. <a id="endnote-39"></a>
    Source: celestrak.org  
-   Link: [https://www.celestrak.org/NORAD/documentation/gp-data-formats.php](https://www.celestrak.org/NORAD/documentation/gp-data-formats.php)  
+   Link: <a href="https://www.celestrak.org/NORAD/documentation/gp-data-formats.php" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/documentation/gp-data-formats.php</a>  
 
 40. <a id="endnote-40"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: [https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/](https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/)  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
 41. <a id="endnote-41"></a>
    Source: flightradar24.com  
    Title: how flightradar24 uses mlat to counter gps jamming  
-   Link: [https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/](https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/)  
+   Link: <a href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</a>  
 
 42. <a id="endnote-42"></a>
    Source: flightradar24.com  
    Title: how we track flights with ads b  
-   Link: [https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/](https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/)  
+   Link: <a href="https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://www.flightradar24.com/blog/inside-flightradar24/how-we-track-flights-with-ads-b/</a>  
 
 43. <a id="endnote-43"></a>
    Source: space.com  
    Title: x starlink satellites  
-   Link: [https://www.space.com/spacex-starlink-satellites.html](https://www.space.com/spacex-starlink-satellites.html)  
+   Link: <a href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spacex-starlink-satellites.html</a>  
 
 44. <a id="endnote-44"></a>
    Source: space.com  
    Title: spotting ufos sky hub surveillance  
-   Link: [https://www.space.com/spotting-ufos-sky-hub-surveillance](https://www.space.com/spotting-ufos-sky-hub-surveillance)  
+   Link: <a href="https://www.space.com/spotting-ufos-sky-hub-surveillance" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/spotting-ufos-sky-hub-surveillance</a>  
 
 45. <a id="endnote-45"></a>
    Source: developer.weather.com  
    Title: time series observations current hours past 24 0 0  
-   Link: [https://developer.weather.com/docs/openapi/time-series-observations-current-hours-past-24-0-0](https://developer.weather.com/docs/openapi/time-series-observations-current-hours-past-24-0-0)  
+   Link: <a href="https://developer.weather.com/docs/openapi/time-series-observations-current-hours-past-24-0-0" target="_blank" rel="noopener noreferrer nofollow">https://developer.weather.com/docs/openapi/time-series-observations-current-hours-past-24-0-0</a>  
 
 46. <a id="endnote-46"></a>
    Source: data.gov.uk  
    Title: historical station observations  
-   Link: [https://www.data.gov.uk/dataset/190cc73f-4047-44c8-88f8-5281e6266f7f/historical-station-observations](https://www.data.gov.uk/dataset/190cc73f-4047-44c8-88f8-5281e6266f7f/historical-station-observations)  
+   Link: <a href="https://www.data.gov.uk/dataset/190cc73f-4047-44c8-88f8-5281e6266f7f/historical-station-observations" target="_blank" rel="noopener noreferrer nofollow">https://www.data.gov.uk/dataset/190cc73f-4047-44c8-88f8-5281e6266f7f/historical-station-observations</a>  
 
 47. <a id="endnote-47"></a>
    Source: catalogue.ceda.ac.uk  
-   Link: [https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/](https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/)  
+   Link: <a href="https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/" target="_blank" rel="noopener noreferrer nofollow">https://catalogue.ceda.ac.uk/uuid/c9663d0c525f4b0698f1ec4beae3688e/</a>  
 
 48. <a id="endnote-48"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: [https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF](https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)  
+   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
 49. <a id="endnote-49"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022</a>  
 
 50. <a id="endnote-50"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022](https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022)  
+   Link: <a href="https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/992262/pr-013-unresolved-uap-report-europe-2022</a>  
 
 51. <a id="endnote-51"></a>
    Source: dvidshub.net  
-   Link: [https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024](https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024)  
+   Link: <a href="https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dvidshub.net/video/988675/pr-017-unresolved-uap-report-europe-2024</a>  
 
 52. <a id="endnote-52"></a>
    Source: openskynetwork.github.io  
-   Link: [https://openskynetwork.github.io/opensky-api/](https://openskynetwork.github.io/opensky-api/)  
+   Link: <a href="https://openskynetwork.github.io/opensky-api/" target="_blank" rel="noopener noreferrer nofollow">https://openskynetwork.github.io/opensky-api/</a>  
 
 53. <a id="endnote-53"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Flightradar24](https://en.wikipedia.org/wiki/Flightradar24)  
+   Link: <a href="https://en.wikipedia.org/wiki/Flightradar24" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Flightradar24</a>  
 
 54. <a id="endnote-54"></a>
    Source: keeptrack.space  
-   Link: [https://keeptrack.space/resources/celestrak](https://keeptrack.space/resources/celestrak)  
+   Link: <a href="https://keeptrack.space/resources/celestrak" target="_blank" rel="noopener noreferrer nofollow">https://keeptrack.space/resources/celestrak</a>  
 
 55. <a id="endnote-55"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa](https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa)  
+   Link: <a href="https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/flightradar24-ab_flightradar24-activity-7188824159567720448-s1qa</a>  
 
 56. <a id="endnote-56"></a>
    Source: apify.com  
    Title: Open Sky Network  
-   Link: [https://apify.com/parseforge/opensky-network-scraper/api/openapi](https://apify.com/parseforge/opensky-network-scraper/api/openapi)  
+   Link: <a href="https://apify.com/parseforge/opensky-network-scraper/api/openapi" target="_blank" rel="noopener noreferrer nofollow">https://apify.com/parseforge/opensky-network-scraper/api/openapi</a>  
 
 ### Additional References
 
 57. <a id="endnote-57"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2505.06254v1](https://arxiv.org/html/2505.06254v1)  
+   Link: <a href="https://arxiv.org/html/2505.06254v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2505.06254v1</a>  
 
 58. <a id="endnote-58"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/html/2312.00558v3](https://arxiv.org/html/2312.00558v3)  
+   Link: <a href="https://arxiv.org/html/2312.00558v3" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2312.00558v3</a>  
 
 59. <a id="endnote-59"></a>
    Source: aviationweather.gov  
-   Link: [https://aviationweather.gov/data/api/](https://aviationweather.gov/data/api/)  
+   Link: <a href="https://aviationweather.gov/data/api/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/data/api/</a>  
 
 60. <a id="endnote-60"></a>
    Source: youtube.com  
    Title: Identifying UAPs: Data, Methods, and Scientific Re-evaluation  
-   Link: [https://www.youtube.com/watch?v=k5yqQ-L865E](https://www.youtube.com/watch?v=k5yqQ-L865E)  
+   Link: <a href="https://www.youtube.com/watch?v=k5yqQ-L865E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=k5yqQ-L865E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Applying the Scientific Method to Anomalous Phenomena...</p></details>
 
 61. <a id="endnote-61"></a>
    Source: youtube.com  
    Title: Using Data Fusion and AI to Evaluate Sky Anomalies  
-   Link: [https://www.youtube.com/watch?v=9jD3O3mP-hU](https://www.youtube.com/watch?v=9jD3O3mP-hU)  
+   Link: <a href="https://www.youtube.com/watch?v=9jD3O3mP-hU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9jD3O3mP-hU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Distinguishing Between Known Objects and Unexplained Sightings...</p></details>
 
 62. <a id="endnote-62"></a>
    Source: youtube.com  
    Title: Applying the Scientific Method to Anomalous Phenomena  
-   Link: [https://www.youtube.com/watch?v=6P6v6d6b634](https://www.youtube.com/watch?v=6P6v6d6b634)  
+   Link: <a href="https://www.youtube.com/watch?v=6P6v6d6b634" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6P6v6d6b634</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Using Data Fusion and AI to Evaluate Sky Anomalies...</p></details>
 
 63. <a id="endnote-63"></a>
    Source: thebaldgeek.github.io  
-   Link: [https://thebaldgeek.github.io/autoTLE.html](https://thebaldgeek.github.io/autoTLE.html)  
+   Link: <a href="https://thebaldgeek.github.io/autoTLE.html" target="_blank" rel="noopener noreferrer nofollow">https://thebaldgeek.github.io/autoTLE.html</a>  
 
 64. <a id="endnote-64"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/](https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/)  
+   Link: <a href="https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/wired/posts/new-a-report-released-today-by-nasas-independent-study-team-describes-how-the-ag/695732782422317/</a>  
 
 65. <a id="endnote-65"></a>
    Source: aui.edu  
-   Link: [https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/](https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/)  
+   Link: <a href="https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/" target="_blank" rel="noopener noreferrer nofollow">https://aui.edu/aaro-releases-report-on-unidentified-anomalous-phenomena-uap/</a>  
 
 66. <a id="endnote-66"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/](https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/)  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/</a>  

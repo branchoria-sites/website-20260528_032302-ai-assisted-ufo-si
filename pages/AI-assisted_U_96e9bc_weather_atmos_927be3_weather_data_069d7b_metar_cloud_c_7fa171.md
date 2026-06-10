@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /weather-data/
 nav_short_title: Cloud Ceilings
 title: Did Low Cloud Make The UFO Look Like It Hovered?
-title_full: Did Low Cloud Make The UFO Look Like It Hovered? | Weather data
+title_full: Did Low Cloud Make The UFO Look Like It Hovered?
 display_title_short: Cloud Ceilings
 display_title: Cloud Ceilings
 heading_title: Did Low Cloud Make The UFO Look Like It Hovered?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Weather records that change a UFO case | Weather
+parent_title: Weather records that change a UFO case
 parent_permalink: /weather-data/
 parent_nav_short_title: Weather data
 parent_heading_title: Weather records that change a UFO case
@@ -260,7 +260,7 @@ next_link:
   permalink: /radar-errors/
   short_title: Radar Errors
   heading_title: Why Some UFO Radar Hits Are Not Independent Evidence
-date: '2026-06-08 23:28:50 '
+date: '2026-06-10 20:09:48 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1.webp
@@ -269,11 +269,11 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069
 
 ## Introduction
 
-A surprising number of “hovering UFO” reports become less mysterious once archived aviation weather is checked against the witness timeline. One of the most important clues is the cloud ceiling recorded in nearby METAR reports. Low cloud can hide the body of an aircraft while leaving only bright [landing lights]({{ 'landing-lights/' | relative_url }}), anti-collision strobes, or illuminated mist visible from the ground. To a witness with no visible horizon [reference]({{ 'reference-points/' | relative_url }}), that can look like a silent object hanging motionless in the sky.
+A surprising number of “hovering UFO” reports become less mysterious once archived aviation weather is checked against the witness timeline. One of the most important clues is the cloud ceiling recorded in nearby METAR reports. Low cloud can hide the body of an [aircraft]({{ 'aircraft/' | relative_url }}) while leaving only bright [landing lights]({{ 'landing-lights/' | relative_url }}), anti-collision strobes, or illuminated mist visible from the ground. To a witness with no visible horizon reference, that can look like a silent object hanging motionless in the sky.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1-dark.svg" | relative_url }}" alt="Cloud Ceilings illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO investigation, cloud ceiling data is valuable because it is time-stamped, standardised, and widely archived. It allows investigators to test whether the atmosphere supported visual conditions that commonly produce misidentifications. A report describing a glowing object “[hovering]({{ 'wind-checks/' | relative_url }}) behind cloud”, “staying fixed”, or “vanishing instantly” can often be checked against measured cloud layers, visibility, drizzle, fog, and nearby flight paths within minutes. That does not automatically debunk a sighting, but it changes how strongly the report supports an extraordinary explanation.
+For AI-assisted UFO investigation, cloud ceiling data is valuable because it is time-stamped, standardised, and widely archived. It allows investigators to test whether the atmosphere supported visual conditions that commonly produce misidentifications. A report describing a glowing object “hovering behind cloud”, “staying fixed”, or “vanishing instantly” can often be checked against measured cloud layers, visibility, drizzle, fog, and nearby flight paths within minutes. That does not automatically debunk a sighting, but it changes how strongly the report supports an extraordinary explanation.
 
 ## How METAR cloud ceilings are measured
 
@@ -296,7 +296,7 @@ So:
 * `OVC015` means overcast cloud at roughly 1,500 feet
 * `BKN003 OVC010` means a broken layer at 300 feet with a second overcast layer above it Wikipedia <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">METARBKN022 indicates a broken (over half the sky) cloud layer with its base at 2,200 ft (670 m) above ground level (AGL). The lowest &quot;BK...</span></span></span>
 
-Modern airports usually measure cloud base with automated ceilometers or cloud-height indicators. These instruments fire laser or light pulses upward and calculate the cloud base from the reflected return signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldmethod.com">[Boldmethod]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldmethod.com</span><span class="citation-popover-title">cloud ceilings celestial dome</span><span class="citation-popover-snippet">BoldmethodHow Cloud Ceilings Are ReportedJun 21, 2025 — CHI is normally limited to 12,000 feet of altitude, which is why you&#x27;ll sometimes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tarmacview.com/glossary/cloud-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarmacview.com">[Tarmac View]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarmacview.com</span><span class="citation-popover-title">cloud base</span><span class="citation-popover-snippet">Tarmac ViewCloud Base | Airport Lights Inspection18 Nov 2025 — Most airports use automated laser ceilometers to measure cloud base. These...</span></span></span>
+Modern airports usually measure cloud base with automated ceilometers or cloud-height indicators. These instruments fire laser or light pulses upward and calculate the cloud base from the reflected return signal. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: boldmethod.com">[Boldmethod]</a><span class="citation-popover" role="note"><span class="citation-popover-source">boldmethod.com</span><span class="citation-popover-title">cloud ceilings celestial dome</span><span class="citation-popover-snippet">How Cloud Ceilings Are ReportedJun 21, 2025 — CHI is normally limited to 12,000 feet of altitude, which is why you&#x27;ll sometimes...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tarmacview.com/glossary/cloud-base/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tarmacview.com">[Tarmac View]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tarmacview.com</span><span class="citation-popover-title">cloud base</span><span class="citation-popover-snippet">Tarmac ViewCloud Base &#124; Airport Lights Inspection18 Nov 2025 — Most airports use automated laser ceilometers to measure cloud base. These...</span></span></span>
 
 That matters for UFO investigation because the data is objective and time-specific. If a witness claims to have seen a sharply defined craft at 2,000 feet, but the nearest airport recorded a 400-foot overcast ceiling with mist and drizzle, the report immediately becomes harder to interpret at face value.
 
@@ -307,7 +307,7 @@ The ceiling itself is also only part of the picture. AI-assisted case reconstruc
 * Wind direction
 * Rain intensity
 * Nearby runway [approach paths]({{ 'approach-paths/' | relative_url }})
-* Terrain elevation
+* Terrain [elevation]({{ 'elevation/' | relative_url }})
 * Local light pollution
 
 Together, these factors help explain why ordinary aircraft can appear detached from normal visual context.
@@ -333,7 +333,7 @@ This is one reason witnesses sometimes insist an object “hovered silently” e
 
 A particularly misleading effect occurs during final approach to an airport. Aircraft descending toward a runway may hold a nearly constant bearing relative to an observer several miles away. Because the angular movement is small, the plane can appear fixed in space while its landing lights grow brighter. If low cloud hides the body of the aircraft, the observer may only see an intense floating light source.
 
-Aviation and photography communities regularly document this effect as a parallax or approach illusion, where an aircraft appears frozen in mid-air despite moving normally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">FacebookCaptured a stunning parallax effect from one aircraft to...Ever seen a plane that looks like it&#x27;s stuck in midair? While it may...</span></span></span>
+Aviation and photography communities regularly document this effect as a parallax or approach illusion, where an aircraft appears frozen in mid-air despite moving normally. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Captured a stunning parallax effect from one aircraft to...Ever seen a plane that looks like it&#x27;s stuck in midair? While it may...</span></span></span>
 
 METAR ceilings help investigators determine whether such an illusion was physically plausible at the reported time.
 
@@ -374,7 +374,7 @@ A typical reconstruction process looks like this:
 Extract exact or approximate times, viewing direction, estimated elevation angle, and duration.
 2. Pull the nearest METAR and SPECI reports
 
-Special observations (SPECI) may capture rapid changes missed in hourly reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: met.nps.edu">[met.nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">met.nps.edu</span><span class="citation-popover-title">How to decode METAR and TAF reports</span><span class="citation-popover-snippet">NPS - Meteorology...</span></span></span>
+Special observations (SPECI) may capture rapid changes missed in hourly reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: met.nps.edu">[met.nps.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">met.nps.edu</span><span class="citation-popover-title">How to decode METAR and TAF reports</span><span class="citation-popover-snippet">Meteorology...</span></span></span>
 3. Decode cloud layers and visibility
 
 Focus on the lowest `BKN`, `OVC`, or vertical visibility (`VV`) entries.
@@ -572,7 +572,7 @@ In practical case triage, a simple METAR line such as `BKN004 1800 BR` may tell 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -599,76 +599,72 @@ In practical case triage, a simple METAR line such as `BKN004 1800 BR` may tell 
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FROZEN Times Tables Multiply Home Schooling Maths Poster Education Learning Gift"><img src="{{ '/assets/images/marketplace-covers/311b1c3cbce74ee71578.jpg' | relative_url }}" alt="Listing image for FROZEN Times Tables Multiply Home Schooling Maths Poster Education Learning Gift" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">FROZEN Times Tables Multiply Home Schooling Maths Poster Education Learning Gift</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW (LAMINATED) ALPHABET KIDS HAPPY CLOUD (61X91CM) LEARNING CHART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/77b4fb159d65118428a8.jpg' | relative_url }}" alt="Listing image for NEW (LAMINATED) ALPHABET KIDS HAPPY CLOUD (61X91CM) LEARNING CHART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">NEW (LAMINATED) ALPHABET KIDS HAPPY CLOUD (61X91CM) LEARNING CHART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW (LAMINATED) CLOUD TYPE (61X91CM) EDUCATIONAL CHART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/cf1a93e2cc4e50559e06.jpg' | relative_url }}" alt="Listing image for NEW (LAMINATED) CLOUD TYPE (61X91CM) EDUCATIONAL CHART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">NEW (LAMINATED) CLOUD TYPE (61X91CM) EDUCATIONAL CHART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airplane Clouds Flying Sky Air 3d Smashed View Wall Sticker Poster Decal A168"><img src="{{ '/assets/images/marketplace-covers/f5fc45dad36ec6b75657.jpg' | relative_url }}" alt="Listing image for Airplane Clouds Flying Sky Air 3d Smashed View Wall Sticker Poster Decal A168" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Airplane Clouds Flying Sky Air 3d Smashed View Wall Sticker Poster Decal A168</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=cloud-ceilings-did-low-cloud-make-the-ufo-look-like-it-hovered-ai-assisted-ufo-sighting-investig-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -726,10 +722,10 @@ In practical case triage, a simple METAR line such as `BKN004 1800 BR` may tell 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -747,7 +743,7 @@ In practical case triage, a simple METAR line such as `BKN004 1800 BR` may tell 
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -882,144 +878,144 @@ In practical case triage, a simple METAR line such as `BKN004 1800 BR` may tell 
 
 1. <a id="endnote-1"></a>
    Source: metoffice.gov.uk  
-   Link: [https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs](https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs)  
+   Link: <a href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow">https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/METAR](https://en.wikipedia.org/wiki/METAR)  
+   Link: <a href="https://en.wikipedia.org/wiki/METAR" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/METAR</a>  
 
 3. <a id="endnote-3"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/asos/METAR.html](https://www.weather.gov/asos/METAR.html)  
+   Link: <a href="https://www.weather.gov/asos/METAR.html" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/asos/METAR.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>METARBKN022 indicates a broken (over half the sky) cloud layer with its base at 2,200 ft (670 m) above ground level (AGL). The lowest &quot;BK...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: boldmethod.com  
    Title: cloud ceilings celestial dome  
-   Link: [https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/](https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BoldmethodHow Cloud Ceilings Are ReportedJun 21, 2025 — CHI is normally limited to 12,000 feet of altitude, which is why you&#x27;ll sometimes...</p></details>
+   Link: <a href="https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/" target="_blank" rel="noopener noreferrer nofollow">https://www.boldmethod.com/learn-to-fly/weather/cloud-ceilings-celestial-dome/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Cloud Ceilings Are ReportedJun 21, 2025 — CHI is normally limited to 12,000 feet of altitude, which is why you&#x27;ll sometimes...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/](https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FacebookCaptured a stunning parallax effect from one aircraft to...Ever seen a plane that looks like it&#x27;s stuck in midair? While it may...</p></details>
+   Link: <a href="https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AVIO.KNOWLEDGE/posts/captured-a-stunning-parallax-effect-from-one-aircraft-to-another-in-flight-this-/1526781522821665/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Captured a stunning parallax effect from one aircraft to...Ever seen a plane that looks like it&#x27;s stuck in midair? While it may...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: met.nps.edu  
    Title: How to decode METAR and TAF reports  
-   Link: [https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html](https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NPS - Meteorology...</p></details>
+   Link: <a href="https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html" target="_blank" rel="noopener noreferrer nofollow">https://met.nps.edu/~bcreasey/mr3222/files/helpful/DecodeMETAR-TAF.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorology...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-has-been-observed-emitting-a-strange-intense-glow-while-suspended/937617425924346/](https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-has-been-observed-emitting-a-strange-intense-glow-while-suspended/937617425924346/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-has-been-observed-emitting-a-strange-intense-glow-while-suspended/937617425924346/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/mysterious-ufo-has-been-observed-emitting-a-strange-intense-glow-while-suspended/937617425924346/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>in mid-air, drawing immediate attention from those who...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/FoxNews/posts/strange-sighting-americans-are-left-bewildered-as-a-mysterious-light-shrouded-in/830721858917678/](https://www.facebook.com/FoxNews/posts/strange-sighting-americans-are-left-bewildered-as-a-mysterious-light-shrouded-in/830721858917678/)  
+   Link: <a href="https://www.facebook.com/FoxNews/posts/strange-sighting-americans-are-left-bewildered-as-a-mysterious-light-shrouded-in/830721858917678/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FoxNews/posts/strange-sighting-americans-are-left-bewildered-as-a-mysterious-light-shrouded-in/830721858917678/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>STRANGE SIGHTING: Americans are left bewildered as a...Rational question: what would airplane landing lights look like if they were shro...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ancientwhispers/posts/residents-in-vancouver-reportedly-captured-clear-night-footage-of-an-unidentifie/950726831280072/](https://www.facebook.com/ancientwhispers/posts/residents-in-vancouver-reportedly-captured-clear-night-footage-of-an-unidentifie/950726831280072/)  
+   Link: <a href="https://www.facebook.com/ancientwhispers/posts/residents-in-vancouver-reportedly-captured-clear-night-footage-of-an-unidentifie/950726831280072/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ancientwhispers/posts/residents-in-vancouver-reportedly-captured-clear-night-footage-of-an-unidentifie/950726831280072/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ring of light, creating an eerie halo in the low-hanging mist.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Ceiling (cloud)  
-   Link: [https://en.wikipedia.org/wiki/Ceiling_%28cloud%29](https://en.wikipedia.org/wiki/Ceiling_%28cloud%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Ceiling_%28cloud%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ceiling_%28cloud%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ceiling (cloud)In aviation, ceiling is a measurement of the height of the base of the lowest clouds that cover more than half of the s...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Glory (optical phenomenon)  
-   Link: [https://en.wikipedia.org/wiki/Glory_%28optical_phenomenon%29](https://en.wikipedia.org/wiki/Glory_%28optical_phenomenon%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Glory_%28optical_phenomenon%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Glory_%28optical_phenomenon%29</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Glory (optical phenomenon)A glory is an optical phenomenon, resembling an iconic saint&#x27;s halo around the shadow of the observer&#x27;s head...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: aviationweather.gov  
    Title: Aviation Weather Center METAR and TAF Data Raw and decoded airport observations  
-   Link: [https://aviationweather.gov/data/metar/](https://aviationweather.gov/data/metar/)  
+   Link: <a href="https://aviationweather.gov/data/metar/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/data/metar/</a>  
 
 13. <a id="endnote-13"></a>
    Source: tarmacview.com  
    Title: cloud base  
-   Link: [https://www.tarmacview.com/glossary/cloud-base/](https://www.tarmacview.com/glossary/cloud-base/)  
+   Link: <a href="https://www.tarmacview.com/glossary/cloud-base/" target="_blank" rel="noopener noreferrer nofollow">https://www.tarmacview.com/glossary/cloud-base/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Tarmac ViewCloud Base | Airport Lights Inspection18 Nov 2025 — Most airports use automated laser ceilometers to measure cloud base. These...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: eoas.ubc.ca  
    Title: Earth, Ocean, and Atmosphere Sciences UBC ATSC 113  
-   Link: [https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01c-cloud_coverage/index.html](https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01c-cloud_coverage/index.html)  
+   Link: <a href="https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01c-cloud_coverage/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.eoas.ubc.ca/courses/atsc113/flying/met_concepts/01-met_concepts/01c-cloud_coverage/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Earth, Ocean, and Atmosphere SciencesUBC ATSC 113 - Cloud CoverageWhile vertically pointing ceilometers can give accurate cloud base dire...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: aviationweather.gov  
-   Link: [https://aviationweather.gov/gfa/?tab=cigvis](https://aviationweather.gov/gfa/?tab=cigvis)  
+   Link: <a href="https://aviationweather.gov/gfa/?tab=cigvis" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/gfa/?tab=cigvis</a>  
 
 16. <a id="endnote-16"></a>
    Source: aviationweather.gov  
-   Link: [https://aviationweather.gov/help/data/](https://aviationweather.gov/help/data/)  
+   Link: <a href="https://aviationweather.gov/help/data/" target="_blank" rel="noopener noreferrer nofollow">https://aviationweather.gov/help/data/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>AWC Product InfoMETAR contains a report of wind, visibility, runway visual range, present weather, sky condition, temperature, dew point...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: ansperformance.eu  
    Title: META R  
-   Link: [https://ansperformance.eu/acronym/metar/](https://ansperformance.eu/acronym/metar/)  
+   Link: <a href="https://ansperformance.eu/acronym/metar/" target="_blank" rel="noopener noreferrer nofollow">https://ansperformance.eu/acronym/metar/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>METAR - METeorological Aerodrome or Aeronautical ReportMETAR is a format for reporting weather information typically from airports or per...</p></details>
 
 ### Additional References
 
 18. <a id="endnote-18"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html](https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html)  
+   Link: <a href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap7_section_1.html</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/17es3fl/are_cloud_layers_reported_cumulatively/](https://www.reddit.com/r/flying/comments/17es3fl/are_cloud_layers_reported_cumulatively/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/17es3fl/are_cloud_layers_reported_cumulatively/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/17es3fl/are_cloud_layers_reported_cumulatively/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Are cloud layers reported cumulatively?: r/flyingThis might be completely wrong, but I recall reading on an r/ATC thread something about...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: wiki.ivao.aero  
-   Link: [https://wiki.ivao.aero/en/home/training/documentation/metar_explanation](https://wiki.ivao.aero/en/home/training/documentation/metar_explanation)  
+   Link: <a href="https://wiki.ivao.aero/en/home/training/documentation/metar_explanation" target="_blank" rel="noopener noreferrer nofollow">https://wiki.ivao.aero/en/home/training/documentation/metar_explanation</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>IVAO Documentation LibraryMETAR explanation | IVAO Documentation LibraryMETAR is local routine and special reports in abbreviated plain l...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Glitch_in_the_Matrix/comments/18y1vbz/just_saw_a_plane_disappear/](https://www.reddit.com/r/Glitch_in_the_Matrix/comments/18y1vbz/just_saw_a_plane_disappear/)  
+   Link: <a href="https://www.reddit.com/r/Glitch_in_the_Matrix/comments/18y1vbz/just_saw_a_plane_disappear/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Glitch_in_the_Matrix/comments/18y1vbz/just_saw_a_plane_disappear/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Just saw a plane disappear.: r/Glitch_in_the_MatrixPretty simple, the pilots turned off those respective lights. Airlines usually have d...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/flying/comments/12or8o3/vfr_metar_ceilings/](https://www.reddit.com/r/flying/comments/12or8o3/vfr_metar_ceilings/)  
+   Link: <a href="https://www.reddit.com/r/flying/comments/12or8o3/vfr_metar_ceilings/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/flying/comments/12or8o3/vfr_metar_ceilings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>VFR METAR Ceilings: r/flyingUnderstanding VFR METAR ceilings in aviation. Is scattered a ceiling in aviation? Is broken clouds a ceiling...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=g5wBWOTrloA](https://www.youtube.com/watch?v=g5wBWOTrloA)  
+   Link: <a href="https://www.youtube.com/watch?v=g5wBWOTrloA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=g5wBWOTrloA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Decode METARs and TAFsIn this video I go over examples of decoding aviation METARs and TAFs. Meteorological Aerodrome Reports (MET...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: aviation.stackexchange.com  
    Title: what ceiling does the faa consider to be controlling for far 91 155c  
-   Link: [https://aviation.stackexchange.com/questions/97732/what-ceiling-does-the-faa-consider-to-be-controlling-for-far-91-155c](https://aviation.stackexchange.com/questions/97732/what-ceiling-does-the-faa-consider-to-be-controlling-for-far-91-155c)  
+   Link: <a href="https://aviation.stackexchange.com/questions/97732/what-ceiling-does-the-faa-consider-to-be-controlling-for-far-91-155c" target="_blank" rel="noopener noreferrer nofollow">https://aviation.stackexchange.com/questions/97732/what-ceiling-does-the-faa-consider-to-be-controlling-for-far-91-155c</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ceiling does the FAA consider to be controlling for...Feb 21, 2023 — The FAA states that a Ceiling &quot;means the height above the earth&#x27;s s...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: metar-taf.com  
    Title: META R and TAF decoder for all 71,124 airports What is a METAR?  
-   Link: [https://metar-taf.com/](https://metar-taf.com/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A METAR (METeorological Aerodrome Report) is an [observation](&amp;#123;&amp;#123; &#x27;observation-vs-claim/&#x27; | relative_url &amp;#125;&amp;#125;) and provides information about the current weather. A TAF (Terminal Area Fore...</p></details>
+   Link: <a href="https://metar-taf.com/" target="_blank" rel="noopener noreferrer nofollow">https://metar-taf.com/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A METAR (METeorological Aerodrome Report) is an observation and provides information about the current weather. A TAF (Terminal Area Fore...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: universalweather.com  
    Title: aviation weather tips all you need to know about ceilings  
-   Link: [https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/](https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/)  
+   Link: <a href="https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/" target="_blank" rel="noopener noreferrer nofollow">https://www.universalweather.com/blog/aviation-weather-tips-all-you-need-to-know-about-ceilings/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Ceiling Conditions and Flight Impacts29 Jul 2025 — Ceiling conditions—referring to the height of a cloud base above the gro...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DPEKxPHjHRe/](https://www.instagram.com/reel/DPEKxPHjHRe/)  
+   Link: <a href="https://www.instagram.com/reel/DPEKxPHjHRe/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DPEKxPHjHRe/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>s broken zero to zero, that would mean the ceiling is at 2000 feet...</p></details>

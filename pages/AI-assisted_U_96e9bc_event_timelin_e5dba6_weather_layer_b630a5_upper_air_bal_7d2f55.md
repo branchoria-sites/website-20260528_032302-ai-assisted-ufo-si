@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /weather-layers/
 nav_short_title: Balloon Winds
 title: Why Balloons Can Drift Against The Surface Wind
-title_full: Why Balloons Can Drift Against The Surface Wind | Weather layers
+title_full: Why Balloons Can Drift Against The Surface Wind
 display_title_short: Balloon Winds
 display_title: Balloon Winds
 heading_title: Why Balloons Can Drift Against The Surface Wind
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How weather can reshape a sighting | Timeline
+parent_title: How weather can reshape a sighting
 parent_permalink: /weather-layers/
 parent_nav_short_title: Weather layers
 parent_heading_title: How weather can reshape a sighting
@@ -260,7 +260,7 @@ next_link:
   permalink: /haze-effects/
   short_title: Haze Effects
   heading_title: How Haze Turns Ordinary Lights Into Strange UFOs
-date: '2026-06-08 23:59:55 '
+date: '2026-06-10 20:28:05 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1.webp
@@ -273,7 +273,7 @@ A common problem in UFO investigations is that witnesses compare an object's mov
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Winds illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Wind direction and speed can vary dramatically with altitude. A balloon at 20,000 feet may travel in a different direction from the wind at 2,000 feet, while a higher layer may reverse direction again. [Weather]({{ 'weather/' | relative_url }}) balloons, research balloons, advertising balloons, drifting radar reflectors, and even some lightweight debris can therefore appear to move intelligently, pause, turn, or travel “against the wind” when viewed from the ground. In AI-assisted UFO sighting investigation, reconstructing those layered wind conditions is one of the fastest ways to test whether a reported object behaved like a free-floating balloon rather than a powered craft. Radiosonde records, trajectory models, and witness timelines together can turn a vague visual account into a measurable [atmospheric]({{ 'scintillation/' | relative_url }}) reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">NOAARadiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde flight can last in excess of two hours, and during th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Radiosonde ObservationIn that time, the radiosonde can ascend to an altitude exceeding 35 km (about 115,000 feet) and drift more than 300...</span></span></span>
+Wind direction and speed can vary dramatically with altitude. A balloon at 20,000 feet may travel in a different direction from the wind at 2,000 feet, while a higher layer may reverse direction again. [Weather]({{ 'weather/' | relative_url }}) balloons, research balloons, advertising balloons, drifting radar reflectors, and even some lightweight debris can therefore appear to move intelligently, pause, turn, or travel “against the wind” when viewed from the ground. In AI-assisted UFO sighting investigation, reconstructing those layered wind conditions is one of the fastest ways to test whether a reported object behaved like a free-floating balloon rather than a powered craft. Radiosonde records, trajectory models, and witness timelines together can turn a vague visual account into a measurable atmospheric reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Radiosondes &#124; National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde flight can last in excess of two hours, and during th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Radiosonde ObservationIn that time, the radiosonde can ascend to an altitude exceeding 35 km (about 115,000 feet) and drift more than 300...</span></span></span>
 
 ## How Wind Layers Change With Altitude
 
@@ -317,7 +317,7 @@ Many UFO reports describe objects that hover unnaturally or remain fixed for lon
 
 A distant balloon moving directly toward or away from the observer may show very little sideways motion. If the witness lacks depth references, the object can appear completely stationary even while travelling quickly with the wind.
 
-This becomes especially misleading near sunset or sunrise. Sunlit balloons at high altitude can remain brightly illuminated long after the ground is dark, making them stand out against a darker sky. A [reflective]({{ 'foil-flashes/' | relative_url }}) balloon drifting slowly in upper-level winds can therefore appear as:
+This becomes especially misleading near sunset or sunrise. Sunlit balloons at high altitude can remain brightly illuminated long after the ground is dark, making them stand out against a darker sky. A reflective balloon drifting slowly in upper-level winds can therefore appear as:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -375,16 +375,11 @@ The practical value of upper-air wind analysis appears when investigators align 
 
 A structured reconstruction usually starts with:
 
-1. Exact or approximate [sighting time]({{ 'timeline-e3b338/' | relative_url }})
-
-<div class="content-enhancement content-enhancement--step-flow" markdown="1">
-
+1. Exact or approximate sighting time
 2. Witness location
 3. Viewing direction
-4. Estimated elevation angle
+4. Estimated [elevation]({{ 'elevation/' | relative_url }}) angle
 5. Reported motion and duration
-
-</div>
 
 From there, AI-assisted workflows can retrieve upper-air observations from nearby radiosonde stations or historical archives such as NOAA's Integrated Global Radiosonde Archive (IGRA). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">bservations from more than 2800 globally distributed stations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/access/[metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NCEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">Global Radiosonde Archive (IGRA), Version 2December 1, 2025 — IGRA Version 2 consists of quality-controlled radiosonde observations of te...</span><span class="citation-popover-meta">Published: December 1, 2025</span></span></span>
 
@@ -396,10 +391,15 @@ The next step is to compare the reported motion with real wind vectors at multip
 
 Suppose witnesses report:
 
+
+<div class="content-enhancement content-enhancement--example" markdown="1">
+
 * A bright object over south-east England
 * Slowly drifting north-east
 * Remaining nearly stationary for ten minutes
 * Then accelerating eastward
+
+</div>
 
 An automated workflow may reveal:
 
@@ -448,7 +448,7 @@ Because most people experience weather only at the surface, they intuitively ass
 * “The object moved against the wind”
 * “No [aircraft]({{ 'aircraft/' | relative_url }}) could hover in those conditions”
 
-Upper-air datasets frequently show those conclusions were based on incomplete atmospheric information rather than anomalous flight behaviour.
+Upper-air datasets frequently show those conclusions were based on [incomplete]({{ 'incomplete-data/' | relative_url }}) atmospheric information rather than anomalous flight behaviour.
 
 Weather balloons themselves demonstrate this directly. NOAA notes that radiosondes routinely drift long distances during ascent because winds vary substantially throughout the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/access/[metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">Global Radiosonde Archive (IGRA), Version 2December 1, 2025 — IGRA Version 2 consists of quality-controlled radiosonde observations of te...</span><span class="citation-popover-meta">Published: December 1, 2025</span></span></span>
 
@@ -459,7 +459,7 @@ Weather balloons themselves demonstrate this directly. NOAA notes that radiosond
 
 Upper-air analysis is a screening tool, not a universal debunking mechanism. Some reports remain difficult to explain even after atmospheric reconstruction.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://rainbowryders.com/about/blog/hot-air-balloon-wind-speed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rainbowryders.com">[Balloon explanations weaken when:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rainbowryders.com</span><span class="citation-popover-title">hot air balloon wind speed</span><span class="citation-popover-snippet">Limits Explained15 Dec 2025 — There is no strict hot air balloon max wind speed, but pilots often consider canceling when winds are forec...</span></span></span>
+Balloon explanations weaken when: <span class="citation-chip-wrap"><a class="citation-chip" href="https://rainbowryders.com/about/blog/hot-air-balloon-wind-speed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rainbowryders.com">[rainbowryders.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rainbowryders.com</span><span class="citation-popover-title">hot air balloon wind speed</span><span class="citation-popover-snippet">Limits Explained15 Dec 2025 — There is no strict hot air balloon max wind speed, but pilots often consider canceling when winds are forec...</span></span></span>
 
 * Motion repeatedly contradicts measured wind fields
 * The object shows sustained powered acceleration
@@ -505,16 +505,16 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By John D. Cox</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Strong fit for explaining wind layers and balloon drift.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -522,16 +522,16 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Weather Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=44CaAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Weather Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Alan Watts</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for interpreting upper-air wind, visibility and local conditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Weather+Handbook+by+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -539,16 +539,16 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Cloudspotter&#x27;s Guide on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gbDYPEiB0T0C&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Cloudspotter&#x27;s Guide" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Gavin Pretor-Pinney</p>
         
-        
+        <p class="fr-book-desc">Keeps weather-layer discussion accessible to general readers.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+by+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -556,16 +556,16 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        
+        <p class="fr-book-desc">Relevant to testing balloon hypotheses against layered data.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -573,13 +573,13 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Weather+For+Dummies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Weather For Dummies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Weather+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Weather books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Cloudspotter%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Cloudspotter&#x27;s books</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -606,76 +606,72 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=wind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-wind-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind poster -book -books -dvd" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-wind-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open wind poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20wind%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWind%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWind%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for wind poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">wind poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Wind</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=wind+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-wind-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind poster -book -books -dvd" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-wind-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth"><img src="{{ '/assets/images/marketplace-covers/d1abe71f068041760747.jpg' | relative_url }}" alt="Listing image for Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell 1947 UFO Alien patch embroidered sew on iron on patches/badges for cloth</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=wind+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-wind-memorabilia-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind memorabilia -book -books -dvd" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-wind-memorabilia-book-b" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open wind memorabilia on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20wind%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EWind%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EWind%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for wind memorabilia on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">wind memorabilia</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Wind</span><span class="fr-search-tag">Memorabilia</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=wind+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-wind-memorabilia-book-b&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="wind memorabilia -book -books -dvd" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-wind-memorabilia-book-b" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=balloon-winds-why-balloons-can-drift-against-the-surface-wind-ai-assisted-ufo-sighting-investiga-ufo-poster-series-telev&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -733,10 +729,10 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -754,7 +750,7 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -889,210 +885,210 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
 
 1. <a id="endnote-1"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/upperair/radiosondes](https://www.noaa.gov/jetstream/upperair/radiosondes)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAARadiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde flight can last in excess of two hours, and during th...</p></details>
+   Link: <a href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/upperair/radiosondes</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosondes | National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde flight can last in excess of two hours, and during th...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/upperair/factsheet](https://www.weather.gov/upperair/factsheet)  
+   Link: <a href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/upperair/factsheet</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde ObservationIn that time, the radiosonde can ascend to an altitude exceeding 35 km (about 115,000 feet) and drift more than 300...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/epz/upperair](https://www.weather.gov/epz/upperair)  
+   Link: <a href="https://www.weather.gov/epz/upperair" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/epz/upperair</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upper Air10 Dec 2024 — The observation system consists of an instrument (radiosonde), and a gas-filled balloon. This radiosonde contains...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/rah/virtualtourballoon](https://www.weather.gov/rah/virtualtourballoon)  
+   Link: <a href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/rah/virtualtourballoon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>onde can ascend to over 115,000 feet (35,000 meters) and drift more than...Read more...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Hot_air_balloon](https://en.wikipedia.org/wiki/Hot_air_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Hot_air_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Hot_air_balloon</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hot air balloon... balloons is not possible; it is possible for pilots to try to achieve basic directional control by changing altitud...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: ncei.noaa.gov  
-   Link: [https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive](https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive)  
+   Link: <a href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>bservations from more than 2800 globally distributed stations...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: ncei.noaa.gov  
-   Link: [https://www.ncei.noaa.gov/access/[metadata](https://www.ncei.noaa.gov/access/[metadata)  
+   Link: <a href="https://www.ncei.noaa.gov/access/[metadata" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/access/[metadata</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Radiosonde Archive (IGRA), Version 2December 1, 2025 — IGRA Version 2 consists of quality-controlled radiosonde observations of te...</p></details>
    Published: December 1, 2025  
 
 8. <a id="endnote-8"></a>
    Source: arl.noaa.gov  
    Title: Air Resources Laboratory HYSPLIT  
-   Link: [https://www.arl.noaa.gov/hysplit/](https://www.arl.noaa.gov/hysplit/)  
+   Link: <a href="https://www.arl.noaa.gov/hysplit/" target="_blank" rel="noopener noreferrer nofollow">https://www.arl.noaa.gov/hysplit/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Resources LaboratoryHYSPLIT - Air Resources LaboratoryHYSPLIT is a complete system for computing simple air parcel trajectories, as w...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Weather balloon  
-   Link: [https://en.wikipedia.org/wiki/Weather_balloon](https://en.wikipedia.org/wiki/Weather_balloon)  
+   Link: <a href="https://en.wikipedia.org/wiki/Weather_balloon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Weather_balloon</a>  
 
 10. <a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: [https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/](https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/)  
+   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons and...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aoml.noaa.gov  
    Title: upper air observations  
-   Link: [https://www.aoml.noaa.gov/upper-air-observations/](https://www.aoml.noaa.gov/upper-air-observations/)  
+   Link: <a href="https://www.aoml.noaa.gov/upper-air-observations/" target="_blank" rel="noopener noreferrer nofollow">https://www.aoml.noaa.gov/upper-air-observations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Observations: How Weather Balloons Improve...1 Sept 2017 — Weather balloons, also known as radiosondes, provide detailed and reliabl...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: ncei.noaa.gov  
    Title: weather balloon  
-   Link: [https://www.ncei.noaa.gov/products/weather-balloon](https://www.ncei.noaa.gov/products/weather-balloon)  
+   Link: <a href="https://www.ncei.noaa.gov/products/weather-balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.ncei.noaa.gov/products/weather-balloon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>BalloonThese data are obtained from radiosondes, which are instrument packages tethered to balloons that are launched from the ground, as...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 69351 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/69351/noaa_69351_DS1.pdf](https://repository.library.noaa.gov/view/noaa/69351/noaa_69351_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/69351/noaa_69351_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/69351/noaa_69351_DS1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pico Balloon Archiveby T McKinney · 2024 — In this study, we validate the PBA&#x27;s wind speed and di- rection calculations against the Integ...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: repository.library.noaa.gov  
    Title: noaa 56640 DS1  
-   Link: [https://repository.library.noaa.gov/view/noaa/56640/noaa_56640_DS1.pdf](https://repository.library.noaa.gov/view/noaa/56640/noaa_56640_DS1.pdf)  
+   Link: <a href="https://repository.library.noaa.gov/view/noaa/56640/noaa_56640_DS1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://repository.library.noaa.gov/view/noaa/56640/noaa_56640_DS1.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiosonde data are assimilated into meteorological models to improve weather...Read...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: wpo.noaa.gov  
    Title: windborne weather balloon reaches new heights  
-   Link: [https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/](https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/)  
+   Link: <a href="https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/" target="_blank" rel="noopener noreferrer nofollow">https://wpo.noaa.gov/windborne-weather-balloon-reaches-new-heights/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloon Reaches New Heights...NOAA NWS Weather Forecast Offices use radiosondes to collect profiles of temperature, pressure, an...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Radiosonde](https://en.wikipedia.org/wiki/Radiosonde)  
+   Link: <a href="https://en.wikipedia.org/wiki/Radiosonde" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Radiosonde</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>RadiosondeA radiosonde is a battery-powered telemetry instrument carried into the atmosphere usually by a weather balloon that measure...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: Wikipedia  
    Title: List of reported UFO sightings  
-   Link: [https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings](https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings)  
+   Link: <a href="https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/List_of_reported_UFO_sightings</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>List of reported UFO sightingsThis is a list of notable reported sightings of unidentified flying objects (UFOs) some of which include...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/gjt/education_corner_balloon](https://www.weather.gov/gjt/education_corner_balloon)  
+   Link: <a href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/gjt/education_corner_balloon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Education Corner weather balloonThe weather balloon remains the best platform for observing temperature, wind, relative humidity, and pre...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: community.wmo.int  
-   Link: [https://community.wmo.int/observation-components-of-global-observing-system](https://community.wmo.int/observation-components-of-global-observing-system)  
+   Link: <a href="https://community.wmo.int/observation-components-of-global-observing-system" target="_blank" rel="noopener noreferrer nofollow">https://community.wmo.int/observation-components-of-global-observing-system</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>World Meteorological OrganizationObservation components of the Global Observing SystemFrom a global network of about 1,300 upper-air stat...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: seattleballooning.com  
    Title: Seattle Ballooning How Do You Steer A Hot Air Balloon?  
-   Link: [https://seattleballooning.com/how-do-you-steer-a-hot-air-balloon-2/](https://seattleballooning.com/how-do-you-steer-a-hot-air-balloon-2/)  
+   Link: <a href="https://seattleballooning.com/how-do-you-steer-a-hot-air-balloon-2/" target="_blank" rel="noopener noreferrer nofollow">https://seattleballooning.com/how-do-you-steer-a-hot-air-balloon-2/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Navigation Secrets29 Dec 2025 — Hot air balloons are not directly steerable aircraft. FAA guidance classifies them as free floating aircr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: rainbowryders.com  
    Title: how pilots steer hot air balloon  
-   Link: [https://rainbowryders.com/about/blog/how-pilots-steer-hot-air-balloon/](https://rainbowryders.com/about/blog/how-pilots-steer-hot-air-balloon/)  
+   Link: <a href="https://rainbowryders.com/about/blog/how-pilots-steer-hot-air-balloon/" target="_blank" rel="noopener noreferrer nofollow">https://rainbowryders.com/about/blog/how-pilots-steer-hot-air-balloon/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Do Pilots Steer a Hot Air Balloon? A Simple Breakdown27 Oct 2025 — Discover how hot air balloon pilots steer, using wind currents and...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: weatherzone.com.au  
    Title: understanding hot air balloon navigation  
-   Link: [https://www.weatherzone.com.au/news/understanding-hot-air-balloon-navigation/1889914](https://www.weatherzone.com.au/news/understanding-hot-air-balloon-navigation/1889914)  
+   Link: <a href="https://www.weatherzone.com.au/news/understanding-hot-air-balloon-navigation/1889914" target="_blank" rel="noopener noreferrer nofollow">https://www.weatherzone.com.au/news/understanding-hot-air-balloon-navigation/1889914</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>21 Sept 2024 — Balloon pilots navigate through changes in elevation, utilising varying wind directions and speeds at different altitudes...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: climatedataguide.ucar.edu  
    Title: Climate Data Guide Integrated Global Radiosonde Archive (IGRA)  
-   Link: [https://climatedataguide.ucar.edu/climate-data/integrated-global-radiosonde-archive-igra](https://climatedataguide.ucar.edu/climate-data/integrated-global-radiosonde-archive-igra)  
+   Link: <a href="https://climatedataguide.ucar.edu/climate-data/integrated-global-radiosonde-archive-igra" target="_blank" rel="noopener noreferrer nofollow">https://climatedataguide.ucar.edu/climate-data/integrated-global-radiosonde-archive-igra</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Global Radiosonde Archive (IGRA) - Climate Data GuideDecember 11, 2025 — The largest publicly available collection of quality-controlled...</p></details>
    Published: December 11, 2025  
 
 24. <a id="endnote-24"></a>
    Source: faa.gov  
-   Link: [https://www.faa.gov/](https://www.faa.gov/)  
+   Link: <a href="https://www.faa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/</a>  
 
 25. <a id="endnote-25"></a>
    Source: faa.gov  
    Title: Balloon Flying Handbook  
-   Link: [https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/Balloon_Flying_Handbook](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/Balloon_Flying_Handbook)  
+   Link: <a href="https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/Balloon_Flying_Handbook" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/Balloon_Flying_Handbook</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(FAA-H-8083-11B)23 Dec 2024 — Balloon Flying Handbook (FAA-H-8083-11B) Last updated: Monday, December 23, 2024 US Department of Transport...</p></details>
    Published: December 23, 2024  
 
 26. <a id="endnote-26"></a>
    Source: faa.gov  
    Title: ac91 71  
-   Link: [https://www.faa.gov/documentLibrary/media/Advisory_Circular/ac91-71.pdf](https://www.faa.gov/documentLibrary/media/Advisory_Circular/ac91-71.pdf)  
+   Link: <a href="https://www.faa.gov/documentLibrary/media/Advisory_Circular/ac91-71.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/documentLibrary/media/Advisory_Circular/ac91-71.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OPERATION OF HOT AIR BALLOONSA small, helium-filled balloon launched before a flight to determine wind direction and velocity and identif...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: rainbowryders.com  
-   Title: hot air [balloon wind](&#123;&#123; 'wind-drift/' | relative_url &#125;&#125;) speed  
-   Link: [https://rainbowryders.com/about/blog/hot-air-balloon-wind-speed/](https://rainbowryders.com/about/blog/hot-air-balloon-wind-speed/)  
+   Title: hot air balloon wind speed  
+   Link: <a href="https://rainbowryders.com/about/blog/hot-air-balloon-wind-speed/" target="_blank" rel="noopener noreferrer nofollow">https://rainbowryders.com/about/blog/hot-air-balloon-wind-speed/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Limits Explained15 Dec 2025 — There is no strict hot air balloon max wind speed, but pilots often consider canceling when winds are forec...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes](https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes)  
+   Link: <a href="https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/earth-and-planetary-sciences/radiosondes</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>an overview | ScienceDirect TopicsVertical profiles of wind speed and direction are typically inferred from weather balloon drift, using...</p></details>
 
 ### Additional References
 
 29. <a id="endnote-29"></a>
    Source: hurricanescience.org  
-   Link: [https://hurricanescience.org/science/observation/landbased/radiosonde/index.html](https://hurricanescience.org/science/observation/landbased/radiosonde/index.html)  
+   Link: <a href="https://hurricanescience.org/science/observation/landbased/radiosonde/index.html" target="_blank" rel="noopener noreferrer nofollow">https://hurricanescience.org/science/observation/landbased/radiosonde/index.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-Air Observations: The RadiosondeData on wind speed and direction aloft are also obtained by tracking the position of the radiosonde...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: hotairforhope.com  
-   Link: [https://www.hotairforhope.com/about-ballooning](https://www.hotairforhope.com/about-ballooning)  
+   Link: <a href="https://www.hotairforhope.com/about-ballooning" target="_blank" rel="noopener noreferrer nofollow">https://www.hotairforhope.com/about-ballooning</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>About BallooningHowever, balloon pilots can control the up and down of the balloon by using their burners and vents to find wind layers a...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: bufora.org.uk  
-   Link: [https://www.bufora.org.uk/guide-to-ufos](https://www.bufora.org.uk/guide-to-ufos)  
+   Link: <a href="https://www.bufora.org.uk/guide-to-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.bufora.org.uk/guide-to-ufos</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GUIDE TO UFOS | BUFORAWeather balloons are responsible for many daylight &quot;UFO&quot; observations. The majority of spurious reports are generat...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/](https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/)  
+   Link: <a href="https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/askscience/comments/10zoxa0/how_is_the_spy_balloon_steerable/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How is the spy balloon steerable?: r/askscienceBalloons are “steerable” by changing altitude to find winds in a different direction. Alt...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=pcLkkoR2LS4](https://www.youtube.com/watch?v=pcLkkoR2LS4)  
+   Link: <a href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pcLkkoR2LS4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Weather Balloons and RadiosondesLearn about how weather balloons are used to study upper-levels of the atmosphere and how the data are co...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: epa.gov  
-   Link: [https://www.epa.gov/scram/air-quality-modeling-surface-and-upper-air-databases](https://www.epa.gov/scram/air-quality-modeling-surface-and-upper-air-databases)  
+   Link: <a href="https://www.epa.gov/scram/air-quality-modeling-surface-and-upper-air-databases" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/scram/air-quality-modeling-surface-and-upper-air-databases</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Quality Modeling - Surface and Upper Air Databases27 Feb 2026 — This site provides two types of meteorological data: (1) surface data...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: snohomishballoonride.com  
-   Link: [https://snohomishballoonride.com/the-science-of-hot-air-ballooning/](https://snohomishballoonride.com/the-science-of-hot-air-ballooning/)  
+   Link: <a href="https://snohomishballoonride.com/the-science-of-hot-air-ballooning/" target="_blank" rel="noopener noreferrer nofollow">https://snohomishballoonride.com/the-science-of-hot-air-ballooning/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Instead, pilots utilize varying wind directions at different altitudes. By ascending...Read more...</p></details>
 
 36. <a id="endnote-36"></a>
    Source: aol.com  
-   Link: [https://www.aol.com/unidentified-flying-objects-were-weather-215727461.html](https://www.aol.com/unidentified-flying-objects-were-weather-215727461.html)  
+   Link: <a href="https://www.aol.com/unidentified-flying-objects-were-weather-215727461.html" target="_blank" rel="noopener noreferrer nofollow">https://www.aol.com/unidentified-flying-objects-were-weather-215727461.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>They didn&#x27;t come from the National Weather Service, and it&#x27;s unlikely they were science balloons...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: docdb.cept.org  
-   Link: [https://docdb.cept.org/download/2081](https://docdb.cept.org/download/2081)  
+   Link: <a href="https://docdb.cept.org/download/2081" target="_blank" rel="noopener noreferrer nofollow">https://docdb.cept.org/download/2081</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The radiosonde will be often carried more than 100 km from the launch site before...Read more...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: spacesafetymagazine.com  
    Title: This explanation was later supported by the National Weather  
-   Link: [https://www.spacesafetymagazine.com/space-exploration/extraterrestrial-life/ufo-weather-balloon-californian-mystery-solved/](https://www.spacesafetymagazine.com/space-exploration/extraterrestrial-life/ufo-weather-balloon-californian-mystery-solved/)  
+   Link: <a href="https://www.spacesafetymagazine.com/space-exploration/extraterrestrial-life/ufo-weather-balloon-californian-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesafetymagazine.com/space-exploration/extraterrestrial-life/ufo-weather-balloon-californian-mystery-solved/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO versus a Weather Balloon: Recent Californian Mystery Solved –January 11, 2013 — The mysterious space explosion was probably nothing m...</p></details>
    Published: January 11, 2013  

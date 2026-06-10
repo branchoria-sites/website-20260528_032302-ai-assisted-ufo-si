@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /sky-maps/
 nav_short_title: Time Errors
 title: Could A One Hour Clock Error Change The Whole Case?
-title_full: Could A One Hour Clock Error Change The Whole Case? | Sky maps
+title_full: Could A One Hour Clock Error Change The Whole Case?
 display_title_short: Time Errors
 display_title: Time Errors
 heading_title: Could A One Hour Clock Error Change The Whole Case?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: How to make a UFO sky check repeatable | Astronomy
+parent_title: How to make a UFO sky check repeatable
 parent_permalink: /sky-maps/
 parent_nav_short_title: Sky maps
 parent_heading_title: How to make a UFO sky check repeatable
@@ -260,7 +260,7 @@ prev_link:
   permalink: /stellarium-logs/
   short_title: Stellarium Logs
   heading_title: Why UFO Sky Screenshots Are Not Enough
-date: '2026-06-08 23:13:54 '
+date: '2026-06-10 20:00:51 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1.webp
@@ -273,7 +273,7 @@ A one-hour clock error can completely change the outcome of a UFO sky reconstruc
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-dark.svg" | relative_url }}" alt="Time Errors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because UFO investigations increasingly rely on reproducible digital reconstructions using astronomy software, satellite databases and archived environmental data. If the time basis is wrong, the entire reconstruction becomes unstable. A witness may have reported local summer time while a database stores UTC. A camera may embed one standard while an investigator assumes another. Around daylight saving transitions, the same local clock reading can even occur twice in one night. In practice, some of the strongest-looking astronomy matches in UFO investigations fail because the time conversion chain was never audited properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
+This matters because UFO investigations increasingly rely on reproducible digital reconstructions using [astronomy]({{ 'astronomy/' | relative_url }}) software, satellite databases and archived environmental data. If the time basis is wrong, the entire reconstruction becomes unstable. A witness may have reported local summer time while a database stores UTC. A camera may embed one standard while an investigator assumes another. Around daylight saving transitions, the same local clock reading can even occur twice in one night. In practice, some of the strongest-looking astronomy matches in UFO investigations fail because the time conversion chain was never audited properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
 
 ## Why daylight saving errors are so common
 
@@ -313,18 +313,20 @@ This is especially dangerous during evening sightings shortly after sunset. Twil
 
 The same applies to:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * Moon position and apparent size near the horizon
 * Satellite passes
 * ISS visibility windows
 * Meteor shower radiant positions
 * Aircraft approach lighting
 * Star visibility during twilight
-* [Atmospheric]({{ 'scintillation/' | relative_url }}) reflection conditions
+* Atmospheric reflection conditions
+
+</div>
 
 Even sunrise and sunset calculations depend on correct daylight saving handling. NOAA’s solar calculator explicitly warns that daylight saving settings alter displayed solar times by one hour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gml.noaa.gov/grad/solcalc/sunrise.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gml.noaa.gov">[NOAA Global Monitoring Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gml.noaa.gov</span><span class="citation-popover-snippet">NOAA Global Monitoring LaboratoryNOAA Improved Sunrise/Sunset CalculationSelecting &quot;Yes&quot; in the Daylight Saving field will cause the resu...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WvXTUcYVXzI" title="Equatorial Coordinate System Explained: How Astronomers Navigate the Celestial Sphere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WvXTUcYVXzI" target="_blank" rel="noopener noreferrer">Equatorial Coordinate System Explained: How Astronomers Navigate the Celestial Sphere</a></p><p class="youtube-embed-meta">Channel: Launch Pad Astronomy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WvXTUcYVXzI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WvXTUcYVXzI">Open on YouTube</a></p></div></div></div>
 
 ## The duplicated-hour problem during autumn clock changes
 
@@ -421,24 +423,16 @@ A reproducible UFO workflow should therefore never overwrite the [original]({{ '
 
 This distinction becomes crucial when later investigators revisit a case years later using updated software or corrected timezone databases.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tzQC3uYL67U" title="General Relativity Explained simply &amp; visually" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tzQC3uYL67U" target="_blank" rel="noopener noreferrer">General Relativity Explained simply &amp; visually</a></p><p class="youtube-embed-meta">Channel: Arvin Ash</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tzQC3uYL67U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tzQC3uYL67U">Open on YouTube</a></p></div></div></div>
-
 ## Building uncertainty windows into sky maps
 
 A strong reconstruction does not pretend witness timing is exact when it is not.
 
 Many UFO reports contain rounded or estimated times:
 
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
-
 * “around ten”
 * “just after sunset”
 * “before the pub closed”
 * “a few minutes after I got home”
-
-</div>
 
 Instead of forcing a single exact timestamp, investigators can build uncertainty windows into the reconstruction.
 
@@ -492,9 +486,6 @@ Historical UFO identification studies repeatedly found that astronomical objects
 
 A careful investigator therefore treats time handling as evidence preservation, not administrative housekeeping.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U9nZnb29HGQ" title="🔥He summoned undead skeletons from the very beginning and evolved them into peerless goddesses!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U9nZnb29HGQ" target="_blank" rel="noopener noreferrer">🔥He summoned undead skeletons from the very beginning and evolved them into peerless goddesses!</a></p><p class="youtube-embed-meta">Channel: Blue Whale Comics Review</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U9nZnb29HGQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U9nZnb29HGQ">Open on YouTube</a></p></div></div></div>
-
 ## The practical standard for reproducible UFO sky maps
 
 A reproducible sky reconstruction should always preserve the full timing chain.
@@ -528,16 +519,16 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Covers observation planning and astronomical timing.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -545,16 +536,16 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Provides context for time-sensitive sky observations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -562,16 +553,16 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        
+        <p class="fr-book-desc">Useful for reconstructing sky conditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -579,16 +570,16 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Supports rigorous evidence review.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -596,13 +587,13 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -629,76 +620,72 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. Â£109.47! NEW UNOPENED"><img src="{{ '/assets/images/marketplace-covers/759a151e24a0a2615498.jpg' | relative_url }}" alt="Listing image for ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. Â£109.47! NEW UNOPENED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">ZEISS JENOPTIK! TOP QUALITY! ZOOM 8x-30x30. Â£109.47! NEW UNOPENED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open telescope accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20telescope%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ETelescope%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETelescope%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for telescope accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">telescope accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Telescope</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti"><img src="{{ '/assets/images/marketplace-covers/77ed29261fdf5164fc5b.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster 20x80 Binoculars 71018 Astronomy Long Range Observation Opti</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=could+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-could-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="could poster -book -books -dvd" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-could-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open could poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20could%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECould%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECould%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for could poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">could poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Could</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=could+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-could-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="could poster -book -books -dvd" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-could-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)"><img src="{{ '/assets/images/marketplace-covers/8de3efba5d662da79140.jpg' | relative_url }}" alt="Listing image for Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron 25 x 100 Skymaster Observation Astronomy Binoculars #71017 (UK Stock)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=could+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-could-memorabilia-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="could memorabilia -book -books -dvd" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-could-memorabilia-book" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open could memorabilia on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20could%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECould%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECould%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for could memorabilia on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">could memorabilia</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Could</span><span class="fr-search-tag">Memorabilia</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=could+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-could-memorabilia-book&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="could memorabilia -book -books -dvd" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-could-memorabilia-book" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New"><img src="{{ '/assets/images/marketplace-covers/dc9cf14405df7bf77e6d.jpg' | relative_url }}" alt="Listing image for Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">Celestron Skymaster Observation Astronomy Binoculars 15 x 70, 71009 - Brand New</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy binoculars">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy binoculars</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=one+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-one-poster-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="one poster -book -books -dvd" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-one-poster-book-books-d" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open one poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20one%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EOne%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOne%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for one poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">one poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">One</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=one+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-one-poster-book-books-d&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="one poster -book -books -dvd" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-one-poster-book-books-d" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+binoculars&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy binoculars" data-ebay-reference="time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-astronomy-binoculars" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=time-errors-could-a-one-hour-clock-error-change-the-whole-case-ai-assisted-ufo-sighting-investig-telescope-accessory&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -756,10 +743,10 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -777,7 +764,7 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -912,114 +899,114 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
 
 1. <a id="endnote-1"></a>
    Source: gml.noaa.gov  
-   Link: [https://gml.noaa.gov/grad/solcalc/sunrise.html](https://gml.noaa.gov/grad/solcalc/sunrise.html)  
+   Link: <a href="https://gml.noaa.gov/grad/solcalc/sunrise.html" target="_blank" rel="noopener noreferrer nofollow">https://gml.noaa.gov/grad/solcalc/sunrise.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Global Monitoring LaboratoryNOAA Improved Sunrise/Sunset CalculationSelecting &quot;Yes&quot; in the Daylight Saving field will cause the resu...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — If you&#x27;re an amateur astronomer, you are probably asked about aliens and UFOs quit...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Identification studies of UFOs  
-   Link: [https://en.wikipedia.org/wiki/Identification_studies_of_UFOs](https://en.wikipedia.org/wiki/Identification_studies_of_UFOs)  
+   Link: <a href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Identification_studies_of_UFOs</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Coordinated Universal Time  
-   Link: [https://en.wikipedia.org/wiki/Coordinated_Universal_Time](https://en.wikipedia.org/wiki/Coordinated_Universal_Time)  
+   Link: <a href="https://en.wikipedia.org/wiki/Coordinated_Universal_Time" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Coordinated_Universal_Time</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coordinated Universal TimeCoordinated Universal Time (UTC) is the primary time standard globally used to regulate clocks and time. It...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Read more  
-   Link: [https://en.wikipedia.org/wiki/Daylight_saving_time_in_the_United_States](https://en.wikipedia.org/wiki/Daylight_saving_time_in_the_United_States)  
+   Link: <a href="https://en.wikipedia.org/wiki/Daylight_saving_time_in_the_United_States" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Daylight_saving_time_in_the_United_States</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Daylight saving time in the United StatesIn the US, daylight saving time starts on the second Sunday in March and ends on the first Su...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: science.nasa.gov  
    Title: chapter2 3  
-   Link: [https://science.nasa.gov/learn/basics-of-space-flight/chapter2-3/](https://science.nasa.gov/learn/basics-of-space-flight/chapter2-3/)  
+   Link: <a href="https://science.nasa.gov/learn/basics-of-space-flight/chapter2-3/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/learn/basics-of-space-flight/chapter2-3/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>2: Reference Systems16 Jan 2025 — Local time is UT adjusted for location around the Earth in time zones. Its reference point is one&#x27;s imm...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/faq/UT](https://aa.usno.navy.mil/faq/UT)  
+   Link: <a href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/UT</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/faq/daylight_time](https://aa.usno.navy.mil/faq/daylight_time)  
+   Link: <a href="https://aa.usno.navy.mil/faq/daylight_time" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/daylight_time</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryDaylight Saving TimeOn the first Sunday in November, clocks are set back one hour at 2:00 a.m. local Daylight Saving...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/faq/us_tzones](https://aa.usno.navy.mil/faq/us_tzones)  
+   Link: <a href="https://aa.usno.navy.mil/faq/us_tzones" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/faq/us_tzones</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryU.S. Time ZonesU.S. Time Zones; Eastern daylight time (EDT), subtract 4 hours from UTC; Eastern standard time (EST)...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: timegov.nist.gov  
-   Link: [https://timegov.nist.gov/](https://timegov.nist.gov/)  
+   Link: <a href="https://timegov.nist.gov/" target="_blank" rel="noopener noreferrer nofollow">https://timegov.nist.gov/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(local time) on Sunday 03/08/2026. Set your clocks FORWARD one hour. Non-Contiguous U.S. and Territories.Read more...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/data/RS_OneYear](https://aa.usno.navy.mil/data/RS_OneYear)  
+   Link: <a href="https://aa.usno.navy.mil/data/RS_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneYear</a>  
 
 12. <a id="endnote-12"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/data/mrst](https://aa.usno.navy.mil/data/mrst)  
+   Link: <a href="https://aa.usno.navy.mil/data/mrst" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/mrst</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>US Naval ObservatoryRise/Set/Transit Times for Major Solar System Bodies and...This data service provides the times of rise, set, and tr...</p></details>
 
 ### Additional References
 
 13. <a id="endnote-13"></a>
    Source: [weather](&#123;&#123; 'weather/' | relative_url &#125;&#125;). gov  
-   Link: [https://www.weather.gov/box/sunmoon](https://www.weather.gov/box/sunmoon)  
+   Link: <a href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/box/sunmoon</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: observablehq.com  
-   Link: [https://observablehq.com/%40awoodruff/daylight-saving-time-gripe-assistant-tool](https://observablehq.com/%40awoodruff/daylight-saving-time-gripe-assistant-tool)  
+   Link: <a href="https://observablehq.com/%40awoodruff/daylight-saving-time-gripe-assistant-tool" target="_blank" rel="noopener noreferrer nofollow">https://observablehq.com/%40awoodruff/daylight-saving-time-gripe-assistant-tool</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Daylight Saving Time Gripe Assistant Tool / Andy WoodruffA handy tool to help make your case when whining about a biannual time change, f...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: ianridpath.com  
-   Link: [https://www.ianridpath.com/ufo/astroufo1.html](https://www.ianridpath.com/ufo/astroufo1.html)  
+   Link: <a href="https://www.ianridpath.com/ufo/astroufo1.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ianridpath.com/ufo/astroufo1.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Astronomical causes of UFOsWhat causes UFOs? Amateur astronomers know more about the causes of UFO sightings than most so-called UFO rese...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: skepticalinquirer.org  
-   Link: [https://skepticalinquirer.org/2018/11/ufo-identification-process/](https://skepticalinquirer.org/2018/11/ufo-identification-process/)  
+   Link: <a href="https://skepticalinquirer.org/2018/11/ufo-identification-process/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2018/11/ufo-identification-process/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Identification ProcessRadar-visuals represent the supposed matching of a radar return and a sighting of a UFO, but once again investi...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: timeanddate.com  
-   Link: [https://www.timeanddate.com/sun/%404140844](https://www.timeanddate.com/sun/%404140844)  
+   Link: <a href="https://www.timeanddate.com/sun/%404140844" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/sun/%404140844</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sunrise and sunset times in United States Navy MemorialToday is highlighted. Note that Daylight Saving Time starts on Sunday, March 8, 20...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: penningtonplanetarium.wordpress.com  
-   Link: [https://penningtonplanetarium.wordpress.com/2013/11/07/and-you-thought-daylight-savings-time-was-confusing-computer-time-for-international-space-ventures/](https://penningtonplanetarium.wordpress.com/2013/11/07/and-you-thought-daylight-savings-time-was-confusing-computer-time-for-international-space-ventures/)  
+   Link: <a href="https://penningtonplanetarium.wordpress.com/2013/11/07/and-you-thought-daylight-savings-time-was-confusing-computer-time-for-international-space-ventures/" target="_blank" rel="noopener noreferrer nofollow">https://penningtonplanetarium.wordpress.com/2013/11/07/and-you-thought-daylight-savings-time-was-confusing-computer-time-for-international-space-ventures/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You Thought Daylight Savings Time Was Confusing7 Nov 2013 — The addition or subtraction of leap seconds, as necessary, at two opportuniti...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/data/RS_OneDay](https://aa.usno.navy.mil/data/RS_OneDay)  
+   Link: <a href="https://aa.usno.navy.mil/data/RS_OneDay" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/RS_OneDay</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun and Moon Data for One DayThis data service provides rise, set, and transit times for the Sun and Moon, civil twilight beginning and e...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: aa.usno.navy.mil  
-   Link: [https://aa.usno.navy.mil/data/Dur_OneYear](https://aa.usno.navy.mil/data/Dur_OneYear)  
+   Link: <a href="https://aa.usno.navy.mil/data/Dur_OneYear" target="_blank" rel="noopener noreferrer nofollow">https://aa.usno.navy.mil/data/Dur_OneYear</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of Daylight/Darkness Table for One YearThis data services provides a method for obtaining a table of the duration of daylight or darkness...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DL8Qb0Xuo_3/](https://www.instagram.com/reel/DL8Qb0Xuo_3/)  
+   Link: <a href="https://www.instagram.com/reel/DL8Qb0Xuo_3/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DL8Qb0Xuo_3/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>On Wednesday, July 2, the International Astronomical Union&#x27;s...An interstellar object is traveling through our solar system...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/aliens/comments/1hsgkv6/a_100_stars_or_so_have_disappeared_from_the_night/](https://www.reddit.com/r/aliens/comments/1hsgkv6/a_100_stars_or_so_have_disappeared_from_the_night/)  
+   Link: <a href="https://www.reddit.com/r/aliens/comments/1hsgkv6/a_100_stars_or_so_have_disappeared_from_the_night/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1hsgkv6/a_100_stars_or_so_have_disappeared_from_the_night/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases video of a UFO resembling an eight-pointed star.Read more...</p></details>

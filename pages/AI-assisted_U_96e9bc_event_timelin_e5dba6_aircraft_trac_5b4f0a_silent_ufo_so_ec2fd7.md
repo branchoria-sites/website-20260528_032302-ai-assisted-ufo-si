@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /aircraft-tracks/
 nav_short_title: Sound Delays
 title: Why A Silent UFO May Still Be An Aircraft
-title_full: Why A Silent UFO May Still Be An Aircraft | Aircraft tracks
+title_full: Why A Silent UFO May Still Be An Aircraft
 display_title_short: Sound Delays
 display_title: Sound Delays
 heading_title: Why A Silent UFO May Still Be An Aircraft
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Was it a plane after all? | Timeline
+parent_title: Was it a plane after all?
 parent_permalink: /aircraft-tracks/
 parent_nav_short_title: Aircraft tracks
 parent_heading_title: Was it a plane after all?
@@ -260,7 +260,7 @@ prev_link:
   permalink: /missing-tracks/
   short_title: Missing Tracks
   heading_title: Can A Hidden Aircraft Fool A UFO Investigation?
-date: '2026-06-08 23:54:28 '
+date: '2026-06-10 20:24:43 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1.webp
@@ -269,13 +269,13 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b
 
 ## Introduction
 
-A “silent UFO” is often treated as stronger evidence that the object could not have been an [aircraft]({{ 'aircraft/' | relative_url }}). In practice, silence is one of the most misunderstood parts of night-time sighting reports. Light reaches an observer almost instantly, but sound travels comparatively slowly through the atmosphere. A distant aircraft can therefore be visible for many seconds before its engine noise arrives, and under some conditions the sound may be weak, delayed, redirected, or masked entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grc.nasa.gov/www/k-12/BGP/sound.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASASpeed of SoundThe speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.kontos.com">[KontoS For AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.kontos.com</span><span class="citation-popover-snippet">OF SOUND IN AIRAt sea level, at a temperature of 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second, or ab...</span></span></span>, this matters because witnesses frequently anchor their interpretation around a sentence like “there was no sound at all”. A structured timeline check can test whether an aircraft’s expected audio profile actually matches the report once distance, altitude, wind, terrain, and background noise are considered. In many cases, the delayed rumble of a jet arriving after the visual event is one of the strongest clues that the object was conventional aviation rather than an unexplained craft.
+A “silent UFO” is often treated as stronger evidence that the object could not have been an [aircraft]({{ 'aircraft/' | relative_url }}). In practice, silence is one of the most misunderstood parts of night-time sighting reports. Light reaches an observer almost instantly, but sound travels comparatively slowly through the atmosphere. A distant aircraft can therefore be visible for many seconds before its engine noise arrives, and under some conditions the sound may be weak, delayed, redirected, or masked entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grc.nasa.gov/www/k-12/BGP/sound.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Speed of SoundThe speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.kontos.com">[KontoS For AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.kontos.com</span><span class="citation-popover-snippet">OF SOUND IN AIRAt sea level, at a temperature of 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second, or ab...</span></span></span>, this matters because witnesses frequently anchor their interpretation around a sentence like “there was no sound at all”. A structured timeline check can test whether an aircraft’s expected audio profile actually matches the report once distance, altitude, wind, terrain, and background noise are considered. In many cases, the delayed rumble of a jet arriving after the visual event is one of the strongest clues that the object was conventional aviation rather than an unexplained craft.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1-dark.svg" | relative_url }}" alt="Sound Delays illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How sound lags behind distant aircraft
 
-The core physics is simple. Under typical conditions, sound in air travels at roughly 340 metres per second, although temperature and altitude change the exact figure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grc.nasa.gov/www/k-12/BGP/sound.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">GRC NASASpeed of SoundThe speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through t...</span></span></span> KontoS Light effectively arrives instantly at everyday viewing distances <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.kontos.com">[ftp.kontos.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.kontos.com</span><span class="citation-popover-snippet">OF SOUND IN AIRAt sea level, at a temperature of 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second, or ab...</span></span></span>, so a witness always sees the aircraft before hearing it.
+The core physics is simple. Under typical conditions, sound in air travels at roughly 340 metres per second, although temperature and altitude change the exact figure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grc.nasa.gov/www/k-12/BGP/sound.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Speed of SoundThe speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through t...</span></span></span> KontoS Light effectively arrives instantly at everyday viewing distances <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.kontos.com">[ftp.kontos.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.kontos.com</span><span class="citation-popover-snippet">OF SOUND IN AIRAt sea level, at a temperature of 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second, or ab...</span></span></span>, so a witness always sees the aircraft before hearing it.
 
 That delay becomes surprisingly large over aviation distances:
 
@@ -288,7 +288,7 @@ That delay becomes surprisingly large over aviation distances:
 
 </div>
 
-Witnesses rarely estimate distance accurately at night. A bright [landing light]({{ 'landing-lights/' | relative_url }}) pointed directly at an observer can appear much closer than it really is. In UFO reports, this often creates a misleading sequence:
+Witnesses rarely estimate distance accurately at night. A bright landing light pointed directly at an observer can appear much closer than it really is. In UFO reports, this often creates a misleading sequence:
 
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -304,11 +304,11 @@ That pattern is fully compatible with ordinary aircraft behaviour. The delayed s
 
 This is especially common near airport approach corridors. Aircraft flying towards an observer can appear unusually bright because [landing lights]({{ 'landing-lights/' | relative_url }}) are directed forward. During a head-on approach, lateral movement across the sky is minimal, making the aircraft appear to hover or remain fixed in place. Only later, once the aircraft changes angle or passes overhead, does the engine sound become obvious.
 
-In AI-assisted reconstruction workflows, matching the timing gap between visual [observation]({{ 'observation-vs-claim/' | relative_url }}) and later sound can strengthen an aircraft explanation far more effectively than a simple “a plane was nearby” match.
+In AI-assisted reconstruction workflows, matching the timing gap between visual observation and later sound can strengthen an aircraft explanation far more effectively than a simple “a plane was nearby” match.
 
 ## Why some aircraft seem completely silent
 
-Not every delayed-sound case produces an obvious rumble. [Atmospheric]({{ 'scintillation/' | relative_url }}) and environmental conditions can suppress or redirect sound enough that a witness hears little or nothing at all.
+Not every delayed-sound case produces an obvious rumble. Atmospheric and environmental conditions can suppress or redirect sound enough that a witness hears little or nothing at all.
 
 ### Wind and sound refraction
 
@@ -322,9 +322,6 @@ This matters for UFO investigations because witnesses often assume silence prove
 * Observers downwind may hear strong engine noise while nearby witnesses hear almost none.
 
 Cold clear nights are especially important because they often produce stable atmospheric layers that alter sound propagation. Many classic “silent hovering light” reports occur under exactly those viewing conditions: calm skies, bright visibility, and long-distance observation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKrW0aoB_6w" title="ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer">ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 47.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKrW0aoB_6w">Open on YouTube</a></p></div></div></div>
 
 ### Urban masking and environmental noise
 
@@ -373,7 +370,7 @@ The useful investigative question is not “was there sound?” but “did the t
 This is where AI-assisted timeline reconstruction becomes valuable.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/32q5x-81H5Q" title="Propagation of Sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=32q5x-81H5Q" target="_blank" rel="noopener noreferrer">Propagation of Sound</a></p><p class="youtube-embed-meta">Channel: Manocha Academy</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=32q5x-81H5Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=32q5x-81H5Q">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKrW0aoB_6w" title="ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer">ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 47.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKrW0aoB_6w">Open on YouTube</a></p></div></div></div>
 
 ### Building a sound-delay estimate
 
@@ -399,7 +396,7 @@ Once approximate range is known, the system can calculate expected sound arrival
 
 The strongest reconstructions do not rely on one coincidence. They compare multiple synchronised features:
 
-Witness claimAircraft correlation check“Object hovered”Head-on approach geometry“No sound initially”Predicted sound lag“Sudden movement”Banking turn or route change“Light vanished”Landing lights switched angle or cloud entry“Rumble heard afterwards”Delayed engine noise arrival
+Witness claimAircraft correlation check“Object hovered”Head-on approach [geometry]({{ 'geometry/' | relative_url }})“No sound initially”Predicted sound lag“Sudden movement”Banking turn or route change“Light vanished”Landing lights switched angle or cloud entry“Rumble heard afterwards”Delayed engine noise arrival
 
 This layered approach is more reliable than simply checking whether any aircraft existed nearby.
 
@@ -422,9 +419,6 @@ These recordings can sometimes capture faint engine signatures even when witness
 
 The key point is not that algorithms “prove” a UFO was an aircraft. Rather, they help test whether the reported silence actually conflicts with conventional aviation once real-world acoustic conditions are included.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UgE2GIQwUCw" title="Speed of Sound | Mechanical waves and sound | Physics | Khan Academy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UgE2GIQwUCw" target="_blank" rel="noopener noreferrer">Speed of Sound | Mechanical waves and sound | Physics | Khan Academy</a></p><p class="youtube-embed-meta">Channel: khanacademymedicine</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UgE2GIQwUCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UgE2GIQwUCw">Open on YouTube</a></p></div></div></div>
-
 ## Why silence alone is weak evidence
 
 Silence can still matter in a UFO case, but only when combined with carefully verified distance and timing estimates.
@@ -444,7 +438,7 @@ In practice, investigators frequently encounter three overlapping errors:
 
 That does not mean every silent sighting is solved. It means silence alone is usually weaker evidence than many people assume.
 
-Within AI-assisted UFO investigation systems, sound-delay analysis works best as part of a broader reconstruction model that also checks aircraft geometry, [astronomy]({{ 'astronomy/' | relative_url }}), weather, satellite visibility, and local geography. A “silent UFO” may still remain unresolved after those checks. But in many cases, delayed or suppressed aircraft noise turns out to be one of the simplest explanations hiding inside the timeline itself.
+Within AI-assisted UFO investigation systems, sound-delay analysis works best as part of a broader reconstruction model that also checks aircraft geometry, [astronomy]({{ 'astronomy/' | relative_url }}), [weather]({{ 'weather/' | relative_url }}), satellite visibility, and local geography. A “silent UFO” may still remain unresolved after those checks. But in many cases, delayed or suppressed aircraft noise turns out to be one of the simplest explanations hiding inside the timeline itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -465,7 +459,7 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Relevant to credible but potentially misread aerial observations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -475,16 +469,16 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Supports testing silence claims rather than treating them as decisive.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -492,16 +486,16 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fate is the Hunter on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=cVdUGsMup_cC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Fate is the Hunter" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fate is the Hunter">Fate is the Hunter</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Ernest K Gann</p>
         
-        
+        <p class="fr-book-desc">Keeps the aviation lane commercially accessible.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Fate+is+the+Hunter+by+Ernest+K+Gann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -509,16 +503,16 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Stick and Rudder on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Stick and Rudder">Stick and Rudder</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Wolfgang Langewiesche, Leighton Holden Collins</p>
         
-        
+        <p class="fr-book-desc">Helps readers understand aircraft behaviour behind silent-light reports.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Stick+and+Rudder+by+Wolfgang+Langewiesche&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -526,13 +520,13 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fate+is+the+Hunter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fate is the Hunter</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -559,76 +553,72 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-airplane-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open airplane model on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20airplane%20model%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAirplane%20Model%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAirplane%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EModel%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for airplane model on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">airplane model</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Airplane</span><span class="fr-search-tag">Model</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-airplane-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="airplane model" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-airplane-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM"><img src="{{ '/assets/images/marketplace-covers/4d004612d84842389376.jpg' | relative_url }}" alt="Listing image for UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO PHOTO [MICHAEL SCHENKER] 1970`S TOUR BLACK WHITE IMAGE HEAVY METAL ROCK GEM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-aviation-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+headset&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-aviation-headset&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation headset" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-aviation-headset" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation headset on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20headset%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EHeadset%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EHeadset%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation headset on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">aviation headset</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Headset</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+headset&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-aviation-headset&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation headset" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-aviation-headset" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televisi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televisi" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=airplane+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=sound-delays-why-a-silent-ufo-may-still-be-an-aircraft-ai-assisted-ufo-sighting-investigation-airplane-model&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -686,10 +676,10 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -707,7 +697,7 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -842,110 +832,110 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
 
 1. <a id="endnote-1"></a>
    Source: grc.nasa.gov  
-   Link: [https://www.grc.nasa.gov/www/k-12/BGP/sound.html](https://www.grc.nasa.gov/www/k-12/BGP/sound.html)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GRC NASASpeed of SoundThe speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through t...</p></details>
+   Link: <a href="https://www.grc.nasa.gov/www/k-12/BGP/sound.html" target="_blank" rel="noopener noreferrer nofollow">https://www.grc.nasa.gov/www/k-12/BGP/sound.html</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Speed of SoundThe speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through t...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: ftp.kontos.com  
-   Link: [https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air](https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air)  
+   Link: <a href="https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air" target="_blank" rel="noopener noreferrer nofollow">https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>OF SOUND IN AIRAt sea level, at a temperature of 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second, or ab...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Speed of sound  
-   Link: [https://en.wikipedia.org/wiki/Speed_of_sound](https://en.wikipedia.org/wiki/Speed_of_sound)  
+   Link: <a href="https://en.wikipedia.org/wiki/Speed_of_sound" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Speed_of_sound</a>  
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Automatic Dependent Surveillance–Broadcast  
-   Link: [https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast](https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast)  
+   Link: <a href="https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Automatic_Dependent_Surveillance%E2%80%93Broadcast</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Automatic Dependent Surveillance–BroadcastADS-B is an aviation surveillance technology and form of electronic conspicuity in which an...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: paramountbusinessjets.com  
    Title: speed of sound  
-   Link: [https://www.paramountbusinessjets.com/aviation-terminology/speed-of-sound](https://www.paramountbusinessjets.com/aviation-terminology/speed-of-sound)  
+   Link: <a href="https://www.paramountbusinessjets.com/aviation-terminology/speed-of-sound" target="_blank" rel="noopener noreferrer nofollow">https://www.paramountbusinessjets.com/aviation-terminology/speed-of-sound</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The speed of sound is 761 mph, 1225 km/h, 340 m/s, or 661 knots at the standard temperature, which is 15 degrees Celsius.Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: degruyterbrill.com  
-   Link: [https://www.degruyterbrill.com/document/doi/10.1515/noise-2024-0006/html?srsltid=AfmBOopuzAPLSonTj8_KbyPpVmu5PNVDW0nH5La2RZkk6Ja9MAjibL_e](https://www.degruyterbrill.com/document/doi/10.1515/noise-2024-0006/html?srsltid=AfmBOopuzAPLSonTj8_KbyPpVmu5PNVDW0nH5La2RZkk6Ja9MAjibL_e)  
+   Link: <a href="https://www.degruyterbrill.com/document/doi/10.1515/noise-2024-0006/html?srsltid=AfmBOopuzAPLSonTj8_KbyPpVmu5PNVDW0nH5La2RZkk6Ja9MAjibL_e" target="_blank" rel="noopener noreferrer nofollow">https://www.degruyterbrill.com/document/doi/10.1515/noise-2024-0006/html?srsltid=AfmBOopuzAPLSonTj8_KbyPpVmu5PNVDW0nH5La2RZkk6Ja9MAjibL_e</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>a positive lapse rate) refracts sound upward and enhances scattering because of the...Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: eaglepubs.erau.edu  
-   Link: [https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/](https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/)  
+   Link: <a href="https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/" target="_blank" rel="noopener noreferrer nofollow">https://eaglepubs.erau.edu/introductiontoaerospaceflightvehicles/chapter/noise-of-flight-vehicles/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eagle PubsAcoustics of Flight Vehicles – Introduction to Aerospace...January 1, 2023 — by JG Leishman · 2023 · Cited by 2 — The intensit...</p></details>
    Published: January 1, 2023  
 
 8. <a id="endnote-8"></a>
    Source: dal.noiselab.casper.aero  
    Title: FINAL DAL 2016 Annual Report 20170510  
-   Link: [https://dal.noiselab.casper.aero/uploads/FINAL_DAL_2016_Annual_Report_20170510.pdf](https://dal.noiselab.casper.aero/uploads/FINAL_DAL_2016_Annual_Report_20170510.pdf)  
+   Link: <a href="https://dal.noiselab.casper.aero/uploads/FINAL_DAL_2016_Annual_Report_20170510.pdf" target="_blank" rel="noopener noreferrer nofollow">https://dal.noiselab.casper.aero/uploads/FINAL_DAL_2016_Annual_Report_20170510.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>LOVE FIELD10 May 2017 — One potential effect of aircraft noise is its tendency to &quot;mask&quot; speech, making it difficult to carry on a normal...</p></details>
    Published: May 2017  
 
 9. <a id="endnote-9"></a>
    Source: faa.gov  
    Title: ins outs  
-   Link: [https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs](https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs)  
+   Link: <a href="https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/air_traffic/technology/equipadsb/capabilities/ins_outs</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationIns and Outs7 Feb 2023 — ADS-B Out works by broadcasting information about an aircraft&#x27;s GPS location, alt...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: faa.gov  
    Title: Federal Aviation Administration Automatic Dependent Surveillance  
-   Link: [https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b](https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b)  
+   Link: <a href="https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.faa.gov/about/office_org/headquarters_offices/avs/offices/afx/afs/afs400/afs410/ads-b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Federal Aviation AdministrationAutomatic Dependent Surveillance - Broadcast (ADS-B)29 Sept 2025 — ADS-B Out works by broadcasting informa...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: medium.com  
-   Link: [https://medium.com/faa/ads-b-101-ae33179be8f7](https://medium.com/faa/ads-b-101-ae33179be8f7)  
+   Link: <a href="https://medium.com/faa/ads-b-101-ae33179be8f7" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/faa/ads-b-101-ae33179be8f7</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B 101. What It Is, and What It Means to You | by FAA...ADS-B is a foundational NextGen technology that uses GPS information to track...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: cutteraviation.com  
-   Link: [https://cutteraviation.com/aircraft-service-avionics-support/ads-b/](https://cutteraviation.com/aircraft-service-avionics-support/ads-b/)  
+   Link: <a href="https://cutteraviation.com/aircraft-service-avionics-support/ads-b/" target="_blank" rel="noopener noreferrer nofollow">https://cutteraviation.com/aircraft-service-avionics-support/ads-b/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-BADS-B allows air traffic controllers to route traffic more efficiently, reducing congestion, noise, emission and fuel consumption.Re...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: airservicesaustralia.com  
-   Link: [https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf](https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf)  
+   Link: <a href="https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.airservicesaustralia.com/wp-content/uploads/FAQ_ADS-B_DEC16.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>FAQ ADS-BBear in mind when operating below the ADS-B coverage, which is limited to “line of sight” between aircraft and ADS-B ground rece...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: nde-ed.org  
-   Link: [https://www.nde-ed.org/Physics/Sound/tempandspeed.xhtml](https://www.nde-ed.org/Physics/Sound/tempandspeed.xhtml)  
+   Link: <a href="https://www.nde-ed.org/Physics/Sound/tempandspeed.xhtml" target="_blank" rel="noopener noreferrer nofollow">https://www.nde-ed.org/Physics/Sound/tempandspeed.xhtml</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Temperature and the Speed of SoundThe speed of sound in room temperature air is 346 meters per second. This is faster than 331 meters per...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: txtav.com  
-   Link: [https://txtav.com/en/journey/articles/articles/adsb-out-explained](https://txtav.com/en/journey/articles/articles/adsb-out-explained)  
+   Link: <a href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow">https://txtav.com/en/journey/articles/articles/adsb-out-explained</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitude and velocity...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=cKrW0aoB_6w](https://www.youtube.com/watch?v=cKrW0aoB_6w)  
+   Link: <a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cKrW0aoB_6w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B: The Future of Aircraft Surveillance! Explained by...ADSB is an advanced surveillance technology that allows aircraft to broadcast...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/spacehipsters/posts/7281717815206372/](https://www.facebook.com/groups/spacehipsters/posts/7281717815206372/)  
+   Link: <a href="https://www.facebook.com/groups/spacehipsters/posts/7281717815206372/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/spacehipsters/posts/7281717815206372/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>I have been trying to give the speed for Mach 1, but (of course) have been seeing many different...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: researchgate.net  
    Title: Simulation of a morning air temperature inversion break-up  
-   Link: [https://www.researchgate.net/profile/Lars-Hole/publication/223063130_Simulation_of_a_morning_air_temperature_inversion_break-up_in_complex_terrain_and_the_influence_on_sound_propagation_on_a_local_scale/links/5a547c3e458515e7b7326692/Simulation-of-a-morning-air-temperature-inversion-break-up-in-complex-terrain-and-the-influence-on-sound-propagation-on-a-local-scale.pdf](https://www.researchgate.net/profile/Lars-Hole/publication/223063130_Simulation_of_a_morning_air_temperature_inversion_break-up_in_complex_terrain_and_the_influence_on_sound_propagation_on_a_local_scale/links/5a547c3e458515e7b7326692/Simulation-of-a-morning-air-temperature-inversion-break-up-in-complex-terrain-and-the-influence-on-sound-propagation-on-a-local-scale.pdf)  
+   Link: <a href="https://www.researchgate.net/profile/Lars-Hole/publication/223063130_Simulation_of_a_morning_air_temperature_inversion_break-up_in_complex_terrain_and_the_influence_on_sound_propagation_on_a_local_scale/links/5a547c3e458515e7b7326692/Simulation-of-a-morning-air-temperature-inversion-break-up-in-complex-terrain-and-the-influence-on-sound-propagation-on-a-local-scale.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Lars-Hole/publication/223063130_Simulation_of_a_morning_air_temperature_inversion_break-up_in_complex_terrain_and_the_influence_on_sound_propagation_on_a_local_scale/links/5a547c3e458515e7b7326692/Simulation-of-a-morning-air-temperature-inversion-break-up-in-complex-terrain-and-the-influence-on-sound-propagation-on-a-local-scale.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A mesoscale atmospheric model is used to model the break up of a morning air-tempera- ture inversion during a clear weather situation wit...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: aopa.org  
-   Link: [https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b](https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b)  
+   Link: <a href="https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b" target="_blank" rel="noopener noreferrer nofollow">https://www.aopa.org/go-fly/aircraft-and-ownership/ads-b</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>r traffic controllers. It&#x27;s also transmitted to aircraft...Read more...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: wificfi.com  
-   Link: [https://www.wificfi.com/post/ads-b-and-the-airspace-where-it-s-required](https://www.wificfi.com/post/ads-b-and-the-airspace-where-it-s-required)  
+   Link: <a href="https://www.wificfi.com/post/ads-b-and-the-airspace-where-it-s-required" target="_blank" rel="noopener noreferrer nofollow">https://www.wificfi.com/post/ads-b-and-the-airspace-where-it-s-required</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ADS-B and the Airspace Where It&#x27;s Required19 Mar 2026 — ADS-B Out: Transmits aircraft position, altitude, velocity, and identification...</p></details>

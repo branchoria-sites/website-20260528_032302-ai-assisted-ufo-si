@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /inversions/
 nav_short_title: Radar Ducting
 title: When Radar UFOs Might Be Weather Ghosts
-title_full: When Radar UFOs Might Be Weather Ghosts | Inversions
+title_full: When Radar UFOs Might Be Weather Ghosts
 display_title_short: Radar Ducting
 display_title: Radar Ducting
 heading_title: When Radar UFOs Might Be Weather Ghosts
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can air layers bend a UFO into view? | Weather
+parent_title: Can air layers bend a UFO into view?
 parent_permalink: /inversions/
 parent_nav_short_title: Inversions
 parent_heading_title: Can air layers bend a UFO into view?
@@ -266,7 +266,7 @@ next_link:
   permalink: /source-match/
   short_title: Source Match
   heading_title: Was There a Real Object Beyond the Horizon?
-date: '2026-06-09 00:22:04 '
+date: '2026-06-10 20:41:21 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1.webp
@@ -275,7 +275,7 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1f
 
 ## Introduction
 
-Many famous mid-20th-century UFO incidents involved both eyewitnesses and radar operators reporting unusual targets at the same time. That combination gave some cases an aura of technical certainty: if trained controllers saw objects on radar as well as in the sky, surely something physical had to be present. Yet [atmospheric]({{ 'scintillation/' | relative_url }}) scientists and radar engineers have long argued that some of those events occurred under conditions known to produce “anomalous propagation”, often shortened to AP. In strong temperature [inversions]({{ 'inversions/' | relative_url }}), radar beams can bend, skim the ground or sea surface, and generate misleading returns that appear to move or hover. Wikipedia Radartutorial The dispute is not whether radar ducting is real. It absolutely is. The harder question is whether it adequately explains specific historical <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[radartutorial.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span> UFO reports that combined radar tracks, pilot testimony and visual observations. For AI-assisted UFO investigation, this matters because older case files are often revisited without reconstructing the actual atmospheric conditions at the time. Modern automation can now compare archived weather profiles, radar geometry and witness timing in ways investigators in the 1950s simply could not.
+Many famous mid-20th-century UFO incidents involved both eyewitnesses and radar operators reporting unusual targets at the same time. That combination gave some cases an aura of technical certainty: if trained controllers saw objects on radar as well as in the sky, surely something physical had to be present. Yet atmospheric scientists and radar engineers have long argued that some of those events occurred under conditions known to produce “anomalous propagation”, often shortened to AP. In strong temperature [inversions]({{ 'inversions/' | relative_url }}), radar beams can bend, skim the ground or sea surface, and generate misleading returns that appear to move or hover. Wikipedia Radartutorial The dispute is not whether radar ducting is real. It absolutely is. The harder question is whether it adequately explains specific historical <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[radartutorial.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span> UFO reports that combined radar tracks, pilot testimony and visual observations. For AI-assisted UFO investigation, this matters because older [case files]({{ 'case-file/' | relative_url }}) are often revisited without reconstructing the actual atmospheric conditions at the time. Modern automation can now compare archived weather profiles, radar geometry and witness timing in ways investigators in the 1950s simply could not.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-dark.svg" | relative_url }}" alt="Radar Ducting illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
@@ -297,7 +297,7 @@ That can produce several misleading effects relevant to older UFO reports:
 
 </div>
 
-Modern meteorological agencies still warn that anomalous propagation contaminates radar data. NOAA describes AP as a source of false echoes caused by unusual refractive conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">NOAAJetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</span></span></span>
+Modern meteorological agencies still warn that anomalous propagation contaminates radar data. NOAA describes AP as a source of false echoes caused by unusual refractive conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</span></span></span>
 
 For UFO investigators, the important point is narrower than many debates suggest. Ducting can create convincing radar anomalies, especially near coastlines, over water and during calm night-time inversion conditions. But it does not automatically explain every radar contact in every historical case.
 
@@ -323,7 +323,7 @@ Radar historians and later sceptical investigators argued that these weaknesses 
 
 At the same time, many radar operators insisted they already understood ordinary clutter and weather effects. This disagreement became one of the defining tensions in classic UFO literature: were experienced controllers misled by atmospheric artefacts, or were official explanations underestimating the skill of the witnesses?
 
-That debate still shapes modern analysis of older [case files]({{ 'case-file/' | relative_url }}).
+That debate still shapes modern analysis of older case files.
 
 ## The Washington 1952 sightings became the classic ducting argument
 
@@ -335,12 +335,9 @@ The case became politically explosive because the radar tracks appeared near the
 
 Air Force officials argued that strong temperature inversions over Washington created false radar returns through anomalous propagation. Major General John Samford publicly stated that inversion conditions existed during the sightings and could explain the radar contacts. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span>
 
-Subsequent technical analysis by the Civil Aeronautics Administration reportedly concluded that inversion conditions were present in almost every radar incident associated with the sightings. Project Blue Book later classified the radar targets as false images caused by temperature inversion effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
+Subsequent technical analysis by the Civil Aeronautics Administration reportedly concluded that inversion conditions were present in almost every radar incident associated with the sightings. Project [Blue Book]({{ 'blue-book/' | relative_url }}) later classified the radar targets as false images caused by temperature inversion effects. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 The case became a textbook example for sceptical writers such as Donald Menzel and Philip Klass, both of whom argued that atmospheric and radar effects sufficiently explained the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj3DhKSaw0w" title="UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer">UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 18.5K &middot; Uploaded: July 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj3DhKSaw0w">Open on YouTube</a></p></div></div></div>
 
 ### Why the dispute never disappeared
 
@@ -374,7 +371,7 @@ Supporters of the ducting explanation countered that:
 
 </div>
 
-The Washington case therefore remains important not because it proves extraordinary objects existed, but because it demonstrates how difficult it can be to untangle radar physics, witness [confidence]({{ 'confidence/' | relative_url }}) and incomplete historical records.
+The Washington case therefore remains important not because it proves extraordinary objects existed, but because it demonstrates how difficult it can be to untangle radar physics, witness [confidence]({{ 'confidence/' | relative_url }}) and [incomplete]({{ 'incomplete-data/' | relative_url }}) historical records.
 
 ## Where radar explanations remain disputed
 
@@ -426,7 +423,7 @@ The Washington case itself included reports later interpreted as stars, meteors 
 Still, some investigators argue that certain radar-visual combinations lasted too long or involved too many observers to dismiss comfortably. This is where historical disputes tend to persist rather than resolve cleanly.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2ZzM6K-Sa9c" title="تکنیک CFAR در سیستم های راداری" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2ZzM6K-Sa9c" target="_blank" rel="noopener noreferrer">تکنیک CFAR در سیستم های راداری</a></p><p class="youtube-embed-meta">Channel: Power dynamics</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2ZzM6K-Sa9c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2ZzM6K-Sa9c">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj3DhKSaw0w" title="UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer">UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 18.5K &middot; Uploaded: July 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj3DhKSaw0w">Open on YouTube</a></p></div></div></div>
 
 ### Claims of extreme manoeuvres
 
@@ -471,9 +468,6 @@ That allows investigators to move beyond vague statements like “there was an i
 * Could the radar realistically have illuminated the reported area?
 * Would surface reflections have been likely?
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/N-LwGD0Er8s" title="Everyone Looked Down on Him, Until His Only Survival System Awakened and Built the Strongest Shelter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=N-LwGD0Er8s" target="_blank" rel="noopener noreferrer">Everyone Looked Down on Him, Until His Only Survival System Awakened and Built the Strongest Shelter</a></p><p class="youtube-embed-meta">Channel: Panda Fantasy Chronicles</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=N-LwGD0Er8s" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=N-LwGD0Er8s">Open on YouTube</a></p></div></div></div>
-
 ### Pattern comparison across case archives
 
 Machine-assisted comparison can also identify recurring signatures associated with likely AP events:
@@ -505,11 +499,11 @@ That approach avoids overstating certainty in either direction.
 
 ## The real lesson from the ducting disputes
 
-Radar ducting is neither a universal debunking tool nor a trivial excuse invented after the fact. Atmospheric propagation effects are well-documented physical phenomena that genuinely produced misleading radar returns, especially in older analogue systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[2U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">dont fall radar hole</span><span class="citation-popover-snippet">Naval InstituteDon&#x27;t Fall in the Radar Hole | ProceedingsAnomalous propagation of radar energy—commonly referred to as AP or simply as ra...</span></span></span>
+Radar ducting is neither a universal debunking tool nor a trivial excuse invented after the fact. Atmospheric propagation effects are well-documented physical phenomena that genuinely produced misleading radar returns, especially in older analogue systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usni.org">[2U.S. Naval Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usni.org</span><span class="citation-popover-title">dont fall radar hole</span><span class="citation-popover-snippet">Naval InstituteDon&#x27;t Fall in the Radar Hole &#124; ProceedingsAnomalous propagation of radar energy—commonly referred to as AP or simply as ra...</span></span></span>
 
 At the same time, historical UFO disputes persisted because many cases blended imperfect radar data with human testimony, incomplete records and rapidly changing atmospheric conditions. Even decades later, investigators still argue about whether specific incidents crossed the line from explainable artefact into something more difficult to classify.
 
-For AI-assisted UFO investigation, the practical takeaway is clear: radar evidence should never be accepted uncritically, but neither should it be dismissed with a generic [reference]({{ 'reference-points/' | relative_url }}) to “temperature inversions”. The useful question is always case-specific: did the atmosphere at that exact time and place create conditions capable of generating the reported radar behaviour?
+For AI-assisted UFO investigation, the practical takeaway is clear: radar evidence should never be accepted uncritically, but neither should it be dismissed with a generic reference to “temperature inversions”. The useful question is always case-specific: did the atmosphere at that exact time and place create conditions capable of generating the reported radar behaviour?
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -597,7 +591,7 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -624,76 +618,72 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-artificial-intelligence-pos&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-artificial-intelligence-pos" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-artificial-intelligence-pos&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-artificial-intelligence-pos" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ba&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson-ba" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=radar-ducting-when-radar-ufos-might-be-weather-ghosts-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-serie&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -751,10 +741,10 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -772,7 +762,7 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -908,42 +898,42 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
 1. <a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Anomalous propagation  
-   Link: [https://en.wikipedia.org/wiki/Anomalous_propagation](https://en.wikipedia.org/wiki/Anomalous_propagation)  
+   Link: <a href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Anomalous_propagation</a>  
 
 2. <a id="endnote-2"></a>
    Source: radartutorial.eu  
-   Link: [https://www.radartutorial.eu/07.waves/wa17.en.html](https://www.radartutorial.eu/07.waves/wa17.en.html)  
+   Link: <a href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow">https://www.radartutorial.eu/07.waves/wa17.en.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: noaa.gov  
-   Link: [https://www.noaa.gov/jetstream/anomalous-propagation](https://www.noaa.gov/jetstream/anomalous-propagation)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAAJetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</p></details>
+   Link: <a href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/anomalous-propagation</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>JetStream Max: Anomalous Propagation9 Aug 2023 — False echoes are known as anomalous propagation (AP) - an echo that is not precipita...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: patents.google.com  
-   Link: [https://patents.google.com/patent/US9810773B2/en](https://patents.google.com/patent/US9810773B2/en)  
+   Link: <a href="https://patents.google.com/patent/US9810773B2/en" target="_blank" rel="noopener noreferrer nofollow">https://patents.google.com/patent/US9810773B2/en</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Google PatentsMitigation of anomalous propagation effects in radarIn surface-based “ducting”, that is to say where an electromagnetic bea...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: its.ntia.gov  
-   Link: [https://its.ntia.gov/publications/download/76-107.pdf](https://its.ntia.gov/publications/download/76-107.pdf)  
+   Link: <a href="https://its.ntia.gov/publications/download/76-107.pdf" target="_blank" rel="noopener noreferrer nofollow">https://its.ntia.gov/publications/download/76-107.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The fields of interest are the...Read more...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: Wikipedia  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident](https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
 
 7. <a id="endnote-7"></a>
    Source: sgp.fas.org  
-   Link: [https://sgp.fas.org/library/ciaufo.html](https://sgp.fas.org/library/ciaufo.html)  
+   Link: <a href="https://sgp.fas.org/library/ciaufo.html" target="_blank" rel="noopener noreferrer nofollow">https://sgp.fas.org/library/ciaufo.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>fas.orgCIA&#x27;s Role in the Study of UFOs, 1947-90On 19 and 20 July, radar scopes at Washington National Airport and Andrews Air Force Base...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: usni.org  
    Title: dont fall radar hole  
-   Link: [https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole](https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole)  
+   Link: <a href="https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole" target="_blank" rel="noopener noreferrer nofollow">https://www.usni.org/magazines/proceedings/1973/december/dont-fall-radar-hole</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Naval InstituteDon&#x27;t Fall in the Radar Hole | ProceedingsAnomalous propagation of radar energy—commonly referred to as AP or simply as ra...</p></details>
 
 ### Additional References
@@ -951,57 +941,57 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
 9. <a id="endnote-9"></a>
    Source: medium.com  
    Title: ufos and radar targets clutter safety and false certainty c3eab7a878ad  
-   Link: [https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad](https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad)  
+   Link: <a href="https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40timventura/ufos-and-radar-targets-clutter-safety-and-false-certainty-c3eab7a878ad</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and Radar: Targets, Clutter, Safety, and False CertaintyFrom Washington 1952 to the Nimitz encounter, this story explores UFOs, rada...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: visiontimes.com  
    Title: the 1952 washington d c ufo incidents that shocked the white house  
-   Link: [https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html](https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html)  
+   Link: <a href="https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html" target="_blank" rel="noopener noreferrer nofollow">https://www.visiontimes.com/2026/02/10/the-1952-washington-d-c-ufo-incidents-that-shocked-the-white-house.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Incidents That Shocked...Feb 10, 2026 — Some radar operators and researchers noted that temperature inversions occurred almost daily...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: wral.com  
    Title: a radar blip a flash of light how ufos exploded into public view  
-   Link: [https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/](https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/)  
+   Link: <a href="https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/a-radar-blip-a-flash-of-light-how-ufos-exploded-into-public-view/17745227/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Radar Blip, a Flash of Light: How UFOs &#x27;Exploded&#x27; Into...3 Aug 2018 — “I don&#x27;t think temperature inversion had much to do with it, but...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/231946129_Coastal_effects_on_radar_propagation_in_atmospheric_ducting_conditions](https://www.researchgate.net/publication/231946129_Coastal_effects_on_radar_propagation_in_atmospheric_ducting_conditions)  
+   Link: <a href="https://www.researchgate.net/publication/231946129_Coastal_effects_on_radar_propagation_in_atmospheric_ducting_conditions" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/231946129_Coastal_effects_on_radar_propagation_in_atmospheric_ducting_conditions</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nstable surface layers to provide better understanding and predictions for radio...Read more...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: dcist.com  
    Title: in the early 1950s d c was obsessed with ufos heres why  
-   Link: [https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/](https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/)  
+   Link: <a href="https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/" target="_blank" rel="noopener noreferrer nofollow">https://dcist.com/story/19/12/09/in-the-early-1950s-d-c-was-obsessed-with-ufos-heres-why/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Was Obsessed With UFOs. Here&#x27;s...9 Dec 2019 — The incidents over D.C. was one of a number of UFO sightings across the country that the A...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AlanHoltWX/posts/if-you-have-a-radar-app-that-you-use-frequently-and-youve-noticed-rain-out-in-th/1242288940596587/](https://www.facebook.com/AlanHoltWX/posts/if-you-have-a-radar-app-that-you-use-frequently-and-youve-noticed-rain-out-in-th/1242288940596587/)  
+   Link: <a href="https://www.facebook.com/AlanHoltWX/posts/if-you-have-a-radar-app-that-you-use-frequently-and-youve-noticed-rain-out-in-th/1242288940596587/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AlanHoltWX/posts/if-you-have-a-radar-app-that-you-use-frequently-and-youve-noticed-rain-out-in-th/1242288940596587/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ut in the gulf the last several days, it&#x27;s because of something called anomalous...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: eurasiantimes.com  
    Title: America's "Most Dramatic" UFO Encounter!  
-   Link: [https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/](https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/)  
+   Link: <a href="https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/" target="_blank" rel="noopener noreferrer nofollow">https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>73 Years After...Jan 11, 2026 — On July 26, 1952, multiple radars detected over a dozen solid targets maneuvering in a way not seen befo...</p></details>
    Published: July 26, 1952  
 
 16. <a id="endnote-16"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/](https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/)  
+   Link: <a href="https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1hd9ztr/the_1952_washington_dc_ufo_incident_and/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The 1952 Washington D.C. UFO Incident and similarities to...In response to a question as to whether the Air Force had recorded similar U...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: discovery.ucl.ac.uk  
    Title: ucl.ac.uk UNIVERSIT Y OF LONDON THESIS  
-   Link: [https://discovery.ucl.ac.uk/1445249/1/U592569.pdf](https://discovery.ucl.ac.uk/1445249/1/U592569.pdf)  
+   Link: <a href="https://discovery.ucl.ac.uk/1445249/1/U592569.pdf" target="_blank" rel="noopener noreferrer nofollow">https://discovery.ucl.ac.uk/1445249/1/U592569.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>OF LONDON THESIS - UCL DiscoveryUniquely for a generic radar propagation model, a number of important system effects have been added to s...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: military-history.fandom.com  
    Title: 1952 Washington, D.C. UFO incident  
-   Link: [https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident](https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident)  
+   Link: <a href="https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow">https://military-history.fandom.com/wiki/1952_Washington%2C_D.C._UFO_incident</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO incident - Military WikiSamford also stated that the unknown radar targets could be explained by temperature inversion, which was pre...</p></details>

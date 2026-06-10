@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-astronomy-che/
 description: Focused pages that expand on Twinkling stars.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb
-parent_title: Twinkling stars | Astronomy
+parent_title: Twinkling stars
 parent_nav_short_title: Twinkling stars
 parent_permalink: /twinkling-stars/
 ---

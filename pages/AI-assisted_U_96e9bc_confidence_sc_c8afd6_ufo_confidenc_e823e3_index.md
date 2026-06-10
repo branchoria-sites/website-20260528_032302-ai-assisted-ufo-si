@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-confidence-sc/
 description: Focused pages that expand on Calibration.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3
-parent_title: Calibration | Confidence
+parent_title: Calibration
 parent_nav_short_title: Calibration
 parent_permalink: /calibration/
 ---

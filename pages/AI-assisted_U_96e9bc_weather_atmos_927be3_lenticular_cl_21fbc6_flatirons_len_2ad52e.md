@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /lenticulars/
 nav_short_title: Flatirons Case
 title: When a Colorado Cloud Became a UFO Story
-title_full: When a Colorado Cloud Became a UFO Story | Lenticulars
+title_full: When a Colorado Cloud Became a UFO Story
 display_title_short: Flatirons Case
 display_title: Flatirons Case
 heading_title: When a Colorado Cloud Became a UFO Story
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When clouds really do look like saucers | Weather
+parent_title: When clouds really do look like saucers
 parent_permalink: /lenticulars/
 parent_nav_short_title: Lenticulars
 parent_heading_title: When clouds really do look like saucers
@@ -260,7 +260,7 @@ next_link:
   permalink: /wave-patterns/
   short_title: Wave Patterns
   heading_title: Why Some 'Flying Saucers' Stay Fixed Above Mountains
-date: '2026-06-09 00:18:46 '
+date: '2026-06-10 20:39:34 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1.webp
@@ -269,17 +269,17 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21
 
 ## Introduction
 
-In late 2019, a smooth disc-shaped cloud hanging near Colorado’s Flatirons rock formation spread rapidly across [social media]({{ 'reposts/' | relative_url }}) as an apparent UFO sighting. The formation was visually striking enough that many viewers initially rejected ordinary weather explanations. Yet the case quickly became a useful example of how modern UFO stories can emerge from real [atmospheric]({{ 'scintillation/' | relative_url }}) phenomena before contextual analysis catches up.
+In late 2019, a smooth disc-shaped cloud hanging near Colorado’s Flatirons rock formation spread rapidly across social media as an apparent UFO sighting. The formation was visually striking enough that many viewers initially rejected ordinary [weather]({{ 'weather/' | relative_url }}) explanations. Yet the case quickly became a useful example of how modern UFO stories can emerge from real atmospheric phenomena before contextual analysis catches up.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-dark.svg" | relative_url }}" alt="Flatirons Case illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, the Flatirons incident matters because it shows how quickly a dramatic image can detach from its environmental context. The event also demonstrates the value of automated [weather]({{ 'weather/' | relative_url }}) correlation, terrain analysis, and timeline reconstruction. Within minutes of the images spreading online, investigators could already compare the sighting against mountain-wave cloud conditions, National Weather Service observations, local geography, and known [lenticular]({{ 'lenticulars/' | relative_url }}) cloud behaviour. Rather than treating witness interpretation and sceptical analysis as opposites, the case shows how both can coexist: people genuinely saw something unusual, but the underlying phenomenon was meteorologically well understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span>
+For AI-assisted UFO sighting investigation, the Flatirons incident matters because it shows how quickly a dramatic image can detach from its environmental context. The event also demonstrates the value of automated weather correlation, terrain analysis, and timeline reconstruction. Within minutes of the images spreading online, investigators could already compare the sighting against mountain-wave cloud conditions, National Weather Service observations, local geography, and known lenticular cloud behaviour. Rather than treating witness interpretation and sceptical analysis as opposites, the case shows how both can coexist: people genuinely saw something unusual, but the underlying phenomenon was meteorologically well understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span>
 
 ## The Flatirons sighting and public reaction
 
 The most widely shared images came from Boulder, Colorado, where a circular cloud appeared suspended near the Flatirons, the dramatic sandstone formations west of the city. The cloud seemed almost stationary while surrounding clouds moved normally. That apparent stillness became central to the UFO speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span>
 
-The National Weather Service office in Boulder posted time-lapse footage recorded near the David Skaggs Research Center, a NOAA facility positioned at the base of the Flatirons. The footage showed a sharply defined lenticular cloud maintaining its position over the mountains while changing shape slowly over time. News outlets and social media users rapidly described it as “UFO-like” or resembling a [hovering]({{ 'wind-checks/' | relative_url }}) spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span>
+The National Weather Service office in Boulder posted time-lapse footage recorded near the David Skaggs Research Center, a NOAA facility positioned at the base of the Flatirons. The footage showed a sharply defined lenticular cloud maintaining its position over the mountains while changing shape slowly over time. News outlets and social media users rapidly described it as “UFO-like” or resembling a hovering spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span>
 
 The public reaction followed a familiar pattern seen in many modern UFO image cycles:
 
@@ -308,7 +308,7 @@ Third, lighting conditions enhanced the illusion. Lenticular clouds can reflect 
 
 This combination matters in UFO investigations because it highlights a recurring cognitive trap: people often evaluate the shape of an object before evaluating its environmental behaviour. Once viewers emotionally classify something as “craft-like”, later meteorological explanations may feel less persuasive even when evidence strongly supports them.
 
-The case also illustrates why witness sincerity alone cannot establish an extraordinary explanation. Many people describing the cloud as UFO-like were accurately reporting what they saw. The interpretive error came later, during classification rather than [observation]({{ 'observation-vs-claim/' | relative_url }}).
+The case also illustrates why witness sincerity alone cannot establish an extraordinary explanation. Many people describing the cloud as UFO-like were accurately reporting what they saw. The interpretive error came later, during classification rather than observation.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u7CVY1vLXcY" title="How Do Lenticular Clouds Form?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u7CVY1vLXcY" target="_blank" rel="noopener noreferrer">How Do Lenticular Clouds Form?</a></p><p class="youtube-embed-meta">Channel: The Weather Channel &middot; Views: 28.0K &middot; Uploaded: December 2016 &middot; Length: 1 minute 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u7CVY1vLXcY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u7CVY1vLXcY">Open on YouTube</a></p></div></div></div>
@@ -329,9 +329,9 @@ The National Weather Service explanation aligned closely with known lenticular c
 
 </div>
 
-Importantly, the explanation was not speculative or retrofitted after the fact. The Boulder region experiences these conditions regularly enough that meteorologists immediately recognised the formation type. Similar clouds have been photographed repeatedly around the Flatirons and elsewhere in Colorado. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.com/photos/wdbowman/24558577479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">FlickrStacked | A lenticular cloud glows with the dawn light...10 Feb 2016 — A lenticular cloud glows with the dawn light above Green Mo...</span></span></span>
+Importantly, the explanation was not speculative or retrofitted after the fact. The Boulder region experiences these conditions regularly enough that meteorologists immediately recognised the formation type. Similar clouds have been photographed repeatedly around the Flatirons and elsewhere in Colorado. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flickr.com/photos/wdbowman/24558577479" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flickr.com">[Flickr]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flickr.com</span><span class="citation-popover-snippet">Stacked &#124; A lenticular cloud glows with the dawn light...10 Feb 2016 — A lenticular cloud glows with the dawn light above Green Mo...</span></span></span>
 
-This distinction is important for structured UFO investigation. Some atmospheric explanations remain tentative because supporting environmental data are incomplete. In the Flatirons case, however, the match between the observed object and known mountain-wave cloud behaviour was unusually strong.
+This distinction is important for structured UFO investigation. Some atmospheric explanations remain tentative because supporting environmental data are [incomplete]({{ 'incomplete-data/' | relative_url }}). In the Flatirons case, however, the match between the observed object and known mountain-wave cloud behaviour was unusually strong.
 
 ## How AI-assisted investigation would analyse the case
 
@@ -343,7 +343,7 @@ A structured workflow could automatically perform several checks within minutes:
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-2-dark.svg" | relative_url }}" alt="Flatirons Case illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Geospatial correlation
 
-The system would identify the sighting location near a mountain range known for standing-wave cloud formation. Terrain databases and elevation models would immediately raise the probability of lenticular activity.
+The system would identify the sighting location near a mountain range known for standing-wave cloud formation. Terrain databases and [elevation]({{ 'elevation/' | relative_url }}) models would immediately raise the probability of lenticular activity.
 
 ### Weather reconstruction
 
@@ -510,7 +510,7 @@ In the Colorado case, the available evidence strongly favoured a conventional at
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -537,76 +537,72 @@ In the Colorado case, the available evidence strongly favoured a conventional at
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airplane Clouds Flying Sky Air 3d Smashed View Wall Sticker Poster Decal A168"><img src="{{ '/assets/images/marketplace-covers/f5fc45dad36ec6b75657.jpg' | relative_url }}" alt="Listing image for Airplane Clouds Flying Sky Air 3d Smashed View Wall Sticker Poster Decal A168" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Airplane Clouds Flying Sky Air 3d Smashed View Wall Sticker Poster Decal A168</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for NEW (LAMINATED) CLOUD TYPE (61X91CM) EDUCATIONAL CHART PICTURE PRINT"><img src="{{ '/assets/images/marketplace-covers/cf1a93e2cc4e50559e06.jpg' | relative_url }}" alt="Listing image for NEW (LAMINATED) CLOUD TYPE (61X91CM) EDUCATIONAL CHART PICTURE PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">NEW (LAMINATED) CLOUD TYPE (61X91CM) EDUCATIONAL CHART PICTURE PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-artificial-intelligence-p" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1992 Laminated Cloud Watching Chart Poster - A World Of Games On Back"><img src="{{ '/assets/images/marketplace-covers/60e87458e6c6a7c36a10.jpg' | relative_url }}" alt="Listing image for Vintage 1992 Laminated Cloud Watching Chart Poster - A World Of Games On Back" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1992 Laminated Cloud Watching Chart Poster - A World Of Games On Back</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Airplane Clouds Flying Sky Air 3d View Wall Sticker Poster Decal A166"><img src="{{ '/assets/images/marketplace-covers/5ec8b13883f67d279859.jpg' | relative_url }}" alt="Listing image for Airplane Clouds Flying Sky Air 3d View Wall Sticker Poster Decal A166" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">Airplane Clouds Flying Sky Air 3d View Wall Sticker Poster Decal A166</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for cloud chart poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: cloud chart poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=cloud+chart+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="cloud chart poster" data-ebay-reference="flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-cloud-chart-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=flatirons-case-when-a-colorado-cloud-became-a-ufo-story-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-ser&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -664,10 +660,10 @@ In the Colorado case, the available evidence strongly favoured a conventional at
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -685,7 +681,7 @@ In the Colorado case, the available evidence strongly favoured a conventional at
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -820,93 +816,93 @@ In the Colorado case, the available evidence strongly favoured a conventional at
 
 1. <a id="endnote-1"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/abq/features_acsl](https://www.weather.gov/abq/features_acsl)  
+   Link: <a href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/abq/features_acsl</a>  
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Lenticular_cloud](https://en.wikipedia.org/wiki/Lenticular_cloud)  
+   Link: <a href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Lenticular_cloud</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular cloudLenticular clouds have been mistaken for UFOs, because many of them have the... National Weather Service. NOAA. Retri...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/hfo/lenticular](https://www.weather.gov/hfo/lenticular)  
+   Link: <a href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/hfo/lenticular</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>clouds Big Island 11/25/2003Nov 25, 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: flickr.com  
-   Link: [https://www.flickr.com/photos/wdbowman/24558577479](https://www.flickr.com/photos/wdbowman/24558577479)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FlickrStacked | A lenticular cloud glows with the dawn light...10 Feb 2016 — A lenticular cloud glows with the dawn light above Green Mo...</p></details>
+   Link: <a href="https://www.flickr.com/photos/wdbowman/24558577479" target="_blank" rel="noopener noreferrer nofollow">https://www.flickr.com/photos/wdbowman/24558577479</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stacked | A lenticular cloud glows with the dawn light...10 Feb 2016 — A lenticular cloud glows with the dawn light above Green Mo...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/](https://www.weather.gov/)  
+   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: archives.gov  
-   Link: [https://www.archives.gov/](https://www.archives.gov/)  
+   Link: <a href="https://www.archives.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives | HomeVisit the National Archives, view online exhibits, apply for a grant, research presidential records, view highlig...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: National Car Rental  
-   Link: [https://en.wikipedia.org/wiki/National_Car_Rental](https://en.wikipedia.org/wiki/National_Car_Rental)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Car_Rental" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Car_Rental</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Car RentalNational Car Rental is a private American rental car agency based in Clayton, Missouri, United States. National is...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: abc7news.com  
    Title: circular cloud hovers over mountain like ufo video  
-   Link: [https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/](https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/)  
+   Link: <a href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow">https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</p></details>
 
 ### Additional References
 
 9. <a id="endnote-9"></a>
    Source: nationalacademies.org  
-   Link: [https://www.nationalacademies.org/](https://www.nationalacademies.org/)  
+   Link: <a href="https://www.nationalacademies.org/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Academies of Sciences, Engineering, and MedicineOur work helps shape sound policies, inform public opinion, and advance the purs...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: nationalgridus.com  
-   Link: [https://www.nationalgridus.com/](https://www.nationalgridus.com/)  
+   Link: <a href="https://www.nationalgridus.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Grid: Natural Gas &amp; ElectricityWelcome to National Grid, providing New York and Massachusetts with natural gas and electricity f...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: nl.edu  
-   Link: [https://nl.edu/](https://nl.edu/)  
+   Link: <a href="https://nl.edu/" target="_blank" rel="noopener noreferrer nofollow">https://nl.edu/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Louis University | Chicago, Illinois | Tampa, FloridaNational Louis University offers over 80 career-focused certificates, endor...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AccuWeather/posts/clouds-that-are-as-sweet-as-sticky-buns-an-incredible-lenticular-cloud-was-spott/1215179880466656/](https://www.facebook.com/AccuWeather/posts/clouds-that-are-as-sweet-as-sticky-buns-an-incredible-lenticular-cloud-was-spott/1215179880466656/)  
+   Link: <a href="https://www.facebook.com/AccuWeather/posts/clouds-that-are-as-sweet-as-sticky-buns-an-incredible-lenticular-cloud-was-spott/1215179880466656/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/clouds-that-are-as-sweet-as-sticky-buns-an-incredible-lenticular-cloud-was-spott/1215179880466656/</a>  
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/BestColoradoPhotography/posts/2301013903404279/](https://www.facebook.com/groups/BestColoradoPhotography/posts/2301013903404279/)  
+   Link: <a href="https://www.facebook.com/groups/BestColoradoPhotography/posts/2301013903404279/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/BestColoradoPhotography/posts/2301013903404279/</a>  
 
 14. <a id="endnote-14"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/269932320474748/posts/1561542257980408/](https://www.facebook.com/groups/269932320474748/posts/1561542257980408/)  
+   Link: <a href="https://www.facebook.com/groups/269932320474748/posts/1561542257980408/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/269932320474748/posts/1561542257980408/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>of lenticular clouds, aka UFO clouds. Since moving to Estes Park, with an innumerable amount of tall mountain peaks...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
    Title: These are often mistaken for UFOs because of the saucer-like shape  
-   Link: [https://www.facebook.com/DenverFrontRangeWX/posts/an-absolutely-brilliant-display-of-lenticular-clouds-along-the-front-range-today/672837391302764/](https://www.facebook.com/DenverFrontRangeWX/posts/an-absolutely-brilliant-display-of-lenticular-clouds-along-the-front-range-today/672837391302764/)  
+   Link: <a href="https://www.facebook.com/DenverFrontRangeWX/posts/an-absolutely-brilliant-display-of-lenticular-clouds-along-the-front-range-today/672837391302764/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DenverFrontRangeWX/posts/an-absolutely-brilliant-display-of-lenticular-clouds-along-the-front-range-today/672837391302764/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>An absolutely brilliant display of lenticular clouds along the...Thus, a wave cloud, or a series of lenticular clouds, is capable of for...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: nationalgridus.com  
-   Link: [https://www.nationalgridus.com/NY-Home/](https://www.nationalgridus.com/NY-Home/)  
+   Link: <a href="https://www.nationalgridus.com/NY-Home/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgridus.com/NY-Home/</a>  
 
 17. <a id="endnote-17"></a>
    Source: nationalgeneral.com  
    Title: With a network of over 55,000 independent agents nationwide  
-   Link: [https://nationalgeneral.com/](https://nationalgeneral.com/)  
+   Link: <a href="https://nationalgeneral.com/" target="_blank" rel="noopener noreferrer nofollow">https://nationalgeneral.com/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Offering Home and Auto Coverage | National General, an...National General, an Allstate company, offers coverage to help protect your hom...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: accuweather.com  
    Title: Potentially responsible for some of the earliest U.S. UFO  
-   Link: [https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242](https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AccuWeatherLenticular clouds, sometimes mistaken for UFOs, are in a...Sep 25, 2024 — Lenticular clouds, sometimes mistaken for UFOs, are...</p></details>
+   Link: <a href="https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242" target="_blank" rel="noopener noreferrer nofollow">https://www.accuweather.com/en/weather-news/lenticular-clouds-sometimes-mistaken-for-ufos-are-in-a-league-of-their-own/1694242</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lenticular clouds, sometimes mistaken for UFOs, are in a...Sep 25, 2024 — Lenticular clouds, sometimes mistaken for UFOs, are...</p></details>

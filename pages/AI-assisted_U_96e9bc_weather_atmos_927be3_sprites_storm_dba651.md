@@ -31,7 +31,7 @@ sidebar_expanded_urls:
 - /weather/
 nav_short_title: Sprites
 title: Red flashes above storms and UFO reports
-title_full: Red flashes above storms and UFO reports | Weather
+title_full: Red flashes above storms and UFO reports
 display_title_short: Sprites
 display_title: Sprites
 heading_title: Red flashes above storms and UFO reports
@@ -206,7 +206,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can Weather Make a UFO Look Stranger? | UFO Case AI
+parent_title: Can Weather Make a UFO Look Stranger?
 parent_permalink: /weather/
 parent_nav_short_title: Weather
 parent_heading_title: Can Weather Make a UFO Look Stranger?
@@ -285,7 +285,7 @@ next_link:
   permalink: /weather-data/
   short_title: Weather data
   heading_title: Weather records that change a UFO case
-date: '2026-06-08 23:07:46 '
+date: '2026-06-10 19:57:31 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1.webp
@@ -294,11 +294,11 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_db
 
 ## Introduction
 
-Brief red flashes above thunderstorms have triggered more than a few “what did I just see?” UFO reports. A witness may see a red burst high above a storm cloud, shaped like a jellyfish, column, or branching flare, only for it to vanish in milliseconds. Without context, the event can look artificial, intelligent, or unlike ordinary [lightning]({{ 'lightning-timing/' | relative_url }}). In reality, some of these reports match a class of upper-atmosphere electrical phenomena called sprites: short-lived flashes linked to powerful thunderstorms and now grouped under the wider category of transient luminous events, or TLEs. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/lightning-transient-luminous-events.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">International Cloud AtlasLightning: Transient luminous events (TLEs)Short-lived luminous electrical manifestations formed in the upper re...</span></span></span>
+Brief red flashes above thunderstorms have triggered more than a few “what did I just see?” UFO reports. A witness may see a red burst high above a storm cloud, shaped like a jellyfish, column, or branching flare, only for it to vanish in milliseconds. Without context, the event can look artificial, intelligent, or unlike ordinary lightning. In reality, some of these reports match a class of upper-atmosphere electrical phenomena called sprites: short-lived flashes linked to powerful thunderstorms and now grouped under the wider category of transient luminous events, or TLEs. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/lightning-transient-luminous-events.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">International Cloud AtlasLightning: Transient luminous events (TLEs)Short-lived luminous electrical manifestations formed in the upper re...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1-dark.svg" | relative_url }}" alt="Sprites illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For an AI-assisted UFO sighting investigation, sprites matter because they produce exactly the kind of sudden, dramatic, poorly understood visual event that witnesses often describe as anomalous. They are real [atmospheric]({{ 'scintillation/' | relative_url }}) events, not hoaxes or hallucinations, but they are also easy to misinterpret when viewed from a distance or without visible storm context. A good investigation workflow therefore checks lightning activity, radar data, viewing direction, storm distance, and event duration before treating the sighting as an unknown object.
+For an AI-assisted UFO sighting investigation, sprites matter because they produce exactly the kind of sudden, dramatic, poorly understood visual event that witnesses often describe as anomalous. They are real atmospheric events, not hoaxes or hallucinations, but they are also easy to misinterpret when viewed from a distance or without visible storm context. A good investigation workflow therefore checks lightning activity, radar data, viewing direction, storm distance, and event duration before treating the sighting as an unknown object.
 
 ## What sprites look like from the ground
 
@@ -306,10 +306,10 @@ Sprites occur high above thunderstorms, often between roughly 50 and 90 kilometr
 
 To a ground observer, a sprite can appear:
 
-* As a vertical red flash above [distant storm]({{ 'storm-geometry/' | relative_url }}) clouds
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* As a vertical red flash above distant storm clouds
 * Like glowing tentacles or a jellyfish shape
 * As multiple branching streaks that appear simultaneously
 * Suspended high above the storm rather than inside it
@@ -318,18 +318,18 @@ To a ground observer, a sprite can appear:
 
 </div>
 
-This combination creates strong UFO-report conditions. The witness may not connect the flash to the storm below, especially if the thunderstorm is beyond the horizon or partially hidden by terrain or cloud layers. The Royal Meteorological Society notes that sprites are difficult to observe with the naked eye and are usually best seen at night from long distances, often over 150 kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/metmatters/mysterious-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">mysterious lightning</span><span class="citation-popover-snippet">RMetSMysterious lightning30 Nov 2016 — Sprites are rarely observed, however when they do appear they are a large but faint, reddish-orang...</span></span></span>
+This combination creates strong UFO-report conditions. The witness may not connect the flash to the storm below, especially if the thunderstorm is beyond the horizon or partially hidden by terrain or cloud layers. The Royal Meteorological Society notes that sprites are difficult to observe with the naked eye and are usually best seen at night from long distances, often over 150 kilometres away. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmets.org/metmatters/mysterious-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">mysterious lightning</span><span class="citation-popover-snippet">Mysterious lightning30 Nov 2016 — Sprites are rarely observed, however when they do appear they are a large but faint, reddish-orang...</span></span></span>
 
-That distance matters. A person watching from far away loses depth cues and scale references. A sprite tens of kilometres tall may instead appear as a compact glowing object hanging motionless above the horizon. If the lower storm is obscured, the witness may report “a red craft [hovering]({{ 'wind-checks/' | relative_url }}) over clouds” rather than an atmospheric discharge.
+That distance matters. A person watching from far away loses depth cues and scale references. A sprite tens of kilometres tall may instead appear as a compact glowing object hanging motionless above the horizon. If the lower storm is obscured, the witness may report “a red craft hovering over clouds” rather than an atmospheric discharge.
 
-Modern [smartphone]({{ 'phone-cameras/' | relative_url }}) video has changed this area of investigation. Many contemporary reports now include short clips that show faint red structures above thunderstorms. AI-assisted review systems can stabilise footage, isolate frames, compare colour patterns, and correlate the timing with lightning detection networks. This makes it easier to distinguish a sprite from aircraft lights, drones, meteors, or camera artefacts.
+Modern smartphone video has changed this area of investigation. Many contemporary reports now include short clips that show faint red structures above thunderstorms. AI-assisted [review]({{ 'review/' | relative_url }}) systems can stabilise footage, isolate frames, compare colour patterns, and correlate the timing with lightning detection networks. This makes it easier to distinguish a sprite from [aircraft]({{ 'aircraft/' | relative_url }}) lights, drones, meteors, or camera artefacts.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NBPjUcMGqbY" title="What Is a Sprite? Earth&#x27;s Super Rare Red Lightning Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NBPjUcMGqbY" target="_blank" rel="noopener noreferrer">What Is a Sprite? Earth&#x27;s Super Rare Red Lightning Explained</a></p><p class="youtube-embed-meta">Channel: FOX Weather &middot; Views: 259.5K &middot; Uploaded: January 2023 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NBPjUcMGqbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NBPjUcMGqbY">Open on YouTube</a></p></div></div></div>
 
 ## Why sprites can feel more “UFO-like” than ordinary lightning
 
-Ordinary lightning is familiar. Sprites are not. Their rarity and strange geometry create a mismatch between expectation and observation that often drives anomalous interpretations.
+Ordinary lightning is familiar. Sprites are not. Their rarity and strange [geometry]({{ 'geometry/' | relative_url }}) create a mismatch between expectation and observation that often drives anomalous interpretations.
 
 Several features repeatedly appear in UFO-style descriptions:
 
@@ -363,7 +363,7 @@ An AI-assisted workflow can quickly test whether the timing and geometry fit a s
 Key checks include:
 
 * Lightning strike databases for the exact minute of the sighting
-* [Weather radar]({{ 'radar-errors/' | relative_url }}) showing active storm cells
+* [Weather]({{ 'weather/' | relative_url }}) radar showing active storm cells
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -375,7 +375,7 @@ Key checks include:
 
 </div>
 
-This matters because sprites are often offset from the visible lightning channel itself. A witness may report a flash well above or beside the storm core. Research into winter thunderstorms and wind shear has shown that sprites can appear displaced from the parent lightning strike location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivNumerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span>
+This matters because sprites are often offset from the visible lightning channel itself. A witness may report a flash well above or beside the storm core. Research into winter thunderstorms and wind shear has shown that sprites can appear displaced from the parent lightning strike location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Numerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span>
 
 AI systems can help by reconstructing the geometry. If the witness location, storm position and viewing angle align with known sprite behaviour, the case may move from “unknown aerial object” to “consistent with transient luminous event”.
 
@@ -408,7 +408,7 @@ Sprites also do not behave like controlled craft. They do not zigzag, stop and r
 
 However, investigators should avoid overly rigid filtering. Human perception under night-time conditions is imperfect, especially when storms, fear, surprise or distance are involved. A witness may sincerely estimate a one-second flash as lasting much longer. AI-assisted reconstruction helps by aligning testimony against measurable environmental timing.
 
-Video evidence is especially valuable here. Frame-by-frame [review]({{ 'review/' | relative_url }}) often reveals whether the event:
+Video evidence is especially valuable here. Frame-by-frame review often reveals whether the event:
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -472,7 +472,7 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
         </h4>
         <p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Relevant to reports involving unexplained lights.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -482,16 +482,16 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Encourages evidence-based interpretation of unusual sightings.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -499,16 +499,16 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The AMS Weather Book on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NWtHAAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The AMS Weather Book" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Jack Williams</p>
         
-        
+        <p class="fr-book-desc">Explains thunderstorms and rare atmospheric events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+by+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -516,16 +516,16 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Weather For Dummies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=LtoPEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Weather For Dummies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By John D. Cox</p>
         
-        
+        <p class="fr-book-desc">Provides context for atmospheric electrical events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Weather+For+Dummies+by+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -533,13 +533,13 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+AMS+Weather+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The AMS Weather Book</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -566,76 +566,72 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch"><img src="{{ '/assets/images/marketplace-covers/b67bcabaccc6f309f4d9.jpg' | relative_url }}" alt="Listing image for Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Roswell UFO Iron-On Or Sew-On Embroidered Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=storm+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-storm-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm poster -book -books" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-storm-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open storm poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20storm%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EStorm%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EStorm%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for storm poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">storm poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Storm</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=storm+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-storm-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm poster -book -books" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-storm-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA"><img src="{{ '/assets/images/marketplace-covers/bc6fdd3c99a594e0a953.jpg' | relative_url }}" alt="Listing image for ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">ROSWELL 1947 UFO ALIEN IRON ON PATCH AREA</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=night+sky+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-night-sky-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print -book -books" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-night-sky-print-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open night sky print on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20night%20sky%20print%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ENight%20Sky%20Print%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ENight%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESky%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPrint%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for night sky print on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">night sky print</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Night</span><span class="fr-search-tag">Sky</span><span class="fr-search-tag">Print</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=night+sky+print+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-night-sky-print-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="night sky print -book -books" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-night-sky-print-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico Police UFO patch"><img src="{{ '/assets/images/marketplace-covers/0074f75fce3ce6945325.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico Police UFO patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico Police UFO patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=red+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-red-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red poster -book -books -dvd" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-red-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open red poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20red%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERed%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERed%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for red poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">red poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Red</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=red+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-red-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red poster -book -books -dvd" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-red-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO"><img src="{{ '/assets/images/marketplace-covers/1d0a4256d350bf2e2adf.jpg' | relative_url }}" alt="Listing image for Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">Roswell New Mexico UFO Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Roswell UFO patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Roswell UFO patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=red+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-red-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red memorabilia -book -books -dvd" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-red-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open red memorabilia on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20red%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ERed%20Memorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERed%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for red memorabilia on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">red memorabilia</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Red</span><span class="fr-search-tag">Memorabilia</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=red+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-red-memorabilia-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="red memorabilia -book -books -dvd" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-red-memorabilia-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Roswell+UFO+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Roswell UFO patch" data-ebay-reference="sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-roswell-ufo-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=storm+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=sprites-red-flashes-above-storms-and-ufo-reports-ai-assisted-ufo-sighting-investigation-storm-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -693,10 +689,10 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -714,7 +710,7 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -849,105 +845,105 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
 
 1. <a id="endnote-1"></a>
    Source: nssl.noaa.gov  
-   Link: [https://www.nssl.noaa.gov/education/svrwx101/lightning/types/](https://www.nssl.noaa.gov/education/svrwx101/lightning/types/)  
+   Link: <a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/types/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Sprite (lightning)  
-   Link: [https://en.wikipedia.org/wiki/Sprite_%28lightning%29](https://en.wikipedia.org/wiki/Sprite_%28lightning%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sprite_%28lightning%29</a>  
 
 3. <a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Upper-atmospheric lightning  
-   Link: [https://en.wikipedia.org/wiki/Upper-atmospheric_lightning](https://en.wikipedia.org/wiki/Upper-atmospheric_lightning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Upper-atmospheric_lightning</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Upper-atmospheric lightningUpper-atmospheric lightning is believed to be electrically induced forms of luminous plasma. The preferred...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: rmets.org  
    Title: mysterious lightning  
-   Link: [https://www.rmets.org/metmatters/mysterious-lightning](https://www.rmets.org/metmatters/mysterious-lightning)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RMetSMysterious lightning30 Nov 2016 — Sprites are rarely observed, however when they do appear they are a large but faint, reddish-orang...</p></details>
+   Link: <a href="https://www.rmets.org/metmatters/mysterious-lightning" target="_blank" rel="noopener noreferrer nofollow">https://www.rmets.org/metmatters/mysterious-lightning</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mysterious lightning30 Nov 2016 — Sprites are rarely observed, however when they do appear they are a large but faint, reddish-orang...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/citizen-science/spritacular/](https://science.nasa.gov/citizen-science/spritacular/)  
+   Link: <a href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/citizen-science/spritacular/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2404.14794](https://arxiv.org/abs/2404.14794)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivNumerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</p></details>
+   Link: <a href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2404.14794</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Numerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/](https://www.weather.gov/)  
+   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceSevere Weather Across the Southeast; Fire Weather Concerns; Record Warmth for the West · Wind Advisory · Frost Ad...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: [https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: cloudatlas.wmo.int  
-   Link: [https://cloudatlas.wmo.int/lightning-transient-luminous-events.html](https://cloudatlas.wmo.int/lightning-transient-luminous-events.html)  
+   Link: <a href="https://cloudatlas.wmo.int/lightning-transient-luminous-events.html" target="_blank" rel="noopener noreferrer nofollow">https://cloudatlas.wmo.int/lightning-transient-luminous-events.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>International Cloud AtlasLightning: Transient luminous events (TLEs)Short-lived luminous electrical manifestations formed in the upper re...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: seversondells.com  
-   Link: [https://www.seversondells.com/blog/tles](https://www.seversondells.com/blog/tles)  
+   Link: <a href="https://www.seversondells.com/blog/tles" target="_blank" rel="noopener noreferrer nofollow">https://www.seversondells.com/blog/tles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of Transient Luminous EventsNov 22, 2024 — TLEs are electrical discharges similar to lightning that occur in the upper atmosp...</p></details>
 
 ### Additional References
 
 11. <a id="endnote-11"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NOAAResearch/posts/in-the-spirit-of-spooky-season-we-are-here-to-tell-you-that-elves-and-sprites-ar/969719065196594/](https://www.facebook.com/NOAAResearch/posts/in-the-spirit-of-spooky-season-we-are-here-to-tell-you-that-elves-and-sprites-ar/969719065196594/)  
+   Link: <a href="https://www.facebook.com/NOAAResearch/posts/in-the-spirit-of-spooky-season-we-are-here-to-tell-you-that-elves-and-sprites-ar/969719065196594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOAAResearch/posts/in-the-spirit-of-spooky-season-we-are-here-to-tell-you-that-elves-and-sprites-ar/969719065196594/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Office of Oceanic and Atmospheric ResearchRed sprites are a type of Transient Luminous Event (TLE), a rare electrical discharge that...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Physics/comments/1lwwebp/transient_luminous_events_red_sprites/](https://www.reddit.com/r/Physics/comments/1lwwebp/transient_luminous_events_red_sprites/)  
+   Link: <a href="https://www.reddit.com/r/Physics/comments/1lwwebp/transient_luminous_events_red_sprites/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Physics/comments/1lwwebp/transient_luminous_events_red_sprites/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient luminous events, Red sprites: r/PhysicsThey occur high above the clouds, almost silently, and are invisible to most people—but...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-spriteshave-you-ever-heard-of-lightning-that-shoots-up-inste/1364180232183882/](https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-spriteshave-you-ever-heard-of-lightning-that-shoots-up-inste/1364180232183882/)  
+   Link: <a href="https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-spriteshave-you-ever-heard-of-lightning-that-shoots-up-inste/1364180232183882/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ChelseaChandlerNews/posts/%EF%B8%8F-weather-wednesday-spriteshave-you-ever-heard-of-lightning-that-shoots-up-inste/1364180232183882/</a>  
 
 14. <a id="endnote-14"></a>
    Source: earthdate.org  
-   Link: [https://www.earthdate.org/episodes/sprites-and-elves](https://www.earthdate.org/episodes/sprites-and-elves)  
+   Link: <a href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdate.org/episodes/sprites-and-elves</a>  
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zaA8nT4qqM8](https://www.youtube.com/watch?v=zaA8nT4qqM8)  
+   Link: <a href="https://www.youtube.com/watch?v=zaA8nT4qqM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zaA8nT4qqM8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient Luminous Events: Blue Jets &amp; Red SpritesBlue Jets are a type of transient luminous event or tle flashes and glows that appear a...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=NBPjUcMGqbY](https://www.youtube.com/watch?v=NBPjUcMGqbY)  
+   Link: <a href="https://www.youtube.com/watch?v=NBPjUcMGqbY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=NBPjUcMGqbY</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What Is a Sprite? Earth&#x27;s Super Rare Red Lightning ExplainedA kind of transient luminous event or TLE, a sprite occurs during lightning s...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: foxweather.com  
    Title: sprites mysterious flashes above thunderstorms  
-   Link: [https://www.foxweather.com/learn/sprites-mysterious-flashes-above-thunderstorms](https://www.foxweather.com/learn/sprites-mysterious-flashes-above-thunderstorms)  
+   Link: <a href="https://www.foxweather.com/learn/sprites-mysterious-flashes-above-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/learn/sprites-mysterious-flashes-above-thunderstorms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites — not a UFO — make these mysterious flashes...7 Jan 2023 — Officially known as a type of &quot;transient luminous events,&quot; sprites fo...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: foxweather.com  
-   Link: [https://www.foxweather.com/earth-space/nasa-seeks-help-uncovering-mysteries-bright-flashes-known-as-sprites-occurring-above-thunderstorms](https://www.foxweather.com/earth-space/nasa-seeks-help-uncovering-mysteries-bright-flashes-known-as-sprites-occurring-above-thunderstorms)  
+   Link: <a href="https://www.foxweather.com/earth-space/nasa-seeks-help-uncovering-mysteries-bright-flashes-known-as-sprites-occurring-above-thunderstorms" target="_blank" rel="noopener noreferrer nofollow">https://www.foxweather.com/earth-space/nasa-seeks-help-uncovering-mysteries-bright-flashes-known-as-sprites-occurring-above-thunderstorms</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red sprites formed above thunderstorms in the southeast Aegean...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/unboxfactory/posts/a-nasa-astronaut-aboard-the-international-space-station-captured-a-spectacular-i/1028070882877295/](https://www.facebook.com/unboxfactory/posts/a-nasa-astronaut-aboard-the-international-space-station-captured-a-spectacular-i/1028070882877295/)  
+   Link: <a href="https://www.facebook.com/unboxfactory/posts/a-nasa-astronaut-aboard-the-international-space-station-captured-a-spectacular-i/1028070882877295/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/unboxfactory/posts/a-nasa-astronaut-aboard-the-international-space-station-captured-a-spectacular-i/1028070882877295/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>sprites formed above thunderstorms in the southeast Aegean...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: facebook.com  
    Title: LOO K CAREFULLY! Video slowed down  
-   Link: [https://www.facebook.com/VoxWeather/posts/look-carefully-video-slowed-down-a-red-sprite-was-spotted-during-a-thunderstorm-/855801193472298/](https://www.facebook.com/VoxWeather/posts/look-carefully-video-slowed-down-a-red-sprite-was-spotted-during-a-thunderstorm-/855801193472298/)  
+   Link: <a href="https://www.facebook.com/VoxWeather/posts/look-carefully-video-slowed-down-a-red-sprite-was-spotted-during-a-thunderstorm-/855801193472298/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VoxWeather/posts/look-carefully-video-slowed-down-a-red-sprite-was-spotted-during-a-thunderstorm-/855801193472298/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>LOOK CAREFULLY! Video slowed down - A red sprite was...Red sprites are an uncommon atmospheric phenomenon that originates in the mesosph...</p></details>

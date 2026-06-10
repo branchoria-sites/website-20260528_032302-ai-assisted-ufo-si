@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /moon-illusions/
 nav_short_title: Following Moon
 title: Why the Moon Appears To Follow Your Car
-title_full: Why the Moon Appears To Follow Your Car | Moon illusions
+title_full: Why the Moon Appears To Follow Your Car
 display_title_short: Following Moon
 display_title: Following Moon
 heading_title: Why the Moon Appears To Follow Your Car
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Can the Moon really look like a UFO? | Astronomy
+parent_title: Can the Moon really look like a UFO?
 parent_permalink: /moon-illusions/
 parent_nav_short_title: Moon illusions
 parent_heading_title: Can the Moon really look like a UFO?
@@ -266,7 +266,7 @@ next_link:
   permalink: /moon-position/
   short_title: Moon Position
   heading_title: Could the Moon Match the Reported UFO Position?
-date: '2026-06-08 23:39:33 '
+date: '2026-06-10 20:16:09 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1.webp
@@ -279,7 +279,7 @@ A common feature of road-based UFO reports is a bright object that appears to �
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1-dark.svg" | relative_url }}" alt="Following Moon illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The illusion happens because the Moon is extremely far away compared with nearby roadside objects. Trees, lamp posts, hills and buildings shift rapidly as a car moves, while the Moon’s apparent position changes so slowly that it seems locked in place. When cloud, haze or broken foreground gaps partly hide the lunar disc, the brain may stop recognising it as the Moon at all and instead interpret it as a [hovering]({{ 'wind-checks/' | relative_url }}) craft or intelligent light. This is one of the most important perception checks in AI-assisted UFO sighting investigation because many night-time reports from roads involve this exact [geometry]({{ 'geometry/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.unl.edu">[astro.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.unl.edu</span><span class="citation-popover-snippet">Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant background objects caused by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">WIREDWhy does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/moon-and-stars-distance-appearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">You see buildings and people and farm fields whiz by, but you</span><span class="citation-popover-snippet">EarthSkyWhy does the moon seem to follow me when I&#x27;m in a car?Apr 19, 2024 — The reason is that the moon is so distant compared to earthl...</span></span></span>
+The illusion happens because the Moon is extremely far away compared with nearby roadside objects. Trees, lamp posts, hills and buildings shift rapidly as a car moves, while the Moon’s apparent position changes so slowly that it seems locked in place. When cloud, haze or broken foreground gaps partly hide the lunar disc, the brain may stop recognising it as the Moon at all and instead interpret it as a hovering craft or intelligent light. This is one of the most important perception checks in AI-assisted UFO sighting investigation because many night-time reports from roads involve this exact [geometry]({{ 'geometry/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.unl.edu">[astro.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.unl.edu</span><span class="citation-popover-snippet">Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant background objects caused by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">Why does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/moon-and-stars-distance-appearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">You see buildings and people and farm fields whiz by, but you</span><span class="citation-popover-snippet">Why does the moon seem to follow me when I&#x27;m in a car?Apr 19, 2024 — The reason is that the moon is so distant compared to earthl...</span></span></span>
 
 ## Parallax and distant-object perception
 
@@ -290,7 +290,7 @@ Inside a moving car, this creates two very different visual behaviours at once:
 * Nearby objects such as fences, signs and trees race past.
 * Very distant objects such as the Moon appear almost stationary.
 
-The human visual system interprets relative motion rather than absolute motion. Because the foreground is sliding backwards while the Moon barely shifts at all, the Moon can appear to maintain pace with the observer. Wired summarised the effect simply: the Moon remains in “basically the same angular position” even after the car moves a considerable distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">WIREDWhy does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span>
+The human visual system interprets relative motion rather than absolute motion. Because the foreground is sliding backwards while the Moon barely shifts at all, the Moon can appear to maintain pace with the observer. Wired summarised the effect simply: the Moon remains in “basically the same angular position” even after the car moves a considerable distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">Why does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span>
 
 This becomes especially convincing on long straight roads at night. With few visible landmarks in the sky, the Moon can seem fixed relative to the windscreen rather than fixed relative to the Earth. Drivers sometimes report that the object:
 
@@ -307,7 +307,7 @@ This becomes especially convincing on long straight roads at night. With few vis
 
 These observations are actually expected from a very distant stationary object. The Moon is roughly 384,000 kilometres away, so the change in viewing angle produced by a car travelling a few hundred metres is tiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.papertrell.com/apps/preview/Handy-Answer-Book/Handy%20Answer%20book/Why-does-the-Moon-follow-us-when-were-driving/001137006/content/SC/51360d12172536090c7a568d_planetearthelementhtml.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papertrell.com">[papertrell.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papertrell.com</span><span class="citation-popover-snippet">According to astronomers, the reason why the Moon seems to be following us is because it is so far away.Read more...</span></span></span>
 
-The illusion strengthens when the Moon is low on the horizon because the observer unconsciously compares it with foreground terrain. Psychological studies of the “Moon illusion” show that the brain uses landscape cues to judge distance and size, often distorting how large or how close the Moon appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.04414" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Moon Illusion explained by the Projective Consciousness Model</span><span class="citation-popover-snippet">arXiv The Moon Illusion explained by the Projective Consciousness Model</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Moon Illusion: Why Does the Moon Look So Big</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...January 24, 2023 — 24 Jan 2023 — The Moon&#x27;s seeming bigness is an actual...</span><span class="citation-popover-meta">Published: January 24, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">PMCby L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
+The illusion strengthens when the Moon is low on the horizon because the observer unconsciously compares it with foreground terrain. Psychological studies of the “Moon illusion” show that the brain uses landscape cues to judge distance and size, often distorting how large or how close the Moon appears. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1809.04414" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Moon Illusion explained by the Projective Consciousness Model</span><span class="citation-popover-snippet">arXiv The Moon Illusion explained by the Projective Consciousness Model</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science The Moon Illusion: Why Does the Moon Look So Big</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...January 24, 2023 — 24 Jan 2023 — The Moon&#x27;s seeming bigness is an actual...</span><span class="citation-popover-meta">Published: January 24, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
 
 ## Trees, lamp posts and broken sightlines
 
@@ -327,7 +327,7 @@ The brain often interprets this interrupted visibility as active movement by the
 This effect becomes stronger under several common night-driving conditions.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ylb8jVhDWKU" title="Jason Aldean - Why (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ylb8jVhDWKU" target="_blank" rel="noopener noreferrer">Jason Aldean - Why (Official Audio)</a></p><p class="youtube-embed-meta">Channel: Jason Aldean &middot; Views: 293.7K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 34 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ylb8jVhDWKU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ylb8jVhDWKU">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ia2tFVZHyPo" title="Why does the moon follow us?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ia2tFVZHyPo" target="_blank" rel="noopener noreferrer">Why does the moon follow us?</a></p><p class="youtube-embed-meta">Channel: Science is Dope &middot; Views: 13.7K &middot; Uploaded: March 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ia2tFVZHyPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ia2tFVZHyPo">Open on YouTube</a></p></div></div></div>
 
 ### Low lunar altitude
 
@@ -378,10 +378,10 @@ At night, depth cues are weaker and distance estimation becomes less reliable. A
 
 </div>
 
-Psychologists studying visual perception note that the brain constantly reconstructs spatial relationships from [incomplete]({{ 'incomplete-data/' | relative_url }}) information. Under poor visibility conditions, those reconstructions can become highly misleading without the observer realising it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">PMCby L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
+Psychologists studying visual perception note that the brain constantly reconstructs spatial relationships from [incomplete]({{ 'incomplete-data/' | relative_url }}) information. Under poor visibility conditions, those reconstructions can become highly misleading without the observer realising it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zuJV-DAv_wE" title="NF - WHY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zuJV-DAv_wE" target="_blank" rel="noopener noreferrer">NF - WHY</a></p><p class="youtube-embed-meta">Channel: NFVEVO &middot; Views: 96.6M &middot; Uploaded: June 2018 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zuJV-DAv_wE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zuJV-DAv_wE">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1bB7NpmbB_E" title="You Can Take Pictures of Planets With Your Phone Now #iphone #samsung #space #tech #smartphone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1bB7NpmbB_E" target="_blank" rel="noopener noreferrer">You Can Take Pictures of Planets With Your Phone Now #iphone #samsung #space #tech #smartphone</a></p><p class="youtube-embed-meta">Channel: Custom Adventurist &middot; Views: 21.9K &middot; Uploaded: April 2026 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1bB7NpmbB_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1bB7NpmbB_E">Open on YouTube</a></p></div></div></div>
 
 ## How investigators test road-based UFO reports
 
@@ -408,10 +408,10 @@ Modern astronomy software and mapping tools make this straightforward. Investiga
 
 Several indicators strongly support a Moon-based explanation:
 
-* the object remained visible for very [long durations]({{ 'long-fireballs/' | relative_url }})
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
+* the object remained visible for very long durations
 * it maintained a stable bearing despite travel
 * it showed no verified radar signature
 * witnesses were travelling by car
@@ -455,10 +455,10 @@ For investigators, this distinction matters. A report can contain:
 
 and still arise from ordinary astronomical geometry.
 
-That is why modern UFO analysis increasingly treats environmental reconstruction as essential rather than optional. Before a sighting is considered anomalous, investigators need to test whether distant-object perception, cloud cover, foreground interruptions and lunar positioning can fully explain the reported behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.unl.edu">[astro.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.unl.edu</span><span class="citation-popover-snippet">Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant background objects caused by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/5320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[NASA Scientific Visualization Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-title">You can easily see this effect just by alternately closing your</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioMoon Essentials: ParallaxJun 27, 2024 — Parallax is the apparent shift in the position of an object w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">WIREDWhy does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span>
+That is why modern UFO analysis increasingly treats environmental reconstruction as essential rather than optional. Before a sighting is considered anomalous, investigators need to test whether distant-object perception, cloud cover, foreground interruptions and lunar positioning can fully explain the reported behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.unl.edu">[astro.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.unl.edu</span><span class="citation-popover-snippet">Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant background objects caused by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/5320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[NASA Scientific Visualization Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-title">You can easily see this effect just by alternately closing your</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioMoon Essentials: ParallaxJun 27, 2024 — Parallax is the apparent shift in the position of an object w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">Why does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span>
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ia2tFVZHyPo" title="Why does the moon follow us?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ia2tFVZHyPo" target="_blank" rel="noopener noreferrer">Why does the moon follow us?</a></p><p class="youtube-embed-meta">Channel: Science is Dope &middot; Views: 13.7K &middot; Uploaded: March 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ia2tFVZHyPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ia2tFVZHyPo">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
@@ -473,16 +473,16 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Explains common sky-object misidentifications including the Moon.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -490,16 +490,16 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Helps readers identify and understand celestial objects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -507,16 +507,16 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        
+        <p class="fr-book-desc">Covers observation, perspective and night-sky interpretation.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -524,16 +524,16 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Encourages evidence-based interpretation of unusual observations.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -541,13 +541,13 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -574,76 +574,72 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=lunar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-lunar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lunar poster -book -books" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-lunar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open lunar poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20lunar%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ELunar%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ELunar%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for lunar poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">lunar poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Lunar</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=lunar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-lunar-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="lunar poster -book -books" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-lunar-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock"><img src="{{ '/assets/images/marketplace-covers/6a914ab478f4568dac43.jpg' | relative_url }}" alt="Listing image for Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage 1957 Philips Chart of the Stars Astronomy Map Poster E O Tancock</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big"><img src="{{ '/assets/images/marketplace-covers/b64cdf336f9794ec37de.jpg' | relative_url }}" alt="Listing image for MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">MOON Art Print Astronomy Poster Outer Space Decor Picture A4 A3 A2 A1 Large Big</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open telescope accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20telescope%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ETelescope%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETelescope%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for telescope accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">telescope accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Telescope</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large"><img src="{{ '/assets/images/marketplace-covers/0e5dbc87c8d72719964f.jpg' | relative_url }}" alt="Listing image for Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open your poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20your%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EYour%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EYour%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for your poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">your poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Your</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=your+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-your-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="your poster -book -books -dvd" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-your-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=lunar+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=following-moon-why-the-moon-appears-to-follow-your-car-ai-assisted-ufo-sighting-investigation-lunar-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -701,10 +697,10 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -722,7 +718,7 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -858,141 +854,141 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
 1. <a id="endnote-1"></a>
    Source: wired.com  
    Title: why does the moon follow me  
-   Link: [https://www.wired.com/2010/09/why-does-the-moon-follow-me/](https://www.wired.com/2010/09/why-does-the-moon-follow-me/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WIREDWhy does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</p></details>
+   Link: <a href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/2010/09/why-does-the-moon-follow-me/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: earthsky.org  
    Title: You see buildings and people and farm fields whiz by, but you  
-   Link: [https://earthsky.org/astronomy-essentials/moon-and-stars-distance-appearance/](https://earthsky.org/astronomy-essentials/moon-and-stars-distance-appearance/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EarthSkyWhy does the moon seem to follow me when I&#x27;m in a car?Apr 19, 2024 — The reason is that the moon is so distant compared to earthl...</p></details>
+   Link: <a href="https://earthsky.org/astronomy-essentials/moon-and-stars-distance-appearance/" target="_blank" rel="noopener noreferrer nofollow">https://earthsky.org/astronomy-essentials/moon-and-stars-distance-appearance/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the moon seem to follow me when I&#x27;m in a car?Apr 19, 2024 — The reason is that the moon is so distant compared to earthl...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: astro.unl.edu  
-   Link: [https://astro.unl.edu/naap/distance/parallax.html](https://astro.unl.edu/naap/distance/parallax.html)  
+   Link: <a href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow">https://astro.unl.edu/naap/distance/parallax.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant background objects caused by...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: svs.gsfc.nasa.gov  
    Title: You can easily see this effect just by alternately closing your  
-   Link: [https://svs.gsfc.nasa.gov/5320/](https://svs.gsfc.nasa.gov/5320/)  
+   Link: <a href="https://svs.gsfc.nasa.gov/5320/" target="_blank" rel="noopener noreferrer nofollow">https://svs.gsfc.nasa.gov/5320/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Scientific Visualization StudioMoon Essentials: ParallaxJun 27, 2024 — Parallax is the apparent shift in the position of an object w...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: space.com  
    Title: What Is Parallax?  
-   Link: [https://www.space.com/30417-parallax.html](https://www.space.com/30417-parallax.html)  
+   Link: <a href="https://www.space.com/30417-parallax.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/30417-parallax.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Astronomers Measure Stellar...11 Jan 2022 — Parallax is the observed displacement of an object caused by the change of the observer&#x27;...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: papertrell.com  
-   Link: [https://www.papertrell.com/apps/preview/Handy-Answer-Book/Handy%20Answer%20book/Why-does-the-Moon-follow-us-when-were-driving/001137006/content/SC/51360d12172536090c7a568d_planetearthelementhtml.html](https://www.papertrell.com/apps/preview/Handy-Answer-Book/Handy%20Answer%20book/Why-does-the-Moon-follow-us-when-were-driving/001137006/content/SC/51360d12172536090c7a568d_planetearthelementhtml.html)  
+   Link: <a href="https://www.papertrell.com/apps/preview/Handy-Answer-Book/Handy%20Answer%20book/Why-does-the-Moon-follow-us-when-were-driving/001137006/content/SC/51360d12172536090c7a568d_planetearthelementhtml.html" target="_blank" rel="noopener noreferrer nofollow">https://www.papertrell.com/apps/preview/Handy-Answer-Book/Handy%20Answer%20book/Why-does-the-Moon-follow-us-when-were-driving/001137006/content/SC/51360d12172536090c7a568d_planetearthelementhtml.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>According to astronomers, the reason why the Moon seems to be following us is because it is so far away.Read more...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: science.nasa.gov  
    Title: Science The Moon Illusion: Why Does the Moon Look So Big  
-   Link: [https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/](https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/)  
+   Link: <a href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...January 24, 2023 — 24 Jan 2023 — The Moon&#x27;s seeming bigness is an actual...</p></details>
    Published: January 24, 2023  
 
 8. <a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCExplaining the moon illusion  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/](https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCby L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: arxiv.org  
    Title: arXiv The Moon Illusion explained by the Projective Consciousness Model  
-   Link: [https://arxiv.org/abs/1809.04414](https://arxiv.org/abs/1809.04414)  
+   Link: <a href="https://arxiv.org/abs/1809.04414" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1809.04414</a>  
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv The Celestial Vault is Not a Dome: Implications for the Moon Illusion  
-   Link: [https://arxiv.org/abs/2306.13656](https://arxiv.org/abs/2306.13656)  
+   Link: <a href="https://arxiv.org/abs/2306.13656" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2306.13656</a>  
 
 11. <a id="endnote-11"></a>
    Source: coolcosmos.ipac.caltech.edu  
    Title: Cool Cosmos Why does the Moon follow me when I move?  
-   Link: [https://coolcosmos.ipac.caltech.edu/ask/177-Why-does-the-Moon-follow-me-when-I-move-](https://coolcosmos.ipac.caltech.edu/ask/177-Why-does-the-Moon-follow-me-when-I-move-)  
+   Link: <a href="https://coolcosmos.ipac.caltech.edu/ask/177-Why-does-the-Moon-follow-me-when-I-move-" target="_blank" rel="noopener noreferrer nofollow">https://coolcosmos.ipac.caltech.edu/ask/177-Why-does-the-Moon-follow-me-when-I-move-</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cool CosmosWhy does the Moon follow me when I move? - Cool CosmosThe Moon appears to follow you because it is very far away, and objects...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: Wikipedia  
    Title: Moon illusion  
-   Link: [https://en.wikipedia.org/wiki/Moon_illusion](https://en.wikipedia.org/wiki/Moon_illusion)  
+   Link: <a href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moon_illusion</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: merriam-webster.com  
-   Link: [https://www.merriam-webster.com/dictionary/why](https://www.merriam-webster.com/dictionary/why)  
+   Link: <a href="https://www.merriam-webster.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.merriam-webster.com/dictionary/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition &amp; MeaningApr 4, 2026 — 1. The cause, reason, or purpose for which know why you did it that is why you did it 2. For which: on...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Parallax](https://en.wikipedia.org/wiki/Parallax)  
+   Link: <a href="https://en.wikipedia.org/wiki/Parallax" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parallax</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ParallaxIn astronomy, parallax is the apparent shift in position of a nearby celestial object relative to distant background objects w...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/Why](https://en.wikipedia.org/wiki/Why)  
+   Link: <a href="https://en.wikipedia.org/wiki/Why" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Why - WikipediaWhy may refer to: Causality, a consequential relationship between two or more events; Reason (argument), a premise in s...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: vocabulary.com  
-   Link: [https://www.vocabulary.com/dictionary/why](https://www.vocabulary.com/dictionary/why)  
+   Link: <a href="https://www.vocabulary.com/dictionary/why" target="_blank" rel="noopener noreferrer nofollow">https://www.vocabulary.com/dictionary/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Definition, Meaning &amp; Synonymsthe cause or intention underlying an action or situation, especially in the phrase `the whys and wherefores&#x27;...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: collinsdictionary.com  
-   Link: [https://www.collinsdictionary.com/us/dictionary/english/why](https://www.collinsdictionary.com/us/dictionary/english/why)  
+   Link: <a href="https://www.collinsdictionary.com/us/dictionary/english/why" target="_blank" rel="noopener noreferrer nofollow">https://www.collinsdictionary.com/us/dictionary/english/why</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>WHY definition in American English4 senses: 1. a. for what reason, purpose, or cause? b. (used in indirect questions) 2. for or because o...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: sciencebuddies.org  
-   Link: [https://www.sciencebuddies.org/science-fair-projects/project-ideas/Astro_p006/astronomy/a-puzzling-parallax](https://www.sciencebuddies.org/science-fair-projects/project-ideas/Astro_p006/astronomy/a-puzzling-parallax)  
+   Link: <a href="https://www.sciencebuddies.org/science-fair-projects/project-ideas/Astro_p006/astronomy/a-puzzling-parallax" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencebuddies.org/science-fair-projects/project-ideas/Astro_p006/astronomy/a-puzzling-parallax</a>  
 
 19. <a id="endnote-19"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/explainlikeimfive/comments/1g105fd/eli5_why_does_the_moon_follow_us_when_we_drive/](https://www.reddit.com/r/explainlikeimfive/comments/1g105fd/eli5_why_does_the_moon_follow_us_when_we_drive/)  
+   Link: <a href="https://www.reddit.com/r/explainlikeimfive/comments/1g105fd/eli5_why_does_the_moon_follow_us_when_we_drive/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/explainlikeimfive/comments/1g105fd/eli5_why_does_the_moon_follow_us_when_we_drive/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ELI5: why does the moon follow us when we driveIt&#x27;s just an optical illusion because the moon is really big and really fr away. The moon...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DUeFNE7DmCg/](https://www.instagram.com/reel/DUeFNE7DmCg/)  
+   Link: <a href="https://www.instagram.com/reel/DUeFNE7DmCg/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DUeFNE7DmCg/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever looked out the car window and felt like...7 Feb 2026 — It feels like magic, but it&#x27;s actually a trick of perspective calle...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/Astronomy/comments/l4kg3p/using_the_moon_to_increase_our_possible_parallax/](https://www.reddit.com/r/Astronomy/comments/l4kg3p/using_the_moon_to_increase_our_possible_parallax/)  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/l4kg3p/using_the_moon_to_increase_our_possible_parallax/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/l4kg3p/using_the_moon_to_increase_our_possible_parallax/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the angles are tiny and only useful for relatively close...Read more...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/groups/2205176794/posts/10158826454826795/](https://www.facebook.com/groups/2205176794/posts/10158826454826795/)  
+   Link: <a href="https://www.facebook.com/groups/2205176794/posts/10158826454826795/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2205176794/posts/10158826454826795/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>the light travelling to earth is very similar to it...Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/reel/DXa-O3mFmFm/](https://www.instagram.com/reel/DXa-O3mFmFm/)  
+   Link: <a href="https://www.instagram.com/reel/DXa-O3mFmFm/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXa-O3mFmFm/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>d a distant plane travels in a similar direction, its position...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sky-lights.org  
    Title: qa why the moon follows you  
-   Link: [https://sky-lights.org/2018/11/12/qa-why-the-moon-follows-you/](https://sky-lights.org/2018/11/12/qa-why-the-moon-follows-you/)  
+   Link: <a href="https://sky-lights.org/2018/11/12/qa-why-the-moon-follows-you/" target="_blank" rel="noopener noreferrer nofollow">https://sky-lights.org/2018/11/12/qa-why-the-moon-follows-you/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Q&amp;A: Why the Moon Follows You12 Nov 2018 — Answer: The Moon&#x27;s not doing anything JR. It&#x27;s just hanging out there in space, and you&#x27;re pas...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: open.spotify.com  
-   Link: [https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH](https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH)  
+   Link: <a href="https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/artist/0d7aBBLFcc4dlETnae6zcH</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comWHY? | SpotifySingles and EPs... The Letters, Etc. Single • 2024 · Auld Lang Syne. Single • 2022 · Phantom Throb. Single • 20...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: open.spotify.com  
    Title: 6Wux9SSXc Udgw G7TIt GTJz  
-   Link: [https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz](https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz)  
+   Link: <a href="https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/track/6Wux9SSXcUdgwG7TItGTJz</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>song and lyrics by Carly SimonWhy? Why does your love hurt so much? Don&#x27;t know why. You know I loved you baby. But all the while, you jus...</p></details>

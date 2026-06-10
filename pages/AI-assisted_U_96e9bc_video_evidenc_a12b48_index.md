@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-video-evidenc/
 description: Focused pages that expand on Video Limits.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_video_evidenc_a12b48
-parent_title: Video Limits | AI assisted UFO sighting investigation
+parent_title: Video Limits
 parent_nav_short_title: Video Limits
 parent_permalink: /video-limits/
 ---

@@ -6,10 +6,10 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-human-review/
 description: Focused pages that expand on Review Checks.
-date: '2026-06-08'
+date: '2026-06-10'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7
-parent_title: Review Checks | Review
+parent_title: Review Checks
 parent_nav_short_title: Review Checks
 parent_permalink: /review-checks/
 ---

@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /video-timeline/
 nav_short_title: Parallel Timelines
 title: Why Witness Memory And File History Diverge
-title_full: Why Witness Memory And File History Diverge | Video timeline
+title_full: Why Witness Memory And File History Diverge
 display_title_short: Parallel Timelines
 display_title: Parallel Timelines
 heading_title: Why Witness Memory And File History Diverge
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: What the video really shows | Timeline
+parent_title: What the video really shows
 parent_permalink: /video-timeline/
 parent_nav_short_title: Video timeline
 parent_heading_title: What the video really shows
@@ -266,7 +266,7 @@ next_link:
   permalink: /reposted-clips/
   short_title: Reposted Clips
   heading_title: Why Viral UFO Videos Become Worse Evidence
-date: '2026-06-08 23:57:41 '
+date: '2026-06-10 20:26:36 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1.webp
@@ -279,20 +279,25 @@ A strong UFO reconstruction does not force every piece of evidence into a single
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1-dark.svg" | relative_url }}" alt="Parallel Timelines illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters because people often remember an event as continuous and dramatic even when the file history shows pauses, zoom adjustments, dropped frames, or missing sections. Equally, a damaged or recompressed video may hide useful timing clues even when the witness account is broadly accurate. Modern forensic guidance treats digital video as a structured evidence object with independent timing behaviour, not just a moving image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">NISTOSAC 2022-S-0031 Standard Guide for Forensic Digital...January 2, 2024 — For example, processing includes tasks to transcode, enhanc...</span><span class="citation-popover-meta">Published: January 2, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/itl/ssd/digital-forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Digital ForensicsDigital evidence includes data on computers and mobile devices, including audio, video, and image files as well as softw...</span></span></span>
+This matters because people often remember an event as continuous and dramatic even when the file history shows pauses, zoom adjustments, dropped frames, or missing sections. Equally, a damaged or recompressed video may hide useful timing clues even when the witness account is broadly accurate. Modern forensic guidance treats digital video as a structured evidence object with independent timing behaviour, not just a moving image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">OSAC 2022-S-0031 Standard Guide for Forensic Digital...January 2, 2024 — For example, processing includes tasks to transcode, enhanc...</span><span class="citation-popover-meta">Published: January 2, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/itl/ssd/digital-forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Digital ForensicsDigital evidence includes data on computers and mobile devices, including audio, video, and image files as well as softw...</span></span></span>
 
 In practical UFO case work, the goal is not to “catch out” witnesses. It is to separate subjective recollection from independently verifiable file events so investigators can identify where memory, device behaviour, and external reality align or diverge.
 
 ## Why witness memory and file history diverge
 
-Witnesses rarely experience a sighting as a clean linear timeline. Attention narrows during surprising events. Time estimates drift. Emotional intensity changes recall quality. Cognitive psychology research has repeatedly shown that memory is reconstructive rather than perfectly replayed, especially after stress, discussion, or repeated retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rke.abertay.ac.uk">[Abertay University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rke.abertay.ac.uk</span><span class="citation-popover-snippet">Cognitive Interview arose out of a need to examine ways of improving witness memory. (cognitive factors) as well as addressing some of th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web-archive.southampton.ac.uk">[University of Southampton Web Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web-archive.southampton.ac.uk</span><span class="citation-popover-snippet">University of Southampton Web ArchiveEyewitness performance in Cognitive and Structured...by A Memon · Cited by 103 — This paper address...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">PMCThe impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</span></span></span>
+Witnesses rarely experience a sighting as a clean linear timeline. Attention narrows during surprising events. Time estimates drift. Emotional intensity changes recall quality. Cognitive psychology research has repeatedly shown that memory is reconstructive rather than perfectly replayed, especially after stress, discussion, or repeated retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rke.abertay.ac.uk">[Abertay University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rke.abertay.ac.uk</span><span class="citation-popover-snippet">Cognitive Interview arose out of a need to examine ways of improving witness memory. (cognitive factors) as well as addressing some of th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web-archive.southampton.ac.uk">[University of Southampton Web Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web-archive.southampton.ac.uk</span><span class="citation-popover-snippet">University of Southampton Web ArchiveEyewitness performance in Cognitive and Structured...by A Memon · Cited by 103 — This paper address...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</span></span></span>
 
 In UFO investigations, this creates several recurring problems:
 
-* A witness may remember an object “[hovering]({{ 'wind-checks/' | relative_url }}) for ten minutes” while the recorded clip lasts forty seconds.
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
+* A witness may remember an object “hovering for ten minutes” while the recorded clip lasts forty seconds.
 * The observer may recall smooth movement even though the camera repeatedly loses focus.
-* A bright object may appear to “shoot away” at the exact moment [autofocus]({{ 'focus-blur/' | relative_url }}) or exposure changes.
+* A bright object may appear to “shoot away” at the exact moment autofocus or exposure changes.
 * The witness may believe recording began immediately, while phone logs show the camera app opened much later.
+
+</div>
 
 These differences do not automatically imply dishonesty. Human recall and device behaviour operate differently. A phone records measurable file events. A person reconstructs an experience using attention, expectation, stress, conversation, and later interpretation.
 
@@ -308,19 +313,14 @@ A useful reconstruction normally creates at least four independent timeline laye
 
 This layer contains what the observer believes happened and in what order. It may include:
 
-
-<div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
-
 * First sighting moment.
 * Estimated duration.
 * Emotional reactions.
 * Perceived speed or direction changes.
 * Claimed disappearances or accelerations.
-* Statements about sound, weather, or lighting.
+* Statements about sound, [weather]({{ 'weather/' | relative_url }}), or lighting.
 
-</div>
-
-This layer should preserve original wording wherever possible before discussion forums, social media comments, or AI-generated summaries begin reshaping the account.
+This layer should preserve [original]({{ 'original-evidence/' | relative_url }}) wording wherever possible before discussion forums, social media comments, or AI-generated summaries begin reshaping the account.
 
 Investigators increasingly use structured timeline interviewing methods because free conversation tends to jumble sequence order. Cognitive interview research shows that timeline-based recall methods improve sequencing and contextual detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://crestresearch.ac.uk/resources/a-timeline-helps-interviewees-recall-and-report-events/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: crestresearch.ac.uk">[Crest Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">crestresearch.ac.uk</span><span class="citation-popover-title">a timeline helps interviewees recall and report events</span><span class="citation-popover-snippet">Crest ResearchA timeline helps interviewees recall and report events18 Jan 2016 — The Timeline Technique helps interviewees recall and re...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web-archive.southampton.ac.uk">[University of Southampton Web Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web-archive.southampton.ac.uk</span><span class="citation-popover-snippet">University of Southampton Web ArchiveEyewitness performance in Cognitive and Structured...by A Memon · Cited by 103 — This paper address...</span></span></span>
 
@@ -364,13 +364,13 @@ A witness may sincerely remember a stable glowing object while the file shows re
 
 This layer tracks the digital object's history after recording:
 
-* Original creation [timestamp]({{ 'sky-checks/' | relative_url }}).
-* Modification timestamps.
-* Export events.
-* Edits.
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
+* Original creation timestamp.
+* Modification timestamps.
+* Export events.
+* Edits.
 * Re-encodes.
 * Cloud sync actions.
 * Messaging transfers.
@@ -378,7 +378,7 @@ This layer tracks the digital object's history after recording:
 
 </div>
 
-Forensic guidance stresses that video processing workflows can alter metadata and timing structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...KEY TAKEAWAY #2.5: Every digital forensic technique sh...</span></span></span> Social-media systems often strip metadata entirely or recompress media into new file structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[RemoveMD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and Faceboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">social media, aggressive compression algorithms strip Exif metadata. Although a basic thumbnail or downscaled resolution value may remain...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Getting to the...</span></span></span>
+Forensic guidance stresses that video processing workflows can alter [metadata]({{ 'metadata/' | relative_url }}) and timing structure. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...KEY TAKEAWAY #2.5: Every digital forensic technique sh...</span></span></span> Social-media systems often strip metadata entirely or recompress media into new file structures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[RemoveMD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and Faceboo...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">social media, aggressive compression algorithms strip Exif metadata. Although a basic thumbnail or downscaled resolution value may remain...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Getting to the...</span></span></span>
 
 An AI-assisted workflow should therefore maintain provenance chains showing exactly which copy came from which source.
 
@@ -386,7 +386,7 @@ An AI-assisted workflow should therefore maintain provenance chains showing exac
 
 This final layer contains independently verifiable environmental anchors:
 
-* Aircraft transponder records.
+* [Aircraft]({{ 'aircraft/' | relative_url }}) transponder records.
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -412,7 +412,7 @@ Many “high strangeness” moments in UFO videos occur at transition points ins
 
 ### Zoom transitions
 
-Digital zoom can radically alter apparent motion. When a witness rapidly zooms into a distant light source:
+[Digital zoom]({{ 'digital-zoom/' | relative_url }}) can radically alter apparent motion. When a witness rapidly zooms into a distant light source:
 
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
@@ -426,13 +426,13 @@ Digital zoom can radically alter apparent motion. When a witness rapidly zooms i
 
 An object may appear to dart or oscillate when the movement actually comes from camera amplification.
 
-A proper file-event timeline therefore marks every zoom state change. AI systems can often estimate these transitions even when explicit metadata is missing by analysing focal shifts and frame [geometry]({{ 'geometry/' | relative_url }}).
+A proper file-event timeline therefore marks every zoom state change. AI systems can often estimate these transitions even when explicit metadata is missing by analysing focal shifts and frame geometry.
 
 This matters because witnesses frequently remember the object moving first and the zoom adjustment second, while frame analysis may show the opposite sequence.
 
 ### Exposure and brightness shifts
 
-Phone cameras constantly rebalance exposure. Bright objects against dark skies create difficult conditions for mobile sensors.
+[Phone cameras]({{ 'phone-cameras/' | relative_url }}) constantly rebalance exposure. Bright objects against dark skies create difficult conditions for mobile sensors.
 
 A timeline should therefore mark:
 
@@ -492,9 +492,6 @@ Investigators can compare the claimed timeline against:
 
 When witness memory claims erratic manoeuvres but frame analysis shows consistent sidereal drift, the divergence becomes important.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
-
 ### Aviation and drone correlation
 
 Aircraft and drone checks benefit from parallel timelines because witnesses often compress time during exciting events.
@@ -510,7 +507,7 @@ That does not automatically solve the case, but it changes the evidential pictur
 
 ### Weather and atmospheric anchors
 
-Cloud movement, wind direction, fog layers, and [lightning]({{ 'lightning-timing/' | relative_url }}) flashes provide useful synchronisation points.
+Cloud movement, wind direction, fog layers, and lightning flashes provide useful synchronisation points.
 
 A file may lack trustworthy timestamps, yet:
 
@@ -523,7 +520,7 @@ This approach becomes especially useful when circulated clips have lost metadata
 
 ## How AI helps compare the layers
 
-AI systems are most useful when they preserve uncertainty rather than collapsing everything into a single confidence score.
+AI systems are most useful when they preserve uncertainty rather than collapsing everything into a single [confidence]({{ 'confidence/' | relative_url }}) score.
 
 ### Sequence alignment
 
@@ -591,7 +588,7 @@ They also improve credibility with sceptical audiences because the method openly
 Importantly, this approach does not automatically debunk sightings. Some cases remain difficult even after rigorous separation of witness memory and file history. The value lies in making the remaining anomaly clearer by stripping away artefacts introduced by recall drift, camera automation, and platform processing.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9iHM6X6uUH8" title="Jim Yosef - Link | House | NCS - Copyright Free Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer">Jim Yosef - Link | House | NCS - Copyright Free Music</a></p><p class="youtube-embed-meta">Channel: NoCopyrightSounds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9iHM6X6uUH8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9iHM6X6uUH8">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
 
 ## Where investigators commonly make mistakes
 
@@ -658,16 +655,16 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Thinking, Fast and Slow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=YGPzXWanppcC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Thinking, Fast and Slow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Daniel Kahneman</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Fits divergence between recollection and recorded file events.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -675,16 +672,16 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Gorilla on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=VecEbBYC_sEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible Gorilla" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Relevant to why witnesses miss or reshape timing details.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -692,16 +689,16 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How to Read a Photograph on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=6Fn5wQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How to Read a Photograph" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How to Read a Photograph">How to Read a Photograph</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Ian Jeffrey, Max Kozloff</p>
         
-        
+        <p class="fr-book-desc">Supports separating what a file shows from what a witness recalls.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=How+to+Read+a+Photograph+by+Ian+Jeffrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -709,16 +706,16 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Signal and the Noise on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=nQ6RMAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Signal and the Noise" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Signal and the Noise">The Signal and the Noise</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Nate Silver</p>
         
-        
+        <p class="fr-book-desc">Useful for aligning conflicting evidence layers.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Signal+and+the+Noise+by+Nate+Silver&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -726,13 +723,13 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Thinking, Fast and Slow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Gorilla&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Gorilla</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+to+Read+a+Photograph&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How to Read a Photograph</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -759,76 +756,72 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR"><img src="{{ '/assets/images/marketplace-covers/57834cc60c486f091bd6.jpg' | relative_url }}" alt="Listing image for PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">PHOTO UFO OVER ALLENDALE JUST BEFORE SUNRISE I SPOTTED THIS UFO HEADING WESTWAR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera tripod on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20tripod%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Tripod%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETripod%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera tripod on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">camera tripod</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Tripod</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia."><img src="{{ '/assets/images/marketplace-covers/173b0f1936c9ca8da3dc.jpg' | relative_url }}" alt="Listing image for UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Concert poster - Glasgow 2019 live music band show tour -- Gig memorabilia.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open memory card reader on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20memory%20card%20reader%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemory%20Card%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EReader%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemory%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECard%3C%2Ftext%3E%3Crect%20x%3D%22132%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22142%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EReader%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for memory card reader on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">memory card reader</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Memory</span><span class="fr-search-tag">Card</span><span class="fr-search-tag">Reader</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=memory+card+reader&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-memory-card-reader&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="memory card reader" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-memory-card-reader" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986"><img src="{{ '/assets/images/marketplace-covers/afd3d020d3403f6473d1.jpg' | relative_url }}" alt="Listing image for UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Programme Michael Schenker Original Official Misdemeanor World Tour 1986</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=voice+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-voice-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="voice recorder" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-voice-recorder" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open voice recorder on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20voice%20recorder%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EVoice%20Recorder%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EVoice%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERecorder%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for voice recorder on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">voice recorder</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Voice</span><span class="fr-search-tag">Recorder</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=voice+recorder&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-voice-recorder&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="voice recorder" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-voice-recorder" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981"><img src="{{ '/assets/images/marketplace-covers/4f44b9864100a2d97fbb.jpg' | relative_url }}" alt="Listing image for UFO Proggramme Original concert Souvenir Booklet UK Tour 1981" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">UFO Proggramme Original concert Souvenir Booklet UK Tour 1981</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">ufo poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-poster-series-telev&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-poster-series-telev" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO memorabilia" data-ebay-reference="parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-ufo-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=parallel-timelines-why-witness-memory-and-file-history-diverge-ai-assisted-ufo-sighting-investig-camera-tripod&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -886,10 +879,10 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -907,7 +900,7 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -1042,175 +1035,175 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
 
 1. <a id="endnote-1"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20](https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NISTOSAC 2022-S-0031 Standard Guide for Forensic Digital...January 2, 2024 — For example, processing includes tasks to transcode, enhanc...</p></details>
+   Link: <a href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>OSAC 2022-S-0031 Standard Guide for Forensic Digital...January 2, 2024 — For example, processing includes tasks to transcode, enhanc...</p></details>
    Published: January 2, 2024  
 
 2. <a id="endnote-2"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/itl/ssd/digital-forensics](https://www.nist.gov/itl/ssd/digital-forensics)  
+   Link: <a href="https://www.nist.gov/itl/ssd/digital-forensics" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/itl/ssd/digital-forensics</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Digital ForensicsDigital evidence includes data on computers and mobile devices, including audio, video, and image files as well as softw...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: arxiv.org  
    Title: arXiv Forensic Analysis of Video Files Using Metadata  
-   Link: [https://arxiv.org/abs/2105.06361](https://arxiv.org/abs/2105.06361)  
+   Link: <a href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.06361</a>  
 
 4. <a id="endnote-4"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>PMCThe impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</p></details>
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: ncacia.org  
    Title: inside forensic interviewing exploring the basics about the various models  
-   Link: [https://www.ncacia.org/post/inside-forensic-interviewing-exploring-the-basics-about-the-various-models](https://www.ncacia.org/post/inside-forensic-interviewing-exploring-the-basics-about-the-various-models)  
+   Link: <a href="https://www.ncacia.org/post/inside-forensic-interviewing-exploring-the-basics-about-the-various-models" target="_blank" rel="noopener noreferrer nofollow">https://www.ncacia.org/post/inside-forensic-interviewing-exploring-the-basics-about-the-various-models</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Forensic Interviewing: Exploring the Basics About...25 Apr 2024 — The Cognitive Interviewing Model is a research-backed approach...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nvlpubs.nist.gov  
-   Link: [https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf](https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf)  
+   Link: <a href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8354.pdf</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIST PublicationsDigital Investigation Techniques: A NIST Scientific Foundation...KEY TAKEAWAY #2.5: Every digital forensic technique sh...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: sciepublish.com  
-   Link: [https://www.sciepublish.com/article/pii/567](https://www.sciepublish.com/article/pii/567)  
+   Link: <a href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow">https://www.sciepublish.com/article/pii/567</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>social media, aggressive compression algorithms strip Exif metadata. Although a basic thumbnail or downscaled resolution value may remain...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: removemd.com  
-   Link: [https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal](https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal)  
+   Link: <a href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow">https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and Faceboo...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: nist.gov  
-   Link: [https://www.nist.gov/document/standard-practice-data-retrieval-digital-cctv-systems](https://www.nist.gov/document/standard-practice-data-retrieval-digital-cctv-systems)  
+   Link: <a href="https://www.nist.gov/document/standard-practice-data-retrieval-digital-cctv-systems" target="_blank" rel="noopener noreferrer nofollow">https://www.nist.gov/document/standard-practice-data-retrieval-digital-cctv-systems</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>science disciplines as well as scientific research, measurement science.Read more...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2403.07891](https://arxiv.org/abs/2403.07891)  
+   Link: <a href="https://arxiv.org/abs/2403.07891" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2403.07891</a>  
 
 11. <a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2408.04681](https://arxiv.org/abs/2408.04681)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivConversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</p></details>
+   Link: <a href="https://arxiv.org/abs/2408.04681" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2408.04681</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conversational AI Powered by Large Language Models Amplifies False Memories in Witness InterviewsAugust 8, 2024...</p></details>
    Published: August 8, 2024  
 
 12. <a id="endnote-12"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=m6aY9Wr-xjI](https://www.youtube.com/watch?v=m6aY9Wr-xjI)  
+   Link: <a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=m6aY9Wr-xjI</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyewitness Testimony*** 1. What reconstructive memory is and why it makes eyewitness testimony unreliable. * How our minds rebuild memori...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=ee7g5SR7McA](https://www.youtube.com/watch?v=ee7g5SR7McA)  
+   Link: <a href="https://www.youtube.com/watch?v=ee7g5SR7McA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ee7g5SR7McA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ion that an eyewitness can retrieve about a crime...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: youtube.com  
    Title: Cognitive Psychology and Witness Memory Reliability  
-   Link: [https://www.youtube.com/watch?v=Jb-k-3_gU3w](https://www.youtube.com/watch?v=Jb-k-3_gU3w)  
+   Link: <a href="https://www.youtube.com/watch?v=Jb-k-3_gU3w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Jb-k-3_gU3w</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Introduction to Forensic Video Analysis...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=vVj4u_3n2Hw](https://www.youtube.com/watch?v=vVj4u_3n2Hw)  
+   Link: <a href="https://www.youtube.com/watch?v=vVj4u_3n2Hw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=vVj4u_3n2Hw</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>How Eyewitness Testimony Can Be Misleading...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: youtube.com  
    Title: How Eyewitness Testimony Can Be Misleading  
-   Link: [https://www.youtube.com/watch?v=R39pS_41c6E](https://www.youtube.com/watch?v=R39pS_41c6E)  
+   Link: <a href="https://www.youtube.com/watch?v=R39pS_41c6E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=R39pS_41c6E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Digital Video Metadata and Timestamps...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: youtube.com  
    Title: Understanding Digital Video Metadata and Timestamps  
-   Link: [https://www.youtube.com/watch?v=x-720-YwY2E](https://www.youtube.com/watch?v=x-720-YwY2E)  
+   Link: <a href="https://www.youtube.com/watch?v=x-720-YwY2E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=x-720-YwY2E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reconstructing Events from Disparate Data Sources...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: youtube.com  
    Title: Reconstructing Events from Disparate Data Sources  
-   Link: [https://www.youtube.com/watch?v=aG-F7L43r0I](https://www.youtube.com/watch?v=aG-F7L43r0I)  
+   Link: <a href="https://www.youtube.com/watch?v=aG-F7L43r0I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aG-F7L43r0I</a>  
 
 19. <a id="endnote-19"></a>
    Source: web-archive.southampton.ac.uk  
-   Link: [https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html](https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html)  
+   Link: <a href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow">https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>University of Southampton Web ArchiveEyewitness performance in Cognitive and Structured...by A Memon · Cited by 103 — This paper address...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: rke.abertay.ac.uk  
-   Link: [https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf](https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf)  
+   Link: <a href="https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Interview arose out of a need to examine ways of improving witness memory. (cognitive factors) as well as addressing some of th...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: crestresearch.ac.uk  
    Title: a timeline helps interviewees recall and report events  
-   Link: [https://crestresearch.ac.uk/resources/a-timeline-helps-interviewees-recall-and-report-events/](https://crestresearch.ac.uk/resources/a-timeline-helps-interviewees-recall-and-report-events/)  
+   Link: <a href="https://crestresearch.ac.uk/resources/a-timeline-helps-interviewees-recall-and-report-events/" target="_blank" rel="noopener noreferrer nofollow">https://crestresearch.ac.uk/resources/a-timeline-helps-interviewees-recall-and-report-events/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Crest ResearchA timeline helps interviewees recall and report events18 Jan 2016 — The Timeline Technique helps interviewees recall and re...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: magnetforensics.com  
    Title: getting to the source understanding metadata removal on social media  
-   Link: [https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/](https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/)  
+   Link: <a href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow">https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting to the...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: tutor2u.net  
    Title: cognitive interview  
-   Link: [https://www.tutor2u.net/psychology/[reference](https://www.tutor2u.net/psychology/[reference)  
+   Link: <a href="https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOop5LEen_Iqr4BkaNXoRycFin9q-rIr9sWg7Dwuj5RTiEePIU7H4" target="_blank" rel="noopener noreferrer nofollow">https://www.tutor2u.net/psychology/reference/cognitive-interview?srsltid=AfmBOop5LEen_Iqr4BkaNXoRycFin9q-rIr9sWg7Dwuj5RTiEePIU7H4</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Reference Library | Psychology22 Mar 2021 — A new questioning methodology - the cognitive interview - to achieve more detailed and accura...</p></details>
 
 ### Additional References
 
 24. <a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: [https://www.researchgate.net/publication/392730673_Investigating_methods_for_forensic_analysis_of_social_media_data_to_support_criminal_investigations](https://www.researchgate.net/publication/392730673_Investigating_methods_for_forensic_analysis_of_social_media_data_to_support_criminal_investigations)  
+   Link: <a href="https://www.researchgate.net/publication/392730673_Investigating_methods_for_forensic_analysis_of_social_media_data_to_support_criminal_investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/392730673_Investigating_methods_for_forensic_analysis_of_social_media_data_to_support_criminal_investigations</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) Investigating methods for forensic analysis of social...16 Jun 2025 — This research evaluates the effectiveness of existing forens...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: linkedin.com  
-   Link: [https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc](https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LinkedInUnderstanding Metadata in Digital Forensics: HTML vs. EXIFSocial media platforms have specific ways of handling both image and vi...</p></details>
+   Link: <a href="https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/understanding-metadata-digital-forensics-html-vfsvc</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Understanding Metadata in Digital Forensics: HTML vs. EXIFSocial media platforms have specific ways of handling both image and vi...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: simplypsychology.org  
-   Link: [https://www.simplypsychology.org/cognitive-interview.html](https://www.simplypsychology.org/cognitive-interview.html)  
+   Link: <a href="https://www.simplypsychology.org/cognitive-interview.html" target="_blank" rel="noopener noreferrer nofollow">https://www.simplypsychology.org/cognitive-interview.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Cognitive Interview Techniqueby S McLeod · Cited by 1 — Conclusion: The cognitive interview leads to better memory of events, with witnes...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: psychstory.co.uk  
-   Link: [https://www.psychstory.co.uk/memory/eye-witness-testimony](https://www.psychstory.co.uk/memory/eye-witness-testimony)  
+   Link: <a href="https://www.psychstory.co.uk/memory/eye-witness-testimony" target="_blank" rel="noopener noreferrer nofollow">https://www.psychstory.co.uk/memory/eye-witness-testimony</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>factors affecting the accuracy of eye witness testimonyThese theories have shown that memory is not a perfect recording of events but a r...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: techfusion.com  
-   Link: [https://techfusion.com/metadata-forensics-digital-trail/](https://techfusion.com/metadata-forensics-digital-trail/)  
+   Link: <a href="https://techfusion.com/metadata-forensics-digital-trail/" target="_blank" rel="noopener noreferrer nofollow">https://techfusion.com/metadata-forensics-digital-trail/</a>  
 
 29. <a id="endnote-29"></a>
    Source: powellpath.com  
-   Link: [https://powellpath.com/photo-video-audio-authenticity-review.php](https://powellpath.com/photo-video-audio-authenticity-review.php)  
+   Link: <a href="https://powellpath.com/photo-video-audio-authenticity-review.php" target="_blank" rel="noopener noreferrer nofollow">https://powellpath.com/photo-video-audio-authenticity-review.php</a>  
 
 30. <a id="endnote-30"></a>
    Source: university.open.ac.uk  
-   Link: [https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence](https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence)  
+   Link: <a href="https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence" target="_blank" rel="noopener noreferrer nofollow">https://university.open.ac.uk/research-centres/herc/blog/what-can-visual-attention-research-tell-us-about-reliability-eyewitness-evidence</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>can visual attention research tell us about...In this article, Gemma Briggs and Louise Westmarland discuss research on visual attention...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: forensicfocus.com  
    Title: amped authenticates video mode raising the bar for forensic video analysis  
-   Link: [https://www.forensicfocus.com/articles/amped-authenticates-video-mode-raising-the-bar-for-forensic-video-analysis/](https://www.forensicfocus.com/articles/amped-authenticates-video-mode-raising-the-bar-for-forensic-video-analysis/)  
+   Link: <a href="https://www.forensicfocus.com/articles/amped-authenticates-video-mode-raising-the-bar-for-forensic-video-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.forensicfocus.com/articles/amped-authenticates-video-mode-raising-the-bar-for-forensic-video-analysis/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Amped Authenticate&#x27;s Video Mode: Raising The Bar For...28 Aug 2025 — Learn how to use Amped Authenticate&#x27;s new Video Mode to verify vide...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: lcgdiscovery.com  
-   Link: [https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/](https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A [video file](&amp;#123;&amp;#123; &#x27;video-timeline/&#x27; | relative_url &amp;#125;&amp;#125;) is more than pictures in motion. It is a container of data and metadata, recorded by a...Read more...</p></details>
+   Link: <a href="https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/" target="_blank" rel="noopener noreferrer nofollow">https://lcgdiscovery.com/beyond-the-screen-part-6-video-evidence-under-the-microscope-metadata-and-manipulation/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>A video file is more than pictures in motion. It is a container of data and metadata, recorded by a...Read more...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: eclipseforensics.com  
    Title: the role of metadata in forensic video investigations  
-   Link: [https://eclipseforensics.com/the-role-of-metadata-in-forensic-video-investigations/](https://eclipseforensics.com/the-role-of-metadata-in-forensic-video-investigations/)  
+   Link: <a href="https://eclipseforensics.com/the-role-of-metadata-in-forensic-video-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://eclipseforensics.com/the-role-of-metadata-in-forensic-video-investigations/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Sept 2025 — Understanding metadata in video forensics helps clarify events and establish authenticity, supporting investigations throug...</p></details>

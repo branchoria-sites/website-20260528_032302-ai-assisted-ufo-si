@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /light-pillars/
 nav_short_title: Freezing Fog
 title: Why Vertical UFO Beams Seem To Hover In Fog
-title_full: Why Vertical UFO Beams Seem To Hover In Fog | Light pillars
+title_full: Why Vertical UFO Beams Seem To Hover In Fog
 display_title_short: Freezing Fog
 display_title: Freezing Fog
 heading_title: Why Vertical UFO Beams Seem To Hover In Fog
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Are those alien beams really light pillars? | Weather
+parent_title: Are those alien beams really light pillars?
 parent_permalink: /light-pillars/
 parent_nav_short_title: Light pillars
 parent_heading_title: Are those alien beams really light pillars?
@@ -260,7 +260,7 @@ next_link:
   permalink: /light-maps/
   short_title: Light Maps
   heading_title: Can Night Light Maps Explain A UFO Beam?
-date: '2026-06-08 23:27:34 '
+date: '2026-06-10 20:09:02 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1.webp
@@ -273,7 +273,7 @@ A light pillar becomes far more convincing as a “vertical UFO beam” when fre
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-dark.svg" | relative_url }}" alt="Freezing Fog illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-This matters in AI-assisted UFO sighting investigation because witnesses are often reporting a real visual event, not inventing one. The error lies in altitude and source perception. A structured investigation therefore needs to test not only whether ice-crystal conditions existed, but also whether freezing fog could have masked the ground lighting responsible for the effect. In many winter UFO reports involving “[hovering]({{ 'wind-checks/' | relative_url }}) beams”, “light columns”, or “stationary portals”, the key investigative question is whether the witness could physically see the horizon and the originating light source at all.
+This matters in AI-assisted UFO sighting investigation because witnesses are often reporting a real visual event, not inventing one. The error lies in altitude and source perception. A structured investigation therefore needs to test not only whether ice-crystal conditions existed, but also whether freezing fog could have masked the ground lighting responsible for the effect. In many winter UFO reports involving “hovering beams”, “light columns”, or “stationary portals”, the key investigative question is whether the witness could physically see the horizon and the originating light source at all.
 
 ## How freezing fog obscures ground lighting
 
@@ -293,7 +293,7 @@ That combination produces a powerful illusion during UFO sightings:
 
 </div>
 
-[Atmospheric]({{ 'scintillation/' | relative_url }}) optics researchers note that [light pillars]({{ 'light-pillars/' | relative_url }}) are not physical beams extending upward. They are reflections from horizontally aligned ice crystals located between the observer and the source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atoptics.co.uk/blog/lower-sun-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Lower sun pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — The lower pillars in mountain valleys are best after dawn when the valley is filled by an ice fog after a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> In practice, this means the “beam” can remain visible even when the originating light fixture is completely hidden.
+Atmospheric optics researchers note that [light pillars]({{ 'light-pillars/' | relative_url }}) are not physical beams extending upward. They are reflections from horizontally aligned ice crystals located between the observer and the source. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atoptics.co.uk/blog/lower-sun-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Lower sun pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — The lower pillars in mountain valleys are best after dawn when the valley is filled by an ice fog after a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> In practice, this means the “beam” can remain visible even when the originating light fixture is completely hidden.
 
 For UFO investigations, this is one of the most important perceptual traps. Witnesses often assume that if no source is visible, the light must originate in the sky itself. Freezing fog breaks that assumption.
 
@@ -331,9 +331,6 @@ This is especially convincing when:
 
 In some reports, observers describe the light as “starting in the clouds” because the hidden lower section never becomes visible.
 
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0ttboaR5X4Q" title="Light Pillars: What Are Those Mysterious Light Beams From The Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0ttboaR5X4Q" target="_blank" rel="noopener noreferrer">Light Pillars: What Are Those Mysterious Light Beams From The Sky?</a></p><p class="youtube-embed-meta">Channel: ScienceABC II &middot; Views: 4.3K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0ttboaR5X4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0ttboaR5X4Q">Open on YouTube</a></p></div></div></div>
-
 ## Diamond dust and low-wind crystal conditions
 
 The strongest detached-looking pillars usually occur during diamond dust events or freezing fog under calm conditions. Diamond dust refers to tiny free-floating ice crystals suspended near ground level, often in extremely cold air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psl.noaa.gov/outreach/education/science/glitter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psl.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psl.noaa.gov</span><span class="citation-popover-title">Glittering Light on Water</span><span class="citation-popover-snippet">Physical Sciences Laboratory - NOAAby HGP are Formed · 1999 · Cited by 15 — Glitter patterns on water are similar to vertical light pilla...</span></span></span>
@@ -352,21 +349,16 @@ These conditions are ideal for UFO misidentification because the atmosphere simu
 
 Researchers and meteorologists repeatedly associate dramatic pillar displays with very low wind speeds because flat plate-like crystals remain horizontally aligned instead of tumbling chaotically. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span>
 
-Calm cold air also allows the crystals to remain suspended near the ground, effectively forming a [reflective]({{ 'foil-flashes/' | relative_url }}) optical layer. In mountain valleys or industrial cold basins, freezing fog can become dense enough that only the upper reflected portion of a pillar remains visible from a distance. Atmospheric Optics specifically notes that valley ice fog after cold nights can produce striking lower pillars and suspended-looking reflections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</span></span></span>
+Calm cold air also allows the crystals to remain suspended near the ground, effectively forming a reflective optical layer. In mountain valleys or industrial cold basins, freezing fog can become dense enough that only the upper reflected portion of a pillar remains visible from a distance. Atmospheric Optics specifically notes that valley ice fog after cold nights can produce striking lower pillars and suspended-looking reflections. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</span></span></span>
 
 For investigators, weather records showing:
-
-
-<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * freezing fog,
 * ice fog,
 * diamond dust, <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">after midnight (22° ring, sundogs, pillar, parhelic circle)...</span></span></span>
 * calm winds,
-* temperature inversions,
+* temperature [inversions]({{ 'inversions/' | relative_url }}),
 * or very low surface temperatures
-
-</div>
 
 are highly relevant when evaluating reports of static vertical lights.
 
@@ -391,16 +383,21 @@ The effect becomes stronger in fog because atmospheric scattering removes contra
 
 This explains why many reports describe:
 
+
+<div class="content-enhancement content-enhancement--insight-grid" markdown="1">
+
 * “a beam coming from the sky”,
 * “a hovering column”,
 * or “a craft hidden above cloud”.
+
+</div>
 
 The observer is not necessarily misreporting what they perceived. The environment itself degraded depth perception.
 
 Light pillars also shimmer and pulse as crystal orientations shift in subtle air currents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span> Witnesses may interpret these fluctuations as controlled movement or energy variation rather than atmospheric optics.
 
 
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VMin6O8uMxQ" title="Stunning Mysterious Light Pillars | Stunning Ice Crystal Phenomenon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VMin6O8uMxQ" target="_blank" rel="noopener noreferrer">Stunning Mysterious Light Pillars | Stunning Ice Crystal Phenomenon!</a></p><p class="youtube-embed-meta">Channel: Phenomenal Facts</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VMin6O8uMxQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VMin6O8uMxQ">Open on YouTube</a></p></div></div></div>
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0ttboaR5X4Q" title="Light Pillars: What Are Those Mysterious Light Beams From The Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0ttboaR5X4Q" target="_blank" rel="noopener noreferrer">Light Pillars: What Are Those Mysterious Light Beams From The Sky?</a></p><p class="youtube-embed-meta">Channel: ScienceABC II &middot; Views: 4.3K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0ttboaR5X4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0ttboaR5X4Q">Open on YouTube</a></p></div></div></div>
 
 ## Why moving observers often misjudge the phenomenon
 
@@ -449,9 +446,6 @@ Witness descriptions themselves often contain clues pointing toward obscured-sou
 * and stronger visibility in colder air.
 
 In many investigated cases, the “mystery beam” disappears once daylight, clearer air, or a different viewing angle reveals the hidden ground source.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_Gzep-0wJJo" title="Light Pillars in nighttime sky explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_Gzep-0wJJo" target="_blank" rel="noopener noreferrer">Light Pillars in nighttime sky explained</a></p><p class="youtube-embed-meta">Channel: KOAA 5</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_Gzep-0wJJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_Gzep-0wJJo">Open on YouTube</a></p></div></div></div>
 
 ## Why these sightings remain convincing
 
@@ -551,7 +545,7 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -578,76 +572,72 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED"><img src="{{ '/assets/images/marketplace-covers/b44e4b2f2e8a864ec946.jpg' | relative_url }}" alt="Listing image for UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO LIVE UK 1984 HUGE FOLDOUT TOUR POSTER DOUBLE-SIDED</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="{{ '/assets/images/marketplace-covers/e8cb9b044fa1eba2419a.jpg' | relative_url }}" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-patch-gerry-anderson" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=freezing-fog-why-vertical-ufo-beams-seem-to-hover-in-fog-ai-assisted-ufo-sighting-investigation-ufo-poster-book-books-se&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -705,10 +695,10 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -726,7 +716,7 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -862,134 +852,134 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
 1. <a id="endnote-1"></a>
    Source: atoptics.org.uk  
    Title: Light Pillars  
-   Link: [https://www.atoptics.org.uk/halo/lpil.htm](https://www.atoptics.org.uk/halo/lpil.htm)  
+   Link: <a href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/halo/lpil.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric OpticsColumns of light apparently beaming directly upwards from unshielded (and wastefully polluting) lights are sometimes vi...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Light pillar  
-   Link: [https://en.wikipedia.org/wiki/Light_pillar](https://en.wikipedia.org/wiki/Light_pillar)  
+   Link: <a href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Light_pillar</a>  
 
 3. <a id="endnote-3"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/ggw/GlossaryI](https://www.weather.gov/ggw/GlossaryI)  
+   Link: <a href="https://www.weather.gov/ggw/GlossaryI" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/ggw/GlossaryI</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>eratures in a stable atmosphere. Ice Fog. (Also called ice...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: psl.noaa.gov  
    Title: Glittering Light on Water  
-   Link: [https://psl.noaa.gov/outreach/education/science/glitter/](https://psl.noaa.gov/outreach/education/science/glitter/)  
+   Link: <a href="https://psl.noaa.gov/outreach/education/science/glitter/" target="_blank" rel="noopener noreferrer nofollow">https://psl.noaa.gov/outreach/education/science/glitter/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Physical Sciences Laboratory - NOAAby HGP are Formed · 1999 · Cited by 15 — Glitter patterns on water are similar to vertical light pilla...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: noaa.gov  
    Title: types of weather phenomena  
-   Link: [https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena](https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena)  
+   Link: <a href="https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.noaa.gov/jetstream/synoptic/types-of-weather-phenomena</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>20 Sept 2023 — Also called &quot;diamond dust&quot;, ice... The shape of the individual ice crystals causes the &quot;light pillar&quot; optical effect abov...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: atoptics.co.uk  
    Title: Lower sun pillars  
-   Link: [https://atoptics.co.uk/blog/lower-sun-pillars/](https://atoptics.co.uk/blog/lower-sun-pillars/)  
+   Link: <a href="https://atoptics.co.uk/blog/lower-sun-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/lower-sun-pillars/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics16 Dec 2024 — The lower pillars in mountain valleys are best after dawn when the valley is filled by an ice fog after a...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: atoptics.org.uk  
-   Link: [https://www.atoptics.org.uk/fza260.htm](https://www.atoptics.org.uk/fza260.htm)  
+   Link: <a href="https://www.atoptics.org.uk/fza260.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.atoptics.org.uk/fza260.htm</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sun, moon, planet and light pillars - Atoptics Highlights OPODIn cold weather when there is low or ground level diamond dust they also ma...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/](https://www.weather.gov/)  
+   Link: <a href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Weather ServiceFire Weather Concerns and Severe Thunderstorms through the Weekend · ACTIVE ALERTS · FORECAST MAPS · RADAR · Stan...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: weather.gov  
-   Link: [https://www.weather.gov/arx/why_halos_sundogs_pillars](https://www.weather.gov/arx/why_halos_sundogs_pillars)  
+   Link: <a href="https://www.weather.gov/arx/why_halos_sundogs_pillars" target="_blank" rel="noopener noreferrer nofollow">https://www.weather.gov/arx/why_halos_sundogs_pillars</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>What Causes Halos, Sundogs and Sun Pillars?Sun Pillars appear as a shaft of light extending vertically above the sun, most often at sunri...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: Wikipedia  
    Title: National Oceanic and Atmospheric Administration  
-   Link: [https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration](https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration)  
+   Link: <a href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: atoptics.co.uk  
    Title: Light Pillars  
-   Link: [https://atoptics.co.uk/blog/light-pillars/](https://atoptics.co.uk/blog/light-pillars/)  
+   Link: <a href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://atoptics.co.uk/blog/light-pillars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: lwpetersen.com  
    Title: Lee Petersen Light Pillars  
-   Link: [https://www.lwpetersen.com/atmospheric-optics/light-pillars/](https://www.lwpetersen.com/atmospheric-optics/light-pillars/)  
+   Link: <a href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow">https://www.lwpetersen.com/atmospheric-optics/light-pillars/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: [https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/](https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/)  
+   Link: <a href="https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/atoptics/comments/1q15jfl/diamond_dust_halos_in_flashlight_beam_to_start/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>after midnight (22° ring, sundogs, pillar, parhelic circle)...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: photonews.ca  
    Title: ice crystals  
-   Link: [https://www.photonews.ca/ice-crystals/](https://www.photonews.ca/ice-crystals/)  
+   Link: <a href="https://www.photonews.ca/ice-crystals/" target="_blank" rel="noopener noreferrer nofollow">https://www.photonews.ca/ice-crystals/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>, Diamond Dust &amp; Light Pillars: A Night I&#x27;ll Never...22 Jan 2018 — Light pillars are an atmospheric phenomena created when tiny ice crys...</p></details>
 
 ### Additional References
 
 15. <a id="endnote-15"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AccuWeather/posts/have-you-ever-seen-diamond-dust-before-accuweather-anna-azallion-explains-the-sp/1235037021814275/](https://www.facebook.com/AccuWeather/posts/have-you-ever-seen-diamond-dust-before-accuweather-anna-azallion-explains-the-sp/1235037021814275/)  
+   Link: <a href="https://www.facebook.com/AccuWeather/posts/have-you-ever-seen-diamond-dust-before-accuweather-anna-azallion-explains-the-sp/1235037021814275/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/have-you-ever-seen-diamond-dust-before-accuweather-anna-azallion-explains-the-sp/1235037021814275/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Have you ever seen diamond dust before? AccuWeather...Diamond dust is also responsible for beautiful optical phenomena like sun dogs, ha...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NickDunnWX/posts/caught-this-on-my-way-back-into-work-this-evening-light-pillars-happen-when-ligh/872977385540638/](https://www.facebook.com/NickDunnWX/posts/caught-this-on-my-way-back-into-work-this-evening-light-pillars-happen-when-ligh/872977385540638/)  
+   Link: <a href="https://www.facebook.com/NickDunnWX/posts/caught-this-on-my-way-back-into-work-this-evening-light-pillars-happen-when-ligh/872977385540638/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NickDunnWX/posts/caught-this-on-my-way-back-into-work-this-evening-light-pillars-happen-when-ligh/872977385540638/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Nick DunnLight pillars are an optical phenomenon and are created when lights are reflected by hexagonal ice crystals. The s...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/MeteorologistRossEllet/posts/who-else-saw-this-sunday-night-no-we-were-not-invaded-by-alien-spacecraft-this-w/1462856031865716/](https://www.facebook.com/MeteorologistRossEllet/posts/who-else-saw-this-sunday-night-no-we-were-not-invaded-by-alien-spacecraft-this-w/1462856031865716/)  
+   Link: <a href="https://www.facebook.com/MeteorologistRossEllet/posts/who-else-saw-this-sunday-night-no-we-were-not-invaded-by-alien-spacecraft-this-w/1462856031865716/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MeteorologistRossEllet/posts/who-else-saw-this-sunday-night-no-we-were-not-invaded-by-alien-spacecraft-this-w/1462856031865716/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorologist Ross ElletThis can happen from diamond dust (ice crystals that form under a clear sky), and ice fog, or a very light snow d...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: marcorank.com  
    Title: Atmospheric Optics: The Jena diamond dust halos Impressive atmospheric optics  
-   Link: [https://marcorank.com/maua-halo/](https://marcorank.com/maua-halo/)  
+   Link: <a href="https://marcorank.com/maua-halo/" target="_blank" rel="noopener noreferrer nofollow">https://marcorank.com/maua-halo/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Atmospheric Optics: The Jena diamond dust halosImpressive atmospheric optics - Diamond dust halos in the south of Jena in Germany between...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: glimpseofinfinity.com  
    Title: ice crystals diamond dust light pillars a night i ll never forget  
-   Link: [https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/](https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/)  
+   Link: <a href="https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/" target="_blank" rel="noopener noreferrer nofollow">https://glimpseofinfinity.com/tutorials/ice-crystals-diamond-dust-light-pillars-a-night-i-ll-never-forget/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Ice Crystals, Diamond Dust &amp; Light Pillars: A Night I&#x27;ll Never...17 Jan 2024 — Light pillars are an atmospheric phenomena created when t...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: theweathernetwork.com  
    Title: when the skies comes alive the magic of ice crystal displays  
-   Link: [https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays](https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays)  
+   Link: <a href="https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays" target="_blank" rel="noopener noreferrer nofollow">https://www.theweathernetwork.com/en/news/science/explainers/when-the-skies-comes-alive-the-magic-of-ice-crystal-displays</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>When the skies come alive: The magic of ice crystal displays28 Jan 2026 — On cold, sunny days, tiny ice crystals in the atmosphere can cr...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: newsweek.com  
    Title: bizarre ice crystals light pillar vermont 1850812  
-   Link: [https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812](https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812)  
+   Link: <a href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Photo Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — When the crystals align horizontally, they create the illusion of a ve...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/AccuWeather/posts/glowing-ice-pillars-light-up-the-manitoba-sky-%EF%B8%8Falso-known-as-light-pillars-this-/1296730468978263/](https://www.facebook.com/AccuWeather/posts/glowing-ice-pillars-light-up-the-manitoba-sky-%EF%B8%8Falso-known-as-light-pillars-this-/1296730468978263/)  
+   Link: <a href="https://www.facebook.com/AccuWeather/posts/glowing-ice-pillars-light-up-the-manitoba-sky-%EF%B8%8Falso-known-as-light-pillars-this-/1296730468978263/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AccuWeather/posts/glowing-ice-pillars-light-up-the-manitoba-sky-%EF%B8%8Falso-known-as-light-pillars-this-/1296730468978263/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>mirrors, reflecting and scattering the light in a vertical column.Read more...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DUFDt0yDZUd/](https://www.instagram.com/p/DUFDt0yDZUd/)  
+   Link: <a href="https://www.instagram.com/p/DUFDt0yDZUd/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DUFDt0yDZUd/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The hexagons act as tiny mirrors. Upward-aimed beams of light...Read more...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: nationalgeographic.com  
    Title: 150114 ice halo weird weather phenomena science  
-   Link: [https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science](https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science)  
+   Link: <a href="https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalgeographic.com/science/article/150114-ice-halo-weird-weather-phenomena-science</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Heavenly&#x27; Ice Halos Form Over New Mexico—What...Jan 15, 2015 — The glaring blob of light to the right of the pillar is called a sun dog...</p></details>

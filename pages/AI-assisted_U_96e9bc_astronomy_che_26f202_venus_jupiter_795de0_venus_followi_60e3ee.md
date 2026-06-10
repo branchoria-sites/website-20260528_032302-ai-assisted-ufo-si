@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /bright-planets/
 nav_short_title: Following Cars
 title: Why Venus Seems To Follow Your Car
-title_full: Why Venus Seems To Follow Your Car | Bright planets
+title_full: Why Venus Seems To Follow Your Car
 display_title_short: Following Cars
 display_title: Following Cars
 heading_title: Why Venus Seems To Follow Your Car
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: When a planet looks like a hovering UFO | Astronomy
+parent_title: When a planet looks like a hovering UFO
 parent_permalink: /bright-planets/
 parent_nav_short_title: Bright planets
 parent_heading_title: When a planet looks like a hovering UFO
@@ -266,7 +266,7 @@ next_link:
   permalink: /phone-distortion/
   short_title: Phone Distortion
   heading_title: Why Bright Planets Look Strange On Phone Cameras
-date: '2026-06-08 23:42:14 '
+date: '2026-06-10 20:17:51 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1.webp
@@ -279,13 +279,13 @@ A common UFO report begins with a driver noticing a bright light low in the even
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1-dark.svg" | relative_url }}" alt="Following Cars illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO sighting investigation, this matters because “[following]({{ 'following-moon/' | relative_url }}) car” reports can sound dramatic while still matching a well-understood visual mechanism. A bright planet low in the western sky, especially Venus near sunset, can create a powerful illusion of pursuit when viewed from a moving vehicle. Investigators therefore test the [geometry]({{ 'geometry/' | relative_url }}) of the sighting before treating apparent pacing behaviour as evidence of controlled flight or intelligent tracking. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich | HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
+For AI-assisted UFO sighting investigation, this matters because “following car” reports can sound dramatic while still matching a well-understood visual mechanism. A bright planet low in the western sky, especially Venus near sunset, can create a powerful illusion of pursuit when viewed from a moving vehicle. Investigators therefore test the [geometry]({{ 'geometry/' | relative_url }}) of the sighting before treating apparent pacing behaviour as evidence of controlled flight or intelligent tracking. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich &#124; HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
 
 ## Why Distant Planets Seem To Move With You
 
 The core mechanism is parallax, the apparent shift in an object’s position caused by the observer moving. Nearby objects show strong parallax. Distant objects show almost none.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[When driving at night:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is vi...</span></span></span>
+When driving at night: <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is vi...</span></span></span>
 
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
@@ -337,23 +337,28 @@ These descriptions can be sincere and accurate accounts of what the witness perc
 
 ### Twinkling And Colour Changes Add To The Effect
 
-Near the horizon, Venus shines through a thicker layer of atmosphere. Turbulent air can make it flicker, pulse or flash different colours. Royal Museums Greenwich notes that Venus near the horizon can produce “amazing flashing colour effects” often reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich | HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
+Near the horizon, Venus shines through a thicker layer of atmosphere. Turbulent air can make it flicker, pulse or flash different colours. Royal Museums Greenwich notes that Venus near the horizon can produce “amazing flashing colour effects” often reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich &#124; HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
 
-From a moving car, those [atmospheric]({{ 'scintillation/' | relative_url }}) distortions can resemble:
+From a moving car, those atmospheric distortions can resemble:
+
+
+<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * rotating lights,
 * changing altitude,
 * erratic movement,
 * flashing navigation lamps,
-* or a [hovering]({{ 'wind-checks/' | relative_url }}) craft.
+* or a hovering craft.
 
-Phone cameras often exaggerate these effects through autofocus hunting, digital zoom and image stabilisation artefacts.
+</div>
+
+[Phone cameras]({{ 'phone-cameras/' | relative_url }}) often exaggerate these effects through autofocus hunting, [digital zoom]({{ 'digital-zoom/' | relative_url }}) and image stabilisation artefacts.
 
 ## Witness Reports Of “Pacing Lights” On Roads
 
 Road-based UFO reports have repeated certain patterns for decades. A witness sees a bright object low ahead during evening driving, usually toward the west or south-west after sunset. The object appears to maintain distance despite changes in speed and direction.
 
-These reports become more common during periods when Venus dominates the evening sky. Astronomy outreach organisations and sceptical investigators have repeatedly identified Venus as a major source of such sightings. NASA’s Night Sky Network guidance specifically notes that bright celestial objects are commonly reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible...</span></span></span>
+These reports become more common during periods when Venus dominates the evening sky. [Astronomy]({{ 'astronomy/' | relative_url }}) outreach organisations and sceptical investigators have repeatedly identified Venus as a major source of such sightings. NASA’s Night Sky Network guidance specifically notes that bright celestial objects are commonly reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible...</span></span></span>
 
 The “following car” interpretation becomes especially persuasive when:
 
@@ -394,10 +399,10 @@ If Venus was bright and low in the western sky during the sighting window, the p
 
 Modern case-analysis systems can automate this process by:
 
+* pulling historical [sky maps]({{ 'sky-maps/' | relative_url }}),
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
-* pulling historical sky maps,
 * correlating GPS location and heading,
 * reconstructing likely road orientation,
 * and comparing witness descriptions against known astronomical positions.
@@ -437,7 +442,7 @@ The Venus explanation weakens if the report includes details incompatible with p
 * rapid angular movement across the sky,
 * sudden accelerations,
 * disappearance below nearby terrain then reappearance elsewhere,
-* structured close-range [observation]({{ 'observation-vs-claim/' | relative_url }}),
+* structured close-range observation,
 * radar confirmation,
 * or independent sightings from very different viewing positions showing inconsistent geometry.
 
@@ -449,9 +454,6 @@ The “following car” illusion demonstrates why UFO investigations rely on rec
 
 Venus is especially effective at producing these reports because it combines several features at once:
 
-
-<div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
-
 * exceptional brightness,
 * low horizon placement,
 * visibility during commuting hours,
@@ -459,11 +461,9 @@ Venus is especially effective at producing these reports because it combines sev
 * atmospheric shimmer,
 * and lack of obvious scale cues.
 
-</div>
-
 For AI-assisted investigation systems, this makes Venus an important early-stage screening candidate. A good workflow can rapidly compare the witness account against astronomical conditions and determine whether the report matches a known visual mechanism before escalating the case into more exotic territory.
 
-That does not mean every pacing-light report is automatically solved by astronomy. It means the geometry and environmental context must be checked first. In many western-sky UFO reports, the simplest explanation is not carelessness or hoaxing, but a normal human perception effect produced by one of the brightest objects in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">ollowing possibilities...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich | HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
+That does not mean every pacing-light report is automatically solved by astronomy. It means the geometry and environmental context must be checked first. In many western-sky UFO reports, the simplest explanation is not carelessness or hoaxing, but a normal human perception effect produced by one of the brightest objects in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">ollowing possibilities...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich &#124; HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6UNS8wU_gqg" title="Parallax - To Determine Stellar Distances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6UNS8wU_gqg" target="_blank" rel="noopener noreferrer">Parallax - To Determine Stellar Distances</a></p><p class="youtube-embed-meta">Channel: UMDemoLab &middot; Views: 4.2K &middot; Uploaded: May 2011 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6UNS8wU_gqg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6UNS8wU_gqg">Open on YouTube</a></p></div></div></div>
@@ -481,16 +481,16 @@ That does not mean every pacing-light report is automatically solved by astronom
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open NightWatch on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=BaMBgoKPmjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for NightWatch" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Terence Dickinson</p>
         
-        <p class="fr-book-desc">Directly matches evidence-based UFO investigation, witness cases, and analytical treatment of sightings.</p>
+        <p class="fr-book-desc">Helps readers understand Venus and common sky-object misidentifications.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=NightWatch+by+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -498,16 +498,16 @@ That does not mean every pacing-light report is automatically solved by astronom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turn Left at Orion on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=h3712RgWkOYC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Turn Left at Orion" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turn Left at Orion">Turn Left at Orion</a>
         </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+        <p class="fr-book-author">By Guy Consolmagno, Dan M. Davis</p>
         
-        <p class="fr-book-desc">Focuses on classification, observational reliability, and scientific treatment of sightings.</p>
+        <p class="fr-book-desc">Useful for identifying bright planets and night-sky objects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turn+Left+at+Orion+by+Guy+Consolmagno&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -515,16 +515,16 @@ That does not mean every pacing-light report is automatically solved by astronom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs: Generals, Pilots, and Government Officials Go on the Record on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Practical Astronomer on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8cyOEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Practical Astronomer" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs: Generals, Pilots, and Government Officials Go on the Record">UFOs: Generals, Pilots, and Government Officials Go on the Re...</a>
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Practical Astronomer">The Practical Astronomer</a>
         </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+        <p class="fr-book-author">By Will Gater</p>
         
-        
+        <p class="fr-book-desc">Supports practical sky-position and observation checks.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Practical+Astronomer+by+Will+Gater&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -532,16 +532,16 @@ That does not mean every pacing-light report is automatically solved by astronom
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience: A Scientific Inquiry on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience: A Scientific Inquiry">The UFO Experience: A Scientific Inquiry</a>
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
-        <p class="fr-book-author">By J. Allen Hynek</p>
+        <p class="fr-book-author">By Carl Sagan</p>
         
-        
+        <p class="fr-book-desc">Encourages evidence-led interpretation of apparent pursuit illusions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience%3A+A+Scientific+Inquiry+J.+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -549,13 +549,13 @@ That does not mean every pacing-light report is automatically solved by astronom
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs: Generals, Pilots, and Government Officials Go on the Record</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=NightWatch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">NightWatch</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turn+Left+at+Orion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turn Left at Orion</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Practical+Astronomer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Practical Astronomer</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -582,76 +582,72 @@ That does not mean every pacing-light report is automatically solved by astronom
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL"><img src="{{ '/assets/images/marketplace-covers/a6c54d90e907a807b9eb.jpg' | relative_url }}" alt="Listing image for Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Map Vintage Chart Art Print Antique Astronomy Poster Outer Space Picture XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open space poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20space%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ESpace%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ESpace%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for space poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">space poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Space</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster -book -books" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large"><img src="{{ '/assets/images/marketplace-covers/0e5dbc87c8d72719964f.jpg' | relative_url }}" alt="Listing image for Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Moon Art Print Astronomy Poster Outer Space Picture A4 A3 A2 A1 XL Extra Large</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open telescope accessory on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20telescope%20accessory%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ETelescope%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAccessory%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETelescope%3C%2Ftext%3E%3Crect%20x%3D%22101%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2275%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22111%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAccessory%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for telescope accessory on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">telescope accessory</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Telescope</span><span class="fr-search-tag">Accessory</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=telescope+accessory&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-telescope-accessory&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="telescope accessory" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-telescope-accessory" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture"><img src="{{ '/assets/images/marketplace-covers/0efa7c31974d5c2eeff0.jpg' | relative_url }}" alt="Listing image for Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Constellations Night Sky Star Map Art Print Astronomy Poster Outer Space Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=venus+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-venus-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster -book -books -dvd" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-venus-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open venus poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20venus%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EVenus%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EVenus%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for venus poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">venus poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Venus</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=venus+poster+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-venus-poster-book-books-dvd&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus poster -book -books -dvd" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-venus-poster-book-books-dvd" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Astronomy Star Map VINTAGE Retro Travel Advert science posters print"><img src="{{ '/assets/images/marketplace-covers/e5aa9449b49d3a654f6b.jpg' | relative_url }}" alt="Listing image for Astronomy Star Map VINTAGE Retro Travel Advert science posters print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">Astronomy Star Map VINTAGE Retro Travel Advert science posters print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for astronomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: astronomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=venus+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-venus-memorabilia-book-books-dv&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus memorabilia -book -books -dvd" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-venus-memorabilia-book-books-dv" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open venus memorabilia on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20venus%20memorabilia%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EVenus%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EMemorabilia%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EVenus%3C%2Ftext%3E%3Crect%20x%3D%2273%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2283%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EMemorabilia%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for venus memorabilia on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">venus memorabilia</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Venus</span><span class="fr-search-tag">Memorabilia</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=venus+memorabilia+-book+-books+-dvd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-venus-memorabilia-book-books-dv&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="venus memorabilia -book -books -dvd" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-venus-memorabilia-book-books-dv" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=astronomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="astronomy poster" data-ebay-reference="following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-astronomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=space+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=following-cars-why-venus-seems-to-follow-your-car-ai-assisted-ufo-sighting-investigation-space-poster-book-books&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -709,10 +705,10 @@ That does not mean every pacing-light report is automatically solved by astronom
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -730,7 +726,7 @@ That does not mean every pacing-light report is automatically solved by astronom
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -866,146 +862,146 @@ That does not mean every pacing-light report is automatically solved by astronom
 1. <a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: identifying ufos and uaps  
-   Link: [https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/](https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/)  
+   Link: <a href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nightsky.jpl.nasa.gov  
-   Link: [https://nightsky.jpl.nasa.gov/news/39/](https://nightsky.jpl.nasa.gov/news/39/)  
+   Link: <a href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow">https://nightsky.jpl.nasa.gov/news/39/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is vi...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: skyatnightmagazine.com  
-   Link: [https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos](https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos)  
+   Link: <a href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>ollowing possibilities...Read more...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: youtube.com  
    Title: Roadside Wonders  
-   Link: [http://www.youtube.com/watch?v=MFDy5glxhMQ](http://www.youtube.com/watch?v=MFDy5glxhMQ)  
+   Link: <a href="http://www.youtube.com/watch?v=MFDy5glxhMQ" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=MFDy5glxhMQ</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parallax - To Determine Stellar Distances...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=6UNS8wU_gqg](http://www.youtube.com/watch?v=6UNS8wU_gqg)  
+   Link: <a href="http://www.youtube.com/watch?v=6UNS8wU_gqg" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=6UNS8wU_gqg</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is the moon following me?...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: rmg.co.uk  
-   Link: [https://www.rmg.co.uk/stories/space-astronomy/planet-venus](https://www.rmg.co.uk/stories/space-astronomy/planet-venus)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichPlanet VenusWhen near the horizon, the &#x27;[twinkling](&amp;#123;&amp;#123; &#x27;twinkling-stars/&#x27; | relative_url &amp;#125;&amp;#125;)&#x27; can give rise to amazing flashing colour effects which are ofte...</p></details>
+   Link: <a href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/stories/space-astronomy/planet-venus</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums GreenwichPlanet VenusWhen near the horizon, the &#x27;twinkling&#x27; can give rise to amazing flashing colour effects which are ofte...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: discovermagazine.com  
    Title: ufo no its venus 2345  
-   Link: [https://www.discovermagazine.com/ufo-no-its-venus-2345](https://www.discovermagazine.com/ufo-no-its-venus-2345)  
+   Link: <a href="https://www.discovermagazine.com/ufo-no-its-venus-2345" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/ufo-no-its-venus-2345</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Discover MagazineUFO? No, It&#x27;s Venus20 Aug 2013 — UFO? No, It&#x27;s Venus... The planet&#x27;s glow is often mistaken for an airplane, satellite...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: livescience.com  
    Title: 33766 jupiter venus mistaken ufos  
-   Link: [https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html](https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html)  
+   Link: <a href="https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/33766-jupiter-venus-mistaken-ufos.html</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>government that deals with UFO reports. In fact, the planet Venus frequently gets mistaken for a UFO.... Comets NASA eyes 3I/ATLAS with...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: scientificamerican.com  
    Title: why venus is so bright right now  
-   Link: [https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/](https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/)  
+   Link: <a href="https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/why-venus-is-so-bright-right-now/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific AmericanWhy Venus Is So Bright Right Now2 Jun 2023 — Venus is incredibly bright, shockingly so, which is why it&#x27;s commonly mis...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: discovermagazine.com  
    Title: nasas magellan mission just changed what we know about venus again 47561  
-   Link: [https://www.discovermagazine.com/nasas-magellan-mission-just-changed-what-we-know-about-venus-again-47561](https://www.discovermagazine.com/nasas-magellan-mission-just-changed-what-we-know-about-venus-again-47561)  
+   Link: <a href="https://www.discovermagazine.com/nasas-magellan-mission-just-changed-what-we-know-about-venus-again-47561" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/nasas-magellan-mission-just-changed-what-we-know-about-venus-again-47561</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA&#x27;s Magellan Mission Just Changed What We Know...14 May 2025 — Learn about a new study that uses the data from Magellan to reveal ins...</p></details>
    Published: May 2025  
 
 11. <a id="endnote-11"></a>
    Source: discovermagazine.com  
    Title: a frigid surprise at venus poles 11455  
-   Link: [https://www.discovermagazine.com/a-frigid-surprise-at-venus-poles-11455](https://www.discovermagazine.com/a-frigid-surprise-at-venus-poles-11455)  
+   Link: <a href="https://www.discovermagazine.com/a-frigid-surprise-at-venus-poles-11455" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/a-frigid-surprise-at-venus-poles-11455</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>A Frigid Surprise at Venus&#x27; Poles20 Apr 2016 — Explore why Venus is the hottest planet in our solar system and discover surprising polar...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: discovermagazine.com  
    Title: venus from one side of the sun to another 21135  
-   Link: [https://www.discovermagazine.com/venus-from-one-side-of-the-sun-to-another-21135](https://www.discovermagazine.com/venus-from-one-side-of-the-sun-to-another-21135)  
+   Link: <a href="https://www.discovermagazine.com/venus-from-one-side-of-the-sun-to-another-21135" target="_blank" rel="noopener noreferrer nofollow">https://www.discovermagazine.com/venus-from-one-side-of-the-sun-to-another-21135</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Venus, from one side of the Sun to another21 Apr 2012 — If you were standing by the side of the track, you&#x27;d see the inner car (Venus) ci...</p></details>
 
 13. <a id="endnote-13"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/DiscoverMag/photos/fooled-by-an-optical-illusion-youre-not-the-only-one-learn-how-these-illusions-c/1287835116540966/](https://www.facebook.com/DiscoverMag/photos/fooled-by-an-optical-illusion-youre-not-the-only-one-learn-how-these-illusions-c/1287835116540966/)  
+   Link: <a href="https://www.facebook.com/DiscoverMag/photos/fooled-by-an-optical-illusion-youre-not-the-only-one-learn-how-these-illusions-c/1287835116540966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DiscoverMag/photos/fooled-by-an-optical-illusion-youre-not-the-only-one-learn-how-these-illusions-c/1287835116540966/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>You&#x27;re not the only...Tonight, March 8, Venus and Saturn will appear almost side by side in the evening sky, offering skywatchers a chan...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: rmg.co.uk  
-   Link: [https://www.rmg.co.uk/](https://www.rmg.co.uk/)  
+   Link: <a href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.rmg.co.uk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Royal Museums Greenwich | HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: livescience.com  
    Title: 32849 7 ways to generate a great space hoax  
-   Link: [https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html](https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html)  
+   Link: <a href="https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/32849-7-ways-to-generate-a-great-space-hoax.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>7 Things Most Often Mistaken for UFOs10 Nov 2010 — It was taken on April 2, 2004, in Poznan, Poland. The planet Venus often gets mistaken...</p></details>
    Published: April 2, 2004  
 
 16. <a id="endnote-16"></a>
    Source: instagram.com  
-   Link: [https://www.instagram.com/p/DYcGMoxjG-M/](https://www.instagram.com/p/DYcGMoxjG-M/)  
+   Link: <a href="https://www.instagram.com/p/DYcGMoxjG-M/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYcGMoxjG-M/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ning, DNA editing, and...Read more...</p></details>
 
 ### Additional References
 
 17. <a id="endnote-17"></a>
    Source: moabhappenings.com  
-   Link: [https://www.moabhappenings.com/Archives/DarkSky202201.htm](https://www.moabhappenings.com/Archives/DarkSky202201.htm)  
+   Link: <a href="https://www.moabhappenings.com/Archives/DarkSky202201.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.moabhappenings.com/Archives/DarkSky202201.htm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Identifying UFOsSo, how do you identify UFOs when asked? Be polite and patient. If the “UFO” is visible and the person inquiring is there...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: visitgreenwich.org.uk  
-   Link: [https://www.visitgreenwich.org.uk/whats-on/immersive-theatre-spirits-of-the-black-meridian-p2347221](https://www.visitgreenwich.org.uk/whats-on/immersive-theatre-spirits-of-the-black-meridian-p2347221)  
+   Link: <a href="https://www.visitgreenwich.org.uk/whats-on/immersive-theatre-spirits-of-the-black-meridian-p2347221" target="_blank" rel="noopener noreferrer nofollow">https://www.visitgreenwich.org.uk/whats-on/immersive-theatre-spirits-of-the-black-meridian-p2347221</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Immersive Theatre: Spirits of the Black MeridianAn immersive, outdoor drama and promenade created by Dervish Productions, based on origin...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: istitutomarangoni.com  
-   Link: [https://www.istitutomarangoni.com/en/maze35](https://www.istitutomarangoni.com/en/maze35)  
+   Link: <a href="https://www.istitutomarangoni.com/en/maze35" target="_blank" rel="noopener noreferrer nofollow">https://www.istitutomarangoni.com/en/maze35</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Maze35 MagazineNot just fashion. Maze35 is a magazine about unfiltered creativity by students, alumni, mentors. From styling and front ro...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: tom-jeffreys.co.uk  
-   Link: [https://tom-jeffreys.co.uk/coral-rekindling-venus-at-royal-observatory-greenwich/32](https://tom-jeffreys.co.uk/coral-rekindling-venus-at-royal-observatory-greenwich/32)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Coral – Rekindling Venus at Royal Observatory, GreenwichThe 45-minute film seeks to explore the incredible diversity of life sustained by...</p></details>
+   Link: <a href="https://tom-jeffreys.co.uk/coral-rekindling-venus-at-royal-observatory-greenwich/32" target="_blank" rel="noopener noreferrer nofollow">https://tom-jeffreys.co.uk/coral-rekindling-venus-at-royal-observatory-greenwich/32</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>ral – Rekindling Venus at Royal Observatory, GreenwichThe 45-minute film seeks to explore the incredible diversity of life sustained by...</p></details>
 
 21. <a id="endnote-21"></a>
    Source: universemagazine.com  
    Title: data from the pioneer spacecraft revealed an incredible discovery on venus  
-   Link: [https://universemagazine.com/en/data-from-the-pioneer-spacecraft-revealed-an-incredible-discovery-on-venus/?srsltid=AfmBOopR5DnLINhmPVrqQZdA3FDsNJRnYTf6YHYndHm7_qnAMYef0Zhh](https://universemagazine.com/en/data-from-the-pioneer-spacecraft-revealed-an-incredible-discovery-on-venus/?srsltid=AfmBOopR5DnLINhmPVrqQZdA3FDsNJRnYTf6YHYndHm7_qnAMYef0Zhh)  
+   Link: <a href="https://universemagazine.com/en/data-from-the-pioneer-spacecraft-revealed-an-incredible-discovery-on-venus/?srsltid=AfmBOopR5DnLINhmPVrqQZdA3FDsNJRnYTf6YHYndHm7_qnAMYef0Zhh" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/data-from-the-pioneer-spacecraft-revealed-an-incredible-discovery-on-venus/?srsltid=AfmBOopR5DnLINhmPVrqQZdA3FDsNJRnYTf6YHYndHm7_qnAMYef0Zhh</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The clouds of Venus turned out to be full of water6 Oct 2025 — Instead of consisting mainly of sulfuric acid, Venus&#x27; clouds turned out to...</p></details>
 
 22. <a id="endnote-22"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=49TKDQH_hJ8](https://www.youtube.com/watch?v=49TKDQH_hJ8)  
+   Link: <a href="https://www.youtube.com/watch?v=49TKDQH_hJ8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=49TKDQH_hJ8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Curiosity sees Earth and Venus through twilight on MarsNASA&#x27;s Curiosity rover captured imagery of Earth and Venus on June 5, 2020 during...</p></details>
    Published: June 5, 2020  
 
 23. <a id="endnote-23"></a>
    Source: skyandtelescope.org  
    Title: nasa finds no evidence ufos are extraterrestrial promises further study  
-   Link: [https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/](https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/)  
+   Link: <a href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow">https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Finds No Evidence UFOs Are Extraterrestrial...15 Sept 2023 — An independent study shows how NASA can help understand unidentified a...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: universemagazine.com  
    Title: known flying objects sky phenomena we often mistake for ufos  
-   Link: [https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOooNYIExgosmiu2OVf_btk5qD0N83Md1cYA4x2v2bAnHX3Bjl-MG](https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOooNYIExgosmiu2OVf_btk5qD0N83Md1cYA4x2v2bAnHX3Bjl-MG)  
+   Link: <a href="https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOooNYIExgosmiu2OVf_btk5qD0N83Md1cYA4x2v2bAnHX3Bjl-MG" target="_blank" rel="noopener noreferrer nofollow">https://universemagazine.com/en/known-flying-objects-sky-phenomena-we-often-mistake-for-ufos/?srsltid=AfmBOooNYIExgosmiu2OVf_btk5qD0N83Md1cYA4x2v2bAnHX3Bjl-MG</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Known Flying Objects: Sky Phenomena We Often Mistake...12 Oct 2024 — In this article, we delve into the subject of UFOs, particularly th...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: forbes.com  
-   Link: [https://www.forbes.com/sites/marshallshepherd/2024/12/15/mass-drone-hysteria-and-the-possible-role-of-venus/](https://www.forbes.com/sites/marshallshepherd/2024/12/15/mass-drone-hysteria-and-the-possible-role-of-venus/)  
+   Link: <a href="https://www.forbes.com/sites/marshallshepherd/2024/12/15/mass-drone-hysteria-and-the-possible-role-of-venus/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/marshallshepherd/2024/12/15/mass-drone-hysteria-and-the-possible-role-of-venus/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Mass Drone Hysteria And The Possible Role Of VenusDec 15, 2024 — Federal officials insist there are no enemy or alien invasions imminent...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/royalmuseumsgreenwich/videos/theres-been-a-wealth-of-out-of-this-world-expertise-at-the-royal-observatory-for/1691471681352257/](https://www.facebook.com/royalmuseumsgreenwich/videos/theres-been-a-wealth-of-out-of-this-world-expertise-at-the-royal-observatory-for/1691471681352257/)  
+   Link: <a href="https://www.facebook.com/royalmuseumsgreenwich/videos/theres-been-a-wealth-of-out-of-this-world-expertise-at-the-royal-observatory-for/1691471681352257/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/royalmuseumsgreenwich/videos/theres-been-a-wealth-of-out-of-this-world-expertise-at-the-royal-observatory-for/1691471681352257/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ory for 350 years, and now more than ever, it&#x27;s there for everyone...</p></details>

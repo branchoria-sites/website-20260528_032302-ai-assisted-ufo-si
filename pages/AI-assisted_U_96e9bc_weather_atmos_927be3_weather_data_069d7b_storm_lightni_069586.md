@@ -28,7 +28,7 @@ sidebar_expanded_urls:
 - /weather-data/
 nav_short_title: Storm Flashes
 title: Could Rare Lightning Explain A Strange UFO Glow?
-title_full: Could Rare Lightning Explain A Strange UFO Glow? | Weather data
+title_full: Could Rare Lightning Explain A Strange UFO Glow?
 display_title_short: Storm Flashes
 display_title: Storm Flashes
 heading_title: Could Rare Lightning Explain A Strange UFO Glow?
@@ -203,7 +203,7 @@ ui_strings:
   search_kind_page_location: Page location
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
-parent_title: Weather records that change a UFO case | Weather
+parent_title: Weather records that change a UFO case
 parent_permalink: /weather-data/
 parent_nav_short_title: Weather data
 parent_heading_title: Weather records that change a UFO case
@@ -260,7 +260,7 @@ prev_link:
   permalink: /radar-errors/
   short_title: Radar Errors
   heading_title: Why Some UFO Radar Hits Are Not Independent Evidence
-date: '2026-06-08 23:29:21 '
+date: '2026-06-10 20:10:10 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-1.webp
@@ -269,15 +269,15 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069
 
 ## Introduction
 
-Some UFO reports describe glowing red columns, silent jellyfish-shaped lights, expanding rings, or brief flashes [hovering]({{ 'wind-checks/' | relative_url }}) above storms. Modern [lightning]({{ 'lightning-timing/' | relative_url }}) science shows that a small but important share of these sightings can be explained by rare upper-atmosphere electrical events known as transient luminous events, or TLEs. These phenomena occur high above thunderstorms, often far beyond the cloud tops visible from the ground, and they can look profoundly unfamiliar to witnesses who have never seen them before. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span>
+Some UFO reports describe glowing red columns, silent jellyfish-shaped lights, expanding rings, or brief flashes hovering above storms. Modern lightning science shows that a small but important share of these sightings can be explained by rare upper-atmosphere electrical events known as transient luminous events, or TLEs. These phenomena occur high above thunderstorms, often far beyond the cloud tops visible from the ground, and they can look profoundly unfamiliar to witnesses who have never seen them before. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span>
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-1-dark.svg" | relative_url }}" alt="Storm Flashes illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For AI-assisted UFO investigation, storm-related luminous events matter because they are both unusual and measurable. Unlike vague folklore explanations, [sprites]({{ 'sprites/' | relative_url }}), blue jets, and ELVES can often be checked against lightning networks, [weather radar]({{ 'radar-errors/' | relative_url }}), satellite lightning sensors, and thunderstorm timelines. A sighting that initially appears anomalous may align closely with intense positive lightning activity occurring tens or even hundreds of kilometres away from the observer. At the same time, not every glowing storm report is automatically explained by lightning science. The value comes from structured comparison between witness claims and environmental data.
+For AI-assisted UFO investigation, storm-related luminous events matter because they are both unusual and measurable. Unlike vague folklore explanations, [sprites]({{ 'sprites/' | relative_url }}), blue jets, and ELVES can often be checked against lightning networks, [weather]({{ 'weather/' | relative_url }}) radar, satellite lightning sensors, and thunderstorm timelines. A sighting that initially appears anomalous may align closely with intense positive lightning activity occurring tens or even hundreds of kilometres away from the observer. At the same time, not every glowing storm report is automatically explained by lightning science. The value comes from structured comparison between witness claims and environmental data.
 
 ## Sprites and other transient luminous events
 
-Scientists group these phenomena under the label “transient luminous events” because they are short-lived flashes occurring above powerful storms. Most were poorly documented until the late twentieth century because they are difficult to observe from the ground and often last less than a second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1631071310000210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">ScienceDirectSpace observations of Transient Luminous Events and...by E Blanc · 2010 · Cited by 15 — Sprites, jets and elves called Tran...</span></span></span>
+Scientists group these phenomena under the label “transient luminous events” because they are short-lived flashes occurring above powerful storms. Most were poorly documented until the late twentieth century because they are difficult to observe from the ground and often last less than a second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciencedirect.com/science/article/pii/S1631071310000210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Space observations of Transient Luminous Events and...by E Blanc · 2010 · Cited by 15 — Sprites, jets and elves called Tran...</span></span></span>
 
 Several types are especially relevant to UFO-style reports.
 
@@ -300,7 +300,7 @@ Witnesses unfamiliar with the phenomenon sometimes describe:
 
 Because sprites occur above storms rather than inside visible cloud layers, they can appear detached from ordinary weather. Their scale also confuses perception. A sprite can span tens of kilometres while lasting only milliseconds. At long distance, that combination can make it appear as a compact luminous object hanging motionless in the sky.
 
-Modern photographs from aircraft and the International Space Station show why these reports can sound extraordinary. Some sprites genuinely resemble giant red jellyfish or branching plasma structures suspended above thunderclouds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/planet-earth/weather/astronaut-snaps-giant-red-jellyfish-sprite-over-north-america-during-upward-shooting-lightning-event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">This Transient Luminous Event (TLE) was seen above a thunderstorm spanning parts of Mexico and the southern United States on July 3, 2025...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/nasa-astronaut-photographs-rare-jellyfish-transient-luminous-event-above-clouds-11767044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">I Caught This Sprite&#x27;NASA astronaut Nichole Ayers, currently aboard the International Space Station as part of SpaceX Dragon&#x27;s Crew-10 mi...</span></span></span>
+Modern photographs from [aircraft]({{ 'aircraft/' | relative_url }}) and the International Space Station show why these reports can sound extraordinary. Some sprites genuinely resemble giant red jellyfish or branching plasma structures suspended above thunderclouds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/planet-earth/weather/astronaut-snaps-giant-red-jellyfish-sprite-over-north-america-during-upward-shooting-lightning-event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">This Transient Luminous Event (TLE) was seen above a thunderstorm spanning parts of Mexico and the southern United States on July 3, 2025...</span><span class="citation-popover-meta">Published: July 3, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://people.com/nasa-astronaut-photographs-rare-jellyfish-transient-luminous-event-above-clouds-11767044" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: people.com">[People.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">people.com</span><span class="citation-popover-snippet">I Caught This Sprite&#x27;NASA astronaut Nichole Ayers, currently aboard the International Space Station as part of SpaceX Dragon&#x27;s Crew-10 mi...</span></span></span>
 
 ### Blue jets and gigantic jets
 
@@ -343,11 +343,11 @@ Because ELVES often last less than a millisecond, witnesses may only perceive a 
 
 ## Why these events look unnatural to witnesses
 
-Rare lightning events exploit several weaknesses in human night perception. UFO investigators frequently encounter reports where witnesses are confident they saw a structured craft, yet the environmental conditions strongly favour [atmospheric]({{ 'scintillation/' | relative_url }}) misinterpretation.
+Rare lightning events exploit several weaknesses in human night perception. UFO investigators frequently encounter reports where witnesses are confident they saw a structured craft, yet the environmental conditions strongly favour atmospheric misinterpretation.
 
 ### Distance destroys scale perception
 
-Storm-related luminous events usually occur far from the observer. Without foreground reference points, the brain struggles to estimate:
+Storm-related luminous events usually occur far from the observer. Without foreground [reference points]({{ 'reference-points/' | relative_url }}), the brain struggles to estimate:
 
 * Altitude
 * Object size
@@ -391,14 +391,14 @@ The first check is whether strong convective storms existed in the relevant dire
 
 </div>
 
-If a witness reports a red hovering glow over the western horizon at 23:40, investigators can test whether major thunderstorms were active west of the [observation]({{ 'observation-vs-claim/' | relative_url }}) site during that exact period.
+If a witness reports a red hovering glow over the western horizon at 23:40, investigators can test whether major thunderstorms were active west of the observation site during that exact period.
 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A-SZryVqFHo" title="Earth&#x27;s Rarest Lightning Finally Caught on Camera | Transient Luminous Events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A-SZryVqFHo" target="_blank" rel="noopener noreferrer">Earth&#x27;s Rarest Lightning Finally Caught on Camera | Transient Luminous Events</a></p><p class="youtube-embed-meta">Channel: Astrum &middot; Views: 2.1M &middot; Uploaded: May 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A-SZryVqFHo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A-SZryVqFHo">Open on YouTube</a></p></div></div></div>
 
 ### Checking lightning satellites against UFO timelines
 
-Modern satellites can detect lightning optically from orbit. The GOES Geostationary Lightning Mapper, for example, continuously monitors lightning flashes across large regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planetarycomputer.microsoft.com/dataset/goes-glm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetarycomputer.microsoft.com">[Planetary Computer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetarycomputer.microsoft.com</span><span class="citation-popover-title">Planetary Computer GOES-R Lightning Detection | Planetary Computer</span><span class="citation-popover-snippet">Planetary ComputerGOES-R Lightning Detection | Planetary Computer - MicrosoftThe Geostationary Lightning Mapper (GLM) is a single-channel...</span></span></span>
+Modern satellites can detect lightning optically from orbit. The GOES Geostationary Lightning Mapper, for example, continuously monitors lightning flashes across large regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planetarycomputer.microsoft.com/dataset/goes-glm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetarycomputer.microsoft.com">[Planetary Computer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetarycomputer.microsoft.com</span><span class="citation-popover-title">Planetary Computer GOES-R Lightning Detection &#124; Planetary Computer</span><span class="citation-popover-snippet">Planetary ComputerGOES-R Lightning Detection &#124; Planetary Computer - MicrosoftThe Geostationary Lightning Mapper (GLM) is a single-channel...</span></span></span>
 
 This creates an important investigative tool for UFO analysis because AI systems can automatically compare:
 
@@ -413,9 +413,9 @@ This creates an important investigative tool for UFO analysis because AI systems
 
 </div>
 
-If a UFO report clusters tightly around periods of extreme lightning activity, confidence in a storm-related explanation increases.
+If a UFO report clusters tightly around periods of extreme lightning activity, [confidence]({{ 'confidence/' | relative_url }}) in a storm-related explanation increases.
 
-Some research teams are also using machine learning to distinguish lightning-related atmospheric events from meteors and other luminous phenomena in satellite data streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2106.09189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">arXivAn Automated Bolide Detection Pipeline for GOES GLMJune 17, 2021...</span><span class="citation-popover-meta">Published: June 17, 2021</span></span></span> That same approach can support automated UFO case triage by flagging environmental matches before investigators spend time on more exotic hypotheses.
+Some research teams are also using machine learning to distinguish lightning-related atmospheric events from meteors and other luminous phenomena in satellite data streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2106.09189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An Automated Bolide Detection Pipeline for GOES GLMJune 17, 2021...</span><span class="citation-popover-meta">Published: June 17, 2021</span></span></span> That same approach can support automated UFO case triage by flagging environmental matches before investigators spend time on more exotic hypotheses.
 
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-3-dark.svg" | relative_url }}" alt="Storm Flashes illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
@@ -427,7 +427,7 @@ Not all storms generate sprites. Investigators can improve confidence scoring by
 * Intense electrical charge separation
 * Night-time visibility conditions
 
-NASA’s “Spritacular” citizen science project exists partly because these events remain difficult to observe consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span> A UFO report that coincides with a known sprite-producing storm environment deserves closer atmospheric review before being treated as unexplained.
+NASA’s “Spritacular” citizen science project exists partly because these events remain difficult to observe consistently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span> A UFO report that coincides with a known sprite-producing storm environment deserves closer atmospheric [review]({{ 'review/' | relative_url }}) before being treated as unexplained.
 
 ## Cases where the explanation remains incomplete
 
@@ -448,7 +448,7 @@ Some problems investigators encounter include:
 
 There are also practical limitations in the data. Older UFO cases may predate modern lightning satellites. Rural regions may lack detailed sensor coverage. Witness times are often inaccurate by several minutes, which matters when analysing phenomena lasting milliseconds.
 
-Even when a storm explanation is [plausible]({{ 'plausible-cases/' | relative_url }}), investigators still need to separate:
+Even when a storm explanation is plausible, investigators still need to separate:
 
 * Confirmed lightning activity <span class="citation-chip-wrap"><a class="citation-chip" href="https://cimss.ssec.wisc.edu/satellite-blog/archives/57627" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cimss.ssec.wisc.edu">[cimss.ssec.wisc.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cimss.ssec.wisc.edu</span><span class="citation-popover-snippet">GLM captures lightning activity near Central America11 Mar 2024 — GLM, which is the first ever instrument aboard a GOES satellite that sp...</span></span></span>
 * Likely perceptual distortion
@@ -561,7 +561,7 @@ A structured environmental check can rapidly reduce false anomalies while preser
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -588,76 +588,72 @@ A structured environmental check can rapidly reduce false anomalies while preser
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
+      <div class="fr-search-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="{{ '/assets/images/marketplace-covers/6e0b50863bc66a5744f9.jpg' | relative_url }}" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Top pick</p>
+        <h4 class="fr-search-title">UFO poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -book -books -series -television -gerry -anderson -band -concert -tour -album -ticket -cd" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print"><img src="{{ '/assets/images/marketplace-covers/ac317d44ed882efa45fb.jpg' | relative_url }}" alt="Listing image for I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster GiclÃ©e Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open artificial intelligence poster on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20artificial%20intelligence%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EArtificial%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EIntelligence%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22164%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EPoster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2282%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EArtificial%3C%2Ftext%3E%3Crect%20x%3D%22108%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2288%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22118%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EIntelligence%3C%2Ftext%3E%3Crect%20x%3D%2218%22%20y%3D%22278%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22295%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for artificial intelligence poster on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">artificial intelligence poster</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Artificial</span><span class="fr-search-tag">Intelligence</span><span class="fr-search-tag">Poster</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=artificial+intelligence+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-artificial-intelligence&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="artificial intelligence poster -book -books" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-artificial-intelligence" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="{{ '/assets/images/marketplace-covers/7deb3cb2d62af66c4b40.jpg' | relative_url }}" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO patch on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20UFO%20patch%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Patch%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPatch%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for UFO patch on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">UFO patch</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Patch</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=UFO+patch+-gerry+-anderson+-band+-concert+-cd+-series+-television+-tour+-album+-ticket+-schenker+-lp&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO patch -gerry -anderson -band -concert -cd -series -television -tour -album -ticket -schenker -lp" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-patch-gerry-anderso" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="{{ '/assets/images/marketplace-covers/55c0ce73cccf25b5a118.jpg' | relative_url }}" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
+    <article class="fr-search-card fr-search-card-visual">
+      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open AI robot t shirt on eBay">
+        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20AI%20robot%20t%20shirt%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAi%20Robot%20T%3C%2Ftext%3E%3Ctext%20x%3D%2218%22%20y%3D%22136%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EShirt%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAi%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ERobot%3C%2Ftext%3E%3Crect%20x%3D%22125%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2247%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22135%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EShirt%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for AI robot t shirt on eBay" loading="lazy">
+      </a>
+      <div class="fr-search-info">
+        <p class="fr-search-kicker">Related search</p>
+        <h4 class="fr-search-title">AI robot t shirt</h4>
+        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
+        <div class="fr-search-tags"><span class="fr-search-tag">Ai</span><span class="fr-search-tag">Robot</span><span class="fr-search-tag">Shirt</span></div>
+        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=AI+robot+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="AI robot t shirt" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ai-robot-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse eBay
+        </a>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
+        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=UFO+poster+-book+-books+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-cd&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=storm-flashes-could-rare-lightning-explain-a-strange-ufo-glow-ai-assisted-ufo-sighting-investiga-ufo-poster-book-books-s&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on eBay
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -715,10 +711,10 @@ A structured environmental check can rapidly reduce false anomalies while preser
       var saved = window.localStorage && localStorage.getItem(storageKey);
       if (saved && available.indexOf(saved) >= 0) return saved;
     } catch (err) {}
-    var localeMarkets = localeMatches();
-    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     var timezoneMarket = inferFromTimezone();
     if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
     if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
     if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
     return available[0] || '';
@@ -736,7 +732,7 @@ A structured environmental check can rapidly reduce false anomalies while preser
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_GB";
+  var defaultMarket = "EBAY_US";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -871,233 +867,233 @@ A structured environmental check can rapidly reduce false anomalies while preser
 
 1. <a id="endnote-1"></a>
    Source: nssl.noaa.gov  
-   Link: [https://www.nssl.noaa.gov/education/svrwx101/lightning/types/](https://www.nssl.noaa.gov/education/svrwx101/lightning/types/)  
+   Link: <a href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow">https://www.nssl.noaa.gov/education/svrwx101/lightning/types/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: science.nasa.gov  
-   Link: [https://science.nasa.gov/citizen-science/spritacular/](https://science.nasa.gov/citizen-science/spritacular/)  
+   Link: <a href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/citizen-science/spritacular/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</p></details>
 
 3. <a id="endnote-3"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S1631071310000210](https://www.sciencedirect.com/science/article/pii/S1631071310000210)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ScienceDirectSpace observations of Transient Luminous Events and...by E Blanc · 2010 · Cited by 15 — Sprites, jets and elves called Tran...</p></details>
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S1631071310000210" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S1631071310000210</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Space observations of Transient Luminous Events and...by E Blanc · 2010 · Cited by 15 — Sprites, jets and elves called Tran...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Upper-atmospheric lightning  
-   Link: [https://en.wikipedia.org/wiki/Upper-atmospheric_lightning](https://en.wikipedia.org/wiki/Upper-atmospheric_lightning)  
+   Link: <a href="https://en.wikipedia.org/wiki/Upper-atmospheric_lightning" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Upper-atmospheric_lightning</a>  
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: sprites camera action 153422  
-   Link: [https://science.nasa.gov/earth/earth-observatory/sprites-camera-action-153422/](https://science.nasa.gov/earth/earth-observatory/sprites-camera-action-153422/)  
+   Link: <a href="https://science.nasa.gov/earth/earth-observatory/sprites-camera-action-153422/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/earth/earth-observatory/sprites-camera-action-153422/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceSprites, Camera, Action!6 Oct 2024 —... sprites and other transient luminous events (TLEs). Sprites appear to be connected t...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/](https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/)  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASASpritacular: NASA&#x27;s New Citizen Science Project to...26 Oct 2022 — Sprites occur at some 50 miles (80 kilometers) altitude, high abo...</p></details>
+   Link: <a href="https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/spritacular-nasas-new-citizen-science-project-to-capture-elusive-upper-atmospheric-electrical-phenomena-on-camera/</a>  
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Spritacular: NASA&#x27;s New Citizen Science Project to...26 Oct 2022 — Sprites occur at some 50 miles (80 kilometers) altitude, high abo...</p></details>
 
 7. <a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Sprite (lightning)  
-   Link: [https://en.wikipedia.org/wiki/Sprite_%28lightning%29](https://en.wikipedia.org/wiki/Sprite_%28lightning%29)  
+   Link: <a href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sprite_%28lightning%29</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprite (lightning)Sprites or red sprites are large-scale electric discharges that occur in the mesosphere, high above thunderstorm clo...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: people.com  
-   Link: [https://people.com/nasa-astronaut-photographs-rare-jellyfish-transient-luminous-event-above-clouds-11767044](https://people.com/nasa-astronaut-photographs-rare-jellyfish-transient-luminous-event-above-clouds-11767044)  
+   Link: <a href="https://people.com/nasa-astronaut-photographs-rare-jellyfish-transient-luminous-event-above-clouds-11767044" target="_blank" rel="noopener noreferrer nofollow">https://people.com/nasa-astronaut-photographs-rare-jellyfish-transient-luminous-event-above-clouds-11767044</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>I Caught This Sprite&#x27;NASA astronaut Nichole Ayers, currently aboard the International Space Station as part of SpaceX Dragon&#x27;s Crew-10 mi...</p></details>
 
 9. <a id="endnote-9"></a>
    Source: plus.nasa.gov  
-   Link: [https://plus.nasa.gov/video/chasing-sprites-in-electric-skies/](https://plus.nasa.gov/video/chasing-sprites-in-electric-skies/)  
+   Link: <a href="https://plus.nasa.gov/video/chasing-sprites-in-electric-skies/" target="_blank" rel="noopener noreferrer nofollow">https://plus.nasa.gov/video/chasing-sprites-in-electric-skies/</a>  
    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites in Electric SkiesPaul Smith is a night-sky fanatic and photographer. His obsession is sprites: immense jolts of light that flicke...</p></details>
 
 10. <a id="endnote-10"></a>
    Source: youtube.com  
-   Link: [https://www.youtube.com/watch?v=zaA8nT4qqM8](https://www.youtube.com/watch?v=zaA8nT4qqM8)  
+   Link: <a href="https://www.youtube.com/watch?v=zaA8nT4qqM8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zaA8nT4qqM8</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient Luminous Events: Blue Jets &amp; Red SpritesBlue Jets are a type of transient luminous event or tle flashes and glows that appear a...</p></details>
 
 11. <a id="endnote-11"></a>
    Source: space.com  
-   Link: [https://www.space.com/stargazing/2-of-earths-rarest-lightning-phenomena-captured-simultaneously-in-once-in-a-lifetime-photo](https://www.space.com/stargazing/2-of-earths-rarest-lightning-phenomena-captured-simultaneously-in-once-in-a-lifetime-photo)  
+   Link: <a href="https://www.space.com/stargazing/2-of-earths-rarest-lightning-phenomena-captured-simultaneously-in-once-in-a-lifetime-photo" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/stargazing/2-of-earths-rarest-lightning-phenomena-captured-simultaneously-in-once-in-a-lifetime-photo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Taken from Binotto’s home in Possagno, in the foothills of the Italian Alps, the photograph showcases a red halo elve above a jellyfish-l...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: arxiv.org  
-   Link: [https://arxiv.org/abs/2106.09189](https://arxiv.org/abs/2106.09189)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>arXivAn Automated Bolide Detection Pipeline for GOES GLMJune 17, 2021...</p></details>
+   Link: <a href="https://arxiv.org/abs/2106.09189" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2106.09189</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Automated Bolide Detection Pipeline for GOES GLMJune 17, 2021...</p></details>
    Published: June 17, 2021  
 
 13. <a id="endnote-13"></a>
    Source: nasa.gov  
-   Link: [https://www.nasa.gov/](https://www.nasa.gov/)  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASANational Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
+   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of humanity, and...</p></details>
 
 14. <a id="endnote-14"></a>
    Source: apod.nasa.gov  
-   Link: [https://apod.nasa.gov/apod/ap260509.html](https://apod.nasa.gov/apod/ap260509.html)  
+   Link: <a href="https://apod.nasa.gov/apod/ap260509.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/ap260509.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov2026 May 9 – Messier Craters in Stereo...</p></details>
 
 15. <a id="endnote-15"></a>
    Source: jpl.nasa.gov  
    Title: juno data indicates sprites or elves frolic in jupiters atmosphere  
-   Link: [https://www.jpl.nasa.gov/news/juno-data-indicates-sprites-or-elves-frolic-in-jupiters-atmosphere/](https://www.jpl.nasa.gov/news/juno-data-indicates-sprites-or-elves-frolic-in-jupiters-atmosphere/)  
+   Link: <a href="https://www.jpl.nasa.gov/news/juno-data-indicates-sprites-or-elves-frolic-in-jupiters-atmosphere/" target="_blank" rel="noopener noreferrer nofollow">https://www.jpl.nasa.gov/news/juno-data-indicates-sprites-or-elves-frolic-in-jupiters-atmosphere/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Data Indicates &#x27;Sprites&#x27; or &#x27;Elves&#x27; Frolic in Jupiter&#x27;s...27 Oct 2020 — An instrument on the spacecraft may have detected transient lumi...</p></details>
 
 16. <a id="endnote-16"></a>
    Source: earthdata.nasa.gov  
-   Link: [https://www.earthdata.nasa.gov/data/instruments/glm](https://www.earthdata.nasa.gov/data/instruments/glm)  
+   Link: <a href="https://www.earthdata.nasa.gov/data/instruments/glm" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdata.nasa.gov/data/instruments/glm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Geostationary Lightning MapperGLM detects all forms of lightning during both day and night, continuously, with a high spatial resolution...</p></details>
 
 17. <a id="endnote-17"></a>
    Source: apod.nasa.gov  
-   Link: [https://apod.nasa.gov/apod/ap260429.html](https://apod.nasa.gov/apod/ap260429.html)  
+   Link: <a href="https://apod.nasa.gov/apod/ap260429.html" target="_blank" rel="noopener noreferrer nofollow">https://apod.nasa.gov/apod/ap260429.html</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.gov2026 April 29 – The Moon, Venus, and the Pleiades...</p></details>
 
 18. <a id="endnote-18"></a>
    Source: nasa.gov  
    Title: studying storms from space station  
-   Link: [https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/](https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/)  
+   Link: <a href="https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/missions/station/iss-research/studying-storms-from-space-station/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Jun 2025 — TLEs take many forms, including blue jets, discharges that grow upward into the stratosphere from cloud tops, and colorful...</p></details>
 
 19. <a id="endnote-19"></a>
    Source: youtube.com  
    Title: Red Sprites and Blue Jets Explained  
-   Link: [https://www.youtube.com/watch?v=tGPQ5kzJ9Tg](https://www.youtube.com/watch?v=tGPQ5kzJ9Tg)  
+   Link: <a href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=tGPQ5kzJ9Tg</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>New Discovery!Sprites are large scale electrical discharges occurring high above thunderstorms in the upper atmosphere.... Transient Lum...</p></details>
 
 20. <a id="endnote-20"></a>
    Source: space.com  
-   Link: [https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side](https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side)  
+   Link: <a href="https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/space-exploration/artemis/nasas-artemis-2-commander-and-astrophotographer-team-up-to-capture-breathtaking-never-before-seen-shots-of-the-moons-far-side</a>  
 
 21. <a id="endnote-21"></a>
    Source: space.com  
-   Link: [https://www.space.com/[astronomy](https://www.space.com/[astronomy)  
+   Link: <a href="https://www.space.com/[astronomy" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/[astronomy</a>  
 
 22. <a id="endnote-22"></a>
    Source: Wikipedia  
-   Link: [https://en.wikipedia.org/wiki/NASA](https://en.wikipedia.org/wiki/NASA)  
+   Link: <a href="https://en.wikipedia.org/wiki/NASA" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASAThe National Aeronautics and Space Administration (NASA /ˈnæsə/) is an independent agency of the U.S. federal government responsib...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/abs/pii/S1364682698000340](https://www.sciencedirect.com/science/article/abs/pii/S1364682698000340)  
+   Link: <a href="https://www.sciencedirect.com/science/article/abs/pii/S1364682698000340" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/abs/pii/S1364682698000340</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Theories and simulations of elves, sprites and blue jetsby HL Rowland · 1998 · Cited by 109 — This review considers the different models...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: sciencedirect.com  
-   Link: [https://www.sciencedirect.com/science/article/pii/S0169809520313697](https://www.sciencedirect.com/science/article/pii/S0169809520313697)  
+   Link: <a href="https://www.sciencedirect.com/science/article/pii/S0169809520313697" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/science/article/pii/S0169809520313697</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Franz et...Read mor...</p></details>
 
 25. <a id="endnote-25"></a>
    Source: nesdis.noaa.gov  
-   Link: [https://www.nesdis.noaa.gov/news/flashes-the-sky-how-the-lightning-sensor-weather-satellite-can-also-track-meteoroids](https://www.nesdis.noaa.gov/news/flashes-the-sky-how-the-lightning-sensor-weather-satellite-can-also-track-meteoroids)  
+   Link: <a href="https://www.nesdis.noaa.gov/news/flashes-the-sky-how-the-lightning-sensor-weather-satellite-can-also-track-meteoroids" target="_blank" rel="noopener noreferrer nofollow">https://www.nesdis.noaa.gov/news/flashes-the-sky-how-the-lightning-sensor-weather-satellite-can-also-track-meteoroids</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>in the Sky: How the Lightning Sensor on a Weather...20 Jul 2018 — Scientists have discovered that the Geostationary Lightning Mapper on...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: youtube.com  
    Title: Earth's Rarest Lightning Finally Caught on Camera | Transient Luminous Events  
-   Link: [http://www.youtube.com/watch?v=A-SZryVqFHo](http://www.youtube.com/watch?v=A-SZryVqFHo)  
+   Link: <a href="http://www.youtube.com/watch?v=A-SZryVqFHo" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=A-SZryVqFHo</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue jets, sprites &amp; elves formed by storm cloud activity | Colourful Weather | ABC Australia...</p></details>
 
 28. <a id="endnote-28"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=Xp-8xp_3hqU](http://www.youtube.com/watch?v=Xp-8xp_3hqU)  
+   Link: <a href="http://www.youtube.com/watch?v=Xp-8xp_3hqU" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=Xp-8xp_3hqU</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Rarest Lightning: Red Sprites, Blue Jets, Elves, Gnomes and Pixies Explained...</p></details>
 
 29. <a id="endnote-29"></a>
    Source: youtube.com  
    Title: Rarest Lightning: Red Sprites, Blue Jets, Elves, Gnomes and Pixies Explained  
-   Link: [http://www.youtube.com/watch?v=C-DSeH0D_1E](http://www.youtube.com/watch?v=C-DSeH0D_1E)  
+   Link: <a href="http://www.youtube.com/watch?v=C-DSeH0D_1E" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=C-DSeH0D_1E</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Incredible Lightning Types | Science of Lightning | Bolts, Strikes, Red Sprites, Blue Jets and Elves...</p></details>
 
 30. <a id="endnote-30"></a>
    Source: youtube.com  
-   Link: [http://www.youtube.com/watch?v=PC1bbbzmKu0](http://www.youtube.com/watch?v=PC1bbbzmKu0)  
+   Link: <a href="http://www.youtube.com/watch?v=PC1bbbzmKu0" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=PC1bbbzmKu0</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>What are transient luminous events red sprites blue jets ELVES explained Red Sprites and Blue Jets Explained - New Discovery...</p></details>
 
 31. <a id="endnote-31"></a>
    Source: snexplores.org  
-   Link: [https://www.snexplores.org/article/sprites-jets-elves-storm-powered-lights](https://www.snexplores.org/article/sprites-jets-elves-storm-powered-lights)  
+   Link: <a href="https://www.snexplores.org/article/sprites-jets-elves-storm-powered-lights" target="_blank" rel="noopener noreferrer nofollow">https://www.snexplores.org/article/sprites-jets-elves-storm-powered-lights</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Science News ExploresExplainer: Sprites, jets, ELVES and other storm-powered...20 Mar 2024 — Blue jets shoot straight out of storm cloud...</p></details>
 
 32. <a id="endnote-32"></a>
    Source: livescience.com  
-   Link: [https://www.livescience.com/planet-earth/weather/astronaut-snaps-giant-red-jellyfish-sprite-over-north-america-during-upward-shooting-lightning-event](https://www.livescience.com/planet-earth/weather/astronaut-snaps-giant-red-jellyfish-sprite-over-north-america-during-upward-shooting-lightning-event)  
+   Link: <a href="https://www.livescience.com/planet-earth/weather/astronaut-snaps-giant-red-jellyfish-sprite-over-north-america-during-upward-shooting-lightning-event" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/planet-earth/weather/astronaut-snaps-giant-red-jellyfish-sprite-over-north-america-during-upward-shooting-lightning-event</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This Transient Luminous Event (TLE) was seen above a thunderstorm spanning parts of Mexico and the southern United States on July 3, 2025...</p></details>
    Published: July 3, 2025  
 
 33. <a id="endnote-33"></a>
    Source: planetarycomputer.microsoft.com  
    Title: Planetary Computer GOES-R Lightning Detection | Planetary Computer  
-   Link: [https://planetarycomputer.microsoft.com/dataset/goes-glm](https://planetarycomputer.microsoft.com/dataset/goes-glm)  
+   Link: <a href="https://planetarycomputer.microsoft.com/dataset/goes-glm" target="_blank" rel="noopener noreferrer nofollow">https://planetarycomputer.microsoft.com/dataset/goes-glm</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Planetary ComputerGOES-R Lightning Detection | Planetary Computer - MicrosoftThe Geostationary Lightning Mapper (GLM) is a single-channel...</p></details>
 
 34. <a id="endnote-34"></a>
    Source: cimss.ssec.wisc.edu  
-   Link: [https://cimss.ssec.wisc.edu/satellite-blog/archives/57627](https://cimss.ssec.wisc.edu/satellite-blog/archives/57627)  
+   Link: <a href="https://cimss.ssec.wisc.edu/satellite-blog/archives/57627" target="_blank" rel="noopener noreferrer nofollow">https://cimss.ssec.wisc.edu/satellite-blog/archives/57627</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>GLM captures lightning activity near Central America11 Mar 2024 — GLM, which is the first ever instrument aboard a GOES satellite that sp...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: skybrary.aero  
-   Link: [https://skybrary.aero/articles/transient-luminous-events-tles](https://skybrary.aero/articles/transient-luminous-events-tles)  
+   Link: <a href="https://skybrary.aero/articles/transient-luminous-events-tles" target="_blank" rel="noopener noreferrer nofollow">https://skybrary.aero/articles/transient-luminous-events-tles</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Transient Luminous Events (TLEs) | SKYbrary Aviation SafetyBlue jets are believed to be initiated as &quot;normal&quot; lightning discharges betwee...</p></details>
 
 ### Additional References
 
 36. <a id="endnote-36"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/travelinyourownway/posts/iss-astronaut-captured-one-of-the-rarest-phenomena-sprite-like-blue-jets-in-the-/1598138688984082/](https://www.facebook.com/travelinyourownway/posts/iss-astronaut-captured-one-of-the-rarest-phenomena-sprite-like-blue-jets-in-the-/1598138688984082/)  
+   Link: <a href="https://www.facebook.com/travelinyourownway/posts/iss-astronaut-captured-one-of-the-rarest-phenomena-sprite-like-blue-jets-in-the-/1598138688984082/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/travelinyourownway/posts/iss-astronaut-captured-one-of-the-rarest-phenomena-sprite-like-blue-jets-in-the-/1598138688984082/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>ISS astronaut captured one of the rarest phenomenaThese quick flashes, called sprites or blue jets, light up the upper atmosphere for jus...</p></details>
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: [https://www.facebook.com/NOAAResearch/posts/in-the-spirit-of-spooky-season-we-are-here-to-tell-you-that-elves-and-sprites-ar/969719065196594/](https://www.facebook.com/NOAAResearch/posts/in-the-spirit-of-spooky-season-we-are-here-to-tell-you-that-elves-and-sprites-ar/969719065196594/)  
+   Link: <a href="https://www.facebook.com/NOAAResearch/posts/in-the-spirit-of-spooky-season-we-are-here-to-tell-you-that-elves-and-sprites-ar/969719065196594/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NOAAResearch/posts/in-the-spirit-of-spooky-season-we-are-here-to-tell-you-that-elves-and-sprites-ar/969719065196594/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NOAA Office of Oceanic and Atmospheric ResearchRed sprites are a type of Transient Luminous Event (TLE), a rare electrical discharge that...</p></details>
 
 38. <a id="endnote-38"></a>
    Source: earthdate.org  
-   Link: [https://www.earthdate.org/episodes/sprites-and-elves](https://www.earthdate.org/episodes/sprites-and-elves)  
+   Link: <a href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow">https://www.earthdate.org/episodes/sprites-and-elves</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Sprites and ElvesBlue jets emerge from the tops of storm clouds and shoot up into the stratosphere. They are caused by imbalances between...</p></details>
 
 39. <a id="endnote-39"></a>
    Source: ztresearch.blog  
-   Link: [https://ztresearch.blog/education/upper-atmosphere-lightning/](https://ztresearch.blog/education/upper-atmosphere-lightning/)  
+   Link: <a href="https://ztresearch.blog/education/upper-atmosphere-lightning/" target="_blank" rel="noopener noreferrer nofollow">https://ztresearch.blog/education/upper-atmosphere-lightning/</a>  
 
 40. <a id="endnote-40"></a>
    Source: earth.com  
    Title: nasa astronauts capture rare lightning storms red sprites from space station iss  
-   Link: [https://www.earth.com/news/nasa-astronauts-capture-rare-lightning-storms-red-sprites-from-space-station-iss/](https://www.earth.com/news/nasa-astronauts-capture-rare-lightning-storms-red-sprites-from-space-station-iss/)  
+   Link: <a href="https://www.earth.com/news/nasa-astronauts-capture-rare-lightning-storms-red-sprites-from-space-station-iss/" target="_blank" rel="noopener noreferrer nofollow">https://www.earth.com/news/nasa-astronauts-capture-rare-lightning-storms-red-sprites-from-space-station-iss/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA shares photos of a rare and extraordinary event...Apr 14, 2026 — Astronauts captured a stunning and rare lightning event called &quot;re...</p></details>
 
 41. <a id="endnote-41"></a>
    Source: thetimes.co.uk  
-   Link: [https://www.thetimes.co.uk/article/lighting-gigantic-jet-rare-weather-phenomenon-iss-space-z95xpxzbx](https://www.thetimes.co.uk/article/lighting-gigantic-jet-rare-weather-phenomenon-iss-space-z95xpxzbx)  
+   Link: <a href="https://www.thetimes.co.uk/article/lighting-gigantic-jet-rare-weather-phenomenon-iss-space-z95xpxzbx" target="_blank" rel="noopener noreferrer nofollow">https://www.thetimes.co.uk/article/lighting-gigantic-jet-rare-weather-phenomenon-iss-space-z95xpxzbx</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>This fleeting and fortuitous event, observed from 400km above Earth, marked one of the most detailed images of a gigantic jet ever record...</p></details>
 
 42. <a id="endnote-42"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCThe Illumination of Thunderclouds by Lightning: 2  
-   Link: [https://pmc.ncbi.nlm.nih.gov/articles/PMC9286675/](https://pmc.ncbi.nlm.nih.gov/articles/PMC9286675/)  
+   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9286675/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC9286675/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>The Effect...by M Peterson · 2022 · Cited by 13 — In this study, we quantify the impact of the varying GLM threshold on event/group/flas...</p></details>
 
 43. <a id="endnote-43"></a>
    Source: instagram.com  
    Title: They occur between 40 and 80 km above storm clouds and last less than  
-   Link: [https://www.instagram.com/reel/DTlXcXmEsvs/?hl=en](https://www.instagram.com/reel/DTlXcXmEsvs/?hl=en)  
+   Link: <a href="https://www.instagram.com/reel/DTlXcXmEsvs/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DTlXcXmEsvs/?hl=en</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>From 400 km above Earth, during my 235 days in orbit aboard...These flashes are part of a group called Transient Luminous Events (TLEs)...</p></details>
 
 44. <a id="endnote-44"></a>
    Source: severe-weather.eu  
    Title: sprites blue gigantic jets elves upper atmosphere lightning mk  
-   Link: [https://www.severe-weather.eu/learnweather/severe-weather-theory/sprites-blue-gigantic-jets-elves-upper-atmosphere-lightning-mk/](https://www.severe-weather.eu/learnweather/severe-weather-theory/sprites-blue-gigantic-jets-elves-upper-atmosphere-lightning-mk/)  
+   Link: <a href="https://www.severe-weather.eu/learnweather/severe-weather-theory/sprites-blue-gigantic-jets-elves-upper-atmosphere-lightning-mk/" target="_blank" rel="noopener noreferrer nofollow">https://www.severe-weather.eu/learnweather/severe-weather-theory/sprites-blue-gigantic-jets-elves-upper-atmosphere-lightning-mk/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>There is anecdotal evidence of lightning sightings in the upper atmosphere, or Transient Luminous Events (...Read more...</p></details>
 
 45. <a id="endnote-45"></a>
    Source: almanac.com  
-   Link: [https://www.almanac.com/what-are-lightning-sprites](https://www.almanac.com/what-are-lightning-sprites)  
+   Link: <a href="https://www.almanac.com/what-are-lightning-sprites" target="_blank" rel="noopener noreferrer nofollow">https://www.almanac.com/what-are-lightning-sprites</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Red Sprites, Blue Jets, Elves, and Lightning Storms14 Nov 2025 — These upper-atmosphere flashes occur between thunderstorms and the ionos...</p></details>
