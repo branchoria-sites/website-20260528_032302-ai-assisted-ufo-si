@@ -266,7 +266,7 @@ next_link:
   permalink: /timing-gaps/
   short_title: Timing Gaps
   heading_title: How Missing Time Windows Derail UFO Reconstruction
-date: '2026-06-11 13:39:01 '
+date: '2026-06-11 18:45:14 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_rendlesham_in_b4e099-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_rendlesham_in_b4e099-Illustration-1.webp

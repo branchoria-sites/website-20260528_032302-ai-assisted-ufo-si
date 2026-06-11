@@ -285,7 +285,7 @@ next_link:
   permalink: /sensor-artefacts/
   short_title: Sensor Artefacts
   heading_title: When the Camera Creates the UFO Effect
-date: '2026-06-11 13:17:26 '
+date: '2026-06-11 18:24:07 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-1.webp

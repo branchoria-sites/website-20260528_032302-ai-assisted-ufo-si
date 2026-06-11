@@ -266,7 +266,7 @@ next_link:
   permalink: /resolved-cases/
   short_title: Resolved Cases
   heading_title: Why Solved UFO Reports Make Better AI Training Data
-date: '2026-06-11 13:40:25 '
+date: '2026-06-11 18:46:38 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-1.webp

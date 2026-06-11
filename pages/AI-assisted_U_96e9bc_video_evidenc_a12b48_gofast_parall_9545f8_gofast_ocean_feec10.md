@@ -260,7 +260,7 @@ prev_link:
   permalink: /atflir-data/
   short_title: ATFLIR Data
   heading_title: What the Go Fast Display Data Really Revealed
-date: '2026-06-11 13:29:02 '
+date: '2026-06-11 18:35:11 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1.webp

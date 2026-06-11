@@ -266,7 +266,7 @@ next_link:
   permalink: /source-match/
   short_title: Source Match
   heading_title: Was There a Real Object Beyond the Horizon?
-date: '2026-06-11 14:02:20 '
+date: '2026-06-11 19:07:13 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1.webp

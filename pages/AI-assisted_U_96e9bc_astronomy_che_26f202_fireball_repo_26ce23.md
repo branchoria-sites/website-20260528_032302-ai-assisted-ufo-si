@@ -285,7 +285,7 @@ next_link:
   permalink: /moon-illusions/
   short_title: Moon illusions
   heading_title: Can the Moon really look like a UFO?
-date: '2026-06-11 13:08:54 '
+date: '2026-06-11 18:15:24 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-1.webp

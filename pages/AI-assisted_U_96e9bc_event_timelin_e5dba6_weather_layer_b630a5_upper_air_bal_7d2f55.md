@@ -260,7 +260,7 @@ next_link:
   permalink: /haze-effects/
   short_title: Haze Effects
   heading_title: How Haze Turns Ordinary Lights Into Strange UFOs
-date: '2026-06-11 13:48:25 '
+date: '2026-06-11 18:54:32 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1.webp

@@ -279,7 +279,7 @@ next_link:
   permalink: /re-entry-breakups/
   short_title: Re entry Breakups
   heading_title: When A Fireball Is Really Falling Space Debris
-date: '2026-06-11 13:14:35 '
+date: '2026-06-11 18:21:12 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1.webp

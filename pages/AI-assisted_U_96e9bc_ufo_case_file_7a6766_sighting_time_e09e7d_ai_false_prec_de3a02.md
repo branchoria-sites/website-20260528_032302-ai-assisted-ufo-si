@@ -266,7 +266,7 @@ next_link:
   permalink: /timing-anchors/
   short_title: Timing anchors
   heading_title: Small digital clues that fix a UFO timeline
-date: '2026-06-11 13:55:19 '
+date: '2026-06-11 19:01:17 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-1.webp

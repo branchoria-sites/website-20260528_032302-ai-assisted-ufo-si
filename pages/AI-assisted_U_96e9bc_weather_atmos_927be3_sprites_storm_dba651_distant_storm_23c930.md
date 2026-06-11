@@ -266,7 +266,7 @@ next_link:
   permalink: /video-tests/
   short_title: Video tests
   heading_title: What one frame can reveal
-date: '2026-06-11 14:01:28 '
+date: '2026-06-11 19:06:27 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1.webp
@@ -597,11 +597,11 @@ The key lesson is that perception changes dramatically once storms become distan
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Storm Fairy - Fairies Wall Art Print High Gloss 11 in x 17 in"><img src="https://i.ebayimg.com/images/g/u~4AAOSwaUJnBGWx/s-l225.jpg" alt="Listing image for Blue Storm Fairy - Fairies Wall Art Print High Gloss 11 in x 17 in" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nene Thomas Post Card &quot;Gathering Storm&quot; Fantasy Poster Art Home Decor Bedroom D"><img src="https://i.ebayimg.com/images/g/OwkAAeSwsI5qHLxK/s-l225.jpg" alt="Listing image for Nene Thomas Post Card &quot;Gathering Storm&quot; Fantasy Poster Art Home Decor Bedroom D" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer">Blue Storm Fairy - Fairies Wall Art Print High Gloss 11 in x 17 in</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer">Nene Thomas Post Card &quot;Gathering Storm&quot; Fantasy Poster Art Home Decor Bedroom D</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for storm sprite poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: storm sprite poster</a>
         <div class="fr-book-actions">

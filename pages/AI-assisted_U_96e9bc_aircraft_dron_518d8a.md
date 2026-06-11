@@ -307,7 +307,7 @@ next_link:
   permalink: /astronomy/
   short_title: Astronomy
   heading_title: Was the UFO Really in the Sky Map?
-date: '2026-06-11 13:02:32 '
+date: '2026-06-11 18:08:57 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-overview.webp

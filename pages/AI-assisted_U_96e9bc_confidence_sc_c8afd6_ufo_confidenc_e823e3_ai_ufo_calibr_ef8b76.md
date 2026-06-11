@@ -260,7 +260,7 @@ next_link:
   permalink: /official-language/
   short_title: Official Language
   heading_title: Why Official UAP Reports Rarely Use Exact Numbers
-date: '2026-06-11 13:43:35 '
+date: '2026-06-11 18:49:48 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1.webp

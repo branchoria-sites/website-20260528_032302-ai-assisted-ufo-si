@@ -266,7 +266,7 @@ next_link:
   permalink: /observation-vs-claim/
   short_title: Observation vs Claim
   heading_title: What Did the Witness Actually See?
-date: '2026-06-11 13:54:19 '
+date: '2026-06-11 19:00:19 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-1.webp

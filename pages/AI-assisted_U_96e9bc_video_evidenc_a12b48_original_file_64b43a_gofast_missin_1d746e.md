@@ -260,7 +260,7 @@ next_link:
   permalink: /metadata/
   short_title: Metadata
   heading_title: What UFO video metadata can really prove
-date: '2026-06-11 13:57:39 '
+date: '2026-06-11 19:03:29 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-1.webp

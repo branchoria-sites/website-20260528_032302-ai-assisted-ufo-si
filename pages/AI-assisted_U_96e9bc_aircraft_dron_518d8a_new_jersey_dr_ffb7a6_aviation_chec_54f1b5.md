@@ -260,7 +260,7 @@ next_link:
   permalink: /sighting-wave/
   short_title: Sighting Wave
   heading_title: How Separate Lights Became One Drone Wave
-date: '2026-06-11 13:33:24 '
+date: '2026-06-11 18:39:35 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-1.webp

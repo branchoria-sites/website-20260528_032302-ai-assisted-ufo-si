@@ -260,7 +260,7 @@ prev_link:
   permalink: /green-fireballs/
   short_title: Green Fireballs
   heading_title: Why Green Meteors Look Like Alien Craft
-date: '2026-06-11 13:36:05 '
+date: '2026-06-11 18:42:16 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1.webp

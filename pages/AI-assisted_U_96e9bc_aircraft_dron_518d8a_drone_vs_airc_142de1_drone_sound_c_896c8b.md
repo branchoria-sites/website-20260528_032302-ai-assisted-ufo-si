@@ -260,7 +260,7 @@ prev_link:
   permalink: /hover-tests/
   short_title: Hover tests
   heading_title: Is that light really hovering?
-date: '2026-06-11 13:31:46 '
+date: '2026-06-11 18:37:56 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1.webp

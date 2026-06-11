@@ -260,7 +260,7 @@ next_link:
   permalink: /geolocation/
   short_title: Geolocation
   heading_title: Did This UFO Video Really Come From Here?
-date: '2026-06-11 13:29:42 '
+date: '2026-06-11 18:35:51 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1.webp

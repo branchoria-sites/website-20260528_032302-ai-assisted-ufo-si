@@ -260,7 +260,7 @@ next_link:
   permalink: /long-fireballs/
   short_title: Long Fireballs
   heading_title: Why Some 'Meteor' UFOs Stay Visible For Minutes
-date: '2026-06-11 13:48:58 '
+date: '2026-06-11 18:55:04 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_parallel_frag_f45342-Illustration-1.webp

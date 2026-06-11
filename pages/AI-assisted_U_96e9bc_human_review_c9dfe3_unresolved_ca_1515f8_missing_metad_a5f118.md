@@ -266,7 +266,7 @@ next_link:
   permalink: /single-sensor/
   short_title: Single Sensor
   heading_title: Why One Camera Is Rarely Enough for a UFO Case
-date: '2026-06-11 13:27:35 '
+date: '2026-06-11 18:33:44 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-1.webp

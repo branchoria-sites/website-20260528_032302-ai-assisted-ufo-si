@@ -260,7 +260,7 @@ prev_link:
   permalink: /starlink-flares/
   short_title: Starlink Flares
   heading_title: Why Starlink Has Changed Modern UFO Reports
-date: '2026-06-11 13:50:14 '
+date: '2026-06-11 18:56:19 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1.webp

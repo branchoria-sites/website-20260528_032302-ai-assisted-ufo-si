@@ -266,7 +266,7 @@ next_link:
   permalink: /meteor-databases/
   short_title: Meteor Databases
   heading_title: Can Public Fireball Logs Solve A UFO Report?
-date: '2026-06-11 13:36:20 '
+date: '2026-06-11 18:42:32 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-1.webp

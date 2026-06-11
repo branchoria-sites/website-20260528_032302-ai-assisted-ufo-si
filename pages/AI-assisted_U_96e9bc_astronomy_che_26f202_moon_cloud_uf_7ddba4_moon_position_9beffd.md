@@ -260,7 +260,7 @@ prev_link:
   permalink: /following-moon/
   short_title: Following Moon
   heading_title: Why the Moon Appears To Follow Your Car
-date: '2026-06-11 13:37:17 '
+date: '2026-06-11 18:43:30 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1.webp

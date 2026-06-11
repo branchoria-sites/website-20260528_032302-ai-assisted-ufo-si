@@ -260,7 +260,7 @@ next_link:
   permalink: /parallel-timelines/
   short_title: Parallel Timelines
   heading_title: Why Witness Memory And File History Diverge
-date: '2026-06-11 13:47:33 '
+date: '2026-06-11 18:53:42 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1.webp

@@ -279,7 +279,7 @@ next_link:
   permalink: /layered-timeline/
   short_title: Layered timeline
   heading_title: How explanations survive the timeline
-date: '2026-06-11 13:12:20 '
+date: '2026-06-11 18:18:54 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-1.webp

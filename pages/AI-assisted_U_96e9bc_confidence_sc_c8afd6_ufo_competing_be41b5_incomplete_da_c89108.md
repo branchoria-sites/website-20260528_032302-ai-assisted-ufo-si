@@ -266,7 +266,7 @@ next_link:
   permalink: /witness-reliability/
   short_title: Witness Reliability
   heading_title: Can Reliable Witnesses Still Misread UFO Sightings?
-date: '2026-06-11 13:42:29 '
+date: '2026-06-11 18:48:43 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-1.webp

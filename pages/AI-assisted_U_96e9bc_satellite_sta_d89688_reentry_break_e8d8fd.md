@@ -285,7 +285,7 @@ next_link:
   permalink: /rocket-spirals/
   short_title: Rocket Spirals
   heading_title: What Causes Giant Spiral Lights In The Sky
-date: '2026-06-11 13:13:50 '
+date: '2026-06-11 18:20:25 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd-Illustration-1.webp

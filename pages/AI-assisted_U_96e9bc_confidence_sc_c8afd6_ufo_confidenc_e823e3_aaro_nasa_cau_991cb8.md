@@ -266,7 +266,7 @@ next_link:
   permalink: /unresolved-cases-3aca44/
   short_title: Unresolved Cases
   heading_title: Why Some UFO Reports Never Reach Reliable Odds
-date: '2026-06-11 13:43:20 '
+date: '2026-06-11 18:49:34 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-1.webp

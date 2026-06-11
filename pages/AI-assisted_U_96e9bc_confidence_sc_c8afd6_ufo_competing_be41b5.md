@@ -285,7 +285,7 @@ next_link:
   permalink: /nasa-aaro/
   short_title: NASA AARO
   heading_title: Why Official UFO Cases Sometimes Stay Unresolved
-date: '2026-06-11 13:11:24 '
+date: '2026-06-11 18:17:57 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5-Illustration-1.webp

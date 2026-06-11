@@ -279,7 +279,7 @@ prev_link:
   permalink: /nuforc-cases/
   short_title: NUFORC Cases
   heading_title: Can NUFORC Reports Really Help Solve A Sighting
-date: '2026-06-11 13:10:48 '
+date: '2026-06-11 18:17:21 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-1.webp

@@ -285,7 +285,7 @@ next_link:
   permalink: /weather-layers/
   short_title: Weather layers
   heading_title: How weather can reshape a sighting
-date: '2026-06-11 13:13:16 '
+date: '2026-06-11 18:19:51 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-1.webp

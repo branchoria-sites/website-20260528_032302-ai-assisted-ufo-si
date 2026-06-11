@@ -285,7 +285,7 @@ next_link:
   permalink: /evidence-grades/
   short_title: Evidence Grades
   heading_title: Why Weak UFO Evidence Can Still Look Convincing
-date: '2026-06-11 13:11:58 '
+date: '2026-06-11 18:18:32 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-1.webp

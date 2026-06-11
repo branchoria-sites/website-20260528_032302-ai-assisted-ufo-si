@@ -260,7 +260,7 @@ next_link:
   permalink: /range-problem/
   short_title: Range problem
   heading_title: The missing distance behind UFO speed claims
-date: '2026-06-11 13:56:12 '
+date: '2026-06-11 19:02:09 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-1.webp

@@ -279,7 +279,7 @@ prev_link:
   permalink: /media-files/
   short_title: Media files
   heading_title: What does a UFO video really prove?
-date: '2026-06-11 13:16:35 '
+date: '2026-06-11 18:23:17 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1.webp

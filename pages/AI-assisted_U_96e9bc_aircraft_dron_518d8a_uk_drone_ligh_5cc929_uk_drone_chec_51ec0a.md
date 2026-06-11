@@ -260,7 +260,7 @@ next_link:
   permalink: /green-lights/
   short_title: Green lights
   heading_title: Was the green flash a legal drone?
-date: '2026-06-11 13:35:41 '
+date: '2026-06-11 18:41:52 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1.webp

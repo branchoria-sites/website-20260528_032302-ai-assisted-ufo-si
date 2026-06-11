@@ -285,7 +285,7 @@ next_link:
   permalink: /sprites/
   short_title: Sprites
   heading_title: Red flashes above storms and UFO reports
-date: '2026-06-11 13:18:41 '
+date: '2026-06-11 18:25:20 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1.webp

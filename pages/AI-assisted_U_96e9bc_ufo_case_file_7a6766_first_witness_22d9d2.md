@@ -285,7 +285,7 @@ next_link:
   permalink: /geometry/
   short_title: Geometry
   heading_title: Where in the sky was the object?
-date: '2026-06-11 13:15:54 '
+date: '2026-06-11 18:22:34 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1.webp
@@ -417,7 +417,7 @@ This is one reason older UFO stories sometimes contain vivid details absent from
 
 Poor questioning can accidentally inject information.
 
-<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Examples:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-title">Verywell Mind Eyewitness Testimony: Reliability and Examples</span><span class="citation-popover-snippet">Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</span></span></span>
+Examples: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[verywellmind.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-title">Verywell Mind Eyewitness Testimony: Reliability and Examples</span><span class="citation-popover-snippet">Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 

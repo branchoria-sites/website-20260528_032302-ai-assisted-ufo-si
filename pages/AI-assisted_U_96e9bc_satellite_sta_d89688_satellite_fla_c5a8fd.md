@@ -285,7 +285,7 @@ next_link:
   permalink: /starlink-trains/
   short_title: Starlink Trains
   heading_title: Why Starlink Trains Still Surprise Experienced Witnesses
-date: '2026-06-11 13:14:19 '
+date: '2026-06-11 18:20:56 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-1.webp

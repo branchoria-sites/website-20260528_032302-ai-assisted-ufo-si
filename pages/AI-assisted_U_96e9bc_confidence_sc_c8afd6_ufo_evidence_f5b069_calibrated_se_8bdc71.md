@@ -266,7 +266,7 @@ next_link:
   permalink: /source-files/
   short_title: Source Files
   heading_title: Why Viral UFO Clips Lose Their Investigative Value
-date: '2026-06-11 13:24:00 '
+date: '2026-06-11 18:30:16 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-1.webp

@@ -285,7 +285,7 @@ next_link:
   permalink: /weather-data/
   short_title: Weather data
   heading_title: Weather records that change a UFO case
-date: '2026-06-11 13:18:54 '
+date: '2026-06-11 18:25:32 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1.webp

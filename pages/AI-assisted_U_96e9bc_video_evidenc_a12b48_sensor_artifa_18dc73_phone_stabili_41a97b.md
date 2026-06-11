@@ -266,7 +266,7 @@ next_link:
   permalink: /sensor-checks/
   short_title: Sensor Checks
   heading_title: When Multiple Sensors Disagree About a UFO
-date: '2026-06-11 13:59:15 '
+date: '2026-06-11 19:04:41 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1.webp

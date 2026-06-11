@@ -266,7 +266,7 @@ next_link:
   permalink: /uncertainty-labels/
   short_title: Uncertainty labels
   heading_title: What should a UFO conclusion admit it does not know?
-date: '2026-06-11 13:25:36 '
+date: '2026-06-11 18:31:47 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-1.webp

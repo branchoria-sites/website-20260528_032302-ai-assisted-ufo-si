@@ -260,7 +260,7 @@ prev_link:
   permalink: /false-precision/
   short_title: False precision
   heading_title: When AI makes uncertain UFO times look exact
-date: '2026-06-11 13:55:40 '
+date: '2026-06-11 19:01:38 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_digital_timin_c8c7af-Illustration-1.webp

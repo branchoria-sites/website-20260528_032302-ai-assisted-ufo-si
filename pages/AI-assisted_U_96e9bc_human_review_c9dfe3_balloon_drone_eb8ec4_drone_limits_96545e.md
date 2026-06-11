@@ -260,7 +260,7 @@ next_link:
   permalink: /false-confidence/
   short_title: False confidence
   heading_title: The danger of confident weak matches
-date: '2026-06-11 13:20:21 '
+date: '2026-06-11 18:26:55 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-1.webp

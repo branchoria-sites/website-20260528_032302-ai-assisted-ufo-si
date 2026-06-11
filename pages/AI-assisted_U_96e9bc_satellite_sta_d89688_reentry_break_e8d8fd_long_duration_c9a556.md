@@ -266,7 +266,7 @@ next_link:
   permalink: /re-entry-databases/
   short_title: Re entry Databases
   heading_title: Can Space Debris Databases Solve A UFO Report?
-date: '2026-06-11 13:48:41 '
+date: '2026-06-11 18:54:48 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-1.webp

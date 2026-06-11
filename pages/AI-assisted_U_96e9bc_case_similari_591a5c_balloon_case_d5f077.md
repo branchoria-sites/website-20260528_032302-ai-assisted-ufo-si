@@ -285,7 +285,7 @@ next_link:
   permalink: /missing-data/
   short_title: Missing Data
   heading_title: Why So Many Older UFO Cases Stayed Unresolved
-date: '2026-06-11 13:05:24 '
+date: '2026-06-11 18:11:51 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077-Illustration-1.webp

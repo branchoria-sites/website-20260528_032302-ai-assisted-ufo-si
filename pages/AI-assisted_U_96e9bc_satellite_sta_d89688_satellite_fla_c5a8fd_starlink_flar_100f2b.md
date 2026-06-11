@@ -266,7 +266,7 @@ next_link:
   permalink: /timing-checks-68d869/
   short_title: Timing Checks
   heading_title: Can Timing Data Solve A UFO Sighting Quickly?
-date: '2026-06-11 13:50:36 '
+date: '2026-06-11 18:56:42 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-1.webp

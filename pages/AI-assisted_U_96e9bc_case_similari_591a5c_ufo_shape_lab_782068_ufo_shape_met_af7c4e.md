@@ -260,7 +260,7 @@ next_link:
   permalink: /orb-reports/
   short_title: Orb reports
   heading_title: Why so many UFOs become orbs
-date: '2026-06-11 13:41:27 '
+date: '2026-06-11 18:47:42 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1.webp

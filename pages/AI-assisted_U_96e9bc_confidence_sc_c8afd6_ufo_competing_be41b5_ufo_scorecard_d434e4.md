@@ -260,7 +260,7 @@ next_link:
   permalink: /incomplete-data/
   short_title: Incomplete Data
   heading_title: Why Missing Data Keeps Some UFO Cases Open
-date: '2026-06-11 13:42:43 '
+date: '2026-06-11 18:48:58 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-1.webp

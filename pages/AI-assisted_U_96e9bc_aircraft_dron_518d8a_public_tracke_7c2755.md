@@ -285,7 +285,7 @@ next_link:
   permalink: /uk-drone-rules/
   short_title: UK drone rules
   heading_title: The green flashing light investigators should ask about
-date: '2026-06-11 13:08:19 '
+date: '2026-06-11 18:14:49 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-1.webp

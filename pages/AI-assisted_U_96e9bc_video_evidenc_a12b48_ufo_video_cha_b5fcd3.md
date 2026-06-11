@@ -285,7 +285,7 @@ next_link:
   permalink: /go-fast-parallax/
   short_title: Go Fast Parallax
   heading_title: Why the Go Fast UFO Only Looked Hypersonic
-date: '2026-06-11 13:18:06 '
+date: '2026-06-11 18:24:46 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1.webp

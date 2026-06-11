@@ -260,7 +260,7 @@ prev_link:
   permalink: /in-ufo-reporting-duration/
   short_title: In UFO Reporting, Duration
   heading_title: Why UFO Sighting Duration Often Matters Most
-date: '2026-06-11 13:40:09 '
+date: '2026-06-11 18:46:22 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_time_c_fe4a86-Illustration-1.webp
