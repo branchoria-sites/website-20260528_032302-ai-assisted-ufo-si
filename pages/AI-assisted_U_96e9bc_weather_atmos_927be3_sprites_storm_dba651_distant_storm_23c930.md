@@ -266,7 +266,7 @@ next_link:
   permalink: /video-tests/
   short_title: Video tests
   heading_title: What one frame can reveal
-date: '2026-06-10 23:46:29 '
+date: '2026-06-11 14:01:28 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1.webp
@@ -371,7 +371,6 @@ A strong sprite-screening workflow usually includes:
 2. Viewing direction or compass bearing.
 3. Local horizon profile.
 4. Storm radar imagery at the sighting time.
-
 5. Lightning detection data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[rmets.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">wiley.comGround‐based detection of sprites and their parent lightning...by ER Williams · 2010 · Cited by 54 — Sprites have been detected...</span></span></span>
 6. Cloud cover layers.
 7. Estimated storm distance.
@@ -598,11 +597,11 @@ The key lesson is that perception changes dramatically once storms become distan
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Nene Thomas Post Card &quot;Gathering Storm&quot; Fantasy Poster Art Home Decor Bedroom D"><img src="https://i.ebayimg.com/images/g/OwkAAeSwsI5qHLxK/s-l225.jpg" alt="Listing image for Nene Thomas Post Card &quot;Gathering Storm&quot; Fantasy Poster Art Home Decor Bedroom D" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Blue Storm Fairy - Fairies Wall Art Print High Gloss 11 in x 17 in"><img src="https://i.ebayimg.com/images/g/u~4AAOSwaUJnBGWx/s-l225.jpg" alt="Listing image for Blue Storm Fairy - Fairies Wall Art Print High Gloss 11 in x 17 in" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer">Nene Thomas Post Card &quot;Gathering Storm&quot; Fantasy Poster Art Home Decor Bedroom D</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer">Blue Storm Fairy - Fairies Wall Art Print High Gloss 11 in x 17 in</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=storm+sprite+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-sprites-can-look-like-hovering-craft-storm-sprite-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="storm sprite poster" data-ebay-reference="why-sprites-can-look-like-hovering-craft-storm-sprite-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for storm sprite poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: storm sprite poster</a>
         <div class="fr-book-actions">

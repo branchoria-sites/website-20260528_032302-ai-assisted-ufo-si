@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-weather-atmos/
 description: Focused pages that expand on Lenticulars.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6
 parent_title: Lenticulars

@@ -260,7 +260,7 @@ next_link:
   permalink: /starlink-trains-a88b86/
   short_title: Starlink Trains
   heading_title: Why Starlink Trains Look Like Coordinated UFO Fleets
-date: '2026-06-10 23:32:09 '
+date: '2026-06-11 13:45:59 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_satellite_fla_8f7af0-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_satellite_fla_8f7af0-Illustration-1.webp
@@ -303,7 +303,6 @@ The reconstruction process typically checks five linked variables:
 1. Exact witness time window.
 2. Observer latitude, longitude, and viewing direction.
 3. Satellite orbital track.
-
 4. Solar illumination conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apollosat.com/iridium-coverage-map/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apollosat.com">[apollosat.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apollosat.com</span><span class="citation-popover-snippet">Apollo SatelliteIridium Coverage Map Live View of SatellitesVisibility Conditions To See An Iridium Flare · Dark sky: it should be night...</span></span></span>
 5. Earth shadow boundary at that moment.
 

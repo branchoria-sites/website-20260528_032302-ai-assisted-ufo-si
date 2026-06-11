@@ -260,7 +260,7 @@ next_link:
   permalink: /starlink-checks/
   short_title: Starlink checks
   heading_title: When does a Starlink match really hold?
-date: '2026-06-10 23:07:24 '
+date: '2026-06-11 13:21:02 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-1.webp

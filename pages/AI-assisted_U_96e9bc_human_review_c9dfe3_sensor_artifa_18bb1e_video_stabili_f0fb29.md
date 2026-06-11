@@ -260,7 +260,7 @@ next_link:
   permalink: /focus-blur/
   short_title: Focus Blur
   heading_title: Why blurry lights become triangle UFOs on camera
-date: '2026-06-10 23:12:46 '
+date: '2026-06-11 13:26:43 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1.webp
@@ -359,7 +359,6 @@ A typical sequence looks like this:
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. The witness rapidly pans the camera trying to keep up with a distant light.
-
 2. Rolling shutter skews the object across the frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
 3. Stabilisation software attempts to smooth the motion.
 4. The correction overshoots.

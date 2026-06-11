@@ -260,7 +260,7 @@ prev_link:
   permalink: /rendlesham/
   short_title: Rendlesham
   heading_title: Why Rendlesham Forest Still Divides Investigators
-date: '2026-06-10 23:25:29 '
+date: '2026-06-11 13:39:18 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-1.webp

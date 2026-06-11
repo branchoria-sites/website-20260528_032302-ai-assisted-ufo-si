@@ -266,7 +266,7 @@ next_link:
   permalink: /moon-position/
   short_title: Moon Position
   heading_title: Could the Moon Match the Reported UFO Position?
-date: '2026-06-10 23:23:02 '
+date: '2026-06-11 13:36:52 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1.webp

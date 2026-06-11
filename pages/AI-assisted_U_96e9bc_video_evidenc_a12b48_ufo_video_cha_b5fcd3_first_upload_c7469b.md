@@ -260,7 +260,7 @@ next_link:
   permalink: /geolocation/
   short_title: Geolocation
   heading_title: Did This UFO Video Really Come From Here?
-date: '2026-06-10 23:15:46 '
+date: '2026-06-11 13:29:42 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1.webp
@@ -447,7 +447,6 @@ A typical workflow looks like this:
 
 1. Archive every known repost immediately.
 2. Extract keyframes from multiple moments in the video.
-
 3. Reverse-search frames across several engines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bellingcat.gitbook.io/toolkit/categories/image-video/reverse-image-search" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.gitbook.io">[bellingcat.gitbook.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.gitbook.io</span><span class="citation-popover-title">io Reverse Image Search</span><span class="citation-popover-snippet">Image Search - Bellingcat&#x27;s Online Investigation Toolkit07 Jun 2025 — This standalone application can be used to do a reverse image searc...</span></span></span>
 4. Identify the oldest visible upload timestamps.
 5. Compare captions and usernames across repost chains.

@@ -260,7 +260,7 @@ prev_link:
   permalink: /missing-tracks/
   short_title: Missing Tracks
   heading_title: Can A Hidden Aircraft Fool A UFO Investigation?
-date: '2026-06-10 23:31:18 '
+date: '2026-06-11 13:45:07 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1.webp

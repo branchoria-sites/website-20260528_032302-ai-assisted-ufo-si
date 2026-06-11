@@ -279,7 +279,7 @@ next_link:
   permalink: /false-matches/
   short_title: False Matches
   heading_title: When AI Sees a Balloon in Every Light
-date: '2026-06-10 22:53:10 '
+date: '2026-06-11 13:06:42 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-1.webp

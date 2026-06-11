@@ -260,7 +260,7 @@ next_link:
   permalink: /soft-debunks/
   short_title: Soft Debunks
   heading_title: How 'Probably Starlink' Becomes 'Confirmed Starlink'
-date: '2026-06-10 23:10:46 '
+date: '2026-06-11 13:24:39 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-1.webp

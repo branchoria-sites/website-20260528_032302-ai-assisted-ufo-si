@@ -279,7 +279,7 @@ next_link:
   permalink: /first-account/
   short_title: First account
   heading_title: Why the first UFO account matters most
-date: '2026-06-10 23:02:05 '
+date: '2026-06-11 13:15:31 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-1.webp

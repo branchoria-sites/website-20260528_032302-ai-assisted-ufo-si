@@ -266,7 +266,7 @@ next_link:
   permalink: /ocean-illusion/
   short_title: Ocean Illusion
   heading_title: Why the Ocean Made Go Fast Look So Fast
-date: '2026-06-10 23:43:13 '
+date: '2026-06-11 13:57:23 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-1.webp

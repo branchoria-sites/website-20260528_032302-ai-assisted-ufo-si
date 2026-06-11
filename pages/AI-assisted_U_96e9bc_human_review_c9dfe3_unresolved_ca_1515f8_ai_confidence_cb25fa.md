@@ -260,7 +260,7 @@ next_link:
   permalink: /missing-metadata/
   short_title: Missing Metadata
   heading_title: What UFO Videos Cannot Prove Without Metadata
-date: '2026-06-10 23:13:17 '
+date: '2026-06-11 13:27:14 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-1.webp

@@ -260,7 +260,7 @@ next_link:
   permalink: /wave-patterns/
   short_title: Wave Patterns
   heading_title: Why Some 'Flying Saucers' Stay Fixed Above Mountains
-date: '2026-06-10 23:45:34 '
+date: '2026-06-11 14:00:28 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1.webp

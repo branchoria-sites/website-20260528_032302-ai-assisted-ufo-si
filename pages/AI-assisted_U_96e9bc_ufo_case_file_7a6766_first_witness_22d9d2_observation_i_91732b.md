@@ -260,7 +260,7 @@ prev_link:
   permalink: /group-witnesses/
   short_title: Group Witnesses
   heading_title: When Group Sightings Stop Being Independent
-date: '2026-06-10 23:40:36 '
+date: '2026-06-11 13:54:40 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-1.webp

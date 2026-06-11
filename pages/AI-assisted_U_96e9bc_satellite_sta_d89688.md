@@ -313,7 +313,7 @@ next_link:
   permalink: /timeline/
   short_title: Timeline
   heading_title: What Else Was Happening During the Sighting?
-date: '2026-06-10 22:50:34 '
+date: '2026-06-11 13:04:10 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-overview.webp

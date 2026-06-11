@@ -285,7 +285,7 @@ next_link:
   permalink: /light-pillars/
   short_title: Light pillars
   heading_title: Are those alien beams really light pillars?
-date: '2026-06-10 23:04:57 '
+date: '2026-06-11 13:18:25 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-1.webp

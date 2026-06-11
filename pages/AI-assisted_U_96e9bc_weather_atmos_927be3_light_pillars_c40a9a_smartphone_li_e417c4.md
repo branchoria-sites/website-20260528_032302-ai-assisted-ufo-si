@@ -260,7 +260,7 @@ prev_link:
   permalink: /light-maps/
   short_title: Light Maps
   heading_title: Can Night Light Maps Explain A UFO Beam?
-date: '2026-06-10 23:46:16 '
+date: '2026-06-11 14:01:13 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_smartphone_li_e417c4-Illustration-1.webp
@@ -537,22 +537,6 @@ The key point is not that the witness fabricated the sighting. The light pillar 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for HUBBLE SPACE TELESCOPE PILLARS OF CREATION BLACK FRAMED ART PRINT B12X2390"><img src="https://i.ebayimg.com/images/g/qhUAAOSwa6Jag3p-/s-l225.jpg" alt="Listing image for HUBBLE SPACE TELESCOPE PILLARS OF CREATION BLACK FRAMED ART PRINT B12X2390" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer">HUBBLE SPACE TELESCOPE PILLARS OF CREATION BLACK FRAMED ART PRINT B12X2390</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hubble Telescope Pillars Creation Blue Haze Eagle Nebula Framed Art Print 9X7 In"><img src="https://i.ebayimg.com/images/g/s5IAAOSwXuhnTjH~/s-l225.jpg" alt="Listing image for Hubble Telescope Pillars Creation Blue Haze Eagle Nebula Framed Art Print 9X7 In" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -569,11 +553,11 @@ The key point is not that the witness fabricated the sighting. The light pillar 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hubble Space Telescope Pillar Jets HH 901/902 Colourful Framed Wall Art 18X24&quot;"><img src="https://i.ebayimg.com/images/g/h3EAAOSwGkRnTzFV/s-l225.jpg" alt="Listing image for Hubble Space Telescope Pillar Jets HH 901/902 Colourful Framed Wall Art 18X24&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Light Pillars Beautiful Landscape Nature Sky Dark Twilight Heaven Poster Print E"><img src="https://i.ebayimg.com/images/g/X5wAAeSwso9oazAc/s-l225.jpg" alt="Listing image for Light Pillars Beautiful Landscape Nature Sky Dark Twilight Heaven Poster Print E" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer">Hubble Space Telescope Pillar Jets HH 901/902 Colourful Framed Wall Art 18X24&quot;</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer">Light Pillars Beautiful Landscape Nature Sky Dark Twilight Heaven Poster Print E</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar poster</a>
         <div class="fr-book-actions">
@@ -585,11 +569,27 @@ The key point is not that the witness fabricated the sighting. The light pillar 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Queens of the Stone Age Melbourne 2018 Pillars of Light Foil Poster Ken Taylor"><img src="https://i.ebayimg.com/images/g/g9QAAOSw0ONoQc1O/s-l225.jpg" alt="Listing image for Queens of the Stone Age Melbourne 2018 Pillars of Light Foil Poster Ken Taylor" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pillar of light Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/1UcAAeSwxvppYBk-/s-l225.jpg" alt="Listing image for Pillar of light Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer">Queens of the Stone Age Melbourne 2018 Pillars of Light Foil Poster Ken Taylor</a>
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer">Pillar of light Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar poster</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Pillar of light Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/ydcAAeSwDAFpXBjN/s-l225.jpg" alt="Listing image for Pillar of light Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer">Pillar of light Framed Wall Art Poster Canvas Print Picture</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar poster" data-ebay-reference="why-phone-footage-makes-light-pillars-look-alien-light-pillar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar poster</a>
         <div class="fr-book-actions">

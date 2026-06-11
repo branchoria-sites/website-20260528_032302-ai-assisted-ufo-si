@@ -260,7 +260,7 @@ next_link:
   permalink: /stellarium-logs/
   short_title: Stellarium Logs
   heading_title: Why UFO Sky Screenshots Are Not Enough
-date: '2026-06-10 23:09:12 '
+date: '2026-06-11 13:22:56 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1.webp
@@ -311,7 +311,6 @@ The core workflow usually includes:
 
 1. Exact observer coordinates
 2. Observer height above ground
-
 3. Terrain elevation data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
 4. Direction and altitude calculations
 5. Time-synchronised astronomical positions

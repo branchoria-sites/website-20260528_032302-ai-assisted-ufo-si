@@ -266,7 +266,7 @@ next_link:
   permalink: /repost-artefacts/
   short_title: Repost artefacts
   heading_title: When reposts make UFOs look stranger
-date: '2026-06-10 23:43:51 '
+date: '2026-06-11 13:58:03 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-1.webp

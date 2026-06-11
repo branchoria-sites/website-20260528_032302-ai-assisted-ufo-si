@@ -260,7 +260,7 @@ next_link:
   permalink: /landmarks-c7d484/
   short_title: Landmarks
   heading_title: Can landmarks make a UFO bearing testable?
-date: '2026-06-10 23:39:08 '
+date: '2026-06-11 13:53:09 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1.webp

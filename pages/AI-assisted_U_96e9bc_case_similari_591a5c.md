@@ -313,7 +313,7 @@ next_link:
   permalink: /confidence/
   short_title: Confidence
   heading_title: How Certain Can a UFO Explanation Be?
-date: '2026-06-10 22:49:32 '
+date: '2026-06-11 13:03:10 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-overview.webp

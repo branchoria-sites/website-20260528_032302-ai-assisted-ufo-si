@@ -260,7 +260,7 @@ next_link:
   permalink: /in-ufo-reporting-duration/
   short_title: In UFO Reporting, Duration
   heading_title: Why UFO Sighting Duration Often Matters Most
-date: '2026-06-10 23:25:48 '
+date: '2026-06-11 13:39:36 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-1.webp
@@ -453,7 +453,6 @@ A well-designed AI system can assign lower analytical weight to weak reports wit
 One useful approach is layered ranking:
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-3-dark.svg" | relative_url }}" alt="False Matches illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_duplic_451842-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-
 1. Raw witness report <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[nuforc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Browse reports, images, videos, maps and more</span><span class="citation-popover-snippet">National UFO Reporting Center &#124; Report a UFO &#124; Report a UAPThe most trustworthy, transparent and respectful organization for UFO/UAP witn...</span></span></span>
 2. Cleaned and standardised report
 3. Duplicate probability estimate

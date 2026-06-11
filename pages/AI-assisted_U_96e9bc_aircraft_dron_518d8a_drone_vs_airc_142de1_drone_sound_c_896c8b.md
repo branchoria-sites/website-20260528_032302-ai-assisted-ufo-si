@@ -260,7 +260,7 @@ prev_link:
   permalink: /hover-tests/
   short_title: Hover tests
   heading_title: Is that light really hovering?
-date: '2026-06-10 23:17:52 '
+date: '2026-06-11 13:31:46 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1.webp
@@ -383,7 +383,6 @@ AI systems can help by structuring these observations consistently rather than r
 1. Extract sound descriptions from witness testimony.
 2. Correlate them with estimated object distance.
 3. Reconstruct ambient noise conditions.
-
 4. Compare the report against known drone acoustic behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eejournal.com/article/acoustic-detection-of-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eejournal.com">[eejournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eejournal.com</span><span class="citation-popover-title">acoustic detection of drones</span><span class="citation-popover-snippet">7 Mar 2024 — Passive acoustic location has been used to detect enemy aircraft by picking up the noise of their engines.Read more...</span></span></span>
 5. Assign confidence levels rather than binary conclusions.
 

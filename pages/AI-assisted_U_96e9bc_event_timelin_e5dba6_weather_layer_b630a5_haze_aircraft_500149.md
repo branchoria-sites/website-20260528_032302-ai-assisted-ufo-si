@@ -266,7 +266,7 @@ next_link:
   permalink: /inversion-illusions/
   short_title: Inversion Illusions
   heading_title: Why Some UFO Lights Seem To Hover Motionless
-date: '2026-06-10 23:33:55 '
+date: '2026-06-11 13:47:47 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1.webp

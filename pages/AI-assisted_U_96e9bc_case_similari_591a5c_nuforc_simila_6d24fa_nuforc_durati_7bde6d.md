@@ -266,7 +266,7 @@ next_link:
   permalink: /time-clusters/
   short_title: Time Clusters
   heading_title: When A UFO Wave Turns Out To Be One Event
-date: '2026-06-10 23:26:03 '
+date: '2026-06-11 13:39:51 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-1.webp

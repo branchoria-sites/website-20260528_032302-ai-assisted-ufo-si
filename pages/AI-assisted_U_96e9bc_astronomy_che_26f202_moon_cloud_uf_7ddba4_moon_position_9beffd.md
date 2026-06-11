@@ -260,7 +260,7 @@ prev_link:
   permalink: /following-moon/
   short_title: Following Moon
   heading_title: Why the Moon Appears To Follow Your Car
-date: '2026-06-10 23:23:27 '
+date: '2026-06-11 13:37:17 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1.webp
@@ -272,7 +272,7 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7d
 Many UFO reports involving a bright object near the horizon can be tested within minutes by checking where the Moon actually was. A witness may describe a hovering orb, a silent disc above rooftops, or a glowing object pacing a moving car, yet a reconstruction of moonrise, moonset, altitude and azimuth often shows the Moon sitting in almost the exact reported position. In AI-assisted UFO sighting investigation, this is one of the fastest ways to separate potentially unusual events from common astronomical misidentifications.
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-dark.svg" | relative_url }}" alt="Moon Position illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Moon checks matter most when a sighting occurs shortly after moonrise or before moonset. At those times, the Moon is low on the horizon, heavily affected by haze, cloud and foreground obstructions, and more likely to appear distorted, oversized or strangely coloured. NASA and [astronomy]({{ 'astronomy/' | relative_url }}) researchers note that the Moon illusion and atmospheric scattering can dramatically alter perceived size and colour near the horizon. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Contrary to early beliefs attributing the illusion to atmospheric refraction or mist, modern photography disproves these claims by showin...</span></span></span>
+Moon checks matter most when a sighting occurs shortly after moonrise or before moonset. At those times, the Moon is low on the horizon, heavily affected by haze, cloud and foreground obstructions, and more likely to appear distorted, oversized or strangely coloured. NASA and [astronomy]({{ 'astronomy/' | relative_url }}) researchers note that the “Moon illusion” and atmospheric scattering can dramatically alter perceived size and colour near the horizon. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Contrary to early beliefs attributing the illusion to atmospheric refraction or mist, modern photography disproves these claims by showin...</span></span></span>
 
 ## Why low-horizon Moon sightings are repeatedly mistaken for UFOs
 
@@ -286,7 +286,7 @@ The Moon becomes a particularly strong UFO candidate when three factors combine:
 
 </div>
 
-A bright full or near-full Moon near the horizon can appear orange, red, unusually large or partially obscured. Thin cloud may erase the familiar circular outline. Trees, buildings or hills can break the disc into fragments that resemble multiple lights or structured shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine Does the Moon look orange tonight?</span><span class="citation-popover-snippet">No, you&#x27;re not seeing...6 Oct 2025  When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023  Photographers can simulate the Moon illusion by taking pict...</span></span></span>
+A bright full or near-full Moon near the horizon can appear orange, red, unusually large or partially obscured. Thin cloud may erase the familiar circular outline. Trees, buildings or hills can break the disc into fragments that resemble multiple lights or structured shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine Does the Moon look orange tonight?</span><span class="citation-popover-snippet">No, you&#x27;re not seeing...6 Oct 2025 — When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
 
 Witnesses often describe:
 
@@ -323,8 +323,8 @@ Astronomy tools describe object position using the horizontal coordinate system:
 
 For example:
 
-* azimuth 90 = east <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * azimuth 180 = south <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * azimuth 270 = west <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * altitude 0 = horizon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
-* altitude 45 = halfway to overhead
+* azimuth 90° = east <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * azimuth 180° = south <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * azimuth 270° = west <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/help.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">How to Use: Sun &amp; Moon City PageNorth has an azimuth value of 0 degrees, east is 90 degrees, south is 180 degrees, and west is 270 degree...</span></span></span> * altitude 0° = horizon <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[timeanddate.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
+* altitude 45° = halfway to overhead
 
 Time and astronomy reference systems use these coordinates to calculate where the Moon appeared from a specific location at a specific time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and Date]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
 
@@ -336,10 +336,10 @@ If a report says:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* large orange object in the south-west
-* bright disc above the tree line
-* hovering low over the hills
-* object remained stationary for 20 minutes
+* “large orange object in the south-west”
+* “bright disc above the tree line”
+* “hovering low over the hills”
+* “object remained stationary for 20 minutes”
 
 </div>
 
@@ -349,8 +349,8 @@ If the Moon was:
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
-* azimuth 224
-* altitude 7
+* azimuth 224°
+* altitude 7°
 * 92% illuminated
 * setting behind low cloud
 
@@ -370,9 +370,9 @@ Near moonrise or moonset: <span class="citation-chip-wrap"><a class="citation-ch
 * haze reddens the Moon
 * refraction distorts its shape
 * foreground objects create [false motion]({{ 'false-motion/' | relative_url }}) cues
-* the Moon illusion exaggerates perceived size <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025  That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
+* the Moon illusion exaggerates perceived size <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
 
-NASA notes that photographs show the Moon is not physically larger at the horizon even though people strongly perceive it that way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023  Photographers can simulate the Moon illusion by taking pict...</span></span></span>
+NASA notes that photographs show the Moon is not physically larger at the horizon even though people strongly perceive it that way. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
 
 US Naval Observatory material also notes that refraction alters the apparent position of the Moon near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
 
@@ -386,7 +386,7 @@ In practical UFO reconstruction, this means a witness may sincerely report:
 
 </div>
 
-even though the Moons true angular size barely changes.
+even though the Moon’s true angular size barely changes.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuxWyIe8TIc" title="Why Does the Moon Look Larger at the Horizon? We Asked a NASA Expert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuxWyIe8TIc" target="_blank" rel="noopener noreferrer">Why Does the Moon Look Larger at the Horizon? We Asked a NASA Expert</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 49.1K &middot; Uploaded: February 2025 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuxWyIe8TIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuxWyIe8TIc">Open on YouTube</a></p></div></div></div>
 
@@ -398,7 +398,7 @@ Moon phase is often overlooked in UFO investigations, yet it can rapidly rule ex
 
 A crescent Moon behaves very differently from a full Moon.
 
-A near-full Moon: <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025  That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
+A near-full Moon: <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -413,7 +413,7 @@ A thin crescent:
 
 * is dimmer
 * lower contrast
-* less likely to create dramatic orb reports
+* less likely to create dramatic “orb” reports
 
 If a witness describes:
 
@@ -431,7 +431,7 @@ Moon phase calculators and lunar ephemeris data can reconstruct:
 * rise and set times
 * altitude curves throughout the night
 
-Tools such as the US Naval Observatory data services and Time and Dates Moon calculators provide these values directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
+Tools such as the US Naval Observatory data services and Time and Date’s Moon calculators provide these values directly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.timeanddate.com/astronomy/horizontal-coordinate-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: timeanddate.com">[Time and]</a><span class="citation-popover" role="note"><span class="citation-popover-source">timeanddate.com</span><span class="citation-popover-snippet">Time and DateAltitude &amp; Azimuth: The Horizontal Coordinate SystemThe azimuth is the angle between the spot where that line crosses the ho...</span></span></span>
 
 ### Cases where phase data weakens a Moon explanation
 
@@ -476,7 +476,7 @@ The system can compare these values against the witness account and assign a [co
 
 For example:
 
-* witness reports object low in west at 21:15 * Moon altitude = 4 <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> * Moon azimuth = 261 <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
+* witness reports object low in west at 21:15 * Moon altitude = 4° <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span> * Moon azimuth = 261° <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/data/AltAz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[aa.usno.navy.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-title">US Naval Observatory Altitude and Azimuth of the Sun or Moon During One Day</span><span class="citation-popover-snippet">Simply specify the object, date...Read more...</span></span></span>
 * illumination = 98%
 * weather data shows haze <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/box/sunmoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Sunrise &amp; Sunset / Moonrise &amp; MoonsetOfficial sunrise and sunset data obtained from The US Naval Observatory because of small differences...</span></span></span>
 
@@ -491,7 +491,7 @@ This matters because a witness rarely sees the true geometric horizon. Hills, ro
 * delay apparent moonrise
 * hide the lower lunar disc
 * create intermittent visibility
-* generate jumping or tracking effects through gaps
+* generate “jumping” or “tracking” effects through gaps
 
 AI systems can combine:
 
@@ -530,14 +530,14 @@ Many UFO reports contain uncertain times:
 * daylight saving confusion
 * delayed reporting
 
-Even a 30-minute error can significantly alter the Moons altitude near the horizon.
+Even a 30-minute error can significantly alter the Moon’s altitude near the horizon.
 
 ### Wrong witness direction
 
 Witnesses often use approximate directions:
 
-* west may actually mean south-west
-* over the hills may refer to a remembered landmark rather than true bearing
+* “west” may actually mean south-west
+* “over the hills” may refer to a remembered landmark rather than true bearing
 
 Investigators should treat direction claims probabilistically rather than as exact measurements.
 
@@ -601,7 +601,7 @@ The strongest matches also explain the witness perception mechanism:
 * trees obscuring the disc
 * moving observer creating false motion
 * cloud causing pulsation
-* horizon illusion exaggerating size <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023  Photographers can simulate the Moon illusion by taking pict...</span></span></span>
+* horizon illusion exaggerating size <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</span></span></span>
 
 When several of those conditions converge, the Moon can convincingly mimic characteristics often associated with UFO reports.
 
@@ -1005,7 +1005,7 @@ At the same time, careful UFO investigation requires discipline against overreac
    Source: science.nasa.gov  
    Title: the moon illusion why does the moon look so big sometimes  
    Link: <a href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023  Photographers can simulate the Moon illusion by taking pict...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographers can simulate the Moon illusion by taking pict...</p></details>
 
 2. <a id="endnote-2"></a>
    Source: nasa.gov  
@@ -1016,18 +1016,18 @@ At the same time, careful UFO investigation requires discipline against overreac
    Source: nasa.gov  
    Title: Why Does the Moon Look Larger at the Horizon?  
    Link: <a href="https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/general/why-does-the-moon-look-larger-at-the-horizon-we-asked-a-nasa-scientist-episode-50/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>We...12 Feb 2025  The atmosphere isn&#x27;t magnifying the Moon. If anything, atmospheric refraction squashes it a little bit. And the Moon&#x27;...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>We...12 Feb 2025 — The atmosphere isn&#x27;t magnifying the Moon. If anything, atmospheric refraction squashes it a little bit. And the Moon&#x27;...</p></details>
 
 4. <a id="endnote-4"></a>
    Source: science.nasa.gov  
    Link: <a href="https://science.nasa.gov/moon/formation/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/moon/formation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Feb 2026  Analysis of light reflecting off the Moon gives details of the mineral makeup of the Moon&#x27;s surface, and it shows the wides...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>12 Feb 2026 — Analysis of light reflecting off the Moon gives details of the mineral makeup of the Moon&#x27;s surface, and it shows the wides...</p></details>
 
 5. <a id="endnote-5"></a>
    Source: science.nasa.gov  
    Title: photographing the moon illusion  
    Link: <a href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/resource/photographing-the-moon-illusion/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Moon Illusion12 Feb 2025  That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>the Moon Illusion12 Feb 2025 — That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</p></details>
 
 6. <a id="endnote-6"></a>
    Source: weather.gov  
@@ -1037,7 +1037,7 @@ At the same time, careful UFO investigation requires discipline against overreac
 7. <a id="endnote-7"></a>
    Source: astronomy.com  
    Link: <a href="https://www.astronomy.com/observing/why-does-the-moon-look-so-large-sometimes-as-it-rises-on-the-horizon/" target="_blank" rel="noopener noreferrer nofollow">https://www.astronomy.com/observing/why-does-the-moon-look-so-large-sometimes-as-it-rises-on-the-horizon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the Moon look so large sometimes as it rises on...3 Jul 2024  The Moon illusion is more likely a trick of perception, an optic...</p></details>
+   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does the Moon look so large sometimes as it rises on...3 Jul 2024 — The Moon illusion is more likely a trick of perception, an optic...</p></details>
 
 8. <a id="endnote-8"></a>
    Source: youtube.com  
@@ -1060,7 +1060,7 @@ At the same time, careful UFO investigation requires discipline against overreac
    Source: skyatnightmagazine.com  
    Title: Sky at Night Magazine Does the Moon look orange tonight?  
    Link: <a href="https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, you&#x27;re not seeing...6 Oct 2025  When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>No, you&#x27;re not seeing...6 Oct 2025 — When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</p></details>
 
 12. <a id="endnote-12"></a>
    Source: timeanddate.com  
@@ -1104,9 +1104,9 @@ At the same time, careful UFO investigation requires discipline against overreac
 
 20. <a id="endnote-20"></a>
    Source: timeanddate.com  
-   Title: Moonrise, Moonset, and Moon Phase in Santiago Moon Altitude: 3.27  
+   Title: Moonrise, Moonset, and Moon Phase in Santiago Moon Altitude: 3.27°  
    Link: <a href="https://www.timeanddate.com/moon/chile/santiago" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/chile/santiago</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Distance: 224,928 mi. Next Full Moon: May 1, 2026... timeanddate.no  timeanddate.de. Follow Us.  Time and Date AS 19952026...Re...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Distance: 224,928 mi. Next Full Moon: May 1, 2026... timeanddate.no · timeanddate.de. Follow Us. © Time and Date AS 1995–2026...Re...</p></details>
    Published: May 1, 2026  
 
 21. <a id="endnote-21"></a>
@@ -1117,30 +1117,30 @@ At the same time, careful UFO investigation requires discipline against overreac
 22. <a id="endnote-22"></a>
    Source: timeanddate.com  
    Link: <a href="https://www.timeanddate.com/moon/usa/denver" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/usa/denver</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in DenverMoonrise and moonset time, Moon direction, and Moon phase in Denver  Colorado  USA for May 2...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in DenverMoonrise and moonset time, Moon direction, and Moon phase in Denver – Colorado – USA for May 2...</p></details>
 
 23. <a id="endnote-23"></a>
    Source: timeanddate.com  
    Link: <a href="https://www.timeanddate.com/moon/%404416153" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/%404416153</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in AltitudeMoonrise and moonset time, Moon direction, and Moon phase in Altitude  Mississippi  USA fo...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in AltitudeMoonrise and moonset time, Moon direction, and Moon phase in Altitude – Mississippi – USA fo...</p></details>
 
 24. <a id="endnote-24"></a>
    Source: timeanddate.com  
    Title: Moonrise, Moonset, and Moon Phase in Riyadh Current Time  
    Link: <a href="https://www.timeanddate.com/moon/saudi-arabia/riyadh" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/saudi-arabia/riyadh</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Direction: 235.94 SW. Moon Altitude: 13.01. Moon Distance: 248,767 mi. Next New Moon: May 16, 2026, 11:01 pm.Read more...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Direction: 235.94° SW↑. Moon Altitude: 13.01°. Moon Distance: 248,767 mi. Next New Moon: May 16, 2026, 11:01 pm.Read more...</p></details>
    Published: May 16, 2026  
 
 25. <a id="endnote-25"></a>
    Source: timeanddate.com  
    Link: <a href="https://www.timeanddate.com/moon/%404684723" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/%404684723</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in CypressMoonrise and moonset time, Moon direction, and Moon phase in Cypress  Texas  USA for May 20...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moonrise, Moonset, and Moon Phase in CypressMoonrise and moonset time, Moon direction, and Moon phase in Cypress – Texas – USA for May 20...</p></details>
 
 26. <a id="endnote-26"></a>
    Source: timeanddate.com  
    Title: new york  
    Link: <a href="https://www.timeanddate.com/moon/usa/new-york" target="_blank" rel="noopener noreferrer nofollow">https://www.timeanddate.com/moon/usa/new-york</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Direction: 264.22 W. Moon Altitude: 16.23. Moon Distance: 237,575 mi. Next Full Moon: Mar 3, 2026, 6:37 am.Read more...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moon Direction: 264.22° W↑. Moon Altitude: 16.23°. Moon Distance: 237,575 mi. Next Full Moon: Mar 3, 2026, 6:37 am.Read more...</p></details>
 
 27. <a id="endnote-27"></a>
    Source: timeanddate.com  
@@ -1160,7 +1160,7 @@ At the same time, careful UFO investigation requires discipline against overreac
 30. <a id="endnote-30"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the moon illusion - PMCby L Kaufman  2000  Cited by 126  An old explanation of the moon illusion holds that various cues place the hor...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>the moon illusion - PMCby L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the hor...</p></details>
 
 ### Additional References
 
@@ -1173,7 +1173,7 @@ At the same time, careful UFO investigation requires discipline against overreac
    Source: arxiv.org  
    Title: At the horizon, apparent distance to the sky is minimal, whereas at the zenith  
    Link: <a href="https://arxiv.org/abs/1301.2715" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1301.2715</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binocular disparity as an explanation for the moon illusionby J Antonides  2013  Cited by 3  As the apparent distance to the sky decre...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Binocular disparity as an explanation for the moon illusionby J Antonides · 2013 · Cited by 3 — As the apparent distance to the sky decre...</p></details>
 
 33. <a id="endnote-33"></a>
    Source: airmass.org  
@@ -1183,7 +1183,7 @@ At the same time, careful UFO investigation requires discipline against overreac
 34. <a id="endnote-34"></a>
    Source: admiralty.co.uk  
    Link: <a href="https://www.admiralty.co.uk/publications/astronomical-publications/miscellaneous-Astronomical-Publications" target="_blank" rel="noopener noreferrer nofollow">https://www.admiralty.co.uk/publications/astronomical-publications/miscellaneous-Astronomical-Publications</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miscellaneous ADMIRALTY Astronomical PublicationsVolume 1 contains the altitude to 1&#x27; and true azimuth to 1 for the seven stars most sui...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>Miscellaneous ADMIRALTY Astronomical PublicationsVolume 1 contains the altitude to 1&#x27; and true azimuth to 1° for the seven stars most sui...</p></details>
 
 35. <a id="endnote-35"></a>
    Source: cseligman.com  
@@ -1209,12 +1209,12 @@ At the same time, careful UFO investigation requires discipline against overreac
    Source: physics.stackexchange.com  
    Title: why does the moon sometimes appear giant and a orange red color near the horizon  
    Link: <a href="https://physics.stackexchange.com/questions/25254/why-does-the-moon-sometimes-appear-giant-and-a-orange-red-color-near-the-horizon" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/25254/why-does-the-moon-sometimes-appear-giant-and-a-orange-red-color-near-the-horizon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>does the moon sometimes appear giant and a orange...3 June 2011  So, you expect more blue light to be scattered from Sunlight or Moonli...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>does the moon sometimes appear giant and a orange...3 June 2011 — So, you expect more blue light to be scattered from Sunlight or Moonli...</p></details>
    Published: June 2011  
 
 40. <a id="endnote-40"></a>
    Source: astronomy.stackexchange.com  
    Title: how to calculate the time and date from the moons position phase and the orien  
    Link: <a href="https://astronomy.stackexchange.com/questions/60118/how-to-calculate-the-time-and-date-from-the-moons-position-phase-and-the-orien" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/60118/how-to-calculate-the-time-and-date-from-the-moons-position-phase-and-the-orien</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to calculate the time and date from the moon&#x27;s...May 10, 2025  A formula, for example, where you input the position (Azimuth/Altitude o...</p></details>
+    <details class="endnote-snippet"><summary>Source snippet</summary><p>to calculate the time and date from the moon&#x27;s...May 10, 2025 — A formula, for example, where you input the position (Azimuth/Altitude o...</p></details>
    Published: May 10, 2025

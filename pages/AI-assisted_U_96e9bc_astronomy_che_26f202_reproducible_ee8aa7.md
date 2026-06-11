@@ -285,7 +285,7 @@ next_link:
   permalink: /twinkling-stars/
   short_title: Twinkling stars
   heading_title: Why bright stars seem to flash and move
-date: '2026-06-10 22:51:39 '
+date: '2026-06-11 13:05:13 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1.webp

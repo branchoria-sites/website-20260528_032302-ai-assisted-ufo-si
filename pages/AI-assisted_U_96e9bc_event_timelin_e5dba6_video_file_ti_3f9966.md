@@ -285,7 +285,7 @@ next_link:
   permalink: /weather-layers/
   short_title: Weather layers
   heading_title: How weather can reshape a sighting
-date: '2026-06-10 22:59:48 '
+date: '2026-06-11 13:13:16 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966-Illustration-1.webp
@@ -334,7 +334,6 @@ For that reason, a structured UFO [case file]({{ 'case-file/' | relative_url }})
 
 1. The untouched original file whenever possible.
 2. Hash values for each version.
-
 3. Device information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using Metadataby Z Xiang · 2021 · Cited by 36 — This metadata information can be used to determine video...</span></span></span>
 4. Upload chronology.
 5. Platform-specific copies.

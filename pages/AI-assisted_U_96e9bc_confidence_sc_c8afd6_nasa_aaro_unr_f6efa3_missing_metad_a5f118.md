@@ -266,7 +266,7 @@ next_link:
   permalink: /unresolved-cases-8eabfa/
   short_title: Unresolved Cases
   heading_title: What 'Unresolved' Really Means in UFO Investigations
-date: '2026-06-10 23:28:08 '
+date: '2026-06-11 13:41:55 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-1.webp

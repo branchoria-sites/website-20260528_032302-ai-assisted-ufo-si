@@ -266,7 +266,7 @@ next_link:
   permalink: /phone-cameras/
   short_title: Phone Cameras
   heading_title: Why Phone Footage Makes Light Pillars Look Alien
-date: '2026-06-10 23:46:05 '
+date: '2026-06-11 14:01:01 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-1.webp

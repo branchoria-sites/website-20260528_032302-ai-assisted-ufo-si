@@ -285,7 +285,7 @@ next_link:
   permalink: /shape-labels/
   short_title: Shape Labels
   heading_title: Why 'Triangle' And 'Orb' Reports Mislead AI
-date: '2026-06-10 22:56:48 '
+date: '2026-06-11 13:10:17 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa-Illustration-1.webp

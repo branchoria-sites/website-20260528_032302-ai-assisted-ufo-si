@@ -260,7 +260,7 @@ prev_link:
   permalink: /stellarium-logs/
   short_title: Stellarium Logs
   heading_title: Why UFO Sky Screenshots Are Not Enough
-date: '2026-06-10 23:08:28 '
+date: '2026-06-11 13:22:09 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1.webp

@@ -260,7 +260,7 @@ next_link:
   permalink: /green-fireballs/
   short_title: Green Fireballs
   heading_title: Why Green Meteors Look Like Alien Craft
-date: '2026-06-10 23:08:13 '
+date: '2026-06-11 13:21:52 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1.webp
@@ -345,7 +345,6 @@ This produces a familiar emergency-response pattern:
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. bright flash observed
-
 2. delayed boom heard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">It&#x27;s Fireball Season!</span><span class="citation-popover-snippet">Answering Your Meteor Questions26 Mar 2026 —... sound, often called a sonic boom, that can be heard on the ground. Additionally, the fra...</span></span></span>
 3. residents report a nearby explosion
 4. emergency services receive calls about crashes or impacts

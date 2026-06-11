@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-aircraft-dron/
 description: Focused pages that expand on NJ drone wave.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6
 parent_title: NJ drone wave

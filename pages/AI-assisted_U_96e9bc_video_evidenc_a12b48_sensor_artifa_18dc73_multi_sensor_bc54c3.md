@@ -260,7 +260,7 @@ prev_link:
   permalink: /phone-drift/
   short_title: Phone Drift
   heading_title: Why Phone Cameras Make UFO Lights Seem Erratic
-date: '2026-06-10 23:15:26 '
+date: '2026-06-11 13:29:22 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1.webp

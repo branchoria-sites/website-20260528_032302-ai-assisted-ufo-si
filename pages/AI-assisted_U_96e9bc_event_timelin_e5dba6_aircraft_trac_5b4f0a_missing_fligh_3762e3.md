@@ -266,7 +266,7 @@ next_link:
   permalink: /sound-delays/
   short_title: Sound Delays
   heading_title: Why A Silent UFO May Still Be An Aircraft
-date: '2026-06-10 23:31:05 '
+date: '2026-06-11 13:44:54 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-1.webp

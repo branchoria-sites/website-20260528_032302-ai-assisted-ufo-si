@@ -279,7 +279,7 @@ next_link:
   permalink: /landing-lights/
   short_title: Landing lights
   heading_title: Why a plane can look like a hovering orb
-date: '2026-06-10 22:54:00 '
+date: '2026-06-11 13:07:32 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-1.webp

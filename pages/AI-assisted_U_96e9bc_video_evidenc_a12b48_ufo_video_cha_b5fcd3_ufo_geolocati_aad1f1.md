@@ -266,7 +266,7 @@ next_link:
   permalink: /missing-metadata-28b5a6/
   short_title: Missing Metadata
   heading_title: What Happens When UFO Video Metadata Disappears?
-date: '2026-06-10 23:45:23 '
+date: '2026-06-11 14:00:16 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_ufo_geolocati_aad1f1-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_ufo_geolocati_aad1f1-Illustration-1.webp

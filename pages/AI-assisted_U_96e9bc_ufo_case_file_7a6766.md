@@ -313,7 +313,7 @@ next_link:
   permalink: /case-match/
   short_title: Case Match
   heading_title: Has This UFO Sighting Happened Before?
-date: '2026-06-10 22:50:55 '
+date: '2026-06-11 13:04:30 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-overview.webp

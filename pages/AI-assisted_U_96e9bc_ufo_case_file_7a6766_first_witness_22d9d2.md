@@ -285,7 +285,7 @@ next_link:
   permalink: /geometry/
   short_title: Geometry
   heading_title: Where in the sky was the object?
-date: '2026-06-10 23:02:28 '
+date: '2026-06-11 13:15:54 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1.webp

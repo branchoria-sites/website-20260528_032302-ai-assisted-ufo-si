@@ -266,7 +266,7 @@ next_link:
   permalink: /wind-drift/
   short_title: Wind drift
   heading_title: When balloon drift looks like controlled flight
-date: '2026-06-10 23:09:39 '
+date: '2026-06-11 13:23:26 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_reflective_fo_a1ef88-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_reflective_fo_a1ef88-Illustration-1.webp

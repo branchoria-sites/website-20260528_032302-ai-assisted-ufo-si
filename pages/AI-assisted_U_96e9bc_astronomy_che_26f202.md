@@ -313,7 +313,7 @@ next_link:
   permalink: /case-file/
   short_title: Case File
   heading_title: What Makes a UFO Report Investigable?
-date: '2026-06-10 22:49:16 '
+date: '2026-06-11 13:02:55 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-overview-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-overview.webp

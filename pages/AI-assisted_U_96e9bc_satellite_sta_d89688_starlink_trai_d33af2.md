@@ -279,7 +279,7 @@ prev_link:
   permalink: /satellite-flares/
   short_title: Satellite Flares
   heading_title: Why Some Satellites Suddenly Brighten And Vanish
-date: '2026-06-10 23:01:34 '
+date: '2026-06-11 13:15:00 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-1.webp

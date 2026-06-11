@@ -260,7 +260,7 @@ next_link:
   permalink: /light-maps/
   short_title: Light Maps
   heading_title: Can Night Light Maps Explain A UFO Beam?
-date: '2026-06-10 23:16:18 '
+date: '2026-06-11 13:30:13 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1.webp
@@ -566,6 +566,22 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
       <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO LIGHT HEADED PILLAR BOX ROCHDALE&#x27;S FAMOUS PILLAR BOX OF 1859 IN THE TOAD"><img src="https://i.ebayimg.com/images/g/nh8AAeSw9pJoYnKW/s-l225.jpg" alt="Listing image for PHOTO LIGHT HEADED PILLAR BOX ROCHDALE&#x27;S FAMOUS PILLAR BOX OF 1859 IN THE TOAD" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">PHOTO LIGHT HEADED PILLAR BOX ROCHDALE&#x27;S FAMOUS PILLAR BOX OF 1859 IN THE TOAD</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Last Pillar of Light – The One Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/B44AAeSwww5o-Qhe/s-l225.jpg" alt="Listing image for The Last Pillar of Light – The One Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
@@ -582,43 +598,27 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Asian Pillar of light Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/l~kAAeSwIIFpwX5K/s-l225.jpg" alt="Listing image for Asian Pillar of light Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">Asian Pillar of light Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF"><img src="https://i.ebayimg.com/images/g/WDIAAOSw3CpgBp74/s-l225.jpg" alt="Listing image for PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">PHOTO LENTON FORMER LIGHTING COLUMN HIGHFIELDS PARK ONE OF THE FEW REMINDERS OF</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lights Pillar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/kzsAAeSw~zhpqXQB/s-l225.jpg" alt="Listing image for Lights Pillar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
       <div class="fr-book-info">
         <p class="fr-book-kicker">Example eBay listing</p>
         <h4 class="fr-book-title">
           <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">Lights Pillar Framed Wall Art Poster Canvas Print Picture</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo Church - Sherborne: stained glass light on abbey pillar c2012"><img src="https://i.ebayimg.com/images/g/3kQAAOSwOolg3Er1/s-l225.jpg" alt="Listing image for Photo Church - Sherborne: stained glass light on abbey pillar c2012" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer">Photo Church - Sherborne: stained glass light on abbey pillar c2012</a>
         </h4>
         <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=light+pillar+photo+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="light pillar photo print" data-ebay-reference="why-vertical-ufo-beams-seem-to-hover-in-fog-light-pillar-photo-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for light pillar photo print">Search <span data-ebay-domain-label>eBay.co.uk</span>: light pillar photo print</a>
         <div class="fr-book-actions">

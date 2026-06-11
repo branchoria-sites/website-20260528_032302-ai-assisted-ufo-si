@@ -260,7 +260,7 @@ next_link:
   permalink: /starlink-drift/
   short_title: Starlink Drift
   heading_title: When Starlink is only a weak UFO answer
-date: '2026-06-10 23:37:17 '
+date: '2026-06-11 13:51:14 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1.webp

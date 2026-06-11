@@ -260,7 +260,7 @@ next_link:
   permalink: /reposts/
   short_title: Reposts
   heading_title: What Gets Lost When UFO Clips Go Viral
-date: '2026-06-10 23:14:37 '
+date: '2026-06-11 13:28:34 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1.webp

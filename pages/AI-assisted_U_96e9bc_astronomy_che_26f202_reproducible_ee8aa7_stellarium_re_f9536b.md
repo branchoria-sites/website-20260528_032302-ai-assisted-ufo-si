@@ -266,7 +266,7 @@ next_link:
   permalink: /time-errors/
   short_title: Time Errors
   heading_title: Could A One Hour Clock Error Change The Whole Case?
-date: '2026-06-10 23:08:50 '
+date: '2026-06-11 13:22:32 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-1.webp

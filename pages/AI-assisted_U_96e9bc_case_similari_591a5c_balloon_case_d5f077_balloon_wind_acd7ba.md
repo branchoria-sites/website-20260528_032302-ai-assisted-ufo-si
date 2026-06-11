@@ -260,7 +260,7 @@ prev_link:
   permalink: /foil-flashes/
   short_title: Foil flashes
   heading_title: Why foil balloons flash like UFOs
-date: '2026-06-10 23:06:12 '
+date: '2026-06-11 13:19:42 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_wind_acd7ba-Illustration-1.webp

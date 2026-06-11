@@ -279,7 +279,7 @@ next_link:
   permalink: /fireballs/
   short_title: Fireballs
   heading_title: When many UFO reports point to one meteor
-date: '2026-06-10 22:56:10 '
+date: '2026-06-11 13:09:40 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1.webp

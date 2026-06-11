@@ -279,7 +279,7 @@ prev_link:
   permalink: /sensor-errors/
   short_title: Sensor Errors
   heading_title: Could the Camera Be Creating the UFO?
-date: '2026-06-10 22:53:28 '
+date: '2026-06-11 13:07:00 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-1.webp

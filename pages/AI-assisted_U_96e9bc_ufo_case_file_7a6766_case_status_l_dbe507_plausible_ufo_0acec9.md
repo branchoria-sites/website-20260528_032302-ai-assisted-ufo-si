@@ -260,7 +260,7 @@ next_link:
   permalink: /solved-later/
   short_title: Solved Later
   heading_title: Why Old Unresolved UFO Cases Sometimes Get Solved
-date: '2026-06-10 23:39:24 '
+date: '2026-06-11 13:53:26 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_plausible_ufo_0acec9-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_plausible_ufo_0acec9-Illustration-1.webp

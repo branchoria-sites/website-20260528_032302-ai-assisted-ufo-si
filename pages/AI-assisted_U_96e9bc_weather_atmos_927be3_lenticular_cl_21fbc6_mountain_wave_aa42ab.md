@@ -266,7 +266,7 @@ next_link:
   permalink: /wind-checks/
   short_title: Wind Checks
   heading_title: Can Weather Data Explain a Hovering UFO Report?
-date: '2026-06-10 23:45:49 '
+date: '2026-06-11 14:00:44 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1.webp

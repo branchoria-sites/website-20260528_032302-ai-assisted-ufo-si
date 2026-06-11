@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-video-evidenc/
 description: Focused pages that expand on Sensor Artefacts.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73
 parent_title: Sensor Artefacts

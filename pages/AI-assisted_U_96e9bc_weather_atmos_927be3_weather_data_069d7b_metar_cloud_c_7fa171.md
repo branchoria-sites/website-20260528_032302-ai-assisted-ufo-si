@@ -260,7 +260,7 @@ next_link:
   permalink: /radar-errors/
   short_title: Radar Errors
   heading_title: Why Some UFO Radar Hits Are Not Independent Evidence
-date: '2026-06-10 23:17:02 '
+date: '2026-06-11 13:30:57 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1.webp

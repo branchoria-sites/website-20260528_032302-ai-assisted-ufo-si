@@ -266,7 +266,7 @@ next_link:
   permalink: /tle-choice/
   short_title: TLE Choice
   heading_title: Did the right orbital data match the sighting?
-date: '2026-06-10 23:37:32 '
+date: '2026-06-11 13:51:30 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-1.webp

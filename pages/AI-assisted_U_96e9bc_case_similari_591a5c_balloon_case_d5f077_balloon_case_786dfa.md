@@ -260,7 +260,7 @@ next_link:
   permalink: /foil-flashes/
   short_title: Foil flashes
   heading_title: Why foil balloons flash like UFOs
-date: '2026-06-10 23:05:58 '
+date: '2026-06-11 13:19:28 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-1.webp
@@ -458,7 +458,6 @@ Without automated comparison, investigators may spend hours manually checking wi
 A modern workflow can:
 
 1. Ingest a witness report.
-
 2. Pull historical upper-air weather data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceUpper-air Observations ProgramRadiosondes provide upper-air data that are essential for weather forecasts, resear...</span></span></span>
 3. Compare the motion against archived balloon trajectories.
 4. Analyse image morphology against known balloon footage.

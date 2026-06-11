@@ -260,7 +260,7 @@ next_link:
   permalink: /false-precision/
   short_title: False precision
   heading_title: When AI makes uncertain UFO times look exact
-date: '2026-06-10 23:41:51 '
+date: '2026-06-11 13:55:56 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_exif_phone_cl_480970-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_exif_phone_cl_480970-Illustration-1.webp
@@ -406,7 +406,6 @@ A practical investigation hierarchy often looks like this:
 2. Original cloud backup export
 3. Edited file retaining metadata
 4. Messaging-app copy
-
 5. Social media repost <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iptc.org/standards/photo-metadata/social-media-sites-photo-metadata-test-results-2019/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iptc.org">[iptc.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iptc.org</span><span class="citation-popover-title">social media sites photo metadata test results 2019</span><span class="citation-popover-snippet">Social Media Sites Photo Metadata Test Results 2019 - IPTCSystems have been tested by members of the IPTC Photo Metadata Working Grou...</span></span></span>
 6. Screenshot or screen recording
 

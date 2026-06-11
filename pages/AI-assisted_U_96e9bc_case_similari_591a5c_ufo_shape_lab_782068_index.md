@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-case-similari/
 description: Focused pages that expand on Shape Labels.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068
 parent_title: Shape Labels

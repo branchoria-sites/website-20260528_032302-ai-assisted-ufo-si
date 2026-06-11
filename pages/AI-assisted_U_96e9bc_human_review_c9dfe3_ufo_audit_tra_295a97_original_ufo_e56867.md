@@ -260,7 +260,7 @@ next_link:
   permalink: /rejected-leads/
   short_title: Rejected Leads
   heading_title: What failed explanations reveal about a UFO verdict
-date: '2026-06-10 23:07:46 '
+date: '2026-06-11 13:21:24 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-1.webp

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-confidence-sc/
 description: Focused pages that expand on Evidence Grades.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069
 parent_title: Evidence Grades

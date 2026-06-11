@@ -285,7 +285,7 @@ next_link:
   permalink: /satellites-06e013/
   short_title: Satellites
   heading_title: When satellites look stranger than expected
-date: '2026-06-10 22:59:10 '
+date: '2026-06-11 13:12:38 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-1.webp

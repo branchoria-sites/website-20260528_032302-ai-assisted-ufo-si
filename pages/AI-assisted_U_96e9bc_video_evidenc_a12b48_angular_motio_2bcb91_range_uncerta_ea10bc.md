@@ -266,7 +266,7 @@ next_link:
   permalink: /reference-points/
   short_title: Reference points
   heading_title: What makes UFO speed measurable on video
-date: '2026-06-10 23:42:23 '
+date: '2026-06-11 13:56:29 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-1.webp

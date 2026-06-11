@@ -285,7 +285,7 @@ next_link:
   permalink: /tracker-gaps/
   short_title: Tracker gaps
   heading_title: What if the plane is not on the tracker?
-date: '2026-06-10 22:54:28 '
+date: '2026-06-11 13:08:00 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-1.webp

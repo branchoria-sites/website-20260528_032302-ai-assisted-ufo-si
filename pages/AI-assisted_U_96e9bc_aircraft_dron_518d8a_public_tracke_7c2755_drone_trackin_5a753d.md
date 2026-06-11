@@ -266,7 +266,7 @@ next_link:
   permalink: /military-gaps/
   short_title: Military gaps
   heading_title: Why Some Military Flights Seem To Disappear
-date: '2026-06-10 23:20:20 '
+date: '2026-06-11 13:34:13 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-1.webp

@@ -260,7 +260,7 @@ next_link:
   permalink: /exhaust-spirals/
   short_title: Exhaust spirals
   heading_title: Why rocket exhaust can look like a portal
-date: '2026-06-10 23:35:48 '
+date: '2026-06-11 13:49:44 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_march_2025_eu_eb3287-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_march_2025_eu_eb3287-Illustration-1.webp

@@ -260,7 +260,7 @@ next_link:
   permalink: /following-cars/
   short_title: Following Cars
   heading_title: Why Venus Seems To Follow Your Car
-date: '2026-06-10 23:24:26 '
+date: '2026-06-11 13:38:15 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_blue_book_ven_31a404-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_blue_book_ven_31a404-Illustration-1.webp

@@ -260,7 +260,7 @@ prev_link:
   permalink: /official-language/
   short_title: Official Language
   heading_title: Why Official UAP Reports Rarely Use Exact Numbers
-date: '2026-06-10 23:30:05 '
+date: '2026-06-11 13:43:53 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-1.webp
@@ -476,7 +476,6 @@ A strong investigative pipeline usually attempts to narrow uncertainty before as
 5. Comparing astronomical objects at that time and angle
 6. Reviewing aviation and satellite traffic
 7. Looking for independent witnesses
-
 8. Examining sensor metadata <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 9. Identifying image-processing artefacts
 10. Estimating observational limits honestly

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /ai-assisted-u-96e9bc-event-timelin/
 description: Focused pages that expand on Weather layers.
-date: '2026-06-10'
+date: '2026-06-11'
 layout: default
 parent_basename: AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5
 parent_title: Weather layers

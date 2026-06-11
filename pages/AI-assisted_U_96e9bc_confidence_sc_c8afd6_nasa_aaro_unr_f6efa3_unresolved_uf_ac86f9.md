@@ -260,7 +260,7 @@ prev_link:
   permalink: /missing-metadata-b7b288/
   short_title: Missing Metadata
   heading_title: Why Missing Metadata Can Break a UFO Case
-date: '2026-06-10 23:28:26 '
+date: '2026-06-11 13:42:13 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-1.webp

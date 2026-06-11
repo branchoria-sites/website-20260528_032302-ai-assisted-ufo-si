@@ -266,7 +266,7 @@ next_link:
   permalink: /sky-checks/
   short_title: Sky Checks
   heading_title: Can The Sky Conditions Verify A UFO Video
-date: '2026-06-10 23:14:53 '
+date: '2026-06-11 13:28:50 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1.webp

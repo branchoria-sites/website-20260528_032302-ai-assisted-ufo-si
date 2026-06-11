@@ -266,7 +266,7 @@ next_link:
   permalink: /storm-flashes/
   short_title: Storm Flashes
   heading_title: Could Rare Lightning Explain A Strange UFO Glow?
-date: '2026-06-10 23:17:40 '
+date: '2026-06-11 13:31:35 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-1.webp
