@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 
 Few astronomical objects generate more “hovering UFO” reports in the UK than Sirius. The reason is not mysterious once the viewing conditions are understood. Sirius is the brightest true star visible from Earth, and from British latitudes it spends much of the winter sitting relatively low above the southern horizon. That combination makes it unusually vulnerable to atmospheric distortion. To a witness unfamiliar with the effect, Sirius can appear to pulse, flash red and green, shimmer like a beacon, or even seem to drift and manoeuvre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-blogs/sirius-ly-scintillating-holiday12222014/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">sirius ly scintillating holiday12222014</span><span class="citation-popover-snippet">Sky &amp; TelescopeHave a Sirius-ly Scintillating Holiday!22 Dec 2014 — Sirius twinkles more than most stars because it&#x27;s bright, making twin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky In AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-snippet">Updates on your cosmos and worldSun news: M5 flare erupts, sun-stuff may glance Earth · Visible planets and night sky guide fo...</span></span></span>, Sirius matters because it repeatedly matches reports of a “stationary craft with changing coloured lights”. A large number of cases that initially sound unusual become much less mysterious once the reported direction, time and [elevation]({{ 'elevation/' | relative_url }}) are checked against the star’s position. The key investigative question is not whether Sirius can look strange — it absolutely can — but whether the sighting behaviour fits a fixed bright star distorted by Earth’s atmosphere.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-1-dark.svg" | relative_url }}" alt="Sirius illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Sirius is a repeat UFO suspect
 
@@ -284,7 +283,6 @@ Second, Sirius stays fairly low in the sky from the UK. Observers in Britain nev
 Third, Sirius naturally attracts attention. It is bright enough to stand out through haze, urban light pollution and thin cloud. Witnesses who are casually scanning the sky often notice Sirius before they notice surrounding stars, which can make it appear isolated and artificial rather than part of a wider star field.
 
 This combination produces classic UFO-style descriptions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +316,6 @@ Under poor seeing conditions, Sirius can resemble a flashing LED beacon more tha
 
 The effect becomes even more dramatic through binoculars or [phone cameras]({{ 'phone-cameras/' | relative_url }}). Smartphone zoom exaggerates atmospheric instability and camera processing introduces additional artefacts:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * autofocus pulsing
@@ -332,14 +329,12 @@ The effect becomes even more dramatic through binoculars or [phone cameras]({{ '
 
 As a result, witness video often appears more dramatic than the naked-eye view. A fixed star can look like a spinning orb or structured craft in compressed smartphone footage.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-2-dark.svg" | relative_url }}" alt="Sirius illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witnesses think the object is moving
 
 Many Sirius-based UFO reports include claims that the object “darted”, “tracked the car”, or “hovered intelligently”. Darkness makes human motion perception unreliable, especially when there are few [reference points]({{ 'reference-points/' | relative_url }}).
 
 Several normal effects create convincing movement illusions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -378,7 +373,6 @@ A strong Sirius match usually includes most of the following features:
 
 Investigators can test the match using astronomy software, planetarium apps or automated sky reconstruction tools. The workflow is straightforward:
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-3-dark.svg" | relative_url }}" alt="Sirius illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_sirius_flashi_ec7c0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. Confirm the exact sighting time and location.
 2. Reconstruct the visible sky for that position.
@@ -396,7 +390,6 @@ An especially useful indicator is long-duration hovering. Witnesses sometimes re
 A Sirius match should not be forced onto every flashing-light report. Some sightings genuinely involve aircraft, drones, planets, satellites or other phenomena. Others contain details inconsistent with a fixed star.
 
 Investigators should treat the Sirius explanation as weaker if:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -811,6 +804,7 @@ For AI-assisted UFO investigation systems, Sirius is therefore a high-value earl
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

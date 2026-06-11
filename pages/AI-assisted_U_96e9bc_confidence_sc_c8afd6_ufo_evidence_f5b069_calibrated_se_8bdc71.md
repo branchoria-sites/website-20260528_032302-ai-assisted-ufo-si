@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b
 
 The strongest unresolved UFO cases are rarely built around a single dramatic video. They gain attention because several independent systems appear to record the same event at the same time. Radar may detect an object’s position and speed, infrared sensors may track heat signatures, optical cameras may show movement against the background sky, and flight telemetry may confirm where the observing [aircraft]({{ 'aircraft/' | relative_url }}) or ship was located. When those measurements align, investigators treat the case very differently from a lone eyewitness clip.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters in AI-assisted UFO sighting investigation because automated analysis depends heavily on trustworthy inputs. A blurry mobile phone recording can trigger misleading pattern matches. By contrast, calibrated sensors with known error rates and preserved [metadata]({{ 'metadata/' | relative_url }}) allow analysts to reconstruct what physically happened in the airspace. NASA’s 2023 independent UAP study repeatedly stressed that poor [calibration]({{ 'calibration/' | relative_url }}), missing metadata, and lack of multi-sensor confirmation are major reasons many sightings remain ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/5Nov 12, 2023 — At present, analysis of UAP data is hampered by poor sensor...</span></span></span>
 
@@ -294,7 +293,6 @@ A calibrated instrument has known performance characteristics. Investigators und
 NASA’s UAP study highlighted calibration and metadata as central requirements for meaningful analysis because sensor readings without context can easily mislead investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Overall_Conclusions_and_Recommendations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Overall Conclusions and Recommendations</span><span class="citation-popover-snippet">Study Team Report/Overall Conclusions and...14 Oct 2023 — The importance of detecting UAP with multiple, well-calibrated sensors is thus...</span></span></span>
 
 In practical case work, calibration helps answer questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,7 +346,6 @@ A balloon drifting with prevailing winds may appear stationary to a fast-moving 
 
 The strongest investigative systems therefore do not aim to “prove UFOs”. They aim to remove [weak explanations]({{ 'weak-explanations/' | relative_url }}) systematically.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Data illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI uses calibrated sensor data in UFO analysis
 
@@ -381,7 +378,6 @@ This is also why scientific UAP projects increasingly focus on dedicated observa
 
 Their published system designs emphasise synchronised timestamps, calibration routines, sensor provenance, and cross-validation because isolated detections are difficult to interpret reliably. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Data illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_calibrated_se_8bdc71-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some high-grade UFO cases still remain unresolved
 
@@ -407,7 +403,6 @@ Several obstacles persist even in high-grade cases:
 AARO’s public case releases illustrate this problem clearly. Some military infrared recordings are labelled unresolved not because they display impossible behaviour, but because available technical data is insufficient for conclusive identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/989430/pr-015-unresolved-uap-report-europe-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS In other cases]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-snippet">Video - PR-015, Unresolved UAP Report, Europe 2022This unresolved report contributes to AARO&#x27;s historical and locational trend analyses...</span></span></span>, investigators conclude that an object was physically present but cannot determine exactly what it was. That is a narrower and more evidence-based claim than saying the object displayed extraordinary technology.
 
 This distinction is easy to lose in public discussion. Online UFO debates often collapse several very different categories together:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -822,6 +817,7 @@ In AI-assisted UFO investigation, that difference is fundamental. Artificial int
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

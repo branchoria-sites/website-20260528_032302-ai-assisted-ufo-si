@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_ff
 
 Many older UFO cases stayed unresolved for a simple reason: investigators never obtained the data needed to test ordinary explanations properly. Witnesses often remembered only rough times, uncertain directions, approximate distances, or fragmentary descriptions. In many famous reports there was no radar track, no calibrated photograph, no [weather]({{ 'weather/' | relative_url }}) reconstruction, no [aircraft]({{ 'aircraft/' | relative_url }}) data, and no way to verify exactly what witnesses saw from their viewing position. Once those gaps existed, later investigators could rarely close them.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-1-dark.svg" | relative_url }}" alt="Missing Data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters for modern AI-assisted UFO sighting investigation because unresolved does not automatically mean anomalous. In many historical cases, the problem is not that investigators proved something extraordinary happened. The problem is that too little reliable information survived to eliminate conventional explanations with confidence. Modern comparison systems, environmental databases, and automated cross-checking workflows work far better when a case includes precise timestamps, geolocation, sensor metadata, and multiple independent data streams. NASA’s recent UAP review repeatedly stressed that poor [calibration]({{ 'calibration/' | relative_url }}), missing metadata, and lack of multiple measurements are major barriers to analysis. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">UAP. &quot;At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor...R...</span></span></span>
 
@@ -333,7 +332,6 @@ In practical investigative terms, a missing timestamp can break an entire recons
 Human memory is useful but unstable, especially after surprising events. Older UFO cases were frequently documented hours, days, or even years after the observation. Details often changed across retellings.
 
 This creates several investigative difficulties:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -410,14 +408,12 @@ A modern AI-assisted investigation can reconstruct an event minute by minute and
 
 NASA’s UAP study emphasised the importance of calibrated, multi-modal observations rather than isolated witness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> AARO has similarly noted that the absence of corroborating telemetry or multi-sensor evidence often prevents conclusive evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe available data is insufficient to evaluate the phenomenon&#x27;s performance characteristics.... However, due to the absen...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-2-dark.svg" | relative_url }}" alt="Missing Data illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why older photographs often fail modern analysis
 
 Historical UFO photographs are frequently treated as strong evidence because they appear visually striking. In reality, many are analytically weak because critical metadata is missing.
 
 Investigators often lack: <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-news/nasa-finds-no-evidence-ufos-are-extraterrestrial-promises-further-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[skyandtelescope.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">nasa finds no evidence ufos are extraterrestrial promises further study</span><span class="citation-popover-snippet">UAP reports are typically single sightings and lack multiple measurements. Those individual reports also often lack sensor metadata, such...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -459,7 +455,6 @@ That creates uncertainty in both directions:
 
 Without preserved raw data, later analysis becomes interpretive rather than conclusive.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-3-dark.svg" | relative_url }}" alt="Missing Data illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Mass sightings without measurement data
 
@@ -481,7 +476,6 @@ AARO’s public case material repeatedly notes that some footage cannot be concl
 The same logic applies to historical cases.
 
 An unresolved file may simply indicate:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -918,6 +912,7 @@ That does not eliminate genuinely difficult cases. But it changes the balance be
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

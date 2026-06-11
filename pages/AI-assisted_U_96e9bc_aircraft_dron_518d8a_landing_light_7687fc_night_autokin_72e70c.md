@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_76
 
 A light that appears to hover, drift, pulse or “play games” in the night sky is not automatically evidence of unusual flight behaviour. Human vision is surprisingly unreliable when looking at isolated lights in darkness, especially when there are few nearby objects to provide scale, distance or motion references. In UFO and UAP investigations, this matters because many sincere witnesses report lights that seem to move intelligently even when the [original]({{ 'original-evidence/' | relative_url }}) source was stationary or following an ordinary flight path.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-1-dark.svg" | relative_url }}" alt="Night Illusions illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 One of the best-known mechanisms behind these reports is autokinesis: a visual illusion in which a fixed point of light appears to wander or wobble when stared at against a dark, featureless background. Aviation safety organisations warn pilots about the effect because it can create false impressions of movement, collision risk or manoeuvring [aircraft]({{ 'aircraft/' | relative_url }}) at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary In UFO case analysis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</span></span></span>, the same mechanism can transform distant aircraft lights, stars, planets or satellites into apparently hovering “orbs” that seem alive, responsive or intelligently controlled.
 
@@ -288,7 +287,6 @@ Autokinesis is not a fringe idea or a debunking slogan. It is a documented perce
 The brain normally judges motion by comparing objects against stable surroundings. During daytime this is easy because buildings, trees, clouds and the horizon provide constant reference cues. At night, especially in rural areas or under dark skies, those anchors may disappear. A bright isolated light can then appear to shift position even though the movement exists only in perception. FAA and pilot training materials specifically warn that a stationary light can appear to move after only several seconds of fixation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Federal_Aviation_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Federal Aviation AdministrationThe Federal Aviation Administration (FAA) is a US federal government agency within the US Department of...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aopa.org/training-and-safety/online-learning/safety-spotlights/spatial-disorientation/tricked-by-illusions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aopa.org">[AOPA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aopa.org</span><span class="citation-popover-snippet">Tricked by IllusionsAutokinesis: At night, a stationary dim light against a dark background will appear to move if a pilot visually fixat...</span></span></span>
 
 Several biological factors combine to create the effect:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ Autokinesis becomes especially powerful when combined with the “head-on aircra
 
 This creates a common UFO report pattern:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The light initially appears stationary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyThe autokinetic effect (also referred to as autokinesis) is a phenomenon of visual p...</span></span></span>
@@ -322,7 +319,6 @@ This creates a common UFO report pattern:
 </div>
 
 In reality, several ordinary processes may be overlapping:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -344,7 +340,6 @@ One counterintuitive feature of autokinesis is that confidence can increase as o
 
 A person who stares at a hovering light for several minutes may experience:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Increasing apparent movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/BlueLineAviation/posts/autokinesis-is-a-visual-phenomenon-observed-in-aviation-especially-during-night-/747064714124995/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">autokinesis is a visual phenomenon observed in aviation especially during night</span><span class="citation-popover-snippet">Blue Line Aviation15 Nov 2023 — Autokinesis is a visual phenomenon observed in aviation, especially during night flights. It involves the...</span></span></span>
@@ -358,14 +353,12 @@ Classic psychology experiments using autokinetic illusions demonstrated that soc
 
 This does not imply dishonesty. It highlights a key point for AI-assisted UFO investigation: witness sincerity and witness accuracy are separate questions. A highly confident account can still emerge from ordinary visual mechanisms operating under poor observational conditions.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-2-dark.svg" | relative_url }}" alt="Night Illusions illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why phone cameras usually make the effect worse
 
 Modern UFO reports frequently include phone video, but night recordings of isolated lights are notoriously unreliable. Small bright points against dark backgrounds push smartphone cameras beyond their comfort zone.
 
 Common artefacts include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -381,7 +374,6 @@ When the witness is already experiencing autokinetic drift, the camera’s own i
 
 This is one reason AI-assisted case [review]({{ 'review/' | relative_url }}) should separate:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Perceived motion by the witness.
@@ -396,7 +388,6 @@ A stable frame-by-frame analysis often reveals that the apparent UFO remains fix
 ## How investigators test for autokinetic misperception
 
 Autokinesis cannot be proven directly after the fact because it happens inside perception, but investigators can look for strong indicators.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-3-dark.svg" | relative_url }}" alt="Night Illusions illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_night_autokin_72e70c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Typical warning signs
@@ -831,6 +822,7 @@ That is why structured UFO analysis increasingly combines witness testimony with
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

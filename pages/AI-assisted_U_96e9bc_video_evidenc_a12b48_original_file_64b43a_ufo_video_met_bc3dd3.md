@@ -277,14 +277,12 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64
 
 A UFO video becomes far easier to investigate when the [original]({{ 'original-evidence/' | relative_url }}) recording file still exists. Before anyone debates whether a light was a drone, satellite, [aircraft]({{ 'aircraft/' | relative_url }}), balloon or something unexplained, investigators first want the untouched file from the recording device itself. That file may contain metadata: hidden technical information about when the clip was recorded, where it was captured, what device created it, and whether the file has been altered since.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-1-dark.svg" | relative_url }}" alt="Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, metadata is often more valuable than the dramatic-looking image. A shaky smartphone clip with intact timestamps and GPS data can sometimes be tested against aircraft transponder logs, weather conditions, astronomical objects and satellite passes within minutes. A heavily reposted social-media version may lose most of that context entirely. NASA’s 2023 UAP study repeatedly stressed that poor sensor metadata and weak calibration make reliable analysis far harder. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 ## Why the untouched original file matters
 
 Most modern phones and digital cameras automatically attach technical data to photo and video files. This information may include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ A witness might claim a glowing object hovered over the North Sea at 22:15 on a 
 
 This is why investigators often ask for:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The direct file from the device
@@ -322,7 +319,6 @@ A viral repost almost never preserves the full evidence chain.
 ### Timestamps can support or break a sighting timeline
 
 Video timestamps are one of the first checks in a serious case review. If a witness says an object crossed the sky shortly after midnight, investigators compare the embedded recording time against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -341,7 +337,6 @@ Metadata timestamps can therefore help AI systems narrow candidate explanations 
 
 However, timestamps are not automatically trustworthy. Phones may have incorrect clocks, timezone mismatches or manually altered settings. Investigators therefore compare metadata timing with independent clues such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Sunset angle
@@ -359,7 +354,6 @@ A timestamp that agrees with multiple external data sources becomes more persuas
 
 Many smartphones embed location coordinates directly into media files if location services are enabled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Exif" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> RemoveMD This can help investigators reconstruct: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/check-video-metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[removemd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">How to check video metadata GPS, location &amp; device infoVideo files hide GPS coordinates, camera model, recording date and device...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Camera position
@@ -373,7 +367,6 @@ Many smartphones embed location coordinates directly into media files if locatio
 
 For example, a “stationary UFO” filmed from a hillside may line up exactly with the approach corridor of a nearby airport once GPS location and viewing direction are reconstructed. AI-assisted geospatial analysis can compare the camera coordinates against:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Flight corridors
@@ -386,7 +379,6 @@ For example, a “stationary UFO” filmed from a hillside may line up exactly w
 </div>
 
 Even approximate GPS data can matter. A sighting recorded near coastal fog banks may support atmospheric optics explanations that would make little sense inland.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tTKJamVSfjk" title="Forensic Analysis of Video Files Using Metadata (Xiang et al.)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tTKJamVSfjk" target="_blank" rel="noopener noreferrer">Forensic Analysis of Video Files Using Metadata (Xiang et al.)</a></p><p class="youtube-embed-meta">Channel: Workshop Media Forensics &middot; Views: 561 &middot; Uploaded: June 2021 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tTKJamVSfjk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tTKJamVSfjk">Open on YouTube</a></p></div></div></div>
 
@@ -441,7 +433,6 @@ AI systems can automate this comparison by:
 
 A claimed “instant acceleration” may shrink to ordinary aircraft motion once camera shake and zoom metadata are factored into the analysis.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-2-dark.svg" | relative_url }}" alt="Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Astronomy and satellite checks
 
@@ -493,7 +484,6 @@ NASA’s UAP study emphasised that contextual environmental data is essential fo
 
 Missing metadata does not automatically mean a UFO video is fake. Many platforms remove metadata during upload, and some users intentionally strip location data for privacy reasons. But investigators do become cautious when the file history contains inconsistencies.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-3-dark.svg" | relative_url }}" alt="Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_ufo_video_met_bc3dd3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Social media reposts often destroy forensic value
 
@@ -534,7 +524,6 @@ Importantly, editing evidence does not automatically prove deception. A witness 
 A 2025 forensic dispute around publicly released surveillance footage in the Jeffrey Epstein case illustrated how metadata scrutiny can reveal previously undisclosed editing and export history, even when the footage was presented as “raw”. Analysts identified traces of Adobe Premiere processing and composite assembly from multiple [source files]({{ 'source-files/' | relative_url }}). <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Metadata Shows the FBI&#x27;s &#x27;Raw&#x27; Jeffrey Epstein Prison Video Was Likely Modified</span><span class="citation-popover-snippet">Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</span></span></span>
 
 The broader lesson for UFO investigations is simple: “raw” should never be accepted at face value without technical inspection.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HU_euJyxYB4" title="Digital Forensics - Metadata Analysis #1 - Exiftool" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HU_euJyxYB4" target="_blank" rel="noopener noreferrer">Digital Forensics - Metadata Analysis #1 - Exiftool</a></p><p class="youtube-embed-meta">Channel: itsMamu213-Tech &middot; Views: 22.0K &middot; Uploaded: July 2019 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HU_euJyxYB4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HU_euJyxYB4">Open on YouTube</a></p></div></div></div>
 
@@ -968,6 +957,7 @@ In AI-assisted UFO sighting investigation, metadata functions as the foundation 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

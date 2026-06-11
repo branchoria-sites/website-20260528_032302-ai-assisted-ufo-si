@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22
 
 The first account of a UFO sighting is usually the most valuable version of the story. Not because it is automatically correct, but because it is the closest record to what the witness actually perceived before discussion, speculation, media coverage or repeated retelling begin to reshape memory. In AI-assisted UFO sighting investigation, this distinction matters. Automated comparison tools, timeline reconstruction and explanation screening all depend on separating raw observation from later interpretation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-dark.svg" | relative_url }}" alt="First account illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Research on eyewitness memory consistently shows that human recall is vulnerable to suggestion, leading questions and “post-event information” — details encountered after the [original]({{ 'original-evidence/' | relative_url }}) experience. Psychologists refer to this as the misinformation effect. Even sincere witnesses can absorb outside descriptions and later remember them as personal observations. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.simplypsychology.org/loftus-palmer.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: simplypsychology.org">[Simply Psychology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">simplypsychology.org</span><span class="citation-popover-title">loftus palmer</span><span class="citation-popover-snippet">Simply PsychologyLoftus and Palmer 1974 &#124; Car Crash Experimentby S McLeod · Cited by 3 — Thus, they aimed to show that leading questions...</span></span></span>
 
@@ -365,7 +364,6 @@ Psychology research over several decades has shown that wording alone can alter 
 
 In UFO investigations, contamination often enters through five common pathways.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB2OegI6wvI" title="How reliable is your memory? | Elizabeth Loftus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer">How reliable is your memory? | Elizabeth Loftus</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.7M &middot; Uploaded: September 2013 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB2OegI6wvI">Open on YouTube</a></p></div></div></div>
 
 ### Witness-to-witness contamination
@@ -389,7 +387,6 @@ Two witnesses who independently describe a light changing direction provide stro
 Modern UFO reports often evolve publicly in real time.
 
 A witness may:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -422,7 +419,6 @@ Poor questioning can accidentally inject information.
 
 <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.verywellmind.com/can-you-trust-eyewitness-testimony-4579757" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: verywellmind.com">[Examples:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">verywellmind.com</span><span class="citation-popover-title">Verywell Mind Eyewitness Testimony: Reliability and Examples</span><span class="citation-popover-snippet">Memories can be distorted by stress, trauma, leading questions, and interactions with law enforcement or other witnesses. Factors such as...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “How fast did the craft accelerate?”
@@ -436,7 +432,6 @@ These questions assume facts not yet established.
 
 Open questions produce cleaner evidence:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “What happened next?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cps.gov.uk/information-witnesses" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cps.gov.uk">[cps.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cps.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -447,7 +442,6 @@ Open questions produce cleaner evidence:
 </div>
 
 UK policing guidance specifically recommends allowing witnesses to describe events in their own words using open questioning wherever possible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.college.police.uk/guidance/obtaining-initial-accounts/witness-separation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: college.police.uk">[College of Policing]</a><span class="citation-popover" role="note"><span class="citation-popover-source">college.police.uk</span><span class="citation-popover-title">witness separation</span><span class="citation-popover-snippet">College of PolicingWitness separation24 Nov 2020 — Officers and staff should separate witnesses to take initial accounts and make sure th...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-2-dark.svg" | relative_url }}" alt="First account illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI-assisted contamination
@@ -506,7 +500,6 @@ If the witness instead says:
 
 the statement becomes harder to operationalise because it already contains interpretation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-3-dark.svg" | relative_url }}" alt="First account illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The value of uncertainty language
 
@@ -524,7 +517,6 @@ Statements like:
 are scientifically useful because they define the limits of the observation.
 
 AI systems trained on structured reports can use uncertainty markers to avoid overconfident matching and flawed confidence scoring.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nuBMnluJfs0" title="Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer">Replay! NASA&#x27;s Release of the Unidentified Anomalous Phenomena Report</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 71.9K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nuBMnluJfs0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nuBMnluJfs0">Open on YouTube</a></p></div></div></div>
 
@@ -958,6 +950,7 @@ The first witness statement is therefore not just paperwork. It is the foundatio
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

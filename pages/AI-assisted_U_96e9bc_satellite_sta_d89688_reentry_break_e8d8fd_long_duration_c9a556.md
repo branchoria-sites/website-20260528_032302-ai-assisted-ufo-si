@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8
 
 A fireball that stays visible for 30 seconds, a minute, or even longer is one of the strongest clues that a reported “meteor UFO” may actually be orbital debris re-entering the atmosphere. In UFO case investigation, witness timing matters far more than many people realise. Ordinary meteors usually cross the visible sky in only a few seconds because they strike the atmosphere at enormous speeds. Re-entering satellites and rocket bodies arrive on much shallower paths and at lower orbital velocities, producing slower, horizon-spanning breakups that can resemble burning formations or fleets of lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-1-dark.svg" | relative_url }}" alt="Long Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction is valuable for AI-assisted UFO analysis because duration is one of the easiest witness details to extract and compare across reports. If dozens of witnesses independently describe a glowing object remaining visible long enough to fetch a phone, call family members outside, or watch multiple fragmentation stages, the case rapidly shifts toward a probable re-entry scenario rather than a conventional meteor event. That does not solve every sighting automatically, but it changes which datasets, orbital records, and environmental correlations investigators should prioritise first.
 
@@ -292,7 +291,6 @@ Re-entering spacecraft debris behaves differently because the object is already 
 That lower speed combines with a shallow entry angle to produce much longer visible tracks. The Aerospace Corporation’s public guidance on re-entry identification states that meteors “typically last less than a few seconds”, while human-made re-entries “can last 20–90 seconds or more”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span>
 
 This difference changes the entire witness experience:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -314,7 +312,6 @@ The physics behind long-duration re-entries explains why they look so unusual to
 Uncontrolled orbital re-entries generally approach at extremely shallow grazing angles. One re-entry analysis describes many uncontrolled descents as occurring below roughly one degree relative to the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spaceacademy.net.au/watch/debris/reentryhaz.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceacademy.net.au">[Space Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceacademy.net.au</span><span class="citation-popover-snippet">Space AcademyHazards of Reentering Space DebrisUncontrolled reentries are always at very low grazing angles (&lt;1 deg). The reentering obje...</span></span></span>
 
 That shallow [geometry]({{ 'geometry/' | relative_url }}) produces several effects that witnesses commonly interpret as anomalous:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +337,6 @@ Long-duration [fireballs]({{ 'fireballs/' | relative_url }}) generate a recurrin
 
 Several visual factors contribute to this mistake:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * High altitude compresses apparent motion.
@@ -354,7 +350,6 @@ Several visual factors contribute to this mistake:
 A re-entry crossing hundreds of kilometres overhead may remain visible for close to a minute while changing position only gradually relative to the landscape. This can feel incompatible with a “meteor”, leading witnesses toward more exotic interpretations.
 
 AI-assisted investigation systems can reduce this confusion by comparing witness descriptions against known re-entry behaviour patterns. Reports containing phrases such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,14 +367,12 @@ This does not mean duration alone proves a re-entry. Some shallow-angle meteors 
 
 The key point is that long duration sharply changes the probability balance in triage.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-2-dark.svg" | relative_url }}" alt="Long Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using Witness Timing In UFO Case Triage
 
 In practical UFO investigation workflows, timing is one of the fastest ways to prioritise explanations.
 
 A structured intake form should capture:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,7 +387,6 @@ A structured intake form should capture:
 
 AI-assisted systems can then compare these descriptions against known re-entry signatures and orbital event databases.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fFpL36n68eY" title="July 27th, 2016 Fireball &quot;Meteor&quot; Space Junk CZ-7 Re-entry Over California (Warning: Profanity)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fFpL36n68eY" target="_blank" rel="noopener noreferrer">July 27th, 2016 Fireball &quot;Meteor&quot; Space Junk CZ-7 Re-entry Over California (Warning: Profanity)</a></p><p class="youtube-embed-meta">Channel: Lonely Speck &middot; Views: 361.2K &middot; Uploaded: July 2016 &middot; Length: 2 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fFpL36n68eY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fFpL36n68eY">Open on YouTube</a></p></div></div></div>
 
 ### Timing Thresholds That Raise Re-entry Probability
@@ -406,7 +398,6 @@ Reported visibilityInvestigative implicationUnder 3 secondsMore consistent with 
 These are not hard scientific boundaries, but they are useful triage heuristics supported by aerospace guidance and observational experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">The Aerospace CorporationWhat Does a Reentry Look LikeThe general rule-of-thumb is that natural meteor reentries happen quickly and typic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomycenter.net/srw/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomycenter.net">[International Astronomical Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomycenter.net</span><span class="citation-popover-snippet">International Astronomical CenterInternational Astronomical Center (IAC)Jun 12, 2021 — The whole process, depending upon when you first s...</span></span></span>
 
 AI systems can also cross-check witness timing against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -422,7 +413,6 @@ AI systems can also cross-check witness timing against:
 The European Space Agency maintains public re-entry prediction resources because large orbital objects return regularly. ESA notes that objects above one tonne re-enter on average every couple of weeks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reentry.esoc.esa.int/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reentry.esoc.esa.int">[ESA Re-Entry Predictions]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reentry.esoc.esa.int</span><span class="citation-popover-snippet">ESA Re-Entry PredictionsESA&#x27;s re-entry predictionsOn average an object with mass above one ton re-enters the Earth&#x27;s atmosphere every two...</span></span></span>
 
 That frequency matters for UFO investigation because many dramatic “mystery fireball” sightings occur during entirely expected orbital decay events.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-3-dark.svg" | relative_url }}" alt="Long Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_reentry_break_e8d8fd_long_duration_c9a556-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Human Factor: Why Re-entries Become UFO Stories
@@ -836,6 +826,7 @@ For AI-assisted UFO analysis, the goal is not to dismiss witnesses but to rapidl
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

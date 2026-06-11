@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18
 
 A UFO video can look extraordinary because the camera system itself is behaving in unusual ways. Infrared glare can turn a distant [aircraft]({{ 'aircraft/' | relative_url }}) into a glowing disc. [Digital zoom]({{ 'digital-zoom/' | relative_url }}) can exaggerate shake and apparent speed. Image stabilisation can make lights appear to dart across the sky. Night-vision systems can create halos, trails and rotating shapes that are not physically present in the scene.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Artefacts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many modern UFO and UAP cases depend heavily on video evidence from phones, drones, military infrared systems and low-light cameras. In AI-assisted UFO sighting investigation, one of the first technical questions is not “what is the object?” but “what did the sensor do to the image?” NASA’s UAP study stressed that poor sensor [calibration]({{ 'calibration/' | relative_url }}), limited [metadata]({{ 'metadata/' | relative_url }}) and weak baseline data make interpretation difficult. NASA Science Space A balanced investigation therefore treats sensor artefacts as a normal part of evidence handling rather than as a dismissive explanation. Som <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> e videos genuinely capture unknown objects. Others record ordinary objects that become visually strange because of the way imaging systems process heat, light, motion and contrast.
 
@@ -326,7 +325,6 @@ Consumer night-vision cameras and military low-light systems introduce another c
 
 Common effects include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Circular halos around lights
@@ -342,7 +340,6 @@ In UFO footage, these artefacts are often interpreted as energy fields, rotating
 
 AI systems trained on calibrated night-sky footage can sometimes identify these patterns automatically by comparing the behaviour of suspected anomalies against known optical signatures from stars, aircraft lights and infrared reflections.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jHDlfIaBEqw" title="VFX Artists DEBUNK Pentagon UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer">VFX Artists DEBUNK Pentagon UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.8M &middot; Uploaded: August 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jHDlfIaBEqw">Open on YouTube</a></p></div></div></div>
 
 ## Digital zoom and stabilisation distortions
@@ -354,7 +351,6 @@ Modern phones and many military imaging systems heavily process video before the
 Digital zoom does not work like optical zoom. Instead of magnifying genuine detail through lenses, it enlarges pixels and uses software enhancement to fill gaps.
 
 When a small bright object is digitally enlarged:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -376,7 +372,6 @@ Electronic stabilisation systems attempt to keep a target centred by shifting or
 
 This creates several classic UFO impressions:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Sudden directional jumps
@@ -390,14 +385,12 @@ The problem becomes worse when the [original]({{ 'original-evidence/' | relative
 
 NASA’s UAP study repeatedly stressed the importance of metadata and sensor information for exactly this reason. Without knowing what processing occurred inside the device, analysts cannot reliably separate object behaviour from software behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Artefacts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Compression artefacts create shape changes
 
 Online UFO clips are often downloaded, re-uploaded and recompressed multiple times. Video codecs simplify detail to save bandwidth. Bright isolated objects suffer especially badly.
 
 Compression can produce:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -413,7 +406,6 @@ A distant aircraft beacon can therefore mutate into something that appears struc
 
 This is one reason investigators place such high value on original files rather than edited clips from social platforms.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ciopi2r7j-k" title="Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer">Not As They Seem - Mick West on UFOs, Conspiracy Theories, and Pseudoscience</a></p><p class="youtube-embed-meta">Channel: This Week in Space &middot; Views: 7.0K &middot; Uploaded: February 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ciopi2r7j-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ciopi2r7j-k">Open on YouTube</a></p></div></div></div>
 
 ## Why calibration changes conclusions
@@ -425,7 +417,6 @@ Sensor calibration sounds technical, but in UFO analysis it often determines whe
 Calibration establishes how a sensor behaves under known conditions. Investigators can then compare a supposed anomaly against normal artefacts produced by the same equipment.
 
 Without calibration data, analysts may not know:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -439,14 +430,12 @@ Without calibration data, analysts may not know:
 
 This is why military and scientific investigations place so much emphasis on instrument metadata. NASA’s independent UAP report argued that missing calibration and missing contextual data are major barriers to reliable interpretation. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">nasas unidentified anomalous phenomena report key takeaways</span><span class="citation-popover-snippet">NASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor calibration, th...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Artefacts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Multi-sensor comparison is often decisive
 
 One of the strongest ways to identify sensor artefacts is to compare different instruments observing the same event.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -459,7 +448,6 @@ For example:
 If the anomaly changes with the sensor rather than with the object, that strongly suggests an imaging artefact.
 
 This is increasingly important in AI-assisted workflows. Machine-learning systems can compare simultaneous data streams from optical, infrared, radar and environmental sensors to identify inconsistencies that human viewers may miss.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xkgTajUDORs" title="The &quot;Windfarm UFO&quot; - analyzed, 3D-recreated and debunked." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xkgTajUDORs" target="_blank" rel="noopener noreferrer">The &quot;Windfarm UFO&quot; - analyzed, 3D-recreated and debunked.</a></p><p class="youtube-embed-meta">Channel: ThomasH &middot; Views: 402 &middot; Uploaded: May 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xkgTajUDORs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xkgTajUDORs">Open on YouTube</a></p></div></div></div>
 
@@ -887,6 +875,7 @@ For AI-assisted UFO sighting investigation, the practical lesson is straightforw
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_26
 
 A good UFO investigation does not simply ask, “Was there a satellite nearby?” It asks how well the satellite explanation actually fits the sighting. In many weak investigations, the nearest catalogued object becomes the assumed answer even when the timing, sky position, brightness behaviour, or orbital reliability are poor. That creates false closure: a report gets labelled “probably Starlink” when the evidence only supports “possible satellite correlation”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1-dark.svg" | relative_url }}" alt="Match Confidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 [Confidence]({{ 'confidence/' | relative_url }}) scoring is designed to stop that problem. In an AI-assisted UFO workflow, automated systems should rank candidate satellite explanations according to evidence quality, orbital reliability, geometry, and observational consistency rather than returning a single definitive label. This becomes especially important when analysing historical sightings using older [orbital data]({{ 'orbital-data/' | relative_url }}), manoeuvring satellites, incomplete witness accounts, or uncertain flare events.
 
@@ -323,7 +322,6 @@ Timing quality is one of the strongest predictors of explanation reliability.
 
 High-confidence matches usually involve:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * witness timing accurate within seconds or a minute
@@ -333,7 +331,6 @@ High-confidence matches usually involve:
 </div>
 
 Low-confidence matches often involve:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -347,7 +344,6 @@ Low-confidence matches often involve:
 
 Research into TLE propagation accuracy consistently shows prediction quality degrades with time from the orbital epoch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S027311772400615X" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[3ScienceDirect 3Inside]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Maneuver strategies of Starlink satellite based on SpaceX...by A Liu · 2024 · Cited by 24 — This paper uses Starlink ephemerides release...</span></span></span> GNSS](#endnote-18 "Snippet: ENTER LEO on the GNSS Stage: Navigation with Starlink...Nov 29, 2021 — The tradeoff is in satellite position accuracy: the SGP4 propagat...") A robust scoring system therefore needs to penalise explanations built on old or weak orbital assumptions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWpeN3cU17Q" title="SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: AlphaPhoenix &middot; Views: 39.4K &middot; Uploaded: July 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWpeN3cU17Q">Open on YouTube</a></p></div></div></div>
 
 ### Brightness and illumination checks
@@ -359,7 +355,6 @@ Satellites do not emit visible light themselves. They reflect sunlight. Visibili
 Modern Starlink satellites can also produce strong flares under specific geometries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2605.19850" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How long can you trust a Starlink TLE? An empirical comparison of SGP4 and high-fidelity propagation against operator-updated truth...</span></span></span> But not every Starlink pass produces visible brightness. A weakly illuminated object below naked-eye visibility should not receive a high-confidence identification score simply because its orbit crossed the area.
 
 Good scoring systems therefore separate:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -382,7 +377,6 @@ Instead, explanations work better when grouped into transparent confidence bands
 
 A strong satellite explanation usually includes:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * close timing agreement
@@ -402,7 +396,6 @@ This category is often the most honest outcome.
 
 The satellite may fit the general direction and timing, but:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * witness timing may be uncertain
@@ -413,7 +406,6 @@ The satellite may fit the general direction and timing, but:
 </div>
 
 This should not be presented as solved. It is better framed as “a plausible satellite correlation requiring caution”.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-2-dark.svg" | relative_url }}" alt="Match Confidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Weak correlation
@@ -431,7 +423,6 @@ Typical warning signs include:
 * overreliance on “nearest object” logic
 
 These are common in automated bulk-screening systems that prioritise explanation generation over evidence quality.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8EOOOWYtqhM" title="The Satellite Flaring Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer">The Satellite Flaring Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 2.7K &middot; Uploaded: January 2025 &middot; Length: 1 minute 4 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8EOOOWYtqhM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8EOOOWYtqhM">Open on YouTube</a></p></div></div></div>
 
@@ -483,7 +474,6 @@ Those cases should not collapse into the same confidence number.
 
 Research into improving orbital prediction models shows that even advanced propagation techniques still face substantial uncertainty when relying on public TLE data alone. ScienceDirect Springer That makes transparency essential. Investigators should be able to see whether uncertainty comes from the witness account <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.springer.com/article/10.1007/s10291-025-01963-0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[link.springer.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-title">position error from 2.5 km to approximately 200 m for Orbcomm satellites</span><span class="citation-popover-snippet">Network-based precise orbit determination of broadband LEO...by A Allahvirdi-Zadeh · 2026 — Third, real-time LEO satellite POD i...</span></span></span>, the orbital model, or the visibility reconstruction.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-dark.svg" | relative_url }}" alt="Match Confidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_satellite_mat_41112e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Report wording that avoids false closure
 
@@ -498,7 +488,6 @@ Overconfident phrasing can make uncertain matches sound definitive:
 Those statements imply certainty that often does not exist.
 
 Better reporting language separates confidence levels clearly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/R13BD8qKeTg" title="The Bayesian Trap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=R13BD8qKeTg" target="_blank" rel="noopener noreferrer">The Bayesian Trap</a></p><p class="youtube-embed-meta">Channel: Veritasium &middot; Views: 4.5M &middot; Uploaded: April 2017 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=R13BD8qKeTg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=R13BD8qKeTg">Open on YouTube</a></p></div></div></div>
 
@@ -936,6 +925,7 @@ That distinction is crucial in AI-assisted UFO investigation because the most mi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26
 
 A bright object tearing across the sky for a few seconds can easily become a “UFO” report, especially when witnesses are startled, driving, outdoors at night, or looking in different directions. Yet some of the strongest clues that an event was a meteor do not come from a telescope at all. They come from the pattern of reports.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-1-dark.svg" | relative_url }}" alt="Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 When many independent witnesses describe a fast luminous streak over a wide geographic area, with a consistent direction of travel and a duration measured in seconds rather than minutes, investigators are often dealing with a fireball meteor rather than a local craft. Modern UFO screening workflows increasingly rely on this pattern analysis: collecting witness timelines, comparing bearings, mapping visibility ranges, and checking public [meteor databases]({{ 'meteor-databases/' | relative_url }}) before treating the sighting as anomalous. Public fireball networks and [astronomy]({{ 'astronomy/' | relative_url }}) organisations now make this process much easier than it was during the Project Blue Book era.
 
@@ -309,7 +308,6 @@ A true meteor fireball happens high in the atmosphere, commonly tens of kilometr
 The American Meteor Society defines a fireball as an unusually bright meteor, generally brighter than magnitude -4, roughly comparable to Venus at its brightest. The International Meteor Organization maintains global reporting systems specifically because these events are routinely observed across multiple countries at once. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/American_Meteor_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">American Meteor SocietyIts affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, meteoric fireba...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/stargazing/meteor-showers/spectacular-fireball-over-europe-sends-meteorite-crashing-through-roof-of-german-home" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">The International Meteor Organization received over 2,800 reports of the event, accompanied by multiple video recordings shared on social...</span></span></span>
 
 This wide-area visibility creates a report structure very different from most local aerial sightings:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -335,7 +333,6 @@ Most fireballs last only a few seconds. The American Meteor Society notes that t
 
 Witnesses often describe these events using dramatic language:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “A giant green object shot across the sky.”
@@ -345,7 +342,6 @@ Witnesses often describe these events using dramatic language:
 </div>
 
 But the timeline usually reveals something simpler:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -378,7 +374,6 @@ If multiple independent reports align into a single atmospheric track, [confiden
 
 By contrast, reports of genuinely local aerial objects often produce incompatible geometries. One witness may claim the object hovered above nearby woods while another places it above a city centre miles away. That inconsistency can itself become diagnostic.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PWdya32j0d8" title="Fireball flies across the sky and causes sonic boom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer">Fireball flies across the sky and causes sonic boom</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 466.7K &middot; Uploaded: June 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PWdya32j0d8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PWdya32j0d8">Open on YouTube</a></p></div></div></div>
 
 ### Green, blue and orange colours are not unusual
@@ -386,7 +381,6 @@ By contrast, reports of genuinely local aerial objects often produce incompatibl
 Fireballs are frequently described as green, blue-white, orange or even changing colour mid-flight. Witnesses unfamiliar with meteors sometimes interpret these colours as signs of exotic propulsion or burning wreckage.
 
 In reality, meteor colours can result from:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -410,7 +404,6 @@ A meteor high above the atmosphere can appear to pass directly over houses, road
 
 That is why witnesses across a wide region may all insist:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “It passed directly over me.”
@@ -425,14 +418,12 @@ This mismatch between perception and geometry is a recurring feature in historic
 
 NASA’s fireball databases and meteor networks are built around exactly this principle: combining multiple observations to reconstruct altitude, path and breakup behaviour. [cneos.jpl.nasa.gov+2cneos.jpl.nasa.gov]
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-2-dark.svg" | relative_url }}" alt="Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sonic booms, flashes and “explosions”
 
 Some meteor events become especially convincing as UFO reports because they include sound.
 
 Large fireballs can produce:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -482,7 +473,6 @@ These systems collect independent reports including:
 
 For UFO investigation work, this matters because it allows rapid cross-checking. If dozens or hundreds of people reported a similar streak within the same minute, the event immediately looks less like a localised unknown craft.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-3-dark.svg" | relative_url }}" alt="Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Witness agreement matters more than witness certainty
 
@@ -509,7 +499,6 @@ The investigation should therefore focus less on dramatic interpretations and mo
 AI systems are increasingly suited to this work because they can rapidly cluster witness narratives that use different wording but describe the same physical sequence.
 
 A report saying “green plasma object exploded overhead” may align closely with another saying “bright emerald meteor fragmented eastbound”. Human readers may initially treat them differently. Pattern analysis often reveals they describe the same event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YTGQghAIV68" title="Sonic booms and sightings reported as meteor streaks across California sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YTGQghAIV68" target="_blank" rel="noopener noreferrer">Sonic booms and sightings reported as meteor streaks across California sky</a></p><p class="youtube-embed-meta">Channel: ABC10 &middot; Views: 70.9K &middot; Uploaded: March 2026 &middot; Length: 1 minute 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YTGQghAIV68" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YTGQghAIV68">Open on YouTube</a></p></div></div></div>
 
@@ -943,6 +932,7 @@ The strongest modern investigations therefore combine human testimony with traje
 })();
 </script>
 </section>
+
 ## References
 
 [- American Meteor Society fireball log([https://amsmeteors.org/fireballs/](https://amsmeteors.org/fireballs/))](#endnote-8 "
@@ -1146,4 +1136,4 @@ The strongest modern investigations therefore combine human testimony with traje
    Title: news from the meteor library all sky network for fireball detection in uruguay  
    Link: <a href="https://www.emeteornews.net/2026/05/12/news-from-the-meteor-library-all-sky-network-for-fireball-detection-in-uruguay/" target="_blank" rel="noopener noreferrer nofollow">https://www.emeteornews.net/2026/05/12/news-from-the-meteor-library-all-sky-network-for-fireball-detection-in-uruguay/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>News from the meteor library: all sky network for fireball...12 May 2026 — Their primary scientific goal is to facilitate the rapid reco...</p></details>
-   Published: May 2026  
+   Published: May 2026

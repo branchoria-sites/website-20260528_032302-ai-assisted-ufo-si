@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78
 
 In an AI-assisted UFO investigation, the most important public-facing judgement is often not whether a sighting is “solved”, but whether the evidence justifies a specific label. Poor labelling turns uncertainty into false certainty. A weak match with a satellite pass can become “identified as Starlink” in online retellings, while a case with missing [metadata]({{ 'metadata/' | relative_url }}) may be described as “unexplained” even though the evidence is too thin to support any conclusion at all.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-1-dark.svg" | relative_url }}" alt="Case Labels illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Good status labels protect both sceptical analysis and open inquiry. They help readers distinguish between a confirmed identification backed by strong evidence, a plausible explanation that fits some details but not all of them, and a genuinely unresolved case where the available data are insufficient for closure. This matters because modern UAP investigations increasingly rely on automated comparison systems, environmental databases, flight tracking, astronomical catalogues, and AI-assisted similarity matching. Those tools are useful, but they can produce misleading confidence if the final [case status]({{ 'case-status/' | relative_url }}) collapses every nuance into a simple “explained” or “mystery” verdict. NASA’s UAP study stressed that reliable conclusions depend on rigorous, high-quality data collection rather than speculation layered onto [weak evidence]({{ 'weak-evidence/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — For any scientific analysis purposes, including UAP analysis, it is essenti...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
@@ -305,7 +304,6 @@ Good status labels protect both sceptical analysis and open inquiry. They help r
 A recurring problem in public UFO databases is that tentative explanations are presented as settled identifications. A witness reports lights moving in formation; investigators notice a Starlink pass occurred nearby; the entry later circulates online as “confirmed Starlink”. The original uncertainty disappears.
 
 That distinction matters because many UFO investigations are built from incomplete observations:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -343,7 +341,6 @@ A particularly misleading category is the informal soft debunk: a case casually 
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “Probably Venus”
@@ -356,7 +353,6 @@ Examples include:
 Those explanations may indeed be correct. The problem is not proposing them; the problem is presenting them as resolved outcomes when the underlying evidence remains weak.
 
 A public-facing [case file]({{ 'case-file/' | relative_url }}) should clearly separate:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -386,7 +382,6 @@ Best-fit explanationEvidence qualityPublic statusBalloonHighConfirmed balloonBal
 
 This avoids a major distortion found in many historical UFO catalogues, where unresolved cases mixed together:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * genuinely puzzling incidents
@@ -397,7 +392,6 @@ This avoids a major distortion found in many historical UFO catalogues, where un
 </div>
 
 Project [Blue Book]({{ 'blue-book/' | relative_url }})’s historical statistics already showed this problem decades ago. A significant minority of cases remained unidentified, but many others lacked enough information for meaningful classification at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Identification_studies_of_UFOs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Identification studies of UFOs</span><span class="citation-popover-snippet">March 8, 2006 —... UFO cases between 1952 and 1954. Of these, 22% were classified as unidentified (&quot;true UFOs&quot;). Another 69% were deemed...</span><span class="citation-popover-meta">Published: March 8, 2006</span></span></span> Modern AI systems should avoid repeating the same ambiguity under more technical language.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-2-dark.svg" | relative_url }}" alt="Case Labels illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use confidence language carefully
@@ -415,7 +409,6 @@ can create an illusion of mathematical authority unsupported by the underlying d
 AARO’s public examples are notable because they tie confidence claims to observable reasoning: morphology, motion, wind correlation, sensor behaviour, and comparison with known resolved imagery. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeUnidentified Anomalous Phenomena (UAP) means (A) airborne objects that are not immediately identifiable; (B) transmedium objects...</span></span></span> That style is more trustworthy than opaque numerical scoring.
 
 Better wording includes:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -435,7 +428,6 @@ Every public case label should be traceable to evidence and reasoning.
 
 A transparent AI-assisted UFO investigation page should show:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * which datasets were checked <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">and the 21 anomalous cases are under further investigation...</span></span></span>
@@ -451,7 +443,6 @@ This matters because UFO investigations often evolve over time. A case initially
 Equally, an early “probable explanation” may weaken if assumptions about timing or direction later prove wrong.
 
 A static verdict is less useful than a documented reasoning trail.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-3-dark.svg" | relative_url }}" alt="Case Labels illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why unresolved does not mean extraordinary
@@ -888,6 +879,7 @@ For public-facing UFO databases and AI-assisted [case files]({{ 'case-file/' | r
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

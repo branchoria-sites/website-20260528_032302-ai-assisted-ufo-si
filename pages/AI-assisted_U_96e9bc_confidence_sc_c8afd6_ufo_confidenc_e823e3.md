@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e8
 
 A UFO case report that says an AI system is “91% certain” often sounds more scientific than a report saying “the available evidence strongly suggests a balloon”. In practice, the opposite can be true. A precise-looking percentage can hide weak data, missing context, poor calibration, or unresolved [contradictions]({{ 'contradictions/' | relative_url }}) inside the case file. In UFO and UAP investigation, where sightings are frequently based on short videos, uncertain timestamps, single witnesses, or incomplete [sensor data]({{ 'sensor-data/' | relative_url }}), percentages can create an illusion of certainty that the evidence does not justify.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-1-dark.svg" | relative_url }}" alt="Calibration illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because public readers tend to interpret percentages as hard probabilities rather than provisional estimates. A “91% [aircraft]({{ 'aircraft/' | relative_url }}) likelihood” may be read as near-proof even when the system has never been properly tested against comparable UFO reports. NASA’s independent UAP study warned that current analysis is limited by poor sensor calibration, [incomplete]({{ 'incomplete-data/' | relative_url }}) metadata, and weak baseline data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> In that environment, careful wording is often more honest and more informative than an exact numerical score.
 
@@ -299,7 +298,6 @@ That matters because public readers tend to interpret percentages as hard probab
 Human beings instinctively treat numbers as objective. A sentence such as “AI confidence: 87%” appears precise, measurable, and technical. But in unresolved UFO cases, the underlying evidence is rarely precise enough to support that impression.
 
 A typical public sighting report may include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +314,6 @@ A typical public sighting report may include:
 Even if an AI system compares the report against thousands of earlier cases, the result is still constrained by those gaps. NASA’s UAP study repeatedly stressed that reliable interpretation depends on calibrated sensors, metadata quality, and multiple independent measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 The danger is not merely mathematical. Exact percentages encourage readers to stop thinking critically. A report that states “92% likely to be a drone” subtly discourages questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,7 +368,6 @@ That distinction matters. “Unresolved” does not mean extraterrestrial. But n
 
 A responsible AI-assisted case file should therefore distinguish between:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Confidence in the explanation
@@ -396,7 +392,6 @@ The second statement is longer and less dramatic, but it communicates more usefu
 
 It tells the reader:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Which evidence mattered
@@ -413,7 +408,6 @@ This problem becomes worse online, where numerical claims spread rapidly through
 In practice, many AI systems are poorly calibrated outside their training environment. Studies of probabilistic classifiers routinely show overconfidence problems, especially when systems encounter unfamiliar or low-quality inputs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7923594/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Stable reliability diagrams for probabilistic classifiers - PMCby T Dimitriadis · 2021 · Cited by 115 — The key diagnostic tool for ch...</span></span></span> 2arXiv
 
 UFO reports are almost entirely composed of unfamiliar and low-quality inputs.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-2-dark.svg" | relative_url }}" alt="Calibration illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The strongest UFO investigations already use cautious language
@@ -433,7 +427,6 @@ rather than pretending every case can be reduced to an exact number. <span class
 That style is not merely public-relations caution. It reflects the real structure of the evidence.
 
 For example, AARO’s balloon resolutions frequently rely on multiple converging indicators:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -466,7 +459,6 @@ Prefer:
 * “The flight-path match is strong, but the visual evidence is limited.”
 
 This distinction prevents readers from confusing a plausible explanation with a proven identification.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-3-dark.svg" | relative_url }}" alt="Calibration illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### It explains why the model reached its conclusion
@@ -928,6 +920,7 @@ In UFO investigation, that distinction is not cosmetic. It is the difference bet
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

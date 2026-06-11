@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_20
 
 A layered UFO timeline is useful precisely because it allows weak explanations to remain visible instead of being forced into a false choice between “solved” and “mysterious”. In many sightings, one explanation accounts for some parts of the event but fails to explain others. A satellite pass may match the timing and direction but not the reported manoeuvres. A nearby [aircraft]({{ 'aircraft/' | relative_url }}) may explain lights and altitude yet fail to match the observed silence or duration. A handheld camera artefact may explain apparent acceleration in video while leaving open what the witness actually saw with the naked eye.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-1-dark.svg" | relative_url }}" alt="Weak Explanations illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Careful investigation therefore depends on tracking how explanations gain and lose support as evidence accumulates. NASA’s 2023 UAP study stressed that reliable analysis requires calibrated observations, multiple measurements, and usable metadata rather than isolated impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> A [layered timeline]({{ 'layered-timeline/' | relative_url }}) helps investigators preserve that discipline. Instead of quietly discarding [contradictions]({{ 'contradictions/' | relative_url }}), it keeps them attached to the record where they can still be tested later.
 
@@ -280,7 +279,6 @@ Careful investigation therefore depends on tracking how explanations gain and lo
 A good UFO case file behaves less like a verdict and more like an evolving reconstruction. Each new piece of information changes the strength of competing explanations rather than instantly proving or disproving them.
 
 That distinction matters because many sightings move through several explanatory stages:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,7 +293,6 @@ That distinction matters because many sightings move through several explanatory
 A layered timeline preserves those changes instead of rewriting the case retrospectively.
 
 For example, suppose a witness reports a bright object “hovering silently” over a coastal area for twelve minutes before rapidly departing. An ADS-B aviation check might reveal an aircraft on a matching bearing at the correct time. That strengthens the aircraft hypothesis. But later analysis may show:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,7 +325,6 @@ The problem appears when the explanation stops being tested.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A satellite explanation may fit the brightness and timing but fail to explain repeated directional changes.
@@ -355,7 +351,6 @@ Instead of asking:
 
 the investigation asks:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Which observations does the drone hypothesis explain?
@@ -377,7 +372,6 @@ Many reports contain fragments that resist clean explanation because the availab
 
 That means unresolved elements can emerge from several ordinary causes:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Timing inaccuracies in witness memory.
@@ -394,12 +388,10 @@ A layered timeline therefore separates “unresolved” from “anomalous”.
 
 Those are not the same category.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-2-dark.svg" | relative_url }}" alt="Weak Explanations illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A practical example
 
 Imagine a case where:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -419,7 +411,6 @@ ObservationSatellite hypothesisTimingStrong fitDirectionStrong fitBrightnessMode
 That approach preserves uncertainty honestly.
 
 The unresolved manoeuvre report does not automatically prove exotic technology. But neither should it be silently erased from the case narrative.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKujZOIu7xI" title="How to: Validate Accuracy of Timing Source" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKujZOIu7xI" target="_blank" rel="noopener noreferrer">How to: Validate Accuracy of Timing Source</a></p><p class="youtube-embed-meta">Channel: Tycho Tracker &middot; Views: 653 &middot; Uploaded: January 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKujZOIu7xI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKujZOIu7xI">Open on YouTube</a></p></div></div></div>
 
@@ -450,7 +441,6 @@ If they are buried or rewritten, the case becomes impossible to audit.
 This matters especially in AI-assisted investigation systems. Automated workflows can unintentionally amplify early assumptions if confidence scores are not separated from evidence provenance.
 
 A weakly matched explanation should remain weakly matched inside the timeline rather than becoming “resolved” because an algorithm identified a statistically common object type.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-3-dark.svg" | relative_url }}" alt="Weak Explanations illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_partial_ufo_e_fc845a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why provenance matters
@@ -914,6 +904,7 @@ A layered timeline keeps the investigation testable after the first wave of anal
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

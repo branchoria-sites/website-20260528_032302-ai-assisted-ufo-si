@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22
 
 AI tools can help structure UFO witness interviews, standardise timelines and reduce administrative mistakes. They can also create a quieter risk: accidentally steering a witness into remembering details that were never clearly observed. In UFO and UAP investigations, where sightings are often brief, ambiguous and emotionally charged, even small wording changes can distort testimony.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-dark.svg" | relative_url }}" alt="AI Prompts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many sightings begin with uncertain visual impressions rather than stable, detailed observations. A witness may initially report “a bright light moving strangely”, but after repeated AI-led questioning, the same event can become “a silent triangular craft with rotating lights”. The witness may be completely sincere. The problem is that conversational systems can unintentionally introduce assumptions, reinforce guesses and reward dramatic interpretations.
 
@@ -282,7 +281,6 @@ Research on eyewitness memory has long shown that leading questions and post-eve
 The danger is not usually blatant manipulation. Most contamination comes from subtle conversational habits that sound helpful or natural.
 
 A human investigator might accidentally ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -295,7 +293,6 @@ A human investigator might accidentally ask:
 An AI assistant can reproduce the same problem at scale, especially if it is designed to sound conversational, predictive or supportive. Because large language models are trained to continue plausible dialogue, they often infer likely details and present them back to the witness as if those details already exist.
 
 In UFO cases, this is especially risky because witnesses often struggle to describe unfamiliar or distant visual events. AI systems may fill gaps automatically:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +318,6 @@ Research into the “misinformation effect” has repeatedly shown that wording 
 ## Why UFO testimony is unusually vulnerable
 
 Many ordinary criminal investigations involve concrete events: a face, a car, a room, a sequence of actions. UFO reports often involve much weaker perceptual anchors:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -367,7 +363,6 @@ Neutral prompts preserve uncertainty and avoid assumptions.
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * “Please describe what you first noticed.”
@@ -382,7 +377,6 @@ Examples include:
 These prompts separate observation from interpretation. They also preserve uncertainty instead of forcing precision.
 
 Good AI interview systems should repeatedly signal that uncertainty is acceptable. Witnesses should feel allowed to say:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -439,7 +433,6 @@ These replies may sound harmless, but they can reinforce uncertain interpretatio
 
 Research into interrogative suggestibility also shows that minimally leading questions produce lower distortion rates than more assumption-heavy questioning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S0191886924000436" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Interrogative suggestibility: The role of source monitoring...by R Polczyk · 2024 · Cited by 7 — Suggestibility is lower wh...</span></span></span> AI systems therefore need explicit constraints rather than relying on general conversational quality.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-dark.svg" | relative_url }}" alt="AI Prompts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How contamination spreads after the first interview
 
@@ -494,7 +487,6 @@ For an evidence-led investigation process, this is dangerous because it blurs th
 AI-assisted witness collection is not inherently unreliable. The problem is inadequate interview design.
 
 Several practical safeguards can reduce contamination risk.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-dark.svg" | relative_url }}" alt="AI Prompts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_ai_prompt_con_aa5293-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Separate observation from interpretation
@@ -974,6 +966,7 @@ NASA’s emphasis on calibrated data, metadata quality and disciplined collectio
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22
 
 A UFO report becomes much harder to investigate once observation and interpretation are blended together. In many sightings, the witness first describes simple perceptions — lights, motion, colour, silence, shape or timing — but later retellings introduce assumptions about [aircraft]({{ 'aircraft/' | relative_url }}), secret technology, extraterrestrial craft or intent. For AI-assisted UFO sighting investigation, separating those layers is not a minor detail. It is the difference between evidence that can be tested against flight data, [astronomy]({{ 'astronomy/' | relative_url }}), weather and satellite records, and a story that has already been reshaped by memory, discussion and speculation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-1-dark.svg" | relative_url }}" alt="Observation vs Claim illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Psychology research on eyewitness memory has repeatedly shown that post-event information can alter recall, a process known as the misinformation effect. Later suggestions, media coverage, online debate and leading questions can become woven into what a witness believes they originally saw. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368114000230" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How to protect eyewitness memory against the...by H Blank · 2014 · Cited by 280 — Pioneering research by Elizabeth Loftus a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3213001/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">In the first phase, an eyewitness is exposed</span><span class="citation-popover-snippet">A Behavioral Account of the Misinformation Effect - PMCby DM Challies · 2011 · Cited by 34 — The paradigmatic misinformation study (Lo...</span></span></span> In UFO cases, where many sightings involve ambiguous lights or distant objects, that risk is especially high because uncertainty naturally encourages interpretation.
 
@@ -298,7 +297,6 @@ the report has shifted into interpretation. The witness may sincerely believe th
 This distinction matters because many ordinary explanations initially look unusual under poor viewing conditions. Aircraft [landing lights]({{ 'landing-lights/' | relative_url }}), Starlink satellite trains, drones, illuminated balloons, Venus near the horizon and atmospheric optical effects are all capable of producing reports that feel extraordinary in the moment. Once the interpretation layer hardens, later checks against aviation, astronomy or meteorological records become more difficult because the witness memory is no longer anchored to raw sensory details.
 
 Research into eyewitness recall shows that memory is reconstructive rather than replay-based. Later information can become integrated into the remembered event itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S2211368114000230" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[ScienceDirect]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">How to protect eyewitness memory against the...by H Blank · 2014 · Cited by 280 — Pioneering research by Elizabeth Loftus a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.tandfonline.com/doi/full/10.1080/09658211.2023.2294692" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tandfonline.com">[Taylor &amp; Francis Online]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tandfonline.com</span><span class="citation-popover-snippet">In some circumstances, warnings about...</span></span></span> In UFO investigations, contamination sources commonly include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -340,7 +338,6 @@ These prompts aim to capture perception rather than interpretation.
 
 By contrast, poorly structured questioning often pushes witnesses into premature conclusions:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * “Did it look extraterrestrial?”
@@ -360,7 +357,6 @@ The difference between observation and interpretation often becomes clearer when
 
 ### Cleaner observational wording
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “A bright orange light moved slowly from west to east.”
@@ -376,7 +372,6 @@ The difference between observation and interpretation often becomes clearer when
 These statements preserve uncertainty and avoid forcing a conclusion.
 
 ### Contaminated or interpretation-heavy wording
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -402,7 +397,6 @@ Separating interpretation from observation does not mean discarding witness conc
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A witness may recognise an aircraft sound because they work in aviation.
@@ -419,7 +413,6 @@ A well-structured UFO case file therefore keeps parallel layers:
 LayerPurposeRaw observationPreserves direct perceptionWitness interpretationCaptures personal meaning or expertiseExternal analysisCompares report with environmental dataConfidence estimateIndicates uncertainty level
 
 This separation allows AI systems to compare reports more reliably. Two witnesses may attach completely different explanations to the same underlying observation. One might report “drones”, another “extraterrestrial craft”, but both may describe identical movement patterns and timing. Structured separation helps automated similarity matching focus on measurable characteristics rather than narrative framing.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-2-dark.svg" | relative_url }}" alt="Observation vs Claim illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI intake forms should store each layer
@@ -473,7 +466,6 @@ AI correlation systems can then compare the sighting against:
 * Historical local reports
 
 NASA’s UAP discussions have repeatedly emphasised that scientific progress depends on consistent metadata and structured reporting pipelines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Poorly structured witness data weakens later analysis regardless of how sophisticated the AI tools become.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-3-dark.svg" | relative_url }}" alt="Observation vs Claim illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_observation_i_91732b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Layer 4: Provenance and contamination tracking
@@ -935,6 +927,7 @@ What did the witness actually perceive before interpretation began?
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

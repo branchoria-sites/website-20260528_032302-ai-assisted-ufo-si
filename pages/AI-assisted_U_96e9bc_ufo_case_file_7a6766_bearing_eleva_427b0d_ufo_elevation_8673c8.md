@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_42
 
 A UFO sighting becomes easier to investigate when the witness can describe not just the direction of the object, but also how high it appeared in the sky. Elevation is the vertical angle between the horizon and the object: 0° at the horizon, 90° directly overhead. In AI-assisted UFO investigation, even rough elevation estimates can help compare a report against aircraft [approach paths]({{ 'approach-paths/' | relative_url }}), satellite tracks, [bright planets]({{ 'bright-planets/' | relative_url }}), drones or cloud layers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.open.edu/openlearn/mod/oucontent/view.php?id=114762&amp;section=3.2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: open.edu">[The Open University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">open.edu</span><span class="citation-popover-snippet">The Open University3.2 The Altitude-Azimuth systemIf it is directly overhead (a point referred to as the zenith) then it has an altitude...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-dark.svg" | relative_url }}" alt="Elevation illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that many reports accidentally introduce [false precision]({{ 'false-precision/' | relative_url }}). A witness who says “roughly two fists above the horizon” is often giving stronger evidence than someone who later claims “43° elevation” from memory alone. Overconfident numbers can make a [case file]({{ 'case-file/' | relative_url }}) look mathematically precise while actually hiding uncertainty. Good investigation practice therefore treats elevation as an estimate with margins, not a perfect measurement.
 
@@ -301,7 +300,6 @@ Many mundane explanations only require approximate geometry to test.
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Venus low in the west after sunset is usually under about 20° elevation.
@@ -312,7 +310,6 @@ For example:
 </div>
 
 An estimate accurate to within 10° can already eliminate some explanations while supporting others. Exactness is less important than honesty about uncertainty.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9U0-Ro7dtFE" title="Hand Astronomy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9U0-Ro7dtFE" target="_blank" rel="noopener noreferrer">Hand Astronomy</a></p><p class="youtube-embed-meta">Channel: Small Optics &middot; Views: 4.5K &middot; Uploaded: June 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9U0-Ro7dtFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9U0-Ro7dtFE">Open on YouTube</a></p></div></div></div>
 
@@ -355,7 +352,6 @@ to test whether the reported elevation fits ordinary traffic or known celestial 
 
 The key point is that the reconstruction should preserve uncertainty bands. A witness recalling an object “between the treeline and halfway overhead” should not be converted into a fake exact number merely because software can generate one.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-dark.svg" | relative_url }}" alt="Elevation illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why false precision weakens a case file
 
@@ -369,7 +365,6 @@ This issue appears frequently in retrospective UFO stories. A witness may origin
 
 A stronger investigative approach is to record uncertainty openly:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “estimated elevation 20°–30°”
@@ -380,7 +375,6 @@ A stronger investigative approach is to record uncertainty openly:
 </div>
 
 This may look less dramatic, but it produces more reliable geometry.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/t1FIcQlWb2M" title="Measuring altitude (angular distance)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=t1FIcQlWb2M" target="_blank" rel="noopener noreferrer">Measuring altitude (angular distance)</a></p><p class="youtube-embed-meta">Channel: Science Worksheets &middot; Views: 4.1K &middot; Uploaded: August 2023 &middot; Length: 1 minute 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=t1FIcQlWb2M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=t1FIcQlWb2M">Open on YouTube</a></p></div></div></div>
 
@@ -406,7 +400,6 @@ Bright lights against a dark sky can appear elevated more steeply than they real
 
 This matters because many dramatic reports describe objects “high overhead” that later turn out to have been relatively low-angle lights viewed across long distances.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-dark.svg" | relative_url }}" alt="Elevation illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_ufo_elevation_8673c8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Witnesses confuse steepness with altitude
 
@@ -423,7 +416,6 @@ A UFO appearing “20° above the horizon” in a valley may actually be much lo
 Witnesses frequently describe objects as being overhead when they were merely high in the sky. In geometric reconstruction, true zenith sightings are uncommon and important because they constrain possible flight paths strongly.
 
 Investigators therefore usually treat “overhead” as a broad category unless supported by video or multiple aligned witness accounts.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YMu5k3Ik7JU" title="Learn to measure distance easily in the night sky: Stargazing Basics 3 of 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YMu5k3Ik7JU" target="_blank" rel="noopener noreferrer">Learn to measure distance easily in the night sky: Stargazing Basics 3 of 3</a></p><p class="youtube-embed-meta">Channel: Eyes on the Sky &middot; Views: 192.6K &middot; Uploaded: July 2012 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YMu5k3Ik7JU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YMu5k3Ik7JU">Open on YouTube</a></p></div></div></div>
 
@@ -451,7 +443,6 @@ That uncertainty band can then be compared against:
 This approach is less visually dramatic than drawing razor-thin lines across a map, but it is usually more scientifically defensible.
 
 In many UFO investigations, the strongest outcome is not perfect certainty but the ability to say:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -855,6 +846,7 @@ That distinction is far more valuable than pretending a witness estimated sky an
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

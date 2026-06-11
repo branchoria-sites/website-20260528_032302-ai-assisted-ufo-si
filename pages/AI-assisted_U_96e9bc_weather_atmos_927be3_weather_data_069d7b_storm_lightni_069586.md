@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069
 
 Some UFO reports describe glowing red columns, silent jellyfish-shaped lights, expanding rings, or brief flashes hovering above storms. Modern lightning science shows that a small but important share of these sightings can be explained by rare upper-atmosphere electrical events known as transient luminous events, or TLEs. These phenomena occur high above thunderstorms, often far beyond the cloud tops visible from the ground, and they can look profoundly unfamiliar to witnesses who have never seen them before. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-1-dark.svg" | relative_url }}" alt="Storm Flashes illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, storm-related luminous events matter because they are both unusual and measurable. Unlike vague folklore explanations, [sprites]({{ 'sprites/' | relative_url }}), blue jets, and ELVES can often be checked against lightning networks, [weather]({{ 'weather/' | relative_url }}) radar, satellite lightning sensors, and thunderstorm timelines. A sighting that initially appears anomalous may align closely with intense positive lightning activity occurring tens or even hundreds of kilometres away from the observer. At the same time, not every glowing storm report is automatically explained by lightning science. The value comes from structured comparison between witness claims and environmental data.
 
@@ -286,7 +285,6 @@ Several types are especially relevant to UFO-style reports.
 Sprites are large red flashes that appear high above thunderstorms, usually after powerful positive cloud-to-ground lightning strikes. They can stretch from roughly 50 to 80 kilometres altitude and may resemble glowing jellyfish, branching trees, vertical columns, or hanging tendrils. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span>
 
 Witnesses unfamiliar with the phenomenon sometimes describe:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -308,7 +306,6 @@ Blue jets shoot upward from thunderstorm tops into the stratosphere. Gigantic je
 
 From a distant viewing angle, a gigantic jet may resemble:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * A launch-like plume
@@ -326,7 +323,6 @@ ELVES are rapidly expanding rings of light triggered by electromagnetic pulses f
 
 To a human observer, especially one viewing from an aircraft or elevated terrain, an ELVES event might resemble:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * A circular shockwave
@@ -337,7 +333,6 @@ To a human observer, especially one viewing from an aircraft or elevated terrain
 </div>
 
 Because ELVES often last less than a millisecond, witnesses may only perceive a sudden flash or expanding edge in peripheral vision.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Xp-8xp_3hqU" title="Blue jets, sprites &amp; elves formed by storm cloud activity | Colourful Weather | ABC Australia" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Xp-8xp_3hqU" target="_blank" rel="noopener noreferrer">Blue jets, sprites &amp; elves formed by storm cloud activity | Colourful Weather | ABC Australia</a></p><p class="youtube-embed-meta">Channel: ABC Australia &middot; Views: 112.1K &middot; Uploaded: May 2019 &middot; Length: 3 minutes 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Xp-8xp_3hqU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Xp-8xp_3hqU">Open on YouTube</a></p></div></div></div>
 
@@ -370,7 +365,6 @@ Sprites often glow red because energetic electrical activity excites nitrogen hi
 
 Silence also matters. A distant sprite may produce no audible thunder at the observer’s location, especially if the storm sits beyond the local horizon. Witnesses can therefore experience an apparently silent glowing structure suspended in the night sky.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-2-dark.svg" | relative_url }}" alt="Storm Flashes illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI systems can test a lightning explanation
 
@@ -379,7 +373,6 @@ A structured UFO workflow does not simply label a sighting “probably lightning
 ### Matching the sighting against storm data
 
 The first check is whether strong convective storms existed in the relevant direction and time window. Useful sources include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -393,7 +386,6 @@ The first check is whether strong convective storms existed in the relevant dire
 
 If a witness reports a red hovering glow over the western horizon at 23:40, investigators can test whether major thunderstorms were active west of the observation site during that exact period.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A-SZryVqFHo" title="Earth&#x27;s Rarest Lightning Finally Caught on Camera | Transient Luminous Events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A-SZryVqFHo" target="_blank" rel="noopener noreferrer">Earth&#x27;s Rarest Lightning Finally Caught on Camera | Transient Luminous Events</a></p><p class="youtube-embed-meta">Channel: Astrum &middot; Views: 2.1M &middot; Uploaded: May 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A-SZryVqFHo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A-SZryVqFHo">Open on YouTube</a></p></div></div></div>
 
 ### Checking lightning satellites against UFO timelines
@@ -401,7 +393,6 @@ If a witness reports a red hovering glow over the western horizon at 23:40, inve
 Modern satellites can detect lightning optically from orbit. The GOES Geostationary Lightning Mapper, for example, continuously monitors lightning flashes across large regions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planetarycomputer.microsoft.com/dataset/goes-glm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetarycomputer.microsoft.com">[Planetary Computer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetarycomputer.microsoft.com</span><span class="citation-popover-title">Planetary Computer GOES-R Lightning Detection &#124; Planetary Computer</span><span class="citation-popover-snippet">Planetary ComputerGOES-R Lightning Detection &#124; Planetary Computer - MicrosoftThe Geostationary Lightning Mapper (GLM) is a single-channel...</span></span></span>
 
 This creates an important investigative tool for UFO analysis because AI systems can automatically compare:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -416,7 +407,6 @@ This creates an important investigative tool for UFO analysis because AI systems
 If a UFO report clusters tightly around periods of extreme lightning activity, [confidence]({{ 'confidence/' | relative_url }}) in a storm-related explanation increases.
 
 Some research teams are also using machine learning to distinguish lightning-related atmospheric events from meteors and other luminous phenomena in satellite data streams. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2106.09189" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">An Automated Bolide Detection Pipeline for GOES GLMJune 17, 2021...</span><span class="citation-popover-meta">Published: June 17, 2021</span></span></span> That same approach can support automated UFO case triage by flagging environmental matches before investigators spend time on more exotic hypotheses.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-3-dark.svg" | relative_url }}" alt="Storm Flashes illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_storm_lightni_069586-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Looking for sprite-friendly conditions
@@ -434,7 +424,6 @@ NASA’s “Spritacular” citizen science project exists partly because these e
 Lightning science explains many strange luminous reports, but not every case fits neatly.
 
 Some problems investigators encounter include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -456,7 +445,6 @@ Even when a storm explanation is plausible, investigators still need to separate
 * Unresolved observations
 
 That distinction is important because “possible atmospheric explanation” is not the same as “fully solved case”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C-DSeH0D_1E" title="Rarest Lightning: Red Sprites, Blue Jets, Elves, Gnomes and Pixies Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C-DSeH0D_1E" target="_blank" rel="noopener noreferrer">Rarest Lightning: Red Sprites, Blue Jets, Elves, Gnomes and Pixies Explained</a></p><p class="youtube-embed-meta">Channel: 7EVEN &middot; Views: 3.9K &middot; Uploaded: April 2023 &middot; Length: 3 minutes 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C-DSeH0D_1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C-DSeH0D_1E">Open on YouTube</a></p></div></div></div>
 
@@ -866,6 +854,7 @@ A structured environmental check can rapidly reduce false anomalies while preser
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

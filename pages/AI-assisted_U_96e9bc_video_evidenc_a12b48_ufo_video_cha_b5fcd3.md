@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5
 
 A UFO video can go viral within minutes, but the [original evidence]({{ 'original-evidence/' | relative_url }}) trail often disappears just as quickly. Copies are reposted to different platforms, clips are cropped for short-form feeds, [metadata]({{ 'metadata/' | relative_url }}) is stripped during compression, and dramatic captions are added long after the footage first appeared online. By the time investigators examine the video, they may be looking at a heavily altered copy with no reliable information about where, when or how it was recorded.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1-dark.svg" | relative_url }}" alt="Chain of Custody illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That chain of custody problem matters because AI-assisted UFO sighting investigation depends on context as much as imagery. A striking light in the sky is far less useful without the [original]({{ 'original-evidence/' | relative_url }}) file, upload history, device metadata, witness timeline and surrounding environmental data. Open-source verification methods developed by journalists, human rights investigators and digital forensic researchers are now widely used in UFO analysis for exactly this reason: they help determine whether footage is original, recycled, manipulated, mislabelled or impossible to verify. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amnesty.org/en/latest/campaigns/2014/07/real-vs-fake-how-to-authenticate-youtube-videos-for-human-rights-work/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amnesty.org">[Amnesty International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amnesty.org</span><span class="citation-popover-title">International How to authenticate You Tube videos for human rights work</span><span class="citation-popover-snippet">Amnesty InternationalHow to authenticate YouTube videos for human rights workJuly 8, 2014 — 8 Jul 2014 — The Citizen Evidence Lab—launche...</span><span class="citation-popover-meta">Published: July 8, 2014</span></span></span> 2bellingcat
 
@@ -328,7 +327,6 @@ One of the first tasks in serious UFO video analysis is identifying the oldest r
 
 The earliest upload may preserve:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Higher resolution footage
@@ -350,7 +348,6 @@ Because there is still no universally reliable reverse-video search engine, inve
 
 Useful frames include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The opening seconds before edits begin
@@ -364,7 +361,6 @@ Useful frames include:
 If matching images appear in older posts, investigators can reconstruct the clip’s circulation history.
 
 This technique regularly exposes UFO footage that was originally:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,7 +380,6 @@ Geolocation attempts to verify where footage was recorded by comparing visible t
 
 Chronolocation attempts to estimate when footage was recorded using clues such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Shadow direction
@@ -399,7 +394,6 @@ Chronolocation attempts to estimate when footage was recorded using clues such a
 
 These methods are especially useful in UFO cases because false context is common. A real video from Arizona can easily be reposted as a “new UFO over London” if viewers cannot independently verify the setting.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AqkwnxHLoBs" title="Pentagon releases declassified UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AqkwnxHLoBs" target="_blank" rel="noopener noreferrer">Pentagon releases declassified UFO files</a></p><p class="youtube-embed-meta">Channel: NBC News &middot; Views: 117.0K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AqkwnxHLoBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AqkwnxHLoBs">Open on YouTube</a></p></div></div></div>
 
 ## Detecting Recycled or Altered Clips
@@ -411,7 +405,6 @@ A large proportion of online UFO footage is not fabricated from scratch. Instead
 Pure CGI UFO hoaxes still exist, but recycled authentic footage is usually more persuasive because it contains natural camera shake, compression artefacts and realistic lighting. Human viewers often interpret those imperfections as proof of authenticity.
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -456,7 +449,6 @@ The rise of generative AI has increased concern about synthetic or partially alt
 
 In practice, chain of custody often matters more than pixel-level analysis. A blurry but well-documented original file may be stronger evidence than a spectacular clip with no traceable origin.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-2-dark.svg" | relative_url }}" alt="Chain of Custody illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Metadata Is Valuable but Fragile
 
@@ -484,7 +476,6 @@ For example: <span class="citation-chip-wrap"><a class="citation-chip" href="htt
 * Device type can explain optical artefacts or stabilisation behaviour
 
 Metadata analysis is standard practice in digital verification work. Bellingcat’s toolkits and investigative guides regularly reference metadata extraction and comparison techniques. Bellingcat <span class="citation-chip-wrap"><a class="citation-chip" href="https://gijn.org/resource/10-lessons-from-bellingcats-logan-williams-on-digital-forensic-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gijn.org">[GIJN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gijn.org</span><span class="citation-popover-title">10 lessons from bellingcats logan williams on digital forensic techniques</span><span class="citation-popover-snippet">10 Lessons from Bellingcat&#x27;s Logan Williams on Digital...5 May 2022 — You can check that metadata against other evidence to look for sig...</span><span class="citation-popover-meta">Published: May 2022</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y7RZACW31tI" title="Latest UFO file dump ‘barely scratches surface’ of evidence: Filmmaker | Elizabeth Vargas Reports" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y7RZACW31tI" target="_blank" rel="noopener noreferrer">Latest UFO file dump ‘barely scratches surface’ of evidence: Filmmaker | Elizabeth Vargas Reports</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 163.9K &middot; Uploaded: May 2026 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y7RZACW31tI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y7RZACW31tI">Open on YouTube</a></p></div></div></div>
 
@@ -521,7 +512,6 @@ That means:
 
 In fast-moving viral cases, the original upload may disappear within hours because of account deletion, moderation or witness harassment.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-3-dark.svg" | relative_url }}" alt="Chain of Custody illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Capturing surrounding context
 
@@ -555,7 +545,6 @@ In UFO work, that increasingly means documenting:
 7. Which uncertainties remain unresolved
 
 This process does not guarantee correct conclusions. It does, however, make unsupported claims easier to challenge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WpRWkuYu9V8" title="All the videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer">All the videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 61.7K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WpRWkuYu9V8">Open on YouTube</a></p></div></div></div>
 
@@ -988,6 +977,7 @@ For AI-assisted UFO sighting investigation, chain of custody is therefore not an
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

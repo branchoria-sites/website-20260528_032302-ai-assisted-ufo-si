@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295
 
 Ordinary readers can only audit a UFO verdict if investigators explain the reasoning in plain language, preserve disagreement, and show how conclusions changed over time. In disputed UFO or UAP cases, technical data alone is rarely persuasive. A radar trace, infrared clip, AI classification score or satellite match may look decisive to one reviewer and deeply uncertain to another. Public trust depends on whether outside readers can follow the logic from the [original]({{ 'original-evidence/' | relative_url }}) sighting report to the final status label.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-1-dark.svg" | relative_url }}" alt="Review Notes illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many modern UFO investigations combine automated checks with human judgement. AI systems may compare a witness account against aircraft databases, astronomy software, weather archives, drone activity or historical [case libraries]({{ 'case-libraries/' | relative_url }}) in seconds, but the resulting verdict still needs a readable explanation. NASA’s independent UAP study warned that analysis is often weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and incomplete measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> In practice, that means a case summary saying “likely aircraft” or “probably lens flare” is not enough on its own. Readers need to know why investigators think that explanation fits better than the alternatives, and where uncertainty remains.
 
@@ -280,7 +279,6 @@ This matters because many modern UFO investigations combine automated checks wit
 Many UFO disputes are not really arguments about raw evidence. They are arguments about interpretation. One side may believe investigators dismissed a sighting too quickly, while sceptics may think investigators ignored obvious mundane explanations. Plain-language [review]({{ 'review/' | relative_url }}) notes help narrow that gap because they expose the reasoning process rather than only the outcome.
 
 A useful review note does three things at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,7 +334,6 @@ Disputed UFO cases often involve several competing explanations at once. A trans
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Why did investigators favour a satellite explanation over an aircraft explanation?
@@ -358,7 +355,6 @@ That does not mean every opinion carries equal weight. A radar specialist may un
 
 A disputed case might therefore contain notes such as:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * “Two reviewers accepted the aircraft explanation.”
@@ -371,7 +367,6 @@ A disputed case might therefore contain notes such as:
 This approach is more trustworthy than pretending the case reached perfect consensus.
 
 Research on AI transparency and accountability repeatedly shows that users lose confidence when systems hide uncertainty or disagreement behind overly confident summaries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.23136" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How Researchers Navigate Accountability, Transparency, and Trust When Using AI Tools in Early-Stage Research: A Think-Aloud StudyApr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://papers.ssrn.com/sol3/Delivery.cfm/6767278.pdf?abstractid=6767278&amp;mirid=1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papers.ssrn.com">[SSRN]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papers.ssrn.com</span><span class="citation-popover-snippet">ssrn.comExplainability, Transparency, and Accountability in AI...12 May 2026 — This paper synthesises the explainability, transparency...</span><span class="citation-popover-meta">Published: May 2026</span></span></span> UFO investigations face the same problem, especially when cases attract strong public attention online.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-2-dark.svg" | relative_url }}" alt="Review Notes illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Preventing “confidence inflation”
@@ -395,7 +390,6 @@ A more accurate note may say:
 > “Satellite tracking data strongly suggests the object was a Starlink satellite train, although the available footage is too limited for absolute confirmation.”
 
 That distinction protects the credibility of the investigation later if new information emerges.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OEfKfzvjiko" title="DOPE AS HECK VIDEOS using motion parallax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OEfKfzvjiko" target="_blank" rel="noopener noreferrer">DOPE AS HECK VIDEOS using motion parallax</a></p><p class="youtube-embed-meta">Channel: Adventures in Video &middot; Views: 5.1K &middot; Uploaded: February 2021 &middot; Length: 4 minutes 48 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OEfKfzvjiko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OEfKfzvjiko">Open on YouTube</a></p></div></div></div>
 
@@ -421,7 +415,6 @@ For example:
 
 This kind of note achieves several goals:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * It shows the investigation process openly.
@@ -433,14 +426,12 @@ This kind of note achieves several goals:
 
 That history matters because many public UFO disputes revolve around claims that investigators quietly altered conclusions without explanation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-3-dark.svg" | relative_url }}" alt="Review Notes illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_plain_languag_99427b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Avoiding the “solved versus unsolved” trap
 
 One reason UFO debates become polarised is that the public often expects every case to be either fully solved or completely mysterious. Real investigations are usually messier.
 
 Plain-language review systems work better when they use layered categories such as:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -479,7 +470,6 @@ The history of UFO investigation is full of accusations that cases were hidden, 
 Readable review notes act as a bridge between technical investigation and public accountability. They allow sceptics to inspect the reasoning without needing specialist software, and they allow believers to see whether unusual claims were genuinely considered rather than automatically rejected.
 
 Most importantly, they preserve the difference between three very different situations:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -882,6 +872,7 @@ That distinction is essential for any serious AI-assisted UFO investigation syst
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

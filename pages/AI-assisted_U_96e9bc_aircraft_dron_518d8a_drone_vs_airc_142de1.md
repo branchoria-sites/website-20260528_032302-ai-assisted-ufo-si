@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_14
 
 A surprising number of UFO reports turn out to involve ordinary drones, especially at night or over built-up areas. Small multicopters can hover, drift sideways, pause abruptly and repeat short flight patterns in ways that conventional [aircraft]({{ 'aircraft/' | relative_url }}) cannot. Those behaviours often make a drone explanation stronger than a plane or helicopter match. At the same time, many witnesses overestimate how far away a drone is. A bright light a few hundred metres away can be mistaken for a much larger object miles out over the horizon.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-1-dark.svg" | relative_url }}" alt="Drone clues illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, the key task is not simply identifying “a drone nearby”. It is testing whether the reported motion, sound, altitude, duration and location fit the practical limits of small multicopters better than they fit ordinary aircraft. A good workflow therefore compares witness claims against known multicopter behaviour, local drone regulations, terrain, likely launch points and the short endurance of most consumer drones. Some reports become more convincing as drone candidates after this process. Others become weaker because the object was too high, too distant or visible for too long.
 
@@ -334,13 +333,11 @@ Wind can further complicate perception. Multicopters constantly adjust position 
 
 AI-based video analysis can help separate genuine object motion from camera motion. Handheld phone footage often exaggerates apparent acceleration because tiny hand movements become large apparent shifts when zoomed in at night.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HoAg7d5DpYk" title="What Does Visual Line of Sight Mean? (VLOS) UK Drone Rules - Geeksvana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HoAg7d5DpYk" target="_blank" rel="noopener noreferrer">What Does Visual Line of Sight Mean? (VLOS) UK Drone Rules - Geeksvana</a></p><p class="youtube-embed-meta">Channel: Geeksvana &middot; Views: 2.1K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HoAg7d5DpYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HoAg7d5DpYk">Open on YouTube</a></p></div></div></div>
 
 ## Sound, altitude and range limits
 
 Many drone explanations become more plausible when sound matches the sighting. Small multicopters usually produce a distinctive buzzing or high-pitched humming caused by rapidly spinning propellers. Witnesses often describe:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -361,7 +358,6 @@ Visual line of sight rules effectively limit most ordinary drone activity to rel
 
 That matters because witnesses frequently report objects apparently hovering miles away over hills, coastlines or city skylines. In many such cases, a small consumer multicopter becomes a weak explanation simply because:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The drone would be too distant to control visually.
@@ -374,7 +370,6 @@ That matters because witnesses frequently report objects apparently hovering mil
 Most consumer multicopters also have relatively short flight times compared with fixed-wing aircraft. Multirotors trade endurance for manoeuvrability. Fixed-wing drones and conventional aircraft can travel much farther because wings provide efficient lift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://coptrz.com/blog/fixed-wing-vs-multirotor-drones-for-surveying/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coptrz.com">[Coptrz]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coptrz.com</span><span class="citation-popover-snippet">Fixed Wing vs Multirotor Drones for SurveyingFebruary 24, 2021 — Reduced range – The one disadvantage of multirotor aircraft is the...</span><span class="citation-popover-meta">Published: February 24, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Multicopter/comments/37gz1k/can_somebody_explain_the_advantages_of/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">ht and maneuvering through tight spaces, but at the price of much shorter...Read more...</span></span></span>
 
 This endurance difference is valuable in sighting analysis. A light observed continuously for 40 minutes over a wide area is usually a weaker fit for a small multicopter than for a helicopter, fixed-wing aircraft or astronomical object.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-2-dark.svg" | relative_url }}" alt="Drone clues illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a drone explanation becomes weak
@@ -405,7 +400,6 @@ Small drones need nearby operators. A report over remote moorland, offshore wate
 
 AI-assisted mapping can help here by identifying:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Car parks.
@@ -415,7 +409,6 @@ AI-assisted mapping can help here by identifying:
 * Industrial or infrastructure inspection sites.
 
 </div>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-3-dark.svg" | relative_url }}" alt="Drone clues illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Multi-hour sightings
@@ -432,7 +425,6 @@ A recurring problem in UFO reports is mixed cues. A witness may observe hovering
 
 This confusion often happens because:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Aircraft approaching directly toward the observer can appear stationary.
@@ -448,7 +440,6 @@ ObservationStronger for droneStronger for aircraftHovering in one areaYesSometim
 
 The goal is not to “debunk” witnesses but to test whether the reported behaviour fits known flight capabilities. In many cases, the answer is mixed rather than definitive.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/H1MfT4p_q24" title="Fixed Wing or Multi-Rotor - Which Should You Choose?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=H1MfT4p_q24" target="_blank" rel="noopener noreferrer">Fixed Wing or Multi-Rotor - Which Should You Choose?</a></p><p class="youtube-embed-meta">Channel: Drone Nerds &middot; Views: 5.4K &middot; Uploaded: October 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=H1MfT4p_q24" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=H1MfT4p_q24">Open on YouTube</a></p></div></div></div>
 
 ## Why drones matter in modern UFO investigations
@@ -458,7 +449,6 @@ Small multicopters have changed the landscape of UFO reporting because they comb
 As drone ownership has expanded, reports of strange hovering lights have increased accordingly. Civil aviation authorities now treat drones as a routine part of shared airspace, with strict limits on altitude, visibility and proximity to people. <span class="citation-chip-wrap"><a class="citation-chip" href="https://morson-praxis.com/news/uk-drone-regulations-what-you-need-to-know-in-2026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: morson-praxis.com">[morson-praxis.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">morson-praxis.com</span><span class="citation-popover-title">Commercial operators</span><span class="citation-popover-snippet">UK Drone Regulations: What You Need to Know in 20268 Jan 2026 — Drones must remain below 120 metres (400 feet), within visual line of sig...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[3faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">antly, drone safety is the law. Find relevant...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/media/csmfqbs1/the-drone-code-march-2026.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">Civil Aviation AuthorityThe Drone and Model Aircraft CodeLegal height limits, distances from people, and areas where you must not fly. Re...</span></span></span>
 
 For investigators, this means drone checks should happen early in any UFO workflow, especially for:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -863,6 +853,7 @@ At the same time, drone explanations should not be stretched beyond their practi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

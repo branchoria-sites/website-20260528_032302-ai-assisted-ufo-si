@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ff
 
 A drone sighting is not automatically a useful case. During the New Jersey drone wave of late 2024, investigators received thousands of tips, yet many reports could not be verified because the basic facts were missing, duplicated or distorted through [reposts]({{ 'reposts/' | relative_url }}) and social media retellings. Federal agencies later said that many supposed “mystery drones” were ordinary [aircraft]({{ 'aircraft/' | relative_url }}), legal drones, helicopters or even stars and planets misidentified at night. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-1-dark.svg" | relative_url }}" alt="Tip Intake illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO and UAP investigation, the lesson is straightforward: a raw tip has to become a structured [case file]({{ 'case-file/' | relative_url }}) before it can be compared, scored or checked against mundane explanations. That means capturing reliable timestamps, location precision, witness context, media metadata and environmental conditions in a consistent format. Without structured intake, investigators cannot separate duplicates from independent sightings, cannot correlate reports with flight paths or [astronomy]({{ 'astronomy/' | relative_url }}) data, and cannot judge whether a case is weak, plausible, unresolved or genuinely unusual.
 
@@ -282,7 +281,6 @@ The most valuable reports are not necessarily the most dramatic. A short, precis
 The New Jersey reporting wave demonstrated how quickly ambiguous observations can multiply into a misleading volume spike. The FBI reportedly received thousands of public tips, but officials later concluded that many reports referred to ordinary air traffic or repeat sightings of the same lights. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
 A usable case file usually needs five things:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -308,7 +306,6 @@ Investigators cannot properly compare a sighting against radar tracks, satellite
 
 A useful intake form should capture:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * exact local time
@@ -331,7 +328,6 @@ That distinction becomes important when AI systems attempt timeline reconstructi
 
 A sighting location should ideally include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * GPS coordinates
@@ -348,7 +344,6 @@ Direction of travel is equally important. During the New Jersey wave, many witne
 
 A structured intake system therefore needs directional fields such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * compass bearing
@@ -360,7 +355,6 @@ A structured intake system therefore needs directional fields such as:
 
 Even rough directional information can help eliminate normal air traffic.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2jBpY8Eehdk" title="Mystery drones prompt new FAA bans, experts unpack sightings and more" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2jBpY8Eehdk" target="_blank" rel="noopener noreferrer">Mystery drones prompt new FAA bans, experts unpack sightings and more</a></p><p class="youtube-embed-meta">Channel: CBS New York &middot; Views: 175.6K &middot; Uploaded: December 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2jBpY8Eehdk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2jBpY8Eehdk">Open on YouTube</a></p></div></div></div>
 
 ### Media metadata often matters more than the image itself
@@ -368,7 +362,6 @@ Even rough directional information can help eliminate normal air traffic.
 A blurry video can still be useful if the metadata is intact.
 
 Investigators should preserve:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -384,7 +377,6 @@ Investigators should preserve:
 Social media uploads often strip metadata or recompress footage. Once a clip has passed through several reposts, the evidential value can collapse.
 
 AI-assisted workflows can automatically:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -440,7 +432,6 @@ AI triage systems can reduce overload by:
 
 That does not eliminate uncertainty, but it prevents investigators from treating every tip as equally significant.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-2-dark.svg" | relative_url }}" alt="Tip Intake illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Confidence scoring should remain transparent
 
@@ -456,7 +447,6 @@ A balanced intake system should record:
 * and where uncertainty still exists
 
 Transparent scoring is especially important in public-facing investigations because mistrust grows quickly when authorities appear dismissive or opaque.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LPSKB6ZZQm0" title="Data drives disclosure: Creating a civilian UFO reporting network | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer">Data drives disclosure: Creating a civilian UFO reporting network | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 163.4K &middot; Uploaded: March 2026 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LPSKB6ZZQm0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LPSKB6ZZQm0">Open on YouTube</a></p></div></div></div>
 
@@ -476,7 +466,6 @@ This creates several distortions:
 * old footage may be relabelled as current footage
 
 Without duplicate detection, investigators may incorrectly interpret public excitement as evidence of escalating activity.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-3-dark.svg" | relative_url }}" alt="Tip Intake illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_drone_tip_cas_dc0d36-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI clustering can reconstruct the real event count
@@ -508,7 +497,6 @@ The same pattern appears in UFO and drone waves:
 * dramatic interpretations spread fastest
 
 A strong intake system therefore treats social-media virality as a warning sign rather than a credibility signal.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I9Wptj-IuhY" title="Law Enforcement Resources: Reporting Non-Compliant Drone Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I9Wptj-IuhY" target="_blank" rel="noopener noreferrer">Law Enforcement Resources: Reporting Non-Compliant Drone Operations</a></p><p class="youtube-embed-meta">Channel: Federal Aviation Administration &middot; Views: 7.5K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I9Wptj-IuhY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I9Wptj-IuhY">Open on YouTube</a></p></div></div></div>
 
@@ -955,6 +943,7 @@ The New Jersey drone wave showed how difficult this becomes once thousands of fr
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

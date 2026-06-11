@@ -290,12 +290,10 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d3
 
 Freshly launched Starlink satellites are now one of the most common explanations for reports of silent formations of lights moving across the night sky. Witnesses often describe a straight line of glowing dots, evenly spaced and travelling together without flashing [aircraft]({{ 'aircraft/' | relative_url }}) lights or audible engine noise. In low-light conditions, especially shortly after sunset or before dawn, the effect can look organised, deliberate, and unfamiliar enough to trigger UFO or UAP reports. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/jonathanocallaghan/2020/04/21/what-are-those-strange-moving-lights-in-the-night-sky-elon-musks-starlink-satellites-explained/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes For AI-assisted UFO investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">What Are Those Strange Moving Lights In The Night Sky?...21 Apr 2020 — These lights are actually satellites, launched into space by the...</span></span></span>, Starlink trains matter because they create a very specific kind of false positive. A sighting may genuinely look extraordinary to experienced observers, pilots, or amateur astronomers while still matching a predictable orbital event. The key investigative task is not dismissing witnesses, but testing whether the reported [geometry]({{ 'geometry/' | relative_url }}), timing, spacing, and motion match a recent Starlink deployment closely enough to explain the event.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-1-dark.svg" | relative_url }}" alt="Starlink Trains illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How launch trains form after deployment
 
 A Starlink “train” appears because satellites are launched in compact groups rather than being placed directly into their final operational spacing. After deployment from a Falcon 9 rocket, dozens of satellites initially occupy nearly the same orbital path. From the ground, they can resemble a moving chain or procession of lights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://spaceflightnow.com/2019/11/14/starlink-train-traces-path-across-twilight-skies/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spaceflightnow.com">[Spaceflight Now]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spaceflightnow.com</span><span class="citation-popover-title">starlink train traces path across twilight skies</span><span class="citation-popover-snippet">Spaceflight NowStarlink &#x27;train&#x27; traces path across twilight skies14 Nov 2019 — The 60 Starlink satellites deployed Monday by a SpaceX Fal...</span></span></span> Space The visual effect is strongest during the first days after launch. At that stage: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +305,6 @@ A Starlink “train” appears because satellites are launched in compact groups
 </div>
 
 Observers often report the formation as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -325,7 +322,6 @@ The illumination geometry is especially important. Starlink trains are commonly 
 
 A strong investigation workflow therefore checks three linked variables together:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Local sunset or sunrise timing
@@ -341,7 +337,6 @@ If those align closely, the probability of a train misidentification rises sharp
 Starlink trains trigger UFO reports partly because they violate normal expectations about how objects move in the sky.
 
 Aircraft normally show:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -360,7 +355,6 @@ Meteor showers normally show:
 
 Conventional satellites are usually seen as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Single points of light
@@ -370,7 +364,6 @@ Conventional satellites are usually seen as:
 </div>
 
 A Starlink train combines features that many witnesses rarely encounter together: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satflare.com/track.asp?q=starlink5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satflare.com">[satflare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satflare.com</span><span class="citation-popover-title">STARLIN K Train</span><span class="citation-popover-snippet">STARLINK Train - 3D REAL TIME TRACKINGAfter a long long wait finally got to see 34 satellites of Starlink 8 train. Mag was 7.2 but picked...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -386,7 +379,6 @@ A Starlink train combines features that many witnesses rarely encounter together
 That combination can create a strong impression of controlled formation flight even when the motion is entirely orbital. Reports often become more dramatic when witnesses estimate the lights as being much closer than they really are. Human depth perception is poor against a dark sky with no fixed [reference points]({{ 'reference-points/' | relative_url }}), so low Earth orbit objects can appear far nearer and slower than they actually are.
 
 This is one reason even experienced observers sometimes misjudge Starlink passes. Reports have included commercial pilots, amateur astronomers, and long-time skywatchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/2023/02/the-great-starlink-racetrack-ufo-flap-of-2022/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-title">the great starlink racetrack ufo flap of 2022</span><span class="citation-popover-snippet">Skeptical InquirerThe Great Starlink Racetrack UFO Flap of 2022 &#124; Skeptical InquirerA new flap began. Commercial airline pilots flying at...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
 
@@ -432,7 +424,6 @@ An AI-assisted [case file]({{ 'case-file/' | relative_url }}) should therefore a
 * Satellite pass predictions <span class="citation-chip-wrap"><a class="citation-chip" href="https://orbitalradar.com/satellite-pass-predictions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: orbitalradar.com">[orbitalradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">orbitalradar.com</span><span class="citation-popover-snippet">Set your location above and use the &quot;Starlink&quot; filter chip to find...Read more...</span></span></span>
 
 When these align, the [confidence]({{ 'confidence/' | relative_url }}) score for a Starlink explanation increases substantially.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-2-dark.svg" | relative_url }}" alt="Starlink Trains illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Straight-line travel is more important than brightness
@@ -485,7 +476,6 @@ These effects become more misleading when witnesses:
 
 Under those conditions, reports can easily evolve from “line of lights” into descriptions of structured craft or coordinated objects.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-3-dark.svg" | relative_url }}" alt="Starlink Trains illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a train match is weak or misleading
 
@@ -506,7 +496,6 @@ Starlink explanations become weaker when witnesses report:
 A true train pass normally shows steady orbital motion across the sky. The formation should not stop, zigzag, or hold position.
 
 Similarly, timing matters. A claimed Starlink sighting days or weeks before any visible launch pass in that region should be treated cautiously unless operational satellites in related orbital planes also fit the trajectory.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
@@ -947,6 +936,7 @@ That distinction becomes especially important because some reports initially dis
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

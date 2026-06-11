@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_ff
 
 A UFO report without a precise timestamp is far harder to reconstruct than many people realise. In modern AI-assisted investigation, even a vague 20- or 30-minute window can completely alter which satellites were overhead, which [aircraft]({{ 'aircraft/' | relative_url }}) were nearby, where planets appeared in the sky, and whether atmospheric conditions supported a mundane explanation. A sighting logged at 21:05 may correlate cleanly with a Starlink pass or an approaching aircraft. The same report placed at 21:40 may match nothing at all.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-1-dark.svg" | relative_url }}" alt="Timing Gaps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That problem explains why many historical UFO cases remain unresolved decades later. Modern reconstruction systems depend on accurate temporal alignment between witness testimony and external data sources. If the timing is uncertain, the entire comparison chain weakens. NASA’s recent UAP review highlighted that analysis is hindered by missing metadata, poor [calibration]({{ 'calibration/' | relative_url }}), and lack of reliable contextual information. Exact time is one of the most important pieces of metadata investigators can have. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
 
@@ -315,7 +314,6 @@ To do that, modern workflows compare a report against layered datasets simultane
 Satellite reconstruction engines use orbital models known as Two-Line Elements, or TLEs, to estimate satellite positions at precise moments. These models are highly time-sensitive. A timing error of even a few minutes can shift a predicted satellite position dramatically.
 
 This matters because many modern UFO reports involve:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -377,7 +375,6 @@ For example:
 
 Without precise timing, the system cannot reliably test whether a witness saw:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * A conventional aircraft
@@ -395,7 +392,6 @@ Astronomical reconstruction tools are among the most timing-sensitive systems us
 Bright planets such as Venus are frequently reported as hovering UFOs near the horizon. But their apparent position changes continuously with time and observer location.
 
 AI astronomy checks calculate:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -420,7 +416,6 @@ This is particularly important in historical cases because many older witness st
 * “Late evening”
 
 Those phrases are difficult to map onto exact astronomical conditions decades later.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-2-dark.svg" | relative_url }}" alt="Timing Gaps illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Historical UFO Reports Became Impossible to Verify
@@ -458,7 +453,6 @@ Investigators sometimes call this a cascading failure problem. One weak data poi
 This is why some historical UFO cases remain permanently unresolved even after extensive investigation. The problem is not necessarily that the object behaved impossibly. The problem is that the reconstruction window became too broad for reliable elimination work.
 
 NASA’s UAP review repeatedly stressed the importance of metadata and multiple measurements for exactly this reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-3-dark.svg" | relative_url }}" alt="Timing Gaps illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_ufo_timing_ga_c948fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Small Timing Errors Create False Mystery
@@ -916,6 +910,7 @@ That is why timing gaps remain one of the biggest obstacles in historical UFO an
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

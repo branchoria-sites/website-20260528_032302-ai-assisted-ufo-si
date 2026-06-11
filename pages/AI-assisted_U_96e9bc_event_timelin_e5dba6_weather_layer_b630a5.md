@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b6
 
 [Weather]({{ 'weather/' | relative_url }}) is not background scenery in a UFO investigation. It can decide whether a reported object was even visible, whether its apparent movement makes physical sense, and whether a mundane explanation becomes stronger or weaker. A bright object behind thin cloud can appear to pulse or change shape. A balloon drifting at high altitude may move in a completely different direction from surface wind. A temperature inversion can bend light and distort distant objects into hovering shapes. Haze can make lights appear farther away, slower, larger, or strangely suspended.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-1-dark.svg" | relative_url }}" alt="Weather layers illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI timeline reconstruction, weather therefore becomes a layered evidence problem rather than a simple “clear skies” or “cloudy” label. A useful reconstruction compares witness statements with cloud cover, visibility, upper-air wind, humidity, fog formation, pressure changes, and local atmospheric optics during the exact sighting window. The goal is not to dismiss reports automatically. It is to test whether the reported behaviour matches known environmental effects, and to identify cases where weather conditions either strongly support or weaken conventional explanations.
 
@@ -305,7 +304,6 @@ Haze is particularly important because it changes depth and distance perception.
 At night, haze also scatters light. Bright points can bloom into fuzzy discs, coloured halos, or pulsing glows. Under humid conditions, stars and planets near the horizon may appear unstable or “alive” because turbulent air repeatedly bends incoming light. This is especially relevant in reports describing objects that shimmer, morph shape, or cycle through colours without changing position.
 
 An AI-assisted reconstruction can test these effects by correlating:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -336,7 +334,6 @@ A witness may report calm conditions while a weather balloon, advertising balloo
 
 This matters because many UFO reports involve claims such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “The object moved against the wind”
@@ -350,7 +347,6 @@ Without upper-air data, these claims can be misleading. A balloon may appear sta
 
 [AI reconstruction]({{ 'ai-reconstruction/' | relative_url }}) systems can reduce these errors by incorporating:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Radiosonde or weather balloon profiles
@@ -363,7 +359,6 @@ Without upper-air data, these claims can be misleading. A balloon may appear sta
 
 Terrain is frequently overlooked. Valleys, coastlines, hills, and urban heat islands can produce localised airflow very different from regional forecasts. A witness standing in sheltered calm air may still observe fast-moving illuminated objects above a ridge line where upper-level winds are much stronger.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RVBhb1cahNM" title="How to read a synoptic weather chart - Met Office explains - Met Office UK Weather" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RVBhb1cahNM" target="_blank" rel="noopener noreferrer">How to read a synoptic weather chart - Met Office explains - Met Office UK Weather</a></p><p class="youtube-embed-meta">Channel: Met Office - UK Weather &middot; Views: 67.8K &middot; Uploaded: January 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RVBhb1cahNM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RVBhb1cahNM">Open on YouTube</a></p></div></div></div>
 
 ### Inversions and “hovering” lights
@@ -375,7 +370,6 @@ Some inversion conditions create superior mirages known as Fata Morgana effects.
 Historically, some UFO reports over water, deserts, or polar regions have later been linked to mirage-like atmospheric conditions. The important point for investigators is not that every unusual sighting is a mirage, but that inversion layers can create visually convincing distortions under the right geometry.
 
 An AI system can flag these conditions by checking:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -391,14 +385,12 @@ An AI system can flag these conditions by checking:
 
 Human perception becomes less reliable when visual references disappear. Aviation safety literature repeatedly warns that fog, darkness, haze, and low contrast conditions create optical illusions and spatial disorientation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAA Safety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">FAA Safety Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...By using visual references, the pilot can gather information about distance, speed, and depth. Any conditio...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/pilots/safety/pilotsafetybrochures/media/spatiald_visillus.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Spatial Disorientation: Visual Illusions</span><span class="citation-popover-snippet">10% of all general aviation accidents can be attributed to spatial disorientation, and 90% of these accidents are fatal.Read more...</span></span></span> Skybrary These effects overlap closely with many UFO descriptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetySuperior Mirage. A superior mirage occurs when there is a temperature inversion; the air b...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-2-dark.svg" | relative_url }}" alt="Weather layers illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Autokinesis and stationary lights
 
 Autokinesis is a well-known night-time illusion where a stationary light appears to move when stared at against a dark background. Pilots and observers may perceive drifting, zig-zagging, or hovering motion even though the object itself remains fixed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://medium.com/faa/its-a-confusing-world-up-there-5070c1e5806b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">It&#x27;s a Confusing World Up There. The Specifics of Spatial...Spatial disorientation can also be caused by visual illusions. Your mi...</span></span></span>
 
 In UFO investigations, this becomes relevant when witnesses describe:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -410,7 +402,6 @@ In UFO investigations, this becomes relevant when witnesses describe:
 </div>
 
 An AI-assisted case [review]({{ 'review/' | relative_url }}) can compare the witness viewing conditions against known autokinesis triggers:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -424,7 +415,6 @@ An AI-assisted case [review]({{ 'review/' | relative_url }}) can compare the wit
 </div>
 
 This does not invalidate witness sincerity. It simply identifies conditions where visual perception becomes less stable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ueen-XMx3dw" title="Encountering Haze During VFR Flight" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ueen-XMx3dw" target="_blank" rel="noopener noreferrer">Encountering Haze During VFR Flight</a></p><p class="youtube-embed-meta">Channel: FalconImagery Flight Training &middot; Views: 465 &middot; Uploaded: July 2025 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ueen-XMx3dw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ueen-XMx3dw">Open on YouTube</a></p></div></div></div>
 
@@ -455,7 +445,6 @@ In UFO reports, this may produce exaggerated estimates of:
 
 A bright aircraft crossing a featureless overcast sky may appear far larger and slower than it really is because the observer lacks fixed visual references.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-3-dark.svg" | relative_url }}" alt="Weather layers illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather checks that strengthen or weaken explanations
 
@@ -474,7 +463,6 @@ Some weather patterns increase the likelihood of ordinary explanations:
 * Fog banks matching sudden disappearance timing
 
 When multiple factors align with the witness description, [confidence]({{ 'confidence/' | relative_url }}) in a mundane explanation rises significantly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RsxaBUdrgBs" title="Physiology of Flight: Spatial Disorientation, Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RsxaBUdrgBs" target="_blank" rel="noopener noreferrer">Physiology of Flight: Spatial Disorientation, Part 2</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 9.3K &middot; Uploaded: June 2010 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RsxaBUdrgBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RsxaBUdrgBs">Open on YouTube</a></p></div></div></div>
 
@@ -904,6 +892,7 @@ That distinction matters because weather can either explain away apparent anomal
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

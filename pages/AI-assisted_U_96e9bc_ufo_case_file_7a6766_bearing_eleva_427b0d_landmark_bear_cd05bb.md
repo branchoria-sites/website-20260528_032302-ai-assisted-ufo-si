@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_42
 
 A UFO report becomes far more useful when a witness can say “it appeared above the water tower” or “it crossed left of the church spire” instead of simply “it was in the west”. Landmarks turn a vague memory into a testable sightline. In AI-assisted UFO sighting investigation, that shift matters because a reconstructed line of sight can be compared against [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite paths, astronomical objects, terrain profiles and [weather data]({{ 'weather-data/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1-dark.svg" | relative_url }}" alt="Landmarks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is especially important when compass readings are missing, inconsistent or gathered after the event. Human memory for direction is often poor under stress or surprise, but people frequently remember relationships between objects in the scene more reliably. A witness may not know whether they were facing 282° or 295°, yet still accurately recall that the object hovered above a ridge line before moving behind a tower block. Once those landmarks are identified on a map, the sighting geometry becomes measurable rather than anecdotal.
 
@@ -286,7 +285,6 @@ This is especially important when compass readings are missing, inconsistent or 
 Witnesses rarely observe unusual aerial events under ideal conditions. Many reports happen at night, during driving, while distracted, or during emotionally charged moments. Aviation human-factors research has long shown that orientation, motion and distance can be misjudged when visual references are weak or incomplete. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dvikan.no/ntnu-studentserver/reports/A%20Human%20Error%20Approach%20to%20Aviation%20Accident%20Analysis.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvikan.no">[Dvikan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvikan.no</span><span class="citation-popover-title">A Human Error Approach to Aviation Accident Analysis</span><span class="citation-popover-snippet">based errors, which are now labeled &quot;attention/memory.&quot; Also added is a &quot;knowledge information&quot; category, which is a type of error that...</span></span></span>
 
 Landmarks help because they anchor memory to stable physical features. A report such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -329,9 +327,7 @@ The reconstruction process usually starts with the observer position. Investigat
 
 Once the viewpoint is known, the next step is to rebuild the visual corridor:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-Uq7AmSAjt8" title="Fix Compass Calibration Issues on Android [How-To]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-Uq7AmSAjt8" target="_blank" rel="noopener noreferrer">Fix Compass Calibration Issues on Android [How-To]</a></p><p class="youtube-embed-meta">Channel: Gadget Hacks &middot; Views: 524.3K &middot; Uploaded: March 2016 &middot; Length: 1 minute 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-Uq7AmSAjt8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-Uq7AmSAjt8">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -357,7 +353,6 @@ Landmark reconstruction does not only help confirm ordinary explanations. It can
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A claimed hover position may actually have been below the visible ridge line from the observer’s location.
@@ -370,14 +365,12 @@ These inconsistencies do not automatically imply deception. Human spatial memory
 
 This matters in UFO investigations because dramatic narrative details can unintentionally drift over time. Landmark anchoring helps stabilise the factual core of the report.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-2-dark.svg" | relative_url }}" alt="Landmarks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Handling compass error and uncertainty bands
 
 Phone compasses are useful but imperfect. Modern smartphones rely on magnetometers that can be distorted by nearby metal objects, vehicle frames, electrical systems and magnetic accessories. Manufacturers and technical guidance documents routinely warn that [calibration]({{ 'calibration/' | relative_url }}) and environmental interference can affect heading accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fizziq.org/en/post/magnetometer" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fizziq.org">[Fizziq]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fizziq.org</span><span class="citation-popover-snippet">Why is a smartphone compass not affected by magnets?29 Jan 2025 — For accurate measurements, the magnetometer must be calibrated to compe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://consumer.huawei.com/en/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: consumer.huawei.com">[HUAWEI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">consumer.huawei.com</span><span class="citation-popover-snippet">The compass or direction arrow points in the wrong...The compass or direction arrow points in the wrong direction during navigatio...</span></span></span> Honor Investigators therefore avoid treating a single phone reading as exact truth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/global/support/content/en-us00410250/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[honor.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">ep your phone away from the magnetic interference · Calibrate the compass.Read more...</span></span></span>
 
 Common sources of compass error include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -405,7 +398,6 @@ This is often more scientifically honest than pretending a witness can reliably 
 
 Compass readings become stronger when they are:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * recorded immediately during the sighting
@@ -417,7 +409,6 @@ Compass readings become stronger when they are:
 </div>
 
 The combination of landmarks plus approximate compass data is usually more valuable than either source alone.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eIFZdDa46Mk" title="Magnetic Compass Errors Pilots Get Wrong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eIFZdDa46Mk" target="_blank" rel="noopener noreferrer">Magnetic Compass Errors Pilots Get Wrong</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 29.7K &middot; Uploaded: July 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eIFZdDa46Mk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eIFZdDa46Mk">Open on YouTube</a></p></div></div></div>
 
@@ -436,7 +427,6 @@ their sightlines can be triangulated.
 This does not necessarily locate the object precisely, but it can sharply reduce uncertainty. In some investigations, triangulation reveals that a supposedly low-altitude craft was actually a distant aircraft or celestial object seen from multiple angles. In others, the geometry shows the witnesses could not all have been observing the same conventional target.
 
 AI-assisted systems are particularly useful here because they can rapidly compare overlapping witness corridors against terrain, air traffic and astronomical datasets simultaneously.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-3-dark.svg" | relative_url }}" alt="Landmarks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_landmark_bear_cd05bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The value of photographs with visible landmarks
@@ -459,7 +449,6 @@ A blurry light with a visible church tower may still allow accurate azimuth reco
 Metadata can also help. If the image timestamp, GPS coordinates and visible landmarks align, the sightline can be recreated with reasonable [confidence]({{ 'confidence/' | relative_url }}). AI-assisted workflows can automate parts of this comparison by matching skyline shapes or terrain contours against mapping data.
 
 This is one reason investigators often ask witnesses not to crop images aggressively. Background context can matter more than apparent object detail.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p9gASFLEOBA" title="Calculate Compass Heading and Time Enroute on the FAA Private Pilot Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p9gASFLEOBA" target="_blank" rel="noopener noreferrer">Calculate Compass Heading and Time Enroute on the FAA Private Pilot Test</a></p><p class="youtube-embed-meta">Channel: FlightInsight &middot; Views: 26.0K &middot; Uploaded: June 2022 &middot; Length: 4 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p9gASFLEOBA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p9gASFLEOBA">Open on YouTube</a></p></div></div></div>
 
@@ -870,6 +859,7 @@ Some cases become less mysterious once the sightline is rebuilt properly. Others
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

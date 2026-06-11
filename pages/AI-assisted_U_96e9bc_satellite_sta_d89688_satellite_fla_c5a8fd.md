@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5
 
 A common pattern in UFO and UAP reports is a single bright light that appears unexpectedly, intensifies for a few seconds, then vanishes almost instantly. Witnesses often describe the effect as an object “switching on”, “accelerating away”, or “cloaking”. In many cases, though not all, the behaviour closely matches the lighting [geometry]({{ 'geometry/' | relative_url }}) of satellites reflecting sunlight from orbit.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-1-dark.svg" | relative_url }}" alt="Satellite Flares illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO investigation because flare timing is highly testable. If a witness provides an approximate time, viewing direction, and duration, automated checks against satellite passes and Earth-shadow geometry can often determine whether the event fits an orbital explanation. The key point is that satellites are usually visible only when they remain sunlit while the observer below is already in darkness. A small change in angle can make a satellite brighten dramatically, and entry into Earth’s shadow can make it disappear with surprising abruptness. <span class="citation-chip-wrap"><a class="citation-chip" href="https://wxguys.ssec.wisc.edu/2018/11/05/wxsats_night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wxguys.ssec.wisc.edu">[The Weather Guys]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wxguys.ssec.wisc.edu</span><span class="citation-popover-title">wxsats night</span><span class="citation-popover-snippet">The Weather GuysCan we see satellites at night?5 Nov 2018 — Satellites are visible in the night sky when sunlight reflects off of their s...</span></span></span>
 
@@ -309,7 +308,6 @@ The classic example was the old Iridium communications constellation. These sate
 The important investigative lesson is not just historical. Modern satellites can still flare, even if the effect is less predictable. Large solar panels, antenna surfaces, and reflective body panels can all generate temporary glints when the Sun, satellite, and observer align correctly. Amateur astronomers still report sudden flare-like brightening from ordinary satellites and newer constellations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/909550-what-do-iridium-flares-look-like/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights What do iridium flares look like?</span><span class="citation-popover-snippet">Those satellites have all been de-orbited. But plenty of other satellites can flare...Read more...</span></span></span>
 
 For UFO case analysis, flare behaviour usually follows a recognisable sequence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -335,7 +333,6 @@ Low Earth orbit satellites remain illuminated after local sunset because they ar
 
 To the naked eye, the effect can look extremely sudden:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * One moment the object is bright and obvious.
@@ -350,7 +347,6 @@ The International Space Station provides a good public example because its size 
 
 For investigators, timing matters. A witness who reports a light disappearing at a precise point in the sky gives a potentially measurable event. Satellite tracking software can reconstruct whether a known object crossed the shadow boundary at that moment from that location.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-2-dark.svg" | relative_url }}" alt="Satellite Flares illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Starlink and modern constellations complicate sightings
 
@@ -359,7 +355,6 @@ Large constellations such as Starlink have increased the number of visible satel
 Researchers studying Starlink brightness have found that illumination changes strongly with viewing angle, satellite orientation, and twilight conditions. Some satellites become much brighter at specific positions in the sky due to specular reflection, meaning mirror-like reflection concentrated in a narrow direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2401.01546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span><span class="citation-popover-snippet">arXiv Starlink Mini Satellite Brightness Distributions Across the Sky</span></span></span>
 
 This creates several recurring witness scenarios:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,7 +369,6 @@ Importantly, brightness can vary enough that a witness may only notice the flare
 
 Astronomical studies also show that twilight conditions are especially important. Satellite visibility increases near the day-night boundary because the observer is dark-adapted while the spacecraft remains sunlit above the atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amostech.com/TechnicalPapers/2024/SDA-Systems-and-Instrumentation/Caddy.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amostech.com">[AMOS Conference]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amostech.com</span><span class="citation-popover-snippet">AMOS ConferenceA Surprising Boost in Starlink Satellite Brightness at Optical...by SE Caddy · 2024 · Cited by 5 — In addition, when rest...</span></span></span> 2arXiv
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LzzROZzjTyw" title="Iridium Flares Are Disappearing From The Skies" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LzzROZzjTyw" target="_blank" rel="noopener noreferrer">Iridium Flares Are Disappearing From The Skies</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 283.4K &middot; Uploaded: September 2018 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LzzROZzjTyw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LzzROZzjTyw">Open on YouTube</a></p></div></div></div>
 
 ## Distinguishing flares from aircraft lights
@@ -382,7 +376,6 @@ Astronomical studies also show that twilight conditions are especially important
 Misidentification becomes less likely when investigators focus on behaviour rather than just appearance.
 
 A satellite flare usually has several characteristics that differ from aircraft: <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -399,7 +392,6 @@ Aircraft, by contrast, often show changing relative motion, colour variation, re
 Investigators should also examine witness language carefully. Reports describing a light “powering up” or “accelerating” may actually reflect human perception reacting to brightness change rather than true motion change. A flare reaching peak intensity can create the illusion of approach even when orbital speed remains constant.
 
 AI-assisted [review]({{ 'review/' | relative_url }}) systems can help by comparing descriptions against known behavioural templates. A report matching the sequence “steady motion → sudden brightening → abrupt disappearance” has a strong satellite-flare signature, especially near twilight.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-3-dark.svg" | relative_url }}" alt="Satellite Flares illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The role of timing in UFO case triage
@@ -813,6 +805,7 @@ That distinction is central to balanced UFO analysis. Satellite flare checks are
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

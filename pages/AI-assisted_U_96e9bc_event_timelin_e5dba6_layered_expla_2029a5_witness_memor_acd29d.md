@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_20
 
 A layered UFO timeline is not only useful for comparing witness reports against [aircraft]({{ 'aircraft/' | relative_url }}) logs, satellite passes, or [weather]({{ 'weather/' | relative_url }}) records. It also protects the investigation from a quieter problem: memory drift. In many UFO cases, the story changes over days, months, or years without anyone deliberately lying. A witness who first reported “a bright stationary light” may later remember rapid manoeuvres after reading theories online, discussing the event with other witnesses, or repeatedly retelling the story. Small changes in timing, motion, colour, or duration can completely alter which explanations still fit.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-1-dark.svg" | relative_url }}" alt="Memory Drift illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because UFO investigations often depend on narrow timing windows. A two-minute shift can remove a satellite match. A remembered “silent hover” can push an aircraft explanation aside. A later claim of impossible acceleration can transform an ordinary light into an apparently anomalous object. [Layered timelines]({{ 'layered-timeline/' | relative_url }}) keep those changes visible instead of quietly merging them into one evolving narrative. NASA’s UAP study stressed that witness reports become more useful when preserved alongside reliable [metadata]({{ 'metadata/' | relative_url }}) and independent measurements rather than treated as stand-alone proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Reportwitness reports should be considered along with corroborating sensor data in the study of UAP as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set the tone: today&#x27;s ex...</span></span></span>
 
@@ -280,7 +279,6 @@ That matters because UFO investigations often depend on narrow timing windows. A
 The first version of a UFO report is usually the closest record of what the witness actually experienced before outside influence begins to reshape recall. In cognitive psychology, memory is not treated as a perfect replay system. Recalling an event partly reconstructs it. Later information can then become mixed into the remembered experience itself. PMC <span class="citation-chip-wrap"><a class="citation-chip" href="https://content.one.lumenlearning.com/introductiontopsychology/chapter/reading-eyewitness-testimony-and-memory-construction/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: content.one.lumenlearning.com">[Lumen One Content]</a><span class="citation-popover" role="note"><span class="citation-popover-source">content.one.lumenlearning.com</span><span class="citation-popover-snippet">Lumen One ContentLearn It 4—Memory Construction and the Misinformation...When we form new memories, we are engaging in memory constructi...</span></span></span>
 
 That creates a major problem in UFO cases because witnesses are often exposed to interpretation immediately after the sighting:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ The most important feature of a layered timeline is that it reveals when an expl
 
 This often happens subtly. Suppose investigators discover that Venus was visible in the reported direction at the reported time. Witnesses may then begin unconsciously reshaping the original memory around that possibility:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The object is remembered as more stationary.
@@ -321,7 +318,6 @@ This often happens subtly. Suppose investigators discover that Venus was visible
 </div>
 
 The reverse can also happen. If the case becomes associated with dramatic UFO theories, witnesses may later remember details that increase anomaly:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -342,7 +338,6 @@ In UFO cases, this matters because many explanations depend on precise behaviour
 
 One of the strongest warning signs in older UFO cases is retrospective precision. Early accounts are often hesitant:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “I think it moved east.”
@@ -353,7 +348,6 @@ One of the strongest warning signs in older UFO cases is retrospective precision
 </div>
 
 Years later, retellings may become highly specific:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -391,7 +385,6 @@ This is particularly important in famous UAP cases where public commentary becom
 
 The key investigative question is not simply “What do witnesses remember now?” but “When did each remembered detail first appear?”
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-2-dark.svg" | relative_url }}" alt="Memory Drift illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating memory shifts from deliberate fabrication
 
@@ -410,7 +403,6 @@ Instead, the timeline records the progression transparently.
 
 These patterns usually point toward reconstruction rather than fabrication:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * gradual increase in certainty
@@ -420,7 +412,6 @@ These patterns usually point toward reconstruction rather than fabrication:
 * convergence between multiple witnesses after discussion
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PB2OegI6wvI" title="How reliable is your memory? | Elizabeth Loftus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer">How reliable is your memory? | Elizabeth Loftus</a></p><p class="youtube-embed-meta">Channel: TED &middot; Views: 2.7M &middot; Uploaded: September 2013 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PB2OegI6wvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PB2OegI6wvI">Open on YouTube</a></p></div></div></div>
 
@@ -462,7 +453,6 @@ A safer AI-assisted workflow keeps chronology and source attribution rigidly sep
 The AI should never silently merge those layers.
 
 NASA’s emphasis on metadata quality and structured observations becomes especially relevant here. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Reportwitness reports should be considered along with corroborating sensor data in the study of UAP as...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Reportwitness reports should be considered along with corroborating sensor data in the study of UAP as...</span></span></span> AI systems are most reliable when operating on preserved primary records rather than evolving retellings.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-3-dark.svg" | relative_url }}" alt="Memory Drift illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_witness_memor_acd29d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical value of preserving uncertainty
@@ -874,6 +864,7 @@ In practice, many UFO cases become less mysterious once memory drift is separate
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

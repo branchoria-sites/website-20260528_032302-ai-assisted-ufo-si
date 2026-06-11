@@ -318,7 +318,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-overview-social.
 
 Yes. Weather can make a UFO report look much stranger than the object or light that started it. Cloud layers can hide [reference points]({{ 'reference-points/' | relative_url }}), fog can enlarge and soften lights, ice crystals can create pillars and halos, thunderstorms can produce brief upper-atmosphere flashes, and temperature [inversions]({{ 'inversions/' | relative_url }}) can bend light or confuse older radar returns. In an AI-assisted UFO sighting investigation, weather is therefore not a side note; it is one of the first checks that determines whether a raw sighting becomes a solved case, a plausible mundane explanation, or a genuinely unresolved event.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-overview.webp" | relative_url }}" alt="Overview image for Weather" loading="eager" decoding="sync" fetchpriority="high">
 The key is not to dismiss witnesses with “it was just weather”. Atmospheric effects can be real, photographable and surprising. Some are rare enough that a reasonable observer may never have seen them before. A good [case file]({{ 'case-file/' | relative_url }}) treats weather as supporting evidence: it asks whether the reported shape, colour, motion, brightness, duration and direction match the atmospheric conditions at that exact place and time.
 
@@ -329,7 +328,6 @@ Cloud and fog matter because they change what the witness can see around the lig
 This is especially important in short witness accounts. Phrases such as “it disappeared into a cloud”, “it was glowing inside the mist”, “it hovered above the hill”, or “it had no visible body” should trigger a visibility check before more unusual explanations are considered. Fog is not merely “bad weather”; aviation meteorology treats it as a cloud at the surface that can seriously reduce visibility, and official aviation weather systems track visibility, cloud base, wind, temperature, dew point and precipitation precisely because those conditions affect what pilots and observers can see. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.navcanada.ca/en/aviation-weather-services-guide.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: navcanada.ca">[navcanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">navcanada.ca</span><span class="citation-popover-title">aviation weather services guide</span><span class="citation-popover-snippet">August 11, 2017 — AWOS has a full suite of sensors that measures cloud base height, sky cover, visibility, temperature, dew point, wind v...</span><span class="citation-popover-meta">Published: August 11, 2017</span></span></span>
 
 For UFO investigation, the practical weather questions are simple:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,7 +342,6 @@ For UFO investigation, the practical weather questions are simple:
 Lenticular clouds are the most visually obvious cloud-related example. The Met Office notes that these smooth, lens-shaped clouds form downwind of hills or mountains when moist air rides over standing waves, and that their “flying saucer” shape has made them one of the common explanations for UFO sightings worldwide. They can look artificial because they are smooth, isolated and apparently stationary, even though the air is moving through the wave. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That does not mean every saucer-shaped report is a lenticular cloud. The match is strongest when the sighting occurs near mountains or hills, in windy stable air, with a smooth oval or stacked-disc shape that remains fixed relative to the terrain. It is weaker when the report describes sharp turns, close-range structure, sound, multiple independent angles, radar correlation, or movement inconsistent with local wind and cloud behaviour. AI can help by comparing the witness description with terrain, wind direction, cloud type, satellite imagery and nearby reports, but it should keep the result as “consistent with lenticular cloud” rather than overstate it as proof.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-1-dark.svg" | relative_url }}" alt="Weather illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sprites, reflections, and optical effects
@@ -364,7 +361,6 @@ This remains disputed in some historical cases, and that is precisely why a mode
 Sprites, elves and other transient luminous events belong in a different category. They are not reflections of ordinary lights, but brief electrical phenomena above thunderstorms. NOAA’s National Severe Storms Laboratory describes sprites as large, weak, usually red discharges above active thunderstorms, often linked to powerful positive cloud-to-ground lightning, extending up to around 60 miles from the cloud top and lasting no more than a few seconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a witness, such a flash can seem otherworldly: high above a storm, silent, coloured, and gone almost instantly. For an investigator, the check is highly specific. Was there a thunderstorm in the right direction? Was there major lightning at the same moment? Did the report describe a red, jellyfish-like, column-like, ring-like or branching flash rather than a continuous craft? If yes, an AI workflow can correlate the sighting time with lightning detection networks, weather radar and storm-cell position. If not, sprites should not be forced into the explanation.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-2-dark.svg" | relative_url }}" alt="Weather illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weather data as supporting evidence
@@ -386,7 +382,6 @@ AI is useful here because the work is repetitive and time-sensitive. It can pull
 
 The most important output is not a single label, but a transparent confidence note. A good weather module might say: “Low cloud and mist were present; the object was reported near the horizon; a bright airport approach path lay in the same direction; apparent pulsing could be consistent with aircraft lights seen through cloud. Weather explanation: plausible, not confirmed.” That is more useful than either credulous mystery-making or premature debunking.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dUB8TybhftM" title="NASA releases independent report on UAPS" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer">NASA releases independent report on UAPS</a></p><p class="youtube-embed-meta">Channel: CBS Chicago &middot; Views: 1.7K &middot; Uploaded: September 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dUB8TybhftM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dUB8TybhftM">Open on YouTube</a></p></div></div></div>
 
 ## When weather explains the strangeness — and when it does not
@@ -398,7 +393,6 @@ They are weaker when they only explain one small part of a richer report. If wit
 This is where AI-assisted investigation needs careful language. “Weather was present” is not the same as “weather caused the sighting”. “Consistent with a halo” is not the same as “identified”. “No local fog report found” is not the same as “visibility was clear along the witness’s line of sight”. A balanced workflow should keep confirmed data, witness claims, analyst inference and case status separate.
 
 Weather can make a UFO look stranger, but it can also make an investigation better. It gives analysts testable mechanisms, time-stamped records and physical constraints. When the atmospheric match is strong, it can resolve a case without insulting the witness. When the match is weak, it helps narrow what remains unusual. Either way, weather and atmospheric optics belong near the top of the screening process for any dated, located UFO or UAP sighting.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-3-dark.svg" | relative_url }}" alt="Weather illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -793,6 +787,7 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -925,4 +920,4 @@ Weather can make a UFO look stranger, but it can also make an investigation bett
 
 28. <a id="endnote-28"></a>
    Source: byjus.com  
-   Link: <a href="https://byjus.com/physics/atmospheric-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://byjus.com/physics/atmospheric-optical-phenomena/</a>  
+   Link: <a href="https://byjus.com/physics/atmospheric-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://byjus.com/physics/atmospheric-optical-phenomena/</a>

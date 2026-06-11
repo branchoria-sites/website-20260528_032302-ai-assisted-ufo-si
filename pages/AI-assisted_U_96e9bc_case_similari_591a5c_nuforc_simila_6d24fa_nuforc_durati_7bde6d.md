@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d
 
 In UFO reporting, duration is often more useful than shape. A witness may describe an “orb”, “triangle”, or “bright object”, but those labels are subjective and heavily influenced by distance, darkness, and expectation. Time behaves differently. A light visible for two seconds suggests a very different explanation from one observed for twenty minutes. That is why NUFORC report comparisons become much more powerful when investigators sort sightings by duration and motion together rather than appearance alone. NUFORC <span class="citation-chip-wrap"><a class="citation-chip" href="https://nuforc.org/ndx/?id=loc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[DataHerb For AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">NUFORC Reports by LocationNUFORC Reports by Location. LOCATION, REPORT COUNT. USA - Unspecified, 119. USA - Alaska, 675. USA - Alabama, 1...</span></span></span>, duration acts as a filtering mechanism. Extremely short events often match meteors, bolides, electrical flashes, or brief re-entry fragments. Long steady observations frequently align with satellites, [aircraft]({{ 'aircraft/' | relative_url }}), lanterns, [bright planets]({{ 'bright-planets/' | relative_url }}), or hovering drones. Medium-duration reports involving abrupt acceleration or repeated directional changes are usually where investigators spend more attention, because those accounts fit fewer ordinary patterns cleanly. Duration does not “prove” a sighting is unusual, but it sharply narrows the range of likely explanations.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-1-dark.svg" | relative_url }}" alt="In UFO Reporting, Duration illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Short Flashes Versus Long Observations
 
@@ -312,7 +311,6 @@ Bright astronomical objects are a classic example. Venus near the horizon can ap
 
 Aircraft produce another recurring duration pattern. A jet approaching directly toward an observer at night may show only [landing lights]({{ 'landing-lights/' | relative_url }}), creating the illusion of a stationary glowing object. Once the aircraft changes heading, the light suddenly appears to accelerate sideways or disappear. In NUFORC-style comparison work, these reports often share several traits:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * observations lasting between 2 and 15 minutes
@@ -334,7 +332,6 @@ Lantern sightings often generate emotionally compelling reports because they app
 
 Typical lantern reports involve:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * steady movement with no sudden acceleration
@@ -352,7 +349,6 @@ NUFORC archives show similar repetition. Once investigators compare many reports
 
 This is where AI-assisted comparison becomes useful. Instead of focusing on keywords like “orb” or “craft”, an automated system can weight:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * observation length
@@ -366,7 +362,6 @@ This is where AI-assisted comparison becomes useful. Instead of focusing on keyw
 </div>
 
 A report lasting eight minutes with slow wind-consistent drift scores very differently from a two-second flash crossing the entire sky.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-2-dark.svg" | relative_url }}" alt="In UFO Reporting, Duration illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Meteors Rarely Match Long UFO Reports
@@ -396,7 +391,6 @@ Machine-learning approaches also benefit from duration because textual descripti
 
 In practice, duration weighting often pushes investigations rapidly toward ordinary explanations:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Long stationary observations** → astronomy checks first
@@ -409,7 +403,6 @@ In practice, duration weighting often pushes investigations rapidly toward ordin
 
 Only after those categories fail to fit cleanly does a case usually remain genuinely unresolved.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-3-dark.svg" | relative_url }}" alt="In UFO Reporting, Duration illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_nuforc_simila_6d24fa_nuforc_durati_7bde6d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Duration Still Has Limits
 
@@ -420,7 +413,6 @@ There are also ambiguous cases where duration alone cannot distinguish explanati
 NUFORC itself warns that not every report should be accepted uncritically, and the archive contains mistaken observations, hoaxes, [incomplete]({{ 'incomplete-data/' | relative_url }}) descriptions, and retrospective accounts filed years after the event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/databank/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-title">Data Bank &#124; NUFORC</span><span class="citation-popover-snippet">Data Bank &#124; NUFORC - Latest UFO SightingsThe NUFORC Databank is the largest independently collected set of UFO / UAP sighting repor...</span></span></span>
 
 That is why serious investigation treats duration as one clue among many rather than a standalone answer. The most reliable assessments combine timing with:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -828,6 +820,7 @@ Still, among all witness-reported variables, duration consistently remains one o
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

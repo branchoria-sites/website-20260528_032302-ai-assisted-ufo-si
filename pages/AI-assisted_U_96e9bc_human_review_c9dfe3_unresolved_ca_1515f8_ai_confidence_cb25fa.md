@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_151
 
 AI systems used in UFO or UAP investigations often produce [confidence]({{ 'confidence/' | relative_url }}) scores that look precise and scientific: “92% likely [aircraft]({{ 'aircraft/' | relative_url }})”, “87% likely satellite”, or “high-confidence classification”. The problem is that these numbers can appear far more reliable than the underlying evidence actually is.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-1-dark.svg" | relative_url }}" alt="AI Scores illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In many UFO investigations, the raw material is weak from the start: compressed phone video, missing metadata, uncertain timestamps, witness memory gaps, atmospheric distortion, or [incomplete]({{ 'incomplete-data/' | relative_url }}) radar information. NASA’s independent UAP study warned that current analysis is frequently limited by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata, lack of multiple measurements, and weak baseline data. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space In that environment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>, an AI-generated confidence score can create a false impression that uncertainty has been solved mathematically when it has merely been hidden behind software output.
 
@@ -314,7 +313,6 @@ Human investigators are not immune to the persuasive effect of numerical output.
 
 An investigator reviewing dozens of sightings may unconsciously defer to the machine-generated score, especially when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the software output appears mathematically detailed;
@@ -354,7 +352,6 @@ This is a well-known machine-learning problem called out-of-distribution behavio
 
 In practical UFO work, this means:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * unusual camera artefacts may be labelled as drones;
@@ -365,7 +362,6 @@ In practical UFO work, this means:
 </div>
 
 The danger is not just misclassification. It is misplaced certainty.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-2-dark.svg" | relative_url }}" alt="AI Scores illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Bias toward “ordinary” explanations can hide unresolved cases
@@ -388,7 +384,6 @@ If a training set contains disproportionate numbers of dramatic UFO clips, heavi
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * autofocus pulsing may be interpreted as shape-shifting;
@@ -401,7 +396,6 @@ For example:
 An AI system trained on sensationalised examples can become biased toward anomaly detection even when the raw evidence is weak.
 
 This is especially dangerous in social-media-driven investigations, where viral clips often circulate without [original files]({{ 'original-files/' | relative_url }}), metadata, or independent corroboration.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zSNQTfKGvhE" title="Meelis Kull: &quot;Calibration and confidence in Machine Learning&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zSNQTfKGvhE" target="_blank" rel="noopener noreferrer">Meelis Kull: &quot;Calibration and confidence in Machine Learning&quot;</a></p><p class="youtube-embed-meta">Channel: University of Tartu Institute of Computer Science &middot; Views: 1.3K &middot; Uploaded: September 2022 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zSNQTfKGvhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zSNQTfKGvhE">Open on YouTube</a></p></div></div></div>
 
@@ -433,14 +427,12 @@ Before treating a confidence score as meaningful, investigators should verify:
 
 Without those checks, a numerical score may simply reflect software certainty rather than evidential strength.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-3-dark.svg" | relative_url }}" alt="AI Scores illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_ai_confidence_cb25fa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Confidence should decrease when evidence quality decreases
 
 One of the clearest warning signs in UFO analysis is when a system produces strong certainty from weak material.
 
 A reliable investigative workflow should behave in the opposite way:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -454,7 +446,6 @@ A reliable investigative workflow should behave in the opposite way:
 NASA’s UAP study repeatedly emphasised that better calibration, multiple measurements, and improved metadata collection are essential for meaningful analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 In practice, that means an honest AI-assisted investigation may end with:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -876,6 +867,7 @@ A UFO case does not become solved because software expresses confidence. It beco
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

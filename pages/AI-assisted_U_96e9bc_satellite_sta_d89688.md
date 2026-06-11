@@ -324,7 +324,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-overview-social.
 
 Satellite and [Starlink checks]({{ 'starlink-checks/' | relative_url }}) are one of the fastest ways to turn an unusual sky-light report from “mysterious” into “testable”. A line of evenly spaced lights, a bright point that fades suddenly, a slow cluster breaking up across the sky, or a glowing spiral near twilight can all have orbital explanations. That does not mean every sighting is “just a satellite”, but it does mean an AI-assisted UFO investigation should check orbital context early, using the witness’s time, location, direction, [elevation]({{ 'elevation/' | relative_url }}), duration, and any video metadata.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-overview.webp" | relative_url }}" alt="Overview image for Satellites" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not simply “was a satellite somewhere overhead?” It is whether a predicted pass, launch train, flare, rocket body, or re-entry fits the reported [geometry]({{ 'geometry/' | relative_url }}) closely enough to explain what the witness actually saw. Good satellite work can rule in a mundane explanation, rule one out, or leave a careful “possible but not proven” result.
 
@@ -336,7 +335,6 @@ That geometry matters in UFO investigation because witnesses often judge distanc
 
 Starlink has made this check more important because the constellation is large and frequently replenished. Jonathan McDowell’s Starlink statistics page tracks individual Starlink satellites and their orbital history, with data updated as recently as May 2026 in the live table viewed for this report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planet4589.org/space/con/star/stats.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planet4589.org">[Planet 4589]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planet4589.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Heavens-Above also lists Starlink launch-pass predictions, daily bright-satellite predictions, live sky views, and satellite databases, showing the kind of observer-specific tools that can be used to test a sighting rather than rely on guesswork. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Heavens-Above...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V8lWQrtLQvE" title="How to Track the ISS with Heavens-Above.com" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V8lWQrtLQvE" target="_blank" rel="noopener noreferrer">How to Track the ISS with Heavens-Above.com</a></p><p class="youtube-embed-meta">Channel: Space Comms &middot; Views: 15.1K &middot; Uploaded: August 2016 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V8lWQrtLQvE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V8lWQrtLQvE">Open on YouTube</a></p></div></div></div>
 
 ## Lines, flares, and low-horizon tracks
@@ -344,7 +342,6 @@ Starlink has made this check more important because the constellation is large a
 The classic Starlink sighting is a “train”: a string of lights moving together across the sky. This is most likely soon after launch, when satellites have not yet spread into their operational arrangement. To a witness, the pattern can feel artificial, silent, and unfamiliar: many points moving at the same pace, often in a near-straight line, without aircraft-style navigation lights.
 
 A strong case-file intake should therefore ask for the exact pattern, not just “lights in the sky”. The most useful descriptors are:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,14 +357,12 @@ The March 2025 spiral seen across parts of the UK and Europe is a useful caution
 
 Re-entries form a different pattern. The Aerospace Corporation explains that natural meteors usually last only seconds, while human-made re-entries are slower and can last 20–90 seconds or more; a tight cluster of bright points moving together and leaving streaks is very probably a re-entry breakup. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Its CORDS re-entry database documents payloads and objects that have re-entered Earth’s atmosphere since 2000 and can be sorted by object, mission, type, launch date, and predicted re-entry time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerospace.org/article/what-does-reentry-look-like" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerospace.org">[The Aerospace Corporation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerospace.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-dark.svg" | relative_url }}" alt="Satellites illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using orbital predictions carefully
 
 An AI-assisted workflow should treat satellite prediction as a matching problem, not a keyword search. The input is the sighting [case file]({{ 'case-file/' | relative_url }}); the output is a set of candidate orbital events with [confidence]({{ 'confidence/' | relative_url }}) notes.
 
 A practical workflow looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -385,7 +380,6 @@ The biggest technical trap is stale [orbital data]({{ 'orbital-data/' | relative
 
 That limitation is not fatal for public UFO case triage. A kilometre-scale orbital uncertainty is often small compared with a witness’s uncertainty about time, bearing, and elevation. But it matters when analysts try to make a very tight claim, such as “this exact light in the video is satellite X”. In those cases, the workflow should prefer archived orbital elements close to the sighting time, multiple prediction tools, and explicit error margins.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/03pZdYVacaM" title="What is a Satellite?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=03pZdYVacaM" target="_blank" rel="noopener noreferrer">What is a Satellite?</a></p><p class="youtube-embed-meta">Channel: SciShow Kids &middot; Views: 652.1K &middot; Uploaded: January 2018 &middot; Length: 3 minutes 37 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=03pZdYVacaM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=03pZdYVacaM">Open on YouTube</a></p></div></div></div>
 
 ## What makes a satellite match strong
@@ -393,7 +387,6 @@ That limitation is not fatal for public UFO case triage. A kilometre-scale orbit
 A strong satellite or Starlink explanation is not just a name pulled from a tracker. It has several independent alignments.
 
 The most persuasive matches usually include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -410,14 +403,12 @@ A weak match may still be useful, but it should not be overstated. “There were
 
 This is where AI helps most. It can compare the sighting against multiple satellite candidates, rank them by time and sky-position fit, flag contradictions, and generate a clear audit trail. The human investigator still needs to check whether the witness’s description has been forced to fit the data.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-2-dark.svg" | relative_url }}" alt="Satellites illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What satellite checks cannot prove
 
 A satellite match can be very strong, but it rarely proves everything about a sighting. It can show that a known object should have been visible from a given place and time. It cannot prove that the witness looked at that object unless the video, bearing, timing, and visual behaviour align closely.
 
 There are also several common failure modes:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -432,7 +423,6 @@ There are also several common failure modes:
 
 NASA’s UAP work is relevant here because it frames the problem as one of data quality. NASA says its UAP study focused on identifying available data, how best to collect future data, and how NASA could use that data to move understanding forward; the final report was presented as a step towards more systematic, evidence-led analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP</span><span class="citation-popover-snippet">Science UAP</span></span></span> In a satellite check, that means preserving the raw witness account while adding verifiable orbital context, rather than replacing one unsupported claim with another.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
 ## How AI should present the result
@@ -444,7 +434,6 @@ A useful case-file entry might say: “A Starlink train from launch group X was 
 A weaker entry might say: “Several satellites were visible during the hour, but none matched the reported low northern track or the object’s apparent stationary phase. Satellite explanation remains possible but not demonstrated.”
 
 This distinction is central to public-facing UFO investigation. Satellite checks are not sceptical box-ticking; they are evidence handling. When they work, they can resolve a dramatic sighting quickly. When they do not, they narrow the problem and show exactly why the case remains unresolved.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-3-dark.svg" | relative_url }}" alt="Satellites illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -839,6 +828,7 @@ This distinction is central to public-facing UFO investigation. Satellite checks
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1086,4 +1076,4 @@ This distinction is central to public-facing UFO investigation. Satellite checks
 
 56. <a id="endnote-56"></a>
    Source: x.com  
-   Link: <a href="https://x.com/spacegovuk/status/1904464636612628979" target="_blank" rel="noopener noreferrer nofollow">https://x.com/spacegovuk/status/1904464636612628979</a>  
+   Link: <a href="https://x.com/spacegovuk/status/1904464636612628979" target="_blank" rel="noopener noreferrer nofollow">https://x.com/spacegovuk/status/1904464636612628979</a>

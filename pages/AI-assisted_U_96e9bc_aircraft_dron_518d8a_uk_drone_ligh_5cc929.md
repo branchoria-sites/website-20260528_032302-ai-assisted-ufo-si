@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5c
 
 A surprising number of night-time UFO reports in the UK now overlap with a very specific aviation question: was the witness actually seeing a legally operated drone? Since January 2026, UK Civil Aviation Authority (CAA) rules have added two particularly useful clues for investigators. One is visual: drones flown at night in the Open Category are expected to show a green flashing light. The other is digital: many drones are now required to broadcast [Remote ID]({{ 'remote-id/' | relative_url }}) data, effectively a short-range electronic identifier. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-1-dark.svg" | relative_url }}" alt="UK drone rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For UFO case analysis, these rules matter because they convert vague descriptions such as “a hovering flashing object” into more testable questions. Was the light green? Did it pulse regularly like an anti-collision beacon? Was the object low, local and slow enough to fit typical drone operations? Could police, event security staff or nearby operators have detected a Remote ID broadcast? These checks do not solve every sighting, but they help investigators separate likely drone activity from more unusual cases much faster.
 
@@ -305,7 +304,6 @@ For UFO investigations, this creates a practical screening question that did not
 Most consumer drones already carry LEDs for orientation and visibility, but the new UK requirement specifically focuses on a green flashing anti-collision light during night operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heliguy.com/blogs/posts/drones-at-night-identification-safety-and-uk-regulations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heliguy.com">[Heliguy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heliguy.com</span><span class="citation-popover-title">Consumer drones typically use small</span><span class="citation-popover-snippet">Drones at night: identification, safety, and UK regulations30 Apr 2026 — In the UK Open Category, drones must display a green flas...</span></span></span>
 
 In practice, witnesses may report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,13 +348,11 @@ From 1 January 2028, the requirement broadens substantially. The CAA says Remote
 
 This timeline matters when reviewing older UFO reports. A sighting from 2023 cannot reasonably be checked for mandatory UK Remote ID compliance. A report from 2026 or 2027 may involve only partial adoption. A report after 2028 potentially allows much stronger questions about whether a lawful drone should have been broadcasting identification data.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/orWpINgj3Og" title="UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer">UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More</a></p><p class="youtube-embed-meta">Channel: Ian in London &middot; Views: 113.6K &middot; Uploaded: January 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=orWpINgj3Og">Open on YouTube</a></p></div></div></div>
 
 ### What Remote ID actually transmits
 
 Remote ID systems generally broadcast:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -371,7 +367,6 @@ Remote ID systems generally broadcast:
 Sources discussing the UK framework repeatedly stress that the system is intended for airspace safety and accountability rather than public surveillance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open CategoryFrom 1 January 2026, drones operated at night in the Open Category must be eq...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://dronedj.com/2026/01/01/uk-drone-rules-remote-id/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronedj.com">[DroneDJ For investigators]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronedj.com</span><span class="citation-popover-title">uk drone rules remote id</span><span class="citation-popover-snippet">UK introduces class marks and Remote ID for drones1 Jan 2026 — In the UK, Remote ID will become mandatory for class-marked drones startin...</span></span></span>, the important operational limitation is range. Remote ID is not a nationwide public radar feed. Detection usually depends on nearby receivers, compatible apps or enforcement equipment within local distance of the aircraft.
 
 That means a witness cannot assume that “no Remote ID record exists” proves the object was anomalous. The signal may simply never have been captured.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-2-dark.svg" | relative_url }}" alt="UK drone rules illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How rule checks fit a UFO case file
@@ -401,7 +396,6 @@ For UK night sightings after January 2026, investigators can add several targete
 
 These questions are more useful than simply asking whether “a drone was possible”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-3-dark.svg" | relative_url }}" alt="UK drone rules illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI can help classify likely drone sightings
 
@@ -428,7 +422,6 @@ This is especially useful because drone sightings often generate local UFO waves
 Even with new rules, many night sightings remain difficult to classify confidently.
 
 Important limitations include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -844,6 +837,7 @@ That does not eliminate uncertainty. But it does make the first stage of UFO tri
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6
 
 In official UFO and UAP investigations, “unresolved” does not mean “confirmed extraordinary craft”. It usually means something much narrower and less dramatic: investigators do not have enough reliable information to identify the object with [confidence]({{ 'confidence/' | relative_url }}). NASA and the US Department of Defense’s All-domain Anomaly Resolution Office (AARO) have repeatedly stressed that poor-quality data, missing metadata, limited sensor coverage, and [incomplete]({{ 'incomplete-data/' | relative_url }}) contextual information are the main reasons many reports remain open. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • Although many UAP/UFO cases remain unsolved, based on the lack...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-1-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters for AI-assisted UFO sighting investigation. A [case file]({{ 'case-file/' | relative_url }}) that lacks altitude estimates, precise timestamps, camera specifications, [weather]({{ 'weather/' | relative_url }}) conditions, or corroborating observations may be impossible to classify accurately, even if the footage appears unusual. An unresolved label can therefore reflect uncertainty in the evidence rather than evidence of something exotic.
 
@@ -291,7 +290,6 @@ NASA’s independent UAP study identified several recurring problems that weaken
 These gaps create major analytical limits. A bright point in infrared footage may appear to accelerate suddenly, for example, but without accurate information about camera zoom, aircraft motion, sensor mode, viewing angle, and atmospheric conditions, apparent motion can easily be an illusion created by parallax, autofocus shifts, or tracking instability.
 
 This is one reason AARO avoids treating unresolved cases as proof of anomalous technology. Official language often separates reports into categories such as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -319,7 +317,6 @@ Many unresolved sightings share the same structural pattern:
 * no [original files]({{ 'original-files/' | relative_url }}) available
 
 In practical terms, this means there may never be enough information to determine whether the object was:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -373,14 +370,12 @@ That wording is important. It shows that unresolved status can coexist with appa
 
 In other words, an object may remain unidentified while still not displaying evidence of breakthrough propulsion, impossible acceleration, or exotic capabilities.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-2-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How classified data limits public analysis
 
 Another reason unresolved UFO reports attract speculation is that the public rarely sees the full dataset.
 
 Military and intelligence systems often collect information that cannot be released publicly because it would reveal:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -424,7 +419,6 @@ An automated system trying to estimate object speed from a social-media upload m
 
 NASA repeatedly stressed that metadata and multiple measurements are often more valuable than visually dramatic footage alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-3-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_unresolved_uf_ac86f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why cautious language matters in official reports
 
@@ -433,7 +427,6 @@ Official UFO investigations increasingly use restrained language because past pu
 NASA’s UAP programme explicitly described a goal of moving discussion “from sensationalism to science”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
 That shift affects how agencies frame unresolved cases. Terms such as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -876,6 +869,7 @@ Official investigations increasingly treat unresolved status as a signal for cau
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

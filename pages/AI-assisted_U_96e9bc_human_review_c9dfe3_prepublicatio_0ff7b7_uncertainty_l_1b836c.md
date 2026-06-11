@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff
 
 A weak UFO explanation often becomes “accepted fact” not because the evidence is strong, but because uncertainty quietly disappears during retelling. An AI-generated summary may begin with a cautious match to an [aircraft]({{ 'aircraft/' | relative_url }}), satellite or atmospheric effect, yet end up circulating online as a definitive identification. The problem is rarely outright fabrication. More often, the system treats estimated details as measured facts, smooths over [missing data]({{ 'missing-data/' | relative_url }}), or compresses disagreement into a single confident narrative.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-1-dark.svg" | relative_url }}" alt="Uncertainty labels illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Clear uncertainty labels are therefore not cosmetic wording. They are a core evidence-handling tool in AI-assisted UFO investigation. A public-facing case summary should make it obvious which details were directly measured, which were witness estimates, which were inferred by software, and which remain unknown. NASA’s UAP study stressed that many investigations are weakened by poor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and lack of multiple measurements, while AARO has repeatedly noted that unresolved cases often remain unresolved because available data is insufficient for rigorous analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">The US Defense Department &amp; The UAP MissionMany cases in AARO&#x27;s holdings remain unresolved because of a lack of verifiable data. Case...</span></span></span>
 
@@ -293,7 +292,6 @@ Witnesses are usually poor judges of speed and distance at night. A small nearby
 
 A safer public wording is:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * “Apparent rapid motion reported by witness”
@@ -310,7 +308,6 @@ That language keeps the claim attached to the evidence quality.
 
 A strong uncertainty label distinguishes between:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “Witness did not report hearing sound”
@@ -326,7 +323,6 @@ Only the final statement implies an actual measured absence of sound.
 Many UFO explanations depend heavily on exact timing. A satellite pass, aircraft movement or re-entry event may appear convincing only if the reported time is accurate to the minute. But witnesses often reconstruct timing after the event.
 
 Public summaries should therefore explicitly state timing quality:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -364,7 +360,6 @@ This is especially important because research on uncertainty communication shows
 
 A more honest phrasing is usually qualitative:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “Most consistent with commercial aircraft”
@@ -374,7 +369,6 @@ A more honest phrasing is usually qualitative:
 </div>
 
 These statements communicate direction without pretending to impossible precision.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-2-dark.svg" | relative_url }}" alt="Uncertainty labels illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Readers need to know what could change the conclusion
@@ -404,7 +398,6 @@ A weak explanation can harden through several stages:
 5. Tentative match becomes “debunked” or “confirmed”
 
 Once that process begins, later corrections rarely travel as widely as the original claim.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-3-dark.svg" | relative_url }}" alt="Uncertainty labels illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_uncertainty_l_1b836c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Compression removes nuance first
@@ -450,7 +443,6 @@ AARO has repeatedly stated that many UAP cases remain unresolved because the ava
 That distinction matters. “Unresolved” does not mean alien craft, secret technology or debunked hoax. It simply means the evidence cannot support a stable conclusion.
 
 Public AI summaries should therefore resist the pressure to always provide closure. In some cases, the most accurate statement is:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -874,6 +866,7 @@ NASA’s UAP work repeatedly emphasised that high-quality, standardised data is 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

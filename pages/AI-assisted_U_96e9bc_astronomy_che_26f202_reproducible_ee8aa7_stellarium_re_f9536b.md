@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8
 
 A UFO sky reconstruction only becomes useful evidence when another investigator can reproduce the same result independently. A Stellarium screenshot on its own is not enough. The apparent position of Venus, the brightness of Jupiter, the visibility of satellites, the horizon line, atmospheric haze, star labels, field of view and even the software’s astronomical datasets can all change the final image. If those settings are not preserved alongside the screenshot, later investigators may generate a different sky and reach a different conclusion.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-1-dark.svg" | relative_url }}" alt="Stellarium Logs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters directly in AI-assisted UFO sighting investigation workflows. Automated [astronomy]({{ 'astronomy/' | relative_url }}) checks often rely on Stellarium or similar planetarium software to test whether a witness may have seen a planet, star, meteor, satellite or aircraft light. Years later, however, a saved PNG image without metadata becomes [weak evidence]({{ 'weak-evidence/' | relative_url }}). Repeatable reconstructions require preserved settings, version records, coordinates, time conversions and ephemeris information so that the same sky can be regenerated and audited properly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">user guideWe hope speech output in your language and your operating system is becoming usable. but there are factors which we...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium Astronomy SoftwareStellarium is a planetarium software that shows exactly what you see when you look up at the stars. It&#x27;s eas...</span></span></span>
 
@@ -286,7 +285,6 @@ This matters directly in AI-assisted UFO sighting investigation workflows. Autom
 Investigators regularly post annotated Stellarium images online to argue that a UFO was “clearly Venus” or “obviously a satellite”. The problem is that two Stellarium installations can display noticeably different skies depending on configuration and catalogue settings. Even experienced users have documented differences between Stellarium desktop and web versions, including different star visibility and database behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cloudynights.com/forums/topic/725586-stellarium-web-vs-desktop-question-on-fov-limits-and-other-differences/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudynights.com">[Cloudy Nights]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudynights.com</span><span class="citation-popover-title">Cloudy Nights Stellarium web vs</span><span class="citation-popover-snippet">desktop: question on FOV limits and...August 25, 2020 — 25 Aug 2020 — For example, I can &quot;zoom in&quot; and resolve Albaldah into a double st...</span><span class="citation-popover-meta">Published: August 25, 2020</span></span></span>
 
 A screenshot also hides critical context:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -302,7 +300,6 @@ A screenshot also hides critical context:
 </div>
 
 Without those details, the image becomes difficult to verify scientifically. A later reviewer cannot reliably distinguish between:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -324,7 +321,6 @@ Time handling creates some of the largest reconstruction errors. Stellarium can 
 
 A repeatable reconstruction should preserve:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * witness-reported local time,
@@ -342,7 +338,6 @@ Historical reconstructions also become sensitive to long-term ephemeris calculat
 
 Two screenshots may look identical while being generated from different coordinates. For UFO investigations, this matters because:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * terrain can block low-altitude objects,
@@ -359,7 +354,6 @@ The reconstruction record should therefore include:
 * and whether coordinates came from GPS, mapping estimates or witness recollection.
 
 A moving witness creates an additional complication. A driver observing a “hovering UFO” from a motorway may actually be watching Venus appear stationary because of motion parallax. In such cases, a single fixed observer point may be misleading.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QUX13lA1Dbg" title="Stellarium a Great Free App to Study the Night Sky. UFO? Use this app to discover what you saw!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QUX13lA1Dbg" target="_blank" rel="noopener noreferrer">Stellarium a Great Free App to Study the Night Sky. UFO? Use this app to discover what you saw!</a></p><p class="youtube-embed-meta">Channel: SelmaTeacher7 - TechGenius Tips &middot; Views: 1.8K &middot; Uploaded: October 2022 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QUX13lA1Dbg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QUX13lA1Dbg">Open on YouTube</a></p></div></div></div>
 
@@ -389,7 +383,6 @@ A common online mistake is to present a Stellarium reconstruction at an unrealis
 
 A repeatable record should therefore preserve:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * exact field of view,
@@ -409,7 +402,6 @@ For UFO work, these overlays can unintentionally bias interpretation. An image c
 
 The reconstruction record should therefore state:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * whether labels were enabled,
@@ -417,7 +409,6 @@ The reconstruction record should therefore state:
 * and whether any overlays were hidden before export.
 
 </div>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-2-dark.svg" | relative_url }}" alt="Stellarium Logs illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Saving ephemeris tables with screenshots
@@ -457,7 +448,6 @@ AI-assisted workflows benefit particularly from structured exports because they 
 
 A screenshot alone cannot support that kind of automated verification.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5ddQDw-COX4" title="Stellarium with Sky Surveys: Astrophotography Game-Changer!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer">Stellarium with Sky Surveys: Astrophotography Game-Changer!</a></p><p class="youtube-embed-meta">Channel: Frosth Astrophotography &middot; Views: 12.8K &middot; Uploaded: December 2025 &middot; Length: 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5ddQDw-COX4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5ddQDw-COX4">Open on YouTube</a></p></div></div></div>
 
 ## Preserving Stellarium configuration files
@@ -486,7 +476,6 @@ The practical value becomes obvious when revisiting older UFO cases. A reconstru
 Stellarium release notes regularly document changes to internal behaviour, scripting and user data handling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/doc/head/annotated.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Data StructuresStore basic info about a sky culture for Stellarium. CStelSkyCultureMgr, Manage sky cultures for stellarium. C...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/release/2019/03/24/stellarium-0.19.0.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">Stellarium v0.19.0 has been released!Mar 24, 2019 — Added allow setting location of User Data Dir via environment variable. Add...</span></span></span>
 
 A preserved configuration snapshot therefore acts as a historical record of the analytical environment itself.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-3-dark.svg" | relative_url }}" alt="Stellarium Logs illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_stellarium_re_f9536b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Keeping old reconstructions reproducible years later
@@ -518,7 +507,6 @@ Some investigators also preserve:
 * or virtual machine snapshots.
 
 That level of preservation may sound excessive for a casual sighting report, but it becomes important in high-profile or disputed cases where astronomy explanations are central to the debate.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/x9cSpKieSkQ" title="Using Stellarium to Explore the Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer">Using Stellarium to Explore the Sky</a></p><p class="youtube-embed-meta">Channel: Pacific Science Center &middot; Views: 12.3K &middot; Uploaded: January 2024 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=x9cSpKieSkQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=x9cSpKieSkQ">Open on YouTube</a></p></div></div></div>
 
@@ -926,6 +914,7 @@ That distinction matters in balanced UFO investigation work. The goal is not to 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_76
 
 Many towns that develop reputations as “UFO hotspots” sit directly beneath airport approach corridors. Residents repeatedly report bright hovering lights that appear in the same part of the sky, often at similar times of night and sometimes for years. In a large number of cases, the reports are linked to ordinary arriving [aircraft]({{ 'aircraft/' | relative_url }}) approaching a runway almost head-on with powerful [landing lights]({{ 'landing-lights/' | relative_url }}) aimed toward the observer.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-1-dark.svg" | relative_url }}" alt="Approach Paths illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This pattern matters in AI-assisted UFO sighting investigation because it creates a strong source of recurring false positives. A witness may honestly describe a stationary glowing orb, a silent hovering object, or a light that suddenly vanishes, yet the underlying cause may be routine air traffic [geometry]({{ 'geometry/' | relative_url }}) rather than an unusual aerial phenomenon. Modern investigation workflows therefore need to test not only whether aircraft were present, but whether the observer stood close to an extended runway centreline where this illusion repeatedly occurs.
 
@@ -282,7 +281,6 @@ The key point is not that every airport-related report is automatically explaine
 A straight-in aircraft approach can make a fast-moving jet appear almost motionless. The effect comes from line-of-sight geometry rather than from the aircraft actually hovering.
 
 When an aircraft crosses sideways through the sky, the observer sees obvious angular movement. But when the aircraft travels almost directly toward the observer, its apparent position changes very slowly even while it closes distance rapidly. Aviation discussions regularly describe this as a low angular-rate effect. Reddit Metabunk The illusion becomes especially convincing under several common conditions: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/reddit-ufo-3-lights-in-the-sky-ohio-plane-landing-lights.13698/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">reddit ufo 3 lights in the sky ohio plane landing lights.13698</span><span class="citation-popover-snippet">Since they&#x27;re coming nearly directly south they appear perfectly stationary...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ One of the strongest clues in airport-corridor cases is repetition. Reports tend
 
 Common patterns include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Lights appearing in the same sector of sky night after night
@@ -328,13 +325,11 @@ Large airports can produce especially dense clusters because many arrivals follo
 
 This is why some suburbs near major airports develop long-running reputations for mysterious lights even though the underlying trigger is stable and repeatable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tMuz8iCbt0o" title="Mysterious Weird Lights in the Sky | Pilots UFO Reports over Dallas!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tMuz8iCbt0o" target="_blank" rel="noopener noreferrer">Mysterious Weird Lights in the Sky | Pilots UFO Reports over Dallas!</a></p><p class="youtube-embed-meta">Channel: VASAviation - &middot; Views: 134.4K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tMuz8iCbt0o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tMuz8iCbt0o">Open on YouTube</a></p></div></div></div>
 
 ## The geography behind “hovering orb” hotspots
 
 The strongest airport-corridor illusion zones are usually found:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,7 +355,6 @@ Smartphone footage frequently strengthens UFO interpretations because cameras re
 
 Several effects combine:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Autofocus systems struggle against isolated bright lights
@@ -372,7 +366,6 @@ Several effects combine:
 </div>
 
 A distant aircraft on approach may therefore appear on video as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -387,7 +380,6 @@ A distant aircraft on approach may therefore appear on video as:
 In many airport-corridor cases, witnesses notice only the bright landing lights initially. The red and green navigation lights become visible later as the aircraft changes angle relative to the observer. Aviation lighting references explain that landing lights, navigation lights and strobes serve different visibility functions and become prominent under different viewing geometries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-title">aircraft lights</span><span class="citation-popover-snippet">Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">airplane lights</span><span class="citation-popover-snippet">Beacon and strobe lights prevent collisions. · Wing, logo, and formation lights...Read more...</span></span></span>
 
 This transition often appears dramatic to witnesses. A “hovering orb” can suddenly transform into an obvious aircraft within seconds.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-2-dark.svg" | relative_url }}" alt="Approach Paths illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI systems can test airport-corridor explanations
@@ -412,7 +404,6 @@ Historical ADS-B and Mode S flight data can reconstruct aircraft positions minut
 
 The most useful checks involve whether the aircraft was approaching nearly head-on rather than merely being nearby.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DCm_0dsMxg0" title="Pilot gives insight on mysterious lights over Oregon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer">Pilot gives insight on mysterious lights over Oregon</a></p><p class="youtube-embed-meta">Channel: KREM 2 News &middot; Views: 15.8K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DCm_0dsMxg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DCm_0dsMxg0">Open on YouTube</a></p></div></div></div>
 
 ### Repetition analysis
@@ -430,14 +421,12 @@ Automated workflows can estimate whether landing lights would have been visible 
 * Cloud layers
 * Distance from runway <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 2</span><span class="citation-popover-snippet">Aeronautical Lighting and Other Airport Visual...When viewed from the landing threshold, the runway centerline lights are white until th...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-3-dark.svg" | relative_url }}" alt="Approach Paths illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_airport_appro_beebe8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Contradiction testing
 
 A good investigative workflow should also identify when the airport explanation does not fit.
 
 Warning signs include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -475,7 +464,6 @@ A balanced investigation therefore separates:
 * Cases where the aircraft hypothesis performs poorly
 
 This distinction is essential in AI-assisted UFO analysis. The goal is not to dismiss reports automatically, but to identify recurring environmental mechanisms that repeatedly generate convincing false impressions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-lRe1HmtuqM" title="Visual Aids Part 2 - Airport lighting. Approach Lights, Runway lights, taxiway and apron lights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-lRe1HmtuqM" target="_blank" rel="noopener noreferrer">Visual Aids Part 2 - Airport lighting. Approach Lights, Runway lights, taxiway and apron lights</a></p><p class="youtube-embed-meta">Channel: Transportation Engg Talks | Satish IITR &middot; Views: 1.2K &middot; Uploaded: October 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-lRe1HmtuqM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-lRe1HmtuqM">Open on YouTube</a></p></div></div></div>
 
@@ -888,6 +876,7 @@ In many modern cases, flight-track reconstruction resolves the mystery quickly. 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

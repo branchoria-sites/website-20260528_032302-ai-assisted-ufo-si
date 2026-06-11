@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64
 
 The US Navy’s “GoFast” video became one of the defining modern UFO clips because it appeared to show an object racing just above the ocean at extraordinary speed. Yet the case also became a lesson in how quickly public debate can outrun the available evidence when investigators do not have the full [original]({{ 'original-evidence/' | relative_url }}) sensor package.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For independent analysts, the central problem was not simply whether the object was unusual. It was that the public only had access to a short processed clip rather than the complete original recording chain, aircraft telemetry, radar context and associated [metadata]({{ 'metadata/' | relative_url }}). That gap changed what could be tested, what remained uncertain and how confidently people could argue for or against extraordinary explanations. In AI-assisted UFO investigation, GoFast is now one of the clearest examples of why [original files]({{ 'original-files/' | relative_url }}) matter more than viral visibility.
 
@@ -305,7 +304,6 @@ GoFast became difficult because much of that underlying context was absent from 
 
 Independent analysts could read some information directly from the targeting display, including viewing angles and aircraft speed indicators. That allowed partial reconstruction attempts. But missing telemetry left major gaps:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Exact aircraft heading changes
@@ -324,7 +322,6 @@ This became especially important when later Pentagon analysis revisited the clip
 
 That admission mattered because it showed the metadata problem was not merely an internet debate issue. Even official investigators were constrained by missing source material.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLyEO0jNt6M" title="Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer">Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 154.3K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLyEO0jNt6M">Open on YouTube</a></p></div></div></div>
 
 ### Compression reduced analytical confidence
@@ -332,7 +329,6 @@ That admission mattered because it showed the metadata problem was not merely an
 The public clip was also not an untouched raw sensor export. Analysts worked with compressed released footage rather than original acquisition files.
 
 Compression affects:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -349,7 +345,6 @@ For AI-assisted investigation systems, these losses are significant. Automated t
 
 NASA’s independent UAP study warned more broadly that UAP analysis is hindered by poor calibration data, limited measurements and missing sensor metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> GoFast became a practical demonstration of that warning rather than an abstract methodological point.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cwACSrLEPeM" title="Quantum physicists analyze pentagon US navy UFO video footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer">Quantum physicists analyze pentagon US navy UFO video footage</a></p><p class="youtube-embed-meta">Channel: NYU Quantum Technology Lab &middot; Views: 6.8K &middot; Uploaded: June 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cwACSrLEPeM">Open on YouTube</a></p></div></div></div>
 
 ### Independent analysts had to reverse-engineer the scene
@@ -357,7 +352,6 @@ NASA’s independent UAP study warned more broadly that UAP analysis is hindered
 Because the original package was unavailable, outside researchers attempted reconstruction from the visible overlays alone.
 
 Some used trigonometry and estimated geometry based on:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -372,7 +366,6 @@ Some used trigonometry and estimated geometry based on:
 This reverse-engineering approach produced competing interpretations because small assumptions produced large downstream differences.
 
 The result was not simply disagreement over UFOs. It was disagreement over how much confidence was justified from incomplete evidence.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-2-dark.svg" | relative_url }}" alt="Go Fast illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why parallax and context changed the speed claim
@@ -393,7 +386,6 @@ The GoFast clip illustrates a recurring problem in UFO video analysis: viewers i
 
 Several features reinforced the illusion:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The targeting camera remained locked on the object
@@ -408,7 +400,6 @@ Without complete sensor context, many viewers interpreted the apparent motion li
 
 But geometric reconstruction suggested the object may have been:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * farther away than assumed
@@ -420,7 +411,6 @@ But geometric reconstruction suggested the object may have been:
 This changed the discussion from “impossible speed” to “what ordinary object could produce this appearance under these viewing conditions?”
 
 That is a major analytical shift.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-3-dark.svg" | relative_url }}" alt="Go Fast illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_gofast_missin_1d746e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Missing originals made the debate harder to settle
@@ -440,7 +430,6 @@ That is one reason GoFast remained influential long after more technically detai
 GoFast pushed modern UFO investigation toward a more evidence-centric workflow.
 
 Instead of treating dramatic footage as self-explanatory, investigators increasingly focus on whether a sighting includes:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -469,9 +458,7 @@ The case also demonstrated why modern UAP investigation increasingly resembles d
 
 In that sense, GoFast remains important not because it definitively proved or disproved anything extraordinary, but because it exposed how fragile UFO evidence becomes once the original files disappear.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fh3znHctOkA" title="Pentagon claims to debunk famous ‘GOFAST’ UFO radar video, but still has not ID’d mysterious object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fh3znHctOkA" target="_blank" rel="noopener noreferrer">Pentagon claims to debunk famous ‘GOFAST’ UFO radar video, but still has not ID’d mysterious object</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 4.8K &middot; Uploaded: November 2024 &middot; Length: 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fh3znHctOkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fh3znHctOkA">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -864,6 +851,7 @@ In that sense, GoFast remains important not because it definitively proved or di
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

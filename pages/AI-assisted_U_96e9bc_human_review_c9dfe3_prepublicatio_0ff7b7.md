@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff
 
 Before an AI-assisted UFO conclusion is published, the most important question is often not “what did the model find?” but “what survived human challenge?” A polished AI summary can make a weak explanation sound settled, especially when the underlying sighting contains uncertain timings, guessed distances, [incomplete]({{ 'incomplete-data/' | relative_url }}) [metadata]({{ 'metadata/' | relative_url }}) or ambiguous imagery. In UFO and UAP investigations, that matters because public conclusions can quickly harden into online “facts” even when the evidence base is thin.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-1-dark.svg" | relative_url }}" alt="Review Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A strong pre-publication review process treats every AI-generated conclusion as provisional until a human reviewer has tested the assumptions underneath it. That review is not about blocking unusual findings by default. It is about checking whether the proposed explanation actually matches the known evidence, whether uncertainty has been stated honestly, and whether another investigator could independently reach the same conclusion from the same [case file]({{ 'case-file/' | relative_url }}). NASA’s independent UAP study stressed that current analysis is frequently weakened by poor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and lack of multiple measurements, while AARO has repeatedly noted that many unresolved cases remain unresolved because available data cannot support a conclusive interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">a physical source. The available...Read more...</span></span></span>
 
@@ -309,7 +308,6 @@ Human review therefore acts as a deliberate friction point. The reviewer’s rol
 For example, a sighting classified by AI as “likely Starlink” may depend on an assumed observation time accurate to within one minute. If the witness time estimate could realistically be wrong by ten minutes, the satellite match may collapse. Similarly, an AI system might classify a moving light as an aircraft because a flight path existed nearby, while ignoring that the witness described silent hovering inconsistent with the identified track.
 
 This is especially important because UFO investigations routinely involve:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -332,7 +330,6 @@ One of the most important pre-publication questions is whether the reported time
 
 A reviewer should therefore ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Is the time taken from device metadata, CCTV, telemetry or logs?
@@ -347,7 +344,6 @@ This matters because many AI explanation systems rely heavily on temporal matchi
 
 A practical safeguard is to require explicit timing [confidence]({{ 'confidence/' | relative_url }}) labels in the case file:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * exact recorded time
@@ -359,7 +355,6 @@ A practical safeguard is to require explicit timing [confidence]({{ 'confidence/
 
 Without that distinction, an AI-generated explanation can look stronger than the evidence actually allows.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qUKEvSeGOMY" title="‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer">‘Most UFO sightings are explainable but…’: Pentagon AARO chief tells Senate Armed Services Committee</a></p><p class="youtube-embed-meta">Channel: The Economic Times &middot; Views: 15.6K &middot; Uploaded: November 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qUKEvSeGOMY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qUKEvSeGOMY">Open on YouTube</a></p></div></div></div>
 
 ### Did the direction and elevation survive basic geometry checks?
@@ -369,7 +364,6 @@ Witnesses are often poor at estimating altitude, angular size and elevation abov
 Pre-publication reviewers should therefore ask whether the geometry has been reconstructed independently rather than accepted from narrative description alone.
 
 Key challenge questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -397,7 +391,6 @@ Human reviewers should isolate every claim that depends on inference rather than
 
 Important review questions include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was speed directly measured or inferred from assumed distance?
@@ -412,7 +405,6 @@ This distinction is central to avoiding exaggerated conclusions. A nearby insect
 
 AARO has repeatedly noted that birds, balloons and [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) can appear anomalous because of electro-optical distortion, compression and limited contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro 2024 annual report on uap.13762</span><span class="citation-popover-snippet">AARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-2-dark.svg" | relative_url }}" alt="Review Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Are uncertainty ranges visible to the reader?
 
@@ -421,7 +413,6 @@ One of the clearest signs of weak review is a published UFO conclusion without u
 A reviewer should challenge any sentence that sounds more certain than the underlying evidence justifies.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -434,7 +425,6 @@ For example:
 These distinctions matter because readers often remember simplified conclusions while forgetting the limitations attached to them.
 
 Research on scientific review processes repeatedly shows that strong review pressure improves reliability by forcing claims to stay proportional to evidence rather than rhetorical confidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.14047" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Demanding peer review is associated with higher impact in published scienceApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KnpeUGm_1zE" title="&quot;Satanic!&quot; - Epstein Survivor TELLS ALL on Epstein Island &amp; Disturbing Links | Lisa Phillips • 394" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KnpeUGm_1zE" target="_blank" rel="noopener noreferrer">&quot;Satanic!&quot; - Epstein Survivor TELLS ALL on Epstein Island &amp; Disturbing Links | Lisa Phillips • 394</a></p><p class="youtube-embed-meta">Channel: Julian Dorey &middot; Views: 697.2K &middot; Uploaded: March 2026 &middot; Length: 2 hours 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KnpeUGm_1zE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KnpeUGm_1zE">Open on YouTube</a></p></div></div></div>
 
@@ -468,7 +458,6 @@ A reviewer should therefore ask:
 * Does the reasoning rely on hidden prompts or undocumented filtering?
 * Would a sceptical reviewer identify missing steps?
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-3-dark.svg" | relative_url }}" alt="Review Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Did reviewers actively test rival explanations?
 
@@ -488,7 +477,6 @@ The question is not whether the preferred explanation is possible. It is whether
 This is where adversarial review becomes valuable. One reviewer may try to falsify the AI’s preferred explanation while another attempts to defend it. If both agree after challenge, confidence increases. If they disagree sharply, the public conclusion may need softer wording such as “plausible explanation” rather than “resolved”.
 
 Scientific peer review research increasingly focuses on grounding claims directly against evidence rather than rhetorical fluency alone, partly because AI-generated text can appear convincing even when poorly supported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2604.14047" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Demanding peer review is associated with higher impact in published scienceApril 15, 2026...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/G2XR__9m7Vc" title="Just Released MILITARY VIDEO of THREE UAP&#x27;s in the Western U.S." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=G2XR__9m7Vc" target="_blank" rel="noopener noreferrer">Just Released MILITARY VIDEO of THREE UAP&#x27;s in the Western U.S.</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 2.7K &middot; Uploaded: June 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=G2XR__9m7Vc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=G2XR__9m7Vc">Open on YouTube</a></p></div></div></div>
 
@@ -914,6 +902,7 @@ In practice, the best public-facing UFO investigations are not the ones that sou
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

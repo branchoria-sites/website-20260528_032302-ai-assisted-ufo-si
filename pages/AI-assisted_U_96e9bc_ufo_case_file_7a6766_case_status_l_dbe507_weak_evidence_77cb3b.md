@@ -271,12 +271,10 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_db
 
 Poor UFO evidence can create a false sense of mystery because “unresolved” is often misunderstood by the public. In a disciplined [case file]({{ 'case-file/' | relative_url }}), unresolved should mean that investigators had enough reliable information to test multiple explanations and still could not reach a conclusion. Weak evidence is different. It usually means the original material was too degraded, [incomplete]({{ 'incomplete-data/' | relative_url }}) or poorly documented to analyse properly in the first place.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-1-dark.svg" | relative_url }}" alt="Weak Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters in AI-assisted UFO sighting investigation because modern software can make bad evidence look more convincing than it really is. Image stabilisation, frame interpolation, sharpening filters and AI upscaling can create an impression of hidden detail even when the original footage contains almost none. NASA’s independent UAP study warned that many investigations fail because of missing [metadata]({{ 'metadata/' | relative_url }}), poor [calibration]({{ 'calibration/' | relative_url }}) and limited measurements rather than because the events themselves are extraordinary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 A good status system therefore protects the investigation from drifting into mythology. Weak evidence should stay weak until stronger evidence appears.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CeCFwMuh0a4" title="VFX Artists Debunk... REAL UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CeCFwMuh0a4" target="_blank" rel="noopener noreferrer">VFX Artists Debunk... REAL UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.5M &middot; Uploaded: July 2025 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CeCFwMuh0a4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CeCFwMuh0a4">Open on YouTube</a></p></div></div></div>
 
@@ -287,7 +285,6 @@ Many famous-looking UFO clips are technically unusable once investigators examin
 Modern smartphones and social media platforms heavily compress video files. Compression removes visual information to reduce file size, creating distortions such as block edges, shimmering noise and false shape boundaries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Compression_artifact" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Compression artifact</span><span class="citation-popover-snippet">Compression artifact</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://arxiv.org/abs/2403.16338" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Open source on arxiv.org.</span></span></span> When a distant light source is digitally zoomed, these artefacts can mimic structured objects, spinning motion or rapid shape changes.
 
 This becomes especially misleading in UFO footage because most sightings involve:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +306,6 @@ AI-assisted workflows can worsen this problem if used carelessly. Upscaling syst
 
 That is why serious case [review]({{ 'review/' | relative_url }}) should preserve the original file and document every transformation applied to it. Investigators should distinguish clearly between:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * original evidence
@@ -321,7 +317,6 @@ That is why serious case [review]({{ 'review/' | relative_url }}) should preserv
 
 Without that separation, enhancement itself can become part of the mythology around a case.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SJ2lXaaKmao" title="We Put Fake UFO Footage on Reddit and it Went Viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SJ2lXaaKmao" target="_blank" rel="noopener noreferrer">We Put Fake UFO Footage on Reddit and it Went Viral</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.2M &middot; Uploaded: July 2023 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SJ2lXaaKmao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SJ2lXaaKmao">Open on YouTube</a></p></div></div></div>
 
 ## Missing timestamps and unusable witness details
@@ -329,7 +324,6 @@ Without that separation, enhancement itself can become part of the mythology aro
 Weak UFO reports are often impossible to test because the surrounding context is incomplete rather than because the observed object was extraordinary.
 
 A single missing timestamp can break large parts of an investigation workflow. Without an accurate time, investigators may be unable to compare the sighting against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -352,7 +346,6 @@ This is one reason why apparently dramatic online UFO clips often remain permane
 
 Common examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * cropped screenshots with no original video
@@ -368,7 +361,6 @@ Common examples include:
 In these situations, “unresolved” becomes misleading because the event was never properly investigable to begin with.
 
 AARO, the Pentagon’s UAP investigation office, publicly separates unresolved cases from those solved as balloons or ordinary objects, while also acknowledging that some reports remain uncertain because the available data are limited. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — AARO Investigating Unresolved Historical Nuclear-Related UAP Cases...</span></span></span> That distinction matters. Lack of resolution does not automatically imply exotic technology.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-2-dark.svg" | relative_url }}" alt="Weak Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AI systems can accidentally inflate weak cases
@@ -390,7 +382,6 @@ The danger is especially high in UFO culture because audiences already expect hi
 
 This is why good AI-assisted investigation systems should preserve uncertainty explicitly. Instead of treating enhancement as proof, workflows should record:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * source quality
@@ -404,7 +395,6 @@ This is why good AI-assisted investigation systems should preserve uncertainty e
 
 An AI-generated interpretation should never silently replace the original evidence state.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/McVqKmUaaok" title="Here&#x27;s What We Really Know About These Pentagon UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer">Here&#x27;s What We Really Know About These Pentagon UFO Videos</a></p><p class="youtube-embed-meta">Channel: Anton Petrov &middot; Views: 345.1K &middot; Uploaded: August 2020 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=McVqKmUaaok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=McVqKmUaaok">Open on YouTube</a></p></div></div></div>
 
 ## Why weak evidence should stay weak
@@ -414,7 +404,6 @@ The phrase “unresolved UFO” carries cultural weight far beyond its literal m
 Weak evidence should therefore remain in a separate category from genuinely unresolved cases that survive extensive testing.
 
 A disciplined case file should say plainly when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -440,7 +429,6 @@ The strongest UFO investigations are often not the ones with the most sensationa
 * unresolved anomalies
 
 That separation is essential for any serious AI-assisted UFO sighting investigation. Uncertainty should remain uncertainty, not drift into implied proof.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-3-dark.svg" | relative_url }}" alt="Weak Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_weak_evidence_77cb3b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -835,6 +823,7 @@ That separation is essential for any serious AI-assisted UFO sighting investigat
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18b
 
 Many dramatic UFO videos become less mysterious once investigators examine what the camera and sensor were actually doing. Infrared glare, autofocus hunting, rolling shutter distortion, digital stabilisation, compression noise and low-light processing can all create shapes, movements or “structured craft” appearances that were never present in the sky itself. In AI-assisted UFO investigation, this matters because machine-learning systems are excellent at finding patterns in images, but they can also mistake [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) for genuine anomalous behaviour if the underlying footage is poorly understood.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Errors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 NASA’s independent UAP study warned that current analysis is often weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}) and the lack of multiple independent measurements. The report also stressed that AI tools only work reliably on well-characterised data gathered to strong standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor...</span></span></span> In practical terms, a UFO investigation workflow should treat camera behaviour as a candidate explanation from the start, not as an afterthought after more exotic theories are considered.
 
@@ -307,7 +306,6 @@ A camera does not passively “record reality”. Every imaging system interpret
 This becomes especially important in modern UFO case [review]({{ 'review/' | relative_url }}) because many reports now arrive as smartphone clips, heavily compressed social uploads, military infrared footage or zoomed digital crops. Each format introduces its own distortions. An AI classifier trained to detect unusual motion or object structure may unintentionally learn the signature of a camera failure rather than the signature of a real aerial object.
 
 Human reviewers therefore need to ask several basic questions before assigning significance to unusual imagery:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,7 +334,6 @@ One well-known example involved triangular “pyramid UFO” footage recorded by
 
 For AI systems, this creates a serious risk. A model trained on social-media UFO imagery may accidentally learn that blur halos, focus bloom or aperture shapes indicate “structured craft”. Human review is therefore essential to determine whether the geometry originates from the scene or from the optics.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dNVtMmLlnoE" title="Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer">Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172</a></p><p class="youtube-embed-meta">Channel: SmarterEveryDay &middot; Views: 4.4M &middot; Uploaded: June 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dNVtMmLlnoE">Open on YouTube</a></p></div></div></div>
 
 ### Why infrared footage often looks more dramatic than visible-light video
@@ -352,7 +349,6 @@ That uncertainty is important. AI-assisted systems should not interpret every br
 Most UFO clips circulating online are not original files. They are compressed versions that have passed through social media platforms, messaging apps or editing software. Compression removes image data to reduce file size, but in doing so it can invent visual patterns that look meaningful.
 
 Common compression artefacts include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -373,14 +369,12 @@ Low-light smartphone footage is especially problematic. Modern phones aggressive
 
 The problem becomes worse when clips are re-uploaded multiple times. Every compression pass removes more detail while amplifying synthetic patterns. By the time a video reaches investigators, the apparent “craft texture” may be entirely digital.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Errors illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Stabilisation can create false motion
 
 Digital stabilisation is another overlooked source of UFO-like behaviour. Stabilisation software attempts to keep the background steady by shifting or warping frames. When tracking a small bright object against clouds or darkness, the object can appear to dart, hover or accelerate independently of the background.
 
 This effect can create several misleading impressions:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -398,7 +392,6 @@ Rolling shutter distortion adds further confusion. Many digital sensors record a
 
 Human reviewers should therefore compare the object’s movement against environmental [reference points]({{ 'reference-points/' | relative_url }}) such as clouds, stars or horizon lines. If the entire frame shifts with the anomaly, the motion may belong to the camera rather than the object.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 204.1K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
 
 ## Why Multi-Sensor Confirmation Matters
@@ -408,7 +401,6 @@ The strongest safeguard against false UFO anomalies is independent confirmation 
 NASA’s UAP study repeatedly highlighted the importance of multiple measurements and reliable metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">UAP is hampered by sensor calibration challenges and a lack of sensor metadata.... Artificial intelligence (AI) and machine learning (ML...</span></span></span> A lone clip without calibration data is inherently difficult to interpret because investigators cannot determine whether the anomaly originated in the environment or inside the imaging chain itself.
 
 In practical UFO investigation workflows, stronger cases typically involve combinations such as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -422,14 +414,12 @@ In practical UFO investigation workflows, stronger cases typically involve combi
 
 By contrast, a single heavily compressed clip from one unknown device provides little protection against artefact-driven misinterpretation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Errors illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Cross-checking reduces AI overconfidence
 
 AI systems often produce highly confident outputs even when the input data is poor. A classifier may assign a strong probability to “disc-shaped object” despite the shape being generated by focus blur or compression.
 
 Human review safeguards should therefore require cross-sensor validation before escalating a case toward “anomalous” status. A useful workflow is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -443,7 +433,6 @@ Human review safeguards should therefore require cross-sensor validation before 
 
 This approach does not dismiss unusual sightings. Instead, it prevents ordinary imaging behaviour from being mistaken for extraordinary aerospace performance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_IesAvesFUo" title="We’ve hit peak lens flare. Here’s how it started." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_IesAvesFUo" target="_blank" rel="noopener noreferrer">We’ve hit peak lens flare. Here’s how it started.</a></p><p class="youtube-embed-meta">Channel: Vox &middot; Views: 1.1M &middot; Uploaded: March 2016 &middot; Length: 4 minutes 25 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_IesAvesFUo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_IesAvesFUo">Open on YouTube</a></p></div></div></div>
 
 ## The Most Reliable Clue Is Often What Does *Not* Change
@@ -451,7 +440,6 @@ This approach does not dismiss unusual sightings. Instead, it prevents ordinary 
 One of the clearest signs of a sensor artefact is that the anomaly changes with the camera rather than with the environment. If the “craft” rotates exactly as the sensor rotates, expands when focus changes, or jumps during stabilisation adjustments, the behaviour may originate in the imaging system itself.
 
 Experienced investigators therefore look for persistence under changing conditions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -858,6 +846,7 @@ In AI-assisted UFO investigation, this is one of the most important human safegu
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

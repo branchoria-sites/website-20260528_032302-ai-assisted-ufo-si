@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_ff
 
 Many of the most famous UFO incidents became famous precisely because witnesses claimed that radar confirmed what people saw in the sky. A “radar-visual” case sounded stronger than a simple eyewitness report because radar implied instrumented detection rather than memory alone. Yet in many Cold War-era incidents, the [original]({{ 'original-evidence/' | relative_url }}) radar tapes, scope photographs, [calibration]({{ 'calibration/' | relative_url }}) records, operator logs, and raw telemetry no longer exist. That loss has become one of the biggest obstacles in modern AI-assisted UFO sighting investigation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-1-dark.svg" | relative_url }}" alt="Lost Radar illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is not only historical curiosity. Missing radar evidence prevents investigators from reconstructing object speed, altitude, direction changes, radar reliability, and environmental conditions. It also blocks attempts to compare old incidents against [aircraft]({{ 'aircraft/' | relative_url }}) traffic, atmospheric effects, electronic interference, or modern sensor models. NASA’s recent UAP review stressed that analysis is weakened by poor calibration, missing [metadata]({{ 'metadata/' | relative_url }}), and lack of multiple measurements. Those weaknesses become even more severe when the underlying radar records disappeared decades ago. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">UAP. &quot;At present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor...R...</span></span></span>
 
@@ -282,7 +281,6 @@ In the 1950s and 1960s, radar carried enormous cultural authority. Military rada
 The classic example is the July 1952 Washington, DC sightings, where radar operators at National Airport and Andrews Air Force Base reported unknown targets while pilots and ground observers also described unusual lights. The incident became central to UFO history because it appeared to combine independent human observation with electronic tracking. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Project_Blue_Book" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Project Blue Book</span><span class="citation-popover-snippet">Project Blue Book</span></span></span>
 
 Other famous radar-linked incidents followed a similar pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +305,6 @@ When original radar evidence disappears, investigators lose far more than a simp
 ### Speed and acceleration claims become unverifiable
 
 Many dramatic UFO stories depend on claims that radar targets accelerated instantly, stopped abruptly, or travelled at impossible speeds. Those conclusions depend heavily on raw radar information:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -351,7 +348,6 @@ Older UFO cases rarely preserved that supporting technical context. Even when wi
 
 A modern AI-assisted reconstruction depends heavily on precise timing. Investigators compare a sighting against:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Civil aviation records
@@ -375,7 +371,6 @@ Historical UFO literature often describes cases where several radar stations all
 
 Without the raw data, investigators cannot determine:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Whether stations truly observed the same target
@@ -396,7 +391,6 @@ Large volumes of radar information were routinely erased, overwritten, or discar
 
 Several practical factors contributed to the loss:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Analogue magnetic tapes were reused
@@ -414,7 +408,6 @@ In many cases, UFO investigators only retained narrative conclusions rather than
 Project Blue Book itself depended heavily on summaries, interviews, and correspondence rather than complete sensor archives. The US National Archives preserves large amounts of Blue Book paperwork, but surviving files are uneven and often [incomplete]({{ 'incomplete-data/' | relative_url }}) from a modern forensic standpoint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">National ArchivesProject BLUE BOOK - Unidentified Flying ObjectsAugust 15, 2016 — Pro-UFO researchers claim that an extraterrestrial spac...</span><span class="citation-popover-meta">Published: August 15, 2016</span></span></span>
 
 This creates an important difference between a documented radar event and a reproducible radar event. Many historical incidents remain documented only through testimony that radar once existed.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-2-dark.svg" | relative_url }}" alt="Lost Radar illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Washington 1952 Problem: Famous Case, Missing Technical Depth
@@ -449,7 +442,6 @@ This distinction is critical in UFO investigation:
 Modern AI systems can compare structured datasets very effectively. They are much weaker when dealing with fragmented historical narratives lacking machine-readable evidence.
 
 That is one reason many classic UFO cases remain culturally powerful but scientifically difficult to resolve.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-3-dark.svg" | relative_url }}" alt="Lost Radar illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_historical_uf_fffac8_lost_radar_re_ab6296-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AI Cannot Fully Recover Missing Radar Evidence
@@ -913,6 +905,7 @@ The absence of that evidence is one of the main reasons so many classic radar-vi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_151
 
 In a responsible UFO or UAP investigation, “unresolved” is not a failure state. It is often the most accurate conclusion available. Many sightings arrive with [incomplete]({{ 'incomplete-data/' | relative_url }}) witness accounts, missing timestamps, poor-quality video, uncertain locations, absent sensor [metadata]({{ 'metadata/' | relative_url }}), or no independent confirmation. In those conditions, forcing a neat explanation can be more misleading than admitting uncertainty.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-1-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters especially in AI-assisted UFO analysis. Automated systems are good at pattern matching, but they can also create false confidence. A machine-learning model may produce a likely match for an aircraft, satellite, drone or atmospheric effect even when the underlying evidence is too weak to support a reliable conclusion. Human review safeguards exist partly to prevent this pressure toward premature certainty.
 
@@ -346,7 +345,6 @@ This is one reason UFO reports frequently produce exaggerated motion claims. A n
 
 NASA’s UAP report emphasised that poor calibration and missing metadata severely limit interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span> The same issue appears repeatedly in official military cases. AARO has noted that some unresolved signatures cannot be distinguished confidently from reflections, thermal artefacts or display effects because corroborating measurements are absent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Mission BriefMany cases in AARO&#x27;s holdings remain unresolved because of a lack of verifiable data. Cases lacking sufficient data to...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
 ### Single-sensor sightings are especially fragile
@@ -354,7 +352,6 @@ NASA’s UAP report emphasised that poor calibration and missing metadata severe
 One of the strongest safeguards in AI-assisted investigation is multi-source confirmation.
 
 A sighting supported by:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -402,7 +399,6 @@ Those are different questions.
 
 An AI-assisted case file should preserve:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * confidence levels,
@@ -418,14 +414,12 @@ This problem becomes more serious with probabilistic scoring. A model output suc
 
 Human reviewers are needed to detect when the model is extrapolating beyond what the evidence can bear.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-2-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Weak Data Can Produce Strong Stories
 
 Some of the most famous UFO incidents remain controversial partly because the evidence is incomplete, degraded or filtered through retellings.
 
 Over time, unresolved cases often accumulate:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -457,7 +451,6 @@ Leaving a case unresolved does not mean abandoning it forever.
 
 Some older sightings become more understandable when new data sources emerge. Modern investigation tools can sometimes revisit historic reports using:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * archived weather records,
@@ -470,7 +463,6 @@ Some older sightings become more understandable when new data sources emerge. Mo
 </div>
 
 Cases once thought mysterious have later matched:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -485,7 +477,6 @@ Cases once thought mysterious have later matched:
 At the same time, some cases remain unresolved because the [original evidence]({{ 'original-evidence/' | relative_url }}) was never preserved properly. A blurry photocopy of a photograph or a second-generation VHS recording may not contain enough recoverable information for modern analysis.
 
 The key principle is that reopening a case should depend on the arrival of genuinely new evidence or improved context, not simply renewed public excitement.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-3-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What makes a reopening worthwhile
@@ -502,7 +493,6 @@ Archived cases are most useful to revisit when investigators gain access to:
 Without that, reopening a case may simply recycle old uncertainty.
 
 AARO itself has noted that many unresolved reports could likely be explained if better-quality data existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — Sensors and visual observations are imperfect; the vast majority of cases lac...</span></span></span> That principle applies equally to civilian archives.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
 
@@ -941,6 +931,7 @@ The most responsible UFO investigations are not the ones that produce the most d
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

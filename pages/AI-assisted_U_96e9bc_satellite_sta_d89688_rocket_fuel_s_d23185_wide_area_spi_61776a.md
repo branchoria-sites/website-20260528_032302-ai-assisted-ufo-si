@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d2
 
 When hundreds of people across different cities report the same glowing spiral within minutes of each other, the geography itself becomes evidence. In UFO investigation work, that pattern usually points away from a nearby hovering object and towards a very high-altitude event such as a [rocket fuel]({{ 'rocket-spirals/' | relative_url }}) vent, upper-stage burn, or missile failure. A local [aircraft]({{ 'aircraft/' | relative_url }}), drone, or balloon cannot normally produce simultaneous sightings across entire countries. A sunlit exhaust plume at the edge of space can.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-dark.svg" | relative_url }}" alt="Wide reports illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters for AI-assisted UFO sighting investigation because wide-area witness reports are one of the fastest ways to separate regional atmospheric or spaceflight events from genuinely local incidents. Modern [rocket spirals]({{ 'rocket-spirals/' | relative_url }}) are often visible over hundreds of kilometres, especially during twilight when observers on the ground are in darkness but high-altitude exhaust clouds remain illuminated by sunlight. The March 2025 blue spiral seen across Britain and mainland Europe demonstrated this clearly, with reports emerging almost simultaneously from multiple countries before the SpaceX launch connection became widely known. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2025/mar/25/alien-hopes-crash-to-earth-glowing-spiral-uk-spacex-rocket" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">However, it has been determined that the phenomenon was caused by a SpaceX rocket, specifically the Falcon 9, which launched from Cape Ca...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
@@ -311,7 +310,6 @@ A local object usually produces inconsistent observations because perspective ch
 
 By contrast, high-altitude rocket spirals often produce remarkably consistent descriptions over huge areas. Witnesses may independently describe:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A glowing blue or white spiral <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/scmp/posts/the-stunning-blue-and-white-spiral-was-spotted-in-skies-across-europelink-in-com/1040111454831573/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">March 25, 2025, a glowing spiral appeared over Europe, from the UK to Eastern Europe, caused by a SpaceX Falcon 9 rocket launched the...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span>
@@ -332,7 +330,6 @@ The Norwegian spiral investigations demonstrated another important point: triang
 
 For UFO investigation systems, this means apparent proximity should never be accepted without cross-location analysis.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2mUXBqJbQKg" title="Spiral Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer">Spiral Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: CBS News &middot; Views: 190.4K &middot; Uploaded: December 2009 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2mUXBqJbQKg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2mUXBqJbQKg">Open on YouTube</a></p></div></div></div>
 
 ## Why rocket spirals create unusually large sighting footprints
@@ -342,7 +339,6 @@ Rocket spirals behave differently from ordinary aircraft lights because they occ
 At altitudes around 100 kilometres or more, exhaust plumes can expand dramatically. Thin atmospheric conditions allow gases and frozen particles to spread into structures far larger than conventional contrails. When illuminated by sunlight from beyond the horizon, these clouds become visible over continental distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theinternational.at/spacex-rocket-creates-spiral-light-phenomenon-over-austria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theinternational.at">[The International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theinternational.at</span><span class="citation-popover-title">The International Space X Rocket Creates Spiral Light Phenomenon Over Austria</span><span class="citation-popover-snippet">Excess fuel from a SpaceX Falcon-9 rocket created a visible spiral vortex in the sky, seen across Austria and Europe...Read more...</span></span></span>
 
 This produces several distinctive investigation patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,7 +354,6 @@ The 2025 European spiral produced exactly this pattern. Reports appeared almost 
 
 This wide-area visibility is often counterintuitive to witnesses. Many people assume that if something looks large in the sky it must also be physically nearby. Rocket spirals invert that intuition: the farther away and higher the plume is, the larger the visible footprint may become.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-dark.svg" | relative_url }}" alt="Wide reports illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using social media as a regional sensor network
 
@@ -367,7 +362,6 @@ Social platforms have unintentionally become one of the largest real-time atmosp
 During major spiral sightings, investigators can observe thousands of near-simultaneous uploads from different locations. Even low-quality posts become useful when aggregated geographically.
 
 AI systems can extract:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -386,7 +380,6 @@ For rocket spiral investigations, this allows automated workflows to detect like
 
 A practical workflow may look like this:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Detect sudden increase in posts mentioning unusual sky phenomena
@@ -399,7 +392,6 @@ A practical workflow may look like this:
 
 This does not prove a rocket explanation on its own, but it dramatically narrows the search space.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-dark.svg" | relative_url }}" alt="Wide reports illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_wide_area_spi_61776a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Limits of social media timing and image metadata
 
@@ -408,7 +400,6 @@ Wide-area reports are valuable, but they also contain major investigative traps.
 One common problem is repost lag. A dramatic spiral image may circulate for hours or days after the [original]({{ 'original-evidence/' | relative_url }}) sighting. Investigators who rely only on upload timestamps may incorrectly conclude the event lasted much longer than it actually did.
 
 Metadata is also unreliable:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -428,7 +419,6 @@ Another limitation is observational contagion. Once “spiral UFO” language tr
 
 Good investigation systems therefore separate:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Pre-publicity reports
@@ -440,7 +430,6 @@ Good investigation systems therefore separate:
 </div>
 
 Without that filtering step, automated clustering can accidentally reinforce misinformation instead of clarifying the event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q4nR4rxVnUw" title="What was that spiral over Europe?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q4nR4rxVnUw" target="_blank" rel="noopener noreferrer">What was that spiral over Europe?</a></p><p class="youtube-embed-meta">Channel: Astronomy Live &middot; Views: 1.6K &middot; Uploaded: March 2025 &middot; Length: 4 minutes 3 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q4nR4rxVnUw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q4nR4rxVnUw">Open on YouTube</a></p></div></div></div>
 
@@ -855,6 +844,7 @@ The result is a good example of how AI-assisted UFO investigation can reduce amb
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

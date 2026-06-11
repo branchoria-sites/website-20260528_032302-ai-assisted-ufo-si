@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7
 
 AI systems can compare thousands of UFO sighting reports far faster than any human archive team, but they also inherit the cultural noise embedded in witness language. When a major UFO documentary, Hollywood film, viral TikTok clip, or headline-grabbing military sighting popularises phrases such as “tic-tac”, “black triangle”, “orb swarm”, or “non-human craft”, those terms begin spreading through later reports. A clustering system trained mainly on narrative similarity may then mistake shared vocabulary for shared physical events.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-1-dark.svg" | relative_url }}" alt="Media Leakage illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, this creates a serious investigative risk. Reports that merely sound alike can be grouped together even when their locations, environmental conditions, flight behaviour, and evidence quality have little in common. At the same time, physically similar events may end up separated because witnesses used different culturally shaped language. The problem is not simply that witnesses influence one another. It is that machine-learning systems can unintentionally amplify that influence at scale. Medium <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Cultural_tracking" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Cultural tracking</span><span class="citation-popover-snippet">Cultural tracking</span></span></span>
 
@@ -284,7 +283,6 @@ The history of UFO reporting shows repeated examples of this “cultural trackin
 For clustering systems, this matters because modern language models and vector embeddings are heavily driven by repeated semantic patterns. If thousands of witnesses suddenly begin using the same fashionable phrase, the AI may form a dense similarity cluster around language alone.
 
 A practical example illustrates the problem:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +305,6 @@ Psychological research on memory distortion and false recall has repeatedly show
 That does not mean witnesses are dishonest. It means narrative language and perception interact.
 
 In UFO reporting, several common distortions emerge:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -343,7 +340,6 @@ A viral clip labelled “orb fleet” can rapidly standardise language across hu
 Natural-language clustering systems are especially vulnerable because repeated social phrasing creates dense semantic associations. Modern embedding models are designed to recognise conceptual similarity in wording. If a community repeatedly describes unrelated events using the same narrative frame, the model may produce artificially coherent clusters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7755067/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCApplication of natural language processing algorithms</span><span class="citation-popover-snippet">by V Ng · 2020 · Cited by 25 — The focus of this article is the application of natural language processing (NLP) for information extra...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ceur-ws.org/Vol-3178/CIRCLE_2022_paper_32.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ceur-ws.org">[CEUR-WS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ceur-ws.org</span><span class="citation-popover-title">CIRCLE 2022 paper 32</span><span class="citation-popover-snippet">Keywords. Machine...Read more...</span></span></span>
 
 This can produce several investigative failures:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -393,7 +389,6 @@ A better system separates:
 
 Without that separation, the AI risks modelling UFO folklore rather than aerial events.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-2-dark.svg" | relative_url }}" alt="Media Leakage illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reducing Conclusion Leakage in Archives
 
@@ -432,7 +427,6 @@ A robust clustering system can reduce the weighting of these terms during simila
 
 This is similar to how search engines ignore overly common “stop words”, except here the stop words are culturally contaminated UFO descriptors.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-dark.svg" | relative_url }}" alt="Media Leakage illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_ufo_language_785d47-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Time-aware linguistic analysis
 
@@ -445,7 +439,6 @@ Time-aware modelling helps distinguish genuine long-term behavioural similaritie
 ### Prioritise environmental correlation
 
 The most reliable clustering systems compare narrative similarity against independent context:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -475,7 +468,6 @@ A language-driven AI may then split the same phenomenon into separate clusters a
 Conversely, truly unrelated sightings may merge into one giant category simply because witnesses consumed the same documentaries or social media discussions.
 
 That is why unresolved UFO investigation increasingly depends on structured event reconstruction rather than narrative resemblance alone. The most valuable similarities are not usually the loudest or most cinematic descriptions. They are the quieter consistencies hidden underneath:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -896,6 +888,7 @@ Keeping those layers distinct is essential if clustering systems are meant to id
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

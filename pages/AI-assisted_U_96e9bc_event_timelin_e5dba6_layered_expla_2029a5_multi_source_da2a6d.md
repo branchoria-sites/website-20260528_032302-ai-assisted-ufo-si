@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_20
 
 A UFO timeline only becomes useful when different clocks agree with each other. A witness may report a glowing object at “about 10pm”, but the phone recording may actually begin at 21:47:13, a nearby [aircraft]({{ 'aircraft/' | relative_url }}) may have crossed the same line of sight at 21:47:41, and a satellite flare may have peaked at 21:48. Those differences matter because many apparently extraordinary sightings collapse once timings are synchronised properly.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-dark.svg" | relative_url }}" alt="Timing Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern AI-assisted UFO investigation increasingly treats timing as a form of evidence rather than background detail. The strongest reconstructions compare witness memory, device [metadata]({{ 'metadata/' | relative_url }}), aircraft transponder logs, satellite predictions, launch schedules, weather observations, and astronomical events against the same clock. NASA’s 2023 UAP study stressed that serious analysis is often limited by poor metadata, weak [calibration]({{ 'calibration/' | relative_url }}), and lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through...</span></span></span>
 
@@ -288,7 +287,6 @@ The goal is not to force every case into a mundane explanation. It is to test wh
 Human memory is surprisingly elastic around short, unusual events. Witnesses often remember sequence correctly but compress or stretch duration, especially when the sighting was emotionally intense, unexpected, or happened at night. In UFO reports, this creates a recurring problem: the remembered time is treated as exact even when the recording devices disagree.
 
 A structured case file therefore separates:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ This sounds technical, but it directly affects explanation testing. A satellite 
 
 Most modern phones embed EXIF metadata into photos and videos. That metadata may include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Capture time
@@ -320,7 +317,6 @@ Most modern phones embed EXIF metadata into photos and videos. That metadata may
 But metadata is only as accurate as the device clock. Phones drifting after battery failure, cameras left on old daylight-saving settings, imported files, edited clips, social media recompression, and cloud-sync changes can all distort timing. Photography communities regularly discuss corrupted or incorrect EXIF timestamps after battery resets or imports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/photography/comments/1d5319f/ive_just_come_to_the_conclusion_that_all_cameras/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I&#x27;ve just come to the conclusion that all cameras and apps...May 31, 2024 — If the camera knows the correct time, it can put that...</span><span class="citation-popover-meta">Published: May 31, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://photo.stackexchange.com/questions/7919/how-to-shift-exif-date-time-created-by-time-in-days-hours-minutes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: photo.stackexchange.com">[Photography Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">photo.stackexchange.com</span><span class="citation-popover-title">how to shift exif date time created by time in days hours minutes</span><span class="citation-popover-snippet">· You can choose either change File timestamp OR EXIF Timestamp (Date Time Photo...Read more...</span></span></span>
 
 AI-assisted workflows therefore treat timestamps probabilistically rather than absolutely. A reconstruction system may assign [confidence]({{ 'confidence/' | relative_url }}) levels such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,7 +333,6 @@ That prevents investigators from overcommitting to a single minute marker too ea
 Many UFO reports last under two minutes. In such cases, even a thirty-second error can radically change what explanations remain viable.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -360,7 +355,6 @@ Aircraft are one of the most common UFO explanations, particularly at night. Lan
 
 Modern reconstructions commonly compare sightings against:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * ADS-B transponder logs
@@ -374,7 +368,6 @@ Modern reconstructions commonly compare sightings against:
 Timing matters more than simple proximity. A plane passing ten kilometres away may still align visually if its heading and altitude matched the observer’s line of sight at the exact reported moment.
 
 AI systems are increasingly useful here because they can automate line-of-sight matching. Instead of merely asking “was an aircraft nearby?”, the workflow tests:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -412,7 +405,6 @@ Satellite flares and Starlink trains are especially important because witnesses 
 
 Without synchronised timing checks, these events can appear highly unusual.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-dark.svg" | relative_url }}" alt="Timing Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Launches, re-entries, and rocket dumps
 
@@ -435,7 +427,6 @@ A layered timeline therefore checks:
 * Witness viewing direction
 
 In several widely shared sightings, a “mysterious glowing object” turned out to coincide almost exactly with a Falcon 9 stage dump or re-entry event once the timeline was aligned correctly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PKujZOIu7xI" title="How to: Validate Accuracy of Timing Source" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PKujZOIu7xI" target="_blank" rel="noopener noreferrer">How to: Validate Accuracy of Timing Source</a></p><p class="youtube-embed-meta">Channel: Tycho Tracker &middot; Views: 653 &middot; Uploaded: January 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PKujZOIu7xI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PKujZOIu7xI">Open on YouTube</a></p></div></div></div>
 
@@ -462,7 +453,6 @@ At that point:
 * A launch explanation appears impossible
 
 The sighting then acquires a false aura of anomaly.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-dark.svg" | relative_url }}" alt="Timing Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5_multi_source_da2a6d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI systems are good at detecting clock inconsistencies
@@ -912,6 +902,7 @@ A layered timeline does not guarantee an answer. What it does provide is somethi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

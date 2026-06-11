@@ -324,7 +324,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-overview-social.
 
 AI confidence scoring in a UFO sighting investigation should not be a machine-generated verdict. Its purpose is to show how well each candidate explanation fits the evidence, where the evidence is thin, and what would be needed to move the case from “unresolved” towards “plausibly explained” or “genuinely anomalous”. A useful score says, in plain language, “this looks like an [aircraft]({{ 'aircraft/' | relative_url }}) because the timing and path match, but the visual record is too weak to be certain,” not “AI is 92% sure it was a plane.”
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-overview.webp" | relative_url }}" alt="Overview image for Confidence" loading="eager" decoding="sync" fetchpriority="high">
 That caution matters because UAP investigation is often limited by [incomplete]({{ 'incomplete-data/' | relative_url }}) observation: short video clips, missing camera metadata, uncertain viewing direction, absent range data, and single-witness accounts. NASA’s UAP independent study stressed that AI and machine learning are promising only when the underlying UAP data are collected to rigorous standards, with reliable [calibration]({{ 'calibration/' | relative_url }}) and metadata. AARO’s published case material likewise shows a range of outcomes: some reports are resolved as balloons or birds, while others remain unresolved because the footage is insufficient for a determination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — For any scientific analysis purposes, including UAP analysis, it is essenti...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">UAP ImageryIn 2024, the United States Africa Command submitted a report of an unidentified anomalous phenomenon to the All-domain Ano...</span></span></span>
 
@@ -358,7 +357,6 @@ This matters because two explanations can both be plausible for different reason
 
 AI can help by keeping the comparison consistent across cases. It can retrieve aircraft tracks, satellite predictions, weather observations, astronomy data, and historical examples, then highlight which candidate explanation best matches the known facts. But the model should not be allowed to convert “best available match” into “confirmed identification” unless the evidence meets a clear threshold.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-1-dark.svg" | relative_url }}" alt="Confidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence quality changes the meaning of every score
 
@@ -367,7 +365,6 @@ The same fit score means different things depending on the evidence behind it. A
 That is why confidence scoring should include a separate evidence-quality grade. NASA’s UAP report argued that future analysis depends on better data acquisition, sensor calibration, multiple measurements, and thorough metadata rather than relying on poorly characterised observations. The same principle applies to a public-facing AI workflow: a model cannot recover missing range, lens settings, bearing, or true object size from a vague clip simply by sounding analytical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — For any scientific analysis purposes, including UAP analysis, it is essenti...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
 A simple evidence-quality layer might use categories such as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -381,7 +378,6 @@ A simple evidence-quality layer might use categories such as:
 This separate grade prevents a common failure: giving a confident-looking explanation from weak inputs. A model might find that a known satellite pass occurred within 20 minutes of the claimed time, but if the witness time is approximate and the viewing direction is unknown, the system should say “possible satellite match, weak evidence” rather than “satellite confirmed”.
 
 AARO’s public reporting illustrates the same distinction. In its 2024 reporting cycle, the office received hundreds of UAP reports, resolved some as prosaic objects, and left many under review or unresolved; public summaries emphasised that unresolved does not mean extraterrestrial, and that insufficient or non-actionable sensor data constrains resolution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0ZJBwP4n-bE" title="🔴 Live | Creating people-centered AI experiences: Google&#x27;s People + AI Guidebook with Gabe Clapper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0ZJBwP4n-bE" target="_blank" rel="noopener noreferrer">🔴 Live | Creating people-centered AI experiences: Google&#x27;s People + AI Guidebook with Gabe Clapper</a></p><p class="youtube-embed-meta">Channel: awwwards. &middot; Views: 4.3K &middot; Uploaded: June 2021 &middot; Length: 55 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0ZJBwP4n-bE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0ZJBwP4n-bE">Open on YouTube</a></p></div></div></div>
 
@@ -401,7 +397,6 @@ A more honest output would be:
 
 That wording gives the reader the useful part of the score — which explanation fits best and why — while avoiding the illusion that the AI has measured certainty directly. Google’s People + AI guidance makes a similar design point: showing confidence can affect user decisions, so confidence indicators should help people calibrate trust rather than over-trust an automated output. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pair.withgoogle.com/chapter/explainability-trust/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pair.withgoogle.com">[pair.withgoogle.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pair.withgoogle.com</span><span class="citation-popover-title">Explainability + Trust</span><span class="citation-popover-snippet">Explainability + Trust</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-2-dark.svg" | relative_url }}" alt="Confidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Status labels are safer than verdict labels
 
@@ -419,7 +414,6 @@ The best confidence display is not a single score at the top of the page. It is 
 
 A reader-friendly scoring panel might include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Current leading explanation:** “Possible aircraft.”
@@ -434,14 +428,12 @@ A reader-friendly scoring panel might include:
 
 This format gives AI a useful role: it organises reasoning. It does not ask the reader to trust the machine’s tone. It also helps investigators avoid premature closure. If the system says “aircraft plausible but not confirmed”, later evidence can still improve or overturn that assessment.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-3-dark.svg" | relative_url }}" alt="Confidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The confidence score should punish missing data
 
 A scoring system that only rewards matching clues will overstate certainty. It also needs to penalise missing fields that are essential for identification. A bright object seen “somewhere over the hills” cannot be scored as strongly as an object filmed from a known address, with visible skyline reference points, at a verified timestamp, in a known camera direction.
 
 For UFO investigation, the most important missing-data penalties are usually:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -457,7 +449,6 @@ For UFO investigation, the most important missing-data penalties are usually:
 </div>
 
 This is where AI can be particularly useful at intake. Instead of only producing a score after the fact, it can ask for the missing details that would most improve the case: “Was the object above the Moon or below it?”, “Which way were you facing?”, “Can you upload the original file rather than a screen recording?”, “Did it move against any fixed building, tree, or star?”
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zSNQTfKGvhE" title="Meelis Kull: &quot;Calibration and confidence in Machine Learning&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zSNQTfKGvhE" target="_blank" rel="noopener noreferrer">Meelis Kull: &quot;Calibration and confidence in Machine Learning&quot;</a></p><p class="youtube-embed-meta">Channel: University of Tartu Institute of Computer Science &middot; Views: 1.3K &middot; Uploaded: September 2022 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zSNQTfKGvhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zSNQTfKGvhE">Open on YouTube</a></p></div></div></div>
 
@@ -868,6 +859,7 @@ The strongest version of AI-assisted UFO investigation is not a machine that ann
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1020,4 +1012,4 @@ The strongest version of AI-assisted UFO investigation is not a machine that ann
 
 32. <a id="endnote-32"></a>
    Source: modelop.com  
-   Link: <a href="https://www.modelop.com/ai-governance/ai-regulations-standards/nist-ai-rmf" target="_blank" rel="noopener noreferrer nofollow">https://www.modelop.com/ai-governance/ai-regulations-standards/nist-ai-rmf</a>  
+   Link: <a href="https://www.modelop.com/ai-governance/ai-regulations-standards/nist-ai-rmf" target="_blank" rel="noopener noreferrer nofollow">https://www.modelop.com/ai-governance/ai-regulations-standards/nist-ai-rmf</a>

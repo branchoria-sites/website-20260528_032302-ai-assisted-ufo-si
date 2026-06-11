@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ff
 
 The fastest way to improve UFO or UAP triage is often the least dramatic: check ordinary [aircraft]({{ 'aircraft/' | relative_url }}) first. The New Jersey drone wave showed how quickly lights in the night sky can be interpreted as anomalous when basic aviation context is missing. Federal agencies eventually stated that many reports involved lawful aircraft, authorised drones, stars or planets rather than unknown technology. Federal Aviation Administration <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That does not mean every report was solved cleanly. Some sightings remained weakly documented, contradictory or unresolved. The practical lesson is narrower and more useful: aviation checks are the highest-value first filter in AI-assisted UFO investigation because they explain a large share of dramatic observations quickly, cheaply and with measurable evidence. A good workflow does not assume every light is a plane, but it also does not jump to anomaly claims before ruling out known air traffic patterns, landing approaches, helicopters, medical flights, drones and [incomplete]({{ 'incomplete-data/' | relative_url }}) public tracking data.
 
@@ -282,7 +281,6 @@ In modern UFO triage, aviation is not a side check. It is the core baseline. Mos
 The New Jersey reports illustrated a classic investigative failure mode. Witnesses often described objects hovering silently, moving in formation or remaining stationary for long periods. Yet those same descriptions are also consistent with common aircraft viewing conditions. Federal investigators repeatedly warned that many reported “drones” were actually manned aircraft being misidentified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New Jersey12 Dec 2024 — “We have no evidence at this time...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://abcnews.com/US/mystery-drones-new-jersey-new-york-timeline-what-officials-said/story?id=116824178" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abcnews.com">[ABC News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abcnews.com</span><span class="citation-popover-snippet">Mystery drones in New Jersey, New York: A timeline of...A DHS official says they&#x27;re &quot;confident that many of the reported drone sightings...</span></span></span>
 
 For AI-assisted investigation systems, this changes the order of operations. The workflow should begin with:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -302,7 +300,6 @@ That order matters because aviation explanations are both common and testable. A
 One of the most important mechanisms in the New Jersey wave was the head-on aircraft illusion. Aircraft flying directly toward an observer can appear nearly motionless for several minutes because their lateral movement is minimal from that viewing angle. Bright [landing lights]({{ 'landing-lights/' | relative_url }}) intensify the effect, especially at night. FAA guidance notes that landing lights are designed to make aircraft highly visible over long distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — FBI has received tips of more than 5,000 r...</span></span></span>
 
 To a witness without depth cues, the result can look uncanny:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -336,7 +333,6 @@ During the New Jersey sightings, some reports described very large drones “hov
 
 AI-assisted triage systems should therefore model observer [geometry]({{ 'geometry/' | relative_url }}) rather than relying only on witness language. A useful system asks:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was the sighting aligned with a runway approach corridor?
@@ -349,7 +345,6 @@ AI-assisted triage systems should therefore model observer [geometry]({{ 'geomet
 
 These questions often explain “hovering” without dismissing the witness.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WkpknQtDA0w" title="Tracking Blocked Aircraft" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WkpknQtDA0w" target="_blank" rel="noopener noreferrer">Tracking Blocked Aircraft</a></p><p class="youtube-embed-meta">Channel: Bruce Leibowitz &middot; Views: 8.1K &middot; Uploaded: June 2023 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WkpknQtDA0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WkpknQtDA0w">Open on YouTube</a></p></div></div></div>
 
 ## What Public Flight Trackers Can Miss
@@ -361,7 +356,6 @@ The reality is more complicated.
 Most public tracking platforms rely heavily on ADS-B, or Automatic Dependent Surveillance–Broadcast, where aircraft transmit position and identity information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How Flightradar24 worksTracking data on Flightradar24 comes primarily from Automatic Dependent Surveillance-Broadcast (ADS-B...</span></span></span> But coverage varies by altitude, equipment, geography and aircraft type.
 
 Important gaps include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -383,7 +377,6 @@ That means “not visible on FlightRadar” is not strong evidence of anomaly on
 
 A good UFO triage workflow should therefore distinguish between:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * no correlated aircraft found
@@ -394,7 +387,6 @@ A good UFO triage workflow should therefore distinguish between:
 </div>
 
 Those are very different confidence levels.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AI Should Compare Multiple Aviation Sources
@@ -435,7 +427,6 @@ An automated system can immediately test:
 
 This does not “solve” every report. It simply moves the investigation from intuition toward measurable screening.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1AxJQ_l22x0" title="White House says most drone sightings over New Jersey were authorized by FAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1AxJQ_l22x0" target="_blank" rel="noopener noreferrer">White House says most drone sightings over New Jersey were authorized by FAA</a></p><p class="youtube-embed-meta">Channel: WFXR NEWS &middot; Views: 6.0K &middot; Uploaded: January 2025 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1AxJQ_l22x0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1AxJQ_l22x0">Open on YouTube</a></p></div></div></div>
 
 ## The New Jersey Lesson Was About Triage, Not Total Debunking
@@ -460,7 +451,6 @@ A mature UFO triage process therefore separates:
 
 The unresolved category should exist, but it should come after aviation screening rather than before it.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_aviation_chec_54f1b5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to Grade Unmatched Lights Honestly
 
@@ -483,7 +473,6 @@ GradeMeaningConfirmed aircraftStrong timing, route or lighting correlationProbab
 Most public reports never reach the final category because the evidence quality is too weak. That is not dismissive; it is simply a consequence of night-time observation limits.
 
 The New Jersey episode demonstrated that mass [sighting waves]({{ 'sighting-wave/' | relative_url }}) generate enormous numbers of low-information reports. AI tools are valuable not because they magically identify aliens, but because they can rapidly downgrade weak aviation matches before speculation spreads.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QhlUP9nLNy0" title="FBI, FAA investigate mysterious drones in NJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QhlUP9nLNy0" target="_blank" rel="noopener noreferrer">FBI, FAA investigate mysterious drones in NJ</a></p><p class="youtube-embed-meta">Channel: NJ Spotlight News &middot; Views: 17.0K &middot; Uploaded: December 2024 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QhlUP9nLNy0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QhlUP9nLNy0">Open on YouTube</a></p></div></div></div>
 
@@ -894,6 +883,7 @@ AI-assisted UFO investigation works best when it behaves less like myth collecti
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

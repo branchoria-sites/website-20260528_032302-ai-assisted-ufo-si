@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f
 
 A strong UFO reconstruction does not force every piece of evidence into a single storyline. It builds several timelines in parallel and then compares them. The witness remembers one sequence of events. The camera sensor records another. The file system adds its own history through saves, edits, exports, uploads, and compression. AI-assisted investigation becomes more reliable when those layers stay separate instead of being blended into one assumed chronology.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1-dark.svg" | relative_url }}" alt="Parallel Timelines illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because people often remember an event as continuous and dramatic even when the file history shows pauses, zoom adjustments, dropped frames, or missing sections. Equally, a damaged or recompressed video may hide useful timing clues even when the witness account is broadly accurate. Modern forensic guidance treats digital video as a structured evidence object with independent timing behaviour, not just a moving image. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">OSAC 2022-S-0031 Standard Guide for Forensic Digital...January 2, 2024 — For example, processing includes tasks to transcode, enhanc...</span><span class="citation-popover-meta">Published: January 2, 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/itl/ssd/digital-forensics" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">Digital ForensicsDigital evidence includes data on computers and mobile devices, including audio, video, and image files as well as softw...</span></span></span>
 
@@ -288,7 +287,6 @@ In practical UFO case work, the goal is not to “catch out” witnesses. It is 
 Witnesses rarely experience a sighting as a clean linear timeline. Attention narrows during surprising events. Time estimates drift. Emotional intensity changes recall quality. Cognitive psychology research has repeatedly shown that memory is reconstructive rather than perfectly replayed, especially after stress, discussion, or repeated retelling. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rke.abertay.ac.uk/ws/portalfiles/portal/85813741/Gawrylowicz_TheCognitiveInterview_Accepted_2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rke.abertay.ac.uk">[Abertay University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rke.abertay.ac.uk</span><span class="citation-popover-snippet">Cognitive Interview arose out of a need to examine ways of improving witness memory. (cognitive factors) as well as addressing some of th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://web-archive.southampton.ac.uk/cogprints.org/646/1/memon.memory.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: web-archive.southampton.ac.uk">[University of Southampton Web Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">web-archive.southampton.ac.uk</span><span class="citation-popover-snippet">University of Southampton Web ArchiveEyewitness performance in Cognitive and Structured...by A Memon · Cited by 103 — This paper address...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9225701/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">The impact of recall timing on the preservation of eyewitness...by C Chevroulet · 2021 · Cited by 13 — As a witness&#x27; memory of the ev...</span></span></span>
 
 In UFO investigations, this creates several recurring problems:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,7 +324,6 @@ Investigators increasingly use structured timeline interviewing methods because 
 
 In UFO work, this means recording statements like:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “I zoomed after it brightened.”
@@ -363,7 +360,6 @@ A witness may sincerely remember a stable glowing object while the file shows re
 ### File-system timeline
 
 This layer tracks the digital object's history after recording:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -403,7 +399,6 @@ This final layer contains independently verifiable environmental anchors:
 
 These anchors often become the decisive factor when witness memory and file metadata conflict.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ee7g5SR7McA" title="The Cognitive Interview: How to Improve Eyewitness Testimony | AQA Psychology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ee7g5SR7McA" target="_blank" rel="noopener noreferrer">The Cognitive Interview: How to Improve Eyewitness Testimony | AQA Psychology</a></p><p class="youtube-embed-meta">Channel: Bear it in MIND &middot; Views: 24.6K &middot; Uploaded: April 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ee7g5SR7McA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ee7g5SR7McA">Open on YouTube</a></p></div></div></div>
 
 ## Mapping zoom, exposure, and clip gaps
@@ -413,7 +408,6 @@ Many “high strangeness” moments in UFO videos occur at transition points ins
 ### Zoom transitions
 
 [Digital zoom]({{ 'digital-zoom/' | relative_url }}) can radically alter apparent motion. When a witness rapidly zooms into a distant light source:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -467,7 +461,6 @@ A timeline that clearly labels clip discontinuities prevents investigators from 
 ## Cross-checking timelines with external anchors
 
 The strongest UFO reconstructions rely on independent anchors that neither the witness nor the file can easily influence.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-2-dark.svg" | relative_url }}" alt="Parallel Timelines illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Astronomy checks
@@ -540,7 +533,6 @@ Time LayerEventWitness memory“Object accelerated suddenly”Video analysisDigi
 
 That structure helps distinguish genuine unexplained behaviour from compounded perception effects.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-3-dark.svg" | relative_url }}" alt="Parallel Timelines illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_parallel_witn_61563d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Contradiction detection
 
@@ -586,7 +578,6 @@ Parallel timelines reduce that contamination risk.
 They also improve credibility with sceptical audiences because the method openly documents uncertainty, edits, recompression, and contradictions rather than hiding them.
 
 Importantly, this approach does not automatically debunk sightings. Some cases remain difficult even after rigorous separation of witness memory and file history. The value lies in making the remaining anomaly clearer by stripping away artefacts introduced by recall drift, camera automation, and platform processing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m6aY9Wr-xjI" title="Psychology - Eyewitness Testimony" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer">Psychology - Eyewitness Testimony</a></p><p class="youtube-embed-meta">Channel: Cognito &middot; Views: 2.6K &middot; Uploaded: March 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m6aY9Wr-xjI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m6aY9Wr-xjI">Open on YouTube</a></p></div></div></div>
 
@@ -1034,6 +1025,7 @@ In AI-assisted UFO investigation, the timeline is therefore not just a chronolog
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

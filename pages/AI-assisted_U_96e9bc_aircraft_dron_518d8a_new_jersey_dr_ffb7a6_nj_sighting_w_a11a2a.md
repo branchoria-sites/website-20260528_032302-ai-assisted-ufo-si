@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ff
 
 The New Jersey drone reports of late 2024 became a single public “wave” long before investigators could determine which sightings were connected and which were unrelated. That matters for AI-assisted UFO investigation because mass sighting events often look more coherent from the outside than they really are. In New Jersey, genuine drone activity, ordinary [aircraft]({{ 'aircraft/' | relative_url }}), helicopters, stars, social-media [reposts]({{ 'reposts/' | relative_url }}), rumours and duplicated witness accounts gradually merged into one fast-moving narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-1-dark.svg" | relative_url }}" alt="Sighting Wave illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For investigators, the key lesson is not whether every report was true or false. The lesson is how rapidly separate observations can collapse into one shared story once the public expects to see something unusual. A good UFO or UAP triage system therefore needs to separate unique events from recycled claims, identify when later reports are influenced by earlier publicity, and avoid treating every light in the sky as evidence of the same object or operation.
 
@@ -322,7 +321,6 @@ This does not necessarily mean witnesses were dishonest. It reflects a known eff
 
 An AI system analysing witness language should therefore flag repeated phrasing patterns and measure how descriptions evolve after major news events or viral clips.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NOGpB3mf6GI" title="FBI asks public for help with new drone sightings in New Jersey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NOGpB3mf6GI" target="_blank" rel="noopener noreferrer">FBI asks public for help with new drone sightings in New Jersey</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 307.8K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NOGpB3mf6GI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NOGpB3mf6GI">Open on YouTube</a></p></div></div></div>
 
 ### Geographic broadening
@@ -338,7 +336,6 @@ Search-interest data reportedly collapsed again by January 2025 as media attenti
 One of the clearest examples involved reports near Raritan Valley Community College, where concern about drones reportedly disrupted a medical helicopter operation. Later Transportation Security Administration analysis concluded that the “hovering drones” were actually conventional aircraft approaching Solberg Airport head-on. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dronexl.co/2025/10/05/europe-drone-panic-mirrors-new-jersey-hysteria/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronexl.co">[DroneXL.co]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronexl.co</span><span class="citation-popover-title">europe drone panic mirrors new jersey hysteria</span><span class="citation-popover-snippet">Why Europe&#x27;s Panic Mirrors New Jersey&#x27;s Mass Hysteria5 Oct 2025 — TSA documents released months later showed the “drones” were actually “...</span></span></span>
 
 This incident illustrates how unrelated observations can become absorbed into a broader mystery narrative:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -366,7 +363,6 @@ The same merging process affected sightings involving:
 
 A public reporting surge can therefore contain both mundane and unresolved events simultaneously. Treating the entire wave as either “all fake” or “all anomalous” misses the structure of the problem.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-2-dark.svg" | relative_url }}" alt="Sighting Wave illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How investigators should separate unique events
 
@@ -389,13 +385,11 @@ they should begin as separate case objects even if both were labelled “drones�
 
 Large waves often become distorted because reports are grouped too early.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zkIV9e2ebDo" title="White House reveals mystery behind drone sightings over New Jersey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zkIV9e2ebDo" target="_blank" rel="noopener noreferrer">White House reveals mystery behind drone sightings over New Jersey</a></p><p class="youtube-embed-meta">Channel: FOX 5 New York &middot; Views: 104.5K &middot; Uploaded: January 2025 &middot; Length: 1 minute 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zkIV9e2ebDo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zkIV9e2ebDo">Open on YouTube</a></p></div></div></div>
 
 ### Direction and geometry checks
 
 Witnesses frequently omit exact bearings, [elevation]({{ 'elevation/' | relative_url }}) angles and movement paths. AI-assisted intake systems can improve this by forcing structured directional data:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -430,12 +424,10 @@ A strong triage system therefore performs automated checks against:
 
 These checks do not “debunk” a case automatically. They generate candidate explanations with confidence levels.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-3-dark.svg" | relative_url }}" alt="Sighting Wave illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6_nj_sighting_w_a11a2a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Duplicate and influence detection
 
 Mass sighting waves produce duplicates in several forms:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -460,9 +452,7 @@ Once separate incidents merge into one emotionally charged public story, later i
 
 The New Jersey case therefore serves as a practical warning for AI-assisted UFO investigation systems: the first challenge in a mass sighting event is often not solving the mystery, but preventing many different mysteries from collapsing into one.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hBcqDak0bIo" title="FBI, DHS aid NJ drone response; Watchdog calls for DOE AI upgrades | The Daily Scoop Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hBcqDak0bIo" target="_blank" rel="noopener noreferrer">FBI, DHS aid NJ drone response; Watchdog calls for DOE AI upgrades | The Daily Scoop Podcast</a></p><p class="youtube-embed-meta">Channel: FedScoop &middot; Views: 465 &middot; Uploaded: December 2024 &middot; Length: 3 minutes 42 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hBcqDak0bIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hBcqDak0bIo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -855,6 +845,7 @@ The New Jersey case therefore serves as a practical warning for AI-assisted UFO 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64
 
 A viral UFO clip can appear to show impossible acceleration, shape-shifting lights or sudden directional changes even when the [original]({{ 'original-evidence/' | relative_url }}) recording was far less dramatic. In many cases, the apparent “movement” is created not by the object in the sky, but by the way the video was reposted, compressed, cropped or screen-recorded before it spread online.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-1-dark.svg" | relative_url }}" alt="Repost artefacts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters directly to AI-assisted UFO sighting investigation. Automated motion tracking, frame comparison and trajectory analysis depend on stable source footage. Once a clip passes through several social platforms, the software may start analysing compression artefacts instead of the original event. Investigators can end up measuring codec errors, playback stutter or [digital zoom]({{ 'digital-zoom/' | relative_url }}) distortions as if they were real object behaviour. Modern forensic research repeatedly warns that recompression, [metadata]({{ 'metadata/' | relative_url }}) stripping and recaptured screen footage can significantly alter visible motion and weaken authenticity analysis. Amped Blog <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Getting to the...</span></span></span>
 
@@ -289,7 +288,6 @@ Modern codecs save space by predicting what changes between frames instead of st
 
 When the subject is only a few bright pixels, the encoder may incorrectly estimate:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Object boundaries
@@ -301,7 +299,6 @@ When the subject is only a few bright pixels, the encoder may incorrectly estima
 </div>
 
 The result can produce:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -324,7 +321,6 @@ This can create the illusion that the UFO itself is accelerating erratically.
 
 A common failure mode in viral [reposts]({{ 'reposts/' | relative_url }}) looks like this:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A witness zooms digitally onto a bright point in the sky.
@@ -346,7 +342,6 @@ Some reposts are not merely compressed. They are sharpened, upscaled or filtered
 
 These edits can create false [geometry]({{ 'geometry/' | relative_url }}):
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Rings around lights
@@ -366,7 +361,6 @@ This becomes particularly misleading when viewers pause individual frames. Compr
 A repost often changes not only image quality but also framing. Viral UFO clips are routinely zoomed, cropped vertically or reframed to maximise engagement on social platforms.
 
 The object becomes larger on screen, but the evidence becomes weaker.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/28L2XalNr5A" title="Warp Stabilizer + Camera-Shake Deblur + Rolling Shutter Repair | Effects of After Effects" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer">Warp Stabilizer + Camera-Shake Deblur + Rolling Shutter Repair | Effects of After Effects</a></p><p class="youtube-embed-meta">Channel: Jake In Motion &middot; Views: 26.4K &middot; Uploaded: February 2022 &middot; Length: 26 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=28L2XalNr5A">Open on YouTube</a></p></div></div></div>
 
@@ -395,7 +389,6 @@ Many viral UFO clips already begin with extreme smartphone zoom. Social repostin
 
 Each enlargement amplifies:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Sensor noise
@@ -411,7 +404,6 @@ The result can resemble shape-changing craft or rapid directional movement.
 Aliasing and moiré research in digital imaging shows that scaling and compression can generate patterns and apparent structures that were not part of the original scene. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pomfort.com/article/qc-series-aliasing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pomfort.com">[Pomfort]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pomfort.com</span><span class="citation-popover-title">Aliasing might occur from scaling or compressing an image</span><span class="citation-popover-snippet">QC series – Aliasing and Moiré: Navigating quality...April 11, 2024 — 11 Apr 2024 — In this article, we look at an image artifact...</span><span class="citation-popover-meta">Published: April 11, 2024</span></span></span>
 
 In UFO discussions, these artefacts are often interpreted as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -439,7 +431,6 @@ These systems can:
 When applied to a tiny bright object, the stabiliser may deform the object itself. Editing tutorials for common stabilisation tools openly discuss rolling-shutter correction, edge synthesis and motion smoothing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=28L2XalNr5A" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">r &amp; Rolling Shutter Repair effects in Adobe After Effects...</span></span></span>
 
 In UFO analysis, this means a reposted clip may no longer represent a direct optical recording at all. It may represent an algorithm’s best guess about how motion should appear.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-2-dark.svg" | relative_url }}" alt="Repost artefacts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Screen recordings and broken evidence chains
@@ -478,7 +469,6 @@ Moiré artefacts are especially common. These patterns arise when two pixel grid
 
 Online viewers often interpret these effects as behaviour of the UFO itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9ucxKwZmec" title="Warp Stabilizer EXPLAINED - Fix Shaky Video in Premiere Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer">Warp Stabilizer EXPLAINED - Fix Shaky Video in Premiere Pro</a></p><p class="youtube-embed-meta">Channel: Matt WhoisMatt Johnson &middot; Views: 173.6K &middot; Uploaded: June 2021 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9ucxKwZmec">Open on YouTube</a></p></div></div></div>
 
 ### Playback stutter can resemble acceleration
@@ -495,7 +485,6 @@ If frames drop during playback:
 This is particularly dangerous for frame-by-frame AI analysis. A tracking system may interpret dropped playback frames as genuine acceleration events.
 
 At that point, investigators are not analysing the sky event anymore. They are analysing the behaviour of two different consumer devices interacting through layered compression systems.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-3-dark.svg" | relative_url }}" alt="Repost artefacts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a_viral_reposts_3655f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Evidence chains become difficult to reconstruct
@@ -519,7 +508,6 @@ Metadata research consistently notes that social platforms often strip or alter 
 * Whether the footage was screen-captured from another source
 
 A dramatic repost may therefore contain less usable evidence than a dull-looking original.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y4TM3rWCfNw" title="Video Compression Artifacts and Quality Challenges | Marco Fontani" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y4TM3rWCfNw" target="_blank" rel="noopener noreferrer">Video Compression Artifacts and Quality Challenges | Marco Fontani</a></p><p class="youtube-embed-meta">Channel: Belkasoft &middot; Views: 486 &middot; Uploaded: August 2025 &middot; Length: 3 minutes 11 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y4TM3rWCfNw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y4TM3rWCfNw">Open on YouTube</a></p></div></div></div>
 
@@ -965,6 +953,7 @@ In many cases, the strangeness fades as the evidence quality improves.
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

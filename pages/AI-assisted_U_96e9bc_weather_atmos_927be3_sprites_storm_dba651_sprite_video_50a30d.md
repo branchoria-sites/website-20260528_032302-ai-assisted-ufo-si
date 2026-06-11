@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_db
 
 A short, blurry phone clip can turn a distant atmospheric flash into a convincing UFO claim within minutes. In reports involving red “objects” above thunderstorms, frame-by-frame [review]({{ 'review/' | relative_url }}) is often the fastest way to separate a transient luminous event such as a sprite from a solid airborne object. The key question is not whether the light looked strange in real time, but whether the video behaves like a physical craft, a lightning-related plasma event, or a camera artefact once individual frames are inspected.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1-dark.svg" | relative_url }}" alt="Video tests illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because [sprites]({{ 'sprites/' | relative_url }}) and related upper-atmosphere flashes can last only a few milliseconds, sometimes appearing in just one or two frames of standard smartphone footage. NOAA and NASA both describe sprites as extremely brief transient luminous events linked to thunderstorms, often red in colour and visible high above storm systems. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/citizen-science/spritacular/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceSpritacular4 Aug 2023 — Transient Luminous Events (TLEs) are colorful, bright, faster-than-lightning flashes that thunderstor...</span></span></span> In UFO investigations, those characteristics create a recurring problem: witnesses may sincerely report a hovering structured object when the recording actually contains a momentary atmospheric discharge amplified by compression, exposure, and motion blur.
 
@@ -280,7 +279,6 @@ This matters because [sprites]({{ 'sprites/' | relative_url }}) and related uppe
 A normal phone records at 24, 30, or 60 frames per second. At 30 fps, each frame represents roughly 33 milliseconds. Many sprites last for less time than that. Some therefore appear in only a single frame, while others partially bleed into adjacent frames because of exposure timing and sensor readout behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earth.com/news/nasa-extraordinary-event-photo-storms-red-sprites-from-iss-astronauts/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earth.com">[Earth.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earth.com</span><span class="citation-popover-title">nasa extraordinary event photo storms red sprites from iss astronauts</span><span class="citation-popover-snippet">NASA shares photos of an extraordinary event witnessed...Mar 10, 2026 — A mysterious phenomenon known as “red sprites” randomly occur in...</span></span></span> Wikipedia That alone becomes a major investigative clue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
 
 A genuine structured object moving through the atmosphere usually shows continuity:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ When investigators isolate frames around the event, the flash may appear absent 
 
 Many UFO witnesses describe “jellyfish”, “tentacles”, or “red columns”. Those descriptions overlap closely with documented sprite morphology. Frame extraction often reveals:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Faint downward filaments
@@ -327,7 +324,6 @@ One useful implementation step in AI-assisted investigation is horizon registrat
 
 Sprites usually appear far above cumulonimbus tops. If the light remains vertically associated with the storm mass across stabilised frames, that supports an atmospheric explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A-SZryVqFHo" title="Earth&#x27;s Rarest Lightning Finally Caught on Camera | Transient Luminous Events" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A-SZryVqFHo" target="_blank" rel="noopener noreferrer">Earth&#x27;s Rarest Lightning Finally Caught on Camera | Transient Luminous Events</a></p><p class="youtube-embed-meta">Channel: Astrum &middot; Views: 2.1M &middot; Uploaded: May 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A-SZryVqFHo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A-SZryVqFHo">Open on YouTube</a></p></div></div></div>
 
 ### Delayed appearance after lightning
@@ -335,7 +331,6 @@ Sprites usually appear far above cumulonimbus tops. If the light remains vertica
 A surprisingly useful clue is timing offset. Sprites are often triggered after strong lightning discharges below the cloud deck. Frame-by-frame review sometimes reveals a lower-cloud lightning pulse occurring just before the red upper-atmosphere flash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</span></span></span>
 
 AI-assisted workflows can automate this check by:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -355,7 +350,6 @@ The most common investigative mistake is treating an expanding plasma structure 
 ### Branching behaviour matters
 
 Sprites often spread laterally or branch vertically within a single exposure interval. A solid object rarely changes internal geometry that quickly. Frame stepping may show:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -378,7 +372,6 @@ Once stabilised, many supposed manoeuvres disappear.
 
 This matters especially in “zig-zag UFO” claims linked to storms. If the apparent object motion exactly mirrors camera shake vectors, the movement is probably not real. AI-assisted motion analysis can quantify this by comparing the flash trajectory against background star movement, skyline drift, or rolling-shutter distortion.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-2-dark.svg" | relative_url }}" alt="Video tests illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Duration testing is often decisive
 
@@ -387,7 +380,6 @@ Sprites are brief. Aircraft are persistent.
 That sounds obvious, but online UFO clips are frequently reposted at slowed playback speeds without disclosing the [original]({{ 'original-evidence/' | relative_url }}) timing. A one-frame flash stretched into a five-second social-media clip can appear like a hovering structured object.
 
 Investigators therefore examine:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -401,7 +393,6 @@ Investigators therefore examine:
 
 A true sprite may only occupy 33 milliseconds in the source file even though reposted versions imply a much longer event.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NBPjUcMGqbY" title="What Is a Sprite? Earth&#x27;s Super Rare Red Lightning Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NBPjUcMGqbY" target="_blank" rel="noopener noreferrer">What Is a Sprite? Earth&#x27;s Super Rare Red Lightning Explained</a></p><p class="youtube-embed-meta">Channel: FOX Weather &middot; Views: 259.5K &middot; Uploaded: January 2023 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NBPjUcMGqbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NBPjUcMGqbY">Open on YouTube</a></p></div></div></div>
 
 ## Common artefacts that exaggerate motion
@@ -414,7 +405,6 @@ Most smartphones use CMOS sensors with rolling shutter readout, meaning differen
 
 For sprite-like events, that can create:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Artificial elongation
@@ -425,7 +415,6 @@ For sprite-like events, that can create:
 </div>
 
 To a casual viewer, these distortions may resemble a structured craft or energy beam.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-3-dark.svg" | relative_url }}" alt="Video tests illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_sprite_video_50a30d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Compression smearing
@@ -448,7 +437,6 @@ Modern phones continuously warp frames to reduce shake. During sudden bright eve
 This can create the false impression that the object changed direction instantly or accelerated unnaturally.
 
 Frame-by-frame inspection often reveals the background warping simultaneously, exposing the movement as computational correction rather than true aerial motion.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tGPQ5kzJ9Tg" title="Red Sprites and Blue Jets Explained - New Discovery!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer">Red Sprites and Blue Jets Explained - New Discovery!</a></p><p class="youtube-embed-meta">Channel: Pecos Hank &middot; Views: 1.4M &middot; Uploaded: May 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg">Open on YouTube</a></p></div></div></div>
 
@@ -860,6 +848,7 @@ Still, frame-by-frame testing sharply narrows the field of plausible explanation
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

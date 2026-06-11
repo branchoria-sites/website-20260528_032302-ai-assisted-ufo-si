@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5
 
 Precise timing checks are one of the fastest ways to eliminate many UFO and UAP reports as ordinary satellite events. A witness may describe a silent light that appeared suddenly, brightened, drifted steadily for a few seconds, then vanished without warning. On first impression the behaviour can seem extraordinary. In practice, though, that sequence often matches a known satellite pass combined with a brief flare or entry into Earth’s shadow.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-dark.svg" | relative_url }}" alt="Timing Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, timing matters more than dramatic description. A report that matches a satellite trajectory within seconds, aligns with the correct sky position, and disappears at the exact point where orbital models predict shadow entry is usually no longer a strong unexplained case. Automated cross-checking against orbital databases has therefore become one of the most effective early-stage filtering tools in modern sighting analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Heavens-Above" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
@@ -298,7 +297,6 @@ Even approximate values can be enough to test a satellite explanation. A report 
 
 The strongest satellite matches tend to show four features together:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Timing agreement within seconds or a small number of minutes
@@ -319,7 +317,6 @@ Satellite flares are valuable because they are governed by geometry rather than 
 The classic Iridium flares demonstrated this dramatically. Observers could predict the exact second of maximum brightness years in advance because the spacecraft orientation was tightly controlled. Investigators learned an important lesson from this era: a witness description that sounds extraordinary may still follow a completely calculable orbital event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/stargazing-and-observing/celestial-objects-to-watch/observing-iridium-flares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-snippet">Sky &amp; TelescopeHow to Catch an Iridium FlareImelda Joson and Edwin Aguirre timed this 30-second exposure to capture Iridium satellite num...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/iridium.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverIridium FlaresFlare Prediction Programs. The flares/glints can now be predicted. A fully operational Iridium satellite...</span></span></span>
 
 A typical flare-based misidentification sequence looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,7 +347,6 @@ Investigators increasingly use automation to compare witness timestamps against:
 
 This allows rapid triage before analysts spend time on more exotic interpretations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XUbG8jboh4M" title="Getting oriented to better learn the night sky: Stargazing Basics 1 of 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer">Getting oriented to better learn the night sky: Stargazing Basics 1 of 3</a></p><p class="youtube-embed-meta">Channel: Eyes on the Sky &middot; Views: 814.7K &middot; Uploaded: July 2012 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XUbG8jboh4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XUbG8jboh4M">Open on YouTube</a></p></div></div></div>
 
 ## Comparing flare peaks with reported motion
@@ -367,7 +363,6 @@ Most satellites move smoothly across the sky at constant angular speed. [Aircraf
 
 A useful timing clue is symmetry. Many flare events brighten and fade over similar durations. If witness accounts describe:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * gradual brightening,
@@ -379,7 +374,6 @@ A useful timing clue is symmetry. Many flare events brighten and fade over simil
 the pattern often supports a reflective explanation.
 
 By contrast, reports involving:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -408,7 +402,6 @@ This becomes especially common:
 
 Timing software can predict these shadow-entry moments very accurately. If a witness reports disappearance at 21:17:30 and orbital calculations show shadow ingress at roughly the same second in the same part of the sky, investigators usually treat that as strong explanatory evidence.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-dark.svg" | relative_url }}" alt="Timing Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When timing evidence weakens the satellite theory
 
@@ -425,7 +418,6 @@ A satellite explanation becomes difficult if:
 Small discrepancies are normal because witness recall is imperfect. Large discrepancies are more significant.
 
 For example, if the only candidate satellite passed 20 minutes earlier on the opposite side of the sky, investigators should not force a match simply because the report involved a bright light.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/e-WDx7byI0k" title="UFO&#x27;s Over Palmdale August 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer">UFO&#x27;s Over Palmdale August 2022</a></p><p class="youtube-embed-meta">Channel: FADE TO BLACK Radio &middot; Views: 5.2K &middot; Uploaded: November 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=e-WDx7byI0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=e-WDx7byI0k">Open on YouTube</a></p></div></div></div>
 
@@ -449,7 +441,6 @@ Cases become more difficult when: <span class="citation-chip-wrap"><a class="cit
 * and the described motion conflicts with orbital data.
 
 AI systems are useful here because they can compare witness timelines against one another and against satellite predictions simultaneously. Consistency across independent reports can expose both false positives and mistaken dismissals.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-dark.svg" | relative_url }}" alt="Timing Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_satellite_tim_172327-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Tumbling satellites and incomplete predictions
@@ -486,7 +477,6 @@ Some workflows also use natural language processing to identify flare-like descr
 are statistically associated with satellite sightings more often than with aircraft reports.
 
 That does not mean every such report is solved. It means the system can prioritise the most likely explanations first.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MwGoy4azFrM" title="How to Identify Stars, Planets, and Satellites in the Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MwGoy4azFrM" target="_blank" rel="noopener noreferrer">How to Identify Stars, Planets, and Satellites in the Night Sky</a></p><p class="youtube-embed-meta">Channel: CoconutScienceLab &middot; Views: 23.9K &middot; Uploaded: June 2024 &middot; Length: 4 minutes 38 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MwGoy4azFrM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MwGoy4azFrM">Open on YouTube</a></p></div></div></div>
 
@@ -904,6 +894,7 @@ That filtering role is central to AI-assisted UFO investigation. The goal is not
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

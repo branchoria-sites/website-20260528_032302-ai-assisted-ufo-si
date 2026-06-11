@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_26
 
 A surprisingly common failure in UFO or UAP investigation is the “perfect satellite match” that only exists because the orbital data are wrong, stale, or used outside their safe prediction window. In practice, many online satellite trackers rely on Two-Line Element sets, usually called TLEs: compact orbital snapshots that estimate where a satellite should be at a given time. Those predictions drift over time, especially for low Earth orbit objects such as Starlink satellites, rocket bodies, and debris. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Two-line_element_set" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Two-line element set</span><span class="citation-popover-snippet">Two-line element set</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-dark.svg" | relative_url }}" alt="Orbital Data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters directly to AI-assisted UFO analysis. A witness may report a bright moving light over Manchester at 21:14, and an automated tool may confidently announce “Starlink satellite identified”. But if the prediction used orbital data generated days or weeks after the sighting, or if the object had manoeuvred, decayed, or experienced changing atmospheric drag, the claimed match can be misleading or entirely false. Good investigation workflow therefore treats satellite identifications as probability assessments rather than exact answers.
 
@@ -322,7 +321,6 @@ One of the most common analytical errors appears when investigators enter an old
 
 This creates a hidden mismatch between:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * the date of the UFO report
@@ -338,7 +336,6 @@ Jonathan McDowell’s historical TLE archive explicitly warns that archived orbi
 This issue becomes especially serious in social media UFO debunking. Viral claims are often countered within minutes using satellite apps or browser tools that were never designed for forensic historical reconstruction. The software may return the “nearest” orbital object whether or not the fit is genuinely strong.
 
 An AI-assisted workflow should therefore record:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -376,7 +373,6 @@ First, the constellation is extremely large, meaning many satellites may pass th
 
 A poor-quality workflow may therefore:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. find a Starlink satellite roughly overhead,
@@ -403,14 +399,12 @@ A stronger workflow instead checks:
 
 If several candidate satellites produce similarly weak matches, the result should remain “possible but uncertain” rather than “identified”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-dark.svg" | relative_url }}" alt="Orbital Data illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## False precision in automated UFO pipelines
 
 AI systems can accidentally amplify weak orbital evidence because automated pipelines tend to reward nearest-neighbour matching.
 
 A machine-learning workflow may:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -424,7 +418,6 @@ A machine-learning workflow may:
 That process can look scientific while hiding fragile assumptions underneath.
 
 The danger increases when:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -449,7 +442,6 @@ For public-facing investigation work, confidence scoring is therefore more usefu
 * **no reliable orbital fit**
 
 That distinction matters because many sightings genuinely remain ambiguous after satellite checks.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-dark.svg" | relative_url }}" alt="Orbital Data illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Brightness predictions are often less reliable than track predictions
@@ -893,6 +885,7 @@ That does not mean satellite checks are unreliable. They remain one of the most 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

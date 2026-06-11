@@ -277,14 +277,12 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78
 
 In modern UFO and UAP investigation, one of the biggest problems is not the [original]({{ 'original-evidence/' | relative_url }}) sighting itself but what happens afterwards. A witness uploads a video. An online database or investigator notes that a Starlink satellite train passed nearby, or that an [aircraft]({{ 'aircraft/' | relative_url }}) was in the area, or that balloons were reported locally. The explanation is initially framed as tentative: “possibly Starlink”, “consistent with aircraft lighting”, or “probable balloon”. A few reposts later, the uncertainty disappears and the case is described as “confirmed solved”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-dark.svg" | relative_url }}" alt="Soft Debunks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That shift matters because public UFO databases increasingly depend on automated matching systems, AI-assisted similarity searches, and rapid correlation against aviation, satellite, [weather]({{ 'weather/' | relative_url }}), and astronomical data. Those systems are useful for narrowing possibilities, but they are not the same thing as proof. A candidate explanation can fit many features of a sighting while still failing to meet the standard for a confirmed identification. Public-facing summaries often flatten that distinction. The result is a growing category of what investigators sometimes call “soft debunks”: explanations that are plausible and widely repeated, but never fully demonstrated.
 
 ## Why automated matching creates false certainty
 
 AI-assisted UFO workflows are designed to reduce the huge number of possible explanations attached to a report. A structured [case file]({{ 'case-file/' | relative_url }}) may automatically compare the sighting against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -328,7 +326,6 @@ A witness describes lights in formation, pulsing objects, or a bright moving poi
 
 Examples include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Starlink trains
@@ -342,13 +339,11 @@ Examples include:
 
 At this stage the explanation is often reasonable. Many sightings genuinely resemble these objects.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/adCsqd_-M94" title="Governments Using AI To Decode Massive UFO Databases | WION Podcast" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer">Governments Using AI To Decode Massive UFO Databases | WION Podcast</a></p><p class="youtube-embed-meta">Channel: WION &middot; Views: 322 &middot; Uploaded: May 2026 &middot; Length: 2 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=adCsqd_-M94" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=adCsqd_-M94">Open on YouTube</a></p></div></div></div>
 
 ### Step 2: The correlation is stronger than the underlying evidence
 
 The database match may rely on only a few overlapping variables:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -395,14 +390,12 @@ Once enough reposts use the simplified version, the explanation begins to look a
 
 This is a major governance problem in public UFO investigation systems. The confidence level attached to the explanation is no longer tied to evidence quality. Instead, it becomes tied to repetition volume.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-dark.svg" | relative_url }}" alt="Soft Debunks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Starlink correlations are especially vulnerable
 
 Starlink has become one of the most common sources of soft debunks because it genuinely explains a large number of sightings while also creating ideal conditions for over-identification.
 
 Several factors contribute to this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -439,7 +432,6 @@ This matters because many unrelated objects can superficially resemble Starlink 
 
 AI systems are particularly vulnerable to this kind of pattern collapse because similarity matching naturally prioritises resemblance over proof.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mvsU4p0Gsas" title="Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer">Breaking Down UAP Footage with the Head of The Pentagon’s UAP Taskforce, Dr. Jon Kosloski</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 1.5M &middot; Uploaded: August 2025 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mvsU4p0Gsas" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mvsU4p0Gsas">Open on YouTube</a></p></div></div></div>
 
 ## Examples of soft debunks in UFO reporting
@@ -467,7 +459,6 @@ The important point is not which side is correct. It is that there is a meaningf
 * a formally resolved identification
 
 Public discussion often collapses those categories together.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-dark.svg" | relative_url }}" alt="Soft Debunks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_soft_debunk_m_f36aef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### MUFON case dispositions
@@ -497,7 +488,6 @@ Several AI-related effects contribute to this:
 An especially important issue is missing-data blindness. AI systems can sometimes appear more confident than the underlying evidence justifies because they are trained to produce ranked outputs even when critical variables are absent.
 
 A sighting with no precise timestamp may still generate a “best match”. That does not mean the match is reliable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q8u1GHHz2Ko" title="Brazil UFO Flap Solved! (Starlink Again)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q8u1GHHz2Ko" target="_blank" rel="noopener noreferrer">Brazil UFO Flap Solved! (Starlink Again)</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 17.6K &middot; Uploaded: November 2022 &middot; Length: 1 minute 45 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q8u1GHHz2Ko" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q8u1GHHz2Ko">Open on YouTube</a></p></div></div></div>
 
@@ -935,6 +925,7 @@ That distinction is where responsible UFO investigation actually lives.
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

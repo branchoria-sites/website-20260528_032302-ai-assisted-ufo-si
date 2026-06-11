@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_79
 
 A common UFO report begins with a driver noticing a bright light low in the evening sky that appears to follow the car for miles. Witnesses often describe the object as pacing the vehicle, stopping when they stop, or remaining fixed ahead despite changes in speed or direction. In many cases, the object is Venus. The effect is not caused by the planet moving with the car, but by a normal feature of human depth perception: extremely distant objects barely shift position relative to the landscape as an observer moves.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1-dark.svg" | relative_url }}" alt="Following Cars illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this matters because “following car” reports can sound dramatic while still matching a well-understood visual mechanism. A bright planet low in the western sky, especially Venus near sunset, can create a powerful illusion of pursuit when viewed from a moving vehicle. Investigators therefore test the [geometry]({{ 'geometry/' | relative_url }}) of the sighting before treating apparent pacing behaviour as evidence of controlled flight or intelligent tracking. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich &#124; HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
 
@@ -286,7 +285,6 @@ For AI-assisted UFO sighting investigation, this matters because “following ca
 The core mechanism is parallax, the apparent shift in an object’s position caused by the observer moving. Nearby objects show strong parallax. Distant objects show almost none.
 
 When driving at night: <span class="citation-chip-wrap"><a class="citation-chip" href="https://nightsky.jpl.nasa.gov/news/39/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nightsky.jpl.nasa.gov">[nightsky.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nightsky.jpl.nasa.gov</span><span class="citation-popover-snippet">Night Sky NetworkIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is vi...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -320,7 +318,6 @@ Roadside scenery moves rapidly while Venus barely moves at all. The brain interp
 
 Witnesses frequently describe this as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “It followed us the whole way.”
@@ -332,7 +329,6 @@ Witnesses frequently describe this as:
 
 These descriptions can be sincere and accurate accounts of what the witness perceived, even when the object itself was stationary in astronomical terms.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_E1XRd_OB7g" title="Venus Express: What Did Scientists Discover On Venus? | Trajectory | Spark" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_E1XRd_OB7g" target="_blank" rel="noopener noreferrer">Venus Express: What Did Scientists Discover On Venus? | Trajectory | Spark</a></p><p class="youtube-embed-meta">Channel: Spark &middot; Views: 20.2K &middot; Uploaded: October 2022 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_E1XRd_OB7g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_E1XRd_OB7g">Open on YouTube</a></p></div></div></div>
 
 ### Twinkling And Colour Changes Add To The Effect
@@ -340,7 +336,6 @@ These descriptions can be sincere and accurate accounts of what the witness perc
 Near the horizon, Venus shines through a thicker layer of atmosphere. Turbulent air can make it flicker, pulse or flash different colours. Royal Museums Greenwich notes that Venus near the horizon can produce “amazing flashing colour effects” often reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich &#124; HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
 
 From a moving car, those atmospheric distortions can resemble:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -362,7 +357,6 @@ These reports become more common during periods when Venus dominates the evening
 
 The “following car” interpretation becomes especially persuasive when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the road runs roughly toward the western horizon,
@@ -375,7 +369,6 @@ The “following car” interpretation becomes especially persuasive when:
 Importantly, the experience can feel deeply personal. A driver may believe the object reacts to their behaviour because the apparent geometry changes with turns in the road. If the vehicle turns away from the planet, the light may suddenly shift to the side window, which can feel like a deliberate manoeuvre.
 
 This does not mean the witness is inventing the experience. The illusion emerges naturally from ordinary visual processing under real driving conditions.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-2-dark.svg" | relative_url }}" alt="Following Cars illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Investigators Test The Explanation
@@ -411,7 +404,6 @@ Modern case-analysis systems can automate this process by:
 
 A strong match often appears quickly.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/49TKDQH_hJ8" title="Curiosity sees Earth and Venus through twilight on Mars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=49TKDQH_hJ8" target="_blank" rel="noopener noreferrer">Curiosity sees Earth and Venus through twilight on Mars</a></p><p class="youtube-embed-meta">Channel: VideoFromSpace &middot; Views: 13.4K &middot; Uploaded: June 2020 &middot; Length: 1 minute 6 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=49TKDQH_hJ8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=49TKDQH_hJ8">Open on YouTube</a></p></div></div></div>
 
 ### Checking Road Geometry
@@ -419,7 +411,6 @@ A strong match often appears quickly.
 Road direction matters more than many witnesses realise.
 
 If a driver travelled generally westward while Venus sat low in the western sky, the planet could remain visually fixed ahead for many kilometres. Investigators therefore compare:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -432,7 +423,6 @@ If a driver travelled generally westward while Venus sat low in the western sky,
 </div>
 
 Geospatial reconstruction is especially useful here because the illusion depends heavily on line-of-sight geometry rather than on the object itself moving.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-3-dark.svg" | relative_url }}" alt="Following Cars illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_venus_followi_60e3ee-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Looking For Contradictions
@@ -465,9 +455,7 @@ For AI-assisted investigation systems, this makes Venus an important early-stage
 
 That does not mean every pacing-light report is automatically solved by astronomy. It means the geometry and environmental context must be checked first. In many western-sky UFO reports, the simplest explanation is not carelessness or hoaxing, but a normal human perception effect produced by one of the brightest objects in the night sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/things-mistaken-for-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[skyatnightmagazine.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">ollowing possibilities...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — So, how do you identify UFOs when asked? Be polite and patient. If the &quot;UFO&quot; is visible...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums Greenwich &#124; HomeVisit the Royal Observatory, Cutty Sark, National Maritime Museum and the Queen&#x27;s House - all at the heart...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6UNS8wU_gqg" title="Parallax - To Determine Stellar Distances" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6UNS8wU_gqg" target="_blank" rel="noopener noreferrer">Parallax - To Determine Stellar Distances</a></p><p class="youtube-embed-meta">Channel: UMDemoLab &middot; Views: 4.2K &middot; Uploaded: May 2011 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6UNS8wU_gqg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6UNS8wU_gqg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -860,6 +848,7 @@ That does not mean every pacing-light report is automatically solved by astronom
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b
 
 A UFO sighting can look persuasive long before it becomes reliable evidence. A sharp-looking video, a confident witness, or an AI system that finds a “match” against [aircraft]({{ 'aircraft/' | relative_url }}), satellites, or drones can create a false sense of certainty when key facts are missing. In practice, many investigations fail not because the object is impossible to identify, but because the [original evidence]({{ 'original-evidence/' | relative_url }}) lacks enough context to test explanations properly.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-dark.svg" | relative_url }}" alt="Evidence Grades illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That is why modern AI-assisted UFO investigation increasingly separates two different questions: “What explanation fits?” and “How trustworthy is the underlying evidence?” A weak clip can still resemble a balloon, aircraft, or drone. Equally, a dramatic-looking sighting can remain unresolved simply because the timestamp is vague, the original media file is missing, or the viewing direction cannot be reconstructed. NASA’s independent UAP study stressed that machine learning only becomes useful when supported by calibrated sensors, multiple measurements, and strong metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s UAP Independent Study Team is made up of 16 experts from diverse backgrounds in science...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportNASA&#x27;s UAP Independent Study Team is made up of 16 experts from diverse backgrounds in science...</span></span></span>
 
@@ -305,7 +304,6 @@ An evidence-quality grading system exists to stop AI from turning incomplete dat
 ## Why a convincing UFO clip may still be weak evidence
 
 The public often judges UFO material by emotional impact: clarity, strangeness, witness confidence, or apparent manoeuvres. Investigators usually care about different questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,7 +380,6 @@ NASA’s report specifically warned that missing sensor metadata severely limits
 
 One major problem in modern UFO analysis is that platforms routinely remove or alter metadata during upload. Videos copied through messaging apps, reposted to short-form platforms, or screen-recorded from another device may lose:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * original timestamps
@@ -396,7 +393,6 @@ One major problem in modern UFO analysis is that platforms routinely remove or a
 NIST forensic guidance notes that even “re-wrapping” a video container can remove or alter metadata while leaving the visible footage apparently unchanged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nist.gov/document/osac-2022-s-0031-standard-guide-forensic-digital-video-examination-workflow-version-20" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nist.gov</span><span class="citation-popover-snippet">OSAC 2022-S-0031 Standard Guide for Forensic Digital...This technique, commonly known as re-wrapping, preserves the video bitstream...</span></span></span>
 
 This creates a common investigative trap:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -423,7 +419,6 @@ when the honest conclusion should be:
 
 That distinction sounds subtle but changes the meaning entirely.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-dark.svg" | relative_url }}" alt="Evidence Grades illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### A safer two-layer scoring model
 
@@ -449,7 +444,6 @@ Evidence grading often changes not only certainty levels, but the entire interpr
 
 A handheld phone video may appear to show impossible acceleration. But once investigators identify:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * heavy digital zoom
@@ -467,7 +461,6 @@ If the original file is unavailable, investigators may never determine whether t
 
 Many “triangle craft” reports become harder to trust once investigators discover:
 
-
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
 * smartphone sharpening
@@ -478,7 +471,6 @@ Many “triangle craft” reports become harder to trust once investigators disc
 </div>
 
 Again, the problem is not necessarily deception. The issue is that poor-quality imagery allows ordinary effects to mimic extraordinary shapes.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-dark.svg" | relative_url }}" alt="Evidence Grades illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Example: unresolved military footage
@@ -933,6 +925,7 @@ That restraint is not a weakness in UFO analysis. It is the mechanism that keeps
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

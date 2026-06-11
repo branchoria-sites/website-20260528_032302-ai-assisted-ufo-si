@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64
 
 A UFO video often becomes less useful as it becomes more famous. The clip that spreads across TikTok, YouTube, X, Facebook or Reddit is usually not the untouched camera file recorded at the scene. It is more often a cropped, recompressed, screen-recorded or edited repost stripped of the timing, location and technical data that investigators need to test what actually happened.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-1-dark.svg" | relative_url }}" alt="Original Files illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this distinction matters more than visual drama. A blurry original file with intact [metadata]({{ 'metadata/' | relative_url }}) can support timeline reconstruction, [geolocation]({{ 'geolocation/' | relative_url }}) checks, aircraft correlation and camera analysis. A sharper viral repost may be almost impossible to verify because the original timestamps, encoding details and surrounding context have disappeared. NASA’s independent UAP study highlighted the same broader problem: analysis breaks down when sensor metadata and baseline measurements are missing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
@@ -315,7 +314,6 @@ Heavy compression can create visual artefacts that resemble unusual motion or en
 A reposted UFO clip may therefore exaggerate apparent oddities that were weaker or absent in the original recording. Repeated uploads worsen the problem because each encode pass can introduce new distortions.
 
 Investigators commonly lose access to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -337,7 +335,6 @@ Many viral UFO clips are reposted vertically, zoomed-in or cropped for social me
 
 That missing information may include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Horizon lines
@@ -357,7 +354,6 @@ This is especially important in smartphone sightings where [digital zoom]({{ 'di
 ### Screen recordings break the evidence chain
 
 Many widely shared UFO videos are not even direct uploads. They are recordings of another screen playing the clip. This creates an additional layer of distortion:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -382,7 +378,6 @@ In UFO investigation workflows, these hidden details help establish whether a si
 
 A precise creation timestamp allows investigators to compare the clip against:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Flight tracking records
@@ -403,7 +398,6 @@ For example, Venus near the horizon may explain a glowing stationary light at 21
 ### Device information matters
 
 Original files may reveal:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -433,7 +427,6 @@ That does not automatically mean a UFO video is fake. A witness may genuinely tr
 
 AI-assisted workflows can flag suspicious inconsistencies such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Missing frame sequences
@@ -446,7 +439,6 @@ AI-assisted workflows can flag suspicious inconsistencies such as:
 </div>
 
 The strongest investigations therefore preserve the untouched source file separately from public sharing copies.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-2-dark.svg" | relative_url }}" alt="Original Files illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How reposts distort UFO claims
@@ -479,7 +471,6 @@ AI-assisted case systems can partially counter this by:
 
 But these methods work best when at least one early-generation version survives.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
 
 ### Viral edits reshape interpretation
@@ -498,7 +489,6 @@ A neutral clip of lights hovering near an airport may feel mysterious after:
 The visual evidence has not changed, but the viewer’s interpretation has.
 
 This is one reason serious UFO analysis separates observational data from social amplification. The more emotionally packaged a clip becomes, the harder it is to evaluate calmly.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-3-dark.svg" | relative_url }}" alt="Original Files illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_original_file_64b43a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reposts can erase mundane explanations
@@ -954,6 +944,7 @@ For AI-assisted UFO sighting investigation, the lesson is straightforward: the c
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

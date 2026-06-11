@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8
 
 A surprising number of low-altitude UFO reports depend on a simple question that is rarely tested properly: could the witness actually see the proposed object from that location? A bright “hovering craft” near the horizon may later be identified as Venus, the Moon, Jupiter, an [aircraft]({{ 'aircraft/' | relative_url }}) on approach, or a satellite flare, but those explanations fail immediately if hills, ridgelines, tower blocks, woodland or coastal cliffs blocked the line of sight at the reported angle.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1-dark.svg" | relative_url }}" alt="Horizon Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is why terrain-aware horizons matter in reproducible sky mapping. A flat astronomical horizon assumes an unobstructed 0° skyline. Real observers almost never have that view. In valleys, dense cities and coastal roads, the visible horizon may sit several degrees above the true horizon, enough to hide bright celestial objects entirely. Modern AI-assisted UFO investigation workflows increasingly combine astronomical software with digital [elevation]({{ 'elevation/' | relative_url }}) models, terrain profiles, GIS tools and calibrated witness photography to test whether a suspected explanation was physically visible at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span>
 
@@ -284,7 +283,6 @@ Venus is the classic example. It is extremely bright, often appears stationary t
 The distinction matters because astronomy software usually defaults to an idealised horizon. The software may correctly show Venus at 3° altitude in the west, yet a witness standing behind a ridge or urban skyline may have had no possible view of it. The result is a false debunking: the reconstruction says Venus was present, but the real-world line of sight says otherwise.
 
 The same problem affects:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,11 +307,236 @@ A terrain-aware reconstruction combines astronomy with line-of-sight geography. 
 
 The core workflow usually includes:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Exact observer coordinates
 2. Observer height above ground
+
+3. Terrain elevation data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
+4. Direction and altitude calculations
+5. Time-synchronised astronomical positions
+6. Witness imagery or skyline references
+
+</div>
+
+The terrain component commonly comes from a Digital Elevation Model (DEM), which represents the Earth’s surface as a grid of elevation values. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/digital-elevation-models-terminology-and-definitions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">digital elevation models terminology and definitions</span><span class="citation-popover-snippet">Digital elevation models: Terminology and definitions8 Sept 2021 — Digital elevation models (DEMs) provide fundamental depictions of the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
+
+An investigation system can then calculate the maximum terrain angle in every compass direction around the witness. Instead of assuming a perfectly flat 0° horizon, the software builds a custom skyline.
+
+That skyline can then be compared against:
+
+* Venus altitude
+* [Moon position]({{ 'moon-position/' | relative_url }})
+* Aircraft approach paths
+* Satellite tracks
+* Meteor trajectories
+* Claimed UFO motion
+
+In practical UFO casework, this often changes the interpretation dramatically.
+
+For example:
+
+ScenarioFlat-horizon conclusionTerrain-aware conclusionVenus at 2° altitudeVisible matchHidden behind ridgeMoon near moonsetWitness should see MoonBlocked by city skylineAircraft landing lightsToo low to observeVisible through valley openingSatellite flareHorizon-level visibilityObstructed by coastal cliff
+
+The key point is that the witness did not observe an abstract sky sphere. They observed a specific slice of visible sky shaped by local geography.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wv_Fpvf06Bw" title="Creating a Custom Landscape for Stellarium" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wv_Fpvf06Bw" target="_blank" rel="noopener noreferrer">Creating a Custom Landscape for Stellarium</a></p><p class="youtube-embed-meta">Channel: Martin’s Astrophotography &middot; Views: 17.2K &middot; Uploaded: August 2020 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wv_Fpvf06Bw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wv_Fpvf06Bw">Open on YouTube</a></p></div></div></div>
+
+## Comparing Terrain Models With Witness Photos
+
+Terrain-aware checks become far stronger when investigators compare calculated horizons against real photographs from the witness location.
+
+A calibrated skyline image can anchor the reconstruction far more reliably than memory-based descriptions such as “just above the hill”.
+
+The usual process is:
+
+* Return to the observation point
+* Capture a panoramic skyline image
+* Match landmarks to compass bearings
+* Align visible peaks or buildings with astronomical software
+* Overlay object paths or celestial positions
+
+This approach is especially valuable when witnesses photographed the object itself. Even blurry phone images often preserve important contextual information:
+
+* Rooflines
+* Ridge contours
+* Tree silhouettes
+* Streetlight positions
+* Coastal edges
+* Building spacing
+
+These fixed features can be used to estimate the object's angular altitude.
+
+In many investigations, the horizon line itself becomes the most important evidence in the image.
+
+A common mistake is to analyse only the luminous object while ignoring the skyline [geometry]({{ 'geometry/' | relative_url }}) around it. Yet the geometry may reveal that:
+
+* the object was much lower than remembered
+* the witness camera was tilted
+* the apparent hover occurred above a ridgeline
+* the “rapid descent” was simply movement behind terrain
+
+Custom landscape imports in astronomy tools such as Stellarium are often used for this purpose. Investigators can build a witness-specific skyline panorama or terrain profile so that reconstructed celestial positions appear against the actual visible horizon rather than a generic flat one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">user guide2021-03 v0.21.0: Accurate planet rotation (Libration, central meridians, subsolar points...) 2021-09 v0.21.2: Annual aberra...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/Stellarium/stellarium/discussions/3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">Git Hubhorizon landscape with peakfinder or peakvisor?</span><span class="citation-popover-snippet">#3574Stellarium has no GIS capabilities and does not contain any database of terrestrial mountain peaks, so it&#x27;s best to use software whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stargazerslounge.com/topic/83937-tutorial-custom-stellarium-landscapes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-snippet">Stargazers LoungeTutorial: Custom Stellarium landscapesDec 19, 2010 — You need to add a new folder to the Program Files --- Stellarium...</span></span></span>
+
+This becomes particularly important in long-duration UFO reports where witnesses insist that a bright object remained fixed relative to a hill, church tower or mountain notch. If the reconstructed Venus or Jupiter track follows the same apparent geometry over time, the identification strengthens considerably. If the terrain profile contradicts the witness view, the explanation weakens.
+
+## Testing Blocked Views Near Hills And Cities
+
+Low-altitude sightings near hills are among the easiest cases to misinterpret without terrain modelling.
+
+Suppose a witness reports:
+
+* a bright orange light
+* low in the western sky
+* apparently stationary
+* visible for 20 minutes
+* then disappearing suddenly
+
+A flat-sky reconstruction may show Venus fitting the azimuth and timing perfectly.
+
+However, terrain analysis may reveal:
+
+* a ridgeline at 4° altitude
+* Venus already below 3°
+* no physical line of sight from the witness position
+
+That single terrain measurement can overturn the explanation entirely.
+
+The reverse also happens. Witnesses sometimes insist that “there were no hills in the way”, but DEM-based skyline profiles show a shallow ridge precisely where the object vanished. In those cases, terrain modelling can support an ordinary explanation rather than weaken it.
+
+Cities introduce different complications.
+
+Urban horizons are highly irregular and often dynamic:
+
+* tower blocks
+* cranes
+* rooftop structures
+* elevated railways
+* billboard lighting
+* reflective glass surfaces
+
+A bright planet viewed through gaps between buildings can appear intermittently, producing reports of lights “switching on and off” or “moving between structures”.
+
+City light pollution also compresses perceived depth. Witnesses may struggle to distinguish whether an object sits above a nearby rooftop or far beyond the skyline.
+
+In coastal cases, investigators must additionally account for:
+
+* cliff elevations
+* sea-horizon refraction
+* observer height above water <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ringbell.co.uk/info/hdist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ringbell.co.uk">[ringbell.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ringbell.co.uk</span><span class="citation-popover-snippet">Distance to the Horizon CalculatorThis is a rough guide to determine the distance of the horizon based on the observer&#x27;s height above mea...</span></span></span>
+* harbour lighting
+* offshore platforms
+
+At sea level, the visible horizon differs significantly from an inland ridge horizon. Atmospheric refraction can also slightly extend or distort apparent visibility near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-dark.svg" | relative_url }}" alt="Horizon Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why Witness Height And Camera Position Matter
+
+A terrain-aware horizon is not fixed. Moving only a short distance can change visibility significantly.
+
+Critical variables include:
+
+* standing versus seated observer
+* hillside roads
+* apartment balconies
+* bridge viewpoints
+* elevated car parks
+* drone footage
+* upper-floor windows
+
+Even a small height increase can expose a previously hidden celestial object. Distance-to-horizon calculations demonstrate how observer height changes visibility range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/explain/atmos_refr/horizon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[2A Green Flash Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageDistance to the HorizonThe distance to the horizon in kilometers is about 3.86 km times the square root of the height i...</span></span></span>
+
+This matters in UFO investigations because witnesses often relocate during the sighting:
+
+* walking outside
+* driving uphill
+* stopping on a lay-by
+* climbing stairs
+* filming from different positions
+
+If the reconstruction assumes a single static viewpoint, the geometry may become inaccurate.
+
+Careful [case files]({{ 'case-file/' | relative_url }}) therefore record:
+
+* exact observation point
+* whether the witness moved
+* eye height estimate
+* camera height estimate
+* orientation changes during recording
+
+Some advanced workflows even model the line of sight frame-by-frame across a moving route.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZmJ9m9fMVAk" title="Your Own Landscape in Stellarium - Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZmJ9m9fMVAk" target="_blank" rel="noopener noreferrer">Your Own Landscape in Stellarium - Tutorial</a></p><p class="youtube-embed-meta">Channel: Cosmic Curiosity &middot; Views: 4.4K &middot; Uploaded: January 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZmJ9m9fMVAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZmJ9m9fMVAk">Open on YouTube</a></p></div></div></div>
+
+## Common Failure Modes In Horizon Reconstruction
+
+Terrain-aware analysis improves reliability, but it also introduces new ways to make mistakes.
+
+### DEM Resolution Problems
+
+Low-resolution elevation models can smooth away small but important ridges. A broad regional DEM may miss:
+
+* tree lines
+* embankments
+* local hill crests
+* quarry edges
+* seawalls
+* urban structures
+
+High-resolution lidar-derived terrain data usually performs better where available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-types-elevation-datasets-are-available-what-formats-do-they-come-and-where-can-i-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Those are being systematically replaced with DEMs derived from high-resolution lidar and IfSAR (...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/landsat-missions/landsat-collection-2-digital-elevation-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Landsat Collection 2 Digital Elevation ModelThe DEM sources described below are used in Landsat Collection 2 data processing for all area...</span></span></span>
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-dark.svg" | relative_url }}" alt="Horizon Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+### Ignoring Buildings And Vegetation
+
+Most DEMs represent bare earth rather than the real skyline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span>
+
+That means the calculated horizon may still differ from reality in cities or forests. A witness may have lost visibility behind:
+
+* tower blocks
+* woodland
+* industrial structures
+* roadside trees
+
+This is one reason calibrated photographs are often more valuable than terrain data alone.
+
+### Compass Misalignment
+
+Witness bearings are frequently inaccurate.
+
+People tend to overestimate precision when recalling direction, especially at night. A claimed “due west” sighting may actually fall anywhere from south-west to north-west.
+
+A terrain-aware system only works if the azimuth alignment is credible.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MblIEYBEGpA" title="Understanding the Differences Between Astronomical Horizon and True Horizon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MblIEYBEGpA" target="_blank" rel="noopener noreferrer">Understanding the Differences Between Astronomical Horizon and True Horizon</a></p><p class="youtube-embed-meta">Channel: AstroPhil &middot; Views: 5.9K &middot; Uploaded: November 2024 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MblIEYBEGpA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MblIEYBEGpA">Open on YouTube</a></p></div></div></div>
+
+### Atmospheric Effects
+
+Refraction near the horizon can slightly raise apparent object altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+
+Under unusual conditions, bright objects can appear distorted or temporarily visible beyond the expected geometric horizon. This does not usually invalidate terrain analysis, but it can complicate low-altitude edge cases near sea horizons or temperature [inversions]({{ 'inversions/' | relative_url }}).
+
+## Why Horizon Checks Matter In AI-Assisted UFO Investigation
+
+Terrain-aware horizons are valuable because they constrain speculation with geometry.
+
+Without skyline analysis, almost any low-altitude UFO report can be loosely matched to a bright celestial object. With skyline analysis, the proposed explanation must satisfy stricter conditions:
+
+* correct azimuth
+* correct timing
+* correct brightness
+* correct altitude
+* unobstructed line of sight
+
+That makes the reconstruction more reproducible and more falsifiable.
+
+For AI-assisted investigation systems, terrain modelling also improves automated triage. A workflow can quickly eliminate weak astronomy matches by checking whether the candidate object was actually above the local visible horizon at the reported time.
+
+This prevents two opposite errors:
+
+* forcing a mundane explanation where visibility was impossible
+* treating an explainable sighting as anomalous because the reconstruction ignored terrain
+
+In practical UFO case analysis, the skyline is often as important as the sky itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -706,236 +929,6 @@ The core workflow usually includes:
 })();
 </script>
 </section>
-3. Terrain elevation data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[usgs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
-4. Direction and altitude calculations
-5. Time-synchronised astronomical positions
-6. Witness imagery or skyline references
-
-</div>
-
-The terrain component commonly comes from a Digital Elevation Model (DEM), which represents the Earth’s surface as a grid of elevation values. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/publications/digital-elevation-models-terminology-and-definitions" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-title">digital elevation models terminology and definitions</span><span class="citation-popover-snippet">Digital elevation models: Terminology and definitions8 Sept 2021 — Digital elevation models (DEMs) provide fundamental depictions of the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/3d-elevation-program/new-product-3d-elevation-program-seamless-1-meter-digital-elevation-model-s1m" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">on dataset that merges trillions of lidar-derived terrain points...</span></span></span>
-
-An investigation system can then calculate the maximum terrain angle in every compass direction around the witness. Instead of assuming a perfectly flat 0° horizon, the software builds a custom skyline.
-
-That skyline can then be compared against:
-
-* Venus altitude
-* [Moon position]({{ 'moon-position/' | relative_url }})
-* Aircraft approach paths
-* Satellite tracks
-* Meteor trajectories
-* Claimed UFO motion
-
-In practical UFO casework, this often changes the interpretation dramatically.
-
-For example:
-
-ScenarioFlat-horizon conclusionTerrain-aware conclusionVenus at 2° altitudeVisible matchHidden behind ridgeMoon near moonsetWitness should see MoonBlocked by city skylineAircraft landing lightsToo low to observeVisible through valley openingSatellite flareHorizon-level visibilityObstructed by coastal cliff
-
-The key point is that the witness did not observe an abstract sky sphere. They observed a specific slice of visible sky shaped by local geography.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wv_Fpvf06Bw" title="Creating a Custom Landscape for Stellarium" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wv_Fpvf06Bw" target="_blank" rel="noopener noreferrer">Creating a Custom Landscape for Stellarium</a></p><p class="youtube-embed-meta">Channel: Martin’s Astrophotography &middot; Views: 17.2K &middot; Uploaded: August 2020 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wv_Fpvf06Bw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wv_Fpvf06Bw">Open on YouTube</a></p></div></div></div>
-
-## Comparing Terrain Models With Witness Photos
-
-Terrain-aware checks become far stronger when investigators compare calculated horizons against real photographs from the witness location.
-
-A calibrated skyline image can anchor the reconstruction far more reliably than memory-based descriptions such as “just above the hill”.
-
-The usual process is:
-
-* Return to the observation point
-* Capture a panoramic skyline image
-* Match landmarks to compass bearings
-* Align visible peaks or buildings with astronomical software
-* Overlay object paths or celestial positions
-
-This approach is especially valuable when witnesses photographed the object itself. Even blurry phone images often preserve important contextual information:
-
-* Rooflines
-* Ridge contours
-* Tree silhouettes
-* Streetlight positions
-* Coastal edges
-* Building spacing
-
-These fixed features can be used to estimate the object's angular altitude.
-
-In many investigations, the horizon line itself becomes the most important evidence in the image.
-
-A common mistake is to analyse only the luminous object while ignoring the skyline [geometry]({{ 'geometry/' | relative_url }}) around it. Yet the geometry may reveal that:
-
-* the object was much lower than remembered
-* the witness camera was tilted
-* the apparent hover occurred above a ridgeline
-* the “rapid descent” was simply movement behind terrain
-
-Custom landscape imports in astronomy tools such as Stellarium are often used for this purpose. Investigators can build a witness-specific skyline panorama or terrain profile so that reconstructed celestial positions appear against the actual visible horizon rather than a generic flat one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-snippet">user guide2021-03 v0.21.0: Accurate planet rotation (Libration, central meridians, subsolar points...) 2021-09 v0.21.2: Annual aberra...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://github.com/Stellarium/stellarium/discussions/3574" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: github.com">[GitHub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">github.com</span><span class="citation-popover-title">Git Hubhorizon landscape with peakfinder or peakvisor?</span><span class="citation-popover-snippet">#3574Stellarium has no GIS capabilities and does not contain any database of terrestrial mountain peaks, so it&#x27;s best to use software whi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stargazerslounge.com/topic/83937-tutorial-custom-stellarium-landscapes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stargazerslounge.com">[Stargazers Lounge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stargazerslounge.com</span><span class="citation-popover-snippet">Stargazers LoungeTutorial: Custom Stellarium landscapesDec 19, 2010 — You need to add a new folder to the Program Files --- Stellarium...</span></span></span>
-
-This becomes particularly important in long-duration UFO reports where witnesses insist that a bright object remained fixed relative to a hill, church tower or mountain notch. If the reconstructed Venus or Jupiter track follows the same apparent geometry over time, the identification strengthens considerably. If the terrain profile contradicts the witness view, the explanation weakens.
-
-## Testing Blocked Views Near Hills And Cities
-
-Low-altitude sightings near hills are among the easiest cases to misinterpret without terrain modelling.
-
-Suppose a witness reports:
-
-* a bright orange light
-* low in the western sky
-* apparently stationary
-* visible for 20 minutes
-* then disappearing suddenly
-
-A flat-sky reconstruction may show Venus fitting the azimuth and timing perfectly.
-
-However, terrain analysis may reveal:
-
-* a ridgeline at 4° altitude
-* Venus already below 3°
-* no physical line of sight from the witness position
-
-That single terrain measurement can overturn the explanation entirely.
-
-The reverse also happens. Witnesses sometimes insist that “there were no hills in the way”, but DEM-based skyline profiles show a shallow ridge precisely where the object vanished. In those cases, terrain modelling can support an ordinary explanation rather than weaken it.
-
-Cities introduce different complications.
-
-Urban horizons are highly irregular and often dynamic:
-
-* tower blocks
-* cranes
-* rooftop structures
-* elevated railways
-* billboard lighting
-* reflective glass surfaces
-
-A bright planet viewed through gaps between buildings can appear intermittently, producing reports of lights “switching on and off” or “moving between structures”.
-
-City light pollution also compresses perceived depth. Witnesses may struggle to distinguish whether an object sits above a nearby rooftop or far beyond the skyline.
-
-In coastal cases, investigators must additionally account for:
-
-* cliff elevations
-* sea-horizon refraction
-* observer height above water <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ringbell.co.uk/info/hdist.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ringbell.co.uk">[ringbell.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ringbell.co.uk</span><span class="citation-popover-snippet">Distance to the Horizon CalculatorThis is a rough guide to determine the distance of the horizon based on the observer&#x27;s height above mea...</span></span></span>
-* harbour lighting
-* offshore platforms
-
-At sea level, the visible horizon differs significantly from an inland ridge horizon. Atmospheric refraction can also slightly extend or distort apparent visibility near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-dark.svg" | relative_url }}" alt="Horizon Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why Witness Height And Camera Position Matter
-
-A terrain-aware horizon is not fixed. Moving only a short distance can change visibility significantly.
-
-Critical variables include:
-
-* standing versus seated observer
-* hillside roads
-* apartment balconies
-* bridge viewpoints
-* elevated car parks
-* drone footage
-* upper-floor windows
-
-Even a small height increase can expose a previously hidden celestial object. Distance-to-horizon calculations demonstrate how observer height changes visibility range. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aty.sdsu.edu/explain/atmos_refr/horizon.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aty.sdsu.edu">[2A Green Flash Page]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aty.sdsu.edu</span><span class="citation-popover-snippet">A Green Flash PageDistance to the HorizonThe distance to the horizon in kilometers is about 3.86 km times the square root of the height i...</span></span></span>
-
-This matters in UFO investigations because witnesses often relocate during the sighting:
-
-* walking outside
-* driving uphill
-* stopping on a lay-by
-* climbing stairs
-* filming from different positions
-
-If the reconstruction assumes a single static viewpoint, the geometry may become inaccurate.
-
-Careful [case files]({{ 'case-file/' | relative_url }}) therefore record:
-
-* exact observation point
-* whether the witness moved
-* eye height estimate
-* camera height estimate
-* orientation changes during recording
-
-Some advanced workflows even model the line of sight frame-by-frame across a moving route.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZmJ9m9fMVAk" title="Your Own Landscape in Stellarium - Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZmJ9m9fMVAk" target="_blank" rel="noopener noreferrer">Your Own Landscape in Stellarium - Tutorial</a></p><p class="youtube-embed-meta">Channel: Cosmic Curiosity &middot; Views: 4.4K &middot; Uploaded: January 2026 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZmJ9m9fMVAk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZmJ9m9fMVAk">Open on YouTube</a></p></div></div></div>
-
-## Common Failure Modes In Horizon Reconstruction
-
-Terrain-aware analysis improves reliability, but it also introduces new ways to make mistakes.
-
-### DEM Resolution Problems
-
-Low-resolution elevation models can smooth away small but important ridges. A broad regional DEM may miss:
-
-* tree lines
-* embankments
-* local hill crests
-* quarry edges
-* seawalls
-* urban structures
-
-High-resolution lidar-derived terrain data usually performs better where available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-types-elevation-datasets-are-available-what-formats-do-they-come-and-where-can-i-download" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Those are being systematically replaced with DEMs derived from high-resolution lidar and IfSAR (...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/landsat-missions/landsat-collection-2-digital-elevation-model" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">Landsat Collection 2 Digital Elevation ModelThe DEM sources described below are used in Landsat Collection 2 data processing for all area...</span></span></span>
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-dark.svg" | relative_url }}" alt="Horizon Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_terrain_horiz_06b702-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-### Ignoring Buildings And Vegetation
-
-Most DEMs represent bare earth rather than the real skyline. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span>
-
-That means the calculated horizon may still differ from reality in cities or forests. A witness may have lost visibility behind:
-
-* tower blocks
-* woodland
-* industrial structures
-* roadside trees
-
-This is one reason calibrated photographs are often more valuable than terrain data alone.
-
-### Compass Misalignment
-
-Witness bearings are frequently inaccurate.
-
-People tend to overestimate precision when recalling direction, especially at night. A claimed “due west” sighting may actually fall anywhere from south-west to north-west.
-
-A terrain-aware system only works if the azimuth alignment is credible.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MblIEYBEGpA" title="Understanding the Differences Between Astronomical Horizon and True Horizon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MblIEYBEGpA" target="_blank" rel="noopener noreferrer">Understanding the Differences Between Astronomical Horizon and True Horizon</a></p><p class="youtube-embed-meta">Channel: AstroPhil &middot; Views: 5.9K &middot; Uploaded: November 2024 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MblIEYBEGpA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MblIEYBEGpA">Open on YouTube</a></p></div></div></div>
-
-### Atmospheric Effects
-
-Refraction near the horizon can slightly raise apparent object altitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
-
-Under unusual conditions, bright objects can appear distorted or temporarily visible beyond the expected geometric horizon. This does not usually invalidate terrain analysis, but it can complicate low-altitude edge cases near sea horizons or temperature [inversions]({{ 'inversions/' | relative_url }}).
-
-## Why Horizon Checks Matter In AI-Assisted UFO Investigation
-
-Terrain-aware horizons are valuable because they constrain speculation with geometry.
-
-Without skyline analysis, almost any low-altitude UFO report can be loosely matched to a bright celestial object. With skyline analysis, the proposed explanation must satisfy stricter conditions:
-
-* correct azimuth
-* correct timing
-* correct brightness
-* correct altitude
-* unobstructed line of sight
-
-That makes the reconstruction more reproducible and more falsifiable.
-
-For AI-assisted investigation systems, terrain modelling also improves automated triage. A workflow can quickly eliminate weak astronomy matches by checking whether the candidate object was actually above the local visible horizon at the reported time.
-
-This prevents two opposite errors:
-
-* forcing a mundane explanation where visibility was impossible
-* treating an explainable sighting as anomalous because the reconstruction ignored terrain
-
-In practical UFO case analysis, the skyline is often as important as the sky itself.
 
 ## Endnotes
 

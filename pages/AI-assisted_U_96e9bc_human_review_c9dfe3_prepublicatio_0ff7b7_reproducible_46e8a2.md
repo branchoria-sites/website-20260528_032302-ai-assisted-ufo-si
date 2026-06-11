@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff
 
 A UFO or UAP conclusion is only as strong as the record behind it. In AI-assisted investigations, that means another reviewer should be able to retrace the same timestamps, map layers, satellite checks, flight data, image-processing steps and reasoning path without relying on trust in the [original]({{ 'original-evidence/' | relative_url }}) analyst. If a second investigator cannot reproduce the workflow, the final conclusion becomes difficult to verify, challenge or improve.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-1-dark.svg" | relative_url }}" alt="Reproducibility illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That problem matters because AI systems are unusually good at turning uncertain evidence into convincing narratives. A sighting may be labelled “likely aircraft”, “probable Starlink train” or “unresolved anomalous object” even when the underlying assumptions were never preserved. NASA’s UAP study warned that current analysis is weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and lack of baseline measurements, while the All-domain Anomaly Resolution Office (AARO) has repeatedly stated that many unresolved cases remain unresolved because the available data is too limited for rigorous analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/AARO_Mission_Brief_2025.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO Mission BriefMany cases in AARO&#x27;s holdings remain unresolved because of a lack of verifiable data. Cases lacking sufficient data to...</span></span></span>
 
@@ -282,7 +281,6 @@ A reproducible UFO case file is therefore less about proving extraordinary claim
 The strongest UFO case files behave less like internet summaries and more like audit trails. A reviewer should not only see the final conclusion but also the evidence chain that produced it.
 
 In practice, that means preserving the original observational context:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ Many UFO investigations unintentionally destroy reproducibility during image enh
 
 Common examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * exporting compressed screenshots instead of original files
@@ -326,7 +323,6 @@ A later reviewer may therefore be unable to determine whether apparent motion ca
 Digital forensics guidance from NIST and broader chain-of-custody literature emphasises preserving [original evidence]({{ 'original-evidence/' | relative_url }}) separately from derived working copies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">NIST PublicationsDigital Evidence Preservationby B Guttman · 2022 · Cited by 10 — Digital evidence; computer forensics; chain of custody...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nvlpubs.nist.gov/nistpubs/ir/2022/NIST.IR.8387.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nvlpubs.nist.gov">[NIST]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nvlpubs.nist.gov</span><span class="citation-popover-snippet">NIST PublicationsDigital Evidence Preservationby B Guttman · 2022 · Cited by 10 — Digital evidence; computer forensics; chain of custody...</span></span></span>
 
 For UFO investigations, a practical reproducibility standard usually means storing:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -357,7 +353,6 @@ A weakly constrained estimate can produce a falsely precise explanation. A revie
 Many UFO workflows fail reproducibility tests not because the evidence is missing, but because the AI reasoning process itself is opaque.
 
 A polished AI summary may hide dozens of assumptions underneath apparently simple statements such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -393,7 +388,6 @@ A classification model used in January may produce different confidence scores i
 
 That is especially relevant when using:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * cloud AI image classifiers
@@ -408,7 +402,6 @@ A later reviewer may unknowingly rerun the same evidence through a different mod
 
 Good case files therefore preserve:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * model names
@@ -422,7 +415,6 @@ Good case files therefore preserve:
 </div>
 
 Without those details, “AI-assisted” can become effectively non-repeatable.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-2-dark.svg" | relative_url }}" alt="Reproducibility illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI summaries can overwrite witness evidence
@@ -486,7 +478,6 @@ A reproducible workflow therefore benefits from structured explanation logs such
 Candidate explanationSupporting evidenceContradictory evidenceFinal statusAircraftNearby ADS-B trackWitness reports silencePlausible but weakStarlinkDirection and timing alignObject appeared stationaryPartial matchVenusBright horizon objectReported rapid movementRejectedDroneHovering behaviour fitsNo local drone activity foundUnconfirmed
 
 That structure prevents hindsight rewriting.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-3-dark.svg" | relative_url }}" alt="Reproducibility illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_reproducible_46e8a2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Preserve disagreement between reviewers
@@ -960,6 +951,7 @@ That distinction becomes increasingly important as AI-generated UFO analysis gro
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

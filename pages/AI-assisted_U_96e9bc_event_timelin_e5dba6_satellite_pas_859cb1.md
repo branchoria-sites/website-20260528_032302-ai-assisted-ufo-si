@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_85
 
 A surprisingly large number of UFO reports turn out to involve ordinary satellites behaving in ways that do not look ordinary at all. A satellite can appear from nowhere, brighten suddenly, split into a line of lights, pulse repeatedly, or vanish in seconds without changing direction. In a raw witness account, those behaviours often sound unusual or even impossible. In a reconstructed timeline, they frequently match known orbital [geometry]({{ 'geometry/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-1-dark.svg" | relative_url }}" alt="Satellites illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, satellite checks matter because they are highly testable. A dated and located sighting can be compared against orbital predictions, twilight conditions, the observer’s viewing angle, and known launches or re-entries. That does not mean every sighting has a satellite explanation. It means satellites are one of the fastest ways to separate a likely mundane event from a genuinely unresolved case. The important point is not merely whether a satellite was overhead, but whether its timing, brightness, direction, duration, and disappearance behaviour fit the witness account closely enough to explain what was seen. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Satellite_flare" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Satellite flare</span><span class="citation-popover-snippet">Satellite flare</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-title">Satellite predictions and other astronomical data customised for your location</span><span class="citation-popover-snippet">Heavens-AboveSatellite predictions and other astronomical data customised for your location...</span></span></span>
 
@@ -312,7 +311,6 @@ Brightness changes can become much more dramatic when reflective surfaces align 
 
 For timeline reconstruction, the important investigative clue is not just brightness, but the pattern of change:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Gradual brightening then fading** often fits a normal satellite pass.
@@ -324,7 +322,6 @@ For timeline reconstruction, the important investigative clue is not just bright
 </div>
 
 AI systems can use these patterns as probabilistic clues rather than final conclusions. A witness saying “the light vanished instantly” should trigger shadow-entry checks before more exotic explanations are considered.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/aWpeN3cU17Q" title="SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Starlink, satellite flares, and spectacular twilight rocket plumes: EXPLAINED!</a></p><p class="youtube-embed-meta">Channel: AlphaPhoenix &middot; Views: 39.4K &middot; Uploaded: July 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=aWpeN3cU17Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=aWpeN3cU17Q">Open on YouTube</a></p></div></div></div>
 
@@ -346,7 +343,6 @@ Reported behaviourCommon satellite-related mechanismSilent line of moving lights
 
 The timeline context is crucial because these effects are strongly tied to solar position. Many satellite-related sightings cluster within roughly two hours after sunset or before sunrise. That timing alone does not prove a satellite explanation, but it is one of the strongest screening indicators available.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-2-dark.svg" | relative_url }}" alt="Satellites illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Testing a satellite match against the witness account
 
@@ -357,7 +353,6 @@ The first requirement is accurate timing. Even a one-minute error can change the
 The next step is observer location. Satellite visibility is highly position-dependent. A flare visible from one town may not be visible a few kilometres away because the reflection geometry is narrow. Prediction systems such as Heavens-Above and other orbital tracking tools rely on observer coordinates for this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/faq.aspx?alt=100&amp;cul=en&amp;lat=44.813792&amp;lng=-76.515932&amp;loc=Cygnus+Hill+Observatory&amp;tz=EST" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">The most likely explanation, however, is...Read more...</span></span></span>
 
 A robust satellite comparison usually checks:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,14 +377,12 @@ That combination is much stronger than merely proving a satellite existed somewh
 
 Weak matches often fail on key behavioural points. If witnesses describe rapid direction changes, hovering for long periods, or movement inconsistent with orbital paths, a satellite explanation becomes less convincing unless the account itself is unreliable or perception effects are likely. AI systems should therefore classify satellite correlations by strength rather than treating them as binary solved-or-unsolved outcomes.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-3-dark.svg" | relative_url }}" alt="Satellites illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witness perception and cameras complicate satellite sightings
 
 Satellite sightings are often more convincing to witnesses than investigators expect because the human visual system is poor at judging distance and speed in a dark sky. A small bright object against a featureless background can appear much closer and more manoeuvrable than it really is.
 
 Several recurring perception effects appear in UFO reports involving satellites:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -403,7 +396,6 @@ Several recurring perception effects appear in UFO reports involving satellites:
 Phone cameras add further distortion. Automatic exposure systems can exaggerate flares, while digital zoom can make ordinary satellites appear to pulse or wobble. Compression artefacts may create apparent structure around point sources. A timeline reconstruction should therefore compare the witness account against both the raw sky conditions and the recording device behaviour.
 
 One important investigative distinction is between what the witness genuinely experienced and what the physical event most likely was. A person can honestly report an extraordinary-looking object while the underlying mechanism remains entirely conventional. The job of the timeline is not to dismiss the witness, but to determine whether orbital and lighting geometry reproduce the reported behaviour convincingly enough to explain it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GhLXCJ1Gyyc" title="Starlink satellites, the string of lights in the night sky." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer">Starlink satellites, the string of lights in the night sky.</a></p><p class="youtube-embed-meta">Channel: Brad Panovich (wxbrad) &middot; Views: 251.7K &middot; Uploaded: September 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GhLXCJ1Gyyc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GhLXCJ1Gyyc">Open on YouTube</a></p></div></div></div>
 
@@ -819,6 +811,7 @@ That approach keeps the investigation grounded. Satellite analysis is most usefu
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_95
 
 The public “GoFast” UFO clip looked convincing because viewers saw a small object apparently racing just above the ocean while Navy pilots reacted in surprise. What changed the later interpretation was not a new video, but the telemetry already embedded in the ATFLIR display. Analysts realised that the on-screen numbers exposed enough information about camera angle, [aircraft]({{ 'aircraft/' | relative_url }}) altitude and tracking [geometry]({{ 'geometry/' | relative_url }}) to reconstruct the encounter mathematically. Once that reconstruction was attempted, the object’s estimated speed dropped sharply from an apparently extraordinary low-level dash to something potentially consistent with an ordinary drifting airborne object. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-aaro-report-on-go-fast-video-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">pentagon releases aaro report on go fast video analysis</span><span class="citation-popover-snippet">13,000 feet, winds were blowing at approximately 69 mph...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-1-dark.svg" | relative_url }}" alt="ATFLIR Data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this is a critical lesson in evidence handling. The dramatic visual impression came from [incomplete]({{ 'incomplete-data/' | relative_url }}) interpretation of [sensor data]({{ 'sensor-data/' | relative_url }}), not from the raw imagery alone. The GoFast case demonstrates why automated analysis pipelines increasingly prioritise telemetry extraction, geometry reconstruction and environmental correlation before drawing conclusions about anomalous motion.
 
@@ -286,7 +285,6 @@ For AI-assisted UFO sighting investigation, this is a critical lesson in evidenc
 The publicly released GoFast footage was not the [original]({{ 'original-evidence/' | relative_url }}) military sensor file. Analysts did not have the complete [metadata]({{ 'metadata/' | relative_url }}) package, radar history or full aircraft telemetry. Even so, the ATFLIR display still exposed several important variables directly on screen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — Instead, the analysis considered all possible aircraft headings (from 0° to 360°) to calculat...</span></span></span>
 
 The visible information included:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -308,7 +306,6 @@ This distinction matters in UFO investigations more broadly. Modern sightings in
 ## How analysts reconstructed range and altitude
 
 The key breakthrough was recognising that apparent motion across the screen was not enough to estimate true speed. Investigators needed distance first.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PLyEO0jNt6M" title="Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer">Explained: &quot;Go Fast&quot; UFO Video - Not Low and Not Fast - Like a Balloon!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 154.3K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PLyEO0jNt6M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PLyEO0jNt6M">Open on YouTube</a></p></div></div></div>
 
@@ -334,7 +331,6 @@ NASA’s UAP independent study team later highlighted the same principle more ge
 
 The GoFast clip became one of the clearest public demonstrations of that problem.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-2-dark.svg" | relative_url }}" alt="ATFLIR Data illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the final speed estimate dropped sharply
 
@@ -352,7 +348,6 @@ This is highly relevant for AI-assisted UFO analysis systems.
 
 A modern automated workflow would ideally ingest:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Full aircraft telemetry
@@ -368,7 +363,6 @@ The GoFast case instead required partial reconstruction from incomplete evidence
 
 That demonstrates an important investigative principle: incomplete data does not automatically favour extraordinary explanations. Sometimes partial telemetry is already sufficient to show that a dramatic interpretation is geometrically unlikely.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-_4QF__92q0" title="UFO Videos Explained: Mick West&#x27;s Expert Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer">UFO Videos Explained: Mick West&#x27;s Expert Analysis</a></p><p class="youtube-embed-meta">Channel: TWiT Tech Podcast Network &middot; Views: 2.5K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-_4QF__92q0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-_4QF__92q0">Open on YouTube</a></p></div></div></div>
 
 ### Why analysts focused on wind correlation
@@ -379,7 +373,6 @@ That did not conclusively identify the object. Publicly, AARO stopped short of n
 
 This distinction is important in evidence classification. In AI-assisted UFO triage systems, a case does not need to be fully solved before its anomaly score changes. If reconstructed geometry removes the requirement for impossible acceleration or hypersonic travel, the evidential category shifts substantially even when the exact object remains uncertain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/FlJvyewbfpA" title="Simulating/Recreating the GOFAST Pentagon UFO video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=FlJvyewbfpA" target="_blank" rel="noopener noreferrer">Simulating/Recreating the GOFAST Pentagon UFO video</a></p><p class="youtube-embed-meta">Channel: MajorInput &middot; Views: 368 &middot; Uploaded: December 2020 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=FlJvyewbfpA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=FlJvyewbfpA">Open on YouTube</a></p></div></div></div>
 
 ## Why GoFast became a model case for sensor-based UFO analysis
@@ -389,7 +382,6 @@ The GoFast debate changed because analysts stopped treating the clip as a simple
 That shift mirrors the broader evolution of modern UAP investigation. Earlier UFO discussions often depended heavily on witness interpretation and visual intuition. GoFast showed how easily intuition can fail when camera stabilisation, zoom, aircraft motion and missing depth cues interact.
 
 The case is now frequently referenced in discussions about machine-assisted anomaly analysis because it highlights several core investigative requirements:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -404,7 +396,6 @@ The case is now frequently referenced in discussions about machine-assisted anom
 It also exposed the dangers of viral clips detached from their technical context. The object looked extraordinary largely because viewers naturally assumed the screen behaved like an ordinary handheld camera view. The ATFLIR telemetry revealed that the geometry was far more complicated.
 
 In practical UFO investigation workflows, GoFast therefore functions less as proof of an extraordinary craft and more as a cautionary example of how apparent anomalies can emerge from incomplete interpretation of sensor perspective, distance and motion.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-3-dark.svg" | relative_url }}" alt="ATFLIR Data illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_atflir_504ee9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -799,6 +790,7 @@ In practical UFO investigation workflows, GoFast therefore functions less as pro
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -984,4 +976,4 @@ In practical UFO investigation workflows, GoFast therefore functions less as pro
    Title: ufo uap panel nasa better data ai  
    Link: <a href="https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai" target="_blank" rel="noopener noreferrer nofollow">https://www.universetoday.com/articles/ufo-uap-panel-nasa-better-data-ai</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Panelists Say NASA Needs Better Data31 May 2023 — The data recorded by the fighter jet&#x27;s instruments helped investigators determine t...</p></details>
-   Published: May 2023  
+   Published: May 2023

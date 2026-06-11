@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f
 
 Many UFO videos that appear to show a glowing object changing shape are actually showing a camera losing focus. A distant point light can turn into a pulsing orb, a ring, a triangular craft, or a structured-looking object once a phone camera zooms in and autofocus starts hunting in low light. This effect is especially common in night recordings involving planets, [aircraft]({{ 'aircraft/' | relative_url }}) lights, drones, stars, or bright street-level sources viewed at long distance.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1-dark.svg" | relative_url }}" alt="Focus Errors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, this matters because a witness may honestly remember a stable glowing object while the recorded file shows something visually dramatic and apparently morphing. The visual change can be caused by the optics and autofocus system rather than by the object itself. Modern smartphones combine tiny sensors, aggressive [digital zoom]({{ 'digital-zoom/' | relative_url }}), image stabilisation, computational sharpening, and continuous autofocus. Under poor night conditions, those systems can create highly misleading shapes. Understanding when this happens is essential when building [video timelines]({{ 'video-timeline/' | relative_url }}) that separate what the file objectively contains from what the witness believed they saw.
 
@@ -280,7 +279,6 @@ In AI-assisted UFO sighting investigation, this matters because a witness may ho
 A distant light source occupies very few pixels on a phone sensor. When the camera cannot maintain proper focus, that point spreads into a larger blur pattern known in optics as a “circle of confusion” or bokeh shape. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Focus_%28optics%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Focus (optics</span><span class="citation-popover-snippet">Focus (optics</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bokeh" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The crucial detail is that the blur is not random. It often reflects the internal [geometry]({{ 'geometry/' | relative_url }}) of the lens system itself. Depending on the phone, telescope, binocular attachment, or digital processing pipeline, the resulting blur can appear as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ Autofocus systems work by searching for contrast. In daylight, edges and texture
 
 In UFO recordings, autofocus hunting can create several misleading behaviours:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The object appears to expand and contract rhythmically.
@@ -321,7 +318,6 @@ To a viewer unfamiliar with optical artefacts, these changes can look like genui
 
 Night-sky photographers regularly disable autofocus for this reason. Guidance for astrophotography commonly recommends manual focus or focus locking because autofocus becomes unreliable in dark conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gregbenzphotography.com/photography-tips/three-easy-ways-to-focus-your-camera-at-night/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gregbenzphotography.com">[Greg Benz Photography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gregbenzphotography.com</span><span class="citation-popover-title">three easy ways to focus your camera at night</span><span class="citation-popover-snippet">Greg Benz PhotographyThree Easy Ways to Focus Your Camera at Night2 Nov 2016 — Once you have focused the camera, make sure you&#x27;ve switche...</span></span></span> Facebook An important investigative clue is that autofocus-driven morphing often happens in synchrony with zoom changes. The moment the witness pinche <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/groups/2068191830081142/posts/4021469684753337/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">nity. This will give you better control to get sharp...Read more...</span></span></span> s to zoom further, the shape suddenly becomes exotic. That timing strongly suggests an imaging artefact rather than a physical transformation in the sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ToN15U6dy1Q" title="How to capture the night sky with a phone &amp; camera | 3 TIPS for astrophotography beginners" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer">How to capture the night sky with a phone &amp; camera | 3 TIPS for astrophotography beginners</a></p><p class="youtube-embed-meta">Channel: Dr. Becky &middot; Views: 100.2K &middot; Uploaded: March 2022 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ToN15U6dy1Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ToN15U6dy1Q">Open on YouTube</a></p></div></div></div>
 
 ## Why UFO Videos Often Look More Structured Than The Eye Saw
@@ -329,7 +325,6 @@ Night-sky photographers regularly disable autofocus for this reason. Guidance fo
 Witnesses frequently report that the object looked simpler in person than it appears on video playback. This is not necessarily inconsistency or deception. Human vision and smartphone imaging behave very differently at night.
 
 The human eye has limited night detail resolution and naturally stabilises perception. A phone camera, by contrast, stacks together:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -349,7 +344,6 @@ This matters in UFO investigations because later viewers often treat the video a
 
 A recurring pattern in online UFO clips is the “structured orb”: a glowing object with apparent internal geometry visible only at high zoom. In many cases, investigators reproduce similar shapes simply by defocusing [bright planets]({{ 'bright-planets/' | relative_url }}) or aircraft lights through phones or telescopes. Discussions in UFO analysis communities repeatedly identify this effect as a common source of confusion. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/chris-bledsoe-video-looks-like-out-of-focus-light-but-maintains-shape-when-partially-obscured.13927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Chris Bledsoe Video: Looks like out of focus light, but...8 Jan 2025 — They look so much like out of focus stars/Venus that if they&#x27;re a...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-dark.svg" | relative_url }}" alt="Focus Errors illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating Lens Artefacts From Object Structure
 
@@ -358,7 +352,6 @@ A central task in AI-assisted UFO investigation is determining whether apparent 
 ### Signs The Shape Is Probably A Focus Artefact
 
 The apparent structure is more likely to come from autofocus or lens behaviour when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -375,13 +368,11 @@ The apparent structure is more likely to come from autofocus or lens behaviour w
 
 Another strong indicator is synchronised blur behaviour across the frame. If distant streetlights, stars, or aircraft lights all deform similarly, the effect is almost certainly optical rather than object-specific.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/B-TOUPXytw4" title="How Autofocus Works - Computerphile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=B-TOUPXytw4" target="_blank" rel="noopener noreferrer">How Autofocus Works - Computerphile</a></p><p class="youtube-embed-meta">Channel: Computerphile &middot; Views: 319.1K &middot; Uploaded: February 2020 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=B-TOUPXytw4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=B-TOUPXytw4">Open on YouTube</a></p></div></div></div>
 
 ### Signs Worth Closer Examination
 
 Not every unclear video can be dismissed as autofocus failure. Some recordings still merit further analysis when:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -416,7 +407,6 @@ An automated workflow can also flag situations where the recorded object exceeds
 
 This does not “debunk” the entire sighting. It simply narrows the evidential value of the video itself. The broader case may still include witness testimony, radar data, environmental context, or corroborating reports.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-3-dark.svg" | relative_url }}" alt="Focus Errors illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_ufo_focus_hun_c5f8cd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why This Mechanism Matters In UFO Case Files
 
@@ -433,9 +423,7 @@ Once a clip spreads online, later viewers often interpret the distorted shape li
 
 That is why video timelines and evidence handling matter so much in UFO investigation. The file may preserve a camera’s struggle to focus rather than a faithful representation of the observed object. Distinguishing those two possibilities is a basic but essential step before moving toward more unusual explanations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHGn1c7nIP4" title="Red Dot Forum Camera Talk: The Bokeh Episode" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHGn1c7nIP4" target="_blank" rel="noopener noreferrer">Red Dot Forum Camera Talk: The Bokeh Episode</a></p><p class="youtube-embed-meta">Channel: RedDotForum &middot; Views: 15.9K &middot; Uploaded: September 2023 &middot; Length: 2 hours 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHGn1c7nIP4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHGn1c7nIP4">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -828,6 +816,7 @@ That is why video timelines and evidence handling matter so much in UFO investig
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069
 
 A surprising number of “hovering UFO” reports become less mysterious once archived aviation weather is checked against the witness timeline. One of the most important clues is the cloud ceiling recorded in nearby METAR reports. Low cloud can hide the body of an [aircraft]({{ 'aircraft/' | relative_url }}) while leaving only bright [landing lights]({{ 'landing-lights/' | relative_url }}), anti-collision strobes, or illuminated mist visible from the ground. To a witness with no visible horizon reference, that can look like a silent object hanging motionless in the sky.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1-dark.svg" | relative_url }}" alt="Cloud Ceilings illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, cloud ceiling data is valuable because it is time-stamped, standardised, and widely archived. It allows investigators to test whether the atmosphere supported visual conditions that commonly produce misidentifications. A report describing a glowing object “hovering behind cloud”, “staying fixed”, or “vanishing instantly” can often be checked against measured cloud layers, visibility, drizzle, fog, and nearby flight paths within minutes. That does not automatically debunk a sighting, but it changes how strongly the report supports an extraordinary explanation.
 
@@ -280,7 +279,6 @@ For AI-assisted UFO investigation, cloud ceiling data is valuable because it is 
 METARs are routine aviation [weather]({{ 'weather/' | relative_url }}) observations issued at airports around the world, usually every hour and sometimes more frequently during changing conditions. They include cloud cover, cloud height, visibility, precipitation, wind, and pressure data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviationweather.gov/data/metar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviationweather.gov">[Aviation Weather Center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviationweather.gov</span><span class="citation-popover-title">Aviation Weather Center METAR and TAF Data Raw and decoded airport observations</span><span class="citation-popover-snippet">Aviation Weather Center METAR and TAF Data Raw and decoded airport observations</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metoffice.gov.uk/services/transport/aviation/regulated/training-resources-for-aviation/metars-and-tafs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metoffice.gov.uk</span><span class="citation-popover-snippet">METARs &amp; TAFsMETARs are coded weather reports summarising current conditions at aerodromes, including wind, visibility, weather, cloud, t...</span></span></span>
 
 In UFO case analysis, the most important cloud entries are usually the lowest “broken” or “overcast” layers because these define the operational ceiling. In METAR code:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -318,7 +316,6 @@ Low cloud ceilings are especially important in night-time UFO cases because they
 
 An approaching aircraft can therefore appear very strange from the ground:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Landing lights may shine through thin cloud while the fuselage remains invisible
@@ -337,7 +334,6 @@ Aviation and photography communities regularly document this effect as a paralla
 
 METAR ceilings help investigators determine whether such an illusion was physically plausible at the reported time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/g5wBWOTrloA" title="How to Decode METARs and TAFs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=g5wBWOTrloA" target="_blank" rel="noopener noreferrer">How to Decode METARs and TAFs</a></p><p class="youtube-embed-meta">Channel: FalconImagery Flight Training &middot; Views: 2.5K &middot; Uploaded: April 2025 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=g5wBWOTrloA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=g5wBWOTrloA">Open on YouTube</a></p></div></div></div>
 
 ## Why low ceilings amplify “instant disappearance” reports
@@ -345,7 +341,6 @@ METAR ceilings help investigators determine whether such an illusion was physica
 One recurring feature in UFO testimony is the claim that an object suddenly vanished “without accelerating away”. Low ceilings can reproduce exactly that effect.
 
 When cloud bases sit between roughly 300 and 1,500 feet, an aircraft entering the cloud layer can disappear almost instantly while its lights scatter through moisture for a second or two. Depending on viewing angle, this can resemble:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,7 +354,6 @@ When cloud bases sit between roughly 300 and 1,500 feet, an aircraft entering th
 This effect becomes stronger in fog, drizzle, or humid air because water droplets scatter light and reduce contrast. METAR codes such as `FG` (fog), `BR` (mist), or low visibility readings become important supporting evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/METAR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 Investigators should also compare the sighting direction against local airport approach corridors. If witnesses observed the object aligned with a runway approach path during low-ceiling conditions, an ordinary explanation becomes significantly more plausible.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A4eIGJrntXg" title="Weather BASICS explained (EASY to Understand) PPL Lesson 39" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A4eIGJrntXg" target="_blank" rel="noopener noreferrer">Weather BASICS explained (EASY to Understand) PPL Lesson 39</a></p><p class="youtube-embed-meta">Channel: Free Pilot Training &middot; Views: 854.1K &middot; Uploaded: March 2022 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A4eIGJrntXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A4eIGJrntXg">Open on YouTube</a></p></div></div></div>
 
@@ -395,7 +389,6 @@ The system can weigh whether atmospheric conditions support common misidentifica
 
 For example, consider a report claiming:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Bright white object
@@ -408,7 +401,6 @@ For example, consider a report claiming:
 </div>
 
 If nearby METAR data shows:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -425,7 +417,6 @@ then the atmospheric conditions strongly support an aircraft-light explanation e
 
 By contrast, if records show:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Excellent visibility
@@ -437,7 +428,6 @@ By contrast, if records show:
 </div>
 
 then the case remains harder to dismiss through simple atmospheric explanation alone.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-3-dark.svg" | relative_url }}" alt="Cloud Ceilings illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_metar_cloud_c_7fa171-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The limits of cloud ceiling evidence
@@ -465,7 +455,6 @@ A strong workflow combines cloud data with:
 * Historical local weather radar
 
 The key value of METAR ceiling analysis is not proving that a UFO was ordinary or extraordinary. It is narrowing the range of realistic interpretations using measurable environmental evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O0TlmMHA_jk" title="How to Read METAR and TAF - For Student Pilots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O0TlmMHA_jk" target="_blank" rel="noopener noreferrer">How to Read METAR and TAF - For Student Pilots</a></p><p class="youtube-embed-meta">Channel: Part Time Pilot &middot; Views: 12.6K &middot; Uploaded: May 2019 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O0TlmMHA_jk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O0TlmMHA_jk">Open on YouTube</a></p></div></div></div>
 
@@ -861,6 +850,7 @@ In practical case triage, a simple METAR line such as `BKN004 1800 BR` may tell 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78
 
 A UFO case should not receive a speculative explanation simply because investigators feel uncomfortable leaving it unresolved. In many databases and public discussions, “probably a drone”, “possibly Starlink”, or “likely atmospheric distortion” can sound more rigorous than “insufficient data”, even when the available evidence is too weak to support any dependable conclusion. That habit creates misleading records, contaminates future AI-assisted comparisons, and gives [weak explanations]({{ 'weak-explanations/' | relative_url }}) an authority they have not earned.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-1-dark.svg" | relative_url }}" alt="Data Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In a modern AI-assisted UFO sighting investigation, “insufficient data” is not a failure category. It is often the most scientifically honest outcome. NASA’s UAP study team stressed that many investigations are limited by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}), lack of multiple measurements, and weak baseline information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Space Public UAP programmes have repeatedly stated that unresolved cases can remain unresolved simply because the evidence is inadequate <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-study-group-better-data-needed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo study group better data needed</span><span class="citation-popover-snippet">UFOs will remain mysterious without better data, NASA...31 May 2023 — NASA&#x27;s UAP study team stressed that the biggest roadblock standing...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>, not because the event was extraordinary. [U.S. Department of War+2U.S. Department of War]
 
@@ -284,7 +283,6 @@ In practice, several missing elements matter far more than dramatic witness desc
 ### Missing time and location data
 
 Many UFO reports fail at the first investigative stage because the timestamp is vague. “Around midnight” may sound precise enough to a witness, but even a five-minute timing error can break attempts to correlate:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -327,7 +325,6 @@ A single witness can describe a hovering triangle while another observer several
 
 Human perception struggles with:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * distance estimation at night
@@ -355,7 +352,6 @@ Months later, summaries reduce that wording to:
 
 The uncertainty disappears.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
 
 ### Correlation is not confirmation
@@ -363,7 +359,6 @@ The uncertainty disappears.
 AI-assisted investigation tools are designed to surface candidate explanations quickly. That is useful, but it creates a major risk: systems are very good at finding patterns even when those patterns are coincidental.
 
 Suppose a witness reports:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -375,7 +370,6 @@ Suppose a witness reports:
 </div>
 
 An automated workflow might identify:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -400,7 +394,6 @@ If thousands of weakly classified cases are treated as confirmed aircraft, drone
 
 This creates a feedback loop:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. weak evidence receives speculative labels
@@ -414,7 +407,6 @@ The result is not better scepticism. It is distorted pattern recognition.
 
 That matters because many modern UAP analysis pipelines increasingly depend on clustering, similarity scoring, and automated triage systems. A bad label today becomes bad training data tomorrow.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-2-dark.svg" | relative_url }}" alt="Data Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### False closure damages credibility
 
@@ -423,7 +415,6 @@ Weak explanations can undermine trust from both sceptical and believer audiences
 When an explanation is overstated and later collapses under scrutiny, the public often concludes that investigators are biased, careless, or dismissive. In reality, the problem is usually methodological overreach rather than conspiracy.
 
 An honest “insufficient data” label protects credibility because it separates:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -478,7 +469,6 @@ AI-assisted systems depend heavily on structured reference points. Without them,
 
 NASA’s UAP guidance repeatedly emphasises that high-quality empirical data matter more than sensational interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-3-dark.svg" | relative_url }}" alt="Data Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_insufficient_2cba85-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “unclassified” is healthier than “explained”
 
@@ -505,7 +495,6 @@ AARO materials explicitly note that some unresolved cases remain unresolved beca
 Importantly, unresolved does not automatically mean anomalous. A case may remain unresolved simply because investigators lack enough reliable evidence to exclude normal explanations confidently.
 
 That distinction is central to public understanding but often lost in online retellings.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ur0QX1eGCQI" title="UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer">UAP data released: Astrophysicist Avi Loeb breaks down declassified records | FOX 10 Talks</a></p><p class="youtube-embed-meta">Channel: FOX 10 Phoenix &middot; Views: 29.9K &middot; Uploaded: May 2026 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ur0QX1eGCQI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ur0QX1eGCQI">Open on YouTube</a></p></div></div></div>
 
@@ -941,6 +930,7 @@ In an AI-assisted UFO sighting investigation, “insufficient data” should the
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

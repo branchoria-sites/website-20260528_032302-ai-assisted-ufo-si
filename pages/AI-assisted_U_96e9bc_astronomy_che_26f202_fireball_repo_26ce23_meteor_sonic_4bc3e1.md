@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26
 
 A loud boom arriving long after a bright object crosses the sky is one of the strongest clues that witnesses saw a meteor airburst rather than a nearby [aircraft]({{ 'aircraft/' | relative_url }}), drone, or unknown craft. In many UFO reports, the delay itself becomes the key piece of evidence. People often assume that if they heard an explosion overhead, the source must have been close. In reality, large meteors can explode tens of kilometres above the ground, with the light reaching observers almost instantly while the sound arrives much later.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-dark.svg" | relative_url }}" alt="Delayed Booms illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, this timing gap is extremely useful. When many witnesses report a flash first and a boom seconds or minutes later, software can compare those delays against estimated sound travel times and likely atmospheric altitudes. That process frequently turns an apparently mysterious “crash” report into a well-understood meteor event with a high-altitude shockwave.
 
@@ -280,7 +279,6 @@ For AI-assisted UFO investigation, this timing gap is extremely useful. When man
 Light from a meteor reaches observers effectively immediately. Sound does not. A sonic boom or pressure wave must travel through the atmosphere at roughly the speed of sound, which is vastly slower than the meteor itself.
 
 That difference creates a recognisable pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +305,6 @@ AI-assisted workflows can use this by comparing:
 
 When dozens of reports line up around similar delays, the “unknown craft nearby” interpretation often weakens quickly.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GQSeTNctYig" title="Neil deGrasse Tyson Explains Sonic Booms" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GQSeTNctYig" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson Explains Sonic Booms</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 310.9K &middot; Uploaded: June 2021 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GQSeTNctYig" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GQSeTNctYig">Open on YouTube</a></p></div></div></div>
 
 ## Why meteor explosions confuse witnesses
@@ -321,7 +318,6 @@ This pattern appeared dramatically during the 2013 Chelyabinsk meteor over Russi
 The delay itself became part of the confusion. Some residents initially moved toward windows after the bright flash, believing the event had already ended. The shockwave arrived afterwards. The Planetary Society notes that the shockwave “arrived later and shattered the windows”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.planetary.org/articles/what-was-the-chelyabinsk-meteor-event" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planetary.org">[The Planetary Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planetary.org</span><span class="citation-popover-title">what was the chelyabinsk meteor event</span><span class="citation-popover-snippet">The Planetary SocietyWhat was the Chelyabinsk meteor event?15 Feb 2023 — The shockwave, traveling at a slower speed, arrived later and sh...</span></span></span>
 
 Witnesses frequently describe these events in language associated with explosions or military incidents:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -344,12 +340,90 @@ In reality, meteor shockwaves can travel very large distances. NASA and meteor r
 
 This produces a familiar emergency-response pattern:
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-dark.svg" | relative_url }}" alt="Delayed Booms illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. bright flash observed
+
+2. delayed boom heard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">It&#x27;s Fireball Season!</span><span class="citation-popover-snippet">Answering Your Meteor Questions26 Mar 2026 —... sound, often called a sonic boom, that can be heard on the ground. Additionally, the fra...</span></span></span>
+3. residents report a nearby explosion
+4. emergency services receive calls about crashes or impacts
+5. no wreckage is found
+
+</div>
+
+Modern UFO and UAP investigations increasingly compare these reports against [meteor databases]({{ 'meteor-databases/' | relative_url }}) before treating them as anomalous craft incidents.
+
+The March 2026 Ohio fireball illustrates the pattern well. Witnesses across several states reported a large boom and shaking buildings after a meteor fragmented overhead. NASA estimated the object was only about two metres across, yet the sonic effects were heard far beyond the immediate trajectory area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">NASA confirmed the meteor, which was visible near Medina, Ohio, was about 2 meters in diameter, weighed approximately 6 to 7 tons, and tr...</span></span></span>
+
+Because humans instinctively localise loud sounds as nearby threats, many witnesses sincerely believe the source landed close to them. AI-assisted analysis helps counter this bias by aggregating geographically distributed reports. If dozens of separated observers all think the explosion happened “just over the hill”, the event was probably much larger and farther away than any single witness realised.
+
+## Comparing boom timing across reports
+
+Delayed-boom analysis becomes much more powerful when many witness accounts are combined.
+
+A single observer may estimate timing poorly under stress. Large datasets are more reliable. Modern investigation systems can collect timestamps from:
+
+* social media uploads
+* emergency-call logs
+* dashboard cameras
+* home CCTV
+* meteor-network sensors
+* witness forms
+* smart doorbell recordings
+
+Once organised, these reports can reveal an expanding acoustic pattern consistent with a high-altitude shockwave.
+
+For example:
+
+* witnesses nearest the trajectory may hear the boom after 30 to 60 seconds
+* observers farther away may hear it several minutes later
+* some people see the flash but hear nothing at all
+
+That geographic spread strongly favours a meteor explanation over a conventional aircraft accident or nearby object.
+
+Researchers studying meteor-generated shockwaves note that fragmentation height and entry angle strongly affect ground pressure and damage footprints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</span><span class="citation-popover-meta">Published: May 21, 2018</span></span></span> Lower-altitude fragmentation tends to produce stronger and more concentrated overpressure effects, while higher bursts spread the acoustic signature more broadly.
+
+This matters in UFO screening because witness perception alone often exaggerates proximity. AI systems can compare reported delays against atmospheric models and rapidly identify whether the timing is physically plausible for a meteor airburst.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gRrdSwhQhY0" title="Meteor Strikes Russia, Over 1,000 Believed Injured" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gRrdSwhQhY0" target="_blank" rel="noopener noreferrer">Meteor Strikes Russia, Over 1,000 Believed Injured</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 3.5M &middot; Uploaded: February 2013 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gRrdSwhQhY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gRrdSwhQhY0">Open on YouTube</a></p></div></div></div>
+
+## Why simultaneous sound can be misleading
+
+Not every reported meteor sound is delayed. Some witnesses describe crackling, hissing, or popping noises occurring at the same moment as the fireball.
+
+These reports are controversial and are usually separated from ordinary sonic booms. The American Meteor Society distinguishes between delayed sonic booms and rarer “electrophonic sounds”, which may involve electromagnetic effects interacting with nearby objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsThere are two reported types of sounds generated by very bright fireballs, both of which are quite ra...</span></span></span>
+
+For UFO investigations, the important distinction is this:
+
+* delayed booms strongly support a distant atmospheric event
+* simultaneous local sounds are less reliable as evidence of proximity
+
+Witnesses often compress timelines during stressful experiences. Someone may later describe the boom as immediate even if video evidence shows a substantial delay. AI-assisted reconstruction can compare witness recollections against timestamped recordings to correct for this effect.
+
+This is particularly important in viral UFO cases, where edited clips or dramatic retellings can remove the delay entirely and make the event appear more mysterious than it was.
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-dark.svg" | relative_url }}" alt="Delayed Booms illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What delayed booms tell investigators
+
+A delayed sonic boom does not prove every fireball report was definitely a meteor. But it is one of the strongest atmospheric clues investigators can use.
+
+When analysts see:
+
+* a bright high-speed flash
+* wide-area visibility
+* short duration
+* delayed acoustic shock
+* multiple geographically separated reports
+
+the probability of a meteor airburst rises substantially.
+
+The key investigative value lies in the timing. The gap between light and sound exposes the scale of the event. What felt to witnesses like a nearby crash was often a hypersonic object exploding high above the atmosphere.
+
+In AI-assisted UFO investigation, that timing relationship becomes measurable evidence rather than anecdote. Instead of relying only on dramatic witness language, investigators can reconstruct the physical behaviour of the event itself.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHPiF7TLzPE" title="NASA says meteor that lit up Vancouver sky was travelling 100 times speed of sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHPiF7TLzPE" target="_blank" rel="noopener noreferrer">NASA says meteor that lit up Vancouver sky was travelling 100 times speed of sound</a></p><p class="youtube-embed-meta">Channel: CHEK Media &middot; Views: 44.4K &middot; Uploaded: March 2026 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHPiF7TLzPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHPiF7TLzPE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -742,87 +816,6 @@ This produces a familiar emergency-response pattern:
 })();
 </script>
 </section>
-2. delayed boom heard <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/blogs/watch-the-skies/2026/03/26/its-fireball-season-answering-your-meteor-questions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">It&#x27;s Fireball Season!</span><span class="citation-popover-snippet">Answering Your Meteor Questions26 Mar 2026 —... sound, often called a sonic boom, that can be heard on the ground. Additionally, the fra...</span></span></span>
-3. residents report a nearby explosion
-4. emergency services receive calls about crashes or impacts
-5. no wreckage is found
-
-</div>
-
-Modern UFO and UAP investigations increasingly compare these reports against [meteor databases]({{ 'meteor-databases/' | relative_url }}) before treating them as anomalous craft incidents.
-
-The March 2026 Ohio fireball illustrates the pattern well. Witnesses across several states reported a large boom and shaking buildings after a meteor fragmented overhead. NASA estimated the object was only about two metres across, yet the sonic effects were heard far beyond the immediate trajectory area. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2026/mar/17/ohio-meteor-pennsylvania" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">NASA confirmed the meteor, which was visible near Medina, Ohio, was about 2 meters in diameter, weighed approximately 6 to 7 tons, and tr...</span></span></span>
-
-Because humans instinctively localise loud sounds as nearby threats, many witnesses sincerely believe the source landed close to them. AI-assisted analysis helps counter this bias by aggregating geographically distributed reports. If dozens of separated observers all think the explosion happened “just over the hill”, the event was probably much larger and farther away than any single witness realised.
-
-## Comparing boom timing across reports
-
-Delayed-boom analysis becomes much more powerful when many witness accounts are combined.
-
-A single observer may estimate timing poorly under stress. Large datasets are more reliable. Modern investigation systems can collect timestamps from:
-
-* social media uploads
-* emergency-call logs
-* dashboard cameras
-* home CCTV
-* meteor-network sensors
-* witness forms
-* smart doorbell recordings
-
-Once organised, these reports can reveal an expanding acoustic pattern consistent with a high-altitude shockwave.
-
-For example:
-
-* witnesses nearest the trajectory may hear the boom after 30 to 60 seconds
-* observers farther away may hear it several minutes later
-* some people see the flash but hear nothing at all
-
-That geographic spread strongly favours a meteor explanation over a conventional aircraft accident or nearby object.
-
-Researchers studying meteor-generated shockwaves note that fragmentation height and entry angle strongly affect ground pressure and damage footprints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1805.07842" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere</span><span class="citation-popover-snippet">Physics of Meteor Generated Shock Waves in the Earth&#x27;s Atmosphere - A ReviewMay 21, 2018...</span><span class="citation-popover-meta">Published: May 21, 2018</span></span></span> Lower-altitude fragmentation tends to produce stronger and more concentrated overpressure effects, while higher bursts spread the acoustic signature more broadly.
-
-This matters in UFO screening because witness perception alone often exaggerates proximity. AI systems can compare reported delays against atmospheric models and rapidly identify whether the timing is physically plausible for a meteor airburst.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gRrdSwhQhY0" title="Meteor Strikes Russia, Over 1,000 Believed Injured" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gRrdSwhQhY0" target="_blank" rel="noopener noreferrer">Meteor Strikes Russia, Over 1,000 Believed Injured</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 3.5M &middot; Uploaded: February 2013 &middot; Length: 4 minutes 30 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gRrdSwhQhY0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gRrdSwhQhY0">Open on YouTube</a></p></div></div></div>
-
-## Why simultaneous sound can be misleading
-
-Not every reported meteor sound is delayed. Some witnesses describe crackling, hissing, or popping noises occurring at the same moment as the fireball.
-
-These reports are controversial and are usually separated from ordinary sonic booms. The American Meteor Society distinguishes between delayed sonic booms and rarer “electrophonic sounds”, which may involve electromagnetic effects interacting with nearby objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsThere are two reported types of sounds generated by very bright fireballs, both of which are quite ra...</span></span></span>
-
-For UFO investigations, the important distinction is this:
-
-* delayed booms strongly support a distant atmospheric event
-* simultaneous local sounds are less reliable as evidence of proximity
-
-Witnesses often compress timelines during stressful experiences. Someone may later describe the boom as immediate even if video evidence shows a substantial delay. AI-assisted reconstruction can compare witness recollections against timestamped recordings to correct for this effect.
-
-This is particularly important in viral UFO cases, where edited clips or dramatic retellings can remove the delay entirely and make the event appear more mysterious than it was.
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-dark.svg" | relative_url }}" alt="Delayed Booms illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_meteor_sonic_4bc3e1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What delayed booms tell investigators
-
-A delayed sonic boom does not prove every fireball report was definitely a meteor. But it is one of the strongest atmospheric clues investigators can use.
-
-When analysts see:
-
-* a bright high-speed flash
-* wide-area visibility
-* short duration
-* delayed acoustic shock
-* multiple geographically separated reports
-
-the probability of a meteor airburst rises substantially.
-
-The key investigative value lies in the timing. The gap between light and sound exposes the scale of the event. What felt to witnesses like a nearby crash was often a hypersonic object exploding high above the atmosphere.
-
-In AI-assisted UFO investigation, that timing relationship becomes measurable evidence rather than anecdote. Instead of relying only on dramatic witness language, investigators can reconstruct the physical behaviour of the event itself.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHPiF7TLzPE" title="NASA says meteor that lit up Vancouver sky was travelling 100 times speed of sound" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHPiF7TLzPE" target="_blank" rel="noopener noreferrer">NASA says meteor that lit up Vancouver sky was travelling 100 times speed of sound</a></p><p class="youtube-embed-meta">Channel: CHEK Media &middot; Views: 44.4K &middot; Uploaded: March 2026 &middot; Length: 2 minutes 17 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHPiF7TLzPE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHPiF7TLzPE">Open on YouTube</a></p></div></div></div>
 
 ## Endnotes
 

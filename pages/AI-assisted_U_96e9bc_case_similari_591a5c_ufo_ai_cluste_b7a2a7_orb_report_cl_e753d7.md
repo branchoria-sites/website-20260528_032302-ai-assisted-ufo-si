@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7
 
 Many UFO sightings described as glowing “orbs” look similar in witness testimony but separate into very different explanation groups once investigators compare context data. A bright stationary light near the horizon may belong to an [astronomy]({{ 'astronomy/' | relative_url }}) cluster. A drifting orange light can align with wind-carried balloons or lanterns. A rapidly manoeuvring light near an airport may correlate with drone activity. A strange glowing blob captured only on infrared footage may turn out to be a sensor artefact rather than a physical object at all.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-1-dark.svg" | relative_url }}" alt="Orb Clusters illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one of the most important lessons in AI-assisted UFO sighting investigation. Human observers naturally compress unfamiliar lights into a few simple labels such as “orb”, “sphere”, or “ball of light”. AI systems can help disentangle those reports by comparing [weather]({{ 'weather/' | relative_url }}), wind, astronomy, flight data, sensor characteristics, geography, and timing against large archives of [resolved cases]({{ 'resolved-cases/' | relative_url }}). NASA’s independent UAP study stressed that machine learning only becomes useful when supported by “well-characterized data” and rigorous contextual analysis rather than description alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — The study of Unidentified Anomalous Phenomena (UAP) presents a unique scien...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/Futurology/comments/16ijwyl/nasa_shares_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">omalies, but only when applied to high-quality, well-...Read more...</span></span></span>
 
@@ -304,7 +303,6 @@ Modern clustering systems attempt to avoid this trap by treating the sighting as
 One major cluster forms around astronomy-related sightings. These cases often share a recognisable pattern once environmental data is added.
 
 Typical features include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,7 +343,6 @@ A second major orb cluster involves balloons, lanterns, and lightweight airborne
 
 These sightings often contain details that initially sound mysterious:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * silent hovering,
@@ -362,7 +359,6 @@ The key mechanism is perspective. A balloon moving directly toward or away from 
 
 Reflective Mylar balloons are especially problematic because they:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * flash intensely in sunlight,
@@ -373,7 +369,6 @@ Reflective Mylar balloons are especially problematic because they:
 </div>
 
 [AI clustering]({{ 'ai-clustering/' | relative_url }}) systems can detect these cases by correlating:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -391,14 +386,12 @@ The distinction between balloon and drone clusters often depends on behavioural 
 
 Analysts examining alleged “jellyfish UFO” footage have also debated whether drifting balloon groups combined with imaging artefacts can create highly unusual apparent structures. Even disagreement itself becomes useful training data for clustering systems because it highlights which visual features repeatedly confuse investigators. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/196svsk/jellyfish_ufo_analysis_mick_west/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Jellyfish UFO Analysis</span><span class="citation-popover-snippet">Jellyfish UFO Analysis - Mick West: r/UFOsJanuary 14, 2024 — A cluster of balloons is usually fluid and has some rippling movement...</span><span class="citation-popover-meta">Published: January 14, 2024</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-2-dark.svg" | relative_url }}" alt="Orb Clusters illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Drone Clusters Look Different Once Flight Context Is Added
 
 Drone-related orb reports became much more common after consumer quadcopters spread widely during the 2010s.
 
 Without contextual data, drones often resemble classic UFO reports:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -433,7 +426,6 @@ The strongest drone clusters usually appear near:
 Temporal clustering matters as well. Multiple orb reports from the same evening often align with local drone activity once investigators reconstruct timelines.
 
 AI systems become especially useful when combining public ADS-B aircraft feeds with geofenced drone restrictions, weather conditions, and social reporting density. A sighting that initially appears isolated may actually match a broader regional pattern of drone observations.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-3-dark.svg" | relative_url }}" alt="Orb Clusters illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_ai_cluste_b7a2a7_orb_report_cl_e753d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sensor Artefacts Create Their Own “Orb UFO” Family
@@ -903,6 +895,7 @@ At the same time, clustering can identify genuinely unusual outliers. In machine
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

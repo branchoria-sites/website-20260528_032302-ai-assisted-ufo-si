@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c
 
 A missing [aircraft]({{ 'aircraft/' | relative_url }}) on a public flight tracker is useful evidence in a UFO investigation, but it is not decisive evidence. Public tracking maps are built from [incomplete data]({{ 'incomplete-data/' | relative_url }}) sources, commercial filtering choices, volunteer receiver networks and aircraft broadcasts that are not always active or visible. In practice, “nothing showed on Flightradar24” is often better treated as a prompt for deeper checking than as proof that no aircraft was present.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-1-dark.svg" | relative_url }}" alt="Tracker gaps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many UFO reports are assessed too quickly in either direction. Some investigators dismiss witnesses because a tracker shows a nearby flight somewhere in the region. Others move too fast toward “anomalous” conclusions because a map appears empty. A balanced AI-assisted workflow should instead ask a narrower question: how complete was the tracking coverage for that place, altitude and type of aircraft at the exact time of the sighting?
 
@@ -336,7 +335,6 @@ Military aircraft may sometimes operate with ADS-B transmissions disabled or lim
 
 That does not mean “secret UFO aircraft”. It simply means that public tracking visibility is conditional rather than guaranteed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SfKCwQcsQA0" title="How does multilateration (MLAT) work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SfKCwQcsQA0" target="_blank" rel="noopener noreferrer">How does multilateration (MLAT) work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 17.6K &middot; Uploaded: July 2024 &middot; Length: 1 minute 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SfKCwQcsQA0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SfKCwQcsQA0">Open on YouTube</a></p></div></div></div>
 
 ### Coverage and geometry problems
@@ -369,7 +367,6 @@ A useful automated check might ask:
 
 The absence of a match after those checks is more meaningful than the absence of a match on one app alone.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-2-dark.svg" | relative_url }}" alt="Tracker gaps illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Tracker gaps can create false “anomalies”
 
@@ -393,7 +390,6 @@ This matters because witnesses often overestimate the visibility of nearby drone
 
 An AI-assisted investigation should therefore avoid using “not on the tracker” as a shortcut argument against either aircraft or drones.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KahiBjBmgrc" title="How to Track Filtered Aircraft with ADS-B Exchange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer">How to Track Filtered Aircraft with ADS-B Exchange</a></p><p class="youtube-embed-meta">Channel: 0x4rk0 &middot; Views: 5.9K &middot; Uploaded: April 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KahiBjBmgrc">Open on YouTube</a></p></div></div></div>
 
 ## How to report no match without overstating it
@@ -401,7 +397,6 @@ An AI-assisted investigation should therefore avoid using “not on the tracker�
 The safest wording in a UFO [case file]({{ 'case-file/' | relative_url }}) is usually precise and limited rather than dramatic.
 
 Strong phrasing:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -412,7 +407,6 @@ Strong phrasing:
 </div>
 
 Weak or misleading phrasing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -426,7 +420,6 @@ The distinction matters because absence of evidence is not automatically evidenc
 
 A balanced investigation should separate:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * confirmed observations,
@@ -438,14 +431,12 @@ A balanced investigation should separate:
 
 That approach protects both sides of the analysis. It avoids dismissing witnesses too casually, but it also avoids promoting weak negative evidence into claims of anomaly.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-3-dark.svg" | relative_url }}" alt="Tracker gaps illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway for UFO casework
 
 In AI-assisted UFO investigation, missing public flight tracks should usually be treated as a caution flag rather than a conclusion. A gap may slightly weaken an aircraft explanation, particularly in dense commercial airspace with strong receiver coverage, but it rarely rules aircraft out on its own.
 
 The most reliable workflow combines:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -459,9 +450,7 @@ The most reliable workflow combines:
 
 Cases become more interesting not merely when a tracker is empty, but when multiple independent checks fail simultaneously while the witness description still resists ordinary explanations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F-v54MlxMIo" title="How Does ADS-B Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F-v54MlxMIo" target="_blank" rel="noopener noreferrer">How Does ADS-B Work?</a></p><p class="youtube-embed-meta">Channel: Canada Aviation and Space Museum &middot; Views: 109.6K &middot; Uploaded: April 2022 &middot; Length: 2 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F-v54MlxMIo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F-v54MlxMIo">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -854,6 +843,7 @@ Cases become more interesting not merely when a tracker is empty, but when multi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

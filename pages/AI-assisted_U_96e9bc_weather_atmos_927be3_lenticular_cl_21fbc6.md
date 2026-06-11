@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21
 
 Some UFO reports begin with something that really is unusual to look at: a cloud shaped like a smooth metallic disc, a stack of hovering plates, or a glowing oval hanging motionless over a ridge. Lenticular clouds are among the strongest natural explanations for classic “flying saucer” sightings because they can genuinely appear artificial to people unfamiliar with them. The resemblance is not imaginary or invented after the fact. Meteorological agencies themselves routinely describe these clouds as UFO-like. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-1-dark.svg" | relative_url }}" alt="Lenticulars illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In an AI-assisted UFO sighting investigation, lenticular clouds are important because they create a specific and testable pattern. The sighting can be checked against terrain, wind direction, atmospheric stability, cloud imagery and witness behaviour. A strong match does not prove that every witness merely “mistook a cloud”, but it can quickly move a report from apparently extraordinary to meteorologically plausible. The key is understanding both sides of the equation: why these clouds look so strange, and what details would make a saucer report inconsistent with normal cloud behaviour.
 
@@ -305,7 +304,6 @@ In an AI-assisted UFO sighting investigation, lenticular clouds are important be
 Lenticular clouds are lens-shaped or almond-shaped clouds that form in standing air waves, usually downwind of hills or mountains. They are often smooth-edged, isolated from surrounding cloud layers and visually symmetrical. The Met Office notes that they resemble the “traditional shape of flying saucers”, while NOAA and UCAR describe them as stationary wave clouds linked to mountainous airflow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 
 For witnesses, several features make them unusually convincing as apparent UFOs:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,7 +330,6 @@ In reality, the cloud itself is not a static object. Moist air continuously flow
 
 To an observer on the ground, the effect can look deeply unnatural:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * surrounding clouds move normally;
@@ -343,7 +340,6 @@ To an observer on the ground, the effect can look deeply unnatural:
 </div>
 
 This combination strongly overlaps with classic UFO witness language such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -357,7 +353,6 @@ This combination strongly overlaps with classic UFO witness language such as:
 Time-lapse imagery often reveals the real behaviour more clearly than real-time observation. Lenticular clouds subtly reshape themselves even while maintaining the same general position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://mountwashington.org/a-closer-look-at-lenticular-clouds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mountwashington.org">[Mount Washington Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mountwashington.org</span><span class="citation-popover-snippet">Mount Washington ObservatoryA Closer Look at Lenticular CloudsIn the video below, you can see the lenticular clouds changing shape, but r...</span></span></span>
 
 For AI-assisted analysis, apparent hovering should therefore be tested against:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,7 +372,6 @@ Lenticular cloud explanations become much stronger when the local geography and 
 
 These clouds usually form when stable, moist air flows across elevated terrain and oscillates on the downwind side. Meteorological sources consistently connect them with hills, mountain ridges and lee waves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Lenticular_cloud" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In practical UFO investigation terms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Lenticular cloud</span><span class="citation-popover-snippet">Lenticular cloud</span></span></span>, several clues strengthen the likelihood that a witness saw a lenticular cloud rather than a structured craft.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KgO7Kyq3q-U" title="Lenticular Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer">Lenticular Clouds</a></p><p class="youtube-embed-meta">Channel: Alan Sealls &middot; Views: 11.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KgO7Kyq3q-U">Open on YouTube</a></p></div></div></div>
 
 ### The object stays fixed relative to terrain
@@ -395,7 +389,6 @@ Ground conditions can mislead witnesses. A calm surface evening does not rule ou
 ### The shape changes slowly rather than manoeuvring
 
 Lenticular clouds can appear to pulse, elongate or subtly rotate in shape, especially near sunset. But these changes are gradual and fluid rather than mechanical. Witness descriptions of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -427,7 +420,6 @@ An AI-assisted workflow can compare witness descriptions against:
 
 The result is not absolute identification, but a [confidence]({{ 'confidence/' | relative_url }})-weighted environmental match.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-2-dark.svg" | relative_url }}" alt="Lenticulars illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some witnesses report metallic surfaces and structure
 
@@ -454,7 +446,6 @@ Photography can intensify the effect:
 
 AI image analysis therefore needs caution. A machine-learning model trained mainly on object recognition may incorrectly classify sharply bounded lenticular clouds as structured aerial objects if environmental context is ignored.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hWcgJS6ODBk" title="What are lenticular clouds and how do they form?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hWcgJS6ODBk" target="_blank" rel="noopener noreferrer">What are lenticular clouds and how do they form?</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 1.1K &middot; Uploaded: November 2025 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hWcgJS6ODBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hWcgJS6ODBk">Open on YouTube</a></p></div></div></div>
 
 ## When a saucer report does not fit cloud behaviour
@@ -478,7 +469,6 @@ Clouds may appear on some weather systems, but a report involving coherent high-
 ### Clear mechanical detail at close range
 
 Witnesses sometimes claim visible seams, rotating components or emitted beams at relatively short distance. Such details are vulnerable to perceptual distortion, especially under stress or darkness, but they do not naturally emerge from ordinary lenticular behaviour.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-3-dark.svg" | relative_url }}" alt="Lenticulars illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Movement inconsistent with wind structure
@@ -528,7 +518,6 @@ The most useful output is usually probabilistic rather than absolute:
 * inconsistent with known cloud behaviour.
 
 That distinction keeps the investigation evidence-led instead of dismissive.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3cATBbSVUng" title="The Proof Is Out There: Chilean UFO Spotted in the Clouds (Season 4) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3cATBbSVUng" target="_blank" rel="noopener noreferrer">The Proof Is Out There: Chilean UFO Spotted in the Clouds (Season 4) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 445.0K &middot; Uploaded: October 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3cATBbSVUng" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3cATBbSVUng">Open on YouTube</a></p></div></div></div>
 
@@ -938,6 +927,7 @@ That balance is central to AI-assisted UFO sighting investigation. The goal is n
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

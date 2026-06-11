@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_76
 
 A witness who reports a bright “hovering” light may actually be describing an [aircraft]({{ 'aircraft/' | relative_url }}) flying almost directly towards them with [landing lights]({{ 'landing-lights/' | relative_url }}) illuminated. The key investigative question is not simply whether an aircraft was nearby, but whether its heading, speed and timing matched the witness description closely enough to reproduce the visual effect. Reconstructing aircraft headings from a sighting timeline is therefore one of the most useful reality-check tools in AI-assisted UFO investigation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-1-dark.svg" | relative_url }}" alt="Timeline Match illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern flight-tracking systems make this possible in far more detail than many witnesses realise. Public ADS-B data can show an aircraft’s heading, altitude, groundspeed and route history second by second. When that information is aligned with the witness timeline, investigators can test whether a supposedly stationary object was actually a jet on final approach, a distant aircraft flying directly towards the observer, or a turning aircraft whose lights briefly pointed at the witness before disappearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">ADS-B ExchangeADS-B ExchangePoint your camera and get instant aircraft details. Learn More. See the sky clearly. Whether you&#x27;re tracking...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://txtav.com/en/journey/articles/articles/adsb-out-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: txtav.com">[Textron Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">txtav.com</span><span class="citation-popover-snippet">Textron AviationADS-B Out ExplainedADS-B allows equipped aircraft and ground vehicles to broadcast their identification, position, altitu...</span></span></span>
 
@@ -282,7 +281,6 @@ The most important [geometry]({{ 'geometry/' | relative_url }}) question is simp
 A plane moving left to right creates obvious angular movement. A plane flying almost directly towards an observer can appear nearly fixed in place for several minutes because the apparent bearing changes only slowly. This effect becomes especially convincing at night when the landing lights are visible but the aircraft body is not. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://pvaaust.com/faa-encourages-the-use-of-landing-lights-for-increased-visibility/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pvaaust.com">[Pure Vision Aviation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pvaaust.com</span><span class="citation-popover-snippet">Pure Vision AviationFAA ENCOURAGES THE USE OF LANDING LIGHTS FOR...To enhance the “see and avoid” concept, the FAA encourages pilots to...</span></span></span>
 
 In practical investigation work, timeline reconstruction usually begins with four anchor points:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -296,7 +294,6 @@ In practical investigation work, timeline reconstruction usually begins with fou
 Flight-track replay tools such as <span class="citation-link-wrap"><a class="citation-inline-link" href="https://globe.adsbexchange.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: globe.adsbexchange.com">[ADS-B Exchange Replay]</a><span class="citation-popover" role="note"><span class="citation-popover-source">globe.adsbexchange.com</span><span class="citation-popover-snippet">Historic track labels: UTC. Smaller wind labels. Label units. Darker Colors. Dark Mode. Dim...Read more...</span></span></span> allow investigators to step through historical aircraft positions at precise timestamps. By plotting the witness location against the aircraft track, analysts can estimate whether the aircraft heading aligned closely with the observer’s line of sight.
 
 A strong match often looks like this:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -317,7 +314,6 @@ AI-assisted workflows can automate much of this comparison. A system can ingest 
 The strongest aircraft matches are usually temporal rather than merely geographic.
 
 A witness may report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -344,7 +340,6 @@ For example, if a witness says the object vanished at 21:14:30, and ADS-B data s
 
 Replay analysis also helps identify false positives. Investigators sometimes find that the “correct” aircraft was actually travelling across the witness field of view rather than toward it. In those cases the geometry does not support the hovering illusion even if the aircraft was nearby.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tvt_oFs8pW0" title="Why Do Airplanes Have So Many Lights? | Aircraft Lighting Explained by Josh Rawlins" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tvt_oFs8pW0" target="_blank" rel="noopener noreferrer">Why Do Airplanes Have So Many Lights? | Aircraft Lighting Explained by Josh Rawlins</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 1.9K &middot; Uploaded: March 2025 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tvt_oFs8pW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tvt_oFs8pW0">Open on YouTube</a></p></div></div></div>
 
 ## Why heading reconstruction matters more than proximity alone
@@ -352,7 +347,6 @@ Replay analysis also helps identify false positives. Investigators sometimes fin
 One of the biggest mistakes in UFO debunking is assuming that any nearby aircraft explains the sighting.
 
 In reality, many aircraft do not visually match a hovering-light report at all. A convincing reconstruction requires agreement between:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -388,14 +382,12 @@ That distinction is crucial in balanced UFO investigation. It avoids both extrem
 * dismissing sightings too casually
 * treating ordinary aircraft geometry as inherently anomalous
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-2-dark.svg" | relative_url }}" alt="Timeline Match illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reconstructing the geometry from partial witness reports
 
 Witness accounts are often [incomplete]({{ 'incomplete-data/' | relative_url }}). People rarely provide exact bearings or precise timestamps.
 
 AI-assisted workflows therefore benefit from probabilistic reconstruction rather than rigid matching. A system can work backwards from uncertain descriptions such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -421,7 +413,6 @@ Historical replay systems are especially valuable here because they preserve the
 
 Even weak witness timing can sometimes become highly informative once combined with aircraft movement data.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d5BUXAozb08" title="Dangerous Optical Illusions On Approach - Too High or Too Low?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer">Dangerous Optical Illusions On Approach - Too High or Too Low?</a></p><p class="youtube-embed-meta">Channel: Easyjetsimpilot &middot; Views: 4.1K &middot; Uploaded: May 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d5BUXAozb08">Open on YouTube</a></p></div></div></div>
 
 ## When flight-track evidence strongly supports the aircraft explanation
@@ -442,7 +433,6 @@ Airport-adjacent reports are particularly revealing. Residents living beneath ex
 A good reconstruction may also explain why the witness initially saw only a white light. Aircraft navigation lights and fuselage details can remain invisible at long range while forward-facing landing lights dominate the visual impression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pilotinstitute.com/airplane-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pilotinstitute.com">[Pilot Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pilotinstitute.com</span><span class="citation-popover-title">airplane lights</span><span class="citation-popover-snippet">Pilot InstituteAirplane Lights: What Each Light Does (Red/Green, Strobe...26 Dec 2024 — In this article, we will explain all the differ...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cfinotebook.net/notebook/operation-of-aircraft-systems/aircraft-lighting" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cfinotebook.net">[CFI Notebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cfinotebook.net</span><span class="citation-popover-snippet">Aircraft LightingAnti-collision lights such as rotating beacons and strobe lights increase aircraft visibility to other aircraft and grou...</span></span></span>
 
 In some cases, investigators can even reproduce the effect in person by returning to the witness location during similar traffic conditions.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-3-dark.svg" | relative_url }}" alt="Timeline Match illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc_flight_headin_f40ce3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the aircraft match weakens
@@ -469,7 +459,6 @@ The most careful UFO investigations separate:
 * aircraft confirmation
 
 A nearby aircraft may remain only a weak candidate explanation if the reconstructed heading does not reproduce the reported hovering behaviour.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
 
@@ -885,6 +874,7 @@ For AI-assisted UFO investigation, this is one of the clearest examples of autom
 })();
 </script>
 </section>
+
 ## References
 
 [- ADS-B Exchange Replay([https://globe.adsbexchange.com/](https://globe.adsbexchange.com/))](#endnote-15 "

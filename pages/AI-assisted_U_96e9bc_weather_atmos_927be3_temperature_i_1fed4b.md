@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1f
 
 A temperature inversion can make an ordinary light, ship, coastline, [aircraft]({{ 'aircraft/' | relative_url }}) or radar return appear extraordinary. In normal conditions, air gets colder with height. During an inversion, a layer of warmer air sits above cooler air near the surface, bending light and radio waves in unusual ways. That bending can raise distant objects above the horizon, stretch them vertically, duplicate them, or make them appear to hover. In older radar systems, similar conditions could also extend or distort radio propagation and create misleading targets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">Fata Morgana (mirage</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Tropospheric_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Tropospheric propagation</span><span class="citation-popover-snippet">Tropospheric propagation</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-1-dark.svg" | relative_url }}" alt="Inversions illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For UFO investigations, the important point is not that “inversions explain everything”. They do not. The real investigative value is narrower and more practical: inversions create a known mechanism that can sometimes match horizon-level UFO reports unusually well. AI-assisted case analysis can test whether the [weather]({{ 'weather/' | relative_url }}) [geometry]({{ 'geometry/' | relative_url }}) actually fits the witness account instead of treating “temperature inversion” as a vague catch-all dismissal.
 
@@ -301,7 +300,6 @@ Yes. Under strong inversion conditions, light rays curve downward toward denser 
 A classic example is the “hovering ship” illusion often photographed over cold seas or large lakes. A distant vessel hidden below the normal horizon line appears lifted into the sky because light from the ship bends through layered air. Similar effects can occur with islands, coastlines, city skylines, offshore platforms and aircraft lights. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wral.com/weather/ask-the-meteorologist-fata-morgana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wral.com">[WRAL News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wral.com</span><span class="citation-popover-snippet">WRAL NewsHow does a temperature inversion cause the Fata Morgana?Feb 17, 2026 — When there&#x27;s a temperature inversion, it can bend that li...</span></span></span>
 
 For UFO reports, this matters because many sightings happen near the horizon at dawn, dusk or night-time, exactly where refraction effects become strongest and distance estimation becomes weakest. Witnesses may report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,7 +326,6 @@ Optical mirages happen because changing air density alters the refractive index 
 
 In UFO [case files]({{ 'case-file/' | relative_url }}), this is most relevant when the report includes:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * long-distance observation
@@ -343,7 +340,6 @@ In UFO [case files]({{ 'case-file/' | relative_url }}), this is most relevant wh
 
 The effect can also magnify distant lights. Vehicle headlights, fishing boats, industrial flares or aircraft [landing lights]({{ 'landing-lights/' | relative_url }}) may appear larger and closer than they really are. This helps explain why some witnesses insist an object was nearby even when the source was tens of kilometres away.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bB7Aji0KtxA" title="Understanding Tropospheric Ducting" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bB7Aji0KtxA" target="_blank" rel="noopener noreferrer">Understanding Tropospheric Ducting</a></p><p class="youtube-embed-meta">Channel: Rohde &amp; Schwarz &middot; Views: 11.9K &middot; Uploaded: September 2023 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bB7Aji0KtxA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bB7Aji0KtxA">Open on YouTube</a></p></div></div></div>
 
 ### Radar ducting and anomalous targets
@@ -353,7 +349,6 @@ Radio waves can also bend during inversion conditions. Under strong atmospheric 
 Older radar systems were especially vulnerable to anomalous propagation. A radar beam trapped in an atmospheric duct could reflect from distant terrain, ships or weather layers and produce unexpected returns. Operators might see targets appearing where no aircraft should be present or detect objects at impossible ranges. Modern radar filtering is better, but anomalous propagation remains a recognised meteorological issue. Weather.gov ScienceDirect This matters historically because some Cold War-era UFO incidents involved both visual reports and radar tracks. In certain disputed cases <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencedirect.com/science/article/abs/pii/S1364682617302079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencedirect.com">[sciencedirect.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencedirect.com</span><span class="citation-popover-snippet">Characteristics of the anomalous refractive conditions in...by I Emmanuel · 2017 · Cited by 20 — The occurrence of anomalous propagation...</span></span></span>, sceptics argued that inversion conditions could have contributed to misleading radar contacts. Believers countered that the manoeuvres or multiple-sensor correlations were too coherent to dismiss as ducting alone.
 
 An AI-assisted investigation should therefore separate three different possibilities instead of collapsing them together:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -386,12 +381,10 @@ Weather reanalysis data, radiosonde balloon profiles and marine forecasts can of
 
 The strongest inversion-related UFO cases usually involve very low elevation angles near the horizon. A report of a “craft directly overhead” is much harder to reconcile with a superior mirage than a report of a glowing object hovering over distant water.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-2-dark.svg" | relative_url }}" alt="Inversions illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Geometric consistency matters
 
 Investigators should ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -408,7 +401,6 @@ AI systems can help by correlating witness bearings with maritime traffic, offsh
 
 This is where many weak “temperature inversion explanations” fail. Simply proving that an inversion existed is not enough. Inversions are common in many regions, especially coastal zones. The investigation still needs a plausible source object and a line-of-sight model that reproduces the reported appearance.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C1cxWJpgP7Q" title="Ask the Meteorologist: What caused this optical illusion?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C1cxWJpgP7Q" target="_blank" rel="noopener noreferrer">Ask the Meteorologist: What caused this optical illusion?</a></p><p class="youtube-embed-meta">Channel: WRAL &middot; Views: 93 &middot; Uploaded: February 2026 &middot; Length: 1 minute 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C1cxWJpgP7Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C1cxWJpgP7Q">Open on YouTube</a></p></div></div></div>
 
 ## Why some inversion explanations remain disputed
@@ -416,7 +408,6 @@ This is where many weak “temperature inversion explanations” fail. Simply pr
 The phrase “it was probably a temperature inversion” became common in UFO debates partly because it sounds scientific while remaining difficult for non-specialists to test. That has created understandable scepticism among witnesses and researchers alike.
 
 Some disputed cases involve problems that inversion models do not easily solve:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -435,7 +426,6 @@ There is also a historical issue with radar interpretation. During the mid-20th 
 
 In practice, the best investigative approach is probabilistic rather than absolute. An inversion may explain:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * apparent hovering
@@ -448,7 +438,6 @@ In practice, the best investigative approach is probabilistic rather than absolu
 </div>
 
 But it may not explain every reported behaviour.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-3-dark.svg" | relative_url }}" alt="Inversions illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AI can realistically contribute
@@ -472,9 +461,7 @@ That distinction matters. Many UFO discussions blur together possibility and lik
 
 Some sightings survive those checks poorly. Others become much less mysterious once the atmospheric geometry is reconstructed carefully. The goal of AI-assisted UFO investigation is not to force every case into a mundane explanation, but to narrow uncertainty with reproducible environmental evidence.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uy9adgmxQ_A" title="What is Superior Mirage? Why the Ship looks Floating?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer">What is Superior Mirage? Why the Ship looks Floating?</a></p><p class="youtube-embed-meta">Channel: LoudScope &middot; Views: 143.7K &middot; Uploaded: March 2021 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uy9adgmxQ_A">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -867,6 +854,7 @@ Some sightings survive those checks poorly. Others become much less mysterious o
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1006,4 +994,4 @@ Some sightings survive those checks poorly. Others become much less mysterious o
    Title: temperature inversion radar chart.336903  
    Link: <a href="https://forums.radioreference.com/threads/temperature-inversion-radar-chart.336903/" target="_blank" rel="noopener noreferrer nofollow">https://forums.radioreference.com/threads/temperature-inversion-radar-chart.336903/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>inversion radar/chart?19 July 2016 — Tropospheric Ducting Forecast for VHF &amp; UHF Radio &amp; TV has maps in 3 hour increments but it&#x27;s not th...</p></details>
-   Published: July 2016  
+   Published: July 2016

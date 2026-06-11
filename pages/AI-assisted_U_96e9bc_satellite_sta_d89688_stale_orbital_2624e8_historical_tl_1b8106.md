@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_26
 
 A satellite identification is only as trustworthy as the [orbital data]({{ 'orbital-data/' | relative_url }}) used to generate it. In UFO and UAP case [review]({{ 'review/' | relative_url }}), one of the most common hidden errors is matching a sighting against the wrong Two-Line Element set, usually called a TLE. A TLE is not a permanent description of an orbit. It is a dated orbital snapshot tied to a specific epoch time, and prediction accuracy falls away as the orbit evolves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1-dark.svg" | relative_url }}" alt="TLE Choice illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters directly when investigating historical sightings. A bright moving object reported in 2021 may appear to match a Starlink satellite in a modern tracking tool, yet the “match” can collapse once the correct historical TLEs are loaded. The opposite also happens: investigators sometimes dismiss a genuine satellite explanation because they propagated the wrong orbital set too far backward or forward in time. In AI-assisted UFO investigation, this is a data-quality problem before it is an [astronomy]({{ 'astronomy/' | relative_url }}) problem.
 
@@ -280,7 +279,6 @@ That matters directly when investigating historical sightings. A bright moving o
 Every TLE contains an epoch: the exact reference time at which the orbital elements are intended to best describe the satellite’s position and motion. CelesTrak’s documentation describes the epoch as the time to which all time-varying orbital fields are referenced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.celestrak.org/columns/v04n03/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Frequently Asked Questions: Two-Line Element Set Format.1 Jan 1998 — The next two fields (fields 1.7 and 1.8) together define th...</span></span></span>
 
 This creates a basic but critical rule for sighting analysis:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ For UFO investigation, even a modest timing or positional error can matter becau
 A suspiciously clean match is not automatically a strong match.
 
 AI-assisted investigation systems can create [false confidence]({{ 'false-confidence/' | relative_url }}) if they treat orbital prediction as deterministic rather than probabilistic. A generated report may state:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -325,7 +322,6 @@ The danger is that the output looks scientific while the underlying temporal ass
 Jonathan McDowell’s historical TLE archive explicitly notes that the archive is intended for historical analysis and not future prediction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://planet4589.org/space/ele.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: planet4589.org">[Planet 4589]</a><span class="citation-popover" role="note"><span class="citation-popover-source">planet4589.org</span><span class="citation-popover-snippet">Planet 4589Historical TLE Orbital ElementsThis database is useful for historical analysis, but does not contain recent element sets and s...</span></span></span> That warning points to a broader lesson: orbital datasets are context-dependent. A live tracking feed optimised for tonight’s skywatching is not automatically suitable for reconstructing an event from years earlier.
 
 In practice, a credible historical match should answer several separate questions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -377,12 +373,10 @@ Objects in geostationary orbit move slowly relative to Earth and generally produ
 
 These satellites are also visually different. Witnesses usually describe them as stationary or slowly drifting lights rather than rapidly moving objects.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-2-dark.svg" | relative_url }}" alt="TLE Choice illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Low Earth orbit satellites are much harder
 
 Low Earth orbit objects create most false UFO satellite matches because they:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -404,7 +398,6 @@ This means a reconstructed pass from stale data may place a satellite in approxi
 Automation improves UFO investigation only if uncertainty is preserved properly.
 
 A common failure mode is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -440,7 +433,6 @@ The final output should distinguish between:
 * unresolved match
 
 This distinction is especially important because visual sightings often contain timing uncertainty. A witness may report “around 10 pm” rather than a precise timestamp. Combining uncertain witness timing with stale orbital data compounds the uncertainty further.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-3-dark.svg" | relative_url }}" alt="TLE Choice illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_historical_tl_1b8106-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Minimum metadata for a credible match
@@ -890,6 +882,7 @@ Done carefully, historical orbital analysis can quickly eliminate many ordinary 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_db
 
 A UFO case file needs status labels that separate uncertainty from evidence. Without that discipline, “unresolved” can quietly become shorthand for “probably alien” even when the real problem is simply [missing data]({{ 'missing-data/' | relative_url }}), weak imagery or an incomplete investigation. Modern UAP investigations repeatedly stress this distinction. NASA’s independent UAP study warned that many cases remain difficult to analyse because of poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and limited observations rather than because they demonstrate extraordinary technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-1-dark.svg" | relative_url }}" alt="Case status illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters in AI-assisted UFO sighting investigation because automated systems can unintentionally amplify ambiguity. A machine-learning workflow that flags a sighting as “unresolved” may cause readers to assume the case survived every conventional explanation, when in reality the evidence may simply be too weak to test properly. A careful status system keeps the [case file]({{ 'case-file/' | relative_url }}) honest, preserves room for new evidence, and prevents unresolved reports from being treated as proof of something extraordinary.
 
@@ -305,7 +304,6 @@ A strong system usually separates cases into five broad categories.
 A ruled-out case has a confirmed explanation supported by evidence that matches the timing, direction, appearance and behaviour of the sighting.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,7 +326,6 @@ A plausible case is not fully solved, but one explanation fits the known evidenc
 This category matters because many sightings are incomplete. A witness may report a silent orange light moving slowly over a coastal area at dusk, but no original video survives and no exact timestamps exist. Investigators may find likely explanations such as aircraft landing lights, lanterns or satellites, yet lack enough precision to confirm one conclusively.
 
 A plausible label tells readers:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -372,7 +369,6 @@ This category is especially important for AI-assisted workflows because algorith
 
 An unresolved case is one where:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the report contains enough usable information for meaningful checks
@@ -403,7 +399,6 @@ Official UAP investigations increasingly make this distinction explicit. Recent 
 
 That wording is cautious for a reason. An unresolved case may later become identifiable after better weather records, improved satellite databases, witness re-interviews or newly available [sensor data]({{ 'sensor-data/' | relative_url }}).
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/436P7G1uAuM" title="NASA discusses findings from groundbreaking UFO study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=436P7G1uAuM" target="_blank" rel="noopener noreferrer">NASA discusses findings from groundbreaking UFO study</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 11.5K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=436P7G1uAuM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=436P7G1uAuM">Open on YouTube</a></p></div></div></div>
 
 ### Anomalous
@@ -411,7 +406,6 @@ That wording is cautious for a reason. An unresolved case may later become ident
 This should be the rarest category.
 
 An anomalous case is not merely unidentified. It is a case where:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -458,7 +452,6 @@ That pattern may sound meaningful, but it can also reflect reporting bias, low-l
 
 A good case file treats status labels as provisional rather than permanent.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-2-dark.svg" | relative_url }}" alt="Case status illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Weak cases can become testable
 
@@ -490,7 +483,6 @@ As these datasets improve, old cases sometimes move from unresolved to ruled out
 
 This is one reason investigators should avoid emotionally loaded labels such as “true unknown” too early in the process.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LL279fnd3z0" title="Live: Nasa experts discuss recent findings of UFO study" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LL279fnd3z0" target="_blank" rel="noopener noreferrer">Live: Nasa experts discuss recent findings of UFO study</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 6.8K &middot; Uploaded: September 2023 &middot; Length: 1 hour 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LL279fnd3z0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LL279fnd3z0">Open on YouTube</a></p></div></div></div>
 
 ### Plausible explanations can collapse
@@ -513,7 +505,6 @@ A responsible system therefore records:
 * how confident the investigator was
 
 This audit trail is more valuable than a dramatic final verdict.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-3-dark.svg" | relative_url }}" alt="Case status illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common mistakes when labelling weak or unresolved cases
@@ -560,7 +551,6 @@ That distinction helps prevent emotionally compelling accounts from receiving in
 Online UFO communities often promote unresolved clips as solved mysteries in reverse: once a clip becomes famous, later mundane explanations are ignored or treated as cover stories.
 
 A stable case-management system should resist this pressure by requiring explicit evidence thresholds before moving a case upward into stronger categories.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zq_CQrqLTPg" title="Unidentified Anomalous Phenomenon: NASA announces new head of UFO research &amp; &#x27;promises transparency&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zq_CQrqLTPg" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomenon: NASA announces new head of UFO research &amp; &#x27;promises transparency&#x27;</a></p><p class="youtube-embed-meta">Channel: GBNews &middot; Views: 1.4K &middot; Uploaded: September 2023 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zq_CQrqLTPg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zq_CQrqLTPg">Open on YouTube</a></p></div></div></div>
 
@@ -1000,6 +990,7 @@ In an AI-assisted UFO sighting investigation workflow, that restraint is not a w
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

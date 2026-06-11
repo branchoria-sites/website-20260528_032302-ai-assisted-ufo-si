@@ -277,14 +277,12 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1f
 
 Many famous mid-20th-century UFO incidents involved both eyewitnesses and radar operators reporting unusual targets at the same time. That combination gave some cases an aura of technical certainty: if trained controllers saw objects on radar as well as in the sky, surely something physical had to be present. Yet atmospheric scientists and radar engineers have long argued that some of those events occurred under conditions known to produce “anomalous propagation”, often shortened to AP. In strong temperature [inversions]({{ 'inversions/' | relative_url }}), radar beams can bend, skim the ground or sea surface, and generate misleading returns that appear to move or hover. Wikipedia Radartutorial The dispute is not whether radar ducting is real. It absolutely is. The harder question is whether it adequately explains specific historical <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[radartutorial.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span> UFO reports that combined radar tracks, pilot testimony and visual observations. For AI-assisted UFO investigation, this matters because older [case files]({{ 'case-file/' | relative_url }}) are often revisited without reconstructing the actual atmospheric conditions at the time. Modern automation can now compare archived weather profiles, radar geometry and witness timing in ways investigators in the 1950s simply could not.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-dark.svg" | relative_url }}" alt="Radar Ducting illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How ducting creates unexpected radar returns
 
 Radar systems assume radio waves travel in a reasonably predictable curve through the atmosphere. Under ordinary conditions, that assumption works well enough for air traffic control and military surveillance. During strong inversions, however, layers of warm and cool air alter the refractive index of the atmosphere and bend radar energy downward more sharply than expected. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.radartutorial.eu/07.waves/wa17.en.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: radartutorial.eu">[Radartutorial In severe cases]</a><span class="citation-popover" role="note"><span class="citation-popover-source">radartutorial.eu</span><span class="citation-popover-snippet">Anomalous Propagation of Electromagnetic WavesNon-standard or anomalous propagation (known as anaprop) occurs when the refractive index i...</span></span></span>, the beam becomes trapped inside an atmospheric “duct”. Instead of travelling normally into open air, it can skim along the surface for long distances, repeatedly reflecting between the ground or sea and the inversion layer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://patents.google.com/patent/US9810773B2/en" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: patents.google.com">[Google Patents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">patents.google.com</span><span class="citation-popover-snippet">Google PatentsMitigation of anomalous propagation effects in radarIn surface-based “ducting”, that is to say where an electromagnetic bea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://its.ntia.gov/publications/download/76-107.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: its.ntia.gov">[ITS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">its.ntia.gov</span><span class="citation-popover-snippet">The fields of interest are the...Read more...</span></span></span>
 
 That can produce several misleading effects relevant to older UFO reports:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ For UFO investigators, the important point is narrower than many debates suggest
 The strongest ducting disputes usually centre on radar systems from the late 1940s through the 1960s. Those systems were far less capable than modern digital radars at filtering clutter, distinguishing [weather]({{ 'weather/' | relative_url }}) artefacts or tracking targets consistently.
 
 Several technical limitations mattered:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -347,7 +344,6 @@ Radar personnel claimed the targets behaved unlike ordinary clutter. Some witnes
 
 Critics of the official account focused on several points:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * targets reportedly appeared on multiple radars <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eurasiantimes.com/white-house-under-siege-ufos-swarmed-the-white-house/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eurasiantimes.com">[eurasiantimes.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eurasiantimes.com</span><span class="citation-popover-title">America&#x27;s &quot;Most Dramatic&quot; UFO Encounter!</span><span class="citation-popover-snippet">73 Years After...Jan 11, 2026 — On July 26, 1952, multiple radars detected over a dozen solid targets maneuvering in a way not seen befo...</span><span class="citation-popover-meta">Published: July 26, 1952</span></span></span>
@@ -359,7 +355,6 @@ Critics of the official account focused on several points:
 </div>
 
 Supporters of the ducting explanation countered that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -387,7 +382,6 @@ However, the situation is not always straightforward. Large-scale atmospheric co
 
 AI-assisted analysis can help here by reconstructing:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * radar coverage geometry
@@ -400,14 +394,12 @@ AI-assisted analysis can help here by reconstructing:
 
 That often reveals whether supposedly separate detections were genuinely independent or simply correlated artefacts within the same atmospheric environment.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-2-dark.svg" | relative_url }}" alt="Radar Ducting illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Radar plus visual sightings
 
 Visual confirmation sounds persuasive, but older UFO cases often mixed highly uncertain visual observations with ambiguous radar data.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -421,7 +413,6 @@ For example:
 The Washington case itself included reports later interpreted as stars, meteors or ordinary lights distorted by atmospheric conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1952_Washington%2C_D.C._UFO_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1952 Washington, D.C. UFO incident</span><span class="citation-popover-snippet">1952 Washington, D.C. UFO incident</span></span></span>
 
 Still, some investigators argue that certain radar-visual combinations lasted too long or involved too many observers to dismiss comfortably. This is where historical disputes tend to persist rather than resolve cleanly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Jj3DhKSaw0w" title="UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer">UFOs Over the White House | The 1952 Washington UAP | Full UFO Government Conspiracy Documentary</a></p><p class="youtube-embed-meta">Channel: Sci-Fi Central &middot; Views: 18.5K &middot; Uploaded: July 2025 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Jj3DhKSaw0w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Jj3DhKSaw0w">Open on YouTube</a></p></div></div></div>
 
@@ -443,7 +434,6 @@ That does not prove every extraordinary manoeuvre was illusory. But it does mean
 Older UFO debates were constrained by the technology of their time. Investigators often lacked high-resolution weather archives, detailed refractivity models or computational tools for propagation analysis.
 
 Modern workflows can do far more.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-3-dark.svg" | relative_url }}" alt="Radar Ducting illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_radar_ducting_844ed6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Reconstructing historical atmospheric conditions
@@ -896,6 +886,7 @@ For AI-assisted UFO investigation, the practical takeaway is clear: radar eviden
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

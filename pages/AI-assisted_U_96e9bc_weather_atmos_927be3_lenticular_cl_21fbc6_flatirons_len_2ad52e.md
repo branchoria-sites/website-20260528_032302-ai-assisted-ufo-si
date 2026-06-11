@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21
 
 In late 2019, a smooth disc-shaped cloud hanging near Colorado’s Flatirons rock formation spread rapidly across social media as an apparent UFO sighting. The formation was visually striking enough that many viewers initially rejected ordinary [weather]({{ 'weather/' | relative_url }}) explanations. Yet the case quickly became a useful example of how modern UFO stories can emerge from real atmospheric phenomena before contextual analysis catches up.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-dark.svg" | relative_url }}" alt="Flatirons Case illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, the Flatirons incident matters because it shows how quickly a dramatic image can detach from its environmental context. The event also demonstrates the value of automated weather correlation, terrain analysis, and timeline reconstruction. Within minutes of the images spreading online, investigators could already compare the sighting against mountain-wave cloud conditions, National Weather Service observations, local geography, and known lenticular cloud behaviour. Rather than treating witness interpretation and sceptical analysis as opposites, the case shows how both can coexist: people genuinely saw something unusual, but the underlying phenomenon was meteorologically well understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/abq/features_acsl" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Open source on weather.gov.</span></span></span>
 
@@ -282,7 +281,6 @@ The most widely shared images came from Boulder, Colorado, where a circular clou
 The National Weather Service office in Boulder posted time-lapse footage recorded near the David Skaggs Research Center, a NOAA facility positioned at the base of the Flatirons. The footage showed a sharply defined lenticular cloud maintaining its position over the mountains while changing shape slowly over time. News outlets and social media users rapidly described it as “UFO-like” or resembling a hovering spacecraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span>
 
 The public reaction followed a familiar pattern seen in many modern UFO image cycles:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ This combination matters in UFO investigations because it highlights a recurring
 
 The case also illustrates why witness sincerity alone cannot establish an extraordinary explanation. Many people describing the cloud as UFO-like were accurately reporting what they saw. The interpretive error came later, during classification rather than observation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/u7CVY1vLXcY" title="How Do Lenticular Clouds Form?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=u7CVY1vLXcY" target="_blank" rel="noopener noreferrer">How Do Lenticular Clouds Form?</a></p><p class="youtube-embed-meta">Channel: The Weather Channel &middot; Views: 28.0K &middot; Uploaded: December 2016 &middot; Length: 1 minute 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=u7CVY1vLXcY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=u7CVY1vLXcY">Open on YouTube</a></p></div></div></div>
 
 ## The National Weather Service explanation
@@ -318,7 +315,6 @@ The case also illustrates why witness sincerity alone cannot establish an extrao
 Meteorologists identified the formation as a lenticular cloud produced by mountain-wave airflow along the Front Range of the Rockies. Stable, moist air moving across the mountains created standing atmospheric waves. As air rose at wave crests, moisture condensed into cloud; as it descended, the cloud evaporated. This process allowed the visible formation to remain in roughly the same position while air continued moving rapidly through it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://abc7news.com/post/circular-cloud-hovers-over-mountain-like-ufo-video/5742107/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: abc7news.com">[ABC7 San Francisco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">abc7news.com</span><span class="citation-popover-title">circular cloud hovers over mountain like ufo video</span><span class="citation-popover-snippet">The National Weather Service in Boulder took to Twitter to share time-lapse video it...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/hfo/lenticular" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">clouds Big Island 11/25/2003Nov 25, 2003 — Some people have mistaken them for UFOs due to their smooth saucer like shape. They are fairly...</span></span></span>
 
 The National Weather Service explanation aligned closely with known lenticular cloud mechanics:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -339,7 +335,6 @@ An AI-assisted UFO investigation workflow would likely downgrade the Flatirons e
 
 A structured workflow could automatically perform several checks within minutes:
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-2-dark.svg" | relative_url }}" alt="Flatirons Case illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Geospatial correlation
 
@@ -348,7 +343,6 @@ The system would identify the sighting location near a mountain range known for 
 ### Weather reconstruction
 
 Historical weather datasets could confirm:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -361,7 +355,6 @@ Historical weather datasets could confirm:
 </div>
 
 These checks are especially effective because lenticular clouds require relatively specific environmental conditions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceSevere Thunderstorms and Critical Fire Weather Wednesday · Red Flag Warning · Winter Weather Advisory · Flood Adv...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pETFGg5zp5A" title="Lenticular cloud looks like UFO hovering over Colorado" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pETFGg5zp5A" target="_blank" rel="noopener noreferrer">Lenticular cloud looks like UFO hovering over Colorado</a></p><p class="youtube-embed-meta">Channel: AccuWeather &middot; Views: 15.4K &middot; Uploaded: December 2019 &middot; Length: 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pETFGg5zp5A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pETFGg5zp5A">Open on YouTube</a></p></div></div></div>
 
@@ -390,7 +383,6 @@ A modern triage system might classify the event along lines such as:
 
 This distinction matters because a visually dramatic report is not automatically an evidentially strong anomaly.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-3-dark.svg" | relative_url }}" alt="Flatirons Case illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_flatirons_len_2ad52e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the case reveals about witness interpretation
 
@@ -408,7 +400,6 @@ The Flatirons case also demonstrates why UFO investigation should avoid dismissi
 
 The stronger investigative approach is comparative and evidence-led:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What exactly was observed?
@@ -420,9 +411,7 @@ The stronger investigative approach is comparative and evidence-led:
 
 In the Colorado case, the available evidence strongly favoured a conventional atmospheric explanation. But the public fascination around the event shows why lenticular clouds continue to appear in UFO reporting, especially in mountainous regions where dramatic stationary formations are common.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qKqu37x85AU" title="Spotted a UFO near the mountains? It was likely a lenticular cloud" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer">Spotted a UFO near the mountains? It was likely a lenticular cloud</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 309 &middot; Uploaded: February 2026 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qKqu37x85AU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qKqu37x85AU">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -815,6 +804,7 @@ In the Colorado case, the available evidence strongly favoured a conventional at
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,14 +271,12 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7d
 
 Many UFO reports involving a bright object near the horizon can be tested within minutes by checking where the Moon actually was. A witness may describe a hovering orb, a silent disc above rooftops, or a glowing object pacing a moving car, yet a reconstruction of moonrise, moonset, altitude and azimuth often shows the Moon sitting in almost the exact reported position. In AI-assisted UFO sighting investigation, this is one of the fastest ways to separate potentially unusual events from common astronomical misidentifications.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-dark.svg" | relative_url }}" alt="Moon Position illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Moon checks matter most when a sighting occurs shortly after moonrise or before moonset. At those times, the Moon is low on the horizon, heavily affected by haze, cloud and foreground obstructions, and more likely to appear distorted, oversized or strangely coloured. NASA and [astronomy]({{ 'astronomy/' | relative_url }}) researchers note that the Moon illusion and atmospheric scattering can dramatically alter perceived size and colour near the horizon. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/space/the-moon/why-does-the-moon-look-larger-when-its-on-the-horizon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-snippet">Contrary to early beliefs attributing the illusion to atmospheric refraction or mist, modern photography disproves these claims by showin...</span></span></span>
 
 ## Why low-horizon Moon sightings are repeatedly mistaken for UFOs
 
 The Moon becomes a particularly strong UFO candidate when three factors combine:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -291,7 +289,6 @@ The Moon becomes a particularly strong UFO candidate when three factors combine:
 A bright full or near-full Moon near the horizon can appear orange, red, unusually large or partially obscured. Thin cloud may erase the familiar circular outline. Trees, buildings or hills can break the disc into fragments that resemble multiple lights or structured shapes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-moon-sometimes-looks-orange" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">Sky at Night Magazine Does the Moon look orange tonight?</span><span class="citation-popover-snippet">No, you&#x27;re not seeing...6 Oct 2025  When the Moon is low, it looks orange its light must pass through a more substantial thickness of t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023  Photographers can simulate the Moon illusion by taking pict...</span></span></span>
 
 Witnesses often describe:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -337,7 +334,6 @@ Witnesses frequently misjudge shape, size and distance, especially at night. Dir
 
 If a report says:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * large orange object in the south-west
@@ -350,7 +346,6 @@ If a report says:
 then investigators can compare the report with lunar position data.
 
 If the Moon was:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -383,7 +378,6 @@ US Naval Observatory material also notes that refraction alters the apparent pos
 
 In practical UFO reconstruction, this means a witness may sincerely report:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * a gigantic object
@@ -393,7 +387,6 @@ In practical UFO reconstruction, this means a witness may sincerely report:
 </div>
 
 even though the Moons true angular size barely changes.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yuxWyIe8TIc" title="Why Does the Moon Look Larger at the Horizon? We Asked a NASA Expert" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yuxWyIe8TIc" target="_blank" rel="noopener noreferrer">Why Does the Moon Look Larger at the Horizon? We Asked a NASA Expert</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 49.1K &middot; Uploaded: February 2025 &middot; Length: 1 minute 19 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yuxWyIe8TIc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yuxWyIe8TIc">Open on YouTube</a></p></div></div></div>
 
@@ -406,7 +399,6 @@ Moon phase is often overlooked in UFO investigations, yet it can rapidly rule ex
 A crescent Moon behaves very differently from a full Moon.
 
 A near-full Moon: <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/resource/photographing-the-moon-illusion/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">photographing the moon illusion</span><span class="citation-popover-snippet">the Moon Illusion12 Feb 2025  That squashed look is due to Earth&#x27;s atmosphere behaving like a weak lens with moonlight being bent more n...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -459,7 +451,6 @@ A strong reconstruction separates:
 * plausible but uncertain matches
 * weak correlations
 * clearly incompatible cases
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-2-dark.svg" | relative_url }}" alt="Moon Position illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reconstructing a sighting with AI-assisted lunar analysis
@@ -525,7 +516,6 @@ Moon reconstruction is unusually suitable for automation because:
 
 Unlike many UFO evidence categories, lunar position data is objective and reproducible. Two investigators using the same coordinates and timestamp should obtain nearly identical results.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-3-dark.svg" | relative_url }}" alt="Moon Position illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_moon_position_9beffd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common failure modes in Moon-based explanations
 
@@ -566,7 +556,6 @@ A reconstruction that checks only Moon position but ignores:
 may miss the mechanism that created the UFO-like appearance.
 
 The strongest analyses integrate astronomy and [weather data]({{ 'weather-data/' | relative_url }}) together rather than treating them separately.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JViLhPhY97o" title="Understanding the Azimuth and the Elevation | Photography Planning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JViLhPhY97o" target="_blank" rel="noopener noreferrer">Understanding the Azimuth and the Elevation | Photography Planning</a></p><p class="youtube-embed-meta">Channel: PhotoPills &middot; Views: 28.3K &middot; Uploaded: June 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JViLhPhY97o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JViLhPhY97o">Open on YouTube</a></p></div></div></div>
 
@@ -1228,4 +1217,4 @@ At the same time, careful UFO investigation requires discipline against overreac
    Title: how to calculate the time and date from the moons position phase and the orien  
    Link: <a href="https://astronomy.stackexchange.com/questions/60118/how-to-calculate-the-time-and-date-from-the-moons-position-phase-and-the-orien" target="_blank" rel="noopener noreferrer nofollow">https://astronomy.stackexchange.com/questions/60118/how-to-calculate-the-time-and-date-from-the-moons-position-phase-and-the-orien</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>to calculate the time and date from the moon&#x27;s...May 10, 2025  A formula, for example, where you input the position (Azimuth/Altitude o...</p></details>
-   Published: May 10, 2025  
+   Published: May 10, 2025

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_14
 
 A witness who reports a buzzing or whining object in the sky may unintentionally provide one of the strongest clues that a small drone was involved. At the same time, many UFO reports describe apparently silent hovering lights that later prove difficult to reconcile with ordinary [aircraft]({{ 'aircraft/' | relative_url }}). The problem is that silence is not a simple clue. A multicopter can sound surprisingly loud at close range yet become difficult to hear at modest distance, especially in wind, traffic noise or urban environments.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-dark.svg" | relative_url }}" alt="Sound clues illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, sound evidence works best when treated as one data layer among many rather than as a decisive proof. Rotor noise patterns, sudden pitch changes during manoeuvres and intermittent buzzing can support a drone explanation. But investigators also need to test whether environmental conditions could have masked the sound completely. A “silent UFO” may still fit an ordinary drone profile once distance estimation, [weather]({{ 'weather/' | relative_url }}), terrain and background noise are reconstructed carefully.
 
@@ -280,7 +279,6 @@ For AI-assisted UFO sighting investigation, sound evidence works best when treat
 Small multicopter drones produce a characteristic sound profile driven by fast-spinning propellers and electric motors. Witnesses often describe it as a buzz, mosquito-like whine, electric hum or high-pitched rattling rather than the deeper continuous engine sound associated with helicopters or light aircraft. Acoustic studies repeatedly note that drone noise contains strong tonal components and higher-frequency elements that make it perceptually distinctive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.acentech.com/resources/drone-noise-a-new-challenge-in-acoustics/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: acentech.com">[Acentech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">acentech.com</span><span class="citation-popover-title">Drone Noise – A New Challenge in Acoustics</span><span class="citation-popover-snippet">Drone Noise – A New Challenge in AcousticsMay 21, 2020 — 21 May 2020 — The basics of the sounds that come from small delivery dro...</span><span class="citation-popover-meta">Published: May 21, 2020</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://publications.rwth-aachen.de/record/995944/files/995944.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: publications.rwth-aachen.de">[RWTH Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">publications.rwth-aachen.de</span><span class="citation-popover-snippet">RWTH PublicationsPsychoacoustic Optimization of the Aviation Noise of Electric...This thesis analyzes the psychoacoustic optimization of...</span></span></span>
 
 One useful investigative clue is how the sound changes during movement. Multicopters alter rotor speed constantly to stabilise themselves, climb, descend or hold position. Witnesses sometimes report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +305,6 @@ Urban and suburban settings further complicate perception. Traffic, ventilation 
 
 This matters because many UFO sightings occur under exactly those masking conditions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Roads or motorways nearby.
@@ -322,7 +319,6 @@ This matters because many UFO sightings occur under exactly those masking condit
 A witness may therefore report an object as “completely silent” even though a small multicopter operating several hundred metres away would realistically have been difficult to hear.
 
 Distance misjudgement makes the problem worse. Bright navigation LEDs at night often appear farther away and larger than they really are. If witnesses overestimate range, they may also underestimate how weak the sound should have been. An object believed to be “a huge silent craft miles away” can later fit a much smaller drone only a few hundred metres distant.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/alqYrP53DIg" title="24048 – Drone Detection &amp; Tracking via Acoustic Signatures" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=alqYrP53DIg" target="_blank" rel="noopener noreferrer">24048 – Drone Detection &amp; Tracking via Acoustic Signatures</a></p><p class="youtube-embed-meta">Channel: UA Design Day Online &middot; Views: 3.8K &middot; Uploaded: April 2024 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=alqYrP53DIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=alqYrP53DIg">Open on YouTube</a></p></div></div></div>
 
@@ -344,7 +340,6 @@ Research into drone annoyance and audibility consistently shows that background 
 
 For UFO case analysis, this means investigators should ask questions such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was the witness near a road junction?
@@ -356,7 +351,6 @@ For UFO case analysis, this means investigators should ask questions such as:
 </div>
 
 These details often matter more than witnesses expect. A faint multicopter several hundred metres away may be effectively inaudible beside ordinary urban noise.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-2-dark.svg" | relative_url }}" alt="Sound clues illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Terrain affects sound propagation
@@ -371,7 +365,6 @@ Sound evidence is useful precisely because it is imperfect. Investigators should
 
 A balanced approach usually works best:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Buzzing or whining supports a drone explanation** when paired with hovering, abrupt movement or low-altitude operation.
@@ -383,7 +376,6 @@ A balanced approach usually works best:
 
 AI systems can help by structuring these observations consistently rather than relying on anecdotal impressions alone. A useful investigation pipeline might:
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-dark.svg" | relative_url }}" alt="Sound clues illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_drone_sound_c_896c8b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -391,6 +383,32 @@ AI systems can help by structuring these observations consistently rather than r
 1. Extract sound descriptions from witness testimony.
 2. Correlate them with estimated object distance.
 3. Reconstruct ambient noise conditions.
+
+4. Compare the report against known drone acoustic behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eejournal.com/article/acoustic-detection-of-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eejournal.com">[eejournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eejournal.com</span><span class="citation-popover-title">acoustic detection of drones</span><span class="citation-popover-snippet">7 Mar 2024 — Passive acoustic location has been used to detect enemy aircraft by picking up the noise of their engines.Read more...</span></span></span>
+5. Assign confidence levels rather than binary conclusions.
+
+</div>
+
+This prevents one of the most common UFO investigation mistakes: treating silence as inherently mysterious. In practice, silence often reflects ordinary acoustic limitations, imperfect human perception or environmental masking rather than exotic technology.
+
+## When silence still raises questions
+
+None of this means every silent aerial report automatically becomes explainable as a drone. Some reports remain difficult after environmental reconstruction.
+
+Cases may still resist a simple multicopter explanation when several factors combine:
+
+* The object appeared genuinely close.
+* Conditions were acoustically quiet.
+* Multiple witnesses independently reported silence.
+* The duration was long enough for sound detection.
+* Movement exceeded realistic multicopter performance.
+* No plausible launch area existed nearby.
+
+In those situations, investigators should avoid forcing a drone explanation merely because hovering lights are common. The value of AI-assisted investigation lies in narrowing possibilities honestly, not in automatically reducing every unusual report to a mundane answer.
+
+The most reliable workflow therefore treats sound as contextual evidence. Buzzing, whining and pitch changes can strongly support a drone interpretation. Apparent silence, however, requires careful reconstruction before it carries much weight either for or against a conventional explanation.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O0G-QMKNN9g" title="How to spot the difference: Drones vs. planes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer">How to spot the difference: Drones vs. planes</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 3.3K &middot; Uploaded: December 2024 &middot; Length: 3 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O0G-QMKNN9g">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -783,32 +801,6 @@ AI systems can help by structuring these observations consistently rather than r
 })();
 </script>
 </section>
-4. Compare the report against known drone acoustic behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eejournal.com/article/acoustic-detection-of-drones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eejournal.com">[eejournal.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eejournal.com</span><span class="citation-popover-title">acoustic detection of drones</span><span class="citation-popover-snippet">7 Mar 2024 — Passive acoustic location has been used to detect enemy aircraft by picking up the noise of their engines.Read more...</span></span></span>
-5. Assign confidence levels rather than binary conclusions.
-
-</div>
-
-This prevents one of the most common UFO investigation mistakes: treating silence as inherently mysterious. In practice, silence often reflects ordinary acoustic limitations, imperfect human perception or environmental masking rather than exotic technology.
-
-## When silence still raises questions
-
-None of this means every silent aerial report automatically becomes explainable as a drone. Some reports remain difficult after environmental reconstruction.
-
-Cases may still resist a simple multicopter explanation when several factors combine:
-
-* The object appeared genuinely close.
-* Conditions were acoustically quiet.
-* Multiple witnesses independently reported silence.
-* The duration was long enough for sound detection.
-* Movement exceeded realistic multicopter performance.
-* No plausible launch area existed nearby.
-
-In those situations, investigators should avoid forcing a drone explanation merely because hovering lights are common. The value of AI-assisted investigation lies in narrowing possibilities honestly, not in automatically reducing every unusual report to a mundane answer.
-
-The most reliable workflow therefore treats sound as contextual evidence. Buzzing, whining and pitch changes can strongly support a drone interpretation. Apparent silence, however, requires careful reconstruction before it carries much weight either for or against a conventional explanation.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O0G-QMKNN9g" title="How to spot the difference: Drones vs. planes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer">How to spot the difference: Drones vs. planes</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 3.3K &middot; Uploaded: December 2024 &middot; Length: 3 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O0G-QMKNN9g">Open on YouTube</a></p></div></div></div>
 
 ## Endnotes
 

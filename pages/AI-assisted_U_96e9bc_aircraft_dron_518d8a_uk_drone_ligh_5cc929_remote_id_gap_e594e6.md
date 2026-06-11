@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5c
 
 A missing Remote ID signal is not strong evidence that a reported UFO was something exotic. In UK drone-related sighting checks after 2026, Remote ID is useful only under the right conditions: the [aircraft]({{ 'aircraft/' | relative_url }}) must fall into a category that legally broadcasts identification, the signal must be detectable from the observer’s location, and somebody must actually have been recording or monitoring it at the time.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-1-dark.svg" | relative_url }}" alt="Remote ID illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because witnesses increasingly assume the opposite. A glowing night object with no visible operator and no captured Remote ID can quickly become framed as “not a drone”. In practice, the absence of Remote ID evidence often says more about receiver coverage, aircraft class exemptions, terrain, timing, hardware limitations or [incomplete]({{ 'incomplete-data/' | relative_url }}) records than it does about the nature of the sighting itself. UK investigators using AI-assisted UFO workflows therefore need to treat Remote ID as a conditional data source rather than a definitive truth test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
@@ -282,7 +281,6 @@ The first question in any post-2026 UK sighting check is whether the suspected d
 The UK Civil Aviation Authority introduced phased Remote ID requirements tied to drone class marks and operational categories. From January 2026, many UK1 and higher class drones require Direct Remote ID during flight, while additional categories and some legacy aircraft fall under later deadlines extending toward 2028. Very small UK0-class drones under 250 g can remain exempt in many ordinary operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar UK drone laws have just changed</span><span class="citation-popover-snippet">Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/moving-on-to-more-advanced-flying/remote-id-rid/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">Civil Aviation Authority Remote ID (RID</span><span class="citation-popover-snippet">Civil Aviation AuthorityRemote ID (RID) - DronesYou must enable Remote ID on your drone or model aircraft by either 1 January 2026 or 1 J...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 That creates an important investigative trap. Some of the most commonly misidentified night drones are exactly the kinds of compact consumer aircraft that may not always produce legally required broadcasts:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -315,7 +313,6 @@ A witness in a dense UK city may visually observe a drone while nearby buildings
 
 This means:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * police systems may miss aircraft outside direct reception zones;
@@ -326,7 +323,6 @@ This means:
 </div>
 
 The mismatch is especially common when a witness films from indoors through glass or from a partially obstructed location.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nReRPwwneus" title="FAA Proposed Remote ID released, Why it may be illegal &amp; hurt the drone industry." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nReRPwwneus" target="_blank" rel="noopener noreferrer">FAA Proposed Remote ID released, Why it may be illegal &amp; hurt the drone industry.</a></p><p class="youtube-embed-meta">Channel: Drone U &middot; Views: 40.3K &middot; Uploaded: January 2020 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nReRPwwneus" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nReRPwwneus">Open on YouTube</a></p></div></div></div>
 
@@ -358,7 +354,6 @@ An AI-assisted investigation pipeline therefore needs [metadata]({{ 'metadata/' 
 One of the biggest risks in automated UFO triage is treating missing Remote ID as positive evidence for something unexplained.
 
 A simplistic workflow might do this:
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-2-dark.svg" | relative_url }}" alt="Remote ID illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -397,7 +392,6 @@ In practice, this means a missing Remote ID trail has low standalone evidential 
 
 A useful AI-assisted case workflow should therefore classify Remote ID outcomes with more nuance than “present” versus “absent”. Better categories include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * confirmed broadcast match;
@@ -410,7 +404,6 @@ A useful AI-assisted case workflow should therefore classify Remote ID outcomes 
 </div>
 
 That framing preserves uncertainty instead of prematurely escalating a sighting into an “unidentified” category.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-3-dark.svg" | relative_url }}" alt="Remote ID illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_remote_id_gap_e594e6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Spoofing, modification and incomplete trust
@@ -426,7 +419,6 @@ For UFO investigation this creates a second misconception:
 
 Most public-facing sighting checks do not require deep radio-forensic analysis, but investigators should still record whether any purported Remote ID source came from:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * law enforcement systems;
@@ -439,7 +431,6 @@ Most public-facing sighting checks do not require deep radio-forensic analysis, 
 </div>
 
 A weakly sourced screenshot should not carry the same evidential weight as a timestamped capture from a validated receiver.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/orWpINgj3Og" title="UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer">UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More</a></p><p class="youtube-embed-meta">Channel: Ian in London &middot; Views: 113.6K &middot; Uploaded: January 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=orWpINgj3Og">Open on YouTube</a></p></div></div></div>
 
@@ -869,6 +860,7 @@ When those layers point consistently toward ordinary drone activity, Remote ID c
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

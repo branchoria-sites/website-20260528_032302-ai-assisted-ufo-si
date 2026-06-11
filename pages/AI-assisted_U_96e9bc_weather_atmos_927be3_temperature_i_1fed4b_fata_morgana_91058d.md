@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1f
 
 A Fata Morgana can turn an ordinary distant object into something that looks startlingly artificial. Ships become floating platforms, coastlines resemble giant mechanical walls, and lights split into stacked glowing tiers that resemble structured craft. In UFO investigations, this matters because witnesses often describe rigid shapes, metallic silhouettes or hovering “machines” that later turn out to be heavily distorted horizon objects seen through unstable layers of air.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-1-dark.svg" | relative_url }}" alt="Fata Morgana illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key point is not that every structured UFO is a mirage. It is that a Fata Morgana can create forms that genuinely look engineered rather than vague or blurry. The effect is especially important in coastal sightings, polar regions, deserts and cold clear nights where strong temperature [inversions]({{ 'inversions/' | relative_url }}) bend light into layered, stretched and inverted images. AI-assisted UFO analysis can test whether atmospheric conditions, viewing angle and distant source objects match the [geometry]({{ 'geometry/' | relative_url }}) of the reported shape instead of treating “mirage” as a hand-waving explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
 
@@ -280,7 +279,6 @@ The key point is not that every structured UFO is a mirage. It is that a Fata Mo
 A Fata Morgana is an extreme form of superior mirage produced by multiple layers of air at different temperatures. Instead of light travelling in a straight line, the rays curve through the atmosphere because warm and cold air have different densities and refractive properties. Under strong inversion conditions, the atmosphere behaves almost like a shifting optical lens. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">Fata morgana: A weird mirage that makes distant objects...Oct 5, 2021 — A fata morgana is created when cold, dense air near the Earth&#x27;s...</span></span></span>
 
 What makes a Fata Morgana different from a simpler mirage is the complexity of the distortion. Rather than producing one displaced image, it can generate several simultaneously:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -294,7 +292,6 @@ What makes a Fata Morgana different from a simpler mirage is the complexity of t
 </div>
 
 These layers can merge into a single composite form that no longer resembles the [original]({{ 'original-evidence/' | relative_url }}) object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eoas.ubc.ca/courses/atsc113/sailing/met_concepts/10-met-local-conditions/10f-optical-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eoas.ubc.ca">[Earth, Ocean, and Atmosphere Sciences]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eoas.ubc.ca</span><span class="citation-popover-snippet">This could be caused by several layers of warm and cold air that cause a combination of...Read more...</span></span></span> Surfertoday This is why witnesses sometimes report UFOs with apparently solid geometry: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.surfertoday.com/environment/the-science-behind-the-fata-morgana-illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: surfertoday.com">[surfertoday.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">surfertoday.com</span><span class="citation-popover-snippet">Fata Morgana: the strange ocean mirage optical...The Fata Morgana optical illusion that makes us see ships floating above the...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -317,7 +314,6 @@ Water horizons are among the most common settings for Fata Morgana sightings bec
 
 The effect becomes more dramatic when the hidden object is partly below the horizon. The observer is not seeing the object directly in normal perspective. They are seeing refracted light bent around Earth’s curvature. This can make:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * distant vessels appear airborne <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/learn/fata-morgana-a-weird-mirage-that-makes-distant-objects-appear-warped-and-not-so-far-away" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[foxweather.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">Fata morgana: A weird mirage that makes distant objects...Oct 5, 2021 — A fata morgana is created when cold, dense air near the Earth&#x27;s...</span></span></span>
@@ -331,7 +327,6 @@ The effect becomes more dramatic when the hidden object is partly below the hori
 Because different parts of the source object refract differently, the geometry becomes distorted in uneven ways. A ship’s hull may disappear while upper sections stretch upward into layered blocks. This creates the impression of a structured object with hard edges and symmetry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/fz150.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[Atmospheric Optics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-snippet">Atmospheric OpticsStrange Ships, Superior Mirages - Atmospheric OpticsThese are &#x27;superior&#x27; mirages - superior because the images are abov...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oikofuge.com/fata-morgana/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oikofuge.com">[The Oikofuge]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oikofuge.com</span><span class="citation-popover-title">fata morgana</span><span class="citation-popover-snippet">The OikofugeFata Morgana23 Feb 2022 — A temperature inversion, in its simplest form, simply accentuates this natural concave curvature of...</span></span></span>
 
 Witnesses often interpret these forms as engineered because the brain tries to impose familiar structure on ambiguous visual information. A segmented mirage can therefore be perceived as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,7 +358,6 @@ Magnification and vertical stretching can make distant objects appear enormous. 
 
 Because the refracted image appears above the true horizon, the object seems suspended in the air. This closely matches classic UFO descriptions.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-2-dark.svg" | relative_url }}" alt="Fata Morgana illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sudden transformation
 
@@ -381,7 +375,6 @@ Long before modern UFO culture, Fata Morgana effects contributed to reports of p
 
 Modern UFO reports inherited many of the same visual themes:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * silent hovering craft
@@ -395,7 +388,6 @@ Modern UFO reports inherited many of the same visual themes:
 The overlap matters because some historical sightings once interpreted through folklore are now better understood as atmospheric optics. That does not mean every report is solved, but it demonstrates that highly structured visual illusions existed long before modern science-fiction imagery influenced witnesses.
 
 Official UFO investigators have also acknowledged the role of atmospheric mirages in certain cases. The French UFO study body GEIPAN, referenced in broader discussions of Fata Morgana effects, has noted that atmospheric refraction can produce misleading visual and radar phenomena under inversion conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Fata_Morgana_%28mirage%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Fata Morgana (mirage</span><span class="citation-popover-snippet">April 15, 2026 — Some UFOs which are seen on radar may also be due to Fata Morgana mirages. Official UFO investigations in France indicat...</span><span class="citation-popover-meta">Published: April 15, 2026</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Uy9adgmxQ_A" title="What is Superior Mirage? Why the Ship looks Floating?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer">What is Superior Mirage? Why the Ship looks Floating?</a></p><p class="youtube-embed-meta">Channel: LoudScope &middot; Views: 143.7K &middot; Uploaded: March 2021 &middot; Length: 2 minutes 28 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Uy9adgmxQ_A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Uy9adgmxQ_A">Open on YouTube</a></p></div></div></div>
 
@@ -412,7 +404,6 @@ Fata Morgana effects are overwhelmingly horizon-based. Reports high overhead are
 ### Shape changes continuously
 
 Witnesses may describe the object stretching, compressing, splitting or becoming layered over time. Genuine solid craft are less likely to display fluid geometric instability.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-3-dark.svg" | relative_url }}" alt="Fata Morgana illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_fata_morgana_91058d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The sighting occurs over water or flat terrain
@@ -844,6 +835,7 @@ In some cases, the analysis strengthens the mirage explanation substantially. In
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

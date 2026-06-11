@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26
 
 Bright green [fireballs]({{ 'fireballs/' | relative_url }}) regularly trigger dramatic UFO reports because they combine several features that humans instinctively interpret as artificial or dangerous: unusual colour, extreme brightness, sudden appearance, rapid motion, and poor depth perception at night. In many cases, witnesses genuinely believe they have seen a crashing craft, missile, drone swarm, or glowing “orb” rather than a meteor. Modern UFO investigation workflows increasingly treat vivid green sightings as a high-priority meteor screening category because the pattern recurs so often across multiple countries and decades. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://amsmeteors.org/fireballs/faqf/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amsmeteors.org">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amsmeteors.org</span><span class="citation-popover-snippet">American Meteor SocietyFireball FAQsFor example, sodium produces a bright yellow color, nickel shows as green, and magnesium as blue-whit...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-1-dark.svg" | relative_url }}" alt="Green Fireballs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, green fireballs are especially important because they generate emotionally intense witness testimony that can initially sound extraordinary. A structured case [review]({{ 'review/' | relative_url }}) often shows something more ordinary: a short-duration atmospheric fireball seen simultaneously across a wide region, usually with consistent travel direction and a cluster of independent reports arriving within minutes.
 
@@ -290,7 +289,6 @@ When a meteoroid enters Earth’s atmosphere at extreme speed, friction and comp
 This matters because green is comparatively rare in everyday night-time lighting. Most people are accustomed to [aircraft]({{ 'aircraft/' | relative_url }}) lights, streetlights, stars, or orange fire. A vivid emerald streak therefore looks unnatural and “mechanical” to many observers.
 
 Several recurring features amplify the effect:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -312,7 +310,6 @@ Green fireballs create a specific kind of misidentification risk because they ov
 Witnesses frequently associate green glowing objects with science-fiction imagery, military technology, or fictional alien craft. Once a sighting becomes emotionally charged, memory reconstruction can add perceived details such as controlled movement, hovering, shape outlines, or purposeful manoeuvres.
 
 In real-time reports, several psychological effects commonly appear together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,7 +333,6 @@ Phone sensors often over-saturate bright light sources against dark skies. Compr
 
 This has several consequences for UFO investigations:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Colour becomes exaggerated.** Turquoise or white flashes may appear deep green.
@@ -350,7 +346,6 @@ Doorbell cameras and dashboard cameras now capture many fireballs automatically,
 
 A useful investigation workflow therefore separates:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * raw witness description
@@ -361,7 +356,6 @@ A useful investigation workflow therefore separates:
 </div>
 
 That distinction is important because a viral clip may preserve a genuine event while still misleading viewers about colour, speed, or apparent shape.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-2-dark.svg" | relative_url }}" alt="Green Fireballs illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Famous green fireball witness reports
@@ -384,7 +378,6 @@ In April 2026, a bright green meteor seen across parts of the UK and northern Eu
 
 Similar reactions occurred during:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the 2026 Pacific Northwest fireball in the United States <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/497497cfc02e910b631807581cf9225c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-snippet">The fireball, a particularly bright meteor, appeared vividly at 6:06 a.m. and was noted for its intensity and close proximity. Although i...</span></span></span>
@@ -394,7 +387,6 @@ Similar reactions occurred during:
 </div>
 
 Across these cases, the same narrative cycle repeated:
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-3-dark.svg" | relative_url }}" alt="Green Fireballs illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_green_firebal_076d1e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -838,6 +830,7 @@ That distinction sits at the centre of modern AI-assisted UFO investigation. A c
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

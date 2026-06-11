@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be
 
 Many UFO or UAP cases remain unresolved for a simple reason: the available data are too incomplete to support a reliable identification. A light in the sky may genuinely look unusual to witnesses, but if investigators lack precise timestamps, camera metadata, flight records, weather conditions, or multiple viewpoints, even advanced AI analysis cannot confidently separate a drone from a satellite flare, a balloon, an [aircraft]({{ 'aircraft/' | relative_url }}) approach, or an imaging artefact. NASA’s independent UAP study stated that current analysis is often limited by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata, and the lack of multiple measurements, while the agency’s public FAQ notes that most sightings contain only limited data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-1-dark.svg" | relative_url }}" alt="Incomplete Data illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because “unresolved” is frequently misunderstood. In modern UAP reviews, unresolved usually means “insufficient information for a defensible conclusion”, not “confirmed extraordinary object”. AI-assisted investigation systems therefore focus heavily on data quality scoring, metadata recovery, and explanation [confidence]({{ 'confidence/' | relative_url }}) rather than trying to force a single dramatic answer from [weak evidence]({{ 'weak-evidence/' | relative_url }}).
 
@@ -344,7 +343,6 @@ AI-assisted UFO investigation works best when explanations are compared probabil
 
 A case file might initially support several explanations at once:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Aircraft: moderate fit
@@ -393,7 +391,6 @@ This limitation is sometimes overlooked in public discussion. Advanced software 
 
 The NASA study team specifically recommended better calibrated data collection rather than relying on speculation about existing reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/nasa-ufos-aliens-report-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">NASA Didn&#x27;t Find Aliens-but if You See Any UFOs, Holler</span><span class="citation-popover-snippet">The agency stressed the need to shift the conversation from sensationalism to science and eliminate the stigma associated with reporting...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-2-dark.svg" | relative_url }}" alt="Incomplete Data illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why some famous UFO videos remain disputed
 
@@ -425,7 +422,6 @@ One of the biggest mistakes in UFO discussion is assuming that every unsolved ca
 
 In practice, unresolved cases frequently reflect ordinary investigative limitations:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Poor-quality recordings
@@ -449,14 +445,12 @@ That is a very different conclusion from:
 
 > “The object demonstrated confirmed extraordinary capabilities.”
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-3-dark.svg" | relative_url }}" alt="Incomplete Data illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_incomplete_da_c89108-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Some unresolved cases may still become explainable later
 
 Historical UFO investigations show that cases can move from unresolved to identified years later once new datasets become available.
 
 Later identification sometimes happens because investigators eventually obtain:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -893,6 +887,7 @@ The overall lesson from recent UAP reviews is not that unexplained sightings nev
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

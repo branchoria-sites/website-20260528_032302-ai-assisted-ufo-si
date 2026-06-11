@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295
 
 An AI-assisted UFO investigation is only credible if another person can retrace the route from the [original]({{ 'original-evidence/' | relative_url }}) sighting report to the final conclusion. A transparent audit trail shows what evidence entered the system, which automated checks were run, what explanations were considered, which were rejected, and why a human reviewer finally labelled the case as resolved, plausible, unresolved or anomalous. Without that record, a UFO verdict becomes difficult to challenge, verify or improve later.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-1-dark.svg" | relative_url }}" alt="Audit Trails illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many UFO and UAP cases depend on [incomplete]({{ 'incomplete-data/' | relative_url }}) or ambiguous evidence. NASA’s independent UAP study warned that current analysis is weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and inconsistent observations, while also arguing that AI tools are useful only when the underlying data is well characterised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAI and ML in studying UAP depends critically upon the quality of the data used to train the AI a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAI and ML in studying UAP depends critically upon the quality of the data used to train the AI a...</span></span></span> In practice, a trustworthy case system therefore needs more than an AI output. It needs a visible chain of evidence and reasoning that can survive later scrutiny from investigators, journalists, scientists, sceptics and the public.
 
@@ -301,7 +300,6 @@ Many public arguments about UFO investigations begin because people cannot see h
 In an AI-assisted workflow, the system may compare a witness report against aircraft databases, weather archives, satellite predictions, astronomical software, drone flight zones, historical [case libraries]({{ 'case-libraries/' | relative_url }}) and image-analysis tools. The final answer might look simple on screen — “likely aircraft” or “possible Starlink train” — but the actual process may involve dozens of assumptions and filters.
 
 A replayable audit trail preserves:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -328,7 +326,6 @@ The most important audit-trail rule is simple: never overwrite the [original evi
 Witnesses frequently revise their memory after discussion with friends, social media users or investigators. Videos may also be compressed, stabilised, cropped or colour-adjusted as they circulate online. If the investigation keeps only the latest version, reviewers lose the ability to distinguish original observation from later interpretation.
 
 A transparent UFO case file should therefore preserve:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -365,7 +362,6 @@ Many modern AI systems produce polished answers while hiding the route used to g
 
 If an AI tool labels a case “likely balloon”, investigators need to know:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Which balloon databases were checked.
@@ -394,12 +390,10 @@ This structure is more informative than a single-line verdict because it exposes
 
 It also protects against hindsight distortion. If a case later changes status, investigators can see whether the earlier review overlooked evidence or whether genuinely new data emerged.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-2-dark.svg" | relative_url }}" alt="Audit Trails illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Logging prompts and model versions
 
 Large language models and image-analysis systems can produce different answers depending on prompt wording, training updates or database changes. A transparent case system therefore logs:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -440,7 +434,6 @@ Transparency improves when review disagreements remain visible.
 
 A case review can include notes such as:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Reviewer A considered satellite flare most likely.
@@ -453,14 +446,12 @@ This prevents the appearance of artificial certainty. It also reflects the reali
 
 NASA’s public-facing UAP material repeatedly stresses that limited data often prevents definitive conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAI and ML in studying UAP depends critically upon the quality of the data used to train the AI a...</span></span></span> An honest audit trail should preserve that ambiguity rather than compressing everything into a binary solved-versus-unsolved label.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-3-dark.svg" | relative_url }}" alt="Audit Trails illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When transparency changes the final verdict
 
 Audit trails are not merely bureaucratic paperwork. They can materially change case outcomes.
 
 Consider a typical AI-assisted workflow:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -903,6 +894,7 @@ The strongest audit trails therefore do not promise certainty. They preserve acc
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7d
 
 Yes. Under the right conditions, the Moon can look surprisingly unlike the Moon. Thin cloud, haze, broken gaps between trees or buildings, and low-angle viewing near the horizon can turn a familiar object into something that appears detached, hovering, pulsing, moving or oddly shaped. In UFO investigations, this matters because witnesses are often reporting what they genuinely perceived rather than what was physically present. A bright fragment of moonlight seen through drifting cloud can resemble a glowing craft. A low Moon behind haze can seem to change colour and size. A partially hidden lunar disc can appear to dart between gaps in trees when viewed from a moving vehicle.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-1-dark.svg" | relative_url }}" alt="Moon illusions illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this is one of the fastest and most useful [astronomy]({{ 'astronomy/' | relative_url }}) checks. If the Moon was above the horizon at the reported bearing and time, investigators should test whether [weather]({{ 'weather/' | relative_url }}), foreground obstruction and viewing angle could have distorted it before treating the sighting as an unknown aerial object. NASA and astronomy educators repeatedly note that the Moon’s apparent size, colour and shape are heavily affected by human perception and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/moon/the-moon-illusion-why-does-the-moon-look-so-big-sometimes/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">the moon illusion why does the moon look so big sometimes</span><span class="citation-popover-snippet">NASA ScienceThe Moon Illusion: Why Does the Moon Look So Big...24 Jan 2023 — Photographs prove that the Moon is the same width near the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Moon illusion</span><span class="citation-popover-snippet">Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</span></span></span>
 
@@ -305,7 +304,6 @@ For AI-assisted UFO sighting investigation, this is one of the fastest and most 
 The key problem is that the human visual system expects the Moon to appear as a complete disc in open sky. When only part of that disc is visible, the brain often interprets the remaining light incorrectly. A witness may no longer recognise the object as lunar at all.
 
 This effect becomes stronger when several conditions combine at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -319,7 +317,6 @@ This effect becomes stronger when several conditions combine at once:
 </div>
 
 Under those conditions, a witness may report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,7 +339,6 @@ A full or near-full Moon behind thin cloud often loses its sharp circular outlin
 
 This effect becomes more dramatic with layered cloud:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * fast low cloud crossing a stationary Moon
@@ -356,7 +352,6 @@ People frequently interpret these changing brightness patterns as the object its
 
 Broken cloud can also create the illusion that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * multiple objects are present
@@ -368,13 +363,11 @@ Broken cloud can also create the illusion that:
 
 The witness is often accurately describing the visual experience while misidentifying the cause.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0H5i6Xojj5M" title="Moon UFO 1/22/14" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0H5i6Xojj5M" target="_blank" rel="noopener noreferrer">Moon UFO 1/22/14</a></p><p class="youtube-embed-meta">Channel: Astronomy Live &middot; Views: 39.0K &middot; Uploaded: January 2014 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0H5i6Xojj5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0H5i6Xojj5M">Open on YouTube</a></p></div></div></div>
 
 ### Trees and buildings can isolate only part of the Moon
 
 Foreground gaps are especially important in road-based UFO reports. A witness driving past trees, lamp posts or buildings may see only fragments of the Moon through moving gaps. Instead of perceiving a full lunar disc, the observer sees:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -386,7 +379,6 @@ Foreground gaps are especially important in road-based UFO reports. A witness dr
 </div>
 
 Because the foreground is moving while the Moon remains fixed, the light can appear to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -428,7 +420,6 @@ Haze also reduces contrast around the edges of the Moon, making it harder to rec
 
 In urban conditions, pollution and moisture intensify these effects.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-2-dark.svg" | relative_url }}" alt="Moon illusions illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Checking phase, altitude, azimuth and illumination
 
@@ -457,7 +448,6 @@ AI-assisted case systems can automate this process by:
 
 The goal is not to dismiss witnesses automatically. It is to test whether a known bright object occupied the same part of the sky under conditions known to create perceptual distortions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HwJmtvBdLBw" title="The &quot;Moon Illusion&quot; in our night sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HwJmtvBdLBw" target="_blank" rel="noopener noreferrer">The &quot;Moon Illusion&quot; in our night sky</a></p><p class="youtube-embed-meta">Channel: American Space Museum &middot; Views: 137 &middot; Uploaded: February 2025 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HwJmtvBdLBw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HwJmtvBdLBw">Open on YouTube</a></p></div></div></div>
 
 ## Why the Moon can appear detached, enormous or unusually close
@@ -476,7 +466,6 @@ A low Moon behind rooftops may therefore appear:
 Foreground references are central to the effect. Research into the Moon illusion repeatedly finds that terrain and nearby visual cues play a major role in perceived scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/stargazing-and-observing/moon-illusion-confusion11252015/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">moon illusion confusion11252015</span><span class="citation-popover-snippet">Moon Illusion is All in Your Head24 Nov 2015 — The lower central circle surrounded by small circles represents the horizon Moon with fore...</span></span></span>
 
 When those same cues are [incomplete]({{ 'incomplete-data/' | relative_url }}) or fragmented through cloud and obstruction, the observer can lose recognition of the object entirely.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-3-dark.svg" | relative_url }}" alt="Moon illusions illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Separating lunar glare from moving objects
@@ -512,7 +501,6 @@ Investigators should therefore compare:
 * duration of visibility
 
 before concluding that a bright hovering object was truly airborne.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
@@ -929,6 +917,7 @@ For AI-assisted UFO analysis systems, this mechanism is valuable because it is h
 })();
 </script>
 </section>
+
 ## References
 
 - [Time and Date Moonrise Calculator](https://www.timeanddate.com/moon/help) [- MoonCalc(https://www.mooncalc.org/)](#endnote-6 "

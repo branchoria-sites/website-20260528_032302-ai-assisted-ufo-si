@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_151
 
 A UFO video can look dramatic and still tell investigators almost nothing reliable. Without [metadata]({{ 'metadata/' | relative_url }}) — the hidden technical information attached to a file or sensor recording — analysts often cannot determine where the camera was, when the footage was captured, how the image was processed, or how fast the observed object was actually moving. That makes many civilian UFO reports impossible to reconstruct with [confidence]({{ 'confidence/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-1-dark.svg" | relative_url }}" alt="Missing Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one reason unresolved UFO cases should sometimes remain unresolved. AI-assisted investigation systems can compare sightings against [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite passes, weather conditions and astronomical objects, but those workflows depend on accurate timestamps, locations and sensor details. If the underlying data is [incomplete]({{ 'incomplete-data/' | relative_url }}), automation can amplify errors rather than solve them.
 
@@ -286,7 +285,6 @@ NASA’s independent UAP study warned that current analysis is limited by “poo
 ## The Key Data Investigators Need From a Sighting
 
 A proper UFO reconstruction is essentially a geometry and timing problem. Investigators are trying to answer basic questions:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -305,7 +303,6 @@ To answer those questions, a usable case file normally requires several categori
 The exact timestamp is usually the single most important detail. Even a difference of a few minutes can change the interpretation of a sighting.
 
 Accurate timing allows investigators to compare the report against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -338,7 +335,6 @@ A smartphone, CCTV camera, infrared targeting pod and telescope all distort imag
 
 Useful metadata includes:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Camera make and model
@@ -356,13 +352,11 @@ A bright light filmed at maximum digital zoom behaves very differently from the 
 
 NASA’s UAP study specifically identified poor sensor calibration and missing metadata as major barriers to scientific analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> 2meritalk.com
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HdgRkjebf2g" title="ExifTool Explained: How Investigators Extract Hidden Metadata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HdgRkjebf2g" target="_blank" rel="noopener noreferrer">ExifTool Explained: How Investigators Extract Hidden Metadata</a></p><p class="youtube-embed-meta">Channel: Dr. K Cybersecurity &middot; Views: 1.1K &middot; Uploaded: July 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HdgRkjebf2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HdgRkjebf2g">Open on YouTube</a></p></div></div></div>
 
 ### Environmental context
 
 Even complete video metadata is rarely enough on its own. Investigators also need surrounding environmental conditions:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -391,7 +385,6 @@ An object close to the lens can appear to cross the frame at extraordinary speed
 
 This is why investigators are cautious about claims such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “It accelerated instantly”
@@ -401,7 +394,6 @@ This is why investigators are cautious about claims such as:
 </div>
 
 The apparent movement may instead come from:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -416,7 +408,6 @@ The apparent movement may instead come from:
 </div>
 
 A small nearby object passing a telephoto lens can resemble a fast-moving distant craft. Without metadata showing lens settings, frame timing and filming conditions, reconstruction becomes unreliable.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-2-dark.svg" | relative_url }}" alt="Missing Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Compression can invent visual behaviour
@@ -476,7 +467,6 @@ As a result, investigators may lose the ability to verify:
 
 A dramatic reposted UFO clip with millions of views may therefore have almost no forensic value.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-3-dark.svg" | relative_url }}" alt="Missing Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_missing_metad_a5f118-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Original files preserve chain-of-evidence clues
 
@@ -505,7 +495,6 @@ This is why serious UFO investigators typically ask witnesses for:
 * Exact upload history
 
 Without that information, analysts may only be evaluating a degraded copy detached from its original context.
-
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena – Independent Study Team Report</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena – Independent Study Team Report</a></p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ixTICcLXueg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ixTICcLXueg">Open on YouTube</a></p></div></div></div>
 
@@ -930,6 +919,7 @@ In AI-assisted UFO investigation, metadata is the foundation that connects a wit
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

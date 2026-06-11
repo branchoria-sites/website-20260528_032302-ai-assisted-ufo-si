@@ -290,14 +290,12 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6
 
 Official UFO and UAP investigations by NASA and the US Department of Defense’s All-domain Anomaly Resolution Office (AARO) point to a less dramatic but more useful conclusion than many public debates suggest: a significant number of cases remain unresolved because the evidence is [incomplete]({{ 'incomplete-data/' | relative_url }}), low quality, fragmented, or impossible to verify with [confidence]({{ 'confidence/' | relative_url }}). That does not automatically make those cases extraordinary. In many instances, investigators cannot prove either a mundane explanation or an anomalous one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Re...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-1-dark.svg" | relative_url }}" alt="NASA AARO illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters for AI-assisted UFO sighting investigation. A good investigative workflow should not force every report into “explained” or “alien”. Instead, it should separate strong evidence from weak evidence, identify where ordinary explanations fit well, and make uncertainty visible rather than hiding it behind confident-looking scores. NASA’s UAP independent study and AARO’s published case material both reinforce the same lesson: unresolved status often reflects data limitations, not proof of exotic technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 ## Why official UFO cases stay unresolved
 
 One of the clearest findings from recent official UAP work is that unresolved cases frequently share the same structural weaknesses:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -316,7 +314,6 @@ NASA’s independent UAP study explicitly stated that analysis is hindered by �
 
 That creates a practical problem for both human investigators and AI systems. A blurry infrared object may look unusual, but without reliable information about:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * camera zoom level
@@ -331,7 +328,6 @@ That creates a practical problem for both human investigators and AI systems. A 
 it may be impossible to estimate speed, size, distance, or manoeuvrability accurately.
 
 This is one reason official investigations often avoid dramatic conclusions. AARO repeatedly distinguishes between:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,7 +354,6 @@ A dramatic-looking image without timing, [geolocation]({{ 'geolocation/' | relat
 
 For example, an AI system trying to evaluate a sighting needs:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * precise observer location
@@ -381,7 +376,6 @@ One recurring issue in unresolved cases is dependence on a lone sensor stream. A
 
 An AI-assisted investigation platform should therefore weight:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * multi-sensor agreement
@@ -392,7 +386,6 @@ An AI-assisted investigation platform should therefore weight:
 </div>
 
 more heavily than raw visual novelty.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
@@ -409,7 +402,6 @@ That has downstream consequences for investigation quality:
 * incomplete environmental reconstruction
 
 In practical case handling, fast evidence preservation matters. The longer investigators wait, the harder it becomes to recover:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -455,7 +447,6 @@ An AI system trained only on public “mystery footage” could incorrectly clas
 * known balloon signatures
 
 This is a strong argument for environmental correlation workflows in UFO case analysis.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-2-dark.svg" | relative_url }}" alt="NASA AARO illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Bird cases reveal sensor interpretation pitfalls
@@ -520,7 +511,6 @@ Without those variables, analysts cannot reliably distinguish between:
 
 This is why AI confidence scoring should avoid [false precision]({{ 'false-precision/' | relative_url }}). A system claiming “94% anomalous” from sparse evidence would be behaving less cautiously than official investigators.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-3-dark.svg" | relative_url }}" alt="NASA AARO illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Some unresolved cases remain unresolved for security reasons
 
@@ -553,7 +543,6 @@ a responsible system should say:
 * “Insufficient data for reliable classification”
 
 This mirrors how official investigations communicate uncertainty. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r_xevi3rSQI" title="New UFO videos: Deep analysis with Ross Coulthart | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer">New UFO videos: Deep analysis with Ross Coulthart | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 615.9K &middot; Uploaded: May 2026 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r_xevi3rSQI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r_xevi3rSQI">Open on YouTube</a></p></div></div></div>
 
@@ -994,6 +983,7 @@ That restraint is not a weakness. In evidence-led UFO investigation, refusing to
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

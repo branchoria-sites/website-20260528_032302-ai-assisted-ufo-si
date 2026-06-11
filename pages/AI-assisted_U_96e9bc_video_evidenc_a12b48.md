@@ -324,7 +324,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-overview-social.
 
 A clear UFO video can still be [weak evidence]({{ 'weak-evidence/' | relative_url }}). It may prove that something appeared in the camera’s field of view, but it often does not prove what the object was, how far away it was, how large it was, how fast it moved, or whether its strange behaviour came from the object rather than the camera. That is why AI-assisted UFO sighting investigation should treat video as one evidence layer inside a structured [case file]({{ 'case-file/' | relative_url }}), not as a conclusion in itself.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-overview.webp" | relative_url }}" alt="Overview image for Video Limits" loading="eager" decoding="sync" fetchpriority="high">
 The strongest video evidence is not simply the sharpest clip. It is the clip with the original file, reliable time and location, known camera settings, stable [reference points]({{ 'reference-points/' | relative_url }}), unbroken context before and after the sighting, and independent checks against aircraft, satellites, balloons, weather, astronomy and other sensors. NASA’s UAP study made the same basic point: UAP analysis is hampered by poor sensor calibration, lack of multiple measurements, missing sensor metadata and lack of baseline data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
@@ -335,7 +334,6 @@ A persuasive UFO clip often gives the viewer a strong impression: a white dot ra
 A small object close to the camera, a large object far away, a bird crossing the frame, a balloon drifting with the wind, and an aircraft seen nearly head-on can all look similar if there are no reference points. The video may be visually clean and still lack the geometry needed for identification. In a UFO case file, the key question is therefore not “does the clip look real?” but “what measurements can be extracted from it?”
 
 A useful AI-assisted workflow should separate:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,7 +359,6 @@ The “GoFast” Navy video is the clearest public example of why this matters. 
 
 For a public viewer, this is counter-intuitive. The object really does cross the screen quickly. The error is in treating screen speed as object speed. Without distance, camera angle, platform motion and field of view, a fast-looking dot is only a fast-looking dot.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-1-dark.svg" | relative_url }}" alt="Video Limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why angular speed is not enough
 
@@ -370,7 +367,6 @@ Most public UFO videos provide [angular motion]({{ 'angular-motion/' | relative_
 AI can help by estimating angular speed frame by frame, detecting camera shake, identifying horizon lines, and modelling possible object paths. But it should not output a confident speed unless the case file also contains distance or enough geometry to constrain it. A model that says “the object crossed 15 degrees in two seconds” is giving a useful measurement. A model that says “the object travelled at 3,000 mph” without distance is inventing precision.
 
 In practice, a useful UFO video review asks:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,7 +380,6 @@ In practice, a useful UFO video review asks:
 </div>
 
 When these answers are missing, the video may remain interesting but weak. It can support a witness account, but it cannot carry a strong claim about size, speed or altitude by itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jHDlfIaBEqw" title="VFX Artists DEBUNK Pentagon UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer">VFX Artists DEBUNK Pentagon UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.8M &middot; Uploaded: August 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jHDlfIaBEqw">Open on YouTube</a></p></div></div></div>
 
@@ -415,7 +410,6 @@ For UFO investigation, the original file can help establish:
 
 This does not mean metadata is always truthful. Device clocks can be wrong, GPS can be absent, and metadata can be altered. But missing metadata is itself important because it limits what can be tested. The case file should record whether the original file was obtained, whether a hash was made to preserve it unchanged, and whether later analysis used a copy.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 ### Chain of custody for public UFO clips
@@ -425,7 +419,6 @@ Open-source investigators working in human rights and conflict documentation hav
 Bellingcat’s video verification guidance similarly starts with checking whether the footage has appeared before, while Amnesty’s Citizen Evidence Lab explains that reverse image search can reveal whether a visual claim is recycled from an earlier event. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bellingcat.com/resources/how-tos/2017/06/30/advanced-guide-verifying-video-content/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.com">[bellingcat]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.com</span><span class="citation-popover-title">Advanced Guide on Verifying Video Content</span><span class="citation-popover-snippet">Advanced Guide on Verifying Video Content</span></span></span>
 
 In UFO sighting analysis, this protects against common failures:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -438,7 +431,6 @@ In UFO sighting analysis, this protects against common failures:
 </div>
 
 AI can assist by extracting keyframes, searching for earlier versions, comparing captions across uploads, detecting edits and building a timeline of circulation. But it should not treat the most popular upload as the evidential source.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-2-dark.svg" | relative_url }}" alt="Video Limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Sensor artefacts and edited clips
@@ -463,7 +455,6 @@ AI can make this worse if used carelessly. Upscaling, sharpening, frame interpol
 
 A good case file should preserve three layers:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. **Original file:** untouched, with hash and acquisition notes.
@@ -471,7 +462,6 @@ A good case file should preserve three layers:
 3. **Enhanced copy:** clearly labelled as interpretive, not primary evidence.
 
 </div>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-3-dark.svg" | relative_url }}" alt="Video Limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AI can extract, and what it cannot infer
@@ -481,7 +471,6 @@ AI is useful in video-based UFO investigation when it narrows uncertainty rather
 But AI cannot recover facts that were never recorded. If the video lacks distance cues, AI cannot know whether the object is a nearby insect, a distant aircraft, a balloon, or an object at extreme altitude. If the original file is gone, AI cannot reliably reconstruct missing metadata. If the clip is a cropped social media repost, AI cannot know what happened outside the frame unless other evidence is found.
 
 This is where the wording of conclusions matters. The system should prefer constrained language:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -495,7 +484,6 @@ This is where the wording of conclusions matters. The system should prefer const
 </div>
 
 That final distinction is one of the most important in UFO analysis. “Unidentified” is not the same as “anomalous”. A video can fail to identify an object while also failing to show anything physically extraordinary.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bQo08JRY0iM" title="Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer">Public Meeting on Unidentified Anomalous Phenomena (Official NASA Broadcast)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 358.7K &middot; Uploaded: May 2023 &middot; Length: 4 hours</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bQo08JRY0iM">Open on YouTube</a></p></div></div></div>
 
@@ -924,6 +912,7 @@ The key is to resist the emotional force of a clear image. A sharp object with u
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1078,4 +1067,4 @@ The key is to resist the emotional force of a clear image. A sharp object with u
 
 32. <a id="endnote-32"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/Cp6ymCnjAlq/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cp6ymCnjAlq/</a>  
+   Link: <a href="https://www.instagram.com/reel/Cp6ymCnjAlq/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/Cp6ymCnjAlq/</a>

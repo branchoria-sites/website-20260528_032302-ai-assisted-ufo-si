@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2b
 
 A UFO video can appear to show impossible speed while revealing almost nothing about the object’s true motion through space. The missing piece is usually range: the distance between the camera and the object. Without that measurement, the same apparent movement across a screen can match a nearby insect drifting past a lens, a balloon moving with the wind, a distant [aircraft]({{ 'aircraft/' | relative_url }}), or something that remains unidentified after basic checks.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-1-dark.svg" | relative_url }}" alt="Range problem illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This range problem sits at the centre of modern AI-assisted UFO sighting investigation. Analysts can measure pixels per frame, track angular movement and estimate trajectories, but those calculations become highly uncertain when the object’s distance is unknown. NASA’s independent UAP study noted that current analysis is often limited by missing [metadata]({{ 'metadata/' | relative_url }}), weak [calibration]({{ 'calibration/' | relative_url }}) and lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> That means dramatic-looking footage can produce wildly different speed estimates depending on the assumed distance.
 
@@ -288,7 +287,6 @@ The result is a recurring misunderstanding in public UFO discussions: viewers of
 A video records [angular motion]({{ 'angular-motion/' | relative_url }}), not physical velocity. When an object crosses part of the image between frames, the camera only captures how quickly its apparent position changes relative to the field of view.
 
 That movement can be measured in:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -326,7 +324,6 @@ A tiny insect passing close to a night-vision camera may appear to accelerate vi
 
 The ambiguity grows because cameras flatten depth. A two-dimensional image removes many of the visual cues humans normally use to judge distance, including stereoscopic depth, environmental scale and motion context.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LZoYYTglSNY" title="Understanding Distances in Astronomy Through Parallax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LZoYYTglSNY" target="_blank" rel="noopener noreferrer">Understanding Distances in Astronomy Through Parallax</a></p><p class="youtube-embed-meta">Channel: Jason Kendall &middot; Views: 1.5K &middot; Uploaded: March 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LZoYYTglSNY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LZoYYTglSNY">Open on YouTube</a></p></div></div></div>
 
 ### The “small nearby” problem
@@ -334,7 +331,6 @@ The ambiguity grows because cameras flatten depth. A two-dimensional image remov
 One of the most common causes of exaggerated speed claims is the unnoticed nearby object.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,14 +380,12 @@ The video looked extraordinary partly because viewers intuitively placed the obj
 
 This does not automatically prove the object was mundane in every respect. It demonstrates something narrower but crucial: apparent screen motion alone could not establish extraordinary speed.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-2-dark.svg" | relative_url }}" alt="Range problem illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why single-camera UFO footage struggles with distance
 
 Human depth perception depends heavily on multiple viewpoints and environmental references. Most public UFO videos lack both.
 
 A single camera looking into open sky has major limitations:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -413,7 +407,6 @@ Parallax is especially important. When the observer is moving rapidly, nearby an
 
 This is one reason AI-assisted workflows increasingly prioritise environmental reconstruction over visual impression alone.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6Me2Yyfx0mc" title="[Jee Adv] Perceived Velocity Of A UFO By An Observer On Ground | CYU 33 | Kinematics | Pathfinder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6Me2Yyfx0mc" target="_blank" rel="noopener noreferrer">[Jee Adv] Perceived Velocity Of A UFO By An Observer On Ground | CYU 33 | Kinematics | Pathfinder</a></p><p class="youtube-embed-meta">Channel: JeePhyX ⚛ &middot; Views: 2.2K &middot; Uploaded: February 2024 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6Me2Yyfx0mc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6Me2Yyfx0mc">Open on YouTube</a></p></div></div></div>
 
 ## How AI should present speed ranges
@@ -434,7 +427,6 @@ AI systems can improve UFO analysis by separating measured data from inferred as
 
 Strong practice includes:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * Distinguishing observed angular motion from inferred velocity
@@ -452,14 +444,12 @@ Multi-sensor correlation is particularly important. Radar, ADS-B aircraft data, 
 
 This is one reason scientific UAP projects increasingly focus on multimodal sensor systems rather than isolated eyewitness footage. Proposed observatory-style approaches combine optical, infrared and tracking data specifically to reduce ambiguity in object range and motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-3-dark.svg" | relative_url }}" alt="Range problem illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_range_uncerta_ea10bc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What AI should not imply
 
 AI-generated summaries can accidentally exaggerate UFO claims if they convert uncertain geometry into confident language.
 
 Problematic phrasing includes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -473,7 +463,6 @@ Those conclusions may depend entirely on unverified distance assumptions.
 
 A more accurate framing is:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “The object displayed rapid angular motion”
@@ -483,7 +472,6 @@ A more accurate framing is:
 </div>
 
 That distinction may sound technical, but it changes the entire interpretation of a case.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ypfbhfEXnBo" title="The SHOCKING Math Error Behind Viral UFO Videos | Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer">The SHOCKING Math Error Behind Viral UFO Videos | Mick West</a></p><p class="youtube-embed-meta">Channel: The Zach Show &middot; Views: 126 &middot; Uploaded: October 2025 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ypfbhfEXnBo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ypfbhfEXnBo">Open on YouTube</a></p></div></div></div>
 
@@ -888,6 +876,7 @@ In UFO analysis, dramatic-looking motion is not the same thing as demonstrated e
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

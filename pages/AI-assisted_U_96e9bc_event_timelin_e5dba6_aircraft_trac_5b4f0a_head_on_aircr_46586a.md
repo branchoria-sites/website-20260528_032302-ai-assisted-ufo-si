@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b
 
 A common pattern in modern UFO reports begins with a bright light that appears to hover silently in one position before suddenly moving away at impossible speed. In many cases, the effect is created by an ordinary [aircraft]({{ 'aircraft/' | relative_url }}) flying almost directly towards the witness. The plane is moving quickly through three-dimensional space, but because its motion is aligned with the observer’s line of sight, it shows very little sideways movement across the sky. To a human observer, especially at night, that can look uncannily like a stationary glowing object.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-1-dark.svg" | relative_url }}" alt="Head on Lights illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because “hovering” is often treated as one of the strongest indicators that an object was not a conventional aircraft. Yet flight-path reconstruction repeatedly shows that approach corridors, holding patterns, and distant inbound traffic can create exactly that impression. The key is not the aircraft’s true speed, but its [angular motion]({{ 'angular-motion/' | relative_url }}) from the witness position.
 
@@ -284,7 +283,6 @@ That same [geometry]({{ 'geometry/' | relative_url }}) explains many hovering-li
 If an aircraft is 30 or 40 kilometres away and flying towards a witness along the observer’s line of sight, the plane may cover huge real-world distances while appearing almost fixed against the stars or horizon. The effect becomes stronger at night because there are fewer visual [reference points]({{ 'reference-points/' | relative_url }}). The observer sees a bright point of light but lacks depth cues that would normally reveal forward motion. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC8652193/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOptic Flow: A History</span><span class="citation-popover-snippet">by DC Niehorster · 2021 · Cited by 37 — The concept of optic flow, a global pattern of visual motion that is both caused by and signal...</span></span></span>
 
 The illusion can become startlingly convincing when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ Modern [landing lights]({{ 'landing-lights/' | relative_url }}) are extremely br
 
 From the ground, a head-on aircraft often does not initially resemble a plane at all. The navigation lights on the wings may be too distant to resolve separately, leaving only a concentrated white light. Witnesses may therefore report:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A glowing orb
@@ -321,7 +318,6 @@ Brightness changes can intensify the effect. As the aircraft approaches, the lan
 Some reports also describe the object “suddenly accelerating away”. Often this corresponds to a turn in the flight path. Once the aircraft banks or changes heading, the geometry changes abruptly and the object finally develops visible sideways motion. What looked stationary for several minutes can then appear to dart off rapidly across the sky.
 
 This is one reason UFO timelines should compare witness observations against aircraft heading changes rather than just checking whether a plane was “nearby”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A1eqrunJuc0" title="LIGHTS on Airplanes explained by &quot;CAPTAIN&quot;Joe" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A1eqrunJuc0" target="_blank" rel="noopener noreferrer">LIGHTS on Airplanes explained by &quot;CAPTAIN&quot;Joe</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 1.4M &middot; Uploaded: November 2016 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A1eqrunJuc0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A1eqrunJuc0">Open on YouTube</a></p></div></div></div>
 
@@ -360,7 +356,6 @@ The resulting geometry often reveals whether an aircraft was effectively flying 
 Night-time strips away many of the cues humans use to judge distance and motion. Aviation training literature documents a wide range of night visual illusions affecting even experienced pilots. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aerosociety.com/news/the-phantom-horizon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerosociety.com">[Royal Aeronautical Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerosociety.com</span><span class="citation-popover-title">the phantom horizon</span><span class="citation-popover-snippet">Royal Aeronautical SocietyThe phantom horizon24 Feb 2026 — Visual illusions are a major hazard in flight, particularly during approach an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/259.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">be seen in peripheral vision. The human visual system is...Read more...</span></span></span>
 
 For ground observers, several factors combine:
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-2-dark.svg" | relative_url }}" alt="Head on Lights illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Limited depth perception
@@ -401,7 +396,6 @@ Wind direction matters because aircraft land into the wind. A witness may only s
 
 AI-assisted workflows can automate this comparison. Once a sighting location and timestamp are entered, software can:
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-3-dark.svg" | relative_url }}" alt="Head on Lights illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_head_on_aircr_46586a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
@@ -421,7 +415,6 @@ That produces a much stronger explanation than simply stating that “a plane wa
 
 A strong aircraft explanation usually includes several matching features together:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The aircraft was inbound towards the witness
@@ -438,7 +431,6 @@ A weaker explanation appears when only one factor overlaps. For example, a nearb
 
 Good UFO case analysis therefore separates:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Aircraft merely present nearby
@@ -448,7 +440,6 @@ Good UFO case analysis therefore separates:
 </div>
 
 That distinction is important because overconfident debunking can be just as misleading as overconfident extraordinary claims.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3osSwf7dgUI" title="3 Ways your BRAIN Tricks You into Thinking AIRPLANES HOVER!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3osSwf7dgUI" target="_blank" rel="noopener noreferrer">3 Ways your BRAIN Tricks You into Thinking AIRPLANES HOVER!</a></p><p class="youtube-embed-meta">Channel: Mentour Pilot &middot; Views: 201.0K &middot; Uploaded: September 2021 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3osSwf7dgUI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3osSwf7dgUI">Open on YouTube</a></p></div></div></div>
 
@@ -851,6 +842,7 @@ This is one reason aviation geometry remains one of the most valuable early chec
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

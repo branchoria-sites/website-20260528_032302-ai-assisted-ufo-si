@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b
 
 A UFO video does not become trustworthy simply because it looks dramatic or goes viral. Investigators increasingly judge footage by a different question: can the file’s history be reconstructed from the moment it was recorded to the moment it was analysed? In digital forensics, that history is called the [chain of custody]({{ 'chain-of-custody/' | relative_url }}). It tracks who handled a file, whether it was altered, whether metadata survived intact, and whether investigators are still looking at the [original evidence]({{ 'original-evidence/' | relative_url }}) rather than a compressed social-media copy.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-1-dark.svg" | relative_url }}" alt="Chain Custody illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because AI-assisted UFO investigation depends heavily on timing, location, sensor [metadata]({{ 'metadata/' | relative_url }}), and comparison against outside datasets such as flight records, satellite passes, weather conditions, and astronomical objects. NASA’s independent UAP study warned that poor metadata and weak sensor documentation severely limit meaningful analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/15Nov 12, 2023 — Indeed, several apparent UAP have been demonstrated to be s...</span></span></span> A file with a broken chain of custody may still show something unusual, but [confidence]({{ 'confidence/' | relative_url }}) in any explanation — ordinary or extraordinary — drops sharply.
 
@@ -327,9 +326,7 @@ Every transfer creates uncertainty. Even honest handling can damage evidential v
 
 A typical weak-custody UFO clip may follow a path like this:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YXBsIOGsZE0" title="REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer">REPLAY! NASA Unidentified Anomalous Phenomena Independent Study Report Update</a></p><p class="youtube-embed-meta">Channel: The Launch Pad &middot; Views: 6.2K &middot; Uploaded: September 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YXBsIOGsZE0">Open on YouTube</a></p></div></div></div>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -357,14 +354,12 @@ Investigators therefore distinguish between:
 
 Those categories should not be treated as equally reliable.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-2-dark.svg" | relative_url }}" alt="Chain Custody illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why edit history changes evidence confidence
 
 An edited UFO video is not automatically fake. Many witnesses trim clips simply to shorten uploads or protect privacy. However, undisclosed edits reduce confidence because they create ambiguity about what viewers are actually seeing.
 
 The strongest custody records document edits openly:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -383,7 +378,6 @@ This becomes especially important as generative AI tools improve. Modern image a
 
 For that reason, UFO researchers increasingly borrow practices from legal and forensic evidence handling:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * preserving untouched originals
@@ -396,7 +390,6 @@ For that reason, UFO researchers increasingly borrow practices from legal and fo
 </div>
 
 Digital evidence standards developed for courts and cyber-forensics are beginning to influence civilian UAP investigation for exactly this reason. <span class="citation-chip-wrap"><a class="citation-chip" href="https://truescreen.io/articles/admissibility-digital-evidence-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[TrueScreen - Trust as a Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">True Screen</span><span class="citation-popover-snippet">Trust as a ServiceAdmissibility of Digital Evidence: Standards Courts UseApr 14, 2026 — Forensic-grade acquisition tools sea...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nij.ojp.gov/nij-hosted-online-training-courses/law-101-legal-guide-forensic-expert/pretrial/pretrial-motions/chain-custody" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nij.ojp.gov">[National Institute of Justice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nij.ojp.gov</span><span class="citation-popover-title">chain custody</span><span class="citation-popover-snippet">National Institute of JusticeLaw 101: Legal Guide for the Forensic Expert &#124; Chain of CustodyAug 22, 2023 — The chain of custody is a reco...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-3-dark.svg" | relative_url }}" alt="Chain Custody illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_chain_of_4f4356-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Chain custody and AI-assisted investigation
@@ -814,6 +807,7 @@ That is why serious AI-assisted UFO investigation increasingly treats evidence h
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

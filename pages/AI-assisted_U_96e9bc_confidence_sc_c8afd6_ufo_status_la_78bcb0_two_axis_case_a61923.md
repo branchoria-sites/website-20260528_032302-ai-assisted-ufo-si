@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78
 
 A single UFO verdict often hides two separate questions. First: how well does a proposed explanation fit the observed event? Second: how trustworthy is the underlying evidence? Modern AI-assisted UFO investigations increasingly separate those questions because many sighting reports contain mixed-quality data. A blurry mobile-phone video may strongly resemble a balloon, yet still lack enough [metadata]({{ 'metadata/' | relative_url }}) for a confirmed identification. Conversely, a detailed multi-sensor event may have excellent evidence quality while remaining difficult to explain.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-1-dark.svg" | relative_url }}" alt="Two Axis Labels illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is why many contemporary UAP workflows are moving away from simple “explained” versus “unexplained” labels. NASA’s UAP study stressed that weak sensor quality, missing metadata, and [incomplete]({{ 'incomplete-data/' | relative_url }}) measurements are major obstacles to reliable conclusions. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-study-group-better-data-needed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo study group better data needed</span><span class="citation-popover-snippet">UFOs will remain mysterious without better data, NASA...31 May 2023 — NASA&#x27;s UAP study team stressed that the biggest roadblock standing...</span><span class="citation-popover-meta">Published: May 2023</span></span></span>, the Pentagon’s All-domain Anomaly Resolution Office, similarly separates high-[confidence]({{ 'confidence/' | relative_url }}) resolutions from unresolved reports where the data remain incomplete. [U.S. Department of War+3AARO+3AARO]
 
@@ -290,7 +289,6 @@ Evidence axisMeaningExcellent evidenceMultiple calibrated sources with reliable 
 The important point is that these axes are independent.
 
 A sighting can therefore be classified as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -312,7 +310,6 @@ AI-assisted UFO investigation systems are good at pattern matching. They can com
 
 For example, an automated workflow may find that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a Starlink satellite train passed nearby at roughly the correct time
@@ -333,7 +330,6 @@ NASA’s UAP study repeatedly emphasised that poor-quality data remain one of th
 
 In practical investigative workflows, AI should therefore support human assessment rather than replace it. The system can rank candidate explanations, but investigators still need to decide how much confidence the evidence deserves.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7sg8BEGBUWU" title="UAP high quality [DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023]DOD 111688816" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7sg8BEGBUWU" target="_blank" rel="noopener noreferrer">UAP high quality [DOW-UAP-D23, Mission Report, United Arab Emirates, October 2023]DOD 111688816</a></p><p class="youtube-embed-meta">Channel: Scott Hansen &middot; Views: 33 &middot; Uploaded: May 2026 &middot; Length: 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7sg8BEGBUWU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7sg8BEGBUWU">Open on YouTube</a></p></div></div></div>
 
 ## Examples of balloon and aircraft classification splits
@@ -345,7 +341,6 @@ The value of two-axis labels becomes clearer when looking at common UFO report t
 Suppose a witness records a distant reflective object drifting slowly with the wind. The motion profile resembles a balloon. Weather conditions support that interpretation. Nearby balloon launches are documented.
 
 However:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -371,7 +366,6 @@ AARO has publicly released several cases assessed with high confidence as balloo
 
 Another case may involve:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * multiple witnesses
@@ -389,12 +383,10 @@ Here, both axes score highly:
 
 This distinction matters because the evidential foundation is very different from a single blurry clip uploaded anonymously online.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-2-dark.svg" | relative_url }}" alt="Two Axis Labels illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### High-quality evidence but unresolved interpretation
 
 The opposite pattern is also possible. A case may include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -417,7 +409,6 @@ This is a much narrower and more interesting category than the enormous pile of 
 
 A two-axis model therefore helps investigators separate genuinely difficult cases from cases that are merely poorly documented.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MUQgQlWw5b4" title="Inside NASA’s UAP Report with Commission Chair David Spergel &amp; Neil deGrasse Tyson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MUQgQlWw5b4" target="_blank" rel="noopener noreferrer">Inside NASA’s UAP Report with Commission Chair David Spergel &amp; Neil deGrasse Tyson</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 385.2K &middot; Uploaded: August 2023 &middot; Length: 47 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MUQgQlWw5b4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MUQgQlWw5b4">Open on YouTube</a></p></div></div></div>
 
 ## Avoiding the “everything unexplained is anomalous” trap
@@ -429,7 +420,6 @@ Government and scientific reviews repeatedly caution against this interpretation
 This is exactly why evidence quality needs its own public-facing label.
 
 Without it, three fundamentally different cases become mixed together:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -444,7 +434,6 @@ Those categories have very different investigative value.
 A dark speck in a shaky ten-second clip is unresolved in a trivial sense: there is simply not enough information. A calibrated multi-sensor event that still resists explanation after environmental checks is a different class of problem entirely.
 
 Two-axis labels make that distinction visible immediately.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-3-dark.svg" | relative_url }}" alt="Two Axis Labels illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_status_la_78bcb0_two_axis_case_a61923-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Building transparent public case tables
@@ -470,7 +459,6 @@ It also works well with AI-assisted workflows because machine systems can popula
 But the final human-readable labels still matter. They determine whether the public sees a cautious probabilistic assessment or a misleadingly definitive claim.
 
 Transparent tables also make later reassessment easier. If new evidence appears, investigators can update one axis without rewriting the entire case history. A “plausible aircraft + weak evidence” case may later become “confirmed aircraft + strong evidence” once radar or metadata emerge.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7Nvvgcsz2FM" title="NASA LIVE: Scientists announce study report on Unidentified Anomalous Phenomena" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7Nvvgcsz2FM" target="_blank" rel="noopener noreferrer">NASA LIVE: Scientists announce study report on Unidentified Anomalous Phenomena</a></p><p class="youtube-embed-meta">Channel: Times Of India &middot; Views: 657 &middot; Uploaded: September 2023 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7Nvvgcsz2FM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7Nvvgcsz2FM">Open on YouTube</a></p></div></div></div>
 
@@ -882,6 +870,7 @@ It also aligns with the broader direction of modern UAP analysis. NASA, AARO, an
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

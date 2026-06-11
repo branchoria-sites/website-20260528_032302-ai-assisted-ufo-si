@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18
 
 Many modern UFO videos are recorded on phones that quietly modify the image before the user even presses upload. [Digital zoom]({{ 'digital-zoom/' | relative_url }}), optical image stabilisation (OIS), electronic image stabilisation (EIS), frame interpolation and rolling-shutter correction all try to make shaky footage look smoother. In night recordings, especially when filming a distant bright light against a dark sky, those corrections can unintentionally create the impression that an object is jumping, zig-zagging or accelerating unnaturally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[Stanford Graphics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">In professional cameras...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-dark.svg" | relative_url }}" alt="Phone Drift illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because many apparently dramatic movements are not movements of the object itself. They are movements introduced by the phone’s imaging pipeline. A distant [aircraft]({{ 'aircraft/' | relative_url }}) light, planet, drone or satellite may remain relatively steady in the real world while the phone repeatedly recentres, crops, sharpens and repositions the bright point inside the frame. Without understanding how stabilisation works, investigators can mistake software correction for anomalous flight behaviour.
 
@@ -288,7 +287,6 @@ This matters in AI-assisted UFO sighting investigation because many apparently d
 Unlike optical zoom on a dedicated telephoto lens, digital zoom often enlarges a small crop from the sensor. That means a tiny bright point may occupy only a few pixels before the phone enlarges and processes it. Any movement from the user’s hand is magnified along with the image. Even tiny tremors can become dramatic jumps on screen. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Image_stabilization" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Image stabilization</span><span class="citation-popover-snippet">Image stabilization</span></span></span>
 
 This effect becomes extreme at night because the camera has very little background detail to anchor the stabilisation system. A bright point against a black sky gives the software almost no reference information apart from the light itself. The result can look bizarre:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -309,7 +307,6 @@ Most phone camera systems are optimised for faces, landscapes and nearby objects
 
 When this happens, several processes may occur simultaneously:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * autofocus pulses in and out
@@ -321,7 +318,6 @@ When this happens, several processes may occur simultaneously:
 </div>
 
 The combined effect can make a steady aircraft beacon look alive. In some clips the light appears to surge sideways every few frames even though surrounding stars or clouds reveal that the apparent motion came from the camera.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dNVtMmLlnoE" title="Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer">Why Do Cameras Do This? | Rolling Shutter Explained - Smarter Every Day 172</a></p><p class="youtube-embed-meta">Channel: SmarterEveryDay &middot; Views: 4.4M &middot; Uploaded: June 2017 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dNVtMmLlnoE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dNVtMmLlnoE">Open on YouTube</a></p></div></div></div>
 
@@ -336,7 +332,6 @@ These systems work well for ordinary filming. Problems appear when the subject i
 A stabilised phone video may unintentionally separate the tracked object from the rest of the scene. The software attempts to keep the bright point stable while the background drifts. To viewers, this can resemble independent motion by the object itself.
 
 This is especially common when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -358,7 +353,6 @@ Most smartphone sensors use rolling shutters rather than capturing the entire fr
 
 If the phone moves during that scan, the image can bend or wobble unnaturally. Researchers and camera engineers often call this the “jello effect”. In UFO footage, this can produce:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * stretched or warped lights
@@ -372,7 +366,6 @@ A distant blinking aircraft beacon may therefore look like it is changing direct
 
 This matters for automated analysis systems. AI models trained on ordinary daytime footage may incorrectly classify these distortions as genuine object manoeuvres unless the pipeline accounts for rolling-shutter artefacts and stabilisation behaviour.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-dark.svg" | relative_url }}" alt="Phone Drift illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why uploads often look worse than the original footage
 
@@ -381,7 +374,6 @@ The uploaded UFO clip seen online is rarely identical to the [original]({{ 'orig
 Most social platforms compress video aggressively. Compression removes detail, smooths gradients and introduces new motion artefacts. A stabilised phone clip that already contains slight positional jumps may become even more erratic after upload.
 
 This is particularly damaging for night footage because compression algorithms struggle with:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -396,13 +388,11 @@ Platforms may also alter frame rates or apply additional stabilisation during tr
 
 For investigators, the original file is therefore vastly more valuable than a reposted clip.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qbMJfIhmtz4" title="Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer">Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!</a></p><p class="youtube-embed-meta">Channel: TechZG &middot; Views: 50.0K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qbMJfIhmtz4">Open on YouTube</a></p></div></div></div>
 
 ### What original metadata can reveal
 
 Original phone footage may contain [metadata]({{ 'metadata/' | relative_url }}) that helps reconstruct what the camera was doing at the time of recording, including:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -419,7 +409,6 @@ Original phone footage may contain [metadata]({{ 'metadata/' | relative_url }}) 
 That information can help determine whether apparent motion matches likely hand movement. AI-assisted workflows can compare gyroscope shifts against object motion to estimate whether the “UFO” moved independently or simply followed camera corrections.
 
 A heavily recompressed social-media clip removes much of this evidence. Once the original stabilisation and [sensor data]({{ 'sensor-data/' | relative_url }}) are stripped away, separating real motion from processing artefacts becomes much harder.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-dark.svg" | relative_url }}" alt="Phone Drift illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_phone_stabili_41a97b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why witnesses genuinely perceive the movement as real
@@ -450,9 +439,7 @@ Machine-learning systems can also be trained to recognise typical stabilisation 
 
 In many cases, the result is not that the sighting becomes “solved” outright. Instead, the confidence level attached to the apparent manoeuvres changes. A light that seemed to perform impossible zig-zags may reduce to an unresolved distant object recorded through aggressive phone processing and extreme digital zoom.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mRPeKPb9ZPI" title="An Engineering-esque look at Image Stabilization - Vlog S2E7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mRPeKPb9ZPI" target="_blank" rel="noopener noreferrer">An Engineering-esque look at Image Stabilization - Vlog S2E7</a></p><p class="youtube-embed-meta">Channel: Points in Focus &middot; Views: 32 &middot; Uploaded: February 2020 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mRPeKPb9ZPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mRPeKPb9ZPI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -845,6 +832,7 @@ In many cases, the result is not that the sighting becomes “solved” outright
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

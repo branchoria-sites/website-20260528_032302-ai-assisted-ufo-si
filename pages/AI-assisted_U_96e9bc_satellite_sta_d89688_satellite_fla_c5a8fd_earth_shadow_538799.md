@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5
 
 One of the most common reasons a reported UFO “vanishes instantly” is also one of the easiest to misunderstand. A satellite can cross from sunlight into Earth’s shadow in only a second or two, causing a bright moving point to disappear so abruptly that witnesses assume impossible acceleration, cloaking, or a sudden change of direction.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-1-dark.svg" | relative_url }}" alt="Earth Shadow illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This effect matters in AI-assisted UFO sighting investigation because it is highly testable. If investigators know the time, viewing direction, and approximate path of the light, they can compare the report against orbital predictions and Earth-shadow [geometry]({{ 'geometry/' | relative_url }}). In many evening and pre-dawn cases, the timing aligns closely with a known satellite entering eclipse behind Earth. Astronomical tracking services and satellite visibility models describe this as a normal consequence of orbital lighting conditions rather than unusual propulsion or disappearance behaviour. Heavens-Above <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/artificial-earth-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkWhat Is an Artificial Satellite: Examples, Uses &amp; How to See8 Apr 2026 — At some point during its motion, the satellite may sudd...</span></span></span>
 
@@ -284,7 +283,6 @@ Earth continuously casts a cone-shaped shadow into space on the side opposite th
 For a ground observer, the effect can look dramatic because the satellite may still appear high in the sky and moving steadily one moment, then disappear completely the next.
 
 The geometry behind this is counterintuitive to many witnesses:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -307,7 +305,6 @@ Most “appeared suddenly and disappeared suddenly” UFO reports involving sate
 
 Visible satellite passes require a narrow lighting window:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The observer must be in darkness or near-darkness.
@@ -319,7 +316,6 @@ Visible satellite passes require a narrow lighting window:
 This usually occurs shortly after sunset or before sunrise. Satellite tracking references consistently describe twilight as the optimal observation period because satellites deep into the night are usually inside Earth’s shadow and therefore invisible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://physics.stackexchange.com/questions/388185/why-cant-we-see-the-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: physics.stackexchange.com">[Physics Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">physics.stackexchange.com</span><span class="citation-popover-title">why cant we see the satellites</span><span class="citation-popover-snippet">Physics Stack ExchangeWhy can&#x27;t we see the satellites?23 Feb 2018 — During night the sattelites on low orbits above you will be in the Ea...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesUsually, it will either pass over during the daytime, or deep in the night when the satellite is also in th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/artificial-earth-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkWhat Is an Artificial Satellite: Examples, Uses &amp; How to See8 Apr 2026 — At some point during its motion, the satellite may sudd...</span></span></span>
 
 This creates a pattern frequently seen in UFO databases:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -335,7 +331,6 @@ Witnesses often interpret the disappearance as evidence that the object accelera
 This is especially convincing psychologically because the human visual system expects distant objects to fade gradually with distance. [Aircraft]({{ 'aircraft/' | relative_url }}) dim slowly as they recede. Lanterns drift lower and weaker. Meteors usually fragment or trail off. A satellite entering shadow does none of those things.
 
 Instead, it may maintain constant brightness until the exact moment sunlight is cut off.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MV1hNtkTYQE" title="Why Did 38 Satellites Fall Out of the Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MV1hNtkTYQE" target="_blank" rel="noopener noreferrer">Why Did 38 Satellites Fall Out of the Sky?</a></p><p class="youtube-embed-meta">Channel: SciShow &middot; Views: 137.0K &middot; Uploaded: February 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MV1hNtkTYQE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MV1hNtkTYQE">Open on YouTube</a></p></div></div></div>
 
@@ -355,7 +350,6 @@ If a witness tracks a moving light smoothly and it vanishes instantly, the brain
 
 Discussion among experienced skywatchers regularly notes this misinterpretation effect, especially when multiple satellites are visible in succession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.ycombinator.com/item?id=26310845" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.ycombinator.com">[Hacker News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.ycombinator.com</span><span class="citation-popover-snippet">Hacker NewsMany people don&#x27;t know that you can actually see some of...If the satellite passed into the shadow of the earth and dissappea...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-2-dark.svg" | relative_url }}" alt="Earth Shadow illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Brightness contrast exaggerates the effect
 
@@ -371,7 +365,6 @@ This combination sits directly at the intersection of two common UFO-report trig
 This mechanism is particularly valuable in structured UFO investigation because it can be tested with precision rather than speculation.
 
 An AI-assisted workflow can compare:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -394,7 +387,6 @@ Witness descriptionSatellite-shadow interpretation“Bright star moving steadily
 
 Investigators can strengthen or weaken the hypothesis by checking:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * whether the disappearance occurred in the expected shadow region
@@ -406,7 +398,6 @@ Investigators can strengthen or weaken the hypothesis by checking:
 
 The last point matters because some satellites briefly emerge from shadow later in the pass. Observers occasionally report this as a UFO “reappearing”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astronomy.stackexchange.com/questions/28880/why-do-satellites-arcs-end-abruptly-when-observed-from-earth" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astronomy.stackexchange.com">[Astronomy Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astronomy.stackexchange.com</span><span class="citation-popover-title">why do satellites arcs end abruptly when observed from earth</span><span class="citation-popover-snippet">I noticed that during the time it&#x27;s visible, it disappears before reaching the horizon, and sometimes reappears...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uCoVaHICEow" title="Hundreds of Objects flew up and vanished in One small area of the Night Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uCoVaHICEow" target="_blank" rel="noopener noreferrer">Hundreds of Objects flew up and vanished in One small area of the Night Sky</a></p><p class="youtube-embed-meta">Channel: scannerguy1968 &middot; Views: 239.3K &middot; Uploaded: November 2024 &middot; Length: 4 minutes 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uCoVaHICEow" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uCoVaHICEow">Open on YouTube</a></p></div></div></div>
 
 ## Cases where the explanation is weaker
@@ -414,7 +405,6 @@ The last point matters because some satellites briefly emerge from shadow later 
 Earth-shadow entry does not explain every sudden disappearance.
 
 The explanation becomes weaker when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -434,7 +424,6 @@ Misidentification is common, but not every case fits cleanly into the satellite-
 
 This distinction is important because overconfident debunking can be just as misleading as overconfident extraordinary claims.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-3-dark.svg" | relative_url }}" alt="Earth Shadow illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_earth_shadow_538799-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this mechanism matters in UFO screening
 
@@ -451,9 +440,7 @@ In practical terms, many reports that initially sound extraordinary reduce to a 
 
 The disappearance still feels dramatic to witnesses because it genuinely looks unnatural to an unprepared observer. A bright moving light that vanishes in a single second is memorable. But in twilight skies, that behaviour is often exactly what investigators should expect from an ordinary satellite crossing into Earth’s shadow.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bLIsqTJ37qg" title="Space Science - Tools 3: Heavens Above" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bLIsqTJ37qg" target="_blank" rel="noopener noreferrer">Space Science - Tools 3: Heavens Above</a></p><p class="youtube-embed-meta">Channel: Dr. Thomas Albin &middot; Views: 530 &middot; Uploaded: November 2021 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bLIsqTJ37qg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bLIsqTJ37qg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -846,6 +833,7 @@ The disappearance still feels dramatic to witnesses because it genuinely looks u
 })();
 </script>
 </section>
+
 ## References
 
 [- Heavens-Above([https://www.heavens-above.com](https://www.heavens-above.com))](#endnote-1 "

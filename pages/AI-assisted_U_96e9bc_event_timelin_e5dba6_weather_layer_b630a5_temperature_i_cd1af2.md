@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b6
 
 A temperature inversion can make an ordinary [aircraft]({{ 'aircraft/' | relative_url }}) light, ship, oil platform, coastline, or even a bright planet appear to hover motionless in the sky. In UFO investigations, this matters because witnesses often interpret unusual hovering behaviour as evidence that an object is defying normal flight physics, when the atmosphere itself may be distorting the view. Under inversion conditions, layers of warm and cool air bend light in unusual ways, especially close to the horizon. The result can be a distant object that appears elevated, enlarged, duplicated, stretched, or suspended above the ground or sea. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Atmospheric_refraction" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Atmospheric refraction</span><span class="citation-popover-snippet">Atmospheric refraction</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/articles/fata-morgana" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Fata Morgana &#124; SKYbrary Aviation SafetyA superior mirage occurs when there is a temperature inversion; the air below the line of...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-1-dark.svg" | relative_url }}" alt="Inversion Illusions illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within an AI-assisted UFO sighting investigation, inversion conditions are therefore not a side detail. They are a testable environmental factor. By combining upper-air [weather]({{ 'weather/' | relative_url }}) profiles, witness viewing direction, terrain or sea conditions, and known sources of distant light, investigators can often determine whether a “hovering UFO” report matches the signature of atmospheric refraction rather than an unexplained aerial object.
 
@@ -282,7 +281,6 @@ Under normal atmospheric conditions, air becomes colder with altitude. A tempera
 That bending changes apparent position. An object physically below the horizon may appear lifted above it. A distant ship can seem to float in the sky. Aircraft lights can appear unnaturally steady and suspended. Coastlines may stretch vertically into towering shapes. In strong cases, multiple distorted images stack together into complex mirages. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_of_astronomical_objects" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage of astronomical objects</span><span class="citation-popover-snippet">Mirage of astronomical objectsThe Novaya Zemlya effect is a mirage caused by high refraction of sunlight between atmospheric thermocli...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions AwarenessPrecipitation&#x27;s (e.g., rain, fog, snow):. Flying in light rain, fog, haze, mist, smoke, dust, glare or darknes...</span></span></span>
 
 This matters in UFO reports because witnesses usually assume light travels in a straight line. Human perception automatically traces the bent light path backwards, placing the object in the wrong apparent location. A distant aircraft flying level toward the observer may therefore appear to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ Night-time inversion cases are often more persuasive to witnesses because the ob
 
 An aircraft beyond the normal visual horizon can become visible through refracted light while its fuselage remains hidden in darkness. The observer may see only:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * One bright landing light
@@ -321,7 +318,6 @@ Pilot safety literature repeatedly warns that haze, darkness, and atmospheric di
 
 For UFO case analysis, an important clue is the combination of “hovering” with extreme distance uncertainty. Witnesses often report a light that seemed close enough to be a nearby craft, yet produced no sound and showed little relative motion. Under inversion conditions, the source may actually have been many kilometres away.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/34rD5XuTu5w" title="Finding Your Way In The Dark. Night Flying" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=34rD5XuTu5w" target="_blank" rel="noopener noreferrer">Finding Your Way In The Dark. Night Flying</a></p><p class="youtube-embed-meta">Channel: MzeroA Flight Training &middot; Views: 30.5K &middot; Uploaded: January 2023 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=34rD5XuTu5w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=34rD5XuTu5w">Open on YouTube</a></p></div></div></div>
 
 ## Fata Morgana effects over water and deserts
@@ -331,7 +327,6 @@ The most dramatic inversion-related illusion is the [Fata Morgana]({{ 'fata-morg
 A Fata Morgana can transform ordinary distant objects into bizarre hovering structures. Ships become floating towers. Islands appear suspended above the horizon. Coastlines stretch into vertical walls. Lights split into stacked layers that shimmer and morph over seconds or minutes. Because the atmosphere is constantly changing, the illusion itself evolves continuously. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Inversion_%28meteorology%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Inversion (meteorology</span><span class="citation-popover-snippet">Inversion (meteorology</span></span></span>
 
 These effects are especially common in environments with strong surface temperature contrasts:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -347,14 +342,12 @@ Many classic “floating ship” photographs are examples of superior mirages pr
 
 One reason these reports can appear extraordinary is that the mirage often removes familiar scale cues. A distorted ship silhouette may no longer resemble a ship at all. Multiple stacked images can resemble layered craft or glowing platforms. Rapid atmospheric changes may make the object appear to transform shape in real time.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-2-dark.svg" | relative_url }}" alt="Inversion Illusions illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why inversion illusions are often mistaken for intelligent motion
 
 Witnesses frequently interpret inversion distortions as controlled behaviour rather than optical effects.
 
 Several mechanisms contribute to this misunderstanding:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,7 +363,6 @@ A Fata Morgana can also create duplicated or inverted images that resemble struc
 
 This does not mean every hovering-light report is solved by inversion conditions. Many cases lack sufficient environmental data, and some involve close-range observations where refraction is unlikely to explain the report. The key investigative question is whether the atmospheric conditions were capable of producing the claimed visual effect.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RsxaBUdrgBs" title="Physiology of Flight: Spatial Disorientation, Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RsxaBUdrgBs" target="_blank" rel="noopener noreferrer">Physiology of Flight: Spatial Disorientation, Part 2</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 9.3K &middot; Uploaded: June 2010 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RsxaBUdrgBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RsxaBUdrgBs">Open on YouTube</a></p></div></div></div>
 
 ## Using upper-air temperature data in case reviews
@@ -378,7 +370,6 @@ This does not mean every hovering-light report is solved by inversion conditions
 Surface weather reports alone are often insufficient for evaluating inversion-related UFO reports. Investigators need upper-air data that shows how temperature changed with altitude during the sighting window.
 
 Useful evidence sources include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -397,7 +388,6 @@ Investigative factorWhy it mattersViewing direction near horizonRefraction effec
 
 AI-assisted reconstruction becomes especially valuable when multiple datasets are aligned into a timeline. For example, a report of a glowing stationary object over the sea can be checked against:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Flight paths
@@ -410,7 +400,6 @@ AI-assisted reconstruction becomes especially valuable when multiple datasets ar
 </div>
 
 If the geometry, timing, and atmospheric profile align, the inversion explanation gains weight.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-3-dark.svg" | relative_url }}" alt="Inversion Illusions illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_temperature_i_cd1af2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators should look for in witness accounts
@@ -432,7 +421,6 @@ Common indicators include:
 Descriptions involving calm seas, cold evenings, dawn, fog banks, or unusually clear distant visibility can also support an inversion interpretation.
 
 Witness [confidence]({{ 'confidence/' | relative_url }}) can remain extremely high even when the explanation is mundane. That is an important point in public-facing UFO analysis. Optical distortion does not imply dishonesty or carelessness. Under strong inversion conditions, the atmosphere can generate genuinely strange and convincing visual events.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CrgKUFbwNf0" title="Fata Morgana—Boats That Float In The Air" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CrgKUFbwNf0" target="_blank" rel="noopener noreferrer">Fata Morgana—Boats That Float In The Air</a></p><p class="youtube-embed-meta">Channel: The Action Lab &middot; Views: 251.5K &middot; Uploaded: February 2021 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CrgKUFbwNf0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CrgKUFbwNf0">Open on YouTube</a></p></div></div></div>
 
@@ -840,6 +828,7 @@ That distinction helps prevent both extremes: dismissing witnesses automatically
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

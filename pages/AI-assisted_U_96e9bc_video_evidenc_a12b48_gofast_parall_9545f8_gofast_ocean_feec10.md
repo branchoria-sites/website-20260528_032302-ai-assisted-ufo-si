@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_95
 
 The “GoFast” Navy infrared video became famous because the object appeared to be tearing across the ocean surface at extreme speed. Viewers instinctively used the sea below as a visual ruler. If the object seemed to race over the water, many assumed it must really be moving that fast. Later analysis showed that this was the core illusion. The ocean was not a reliable speed reference at all. The dramatic impression came from a fast-moving jet, a stabilised targeting camera, compressed depth perception, and motion parallax working together. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsSeptember 14, 2023 — The video gives an impression of an object skimming abo...</span><span class="citation-popover-meta">Published: September 14, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/nasa-panel-analyzes-go-fast.13174/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">nasa panel analyzes go fast.13174</span><span class="citation-popover-snippet">NASA panel analyzes GO FAST19 Sept 2023 — The main point of the NASA analysis is that the GO FAST object looks fast because of pa...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-dark.svg" | relative_url }}" alt="Ocean Illusion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, GoFast is a valuable case because it demonstrates how easily a background can mislead both witnesses and viewers. A sighting can look extraordinary when a human observer unconsciously anchors motion to terrain, clouds, or water that only appear stable from a particular viewpoint. In GoFast, the ocean created exactly that false frame of reference.
 
@@ -304,7 +303,6 @@ This is a classic parallax effect. When an observer moves quickly, nearer object
 
 GoFast compressed this effect into a military sensor display:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the jet moved rapidly
@@ -318,7 +316,6 @@ GoFast compressed this effect into a military sensor display:
 The stabilisation system also removed many natural clues that would normally reveal observer motion. Handheld footage usually shakes, pans and reorients in ways that remind viewers the camera itself is moving. The ATFLIR system suppressed much of that motion. As a result, casual viewers subconsciously treated the viewpoint as stationary even though it was mounted on a fast-moving fighter aircraft.
 
 This matters in UFO investigations because stabilised footage can feel more “objective” than ordinary video. In practice, stabilisation can hide the movement of the observing platform and make relative motion appear absolute.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-dark.svg" | relative_url }}" alt="Ocean Illusion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the ocean made the object look lower than it was
@@ -337,7 +334,6 @@ A higher-altitude object drifting with wind or moving at modest speed can still 
 
 This is one reason modern UAP analysis increasingly relies on geometry reconstruction rather than visual intuition alone. Human observers are very good at recognising motion, but surprisingly poor at estimating three-dimensional distance from isolated sensor footage.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TWAvAXV2MLo" title="Pixel Art Class - Parallax Beach Scene" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TWAvAXV2MLo" target="_blank" rel="noopener noreferrer">Pixel Art Class - Parallax Beach Scene</a></p><p class="youtube-embed-meta">Channel: AdamCYounis &middot; Views: 96.5K &middot; Uploaded: January 2021 &middot; Length: 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TWAvAXV2MLo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TWAvAXV2MLo">Open on YouTube</a></p></div></div></div>
 
 ## What parallax reconstruction changed about the speed estimate
@@ -354,7 +350,6 @@ Importantly, this did not automatically identify the object with certainty. Deba
 
 That distinction is crucial in evidence-led UFO investigation:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * an unidentified object is not automatically an anomalous object
@@ -364,14 +359,12 @@ That distinction is crucial in evidence-led UFO investigation:
 
 </div>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-dark.svg" | relative_url }}" alt="Ocean Illusion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_gofast_ocean_feec10-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why GoFast became a lesson in AI-assisted investigation
 
 GoFast is now frequently discussed not because it proved exotic technology, but because it demonstrated how sensor footage can deceive viewers when environmental context is missing.
 
 An AI-assisted investigative workflow would treat the ocean background as a variable to test rather than a trustworthy visual anchor. Instead of assuming the sea established true speed, a structured analysis system would compare:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -780,6 +773,7 @@ GoFast remains an important case because the illusion was genuinely persuasive. 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

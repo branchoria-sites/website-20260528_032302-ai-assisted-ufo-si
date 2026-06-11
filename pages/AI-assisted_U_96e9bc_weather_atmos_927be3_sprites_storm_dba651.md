@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_db
 
 Brief red flashes above thunderstorms have triggered more than a few “what did I just see?” UFO reports. A witness may see a red burst high above a storm cloud, shaped like a jellyfish, column, or branching flare, only for it to vanish in milliseconds. Without context, the event can look artificial, intelligent, or unlike ordinary lightning. In reality, some of these reports match a class of upper-atmosphere electrical phenomena called sprites: short-lived flashes linked to powerful thunderstorms and now grouped under the wider category of transient luminous events, or TLEs. NOAA National Severe Storms Laboratory <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/lightning-transient-luminous-events.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">International Cloud AtlasLightning: Transient luminous events (TLEs)Short-lived luminous electrical manifestations formed in the upper re...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1-dark.svg" | relative_url }}" alt="Sprites illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For an AI-assisted UFO sighting investigation, sprites matter because they produce exactly the kind of sudden, dramatic, poorly understood visual event that witnesses often describe as anomalous. They are real atmospheric events, not hoaxes or hallucinations, but they are also easy to misinterpret when viewed from a distance or without visible storm context. A good investigation workflow therefore checks lightning activity, radar data, viewing direction, storm distance, and event duration before treating the sighting as an unknown object.
 
@@ -305,7 +304,6 @@ For an AI-assisted UFO sighting investigation, sprites matter because they produ
 Sprites occur high above thunderstorms, often between roughly 50 and 90 kilometres above the Earth, far above the main storm cloud. They are usually triggered by strong positive cloud-to-ground lightning strikes. Unlike ordinary lightning, they are faint, short-lived and often reddish in colour because of the way electrical energy interacts with nitrogen in the upper atmosphere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesLarge thunderstorms are capable of producing other kinds of elec...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
 
 To a ground observer, a sprite can appear:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -324,7 +322,6 @@ That distance matters. A person watching from far away loses depth cues and scal
 
 Modern smartphone video has changed this area of investigation. Many contemporary reports now include short clips that show faint red structures above thunderstorms. AI-assisted [review]({{ 'review/' | relative_url }}) systems can stabilise footage, isolate frames, compare colour patterns, and correlate the timing with lightning detection networks. This makes it easier to distinguish a sprite from [aircraft]({{ 'aircraft/' | relative_url }}) lights, drones, meteors, or camera artefacts.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NBPjUcMGqbY" title="What Is a Sprite? Earth&#x27;s Super Rare Red Lightning Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NBPjUcMGqbY" target="_blank" rel="noopener noreferrer">What Is a Sprite? Earth&#x27;s Super Rare Red Lightning Explained</a></p><p class="youtube-embed-meta">Channel: FOX Weather &middot; Views: 259.5K &middot; Uploaded: January 2023 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NBPjUcMGqbY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NBPjUcMGqbY">Open on YouTube</a></p></div></div></div>
 
 ## Why sprites can feel more “UFO-like” than ordinary lightning
@@ -332,7 +329,6 @@ Modern smartphone video has changed this area of investigation. Many contemporar
 Ordinary lightning is familiar. Sprites are not. Their rarity and strange [geometry]({{ 'geometry/' | relative_url }}) create a mismatch between expectation and observation that often drives anomalous interpretations.
 
 Several features repeatedly appear in UFO-style descriptions:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -350,7 +346,6 @@ Photographs from astronauts, storm researchers and high-speed cameras show why w
 Some witnesses also describe movement that is not actually present. Because sprites form and vanish rapidly while clouds continue moving underneath, the eye may interpret the flash as an object accelerating upward or sideways. Compression artefacts in video can exaggerate this effect further.
 
 Investigators should therefore treat witness descriptions carefully rather than dismissively. A statement like “a red object shot upward from the storm and vanished” may be an honest attempt to describe a sprite seen under poor observational conditions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tGPQ5kzJ9Tg" title="Red Sprites and Blue Jets Explained - New Discovery!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer">Red Sprites and Blue Jets Explained - New Discovery!</a></p><p class="youtube-embed-meta">Channel: Pecos Hank &middot; Views: 1.4M &middot; Uploaded: May 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg">Open on YouTube</a></p></div></div></div>
 
@@ -383,14 +378,12 @@ Radar data can also prevent confusion with actual airborne traffic. A sudden red
 
 Importantly, sprites themselves are optical electrical events, not solid objects. A radar return that appears to track a structured craft would therefore weaken a sprite explanation unless the radar anomaly has another known cause.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-2-dark.svg" | relative_url }}" alt="Sprites illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to separate sprites from sustained objects
 
 The clearest distinction is duration. Sprites are extremely brief. Most last milliseconds, though afterimages and repeated flashes can make the experience feel longer to observers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cloudatlas.wmo.int/lightning-transient-luminous-events.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cloudatlas.wmo.int">[International Cloud Atlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cloudatlas.wmo.int</span><span class="citation-popover-snippet">International Cloud AtlasLightning: Transient luminous events (TLEs)Short-lived luminous electrical manifestations formed in the upper re...</span></span></span>
 
 A sprite explanation becomes weaker when reports include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -410,7 +403,6 @@ However, investigators should avoid overly rigid filtering. Human perception und
 
 Video evidence is especially valuable here. Frame-by-frame review often reveals whether the event:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Appears in only one or two frames
@@ -422,7 +414,6 @@ Video evidence is especially valuable here. Frame-by-frame review often reveals 
 </div>
 
 These signatures strongly favour a sprite interpretation.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-3-dark.svg" | relative_url }}" alt="Sprites illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why sprites still matter in unresolved UFO casework
@@ -449,9 +440,7 @@ If those conditions align, “consistent with sprite activity” becomes a groun
 
 Modern AI tools make that assessment faster and more systematic. Automated weather retrieval, lightning-network correlation, frame analysis and historical pattern matching can eliminate many false anomalies within minutes. Just as importantly, they can also identify the cases that do not fit known sprite behaviour and therefore deserve closer scrutiny.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zaA8nT4qqM8" title="Transient Luminous Events: Blue Jets &amp; Red Sprites" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zaA8nT4qqM8" target="_blank" rel="noopener noreferrer">Transient Luminous Events: Blue Jets &amp; Red Sprites</a></p><p class="youtube-embed-meta">Channel: SciNews &middot; Views: 59.6K &middot; Uploaded: October 2017 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zaA8nT4qqM8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zaA8nT4qqM8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -844,6 +833,7 @@ Modern AI tools make that assessment faster and more systematic. Automated weath
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

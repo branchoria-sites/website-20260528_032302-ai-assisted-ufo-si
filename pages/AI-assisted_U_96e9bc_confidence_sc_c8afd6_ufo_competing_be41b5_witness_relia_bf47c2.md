@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be
 
 A witness can be honest, intelligent, experienced, and still wrong about what they saw in the sky. That distinction sits at the centre of modern UFO and UAP explanation scorecards. In practical investigations, witness reliability is not treated as a simple “believe or disbelieve” judgement. Instead, investigators separate sincerity, observational skill, environmental conditions, and evidence quality into different scoring categories.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-1-dark.svg" | relative_url }}" alt="Witness Reliability illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many unresolved sightings begin with credible observers: pilots, police officers, military personnel, astronomers, or long-time outdoor observers. Yet even trained observers can misjudge distance, altitude, speed, angular movement, and object size when viewing unusual lights at night or against featureless skies. NASA’s independent UAP study stressed that eyewitness reports are often [incomplete]({{ 'incomplete-data/' | relative_url }}) and inconsistent, limiting what can be concluded scientifically from testimony alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/nasa-holds-first-public-meeting-on-ufos-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">NASA Holds First Public Meeting on UFOs TranscriptThe existing data available from eyewitness reports are often muddled and cannot pro...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rev.com/transcripts/unidentified-anomalous-phenomena-independent-study-report-from-nasa-transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rev.com">[Rev]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rev.com</span><span class="citation-popover-snippet">UAP Independent Study Report from NASAWhile there are numerous eyewitness accounts and visuals associated with UAP, they&#x27;re not consis...</span></span></span>
 
@@ -321,7 +320,6 @@ One of the most common UFO descriptions involves an object “hovering” before
 
 Common mechanisms include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * An aircraft flying directly toward the observer, appearing stationary until its angle changes
@@ -337,7 +335,6 @@ Psychologists and sceptical investigators have long noted that trained observers
 
 In practical scorecards, this means the witness may receive a high sincerity score while the “motion interpretation confidence” score remains low.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChgPk2OiZCw" title="How Reliable is Eyewitness Testimony?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer">How Reliable is Eyewitness Testimony?</a></p><p class="youtube-embed-meta">Channel: National Science Foundation News &middot; Views: 173.1K &middot; Uploaded: July 2015 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChgPk2OiZCw">Open on YouTube</a></p></div></div></div>
 
 ### Size and distance estimates are often unstable
@@ -345,7 +342,6 @@ In practical scorecards, this means the witness may receive a high sincerity sco
 A classic UFO reporting problem is that witnesses frequently estimate object size based on assumptions about distance. But if distance is wrong, the entire interpretation collapses.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -375,7 +371,6 @@ NASA’s UAP discussions repeatedly stressed that even trained personnel often e
 
 This is especially relevant because many UAP encounters involve:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Brief observation windows
@@ -388,7 +383,6 @@ This is especially relevant because many UAP encounters involve:
 </div>
 
 Military pilots, for instance, are highly trained in aircraft recognition but are not immune to:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -404,7 +398,6 @@ That does not make their reports worthless. In fact, trained observers often pro
 
 A skilled observer may therefore increase the score for “genuine anomalous observation” without automatically decreasing the score for ordinary explanations.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-2-dark.svg" | relative_url }}" alt="Witness Reliability illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI systems use witness reliability in scorecards
 
@@ -415,7 +408,6 @@ A practical scorecard may include weighted categories such as:
 Investigation categoryTypical inputsWitness reliabilityTraining, consistency, sobriety, observational detailEnvironmental qualityVisibility, cloud cover, moon phase, hazeSensor supportVideo, radar, infrared, ADS-B, satellite correlationBehaviour matchWhether motion matches aircraft, drones, balloons, satellitesTemporal consistencyWhether timings align with known eventsMulti-witness agreementIndependent corroborationData completenessAvailability of [metadata]({{ 'metadata/' | relative_url }}) and raw files
 
 AI systems can help by detecting contradictions humans may miss. For example:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -461,7 +453,6 @@ For this reason, stronger UFO scorecards usually favour:
 
 The closer investigators get to the [original]({{ 'original-evidence/' | relative_url }}) observation moment, the more reliable the reconstruction usually becomes.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-3-dark.svg" | relative_url }}" alt="Witness Reliability illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_witness_relia_bf47c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why unresolved does not automatically mean extraordinary
 
@@ -493,7 +484,6 @@ This is why explanation scorecards distinguish between:
 * and unresolved anomalous behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aliensarerunningoperations.com/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aliensarerunningoperations.com">[aliensarerunningoperations.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aliensarerunningoperations.com</span><span class="citation-popover-snippet">Unresolved - Insufficient Data. Cases lacking adequate sensor data or corroboration. 33%. Anomalous - Unusual Characteristics. Cases demo...</span></span></span>
 
 Those categories preserve uncertainty without exaggerating it.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T-D1KVIuvjA" title="Greetings from Chuck (The epic christmas split)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T-D1KVIuvjA" target="_blank" rel="noopener noreferrer">Greetings from Chuck (The epic christmas split)</a></p><p class="youtube-embed-meta">Channel: Delov Digital &middot; Views: 27.5M &middot; Uploaded: December 2013 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T-D1KVIuvjA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T-D1KVIuvjA">Open on YouTube</a></p></div></div></div>
 
@@ -917,6 +907,7 @@ That distinction is central to serious UFO investigation. A credible witness can
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1071,4 +1062,4 @@ That distinction is central to serious UFO investigation. A credible witness can
    Title: pentagons latest uap report sheds light on anomalies but questions remain  
    Link: <a href="https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/" target="_blank" rel="noopener noreferrer nofollow">https://thebaynet.com/pentagons-latest-uap-report-sheds-light-on-anomalies-but-questions-remain/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Latest UAP Report Sheds Light On Anomalies...Nov 20, 2024 — The 2024 annual report, examining UAP cases between May 2023 and...</p></details>
-   Published: May 2023  
+   Published: May 2023

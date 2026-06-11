@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2b
 
 A UFO that shoots across a phone screen can look astonishingly fast. In many cases, that visual impression is genuine: the object really does move rapidly relative to the camera frame. The problem is that frame motion alone does not reveal the object’s true speed through space. Without reliable distance measurements, camera [geometry]({{ 'geometry/' | relative_url }}) and stable [reference points]({{ 'reference-points/' | relative_url }}), angular motion only describes how quickly something appears to move across the viewer’s line of sight, not how fast it is actually travelling.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-1-dark.svg" | relative_url }}" alt="Angular Motion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction is central to AI-assisted UFO sighting investigation because many public clips lack the metadata needed for proper reconstruction. NASA’s UAP study noted that analysis is often limited by missing sensor [calibration]({{ 'calibration/' | relative_url }}), lack of multiple measurements and poor metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[NASA A fast-looking object]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsThe video gives an impression of an object skimming above the ocean at a great vel...</span></span></span> may turn out to be a distant [aircraft]({{ 'aircraft/' | relative_url }}), a nearby insect, a drifting balloon, or even a stationary object viewed from a moving platform. The famous “GoFast” Navy video became a widely discussed example after later analysis concluded that the apparent extreme velocity was largely a parallax effect rather than extraordinary acceleration. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen...</span></span></span>
 
@@ -304,7 +303,6 @@ A simple everyday example shows the problem clearly. Hold a finger close to your
 
 The same ambiguity appears repeatedly in UFO footage:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * A bird close to the camera may appear to streak across the frame.
@@ -317,7 +315,6 @@ The same ambiguity appears repeatedly in UFO footage:
 In practical UFO analysis, this means a clip cannot establish extraordinary speed simply because the object traverses the image rapidly.
 
 The effect becomes even stronger when zoom lenses are involved. High zoom compresses depth perception and exaggerates small camera movements. A slight handheld adjustment can make a distant light appear to dart suddenly across the screen. Infrared targeting systems used in military footage add another layer of difficulty because the displayed image is already processed through tracking software, stabilisation and sensor optics that viewers may not understand.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jHDlfIaBEqw" title="VFX Artists DEBUNK Pentagon UFO Videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer">VFX Artists DEBUNK Pentagon UFO Videos</a></p><p class="youtube-embed-meta">Channel: Corridor Crew &middot; Views: 1.8M &middot; Uploaded: August 2021 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jHDlfIaBEqw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jHDlfIaBEqw">Open on YouTube</a></p></div></div></div>
 
@@ -342,7 +339,6 @@ This is especially common in:
 * Clips cropped from longer recordings
 
 When AI systems process UFO videos, this uncertainty must be treated explicitly. A responsible workflow should attach confidence ranges to estimated speed rather than outputting a single dramatic number. If distance is unknown, the system should state that speed cannot be reliably derived.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KQLw-m2VXYw" title="How To Geolocate War Footage: A Libya Case Study - Let&#x27;s Geolocate #6" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KQLw-m2VXYw" target="_blank" rel="noopener noreferrer">How To Geolocate War Footage: A Libya Case Study - Let&#x27;s Geolocate #6</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 128.1K &middot; Uploaded: February 2025 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KQLw-m2VXYw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KQLw-m2VXYw">Open on YouTube</a></p></div></div></div>
 
@@ -381,14 +377,12 @@ Without those anchors, speed claims remain weak.
 
 This is why many scientifically minded UAP projects now focus on multi-sensor observation rather than isolated clips. The Galileo Project’s proposed observatory systems emphasise calibrated instruments, multiple modalities and known baselines precisely because isolated visual footage is often too ambiguous for strong kinematic claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-2-dark.svg" | relative_url }}" alt="Angular Motion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Human Perception Overestimates Speed
 
 Human perception is poorly calibrated for interpreting motion in featureless skies. The brain automatically fills in missing depth and scale information using assumptions that may be wrong.
 
 Several factors intensify this effect:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -404,7 +398,6 @@ This does not mean witnesses are dishonest. It means perception and measurement 
 
 A genuine witness may accurately report that an object “shot across the sky”, while the recorded footage later turns out to be compatible with a slow object nearby. Both statements can be sincerely made because the human visual system interprets apparent angular motion as real-world speed unless geometry disproves it.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
 ## What AI Can and Cannot Infer From a Video Alone
@@ -412,7 +405,6 @@ A genuine witness may accurately report that an object “shot across the sky”
 AI tools can improve UFO video analysis substantially, but they cannot invent missing geometry.
 
 Modern computer vision systems can:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -430,7 +422,6 @@ However, AI still faces the same physical limits as human investigators when key
 
 A responsible AI-assisted workflow therefore separates:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Measured quantities:** frame position, angular rate, camera motion
@@ -443,7 +434,6 @@ A responsible AI-assisted workflow therefore separates:
 This distinction matters because many sensational UFO narratives collapse the entire chain into a single unsupported conclusion: “it crossed the screen quickly, therefore it travelled impossibly fast”.
 
 That leap is precisely what careful investigation is designed to avoid.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-3-dark.svg" | relative_url }}" alt="Angular Motion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Fast Across the Screen Is Not the Same as Fast Through Space
@@ -847,6 +837,7 @@ Within AI-assisted UFO sighting investigation, the most reliable approach is the
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

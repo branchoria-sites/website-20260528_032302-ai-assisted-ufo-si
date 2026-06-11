@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26
 
 A surprising number of UFO reports can be resolved in minutes by checking public fireball databases. When a bright object crosses the sky at high speed, witnesses often describe it as a glowing craft, missile, orb, or silent [aircraft]({{ 'aircraft/' | relative_url }}). Yet meteor organisations now collect thousands of near real-time public reports from people across entire regions, allowing investigators to compare sightings against known atmospheric events almost immediately.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1-dark.svg" | relative_url }}" alt="Meteor Databases illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, this matters because a meteor leaves a recognisable data pattern. Reports appear within the same few minutes, over a wide geographic area, with broadly consistent directions of travel and very short durations. Databases from the American Meteor Society (AMS), the International Meteor Organization (IMO), and NASA’s fireball systems allow investigators to test whether a sighting matches a documented meteor event before treating it as unexplained. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/American_Meteor_Society" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[American Meteor Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">American Meteor SocietyIts affiliates observe, monitor, collect data on, study, and report on meteors, meteor showers, meteoric fireba...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imo.net/observations/fireballs/fireballs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imo.net">[International Meteor Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imo.net</span><span class="citation-popover-snippet">International Meteor OrganizationFireballs &#124; IMOReports are also shared with the general public in the form of our Fireball Sightings Log...</span></span></span>
 
@@ -286,7 +285,6 @@ Public fireball databases help investigators answer three core questions quickly
 3. Does the [geometry]({{ 'geometry/' | relative_url }}) resemble a meteor trajectory rather than controlled flight?
 
 The AMS and IMO systems are especially valuable because they aggregate civilian witness reports into searchable event pages. These databases often include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -315,7 +313,6 @@ Meteor events are extremely brief. The AMS notes that most [fireballs]({{ 'fireb
 
 In practice, investigators often see patterns like this:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * reports flood social media within minutes
@@ -328,7 +325,6 @@ In practice, investigators often see patterns like this:
 An AI-assisted workflow can automatically compare a witness timestamp against public meteor logs from the same hour. If a fireball event already exists in AMS or IMO records, the system can flag the case for likely meteor correlation instead of escalating it as an anomalous aerial event.
 
 This process is particularly effective for reports involving:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -348,7 +344,6 @@ Those are classic fireball signatures rather than controlled aircraft behaviour.
 Witnesses frequently misremember exact times, especially during startling events. Modern systems therefore benefit from fuzzy matching rather than exact matching.
 
 A practical UFO screening system may compare reports within:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,7 +377,6 @@ The American Meteor Society operates one of the most widely used public fireball
 
 For UFO investigators, AMS data is valuable because it provides:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * public event maps
@@ -408,7 +402,6 @@ A strong example came from a March 2026 fireball over western Europe. The IMO re
 
 From a UFO investigation perspective, the important lesson is how quickly public meteor databases can stabilise interpretation. Once thousands of geographically distributed reports align into one atmospheric trajectory, the event shifts from “isolated unexplained object” to “shared meteor event”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-2-dark.svg" | relative_url }}" alt="Meteor Databases illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI-assisted matching across databases
 
@@ -425,7 +418,6 @@ An automated pipeline can:
 
 Natural-language processing can also standardise witness wording. Terms like:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “fireball” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ebsco.com/research-starters/astronomy-and-astrophysics/fireball" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ebsco.com">[ebsco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ebsco.com</span><span class="citation-popover-snippet">Fireball &#124; Astronomy and Astrophysics &#124; Research StartersFireballs are exceptionally bright meteors that appear in Earth&#x27;s atmosphere, ou...</span></span></span>
@@ -440,7 +432,6 @@ Natural-language processing can also standardise witness wording. Terms like:
 may all refer to the same meteor event.
 
 This reduces false escalation of ordinary atmospheric events into unresolved UFO cases.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/T9vTyrmkV1o" title="Meteor fireball streaks over tri-state sky, sonic boom heard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=T9vTyrmkV1o" target="_blank" rel="noopener noreferrer">Meteor fireball streaks over tri-state sky, sonic boom heard</a></p><p class="youtube-embed-meta">Channel: News 12 &middot; Views: 2.6K &middot; Uploaded: April 2026 &middot; Length: 1 minute 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=T9vTyrmkV1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=T9vTyrmkV1o">Open on YouTube</a></p></div></div></div>
 
@@ -459,7 +450,6 @@ A meteor travelling across the atmosphere creates:
 * changing viewing angles from different locations
 
 A nearby aircraft or drone does not usually generate that same pattern across hundreds of kilometres.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-3-dark.svg" | relative_url }}" alt="Meteor Databases illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_fireball_repo_26ce23_fireball_data_3762f5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### What triangulation can reveal
@@ -927,6 +917,7 @@ The result is not that every UFO sighting becomes explainable. It is that meteor
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

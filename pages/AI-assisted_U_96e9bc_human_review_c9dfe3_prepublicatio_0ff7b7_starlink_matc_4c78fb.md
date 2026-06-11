@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff
 
 A Starlink explanation should not be published simply because a satellite-tracking tool showed a visually similar pass near the reported time. In AI-assisted UFO investigation, Starlink is now one of the most common “solved” explanations for rows of lights, moving formations and silent luminous objects. That makes it useful, but also risky. A weak Starlink match can look convincing if the AI system assumes exact witness timing, precise viewing direction or an observer position that was never properly verified.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-1-dark.svg" | relative_url }}" alt="Starlink checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key pre-publication question is therefore not “could Starlink fit?” but “does the match still hold when realistic uncertainty is introduced?” A strong identification should survive timing drift, direction errors, observer-location uncertainty and changes in elevation estimates. If the explanation collapses after small adjustments, it should be described as tentative rather than likely. This matters because modern UAP analysis already suffers from [incomplete]({{ 'incomplete-data/' | relative_url }}) metadata, uncertain timings and weak [calibration]({{ 'calibration/' | relative_url }}), problems repeatedly highlighted in NASA and AARO assessments of unresolved cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/the-pentagons-ufo-office-has-given-an-official-update-on-its-findings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-title">the pentagons ufo office has given an official update on its findings</span><span class="citation-popover-snippet">The Pentagon&#x27;s UFO Office Has Given an Official Update...24 Apr 2023 — &quot;Without sufficient data, we are unable to reach defendable concl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
@@ -297,7 +296,6 @@ Before publication, investigators should deliberately widen the possible observa
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Reported sighting time: 22:03
@@ -307,7 +305,6 @@ For example:
 </div>
 
 The reviewer can then ask:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,7 +348,6 @@ A review should therefore test multiple interpretations of the viewing direction
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “Moving east” may actually mean east-north-east
@@ -372,7 +368,6 @@ This becomes critical because apparent satellite brightness changes strongly wit
 
 A reviewer should therefore test:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * whether the satellites would have been illuminated at the claimed elevation
@@ -384,7 +379,6 @@ A reviewer should therefore test:
 
 If the identified satellites would have been barely above the horizon while the witness repeatedly described a high overhead object, the confidence rating should drop.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-2-dark.svg" | relative_url }}" alt="Starlink checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Observer position can change the result completely
 
@@ -393,7 +387,6 @@ Small location errors can materially affect satellite alignment.
 A witness might say they were “in Manchester” while actually viewing from a motorway several kilometres away. A beach observer may have walked during the sighting. A driver may report the location where they stopped rather than where the event began.
 
 Because low-Earth-orbit satellites move rapidly, even modest observer displacement can alter:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -416,7 +409,6 @@ Rows of evenly spaced lights are indeed a common Starlink signature. However, pu
 
 Several problems recur repeatedly:
 
-
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
 * the AI model chooses the nearest available Starlink pass even if the geometry is weak
@@ -436,7 +428,6 @@ The reviewer should ask:
 * Would the match still look persuasive if the witness time moved by ten minutes?
 
 If the answer to the last question is “no”, the conclusion should be downgraded.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-3-dark.svg" | relative_url }}" alt="Starlink checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_prepublicatio_0ff7b7_starlink_matc_4c78fb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Explaining confidence without overstating the match
@@ -877,6 +868,7 @@ A good pre-publication review therefore treats Starlink matching as a hypothesis
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

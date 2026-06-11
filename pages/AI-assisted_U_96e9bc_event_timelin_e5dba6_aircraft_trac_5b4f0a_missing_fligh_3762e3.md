@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b
 
 A missing [aircraft]({{ 'aircraft/' | relative_url }}) track on a public flight map does not automatically eliminate aircraft as a possible explanation for a UFO sighting. That point matters because many modern investigations begin with apps such as <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">Open source on flightradar24.com.</span></span></span> or <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.adsbexchange.com" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: adsbexchange.com">[ADS-B Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">adsbexchange.com</span><span class="citation-popover-snippet">Open source on adsbexchange.com.</span></span></span>, and witnesses often assume those maps show every aircraft in the sky. They do not.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-1-dark.svg" | relative_url }}" alt="Missing Tracks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In an AI-assisted UFO investigation workflow, aircraft data is still one of the strongest contextual checks available. But the absence of a visible track must be treated as [incomplete]({{ 'incomplete-data/' | relative_url }}) evidence rather than proof that “nothing conventional was there”. [Coverage gaps]({{ 'coverage-gaps/' | relative_url }}), blocked feeds, low-altitude blind spots, terrain masking, military operating rules, weak transponder reception, and helicopter-specific limitations can all produce missing or intermittent tracks. A careful investigation therefore asks a narrower question: could an aircraft still plausibly fit the sighting timeline despite incomplete public tracking data?
 
@@ -286,7 +285,6 @@ In an AI-assisted UFO investigation workflow, aircraft data is still one of the 
 Most public flight-tracking services depend heavily on ADS-B, short for Automatic Dependent Surveillance–Broadcast. Aircraft equipped with ADS-B transmit their position, altitude, speed, and identity to nearby receivers. <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Federal Aviation Administration">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Federal Aviation Administration</span><span class="citation-popover-snippet">If one of our feeders is receiving it, the data will be there. This includes...Read more. Source panel: Citations. Accessed May 27, 2026...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Federal Aviation Administration">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Federal Aviation Administration</span><span class="citation-popover-snippet">If one of our feeders is receiving it, the data will be there. This includes...Read more. Source panel: Citations. Accessed May 27, 2026...</span></span></span>
 
 However, public tracking sites are not direct windows into all controlled airspace. They are aggregators. Their maps depend on:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -311,7 +309,6 @@ ADS-B signals operate on line-of-sight principles. Mountains, hills, urban struc
 
 This becomes especially important in UFO cases involving:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Valley locations
@@ -334,7 +331,6 @@ When aircraft lack full ADS-B position broadcasts, tracking platforms may estima
 MLAT is useful, but it is not universally available. Flightradar24 notes that tracking quality depends on receiver density and [geometry]({{ 'geometry/' | relative_url }}), and lower-altitude coverage remains harder in many areas. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Flightradar24How Flightradar24 uses MLAT to counter GPS jamming30 Jun 2025 — Learn how Flightradar24 uses MLAT or Multilateration to combat the problem of GPS interference, including GPS jamming and GPS spoofing.. https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Flightradar24How Flightradar24 uses MLAT to counter GPS jamming30 Jun 2025 — Learn how Flightradar24 uses MLAT or Multilateration to combat the problem of GPS interference, including GPS jamming and GPS spoofing.. https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/</span><span class="citation-popover-snippet">How Flightradar24 uses MLAT to counter GPS jamming30 Jun 2025 — Learn how Flightradar24 uses MLAT or Multilateration to combat the proble.... Source panel: Citations. Accessed May 27, 2026...</span></span></span>
 
 In practice, this means:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -376,7 +372,6 @@ Helicopters create a particularly common source of confusion in UFO reports beca
 
 Several factors contribute:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Helicopters often fly lower than fixed-wing aircraft
@@ -391,7 +386,6 @@ Rotorcraft compliance with ADS-B standards has historically lagged behind fixed-
 
 In practical UFO investigation terms, this means a helicopter can:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Appear stationary
@@ -404,14 +398,12 @@ In practical UFO investigation terms, this means a helicopter can:
 
 That combination can strongly resemble classic UFO descriptions.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-2-dark.svg" | relative_url }}" alt="Missing Tracks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Police, medical, and utility flights may appear inconsistently
 
 Emergency helicopters, utility aircraft, and contracted government operations may not always display full identifying information. Some may appear only as anonymous transponder returns, while others may disappear entirely depending on feed quality and platform filtering policies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Military and government aircraft may also be blocked entirely.. https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-">[Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Military and government aircraft may also be blocked entirely.. https://support.fr24.com/support/solutions/articles/3000117426-why-is-some-aircraft-information-limited-or-not-visible-</span><span class="citation-popover-snippet">Flightradar24 Support centerWhy is some aircraft information limited or not visible?10 Apr 2026 — High-profile aircraft, like Air Force O.... Source panel: Citations. Accessed May 27, 2026...</span></span></span>
 
 This is especially relevant in urban night sightings where witnesses report:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -424,7 +416,6 @@ This is especially relevant in urban night sightings where witnesses report:
 </div>
 
 A UFO investigation that checks only one public app risks missing these contextual clues.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KahiBjBmgrc" title="How to Track Filtered Aircraft with ADS-B Exchange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer">How to Track Filtered Aircraft with ADS-B Exchange</a></p><p class="youtube-embed-meta">Channel: 0x4rk0 &middot; Views: 5.9K &middot; Uploaded: April 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KahiBjBmgrc">Open on YouTube</a></p></div></div></div>
 
@@ -448,7 +439,6 @@ Public users usually see only a subset of this information.
 Even within public systems, different platforms ingest different feeds. One service may display MLAT-derived positions while another suppresses them. One may hide blocked aircraft while another still shows anonymous returns.
 
 AI-assisted UFO investigation benefits from treating public flight data probabilistically rather than absolutely. A missing track slightly weakens an aircraft explanation, but it rarely eliminates it on its own.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-3-dark.svg" | relative_url }}" alt="Missing Tracks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_missing_fligh_3762e3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Cross-checking incomplete air traffic records
@@ -904,6 +894,7 @@ For AI-assisted case analysis, this means aircraft explanations should be graded
 })();
 </script>
 </section>
+
 ## References
 
 - [Flightradar24](https://www.flightradar24.com)

@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21
 
 Some of the most convincing “hovering UFO” reports are linked to a very specific [weather]({{ 'weather/' | relative_url }}) mechanism: mountain-wave airflow. In the right conditions, strong winds crossing hills or mountain ridges create invisible standing waves in the atmosphere. If enough moisture is present, smooth lens-shaped clouds form at the crests of those waves. These are lenticular clouds, and they can appear astonishingly artificial — metallic, layered, symmetrical and apparently motionless. Meteorological agencies including the UK Met Office explicitly note that they are a common explanation for flying-saucer sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/image/lenticular-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Center for Science EducationLenticular Clouds - UCAR Center for Science EducationLenticular, or lee wave, clouds form downwind of an obst...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1-dark.svg" | relative_url }}" alt="Wave Patterns illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, mountain-wave patterns matter because they produce a repeatable environmental signature. A report of a silent object hovering over high ground can often be checked against terrain orientation, upper-level wind direction, atmospheric stability, cloud imagery and local weather observations. When these elements line up, the “mystery craft” may turn out to be a natural standing-wave cloud regenerating continuously in one fixed location.
 
@@ -290,7 +289,6 @@ When stable air flows across a mountain ridge, the atmosphere can behave like wa
 If moist air reaches the upward part of the wave, it cools enough for water vapour to condense into cloud. As the airflow descends again, the cloud evaporates. New cloud continuously forms at roughly the same point in the wave crest while older cloud dissipates farther downstream. To an observer on the ground, the visible shape appears fixed in space even though air is racing through it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://scied.ucar.edu/image/lenticular-clouds" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scied.ucar.edu">[Center for Science Education]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scied.ucar.edu</span><span class="citation-popover-snippet">Center for Science EducationLenticular Clouds - UCAR Center for Science EducationLenticular, or lee wave, clouds form downwind of an obst...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 
 This regeneration effect is one reason witnesses sometimes reject ordinary cloud explanations. People expect clouds to drift across the sky. A lenticular cloud instead behaves more like a hovering object:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ One of the most counterintuitive aspects of lenticular clouds is that they are o
 
 The mountain-wave mechanism works best when several ingredients combine: <span class="citation-chip-wrap"><a class="citation-chip" href="https://aerocrewnews.com/2023/04/01/mountain-wave-turbulence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aerocrewnews.com">[aerocrewnews.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aerocrewnews.com</span><span class="citation-popover-title">mountain wave turbulence</span><span class="citation-popover-snippet">Apr 1, 2023 — If sufficient moisture is in place, altocumulus standing lenticular clouds (ACSL) can develop at the top of individual wave...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Strong airflow crossing a ridge line.
@@ -328,7 +325,6 @@ Pilots know these clouds as important indicators of mountain-wave turbulence. Th
 
 The cloud’s smooth appearance also contributes to UFO interpretations. Ordinary cumulus clouds often look ragged or irregular, but lenticular clouds form within stable airflow layers that produce unusually clean edges. Some resemble polished discs or flattened domes rather than typical cloud masses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.metoffice.gov.uk/learn-about/weather/types-of-weather/clouds/unusual-cloud-formations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.metoffice.gov.uk">[Met Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.metoffice.gov.uk</span><span class="citation-popover-snippet">Met OfficeUnusual cloud formations... lenticular clouds are believed to be one of the most common explanations for UFO sightings across t...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VhDpoM5k2Qg" title="How Mountain Wave Systems Work, with Lenticular and Rotor Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VhDpoM5k2Qg" target="_blank" rel="noopener noreferrer">How Mountain Wave Systems Work, with Lenticular and Rotor Clouds</a></p><p class="youtube-embed-meta">Channel: Pure Glide &middot; Views: 40.3K &middot; Uploaded: April 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VhDpoM5k2Qg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VhDpoM5k2Qg">Open on YouTube</a></p></div></div></div>
 
 ## Why Mountain Terrain Matters So Much
@@ -336,7 +332,6 @@ The cloud’s smooth appearance also contributes to UFO interpretations. Ordinar
 Many famous “UFO cloud” photographs come from places where ridge-driven airflow is common.
 
 Mountain-wave lenticulars are especially associated with: <span class="citation-chip-wrap"><a class="citation-chip" href="https://avmet.navcanada.ca/en/mountain-wave.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: avmet.navcanada.ca">[avmet.navcanada.ca]</a><span class="citation-popover" role="note"><span class="citation-popover-source">avmet.navcanada.ca</span><span class="citation-popover-snippet">Mountain WaveMountain waves are associated with downslope windstorms like chinooks. They can produce rotors, standing lenticular clouds...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -354,14 +349,12 @@ A useful clue is repetition. Some regions repeatedly generate similar “hoverin
 
 The orientation of the cloud can also matter. Lenticular formations often align parallel to the ridge producing the wave. In satellite imagery or witness photos, this alignment can reveal that the cloud is tied to airflow and terrain rather than independent motion.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-2-dark.svg" | relative_url }}" alt="Wave Patterns illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Terrain And Ridge Clues Investigators Should Check
 
 In a structured UFO investigation workflow, mountain-wave assessment can often be automated surprisingly effectively.
 
 AI-assisted screening systems can compare witness reports against topographic and meteorological data to identify whether lenticular formation conditions existed at the reported time. Important checks include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -377,7 +370,6 @@ AI-assisted screening systems can compare witness reports against topographic an
 
 A report becomes more consistent with a lenticular explanation if the object:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Remained fixed relative to terrain.
@@ -391,7 +383,6 @@ A report becomes more consistent with a lenticular explanation if the object:
 
 Conversely, some details weaken the explanation:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Rapid directional movement unrelated to wind.
@@ -404,7 +395,6 @@ Conversely, some details weaken the explanation:
 </div>
 
 The goal is not to dismiss witnesses automatically but to classify how well the environmental evidence matches a known atmospheric mechanism.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KgO7Kyq3q-U" title="Lenticular Clouds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer">Lenticular Clouds</a></p><p class="youtube-embed-meta">Channel: Alan Sealls &middot; Views: 11.3K &middot; Uploaded: January 2023 &middot; Length: 3 minutes 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KgO7Kyq3q-U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KgO7Kyq3q-U">Open on YouTube</a></p></div></div></div>
 
@@ -424,7 +414,6 @@ Some images also lose depth cues entirely. A witness may know the cloud is large
 
 AI-based image analysis systems therefore need environmental context rather than shape analysis alone. A smooth disc silhouette by itself is [weak evidence]({{ 'weak-evidence/' | relative_url }}). Correlation with mountain-wave conditions is often more informative than the image appearance.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-3-dark.svg" | relative_url }}" alt="Wave Patterns illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_lenticular_cl_21fbc6_mountain_wave_aa42ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Investigative Value Of “Ordinary But Rare” Explanations
 
@@ -442,9 +431,7 @@ For investigators, the lesson is not merely “clouds explain UFOs”. The more 
 
 Mountain-wave analysis therefore becomes one of the fastest and most evidence-based screening tools available in saucer-shaped UFO cases, especially when reports cluster around upland terrain and stable cross-ridge airflow conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hWcgJS6ODBk" title="What are lenticular clouds and how do they form?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hWcgJS6ODBk" target="_blank" rel="noopener noreferrer">What are lenticular clouds and how do they form?</a></p><p class="youtube-embed-meta">Channel: CBS 13 News &middot; Views: 1.1K &middot; Uploaded: November 2025 &middot; Length: 4 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hWcgJS6ODBk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hWcgJS6ODBk">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -837,6 +824,7 @@ Mountain-wave analysis therefore becomes one of the fastest and most evidence-ba
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

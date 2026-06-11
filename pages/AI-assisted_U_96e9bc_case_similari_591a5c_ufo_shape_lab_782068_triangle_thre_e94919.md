@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_78
 
 A “triangle UFO” report does not always describe a triangular craft. In many sightings, the witness actually saw three separate lights whose spacing implied a triangle, especially at night when the space between lights becomes visually filled in by the brain. That distinction matters because AI search systems often treat every “triangle” report as the same phenomenon even when the underlying observation could involve formation [aircraft]({{ 'aircraft/' | relative_url }}), drones, flares, lanterns, stars, or a genuinely unresolved object.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-1-dark.svg" | relative_url }}" alt="Triangle labels illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, the key question is not simply “Was it triangle-shaped?” but “What exactly produced the triangular impression?” A witness may have observed: three independent lights, one solid object with corner lights, a changing formation, or even a dark silhouette inferred from contrast and expectation. NASA’s UAP work repeatedly stresses that witness descriptions alone are not enough without supporting [metadata]({{ 'metadata/' | relative_url }}), environmental checks, and calibrated observations. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Bad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — At the outset of the May 31 meeting, Spergel set the tone: today&#x27;s ex...</span></span></span>
 
@@ -280,7 +279,6 @@ For AI-assisted UFO sighting investigation, the key question is not simply “Wa
 The central investigative problem with triangle reports is perceptual completion. Human vision naturally connects separated points of light into familiar geometric forms, particularly under low-light conditions. If three bright lights remain fixed relative to each other, many observers stop perceiving them as independent sources and begin perceiving a single triangular object.
 
 This effect becomes stronger when:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -306,7 +304,6 @@ Night-time visual perception is poor at estimating distance and scale. Three air
 
 This creates several recurring witness impressions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “The object blocked out stars”
@@ -323,7 +320,6 @@ Silence is a good example. If aircraft are distant, atmospheric conditions and w
 
 The brain also tends to complete missing visual information into coherent shapes. This is a normal cognitive process, not evidence of dishonesty or unreliability. Investigators therefore need to separate:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Directly observed features
@@ -334,7 +330,6 @@ The brain also tends to complete missing visual information into coherent shapes
 </div>
 
 AI systems that flatten all four into one searchable “triangle UFO” category lose important evidential distinctions.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wkm3KxIyZDE" title="The longstanding mystery of BLACK TRIANGLE UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer">The longstanding mystery of BLACK TRIANGLE UFOs</a></p><p class="youtube-embed-meta">Channel: Sandboxx &middot; Views: 749.7K &middot; Uploaded: July 2023 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wkm3KxIyZDE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wkm3KxIyZDE">Open on YouTube</a></p></div></div></div>
 
@@ -347,7 +342,6 @@ Many triangle sightings become less mysterious once investigators examine whethe
 Military and civilian aircraft formations are a longstanding source of triangle reports. Three aircraft maintaining relative spacing can appear as one giant silent structure, particularly at night when individual fuselages are invisible.
 
 Several recurring conditions increase misidentification risk:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -378,14 +372,12 @@ Important clues include:
 
 Investigators should compare witness timing against military exercise notices, restricted airspace activity, and [weather]({{ 'weather/' | relative_url }})-driven drift estimates before treating the geometry itself as unusual.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-2-dark.svg" | relative_url }}" alt="Triangle labels illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Drone formations
 
 Modern drone swarms create a newer version of the three-lights problem. Consumer and commercial drones can hold stable geometric formations that earlier generations would have interpreted as impossible.
 
 The rapid growth of drone-light displays has complicated UFO databases significantly. Reports of “silent triangles” now increasingly overlap with:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -400,7 +392,6 @@ Recent public concern over unexplained drone clusters in the United States demon
 
 This matters for AI systems because databases built before the drone era may falsely suggest continuity between older triangle cases and modern drone formations even when the technological context is entirely different.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F0ChLK3j_zQ" title="The Black Triangle Mystery! | UFO Witness S2 E6 | Full Episode | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F0ChLK3j_zQ" target="_blank" rel="noopener noreferrer">The Black Triangle Mystery! | UFO Witness S2 E6 | Full Episode | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 66.3K &middot; Uploaded: June 2025 &middot; Length: 43 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F0ChLK3j_zQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F0ChLK3j_zQ">Open on YouTube</a></p></div></div></div>
 
 ## The “black triangle” feedback loop
@@ -408,7 +399,6 @@ This matters for AI systems because databases built before the drone era may fal
 One reason triangle labels are especially dangerous for AI similarity searches is cultural reinforcement. “Black triangle UFO” has become a recognised narrative template in books, documentaries, forums, and television.
 
 As a result, witnesses sometimes describe sightings using inherited imagery rather than purely raw observation. Common repeated motifs include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -425,7 +415,6 @@ That does not automatically mean such sightings are false. It does mean the word
 AI systems trained on UFO text archives risk amplifying this loop. If the model repeatedly sees “triangle + silent + hovering + lights at corners”, it may incorrectly treat these as a stable object category rather than a recurring human interpretation pattern.
 
 This is one reason NASA and other scientific UAP efforts emphasise structured data collection rather than open-ended folklore-style descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Reportwitness reports should be considered along with corroborating sensor data in the study of UAP as...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team Reportwitness reports should be considered along with corroborating sensor data in the study of UAP as...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-3-dark.svg" | relative_url }}" alt="Triangle labels illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_triangle_thre_e94919-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI should preserve shape ambiguity
@@ -460,7 +449,6 @@ A robust similarity search should weight:
 * Witness vantage geometry
 
 more heavily than the raw shape label itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XcDDofS5Huw" title="The UnXplained: The Phoenix Lights Phenomenon is STILL UNEXPLAINABLE (Season 5) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XcDDofS5Huw" target="_blank" rel="noopener noreferrer">The UnXplained: The Phoenix Lights Phenomenon is STILL UNEXPLAINABLE (Season 5) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 519.2K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XcDDofS5Huw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XcDDofS5Huw">Open on YouTube</a></p></div></div></div>
 
@@ -874,6 +862,7 @@ The practical lesson for AI-assisted UFO investigation is therefore simple: “t
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

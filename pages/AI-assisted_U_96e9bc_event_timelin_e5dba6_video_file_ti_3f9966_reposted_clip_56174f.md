@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f
 
 A viral UFO clip often looks more convincing the more widely it spreads. In forensic terms, the opposite is usually true. Each repost, screen recording, edit, crop, or platform upload can remove clues about when the footage was captured, what device recorded it, whether frames are missing, and how the image changed over time. By the time a dramatic UFO video reaches millions of viewers, investigators may be analysing a heavily transformed copy rather than the [original]({{ 'original-evidence/' | relative_url }}) recording.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-1-dark.svg" | relative_url }}" alt="Reposted Clips illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, this matters because timeline reconstruction depends on reliable technical anchors. A clip’s upload date is not necessarily its filming date. A smooth-looking repost may hide dropped frames, altered aspect ratios, or exposure changes introduced by social platforms. [Metadata]({{ 'metadata/' | relative_url }}) may be stripped entirely. Witness memory can then become fused with a degraded video copy, creating a false sense of certainty about what happened and when. Modern media-forensics research repeatedly notes that social platforms routinely recompress uploads and remove or regenerate metadata, weakening provenance and chain-of-custody analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://link.springer.com/article/10.1186/s13635-021-00117-2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.springer.com">[Springer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.springer.com</span><span class="citation-popover-snippet">forensics on social media platforms: a surveyby C Pasquini · 2021 · Cited by 95 — This survey aims at describing the work done so far by...</span></span></span>
 
@@ -280,7 +279,6 @@ In AI-assisted UFO sighting investigation, this matters because timeline reconst
 Most major platforms do not preserve uploaded videos exactly as received. Instead, they transcode them into new versions optimised for streaming, bandwidth, moderation, and device compatibility. In practice, that means the “same” UFO clip on TikTok, X, Instagram, Facebook, Reddit, or YouTube may actually be several technically different files.
 
 This process affects far more than image quality. Recompression can alter:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ When somebody records a video playing on another screen, the resulting file beco
 
 This distinction matters because many viral UFO clips survive only as screen recordings. Common examples include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Someone filming a TikTok clip playing on another phone.
@@ -321,7 +318,6 @@ This distinction matters because many viral UFO clips survive only as screen rec
 </div>
 
 These copies often lose:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -366,7 +362,6 @@ This matters because social-media timelines frequently become distorted during v
 
 Research into misleading online video context shows that false or altered metadata narratives spread easily on large video platforms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In UFO cases, this can produce claims such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “The military removed the original upload.”
@@ -381,7 +376,6 @@ AI systems can help by building media family trees. Instead of treating every up
 
 That distinction is important in UFO investigations because timing influences explanation triage. If a clip predates a reported launch, aircraft movement, or meteor event, it may deserve closer attention. If the viral upload occurred hours after known atmospheric or aviation activity, mundane explanations become more plausible.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-2-dark.svg" | relative_url }}" alt="Reposted Clips illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Metadata loss creates false mystery
 
@@ -390,7 +384,6 @@ Missing metadata is often interpreted online as evidence of suppression or conce
 Studies and forensic guidance repeatedly document that social and messaging platforms remove or rewrite metadata during uploads and sharing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2302.12133" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span> Messaging services may also compress videos aggressively, especially when sent as ordinary media rather than document attachments. Some services preserve more metadata only under specific sharing methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.removemd.com/blog/whatsapp-instagram-facebook-metadata-removal" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: removemd.com">[RemoveMD]</a><span class="citation-popover" role="note"><span class="citation-popover-source">removemd.com</span><span class="citation-popover-snippet">Does WhatsApp Remove Photo Metadata? (GPS, EXIFWhatsApp strips GPS and most EXIF data from photos — but not always. Instagram and...</span></span></span>
 
 This creates a common pattern in UFO discussions:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -414,7 +407,6 @@ The more significant issue is evidential degradation. Without original metadata,
 * Emergency-service logs.
 
 That weakens both sceptical and extraordinary interpretations. A missing timestamp does not prove a UFO encounter, but it also makes it harder to rule out conventional explanations cleanly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9DKJ6gP5lJY" title="NIST Colloquium Series: Digital Forensics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9DKJ6gP5lJY" target="_blank" rel="noopener noreferrer">NIST Colloquium Series: Digital Forensics</a></p><p class="youtube-embed-meta">Channel: National Institute of Standards and Technology &middot; Views: 22.1K &middot; Uploaded: June 2010 &middot; Length: 1 hour 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9DKJ6gP5lJY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9DKJ6gP5lJY">Open on YouTube</a></p></div></div></div>
 
@@ -448,7 +440,6 @@ AI-assisted investigative systems therefore need to preserve distinctions betwee
 * AI-enhanced derivatives.
 
 Without those distinctions, later analytical conclusions may accidentally rely on visual properties introduced after the sighting occurred.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-3-dark.svg" | relative_url }}" alt="Reposted Clips illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_video_file_ti_3f9966_reposted_clip_56174f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why investigators prioritise originals whenever possible
@@ -862,6 +853,7 @@ That is why serious UFO case analysis separates viral visibility from forensic s
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_95
 
 The Navy’s “GoFast” infrared video became one of the most widely shared UFO clips because it appeared to show a small object racing just above the ocean at impossible speed. To many viewers, the footage looked like direct visual proof of hypersonic manoeuvring without visible propulsion. Later analysis showed why that impression was misleading. The apparent speed came largely from camera [geometry]({{ 'geometry/' | relative_url }}), [aircraft]({{ 'aircraft/' | relative_url }}) motion and missing depth information rather than extraordinary object performance. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — The object&#x27;s apparent high speed is attributable to motion parallax. Motion parallax is an op...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/pentagon-solves-1-ufo-mystery-still-probing-other-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsPentagon solves 1 UFO mystery but still probing cases of &quot;...Nov 20, 2024 — The GOFAST video was made public in 2017 and shows w...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast Parallax illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, GoFast is important because it demonstrates a core evidence problem: screen motion is not the same thing as real-world motion. A dramatic-looking clip can still produce ordinary explanations once investigators reconstruct distance, angle, field of view and observer movement. The case has become a standard example of why modern UAP analysis depends as much on geometry and [metadata]({{ 'metadata/' | relative_url }}) as on the imagery itself.
 
@@ -322,7 +321,6 @@ AARO’s later public case resolution broadly aligned with that interpretation. 
 
 The result was striking because nothing in the visual appearance of the video itself obviously suggested a high-altitude drifting object. The illusion depended on several interacting factors:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The fighter aircraft was moving rapidly.
@@ -335,7 +333,6 @@ The result was striking because nothing in the visual appearance of the video it
 
 When those factors combine, apparent speed can become radically detached from actual speed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 ## Why screen speed misleads viewers
@@ -345,7 +342,6 @@ The GoFast clip illustrates a recurring problem in UFO video analysis: people in
 An object crossing a screen quickly is only moving quickly in angular terms. To convert that into true velocity, investigators need at least approximate range. Without distance, speed estimates become unreliable.
 
 This is why two very different scenarios can look visually similar:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -364,7 +360,6 @@ The camera system also contributed to the effect. Infrared targeting pods compre
 
 In UFO investigations, this is a major analytical hazard. Stable tracking can create the impression that the object is manoeuvring independently when much of the visible motion actually comes from the observer platform.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-2-dark.svg" | relative_url }}" alt="Go Fast Parallax illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the GoFast debate still matters
 
@@ -373,7 +368,6 @@ GoFast remains controversial in public UFO discussions partly because different 
 For sceptical analysts, the important point was that no extraordinary speed had actually been demonstrated once geometry was examined. The case became an example of successful debunking through careful reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">and categorizing unidentified anomalous phenomena...</span></span></span>
 
 For many UFO advocates, however, the clip remained significant because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -388,7 +382,6 @@ That disagreement reveals an important distinction in AI-assisted UFO investigat
 
 A video can remain unresolved at the identification level while still failing to demonstrate impossible motion, impossible acceleration or exotic propulsion. GoFast sits squarely inside that category. The available evidence did not conclusively identify the object itself, but the apparent hypersonic movement was no longer supported once parallax analysis was applied. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons and...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-3NYowlCoDc" title="GOFAST UFO Analysis (yeah no, probably just a balloon)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer">GOFAST UFO Analysis (yeah no, probably just a balloon)</a></p><p class="youtube-embed-meta">Channel: EdwardCurrent &middot; Views: 6.5K &middot; Uploaded: June 2021 &middot; Length: 4 minutes 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-3NYowlCoDc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-3NYowlCoDc">Open on YouTube</a></p></div></div></div>
 
 ## What AI-assisted analysis would do differently
@@ -396,7 +389,6 @@ A video can remain unresolved at the identification level while still failing to
 GoFast is exactly the kind of case where automated reconstruction tools can outperform unaided visual judgement.
 
 A modern AI-assisted workflow could automatically:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -427,7 +419,6 @@ Each scenario can then be scored against the available [sensor data]({{ 'sensor-
 
 This approach matches broader recommendations from NASA’s UAP study, which warned that current investigations are frequently weakened by poor sensor calibration, missing metadata and lack of multiple measurements. NASA Science Space GoFast demonstrates why those limitations matter. The clip became globally famous not because it contained definitive measurements <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</span></span></span>, but because the human visual system confidently filled in missing information that the footage itself never actually provided.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-3-dark.svg" | relative_url }}" alt="Go Fast Parallax illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting lesson from GoFast
 
@@ -439,9 +430,7 @@ That does not make the footage fraudulent or meaningless. The object was genuine
 
 For AI-assisted UFO sighting investigation, GoFast is therefore less important as evidence of exotic technology than as a case study in evidence discipline. It shows why serious analysis must reconstruct geometry before drawing conclusions from what “looks impossible”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -834,6 +823,7 @@ For AI-assisted UFO sighting investigation, GoFast is therefore less important a
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

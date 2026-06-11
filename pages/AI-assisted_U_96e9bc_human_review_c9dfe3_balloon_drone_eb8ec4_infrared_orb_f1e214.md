@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8
 
 Infrared and thermal UFO footage often looks more convincing than it really is because the imaging process strips away the very details investigators normally use to identify ordinary objects. A balloon filmed at long range through a low-resolution infrared sensor can lose its edges, surface texture, tether visibility and depth cues until it appears as a glowing orb with unusual movement. Once compression, stabilisation and [digital zoom]({{ 'digital-zoom/' | relative_url }}) are added, the result can look dramatically different from the [original]({{ 'original-evidence/' | relative_url }}) target.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-dark.svg" | relative_url }}" alt="Infrared orbs illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This creates a recurring problem in AI-assisted UFO sighting investigation. Automated [review]({{ 'review/' | relative_url }}) systems may compare a thermal “orb” against databases of prior cases and conclude that the object is anomalous because its apparent shape and motion resemble unresolved sightings. Yet the same visual conditions can also make a common balloon appear mysterious. The key investigative question is not whether the footage looks strange in isolation, but whether the remaining evidence still supports a balloon explanation after thermal distortion, environmental data and motion analysis are considered together. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaro-2024-annual-report-on-uap.13762/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">aaro 2024 annual report on uap.13762</span><span class="citation-popover-snippet">AARO 2024 Annual Report on UAP14 Nov 2024 — In many other cases, birds are commonly misidentified as UAP due to sensor artifacts...</span></span></span>
 
@@ -282,7 +281,6 @@ Infrared cameras do not record visible colour or fine surface detail in the same
 That matters because balloons naturally produce weak and inconsistent thermal signatures. A latex or metallic balloon may warm unevenly in sunlight, reflect heat from the environment, or cool rapidly against high-altitude air. Instead of showing a recognisable balloon profile, the sensor may only capture a small patch of contrasting temperature. Low-resolution infrared systems exaggerate this effect further. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC6287927/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Thermal Image Enhancement through the Deconvolution...by F Lai · 2018 · Cited by 20 — In this work, we quantitatively demonstrated th...</span></span></span>
 
 Several technical effects combine to turn ordinary objects into “orbs”:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -306,7 +304,6 @@ Computer vision systems work by identifying statistical similarities between ima
 
 A model trained on ambiguous infrared clips may learn broad patterns such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * bright orb against cold sky
@@ -325,14 +322,12 @@ This becomes especially misleading when viewers see confidence percentages attac
 
 The danger increases when analysts rely on a single sensor source. Modern infrared observatories and experimental UAP monitoring systems increasingly emphasise multi-sensor collection because a thermal orb alone often lacks enough context to separate balloons from genuinely unusual targets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">1 Introduction30 May 2025 — Scientific investigation of Unidentified Anomalous Phenomena (UAP) is limited by poor data quality and i...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-dark.svg" | relative_url }}" alt="Infrared orbs illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why balloons survive thermal ambiguity better than drones
 
 Both balloons and drones are commonly proposed explanations for infrared UFO footage, but balloons often fit degraded orb imagery more cleanly than drones do.
 
 Consumer drones usually generate additional clues:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,7 +356,6 @@ Several contradictions can weaken or overturn a balloon hypothesis:
 ### Motion inconsistent with measured wind
 
 If reliable atmospheric data shows winds moving east while the object travels rapidly north-west at multiple altitudes, the balloon explanation becomes weaker. Wind reconstruction is therefore one of the most important automated checks in a UFO workflow.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-dark.svg" | relative_url }}" alt="Infrared orbs illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_infrared_orb_f1e214-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Persistent controlled manoeuvres
@@ -793,6 +787,7 @@ That is why modern UAP investigation increasingly treats infrared orb footage as
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

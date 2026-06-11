@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 
 Bright stars are among the most common ordinary explanations for “flashing UFO” reports, especially when the object appears low above the horizon and remains visible for several minutes without clear travel across the sky. Witnesses often describe a light that pulses red, blue, green or white, seems to hover, and occasionally appears to drift or dart slightly. In many cases the object is not moving through the sky at all. The apparent motion and colour changes are created by Earth’s atmosphere, unstable viewing conditions, handheld filming, autofocus behaviour, or moving cloud layers.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-1-dark.svg" | relative_url }}" alt="Twinkling stars illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For an AI-assisted UFO sighting investigation, this is a high-value [astronomy]({{ 'astronomy/' | relative_url }}) check because it can often be tested quickly against fixed sky positions and known bright stars visible at the reported time. The explanation becomes especially strong when the object stayed in roughly the same place relative to rooftops, trees or hills for an extended period. Bright stars such as [Sirius]({{ 'sirius/' | relative_url }}), Capella, Vega and Arcturus repeatedly appear in night-time UFO reports because they are prominent, visually striking, and capable of dramatic atmospheric twinkling. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/tonight/what-star-in-the-northeast-flashes-red-and-green/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">what star in the northeast flashes red and green</span><span class="citation-popover-snippet">What star in the northeast flashes colorfully? It&#x27;s Capella!10 Oct 2025 — The bright star Capella in the constellation Auriga the...</span></span></span>
 
@@ -301,7 +300,6 @@ Astronomers call star twinkling “atmospheric [scintillation]({{ 'scintillation
 The effect becomes much stronger when a star is low in the sky because its light must travel through far more atmosphere. Near the horizon, turbulence, haze, pollution, humidity and heat gradients can make a bright star appear unusually unstable. Under poor seeing conditions, a white star may flash red, green and blue in rapid succession. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.wordpress.com/2011/10/31/sirius-scintillation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.wordpress.com">[Atmospheric Phenomena]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.wordpress.com</span><span class="citation-popover-title">sirius scintillation</span><span class="citation-popover-snippet">scintillation &#124; Atmospheric Phenomena31 Oct 2011 — The lower a star is in the sky, the more pronounced is this effect, especially at very...</span></span></span>
 
 This matters in UFO investigations because witnesses often interpret these colour changes as evidence of powered flight, structured lighting, or “signalling” behaviour. Reports sometimes describe:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -364,7 +362,6 @@ AI-assisted workflows can strengthen this check by combining witness direction e
 
 A strong astronomical match usually contains several reinforcing elements together:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The object remained visible for a long duration.
@@ -378,7 +375,6 @@ A strong astronomical match usually contains several reinforcing elements togeth
 
 By contrast, a star explanation weakens when there is verified rapid travel across the sky, abrupt directional changes against fixed references, radar correlation, or synchronized movement observed from widely separated locations.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-2-dark.svg" | relative_url }}" alt="Twinkling stars illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common bright stars in night UFO reports
 
@@ -387,7 +383,6 @@ Certain stars repeatedly appear in UFO databases because of their brightness, se
 ### Sirius
 
 Sirius is probably the single most common star involved in “flashing UFO” reports. From the UK it often sits low in the southern sky during winter, where atmospheric distortion is strongest. Witnesses frequently describe it as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -415,7 +410,6 @@ Planets can also be mistaken for UFOs, especially Venus, but they usually twinkl
 
 That distinction can help investigators. A violently flashing multicoloured object low on the horizon is often more consistent with a bright star than with a planet.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-3-dark.svg" | relative_url }}" alt="Twinkling stars illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI systems can flag likely star misidentifications
 
@@ -434,7 +428,6 @@ A useful AI-assisted process typically combines:
 The system can then compare the report against historical star positions and brightness. If the sighting aligns closely with a bright star known for heavy scintillation, the case can be tagged as a plausible astronomical explanation rather than immediately escalated as unexplained.
 
 Confidence scoring becomes important here. A system should not simply declare “it was a star”. Instead it should separate:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -857,6 +850,7 @@ In many real-world cases, the answer is not that the witness “imagined” some
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

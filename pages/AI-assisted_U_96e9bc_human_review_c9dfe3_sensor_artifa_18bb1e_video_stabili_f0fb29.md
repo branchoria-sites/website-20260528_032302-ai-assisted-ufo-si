@@ -271,14 +271,12 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18b
 
 A surprising amount of “impossible” UFO motion is created by the camera rather than the object in the sky. Modern phones, drones and military imaging systems routinely stabilise footage in real time, digitally shifting frames to reduce shake and keep the horizon steady. Combined with rolling shutter distortion, zoom, autofocus and low-light processing, that correction can make ordinary lights appear to leap sideways, stop instantly, accelerate unnaturally or hover with impossible precision.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-dark.svg" | relative_url }}" alt="False Motion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, this matters because the apparent movement in a clip may not represent the real motion of the target at all. NASA’s independent UAP study warned that many investigations are weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing [metadata]({{ 'metadata/' | relative_url }}) and limited understanding of how the imaging system itself alters footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Before analysts treat a video as evidence of extreme acceleration or exotic flight behaviour, they first need to determine whether the motion belongs to the object, the camera, or the software attempting to stabilise the shot.
 
 ## Why stabilisation shifts moving objects
 
 Image stabilisation is designed to make handheld footage look smoother. Cameras achieve this in several ways:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -297,7 +295,6 @@ A common failure mode appears during heavy zoom. Tiny hand movements become mass
 This effect is especially severe with [digital zoom]({{ 'digital-zoom/' | relative_url }}) on smartphones. Electronic stabilisation crops into the sensor and repositions the image frame-by-frame. If the software loses lock momentarily, the target can appear to dart across the sky in a single frame before snapping back into position. To a casual viewer, that movement may look like impossible acceleration.
 
 Investigators reviewing UFO footage therefore need to separate three different motion layers:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -321,7 +318,6 @@ The effect becomes more dramatic at night because there are fewer stable [refere
 
 Investigators should therefore be cautious when witnesses say a filmed object “stayed perfectly still” despite handheld filming. The stability may belong to the software correction rather than the object in the sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/q9ucxKwZmec" title="Warp Stabilizer EXPLAINED - Fix Shaky Video in Premiere Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer">Warp Stabilizer EXPLAINED - Fix Shaky Video in Premiere Pro</a></p><p class="youtube-embed-meta">Channel: Matt WhoisMatt Johnson &middot; Views: 173.6K &middot; Uploaded: June 2021 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=q9ucxKwZmec" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=q9ucxKwZmec">Open on YouTube</a></p></div></div></div>
 
 ## Rolling shutter distortions in UFO clips
@@ -331,7 +327,6 @@ Most phones and consumer cameras use CMOS sensors with a rolling shutter rather 
 If either the camera or object moves during that readout period, the frame becomes geometrically distorted.
 
 This produces several classic artefacts:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -353,7 +348,6 @@ That correction process matters because stabilisation and rolling shutter intera
 
 Under difficult conditions, the repair itself can generate false motion signatures.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PmbKPrQoaRY" title="DO YOU NEED IMAGE STABILIZATION | Can You Tell the Difference?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PmbKPrQoaRY" target="_blank" rel="noopener noreferrer">DO YOU NEED IMAGE STABILIZATION | Can You Tell the Difference?</a></p><p class="youtube-embed-meta">Channel: Tech Gear Talk &middot; Views: 55.4K &middot; Uploaded: February 2020 &middot; Length: 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PmbKPrQoaRY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PmbKPrQoaRY">Open on YouTube</a></p></div></div></div>
 
 ## The “impossible turn” problem
@@ -362,10 +356,105 @@ One recurring UFO claim involves an object apparently making an instantaneous an
 
 A typical sequence looks like this:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. The witness rapidly pans the camera trying to keep up with a distant light.
+
+2. Rolling shutter skews the object across the frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
+3. Stabilisation software attempts to smooth the motion.
+4. The correction overshoots.
+5. The object appears to abruptly change direction.
+
+</div>
+
+The resulting trajectory may look physically impossible, especially when viewed frame-by-frame.
+
+Importantly, this does not require deceptive editing. The artefact can be produced automatically inside the phone before the video is ever uploaded.
+
+This is one reason UFO investigators increasingly ask for [original files]({{ 'original-files/' | relative_url }}) rather than social media uploads. Platforms such as TikTok, X, Instagram and YouTube often apply additional compression, interpolation and stabilisation during processing. Each layer can further distort apparent movement.
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-2-dark.svg" | relative_url }}" alt="False Motion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## Why military and infrared footage are not immune
+
+People sometimes assume that military footage avoids these issues because it comes from advanced systems. In practice, stabilised targeting cameras introduce their own artefacts.
+
+Infrared tracking systems often stabilise the horizon or target independently while the sensor assembly rotates internally. This can make glare patterns or optical artefacts appear to rotate, drift or maintain impossible orientation relative to the background.
+
+Debates around the US Navy “Gimbal” footage frequently centre on this issue. Some analysts argue that the apparent rotation reflects sensor and glare behaviour inside the stabilised imaging system rather than physical rotation of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
+
+The key investigative point is not whether every sceptical interpretation is correct. It is that stabilised military footage still requires sensor analysis before motion claims can be trusted.
+
+A stabilised targeting pod is not a neutral window onto reality. It is a highly processed imaging system with its own tracking logic, correction routines and display assumptions.
+
+## Checking motion against the background
+
+One of the fastest ways to test for stabilisation artefacts is to compare the object’s movement against fixed background references.
+
+Investigators should ask:
+
+* Does the horizon remain unnaturally level during rapid camera motion?
+* Do stars or clouds shift consistently with the object?
+* Does the object move independently of frame corrections?
+* Are apparent accelerations synchronised with camera shake?
+* Does the motion persist in the unstabilised [original]({{ 'original-evidence/' | relative_url }}) footage?
+
+A useful technique is frame-by-frame background tracking. If trees, rooftops or stars move in patterns matching the “UFO manoeuvre”, the movement is probably camera-induced.
+
+This becomes especially important in AI-assisted workflows. Motion-analysis systems can mistakenly classify stabilisation artefacts as anomalous behaviour if they only track the bright target rather than the full frame context.
+
+Parallax errors can compound the problem. A distant object viewed against moving foreground references may appear to accelerate dramatically even when travelling at ordinary speed. Researchers discussing Navy UFO videos have repeatedly pointed to parallax and camera motion as major sources of misleading apparent velocity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</span></span></span>
+
+Good investigative practice therefore compares:
+
+* Raw footage versus stabilised footage
+* Target motion versus background motion
+* Multiple witness recordings if available
+* Sensor metadata versus visual interpretation
+
+The absence of original metadata is a major limitation. NASA’s UAP [review]({{ 'review/' | relative_url }}) repeatedly stressed that missing sensor information makes rigorous interpretation extremely difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-dark.svg" | relative_url }}" alt="False Motion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What AI systems should check before flagging “anomalous motion”
+
+An AI-assisted UFO investigation pipeline should treat stabilisation artefacts as a first-pass screening category rather than an afterthought.
+
+Useful automated checks include:
+
+* Detecting rolling shutter skew patterns(#endnote-2 "Endnote 2") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
+* Estimating camera shake from background features
+* Comparing object motion to gyro metadata
+* Measuring frame warping introduced by stabilisation
+* Identifying digital crop-and-shift behaviour
+* Flagging heavy zoom conditions
+* Detecting compression interpolation between frames
+
+Research into rolling shutter calibration and stabilisation already uses gyroscope data and frame geometry to reconstruct true camera motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[graphics.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">Using our algorithm, we show...Read more...</span></span></span> Similar methods can help UFO investigators estimate whether apparent manoeuvres originated in the sky or inside the imaging pipeline.
+
+The most reliable cases are usually those where:
+
+* Multiple independent cameras recorded the event
+* Motion remains consistent across viewpoints
+* Raw files and metadata are available
+* The background behaves normally
+* The object’s path survives stabilisation removal
+
+By contrast, single-source smartphone clips with aggressive digital zoom, unstable tracking and missing metadata are among the weakest forms of UFO motion evidence, even when the footage initially looks dramatic.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qbMJfIhmtz4" title="Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer">Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!</a></p><p class="youtube-embed-meta">Channel: TechZG &middot; Views: 50.0K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qbMJfIhmtz4">Open on YouTube</a></p></div></div></div>
+
+## Why this changes how UFO videos should be interpreted
+
+Many UFO clips look convincing because human perception assumes recorded video is a direct representation of reality. Modern cameras no longer work that way. Almost every stage of the imaging process involves interpretation, correction and reconstruction.
+
+That does not mean all unusual footage is fake or solved. It means that apparent “physics-defying” motion is not automatically evidence of extraordinary craft.
+
+A balanced investigation separates:
+
+* what the witness saw,
+* what the sensor recorded,
+* and what the software later reconstructed.
+
+In many cases, the most dramatic manoeuvre in the clip may belong not to the object in the sky, but to the stabilisation system trying to keep the video watchable.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -758,104 +847,6 @@ A typical sequence looks like this:
 })();
 </script>
 </section>
-2. Rolling shutter skews the object across the frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
-3. Stabilisation software attempts to smooth the motion.
-4. The correction overshoots.
-5. The object appears to abruptly change direction.
-
-</div>
-
-The resulting trajectory may look physically impossible, especially when viewed frame-by-frame.
-
-Importantly, this does not require deceptive editing. The artefact can be produced automatically inside the phone before the video is ever uploaded.
-
-This is one reason UFO investigators increasingly ask for [original files]({{ 'original-files/' | relative_url }}) rather than social media uploads. Platforms such as TikTok, X, Instagram and YouTube often apply additional compression, interpolation and stabilisation during processing. Each layer can further distort apparent movement.
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-2-dark.svg" | relative_url }}" alt="False Motion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## Why military and infrared footage are not immune
-
-People sometimes assume that military footage avoids these issues because it comes from advanced systems. In practice, stabilised targeting cameras introduce their own artefacts.
-
-Infrared tracking systems often stabilise the horizon or target independently while the sensor assembly rotates internally. This can make glare patterns or optical artefacts appear to rotate, drift or maintain impossible orientation relative to the background.
-
-Debates around the US Navy “Gimbal” footage frequently centre on this issue. Some analysts argue that the apparent rotation reflects sensor and glare behaviour inside the stabilised imaging system rather than physical rotation of the object itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/166dk0u/according_to_aaros_new_website_the_flir_gimbal/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">According to AARO&#x27;s new website, the FLIR, Gimbal and...August 31, 2023 — When the camera is rotating, the scene remains stationar...</span><span class="citation-popover-meta">Published: August 31, 2023</span></span></span>
-
-The key investigative point is not whether every sceptical interpretation is correct. It is that stabilised military footage still requires sensor analysis before motion claims can be trusted.
-
-A stabilised targeting pod is not a neutral window onto reality. It is a highly processed imaging system with its own tracking logic, correction routines and display assumptions.
-
-## Checking motion against the background
-
-One of the fastest ways to test for stabilisation artefacts is to compare the object’s movement against fixed background references.
-
-Investigators should ask:
-
-* Does the horizon remain unnaturally level during rapid camera motion?
-* Do stars or clouds shift consistently with the object?
-* Does the object move independently of frame corrections?
-* Are apparent accelerations synchronised with camera shake?
-* Does the motion persist in the unstabilised [original]({{ 'original-evidence/' | relative_url }}) footage?
-
-A useful technique is frame-by-frame background tracking. If trees, rooftops or stars move in patterns matching the “UFO manoeuvre”, the movement is probably camera-induced.
-
-This becomes especially important in AI-assisted workflows. Motion-analysis systems can mistakenly classify stabilisation artefacts as anomalous behaviour if they only track the bright target rather than the full frame context.
-
-Parallax errors can compound the problem. A distant object viewed against moving foreground references may appear to accelerate dramatically even when travelling at ordinary speed. Researchers discussing Navy UFO videos have repeatedly pointed to parallax and camera motion as major sources of misleading apparent velocity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videos&quot;A trick of the eye called parallax makes it look like the object is moving much f...</span></span></span>
-
-Good investigative practice therefore compares:
-
-* Raw footage versus stabilised footage
-* Target motion versus background motion
-* Multiple witness recordings if available
-* Sensor metadata versus visual interpretation
-
-The absence of original metadata is a major limitation. NASA’s UAP [review]({{ 'review/' | relative_url }}) repeatedly stressed that missing sensor information makes rigorous interpretation extremely difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-dark.svg" | relative_url }}" alt="False Motion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_video_stabili_f0fb29-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What AI systems should check before flagging “anomalous motion”
-
-An AI-assisted UFO investigation pipeline should treat stabilisation artefacts as a first-pass screening category rather than an afterthought.
-
-Useful automated checks include:
-
-* Detecting rolling shutter skew patterns(#endnote-2 "Endnote 2") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Rolling_shutter" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Rolling shutter</span><span class="citation-popover-snippet">Rolling shutter</span></span></span>
-* Estimating camera shake from background features
-* Comparing object motion to gyro metadata
-* Measuring frame warping introduced by stabilisation
-* Identifying digital crop-and-shift behaviour
-* Flagging heavy zoom conditions
-* Detecting compression interpolation between frames
-
-Research into rolling shutter calibration and stabilisation already uses gyroscope data and frame geometry to reconstruct true camera motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://graphics.stanford.edu/papers/stabilization/karpenko_gyro.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: graphics.stanford.edu">[graphics.stanford.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">graphics.stanford.edu</span><span class="citation-popover-snippet">Using our algorithm, we show...Read more...</span></span></span> Similar methods can help UFO investigators estimate whether apparent manoeuvres originated in the sky or inside the imaging pipeline.
-
-The most reliable cases are usually those where:
-
-* Multiple independent cameras recorded the event
-* Motion remains consistent across viewpoints
-* Raw files and metadata are available
-* The background behaves normally
-* The object’s path survives stabilisation removal
-
-By contrast, single-source smartphone clips with aggressive digital zoom, unstable tracking and missing metadata are among the weakest forms of UFO motion evidence, even when the footage initially looks dramatic.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qbMJfIhmtz4" title="Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer">Smartphone Video Stabilisation Explained - The BEST Video Stabilisation!</a></p><p class="youtube-embed-meta">Channel: TechZG &middot; Views: 50.0K &middot; Uploaded: March 2020 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qbMJfIhmtz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qbMJfIhmtz4">Open on YouTube</a></p></div></div></div>
-
-## Why this changes how UFO videos should be interpreted
-
-Many UFO clips look convincing because human perception assumes recorded video is a direct representation of reality. Modern cameras no longer work that way. Almost every stage of the imaging process involves interpretation, correction and reconstruction.
-
-That does not mean all unusual footage is fake or solved. It means that apparent “physics-defying” motion is not automatically evidence of extraordinary craft.
-
-A balanced investigation separates:
-
-* what the witness saw,
-* what the sensor recorded,
-* and what the software later reconstructed.
-
-In many cases, the most dramatic manoeuvre in the clip may belong not to the object in the sky, but to the stabilisation system trying to keep the video watchable.
 
 ## Endnotes
 

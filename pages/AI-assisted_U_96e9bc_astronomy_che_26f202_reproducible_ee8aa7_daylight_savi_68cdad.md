@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8
 
 A one-hour clock error can completely change the outcome of a UFO sky reconstruction. In many disputed sightings, the difference between “unexplained object” and “likely Venus” depends on whether the recorded time was converted correctly between local civil time and UTC. A bright planet may have already set below the horizon an hour later. A satellite flare may not yet have occurred an hour earlier. Twilight conditions, [Moon position]({{ 'moon-position/' | relative_url }}), [aircraft]({{ 'aircraft/' | relative_url }}) traffic and visible stars can all shift enough to break a proposed explanation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-dark.svg" | relative_url }}" alt="Time Errors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because UFO investigations increasingly rely on reproducible digital reconstructions using [astronomy]({{ 'astronomy/' | relative_url }}) software, satellite databases and archived environmental data. If the time basis is wrong, the entire reconstruction becomes unstable. A witness may have reported local summer time while a database stores UTC. A camera may embed one standard while an investigator assumes another. Around daylight saving transitions, the same local clock reading can even occur twice in one night. In practice, some of the strongest-looking astronomy matches in UFO investigations fail because the time conversion chain was never audited properly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
 
@@ -284,7 +283,6 @@ The risk becomes especially high because daylight saving rules are inconsistent 
 The problem is not theoretical. Astronomical and meteorological organisations explicitly separate UTC from local daylight-adjusted time because observational timing depends on precision. The U.S. Naval Observatory explains that astronomical events are routinely expressed in Universal Time, while local civil time depends on zone offsets and daylight saving adjustments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://aa.usno.navy.mil/faq/UT" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aa.usno.navy.mil">[US Naval Observatory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aa.usno.navy.mil</span><span class="citation-popover-snippet">US Naval ObservatoryUniversal TimeTimes given in UT are almost always given in terms of a 24-hour clock. Thus, 14:42 (often written simpl...</span></span></span>
 
 In UFO casework, several recurring failure modes appear repeatedly:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -313,7 +311,6 @@ This is especially dangerous during evening sightings shortly after sunset. Twil
 
 The same applies to:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Moon position and apparent size near the horizon
@@ -337,7 +334,6 @@ At the end of daylight saving time, the same local clock hour occurs twice. For 
 This creates a hidden ambiguity that many UFO databases never record properly.
 
 Consider a hypothetical case:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,7 +359,6 @@ Modern sky-map tools make reconstruction easier, but they also hide assumptions.
 
 Planetarium applications often ask users for:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * location
@@ -376,7 +371,6 @@ Planetarium applications often ask users for:
 If investigators enter UTC while the software expects local time, or enter local time while daylight saving is already applied automatically, the result can silently shift by one hour.
 
 This is one reason [reproducibility]({{ 'reproducibility/' | relative_url }}) matters so much in UFO analysis. A screenshot alone is weak evidence because another investigator cannot tell:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -391,7 +385,6 @@ Two investigators can therefore generate contradictory skies while believing the
 
 The danger increases further with AI-assisted workflows. Automated ingestion pipelines may combine witness reports, EXIF timestamps, ADS-B aircraft logs and astronomical APIs without a consistent timezone standard. If one source uses UTC and another uses local daylight time, the merged timeline may become subtly corrupted while still looking internally coherent.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-2-dark.svg" | relative_url }}" alt="Time Errors illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comparing local witness time with UTC records
 
@@ -404,7 +397,6 @@ FieldExampleWitness wording“About 22:10”Local timezoneBSTUTC equivalent21:10
 That distinction matters because many external datasets already use UTC by default.
 
 Common examples include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -460,7 +452,6 @@ Uncertainty windows are particularly valuable when:
 * phone metadata appears inconsistent
 
 AI-assisted investigation systems can automate this process by generating layered sky maps across multiple plausible time interpretations rather than assuming a single correct timestamp from the start.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-3-dark.svg" | relative_url }}" alt="Time Errors illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7_daylight_savi_68cdad-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why time mistakes can falsely strengthen or weaken a UFO claim
@@ -898,6 +889,7 @@ In UFO investigations, the most convincing reconstruction is not the most dramat
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

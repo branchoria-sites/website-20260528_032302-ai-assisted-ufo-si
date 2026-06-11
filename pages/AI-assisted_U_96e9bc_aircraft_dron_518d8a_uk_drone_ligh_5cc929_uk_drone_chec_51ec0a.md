@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5c
 
 A drone-screening checklist is one of the fastest ways to stop a UK night-time UFO report from drifting into speculation before the basic aviation questions have been tested. Since the UK Civil Aviation Authority (CAA) introduced clearer night-flight lighting requirements and phased [Remote ID]({{ 'remote-id/' | relative_url }}) rules in 2026, investigators now have more concrete indicators to work with than older UFO [case files]({{ 'case-file/' | relative_url }}) ever had. A witness who reports a low hovering object with a repeating green flash near housing, roads, parks or event sites may not be describing an unknown craft at all, but a lawful or semi-lawful drone operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category20 Apr 2026 — The person flying the drone or model aircraft (known as the rem...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category20 Apr 2026 — The person flying the drone or model aircraft (known as the rem...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-dark.svg" | relative_url }}" alt="Checklist illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The value of a structured checklist is not that it “debunks” sightings automatically. It creates consistency. It forces the investigation to test the same observable features every time: lighting, altitude, sound, motion, [weather]({{ 'weather/' | relative_url }}), location restrictions, likely operators and whether Remote ID or other local records could plausibly exist. In an AI-assisted UFO investigation workflow, drone screening belongs in the first-pass triage stage before more exotic explanations are considered.
 
@@ -284,7 +283,6 @@ A practical UK-focused checklist should capture the following before interpretat
 ### Questions to ask witnesses first
 
 **Exact time and duration**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,6 @@ This matters because many legal drone flights cluster around predictable human a
 
 **Location and surroundings**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was the object over housing, fields, industrial land, coastline, rail corridors or roads?
@@ -312,7 +309,6 @@ This matters because many legal drone flights cluster around predictable human a
 A low-altitude drone over a housing estate behaves differently from a high-altitude aircraft light seen above a coastal horizon.
 
 **Lighting description**
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -328,7 +324,6 @@ UK night-flight rules now require a flashing green light during Open Category ni
 
 **Movement and positioning**
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Did the object hover steadily?
@@ -342,7 +337,6 @@ UK night-flight rules now require a flashing green light during Open Category ni
 Consumer drones commonly hold GPS position with surprising stability. To inexperienced observers, this can appear unnatural or “intelligent”.
 
 **Sound**
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,7 +363,6 @@ The strongest drone assessments come from combinations of clues rather than sing
 ### Lighting patterns that strengthen a drone hypothesis
 
 The following combinations raise the likelihood of a drone explanation:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -438,7 +431,6 @@ By contrast, a drone explanation weakens when:
 
 The checklist should therefore include a simple geospatial pass:
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-dark.svg" | relative_url }}" alt="Checklist illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 1. map the witness position;
 2. estimate line of sight;
@@ -472,7 +464,6 @@ Remote ID should not be treated as a magic solution. Many legacy drones remain o
 ## A practical first-pass scoring approach
 
 A useful checklist does not merely collect observations. It helps investigators sort cases into operational categories.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-dark.svg" | relative_url }}" alt="Checklist illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_uk_drone_chec_51ec0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Strongly consistent with drone activity
@@ -951,6 +942,7 @@ The strongest UFO investigations are not the ones that chase mystery first. They
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_79
 
 A bright object hanging low in the western sky is one of the most common starting points for a UFO report. In many cases, the object turns out to be Venus or Jupiter seen under conditions that make a normal planet look strange: twilight glare, haze near the horizon, atmospheric shimmer, drifting cloud, or unstable zoomed phone footage. NASA’s skywatching guidance notes that Venus is “one of the most confused objects in the sky”, while Jupiter and other bright planets are also frequently reported as UFOs, especially when low on the horizon or appearing in alignment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/solar-system/skywatching/night-sky-network/identifying-ufos-and-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">identifying ufos and uaps</span><span class="citation-popover-snippet">NASA ScienceIdentifying UFOs and UAPs1 Dec 2013 — Sirius and Jupiter are also often reported as UFOs, as well as Mercury. When bright pla...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-dark.svg" | relative_url }}" alt="Bright planets illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For an AI-assisted UFO sighting investigation, this matters because a planet match is often one of the fastest ordinary explanations to test. A witness may describe a brilliant stationary light, apparent hovering, colour changes, or even apparent movement relative to nearby trees or buildings. Those details do not automatically rule out a planet. The investigation question is narrower and more practical: was Venus or Jupiter in the correct part of the sky, at the correct brightness, for the reported duration and direction?
 
@@ -320,7 +319,6 @@ Many reports specifically mention the western sky because evening observations c
 
 That timing overlaps with conditions that naturally generate misidentification:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Drivers noticing a bright light while travelling westward.
@@ -346,7 +344,6 @@ Planets drift slowly because of Earth’s rotation. Over minutes, they appear al
 
 Witnesses often describe: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[nationalarchives.gov.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">The National ArchivesUFO reportsMost of these records describe shapes, lights and flashes, which can often be explained, while others are...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * hovering,
@@ -360,7 +357,6 @@ Witnesses often describe: <span class="citation-chip-wrap"><a class="citation-ch
 Those descriptions are compatible with bright planets.
 
 The explanation weakens if the object clearly crossed large sections of sky rapidly, manoeuvred sharply against fixed stars, or changed position independently of Earth rotation.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JHeZjJgO9Ns" title="UFO Project Blue Book at National Archives Museum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer">UFO Project Blue Book at National Archives Museum</a></p><p class="youtube-embed-meta">Channel: US National Archives &middot; Views: 352.7K &middot; Uploaded: December 2019 &middot; Length: 2 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JHeZjJgO9Ns" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JHeZjJgO9Ns">Open on YouTube</a></p></div></div></div>
 
@@ -384,7 +380,6 @@ Venus can reach around magnitude -4.7, bright enough to attract attention even b
 
 This matters because witnesses often describe:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “the brightest thing in the sky”,
@@ -398,7 +393,6 @@ That wording strongly fits Venus during favourable apparitions. The American Met
 ### The apparent movement matches atmospheric distortion
 
 Low-altitude planets can appear to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -420,7 +414,6 @@ Investigators should compare raw witness claims against:
 
 Wind shear, haze and heat turbulence near the horizon can substantially distort bright planets.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-dark.svg" | relative_url }}" alt="Bright planets illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historical UFO investigations repeatedly encountered planet misidentifications
 
@@ -431,7 +424,6 @@ The U.S. Air Force’s Project [Blue Book]({{ 'blue-book/' | relative_url }}) re
 Archived Blue Book material also specifically identified Venus in a substantial number of investigated cases. One Project Blue Book archive summary attributed roughly 35 percent of one analysed group of sightings to known astronomical phenomena, with Venus alone accounting for many of those cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://upload.wikimedia.org/wikipedia/commons/2/21/Project_Blue_Book%2C_BBA-PBSR11-300.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: upload.wikimedia.org">[Wikimedia Commons]</a><span class="citation-popover" role="note"><span class="citation-popover-source">upload.wikimedia.org</span><span class="citation-popover-snippet">Wikimedia CommonsThe Project Blue Book ArchiveKnown astronomical phenomena accounted for 21 of the sightings or approximately 35 percent...</span></span></span>
 
 The important point for modern casework is not that “UFOs are always Venus”. The historical lesson is narrower:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -476,7 +468,6 @@ A Venus or Jupiter explanation becomes weak when the report includes features in
 
 Planets do not rapidly traverse the sky over seconds or minutes. If calibrated video, multiple witnesses, or astronomical references confirm substantial directional movement independent of Earth rotation, the explanation weakens sharply.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-dark.svg" | relative_url }}" alt="Bright planets illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Strong corroborating evidence from instruments
 
@@ -511,7 +502,6 @@ In practice, though, many dramatic witness descriptions soften after timeline re
 * cloud drift,
 * autofocus hunting,
 * or changing atmospheric visibility.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
 
@@ -942,6 +932,7 @@ That distinction matters because some reports survive initial astronomy screenin
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

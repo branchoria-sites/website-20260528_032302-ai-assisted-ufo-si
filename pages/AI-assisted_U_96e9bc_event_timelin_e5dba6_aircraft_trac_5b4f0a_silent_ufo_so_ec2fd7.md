@@ -271,14 +271,12 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b
 
 A “silent UFO” is often treated as stronger evidence that the object could not have been an [aircraft]({{ 'aircraft/' | relative_url }}). In practice, silence is one of the most misunderstood parts of night-time sighting reports. Light reaches an observer almost instantly, but sound travels comparatively slowly through the atmosphere. A distant aircraft can therefore be visible for many seconds before its engine noise arrives, and under some conditions the sound may be weak, delayed, redirected, or masked entirely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grc.nasa.gov/www/k-12/BGP/sound.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Speed of SoundThe speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through t...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.kontos.com">[KontoS For AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.kontos.com</span><span class="citation-popover-snippet">OF SOUND IN AIRAt sea level, at a temperature of 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second, or ab...</span></span></span>, this matters because witnesses frequently anchor their interpretation around a sentence like “there was no sound at all”. A structured timeline check can test whether an aircraft’s expected audio profile actually matches the report once distance, altitude, wind, terrain, and background noise are considered. In many cases, the delayed rumble of a jet arriving after the visual event is one of the strongest clues that the object was conventional aviation rather than an unexplained craft.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1-dark.svg" | relative_url }}" alt="Sound Delays illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How sound lags behind distant aircraft
 
 The core physics is simple. Under typical conditions, sound in air travels at roughly 340 metres per second, although temperature and altitude change the exact figure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.grc.nasa.gov/www/k-12/BGP/sound.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: grc.nasa.gov">[GRC NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">grc.nasa.gov</span><span class="citation-popover-snippet">Speed of SoundThe speed of sound in the atmosphere is a constant that depends on the altitude, but an aircraft can move through t...</span></span></span> KontoS Light effectively arrives instantly at everyday viewing distances <span class="citation-chip-wrap"><a class="citation-chip" href="https://ftp.kontos.com/4sF/544/free_rlqsj1_speed_of_sound_in_air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ftp.kontos.com">[ftp.kontos.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ftp.kontos.com</span><span class="citation-popover-snippet">OF SOUND IN AIRAt sea level, at a temperature of 20°C (68°F), the speed of sound in dry air is approximately 343 meters per second, or ab...</span></span></span>, so a witness always sees the aircraft before hearing it.
 
 That delay becomes surprisingly large over aviation distances:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -289,7 +287,6 @@ That delay becomes surprisingly large over aviation distances:
 </div>
 
 Witnesses rarely estimate distance accurately at night. A bright landing light pointed directly at an observer can appear much closer than it really is. In UFO reports, this often creates a misleading sequence:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -329,7 +326,6 @@ Silence in witness testimony also depends on what the observer notices, not mere
 
 Urban environments contain constant masking noise:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Road traffic
@@ -346,12 +342,10 @@ Aircraft sound may therefore fall below attention threshold even when technicall
 
 This becomes even more important during emotionally surprising events. Witnesses concentrating on an unusual light can temporarily filter out weak ambient sounds. Investigators should therefore treat “silent” as a subjective description rather than a precise acoustic measurement.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-2-dark.svg" | relative_url }}" alt="Sound Delays illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### High altitude and engine direction
 
 Modern aircraft are quieter than many witnesses expect, particularly at cruising altitude. Engine placement and flight direction also matter:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -368,7 +362,6 @@ A common mistake in UFO discussions is assuming that a visible aircraft must sou
 The useful investigative question is not “was there sound?” but “did the timing and character of the sound fit a known aircraft path?”
 
 This is where AI-assisted timeline reconstruction becomes valuable.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKrW0aoB_6w" title="ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer">ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 47.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKrW0aoB_6w">Open on YouTube</a></p></div></div></div>
 
@@ -390,7 +383,6 @@ Public ADS-B systems broadcast aircraft position, altitude, heading, and speed a
 
 Once approximate range is known, the system can calculate expected sound arrival windows. If a witness reports hearing a delayed roar 20 to 40 seconds after the light passed overhead, and a tracked aircraft at 8–12 km range would produce exactly that lag, the “silent UFO” interpretation weakens considerably.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-3-dark.svg" | relative_url }}" alt="Sound Delays illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a_silent_ufo_so_ec2fd7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Comparing witness timelines against aircraft motion
 
@@ -403,7 +395,6 @@ This layered approach is more reliable than simply checking whether any aircraft
 ### Audio evidence from phones and doorbell cameras
 
 Modern investigations increasingly include passive audio evidence from:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -426,7 +417,6 @@ Silence can still matter in a UFO case, but only when combined with carefully ve
 A genuinely nearby low-altitude object showing bright illumination, rapid manoeuvres, and complete absence of expected acoustic signature deserves more scrutiny than a distant night-time light observed for under a minute. The problem is that many witness reports do not establish distance reliably enough to make silence decisive.
 
 In practice, investigators frequently encounter three overlapping errors:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -831,6 +821,7 @@ Within AI-assisted UFO investigation systems, sound-delay analysis works best as
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

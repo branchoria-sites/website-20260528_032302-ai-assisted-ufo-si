@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b6
 
 Haze is one of the most common reasons ordinary [aircraft]({{ 'aircraft/' | relative_url }}) lights are reported as unusual aerial objects. Moisture, smoke, dust, pollution, and fine airborne particles scatter light and reduce contrast, especially near the horizon. In UFO investigations, that matters because witnesses usually estimate an object's speed, size, altitude, and behaviour from visual appearance alone. When haze alters those visual cues, a distant aircraft can appear stationary, enormous, shape-shifting, or physically impossible.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1-dark.svg" | relative_url }}" alt="Haze Effects illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This effect is well known in aviation safety research. Pilot training material from the FAA and other flight-safety organisations repeatedly warns that atmospheric haze makes objects appear farther away and higher than they really are. CAU <span class="citation-chip-wrap"><a class="citation-chip" href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learntoflyblog.com">[Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learntoflyblog.com</span><span class="citation-popover-snippet">Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — Atmospheric haze can create an illusion of being at a greate...</span></span></span> In a UFO context, the same illusion can make a conventional aircraft look unlike any familiar aircraft at all. AI-assisted sighting analysis therefore treats haze as a measurable evidence layer rather than a vague [weather]({{ 'weather/' | relative_url }}) condition.
 
@@ -288,7 +287,6 @@ The core problem is that human depth perception depends heavily on contrast and 
 When airborne particles scatter incoming light, distant objects lose sharp edges and appear washed out. The brain interprets that loss of clarity as greater distance. Aviation training literature specifically notes that haze creates “an illusion of being at a greater distance”. CAU <span class="citation-chip-wrap"><a class="citation-chip" href="https://learntoflyblog.com/human-factors-optical-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: learntoflyblog.com">[Learn To Fly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">learntoflyblog.com</span><span class="citation-popover-snippet">Learn To FlyHuman Factors: Optical Illusions - Learn to Fly Blog7 Aug 2017 — Atmospheric haze can create an illusion of being at a greate...</span></span></span> Witnesses who believe an aircraft is far farther away than it really is may then misjudge its speed, altitude, or physical scale.
 
 This creates several recurring UFO-report patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -312,7 +310,6 @@ Haze does not simply dim lights. It scatters them.
 
 Tiny water droplets and aerosol particles spread light outward, producing halos, glow effects, and blurred edges. A single aircraft landing light can therefore appear as:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * A glowing disc
@@ -328,7 +325,6 @@ At night, the effect becomes much stronger because the surrounding sky provides 
 
 The effect is amplified when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Humidity is high
@@ -343,7 +339,6 @@ The horizon is particularly deceptive because the observer is looking through fa
 
 This helps explain reports where witnesses describe a “structured craft” that later resolves into ordinary air traffic once it climbs higher or approaches closer. The apparent structure may come from overlapping navigation lights diffused through haze rather than from a physical solid outline.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RsxaBUdrgBs" title="Physiology of Flight: Spatial Disorientation, Part 2" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RsxaBUdrgBs" target="_blank" rel="noopener noreferrer">Physiology of Flight: Spatial Disorientation, Part 2</a></p><p class="youtube-embed-meta">Channel: PublicResourceOrg &middot; Views: 9.3K &middot; Uploaded: June 2010 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RsxaBUdrgBs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RsxaBUdrgBs">Open on YouTube</a></p></div></div></div>
 
 ## Colour shifts and pulsing lights near the horizon
@@ -353,7 +348,6 @@ Many UFO reports describe lights changing colour rapidly between red, orange, wh
 Near the horizon, incoming light travels through thicker air filled with moisture, aerosols, heat gradients, and turbulence. These layers refract and scatter different wavelengths unevenly. Aircraft lights therefore appear unstable and may flicker or pulse.
 
 Common misinterpretations include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,7 +364,6 @@ Several aviation and night-flight illusion studies note that reduced visual refe
 
 A particularly common pattern involves aircraft emerging gradually from haze. Initially, only a single diffuse light is visible. As the aircraft gets closer, additional lights become visible one by one. Witnesses may interpret this as a transforming object rather than a conventional aircraft becoming easier to resolve.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Zmux_WJ3Bcc" title="How Runway Illusions affect pilot’s perception | SIMPLY explained." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Zmux_WJ3Bcc" target="_blank" rel="noopener noreferrer">How Runway Illusions affect pilot’s perception | SIMPLY explained.</a></p><p class="youtube-embed-meta">Channel: flight-club &middot; Views: 43.4K &middot; Uploaded: February 2023 &middot; Length: 2 minutes 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Zmux_WJ3Bcc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Zmux_WJ3Bcc">Open on YouTube</a></p></div></div></div>
 
 ## Why haze can make aircraft seem silent
@@ -380,7 +373,6 @@ Witnesses frequently report glowing objects with no audible engine noise. Haze i
 Distance estimation errors are again central. If haze causes a witness to believe an aircraft is much farther away than it really is, the expected sound level becomes mismatched with what they hear. A nearby aircraft may seem “too quiet”, while a distant aircraft may seem “impossibly loud”.
 
 Modern aircraft also complicate perception because: <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/sites/default/files/bookshelf/177.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Visual Illusions AwarenessEntering a fog layer also creates the perception of a pitch up, thus inducing a tendency to push over and place...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -393,14 +385,12 @@ Modern aircraft also complicate perception because: <span class="citation-chip-w
 
 This combination often produces reports of low, hovering lights with little apparent noise, especially during humid evenings or smoky conditions after sunset.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-2-dark.svg" | relative_url }}" alt="Haze Effects illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The “hovering UFO” effect during aircraft approach
 
 One of the most persistent haze-related UFO misidentifications involves aircraft approaching directly toward an observer.
 
 When an aircraft flies nearly head-on:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -424,7 +414,6 @@ Then, once the aircraft turns or passes laterally, the apparent motion changes d
 In reality, the object was moving continuously the entire time. The perceived “burst” comes from changing [geometry]({{ 'geometry/' | relative_url }}) and restored motion cues.
 
 This effect becomes stronger at night over dark terrain, coastlines, or open countryside where few visual references exist. Flight-safety literature describes comparable “black hole” and low-reference illusions affecting pilots themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">Flight Safety Foundation FSF ALAR Briefing Note 5.3 -- Visual Illusions</span><span class="citation-popover-snippet">Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — The absence of visual references in the pilot&#x27;s nea...</span><span class="citation-popover-meta">Published: March 2, 2005</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://flightsafety.org/wp-content/uploads/2016/09/alar_bn5-3-illusions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightsafety.org">[Flight Safety Foundation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightsafety.org</span><span class="citation-popover-title">Flight Safety Foundation FSF ALAR Briefing Note 5.3 -- Visual Illusions</span><span class="citation-popover-snippet">Flight Safety FoundationFSF ALAR Briefing Note 5.3 -- Visual IllusionsMarch 2, 2005 — The absence of visual references in the pilot&#x27;s nea...</span><span class="citation-popover-meta">Published: March 2, 2005</span></span></span> Ground observers can experience similar perceptual distortions.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-3-dark.svg" | relative_url }}" alt="Haze Effects illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_haze_aircraft_500149-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Testing haze conditions in AI sighting timelines
@@ -453,7 +442,6 @@ For example:
 5. The “hover” disappears once the aircraft banks during final approach.
 
 That does not automatically prove every sighting is misidentification. Some reports still contain inconsistencies after atmospheric checks. However, haze analysis often explains why witnesses sincerely report extraordinary motion, shape, colour, or behaviour even when the source object was conventional.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/txS1xtj_oqc" title="Why Planes Look So Fast From a Hot Air Balloon! 😳✈️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=txS1xtj_oqc" target="_blank" rel="noopener noreferrer">Why Planes Look So Fast From a Hot Air Balloon! 😳✈️</a></p><p class="youtube-embed-meta">Channel: Gulbahar Technical &middot; Views: 27.0M &middot; Uploaded: October 2025 &middot; Length: 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=txS1xtj_oqc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=txS1xtj_oqc">Open on YouTube</a></p></div></div></div>
 
@@ -871,6 +859,7 @@ In many cases, the result is not that witnesses “imagined” something. It is 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18b
 
 Triangle-shaped “UFOs” filmed at night often look persuasive because the [geometry]({{ 'geometry/' | relative_url }}) appears too precise to be random blur. In many cases, however, the triangle is not the object in the sky at all. It is the shape of the camera’s own aperture being projected onto an out-of-focus light source. When autofocus struggles in darkness, distant [aircraft]({{ 'aircraft/' | relative_url }}) lights, stars or planets can turn into glowing pyramids, diamonds or polygons that appear structured and artificial.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-dark.svg" | relative_url }}" alt="Focus Blur illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because modern case analysis increasingly depends on smartphone clips, zoomed digital footage and automated image review. If investigators do not first determine whether a camera was out of focus, both humans and AI systems can mistake a common optical artefact for a structured craft. NASA’s UAP study warned that poor sensor [calibration]({{ 'calibration/' | relative_url }}) and missing [metadata]({{ 'metadata/' | relative_url }}) already hamper reliable analysis of unusual aerial reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
@@ -315,7 +314,6 @@ That same principle can unintentionally create “pyramid UFOs”.
 
 The geometry can look especially convincing because:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The shape stays consistent across multiple lights
@@ -327,7 +325,6 @@ The geometry can look especially convincing because:
 </div>
 
 In heavily compressed social-media clips, these artefacts can survive long after the [original]({{ 'original-evidence/' | relative_url }}) optical information has been lost.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iTvm_xDVaDI" title="Pentagon confirms UFO video is real, taken by Navy pilot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iTvm_xDVaDI" target="_blank" rel="noopener noreferrer">Pentagon confirms UFO video is real, taken by Navy pilot</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 1.9M &middot; Uploaded: April 2021 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iTvm_xDVaDI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iTvm_xDVaDI">Open on YouTube</a></p></div></div></div>
 
@@ -362,12 +359,10 @@ In many clips, the object changes shape as autofocus hunts. A triangle may brief
 
 That behaviour strongly suggests an optical origin.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-dark.svg" | relative_url }}" alt="Focus Blur illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Recreate the effect experimentally
 
 One of the strongest investigative methods is controlled recreation. Investigators can:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -385,7 +380,6 @@ If the same pyramid effect appears under controlled conditions, the case for an 
 
 Modern smartphones continuously adjust:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * ISO sensitivity
@@ -398,7 +392,6 @@ Modern smartphones continuously adjust:
 
 Without original metadata, investigators may only see the processed final image rather than the true optical behaviour. NASA’s UAP [review]({{ 'review/' | relative_url }}) repeatedly stressed that missing metadata weakens reliable interpretation of unusual footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-r2oaQWmqkk" title="&quot;Pyramid UFO&quot; - NEW FOOTAGE. It&#x27;s Just Bokeh, not a Pyramid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-r2oaQWmqkk" target="_blank" rel="noopener noreferrer">&quot;Pyramid UFO&quot; - NEW FOOTAGE. It&#x27;s Just Bokeh, not a Pyramid</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 433.2K &middot; Uploaded: April 2021 &middot; Length: 4 minutes 18 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-r2oaQWmqkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-r2oaQWmqkk">Open on YouTube</a></p></div></div></div>
 
 ## Why smartphones are especially vulnerable
@@ -406,7 +399,6 @@ Without original metadata, investigators may only see the processed final image 
 Older UFO photographs often involved film cameras or dedicated optics. Modern reports increasingly come from phones designed to produce attractive consumer images rather than scientifically stable measurements.
 
 Smartphone cameras combine:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -425,7 +417,6 @@ Some newer AI photography systems can also hallucinate detail during enhancement
 
 For UFO investigation workflows, this means the original file matters enormously. Screen recordings, reposted clips and compressed uploads can destroy the evidence needed to identify autofocus artefacts.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-dark.svg" | relative_url }}" alt="Focus Blur illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_autofocus_tri_004de3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI systems can misclassify triangle artefacts
 
@@ -434,7 +425,6 @@ Machine-learning systems trained on visual anomalies can accidentally learn the 
 If a training set contains many labelled “triangle UFO” examples without accounting for optics, the model may begin detecting aperture artefacts rather than unusual aerial vehicles. Research into computer vision and bokeh effects has shown that out-of-focus rendering can significantly affect recognition systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2111.12971" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Natural &amp; Adversarial Bokeh Rendering via Circle-of-Confusion Predictive NetworkNovember 25, 2021...</span><span class="citation-popover-meta">Published: November 25, 2021</span></span></span>
 
 A robust AI-assisted UFO workflow should therefore include optical screening stages before anomaly scoring. Useful automated checks include:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -448,7 +438,6 @@ A robust AI-assisted UFO workflow should therefore include optical screening sta
 </div>
 
 In practice, this means the system first asks: “Could the camera have created this shape?” before escalating the clip as genuinely anomalous.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/vuSeV0N2QRw" title="Aperture - BOKEH and out of focus blur - Episode 4.3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=vuSeV0N2QRw" target="_blank" rel="noopener noreferrer">Aperture - BOKEH and out of focus blur - Episode 4.3</a></p><p class="youtube-embed-meta">Channel: The Science of Photography &middot; Views: 2.1K &middot; Uploaded: July 2017 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=vuSeV0N2QRw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=vuSeV0N2QRw">Open on YouTube</a></p></div></div></div>
 
@@ -859,6 +848,7 @@ In AI-assisted UFO investigation, autofocus artefacts are therefore not merely p
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

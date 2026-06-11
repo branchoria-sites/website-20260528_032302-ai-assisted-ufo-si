@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_78
 
 A witness saying “it looked like a triangle” or “it was an orb” is not useless information, but it is weak information on its own. In AI-assisted UFO sighting investigation, shape words become genuinely valuable only when they are tied to reliable metadata: exact time, location, viewing direction, weather conditions, [astronomy]({{ 'astronomy/' | relative_url }}) context, [aircraft]({{ 'aircraft/' | relative_url }}) traffic, sensor settings, and the distinction between what the witness directly observed versus what they later inferred. NASA’s 2023 UAP study repeatedly stressed that the biggest obstacle to meaningful analysis is not a shortage of reports, but a shortage of “well-characterized” data with calibrated metadata and consistent observational standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-dark.svg" | relative_url }}" alt="Better metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because AI systems are extremely sensitive to poor labelling. A database full of loosely tagged “orbs” or “triangles” can produce misleading similarity matches, false clusters, and self-reinforcing narratives. A [metadata]({{ 'metadata/' | relative_url }})-first approach changes the question from “What shape did the witness choose?” to “What was actually happening in the sky, from where, under what conditions, and with what evidence quality?” NASA-style metadata standards are therefore less about bureaucracy and more about preventing AI from treating subjective wording as physical fact.
 
@@ -280,7 +279,6 @@ That matters because AI systems are extremely sensitive to poor labelling. A dat
 Many UFO databases still inherit habits from older catalogue systems that grouped cases by broad visual categories such as “disk”, “cigar”, “triangle”, or “light”. Those labels were useful for filing paper reports, but they are dangerous inputs for machine-learning systems because they compress very different phenomena into the same searchable category.
 
 An AI model trained on raw witness text may interpret these as equivalent:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -325,7 +323,6 @@ The most important metadata fields are often the least dramatic ones. In practic
 
 A timestamp accurate to the minute can immediately trigger automated checks against:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Satellite databases
@@ -343,13 +340,11 @@ A witness may describe “a silver disk”, but if the timestamp aligns with a d
 
 NASA’s UAP report repeatedly emphasised the importance of multiple measurements and contextual environmental data rather than isolated visual impressions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rvBe_GWgRR4" title="NASA Earthdata Webinar: Implementing ISO 19115 Standards: NASA Earth Science Data" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rvBe_GWgRR4" target="_blank" rel="noopener noreferrer">NASA Earthdata Webinar: Implementing ISO 19115 Standards: NASA Earth Science Data</a></p><p class="youtube-embed-meta">Channel: NASA Earthdata &middot; Views: 1.5K &middot; Uploaded: March 2015 &middot; Length: 1 hour 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rvBe_GWgRR4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rvBe_GWgRR4">Open on YouTube</a></p></div></div></div>
 
 ### Camera metadata can expose false morphology
 
 [Phone cameras]({{ 'phone-cameras/' | relative_url }}) frequently transform ordinary lights into misleading shapes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -368,7 +363,6 @@ EXIF metadata can reveal exposure time, focal length, ISO settings, software edi
 Atmospheric conditions radically affect perceived shape and motion.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,7 +388,6 @@ A robust UFO intake form should separate:
 
 These are things the witness actually perceived:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “Three lights”
@@ -408,7 +401,6 @@ These are things the witness actually perceived:
 ### Inferred conclusions
 
 These are interpretations layered onto the observation:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -425,7 +417,6 @@ This distinction matters enormously for AI training data. If inferred conclusion
 For example, a witness seeing three lights may infer a triangular craft connecting them. Another witness may report the same visual arrangement but describe only separate lights. Shape-only clustering would separate those cases even though the raw observations are similar.
 
 NASA’s UAP approach consistently frames the issue as a data-characterisation problem rather than a belief problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span> The aim is not to dismiss witnesses, but to preserve the difference between perception and interpretation so later analysis remains scientifically useful.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-dark.svg" | relative_url }}" alt="Better metadata illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## A practical metadata structure for UFO case files
@@ -448,7 +439,6 @@ Typical fields include:
 * Duration
 * Estimated distance confidence
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LLrb8XsOJkI" title="No evidence that &#x27;UAP are extraterrestrial in origin,&#x27; NASA independent study team says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LLrb8XsOJkI" target="_blank" rel="noopener noreferrer">No evidence that &#x27;UAP are extraterrestrial in origin,&#x27; NASA independent study team says</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 9.6K &middot; Uploaded: September 2023 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LLrb8XsOJkI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LLrb8XsOJkI">Open on YouTube</a></p></div></div></div>
 
 ### Environmental metadata
@@ -464,7 +454,6 @@ Typical fields include:
 * Moon phase
 * Nearby storms
 * Light pollution level
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-dark.svg" | relative_url }}" alt="Better metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_ufo_shape_met_af7c4e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Sensor metadata
@@ -500,7 +489,6 @@ The key principle is that the AI should know which fields are measurements, whic
 NASA and Earth-science metadata systems place heavy emphasis on provenance: where the data came from, how it was modified, and whether it can be trusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eos.org/opinions/the-importance-of-data-set-provenance-for-science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eos.org">[EOS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eos.org</span><span class="citation-popover-title">The Importance of Data Set Provenance for Science</span><span class="citation-popover-snippet">The Importance of Data Set Provenance for Science - Eos.org4 Dec 2015 — The PCCS matrix details the content required to describe prove...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/about/esdis/esco/standards-practices/iso-19115-geographic-metadata-information" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[NASA Earthdata]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-snippet">NASA EarthdataISO 19115 Geographic Metadata InformationThe current document, ISO 19115 Geographic Metadata Standard - Implementation Requ...</span></span></span>
 
 That principle is increasingly important for UFO investigation because modern media passes through multiple unstable stages:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iAVQOL8g6iQ" title="NASA holds news brief on Unidentified Anomalous Phenomena (UAP) Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer">NASA holds news brief on Unidentified Anomalous Phenomena (UAP) Independent Study Report</a></p><p class="youtube-embed-meta">Channel: Yahoo Finance &middot; Views: 8.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iAVQOL8g6iQ">Open on YouTube</a></p></div></div></div>
 
@@ -937,6 +925,7 @@ For AI-assisted UFO investigation, that shift is essential. A system trained mai
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

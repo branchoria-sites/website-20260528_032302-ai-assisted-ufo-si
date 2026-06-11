@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_20
 
 A layered timeline is one of the simplest ways to stop a UFO or UAP investigation drifting into confusion, hindsight, or selective storytelling. Instead of treating a sighting as one uninterrupted narrative, the [case file]({{ 'case-file/' | relative_url }}) separates what was claimed, what was recorded, what external systems show, and how candidate explanations change as new evidence appears. The result is not a verdict machine. It is a test structure.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-1-dark.svg" | relative_url }}" alt="Layered timeline illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In practical terms, a layered timeline keeps the witness account, camera metadata, [aircraft]({{ 'aircraft/' | relative_url }}) activity, satellite passes, weather conditions, and later analytical judgements on the same clock. That matters because many apparent mysteries depend on timing errors, memory shifts, missing metadata, or explanations that only fit part of the event. NASA’s 2023 UAP study argued that serious analysis depends on calibrated observations, multiple measurements, and reliable metadata rather than isolated anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
@@ -371,7 +370,6 @@ This is where AI tools become genuinely useful. Automated frame alignment, motio
 
 Otherwise the reconstruction risks becoming opaque automation rather than transparent analysis.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1Mwerc27a8Q" title="ADS-B Call Sign Mismatch – Summer Safety Series Webinar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1Mwerc27a8Q" target="_blank" rel="noopener noreferrer">ADS-B Call Sign Mismatch – Summer Safety Series Webinar</a></p><p class="youtube-embed-meta">Channel: Federal Aviation Administration &middot; Views: 1.7K &middot; Uploaded: August 2021 &middot; Length: 35 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1Mwerc27a8Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1Mwerc27a8Q">Open on YouTube</a></p></div></div></div>
 
 ### The sky layer tests ordinary aerial explanations
@@ -435,7 +433,6 @@ This layer should include:
 
 A good reconstruction often shows that the “strange behaviour” happened during environmental transitions rather than during stable viewing conditions.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-2-dark.svg" | relative_url }}" alt="Layered timeline illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What changes an explanation from plausible to weak
 
@@ -466,14 +463,12 @@ That distinction protects investigations from two common failures:
 
 The timeline therefore becomes a record of analytical discipline rather than merely a chronology.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-3-dark.svg" | relative_url }}" alt="Layered timeline illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_layered_expla_2029a5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why unresolved does not mean extraordinary
 
 One of the most important governance rules in AI-assisted UFO analysis is separating “unresolved” from “unexplained”.
 
 A sighting can remain unresolved for many ordinary reasons:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -494,7 +489,6 @@ A layered timeline makes this limitation visible instead of hiding it.
 
 For example, an object may remain unidentified because:
 
-
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
 * The witness time estimate has a ten-minute uncertainty window
@@ -510,7 +504,6 @@ In that situation, “unresolved” may simply mean the evidence ceiling was too
 This distinction is especially important in public-facing investigations because unresolved cases tend to attract retrospective exaggeration. Once a sighting acquires a reputation as a “true mystery”, later audiences often forget which parts were genuinely anomalous and which parts were merely undocumented.
 
 The layered timeline counters this drift by preserving the exact point where certainty stopped.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
 
@@ -953,6 +946,7 @@ For AI-assisted UFO sighting investigation, that may be the most important outco
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f
 
 AI-assisted UFO investigation becomes far more effective when the system can compare a new sighting against a large library of already solved [balloon cases]({{ 'balloon-cases/' | relative_url }}). Instead of treating every glowing orb, reflective object, or drifting light as unique, the software can ask a more practical question: does this report resemble earlier incidents that were ultimately explained by [weather]({{ 'weather/' | relative_url }}) balloons, hobby balloons, advertising balloons, research payloads, or drifting foil objects?
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-1-dark.svg" | relative_url }}" alt="Case libraries illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That comparison process matters because balloons repeatedly generate features that witnesses describe as anomalous. They can appear stationary, suddenly brighten, shift shape, seem to reverse direction, or produce strange infrared signatures depending on altitude, lighting, wind layers, and camera zoom. Public assessments released by the US All-domain Anomaly Resolution Office (AARO) explicitly reference this pattern, noting “morphological consistency” with earlier balloon imagery and motion “aligning with” wind-driven lighter-than-air behaviour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery featuring balloons...</span></span></span>
 
@@ -319,7 +318,6 @@ This is why upper-air data remain operationally important in meteorology. Radios
 
 A comparison engine can therefore test several questions automatically:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Did the object’s path align with wind layers?
@@ -331,7 +329,6 @@ A comparison engine can therefore test several questions automatically:
 
 These checks help prevent investigators from relying purely on visual impressions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/i4kXg19l6Pc" title="How NOAA Uses Weather Balloons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=i4kXg19l6Pc" target="_blank" rel="noopener noreferrer">How NOAA Uses Weather Balloons</a></p><p class="youtube-embed-meta">Channel: Smithsonian National Air and Space Museum &middot; Views: 1.6K &middot; Uploaded: December 2021 &middot; Length: 2 minutes 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=i4kXg19l6Pc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=i4kXg19l6Pc">Open on YouTube</a></p></div></div></div>
 
 ### Shape and morphology
@@ -341,7 +338,6 @@ Balloons are deceptively variable in appearance. Depending on inflation level, v
 AARO’s released assessments repeatedly emphasise shape similarity when identifying probable balloons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Case-Resolution-Reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Case Resolution ReportsOfficial UAP Imagery... This reconstruction also demonstrates that the objects traveled in a straight line at...</span></span></span>
 
 For an AI system, morphology becomes more useful when paired with contextual metadata. A silver sphere photographed near sunset may visually resemble multiple unrelated objects. But if similar archived balloon cases also showed:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -356,7 +352,6 @@ the combined similarity score becomes much more informative.
 
 Well-designed libraries therefore store both raw imagery and extracted visual features such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * contour stability,
@@ -369,7 +364,6 @@ Well-designed libraries therefore store both raw imagery and extracted visual fe
 </div>
 
 This allows the system to compare behaviour rather than only appearance.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-2-dark.svg" | relative_url }}" alt="Case libraries illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Illumination behaviour
@@ -388,7 +382,6 @@ Balloons also generate repeatable visibility timelines. A passive object driftin
 
 A comparison system can therefore test whether a sighting’s duration resembles earlier solved cases. For example:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * short-duration daylight glints,
@@ -399,7 +392,6 @@ A comparison system can therefore test whether a sighting’s duration resembles
 </div>
 
 These patterns become stronger evidence when repeated across hundreds or thousands of labelled examples.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/PlRp63tAC-M" title="How Weather Balloons Work and Why They&#x27;re So Crucial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=PlRp63tAC-M" target="_blank" rel="noopener noreferrer">How Weather Balloons Work and Why They&#x27;re So Crucial</a></p><p class="youtube-embed-meta">Channel: WPRI &middot; Views: 9.2K &middot; Uploaded: July 2017 &middot; Length: 2 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=PlRp63tAC-M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=PlRp63tAC-M">Open on YouTube</a></p></div></div></div>
 
@@ -417,7 +409,6 @@ This structure allows machine-learning systems to compare reports quantitatively
 
 The strongest libraries also preserve uncertainty instead of forcing binary outcomes. A case may be tagged as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * confirmed balloon,
@@ -430,7 +421,6 @@ The strongest libraries also preserve uncertainty instead of forcing binary outc
 
 That distinction matters because overstating certainty contaminates future comparisons. If weakly evidenced cases are incorrectly labelled as solved, the system may start treating genuinely unusual reports as ordinary by default.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-3-dark.svg" | relative_url }}" alt="Case libraries illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_balloon_case_d5f077_balloon_case_786dfa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using matches without overstating certainty
 
@@ -441,7 +431,6 @@ This distinction is important because some UFO investigations have historically 
 Modern AI-assisted workflows can reduce that problem by exposing the underlying reasoning instead of presenting a single opaque verdict.
 
 A transparent comparison system might report:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -458,7 +447,6 @@ AARO’s public language reflects this graded approach. Its statements commonly 
 
 That style is important for public trust. Balloon libraries are most useful when they accelerate elimination of ordinary explanations without turning into a reflexive dismissal mechanism.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pcLkkoR2LS4" title="Weather Balloons and Radiosondes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer">Weather Balloons and Radiosondes</a></p><p class="youtube-embed-meta">Channel: CoCoRaHS HQ &middot; Views: 92.3K &middot; Uploaded: April 2018 &middot; Length: 3 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pcLkkoR2LS4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pcLkkoR2LS4">Open on YouTube</a></p></div></div></div>
 
 ## Why balloon libraries improve investigation speed
@@ -470,6 +458,18 @@ Without automated comparison, investigators may spend hours manually checking wi
 A modern workflow can:
 
 1. Ingest a witness report.
+
+2. Pull historical upper-air weather data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceUpper-air Observations ProgramRadiosondes provide upper-air data that are essential for weather forecasts, resear...</span></span></span>
+3. Compare the motion against archived balloon trajectories.
+4. Analyse image morphology against known balloon footage.
+5. Score similarity across previous solved incidents.
+6. Flag the case for rapid mundane explanation [review]({{ 'review/' | relative_url }}).
+
+This does not eliminate human investigation. Instead, it prioritises investigator attention.
+
+Cases with extremely strong balloon similarity can move quickly into likely-explained review queues. Cases that resist comparison despite complete environmental checks can receive deeper analysis.
+
+That distinction is central to AI-assisted UFO investigation. The goal is not to force every report into a mundane category. The goal is to identify ordinary explanations efficiently enough that genuinely difficult cases become easier to isolate and study.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -862,17 +862,6 @@ A modern workflow can:
 })();
 </script>
 </section>
-2. Pull historical upper-air weather data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/upperair/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">National Weather ServiceUpper-air Observations ProgramRadiosondes provide upper-air data that are essential for weather forecasts, resear...</span></span></span>
-3. Compare the motion against archived balloon trajectories.
-4. Analyse image morphology against known balloon footage.
-5. Score similarity across previous solved incidents.
-6. Flag the case for rapid mundane explanation [review]({{ 'review/' | relative_url }}).
-
-This does not eliminate human investigation. Instead, it prioritises investigator attention.
-
-Cases with extremely strong balloon similarity can move quickly into likely-explained review queues. Cases that resist comparison despite complete environmental checks can receive deeper analysis.
-
-That distinction is central to AI-assisted UFO investigation. The goal is not to force every report into a mundane category. The goal is to identify ordinary explanations efficiently enough that genuinely difficult cases become easier to isolate and study.
 
 ## Endnotes
 

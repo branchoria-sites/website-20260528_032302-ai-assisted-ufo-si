@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_42
 
 A surprising number of UFO reports depend on one hidden assumption: that the object stayed visible the whole time. In practice, hills, rooflines, tree cover and cloud layers can make ordinary [aircraft]({{ 'aircraft/' | relative_url }}), satellites, drones or astronomical objects appear to jump, stop, drop vertically or vanish outright. Sightline testing asks a simple question that often changes the entire case: could the witness actually see the object continuously from that location?
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-1-dark.svg" | relative_url }}" alt="Sightlines illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is where bearing and [elevation]({{ 'elevation/' | relative_url }}) checks become genuinely investigative rather than descriptive. Once a witness position, viewing direction and rough angle above the horizon are known, AI-assisted workflows can test the line of sight against terrain models, skyline profiles, [weather data]({{ 'weather-data/' | relative_url }}) and cloud cover. The result is often more revealing than the object description itself. A “sudden disappearance” may align exactly with a ridge line. An apparent acceleration may coincide with a break in low cloud. Multiple witnesses may seem contradictory until their different viewing angles are reconstructed.
 
@@ -284,7 +283,6 @@ A witness can only report what was visible from their exact position. Even small
 Modern investigations increasingly use digital elevation models, or DEMs, to recreate terrain around the observation point. These models represent the height of the ground surface and are widely used in geographic information systems for visibility analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.usgs.gov/faqs/what-a-digital-elevation-model-dem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">usgs.gov</span><span class="citation-popover-snippet">What is a digital elevation model (DEM)?A Digital Elevation Model (DEM) is a representation of the bare ground (bare earth) topograph...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://doc.arcgis.com/en/3d/workflows/analysis/conduct-line-of-sight-analysis.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: doc.arcgis.com">[ArcGIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">doc.arcgis.com</span><span class="citation-popover-snippet">Conduct line of sight analysis—3D Workflows &#124; DocumentationA line-of-sight analysis in ArcGIS involves examining the visibility bet...</span></span></span> A reconstructed sightline can then be traced outward from the witness position to see where hills, ridges or urban structures interrupt visibility.
 
 This matters because many UFO reports contain phrases such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +301,6 @@ Those descriptions sound dramatic until the geometry is tested. If an aircraft p
 Human observers naturally treat the visible horizon as a flat reference. Real terrain almost never is.
 
 A witness looking across a valley may see only the upper section of a distant aircraft because the lower fuselage is hidden behind terrain. From another location a few hundred metres away, the same aircraft could appear fully visible. This creates a common mismatch in UFO reports:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,7 +324,6 @@ Trees complicate sightings further because foliage creates partial masking rathe
 
 Investigators therefore try to reconstruct:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * witness eye height
@@ -340,7 +336,6 @@ Investigators therefore try to reconstruct:
 
 That last point matters more than many witnesses realise. A UFO viewed from a moving car can appear to “track” the observer while actually remaining stationary relative to distant terrain.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0iJh3p9ZfUo" title="How to perform Viewshed Analysis using DEM in ArcGIS Pro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0iJh3p9ZfUo" target="_blank" rel="noopener noreferrer">How to perform Viewshed Analysis using DEM in ArcGIS Pro</a></p><p class="youtube-embed-meta">Channel: Terra Spatial &middot; Views: 4.6K &middot; Uploaded: January 2024 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0iJh3p9ZfUo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0iJh3p9ZfUo">Open on YouTube</a></p></div></div></div>
 
 ### Why bare terrain models are not enough
@@ -348,7 +343,6 @@ That last point matters more than many witnesses realise. A UFO viewed from a mo
 Many elevation datasets model only the ground surface, excluding buildings and vegetation. USGS guidance on DEMs explicitly notes that standard bare-earth models omit trees and structures. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://pubs.usgs.gov/publication/sir20245060/full" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubs.usgs.gov">[USGS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubs.usgs.gov</span><span class="citation-popover-snippet">draft inventory analysis units for National Scenic...by SM Lindley · 2024 · Cited by 1 — The best practices herein are for creating draf...</span></span></span>
 
 That limitation matters in UFO investigation because witnesses rarely observe from empty landscapes. A technically correct terrain line may still produce a misleading result if:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -366,7 +360,6 @@ More advanced reconstructions therefore combine terrain elevation with lidar-der
 Cloud layers are among the most underestimated causes of apparently impossible UFO movement.
 
 Witnesses often assume the sky is a stable background. In reality, broken cloud can act like a moving mask. A light source passing behind uneven cloud edges may appear to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -389,7 +382,6 @@ Aircraft [landing lights]({{ 'landing-lights/' | relative_url }}) create a relat
 
 Cloud structure also distorts size perception. Thin haze can create large glowing halos around bright lights, while broken cloud can fragment a single source into multiple apparent objects.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-2-dark.svg" | relative_url }}" alt="Sightlines illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Low cloud and hidden motion
 
@@ -401,7 +393,6 @@ Graphical aviation weather products are useful here because they preserve histor
 
 Sometimes the geometry becomes surprisingly mundane:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the object entered low stratus cloud
@@ -411,7 +402,6 @@ Sometimes the geometry becomes surprisingly mundane:
 </div>
 
 The witness may still be reporting honestly. The interpretation changes because the atmosphere itself acted as a moving visual filter.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Ttapu-_9zcI" title="How to Determine Cloud Tops | Weather Imagery | METARs and TAFs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Ttapu-_9zcI" target="_blank" rel="noopener noreferrer">How to Determine Cloud Tops | Weather Imagery | METARs and TAFs</a></p><p class="youtube-embed-meta">Channel: FlightInsight &middot; Views: 10.4K &middot; Uploaded: September 2024 &middot; Length: 3 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Ttapu-_9zcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Ttapu-_9zcI">Open on YouTube</a></p></div></div></div>
 
@@ -429,7 +419,6 @@ Without visible stars, terrain edges or horizon detail, witnesses can dramatical
 A small drone near the observer may look like a huge distant object. A distant aircraft emerging through cloud gaps may appear to dart across the sky because only fragments of the trajectory are visible at any one time.
 
 This is one reason why UFO reports during overcast or partially overcast conditions require extra caution before assigning extraordinary interpretations.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-3-dark.svg" | relative_url }}" alt="Sightlines illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d_terrain_cloud_3842b6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comparing multiple witness sightlines
@@ -459,7 +448,6 @@ For accurate triangulation, investigators need:
 Most civilian sightings lack at least two of those elements.
 
 AI-assisted workflows therefore model uncertainty corridors rather than precise rays. A witness who says “south-west and fairly high” produces a broad cone, not a laser-accurate vector. Overlapping those uncertain cones can still reveal useful patterns, especially when combined with terrain masking.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RVBhb1cahNM" title="How to read a synoptic weather chart - Met Office explains - Met Office UK Weather" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RVBhb1cahNM" target="_blank" rel="noopener noreferrer">How to read a synoptic weather chart - Met Office explains - Met Office UK Weather</a></p><p class="youtube-embed-meta">Channel: Met Office - UK Weather &middot; Views: 67.8K &middot; Uploaded: January 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RVBhb1cahNM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RVBhb1cahNM">Open on YouTube</a></p></div></div></div>
 
@@ -886,6 +874,7 @@ That question sounds simple. In many cases, it decides whether a UFO report rema
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

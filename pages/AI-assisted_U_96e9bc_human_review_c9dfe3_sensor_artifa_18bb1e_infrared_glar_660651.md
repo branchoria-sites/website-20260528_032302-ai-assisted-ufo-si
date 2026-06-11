@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18b
 
 Infrared glare can make an ordinary [aircraft]({{ 'aircraft/' | relative_url }}), engine exhaust or distant heat source appear as a rotating UFO-shaped object even when the real object is not rotating at all. This matters because some of the most famous modern UFO videos were recorded through military infrared targeting systems rather than normal visible-light cameras. In these systems, bright heat sources can bloom across the sensor, interact with the optics, and create large geometric shapes that look structured, metallic or spinning.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-1-dark.svg" | relative_url }}" alt="IR Glare illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The best-known example is the US Navy “Gimbal” footage, where a glowing object appears to rotate dramatically while pilots react in surprise. A major technical debate emerged over whether the rotation belonged to the craft itself or to infrared glare generated inside the camera system. The distinction is important in AI-assisted UFO investigation because automated analysis tools can easily mistake [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}) for evidence of exotic flight behaviour if the footage is not calibrated and interpreted correctly. NASA’s UAP study warned that poor sensor [calibration]({{ 'calibration/' | relative_url }}) and missing metadata can turn ordinary imaging artefacts into misleading anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
@@ -282,7 +281,6 @@ Infrared cameras do not “see” shapes in the same way as the human eye. Therm
 In practical terms, a distant jet engine may occupy only a tiny portion of the real scene, but the infrared camera can display it as a large glowing object with edges, wings or geometric contours that do not physically exist. The hotter the source and the longer the imaging chain, the more dramatic the distortion can become.
 
 Several effects combine to create these false “craft” shapes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -299,7 +297,6 @@ A key point in UFO analysis is that glare does not need to be a random blur. It 
 This becomes especially misleading in military targeting pods such as FLIR (Forward Looking Infrared) systems. These devices are designed to track targets under difficult conditions, not to provide cinema-quality object identification. Their optics contain moving mirrors, stabilisation systems and rotating components that can influence how glare appears on screen.
 
 The result is a powerful illusion: a tiny hot object can appear as a large rotating craft with visible structure and controlled movement even when the underlying target is relatively mundane.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qLDp-aYnR1Y" title="Ryan Graves: UFOs, Fighter Jets, and Aliens | Lex Fridman Podcast #308" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qLDp-aYnR1Y" target="_blank" rel="noopener noreferrer">Ryan Graves: UFOs, Fighter Jets, and Aliens | Lex Fridman Podcast #308</a></p><p class="youtube-embed-meta">Channel: Lex Fridman &middot; Views: 4.9M &middot; Uploaded: August 2022 &middot; Length: 2 hours 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qLDp-aYnR1Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qLDp-aYnR1Y">Open on YouTube</a></p></div></div></div>
 
@@ -328,7 +325,6 @@ The 2015 Navy “Gimbal” video became one of the defining modern UFO cases bec
 
 Supporters of the anomalous interpretation argued that:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the object appeared to rotate independently,
@@ -343,7 +339,6 @@ One of the central arguments involved timing. Analysts observed that the bright 
 
 Importantly, the debate remains narrower than many headlines imply. The strongest sceptical claim is generally not “the video is fake”. Instead, it is:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the rotation may be an imaging artefact,
@@ -354,14 +349,12 @@ Importantly, the debate remains narrower than many headlines imply. The stronges
 
 That still leaves open the possibility that the [original]({{ 'original-evidence/' | relative_url }}) target was unidentified in operational terms.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-2-dark.svg" | relative_url }}" alt="IR Glare illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AI systems misread thermal video
 
 AI image systems are trained to detect patterns, edges and movement. That becomes dangerous when the pattern itself is produced by the sensor.
 
 A machine-learning model trained on infrared UFO footage may incorrectly learn that:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -374,7 +367,6 @@ A machine-learning model trained on infrared UFO footage may incorrectly learn t
 In thermal footage, AI systems can over-segment glare regions and interpret them as stable craft outlines. Tracking systems may then produce false measurements for size, rotation rate or acceleration.
 
 This creates several recurring failure modes in AI-assisted UFO investigation:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wCT3HdHokaw" title="Gimbal UFO incident | Ryan Graves and Lex Fridman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wCT3HdHokaw" target="_blank" rel="noopener noreferrer">Gimbal UFO incident | Ryan Graves and Lex Fridman</a></p><p class="youtube-embed-meta">Channel: Lex Clips &middot; Views: 96.8K &middot; Uploaded: August 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wCT3HdHokaw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wCT3HdHokaw">Open on YouTube</a></p></div></div></div>
 
@@ -396,14 +388,12 @@ Most public UFO footage has already passed through multiple stages of compressio
 
 This is why NASA and other scientific reviews repeatedly emphasise metadata, calibration and multi-sensor confirmation. A single thermal video without complete sensor information is often insufficient for reliable interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — Indeed, several apparent UAP have been demonstrated to be sensor artifacts...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-3-dark.svg" | relative_url }}" alt="IR Glare illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_sensor_artifa_18bb1e_infrared_glar_660651-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators should check before treating rotation as real
 
 In practical UFO case [review]({{ 'review/' | relative_url }}), apparent rotation should be treated as a hypothesis rather than an observation until the imaging system is understood.
 
 Several checks are especially important:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -422,9 +412,7 @@ The broader lesson is not that all UFO footage is meaningless. It is that therma
 
 In UFO investigation, understanding the sensor is often as important as understanding the sky.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4X1PRDbtiF0" title="Explained: Gimbal UFO rotation caused by ...a Gimbal!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer">Explained: Gimbal UFO rotation caused by ...a Gimbal!</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 20.1K &middot; Uploaded: June 2019 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4X1PRDbtiF0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -817,6 +805,7 @@ In UFO investigation, understanding the sensor is often as important as understa
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

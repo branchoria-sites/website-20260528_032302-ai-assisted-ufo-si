@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_95
 
 The GoFast video became famous because the object appeared to race just above the ocean at extraordinary speed. Later analysis suggested the impression was largely a parallax effect created by camera [geometry]({{ 'geometry/' | relative_url }}), [aircraft]({{ 'aircraft/' | relative_url }}) motion and missing depth cues rather than extreme propulsion. What makes the case especially important for AI-assisted UFO investigation is that the geometry can, in principle, be reconstructed automatically instead of relying on human intuition alone. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">3 ways scientists use math to help debunk UFO videosSemeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen an...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-1-dark.svg" | relative_url }}" alt="AI Reconstruction illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern AI workflows could ingest the GoFast footage frame by frame, extract telemetry from the targeting display, estimate the fighter jet’s position and camera orientation, and then test thousands of possible trajectories against known physics and [weather]({{ 'weather/' | relative_url }}) conditions. Instead of asking “does this look impossibly fast?”, the system asks a more measurable question: “which reconstructed flight paths best fit the observed pixels and [sensor data]({{ 'sensor-data/' | relative_url }})?” That shift from visual impression to probabilistic geometry is becoming central to serious UAP analysis. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://pswscience.org/meeting/2513/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pswscience.org">[PSW Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pswscience.org</span><span class="citation-popover-snippet">Unidentified Anomalous Phenomena-From Sensationalism...Apr 4, 2025 — This lecture will review the activities and outcomes of the NASA UA...</span></span></span>
 
@@ -280,7 +279,6 @@ Modern AI workflows could ingest the GoFast footage frame by frame, extract tele
 Human observers are poor at estimating speed and distance from compressed infrared footage. In GoFast, the ocean surface created a false sense of scale, encouraging viewers to assume the object was skimming the water. But the video itself never directly provided viewers with a clear three-dimensional reference frame.
 
 An AI reconstruction system approaches the footage differently. Rather than treating the screen image as reality, it treats the video as a measurement problem with uncertainties attached. The visible target position becomes only one input among many:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -309,7 +307,6 @@ The publicly released clip contains telemetry embedded directly into the display
 
 AI vision systems could automate that process through optical character recognition and sensor-state classification. A reconstruction pipeline might:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. Detect and isolate every telemetry field in each frame
@@ -325,7 +322,6 @@ This matters because even small errors in viewing angle can radically alter infe
 ### Rebuilding the camera’s line of sight
 
 The ATFLIR targeting pod continuously adjusted orientation while tracking the object. AI-based motion estimation could reconstruct:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -347,7 +343,6 @@ One advantage of machine-assisted reconstruction is that it can model uncertaint
 
 Human discussions often drift into binary claims such as “it was a balloon” or “it was moving hypersonically”. Automated reconstruction instead produces [confidence]({{ 'confidence/' | relative_url }}) ranges:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Most likely altitude band
@@ -367,7 +362,6 @@ Once geometry is reconstructed, AI systems can compare candidate explanations ag
 ### Balloon drift modelling
 
 One of the most discussed interpretations is that the object may have been drifting with upper-level winds rather than travelling under extraordinary propulsion. NASA-linked analysis and later AARO discussion both pointed toward speeds compatible with normal atmospheric drift. AARO Metabunk An AI workflow could automatically test this by combining: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/space-exploration/search-for-life/pentagon-ufo-chief-tells-senate-very-anomalous-objects-need-careful-study-video" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">pentagon ufo chief tells senate very anomalous objects need careful study video</span><span class="citation-popover-snippet">Pentagon UFO chief tells Senate &#x27;very anomalous objects&#x27;...Nov 19, 2024 — In that case, the object&#x27;s apparent speed in the video was act...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -389,7 +383,6 @@ AI systems could also compare reconstructed motion against known aircraft perfor
 
 For example, a model could test whether the target behaviour matches:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A distant aircraft crossing the field of view
@@ -403,7 +396,6 @@ For example, a model could test whether the target behaviour matches:
 The key point is that the software does not need to “know” the object identity in advance. It simply checks which scenarios produce motion consistent with the footage and telemetry.
 
 A useful implementation detail is that machine-learning systems can rapidly search huge parameter spaces that would take humans days or weeks to test manually. Thousands of simulated trajectories can be compared against the observed frame sequence automatically.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-2-dark.svg" | relative_url }}" alt="AI Reconstruction illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Frame-by-frame synthetic recreation
@@ -422,7 +414,6 @@ The workflow would:
 The closer the synthetic output matches the original clip, the stronger the candidate explanation becomes.
 
 This approach already resembles methods used in autonomous driving, missile interception simulations and defence sensor validation. The novelty in UAP analysis is applying those techniques to publicly debated sightings rather than classified targeting exercises.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fh3znHctOkA" title="Pentagon claims to debunk famous ‘GOFAST’ UFO radar video, but still has not ID’d mysterious object" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fh3znHctOkA" target="_blank" rel="noopener noreferrer">Pentagon claims to debunk famous ‘GOFAST’ UFO radar video, but still has not ID’d mysterious object</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 4.8K &middot; Uploaded: November 2024 &middot; Length: 49 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fh3znHctOkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fh3znHctOkA">Open on YouTube</a></p></div></div></div>
 
@@ -450,7 +441,6 @@ This distinction matters beyond GoFast itself. Many UAP clips become persuasive 
 * True object displacement <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/16iix64/nasas_gofast_analysis_says_object_going_40mph/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">NASA&#x27;s GoFast Analysis says object going 40mph: r/UFOsUsing the calculated true air speed (TAS) and a bit more trigonometry, we find the...</span></span></span>
 
 That does not automatically “debunk” every sighting. It simply prevents screen appearance from becoming the sole basis for extraordinary conclusions.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-3-dark.svg" | relative_url }}" alt="AI Reconstruction illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_gofast_parall_9545f8_ai_gofast_par_a80dbc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why metadata quality limits automated UFO analysis
@@ -909,6 +899,7 @@ But GoFast demonstrated why automated geometry analysis is becoming essential. A
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

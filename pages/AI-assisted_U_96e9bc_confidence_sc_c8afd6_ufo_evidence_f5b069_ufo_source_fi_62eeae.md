@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b
 
 A viral UFO clip can attract millions of views while becoming nearly useless for serious investigation. The problem is not always deception. More often, the original recording has been stripped of the very information investigators need to test ordinary explanations properly. Once a video has been reposted through social media platforms, screen-recorded, cropped, edited, compressed, or uploaded without its source file, critical [metadata]({{ 'metadata/' | relative_url }}) can disappear. That [missing data]({{ 'missing-data/' | relative_url }}) may include the exact recording time, device details, GPS coordinates, frame structure, compression history, and signs of editing.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-1-dark.svg" | relative_url }}" alt="Source Files illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, this matters because modern analysis depends less on spectacle and more on verification. A dramatic light in the sky cannot be compared properly against aircraft tracks, satellite passes, astronomical objects, weather conditions, or drone activity unless the [original evidence]({{ 'original-evidence/' | relative_url }}) survives intact. NASA’s independent UAP study repeatedly stressed that poor metadata and inconsistent sensor information are major barriers to meaningful analysis. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor...</span></span></span>
 
@@ -312,7 +311,6 @@ NASA’s UAP study argued that scientific analysis is currently limited by “th
 Many viral UFO clips are no longer direct recordings. They are copies of copies.
 
 A common chain looks like this:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -357,7 +355,6 @@ Screen recordings are even more destructive from an investigative perspective.
 
 When someone records a video playing on another device, the new file no longer contains the original recording structure. Instead, it becomes a recording of a display surface. Important information disappears entirely:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Original encoding signatures
@@ -373,7 +370,6 @@ Investigators also lose the ability to determine whether playback speed changed 
 
 Digital forensics specialists often analyse encoding histories and metadata structures to detect editing or tampering. Once a clip becomes a screen recording, much of that forensic trail is gone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://eclipseforensics.com/spotting-the-fakes-understanding-video-authentication-techniques/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eclipseforensics.com">[Eclipse Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eclipseforensics.com</span><span class="citation-popover-title">spotting the fakes understanding video authentication techniques</span><span class="citation-popover-snippet">Eclipse ForensicsSpotting the Fakes: Understanding Video Authentication...24 Dec 2025 — Through forensic video analysis, specialists exa...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-2-dark.svg" | relative_url }}" alt="Source Files illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why chain of custody matters in UFO investigations
 
@@ -382,7 +378,6 @@ Digital forensics specialists often analyse encoding histories and metadata stru
 In practice, chain of custody means documenting how a file moved from its original source to investigators without undocumented alteration. The longer and less traceable that path becomes, the harder it is to trust the evidence.
 
 For a UFO sighting, useful chain-of-custody questions include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -404,7 +399,6 @@ This does not mean every edited UFO clip is fake. It means the [confidence]({{ '
 A striking real-world illustration appeared outside the UFO field in 2025, when metadata analysis of supposedly “raw” surveillance footage connected to the Jeffrey Epstein case suggested the file had passed through professional editing software and may have been assembled from multiple clips. Investigators examining the metadata identified traces associated with Adobe Premiere exports and multiple save operations. Experts interviewed about the file argued that investigators should return to the original export rather than rely on processed versions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/metadata-shows-the-dojs-raw-jeffrey-epstein-prison-video-was-likely-modified" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">Metadata Shows the FBI&#x27;s &#x27;Raw&#x27; Jeffrey Epstein Prison Video Was Likely Modified</span><span class="citation-popover-snippet">Department of Justice recently released nearly 11 hours of surveillance footage from Jeffrey Epstein&#x27;s prison area, labeled as &quot;raw&quot; vide...</span></span></span>
 
 The broader lesson applies directly to UFO material: once uncertainty enters the handling history of a file, debate shifts from the observed object to the integrity of the evidence itself.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HdgRkjebf2g" title="ExifTool Explained: How Investigators Extract Hidden Metadata" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HdgRkjebf2g" target="_blank" rel="noopener noreferrer">ExifTool Explained: How Investigators Extract Hidden Metadata</a></p><p class="youtube-embed-meta">Channel: Dr. K Cybersecurity &middot; Views: 1.1K &middot; Uploaded: July 2023 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HdgRkjebf2g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HdgRkjebf2g">Open on YouTube</a></p></div></div></div>
 
@@ -437,7 +431,6 @@ An AI model may identify similarities to drones, aircraft lights, balloons, or s
 This is why evidence-quality grading systems matter. A visually dramatic clip with no recoverable source file may deserve a lower confidence grade than a less exciting recording with intact metadata, multiple witnesses, and verifiable timing.
 
 NASA’s UAP analysis repeatedly emphasised the need for calibrated sensors, multiple measurements, and higher-quality observational data rather than reliance on isolated viral footage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sci.news/space/nasa-uap-report-12270.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sci.news">[2Sci.News: Breaking Science News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sci.news</span><span class="citation-popover-title">nasa uap report 12270</span><span class="citation-popover-snippet">Breaking Science NewsNASA&#x27;s UAP Study Team Releases Its Final Report18 Sept 2023 — “We found that NASA can help the whole-of-government U...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-3-dark.svg" | relative_url }}" alt="Source Files illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_evidence_f5b069_ufo_source_fi_62eeae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical investigative difference between “interesting” and “usable”
@@ -854,6 +847,7 @@ In AI-assisted UFO investigation, the original file is not merely the “best ve
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

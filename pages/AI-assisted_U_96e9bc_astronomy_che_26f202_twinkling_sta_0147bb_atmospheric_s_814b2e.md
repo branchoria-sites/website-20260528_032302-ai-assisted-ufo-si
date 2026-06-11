@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 
 Many “flashing UFO” reports begin with a bright light that appears to hover in one place while rapidly changing colour. Witnesses often describe red, blue, green and white pulses, sparkling edges, or a light that seems to signal intentionally. In a large number of cases, the object is not an [aircraft]({{ 'aircraft/' | relative_url }}) or unknown craft at all but a bright star distorted by Earth’s atmosphere through a process called atmospheric scintillation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skyandtelescope.org/astronomy-resources/why-do-stars-twinkle/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyandtelescope.org">[Sky &amp; Telescope]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyandtelescope.org</span><span class="citation-popover-title">Why Don&#x27;t Planets Twinkle Too?Read more</span><span class="citation-popover-snippet">Sky &amp; TelescopeWhy Stars Twinkle - Stellar ScintillationBecause the light waves come from a single point, this effect can make the star&#x27;s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-dark.svg" | relative_url }}" alt="Scintillation illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, scintillation is one of the most important ordinary explanations to test early because it matches several common report patterns at once: stationary position, flashing colours, apparent hovering, and inconsistent apparent movement. The effect becomes especially dramatic when a star sits low above the horizon, where its light must travel through thicker, more turbulent layers of air before reaching the observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/space-science/why-do-stars-twinkle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-title">why do stars twinkle</span><span class="citation-popover-snippet">?2 May 2025 — Stars appear to twinkle because their light passes through our atmosphere and is bent and distorted by varying temperatures...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
@@ -288,7 +287,6 @@ Astronomers use the term “scintillation” for the rapid variations in a star�
 Because stars are so distant, they appear to the human eye as extremely small point sources. That makes them unusually vulnerable to atmospheric distortion. Even tiny changes in refraction can make a star appear to flicker, pulse, wobble or fragment into different colours. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/space/why-dont-planets-twinkle-as-stars-do/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">why dont planets twinkle as stars do</span><span class="citation-popover-snippet">Why do stars twinkle, but planets do not?4 Jun 2025 — Stars twinkle because they&#x27;re so far away from Earth that, even through lar...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Twinkling" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 In UFO reports, witnesses commonly interpret these effects as signs of active technology or controlled motion. Scintillation can produce:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -304,7 +302,6 @@ Under dark-sky viewing conditions, especially when there are few surrounding [re
 
 This becomes particularly important in event reconstruction. A structured UFO case [review]({{ 'review/' | relative_url }}) should compare the reported object position against the known locations of bright stars at the exact time and azimuth of the sighting. AI-assisted correlation systems can automate this step quickly using [astronomy]({{ 'astronomy/' | relative_url }}) software and sky catalogues.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rCBUutvDCAE" title="Why Do Stars Twinkle but Planets Don’t? [ID0723]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rCBUutvDCAE" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? [ID0723]</a></p><p class="youtube-embed-meta">Channel: History of Simple Things &middot; Views: 11.8K &middot; Uploaded: February 2026 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rCBUutvDCAE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rCBUutvDCAE">Open on YouTube</a></p></div></div></div>
 
 ## Why low stars flash stronger colours
@@ -316,7 +313,6 @@ This low-angle [geometry]({{ 'geometry/' | relative_url }}) explains why many UF
 Colour changes become especially noticeable because Earth’s atmosphere acts partly like a weak prism. Different wavelengths of light are bent by slightly different amounts. Rapid fluctuations in air density then scatter those colours unevenly, creating split-second flashes of red, green and blue. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/sirius-ufo-trickster-extraordinaire" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">sirius ufo trickster extraordinaire</span><span class="citation-popover-snippet">Universe TodaySirius, UFO trickster extraordinaireMar 23, 2014 — When Sirius is low above the horizon, refraction (bending of light) is s...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://earthsky.org/space/if-its-not-a-ufo-what-is-it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">Earth Sky Is that a UFO?!</span><span class="citation-popover-snippet">There&#x27;s probably an explanation15 Dec 2020 — Of course UFOs exist. A UFO is just an unidentified object. Like many of the things listed t...</span></span></span>
 
 [Sirius]({{ 'sirius/' | relative_url }}) is the classic example. As the brightest true star in the night sky, it repeatedly appears in UFO databases and witness reports. Observers frequently describe it as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -331,7 +327,6 @@ Astronomy sources specifically note that Sirius’s brightness and strong colour
 
 From UK latitudes, Sirius often remains relatively low in winter evenings, which strengthens the effect. Other bright stars such as Capella and Arcturus can also produce vivid scintillation under unstable atmospheric conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OvA_kCOVsxI" title="Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer">Why Do Stars Twinkle but Planets Don’t? | Atmospheric Refraction Explained | Class 10 Physics</a></p><p class="youtube-embed-meta">Channel: Quizlet &middot; Views: 388 &middot; Uploaded: March 2026 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OvA_kCOVsxI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OvA_kCOVsxI">Open on YouTube</a></p></div></div></div>
 
 ## Why witnesses perceive a “craft” instead of a star
@@ -339,7 +334,6 @@ From UK latitudes, Sirius often remains relatively low in winter evenings, which
 The human visual system is poorly adapted to judging isolated lights in darkness. Without nearby reference points, even a stationary object can appear active or mobile. Scintillation exploits several weaknesses in night-time perception at once.
 
 A bright star undergoing heavy atmospheric distortion may appear to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -357,14 +351,12 @@ The problem becomes stronger during prolonged staring. Tiny involuntary eye move
 
 Smartphone recording introduces additional distortions. Autofocus systems continually hunt for focus on bright point sources, while [digital zoom]({{ 'digital-zoom/' | relative_url }}) exaggerates hand shake and exposure fluctuations. A scintillating star can therefore appear in video footage as a pulsing, rotating or morphing luminous object even though the original source remains stationary. This is one reason low-quality UFO videos often look far more dramatic than the naked-eye experience itself.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-dark.svg" | relative_url }}" alt="Scintillation illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When colour changes fit a star explanation
 
 Scintillation does not explain every aerial light report, but some patterns strongly support a bright-star interpretation.
 
 A star explanation becomes much more plausible when the reported object:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -384,14 +376,12 @@ Contradictions matter too. A star explanation weakens if the object was conclusi
 
 This distinction is important for balanced UFO analysis. A good investigation neither dismisses witnesses nor assumes extraordinary explanations too quickly. Instead, it asks whether the observed behaviour matches known atmospheric optics before moving to less common possibilities.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-dark.svg" | relative_url }}" alt="Scintillation illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_atmospheric_s_814b2e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI-assisted investigations test scintillation quickly
 
 Modern UFO case workflows can automate many of the checks that historically required experienced amateur astronomers.
 
 An AI-assisted investigation system can:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -407,7 +397,6 @@ An AI-assisted investigation system can:
 This matters because scintillation reports often cluster around recurring seasonal targets. Sirius, Venus and Capella repeatedly appear in public UFO submissions because they are visually striking and easy to misinterpret under poor viewing conditions. Automated comparison against historical databases can reveal these recurring patterns rapidly.
 
 A useful workflow is not simply “debunking”. Instead, it separates explanations into categories such as strongly matched, plausible, weakly supported, unresolved or inconsistent with available data. Scintillation becomes one evidence layer within a broader investigation framework that also checks aviation activity, satellites, [weather]({{ 'weather/' | relative_url }}) conditions, drones and observational reliability.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nnBpnv2OH3c" title="Neil deGrasse Tyson Explains Why Stars Twinkle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nnBpnv2OH3c" target="_blank" rel="noopener noreferrer">Neil deGrasse Tyson Explains Why Stars Twinkle</a></p><p class="youtube-embed-meta">Channel: StarTalk &middot; Views: 594.3K &middot; Uploaded: October 2020 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nnBpnv2OH3c" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nnBpnv2OH3c">Open on YouTube</a></p></div></div></div>
 
@@ -810,6 +799,7 @@ That combination of atmospheric physics, human perception and modern imaging tec
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

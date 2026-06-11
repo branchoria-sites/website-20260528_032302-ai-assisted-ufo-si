@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295
 
 A transparent UFO investigation should not hide the explanations that failed. In an AI-assisted [case file]({{ 'case-file/' | relative_url }}), the discarded [aircraft]({{ 'aircraft/' | relative_url }}) match, the rejected satellite pass, the balloon theory that did not fit the wind data, and the drone hypothesis weakened by timing all matter almost as much as the final verdict. Without those rejected leads, outside readers cannot tell whether investigators seriously tested ordinary explanations or simply jumped to a preferred conclusion.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-1-dark.svg" | relative_url }}" alt="Rejected Leads illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is especially important in modern UAP investigations because many sightings are ambiguous, short-lived and poorly documented. NASA’s independent UAP study warned that analysis is often limited by weak [metadata]({{ 'metadata/' | relative_url }}), inconsistent observations and missing baseline information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — At present, analysis of UAP data is hampered by poor sensor calibration, th...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA In that]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</span></span></span> environment, transparency about failed explanations becomes part of the evidence itself. It shows how uncertainty was handled, which assumptions were made, and why one explanation survived scrutiny while others did not.
 
@@ -302,7 +301,6 @@ An AI-assisted investigation commonly tests a sighting against multiple database
 
 If a case file merely states “likely aircraft” without showing the rejected alternatives, the reasoning remains opaque. A transparent audit trail instead records:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Which explanations were checked
@@ -325,7 +323,6 @@ Not all rejected explanations fail for the same reason. A good case file disting
 Some ordinary explanations genuinely fit part of a sighting.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -350,7 +347,6 @@ Showing these intermediate comparisons helps readers understand why one explanat
 
 A transparent case file might note:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * ADS-B aircraft tracking found no matching civilian aircraft nearby.
@@ -362,7 +358,6 @@ A transparent case file might note:
 
 These rejected checks become especially important months or years later when cases are revisited. New witnesses, better imagery or updated datasets may alter the interpretation. Without the earlier rejection record, later reviewers cannot tell whether an explanation is genuinely new or merely recycled.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-2-dark.svg" | relative_url }}" alt="Rejected Leads illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How visible uncertainty prevents false certainty
 
@@ -371,7 +366,6 @@ One of the biggest risks in UFO investigation is premature closure. AI systems c
 A machine-learning system trained on previous sightings may strongly favour aircraft or satellites because those are statistically common explanations. That can be useful for triage, but dangerous if users mistake statistical likelihood for proof.
 
 Visible rejected explanations slow that process down in a healthy way. They force investigators to explain:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -384,7 +378,6 @@ Visible rejected explanations slow that process down in a healthy way. They forc
 NASA’s UAP study repeatedly stressed that current investigations suffer from poor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and limited multi-sensor evidence. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space In practical terms]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor...</span></span></span>, that means many UFO conclusions remain probabilistic rather than definitive.
 
 A transparent audit trail therefore separates categories such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -417,7 +410,6 @@ The Pentagon’s AARO reviews have highlighted cases where apparent unusual moti
 This is why preserving failed explanations matters operationally. If an aircraft explanation failed because distance estimation was unreliable, that weakness should remain attached to the case history. Later analysts may discover the failure came from flawed assumptions rather than from the sighting being genuinely anomalous.
 
 The same principle applies to AI systems. If an image classifier repeatedly mislabels lens flare patterns as structured craft, rejected classifications become part of model auditing. They help investigators identify systematic error rather than treating each failure as an isolated mistake.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-3-dark.svg" | relative_url }}" alt="Rejected Leads illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_rejected_ufo_1462a8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Transparent rejection histories improve public trust
@@ -855,6 +847,7 @@ In both situations, visible rejected leads strengthen the credibility of the inv
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

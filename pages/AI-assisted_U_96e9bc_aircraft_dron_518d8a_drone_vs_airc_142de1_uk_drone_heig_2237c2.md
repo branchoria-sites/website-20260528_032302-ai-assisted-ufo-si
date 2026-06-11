@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_14
 
 One of the quickest ways to test a drone explanation in a UK UFO sighting is to ask a simple question: could an ordinary drone legally and practically have been where the witness says it was? [UK drone rules]({{ 'uk-drone-rules/' | relative_url }}) do not prove that a sighting was mundane, but they provide useful boundaries. Most consumer drones in the UK are expected to remain below 120 metres (400 feet) above ground and within the pilot’s visual line of sight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-dark.svg" | relative_url }}" alt="Height rules illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That matters because witnesses often describe lights that appear “thousands of feet up”, “far out over the sea”, or “hovering silently for half an hour”. In many cases, those impressions conflict with the limits of normal multicopter operation. AI-assisted UFO investigation workflows can therefore use UK Civil Aviation Authority (CAA) rules as a reality check rather than as a definitive answer. If a reported object would have required illegal altitude, impossible visual tracking, or extreme endurance from a small multicopter, the drone theory weakens. If the sighting instead matches the height, range and behaviour expected from ordinary drone use, the explanation becomes more plausible.
 
@@ -284,7 +283,6 @@ For UFO investigation, the important point is not whether every pilot obeys the 
 This becomes especially useful when witnesses estimate altitude from appearance alone. Humans are notoriously poor at judging height at night. A bright LED-equipped drone only 80 or 100 metres high can appear vastly farther away against a dark sky with no [reference points]({{ 'reference-points/' | relative_url }}). [Phone cameras]({{ 'phone-cameras/' | relative_url }}) often worsen the illusion by enlarging lights through autofocus bloom or digital zoom.
 
 A common investigative pattern looks like this:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -301,7 +299,6 @@ The rule also helps expose claims that are internally inconsistent. If a witness
 
 Another important detail is that UK rules measure height from the nearest point on the ground, not from the launch point. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/drone-code/where-you-can-fly-points-3-to-9/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-snippet">If you fly where the ground falls or rises...Read more...</span></span></span> Over hills, cliffs or valleys, a drone pilot may legally follow terrain contours while remaining within 120 metres of the surface below. That means witnesses near coastal cliffs or upland terrain can misinterpret drone height if they assume the aircraft is being measured from sea level or from a distant take-off point.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/orWpINgj3Og" title="UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer">UK Drone Rules 2026 Simplified: Big Changes to Where You Can Fly, Remote ID &amp; More</a></p><p class="youtube-embed-meta">Channel: Ian in London &middot; Views: 113.6K &middot; Uploaded: January 2026 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=orWpINgj3Og" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=orWpINgj3Og">Open on YouTube</a></p></div></div></div>
 
 ## Visual line of sight and likely launch points
@@ -311,7 +308,6 @@ UK drone operations normally require visual line of sight, commonly shortened to
 For UFO investigation, this is often more revealing than the height limit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hiredronepilot.uk/blog/drone-height-limit-uk/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hiredronepilot.uk">[hiredronepilot.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hiredronepilot.uk</span><span class="citation-popover-title">drone height limit uk</span><span class="citation-popover-snippet">The UK Drone Height Limit: What 120 Metres Really Means12 Sept 2025 — The UK drone height limit is 120 metres, roughly 400 feet, measured...</span></span></span>
 
 A witness may report a hovering object “miles away over open countryside”. If the object was actually a small multicopter, someone usually had to launch and monitor it from somewhere nearby. That introduces practical questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -330,7 +326,6 @@ AI-assisted investigation systems can test these constraints geographically. A w
 
 This is especially relevant for sightings over:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Restricted industrial sites
@@ -343,7 +338,6 @@ This is especially relevant for sightings over:
 </div>
 
 Witnesses often assume a mysterious object came from “nowhere”, but multicopters usually originate from somewhere physically accessible to a pilot. A good investigative system treats launch practicality as part of the evidence chain rather than as an afterthought.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-dark.svg" | relative_url }}" alt="Height rules illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When altitude and duration weaken the drone theory
@@ -369,7 +363,6 @@ For instance, a witness who observes a light for two minutes above nearby roofto
 
 The distinction matters because many UFO cases become distorted by binary thinking. Either every light is declared anomalous, or every light is dismissed as “probably a drone”. In practice, UK drone rules help create a middle category: sightings that are drone-compatible, drone-possible-but-weak, or operationally inconsistent with ordinary multicopters.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-dark.svg" | relative_url }}" alt="Height rules illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_uk_drone_heig_2237c2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Illegal flights, exemptions and edge cases
 
@@ -378,7 +371,6 @@ The 120 metre and VLOS rules are not absolute proof against drone involvement be
 That means investigators should avoid overconfident statements such as “it could not have been a drone because it was above 400 feet”.
 
 Instead, the more accurate assessment is:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -393,7 +385,6 @@ This distinction is important around airports, infrastructure inspections, emerg
 Modern regulations are also changing. The UK introduced updated drone classification and [Remote ID]({{ 'remote-id/' | relative_url }}) rules in 2026, affecting registration thresholds and operational categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/cameras/drones/uk-drone-laws-have-just-changed-if-your-drone-has-a-camera-read-this-now" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[TechRadar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-title">Tech Radar UK drone laws have just changed</span><span class="citation-popover-snippet">Two major changes are introduced: the new UK Class Marks system and phased Remote ID requirements. UK Class Marks, ranging from UK0 to UK...</span></span></span> These changes may gradually improve post-event investigation because more drone operations could become traceable through broadcast identification systems.
 
 For UFO analysis, however, the central lesson remains the same: legal frameworks are most useful as behavioural baselines. They describe how ordinary drone activity usually occurs in the real world.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/HoAg7d5DpYk" title="What Does Visual Line of Sight Mean? (VLOS) UK Drone Rules - Geeksvana" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=HoAg7d5DpYk" target="_blank" rel="noopener noreferrer">What Does Visual Line of Sight Mean? (VLOS) UK Drone Rules - Geeksvana</a></p><p class="youtube-embed-meta">Channel: Geeksvana &middot; Views: 2.1K &middot; Uploaded: September 2021 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=HoAg7d5DpYk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=HoAg7d5DpYk">Open on YouTube</a></p></div></div></div>
 
@@ -421,7 +412,6 @@ An AI-assisted system can compare a witness report against:
 That allows automated triage of common misidentifications.
 
 For example, a system may flag a sighting as strongly drone-compatible if it involves:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -828,6 +818,7 @@ Used carefully, UK drone rules help investigators avoid two opposite errors: dis
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

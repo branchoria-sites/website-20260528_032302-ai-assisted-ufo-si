@@ -296,14 +296,12 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8
 
 A UFO [astronomy]({{ 'astronomy/' | relative_url }}) check becomes far more useful when another investigator can reproduce the same sky and test the same claim independently. A saved sky map, backed by exact timing and ephemeris data, turns a vague statement such as “a bright object hovered in the west” into a repeatable observation that can be checked months or years later. This matters because many disputed UFO cases hinge on whether a proposed explanation — Venus, Jupiter, the Moon, a bright star, a meteor, or a satellite flare — really matched the witness view from that exact location and moment.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-dark.svg" | relative_url }}" alt="Sky maps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In an AI-assisted UFO sighting investigation, [reproducibility]({{ 'reproducibility/' | relative_url }}) is a safeguard against both overclaiming and careless debunking. If the sky reconstruction cannot be recreated by another analyst using the same coordinates, time zone, software settings and astronomical data, then the astronomy match remains weak. Reproducible sky maps also preserve evidence after online planetarium views change, satellite catalogues update, or memories fade.
 
 ## Why repeatability matters in UFO astronomy checks
 
 A common failure in UFO discussions is the unsupported assertion that “it was obviously Venus” or “the stars were in a different position”. Without a reproducible workflow, those claims are difficult to audit. A later reviewer may not know:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -342,7 +340,6 @@ A usable [case file]({{ 'case-file/' | relative_url }}) should preserve:
 
 The best practice is to distinguish clearly between:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * GPS-measured coordinates
@@ -358,7 +355,6 @@ This avoids a later investigator assuming false precision.
 
 Incorrect time handling is one of the biggest causes of failed reproductions. Witnesses often report:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * local clock time without specifying daylight saving
@@ -369,7 +365,6 @@ Incorrect time handling is one of the biggest causes of failed reproductions. Wi
 </div>
 
 A reproducible case file should therefore record:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -404,7 +399,6 @@ Screenshots alone are weak evidence. A reproducible astronomy check should prese
 Programs such as <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium.org">[Stellarium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium.org</span><span class="citation-popover-title">Stellarium Astronomy Software Stellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, just like w</span><span class="citation-popover-snippet">StellariumStellarium Astronomy SoftwareStellarium is a free open source planetarium for your computer. It shows a realistic sky in 3D, ju...</span></span></span> and <span class="citation-link-wrap"><a class="citation-inline-link" href="https://stellarium-web.org/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stellarium-web.org">[Stellarium Web]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stellarium-web.org</span><span class="citation-popover-title">Stellarium Web Online Star Map Stellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what</span><span class="citation-popover-snippet">Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what...</span></span></span> are widely used because they can reconstruct historical skies from specific locations and times. Stellarium <span class="citation-chip-wrap"><a class="citation-chip" href="https://stellarium.org/guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: or our.... https://stellarium.org/guide/. Source panel: Citations. Accessed May 27, 2026">[2stellarium-web.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">or our.... https://stellarium.org/guide/. Source panel: Citations. Accessed May 27, 2026</span><span class="citation-popover-snippet">Stellarium Web Online Star MapStellarium Web is a planetarium running in your web browser. It shows a realistic star map, just like what...</span></span></span>
 
 However, different settings can produce different apparent skies. A saved case should therefore document:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -465,7 +459,6 @@ Good reconstructions therefore record:
 
 In mountainous areas or urban environments, horizon modelling can determine whether a proposed astronomical explanation survives scrutiny.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-dark.svg" | relative_url }}" alt="Sky maps illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI systems help standardise sky reconstructions
 
@@ -490,7 +483,6 @@ For example, an automated workflow may identify that:
 * but not the duration
 
 That separation of partial matches is important. Many weak UFO explanations become overstated because investigators treat a rough resemblance as a full solution.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C0ACTQXXHg0" title="SkySafari Pro Part 2 Observing Lists" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C0ACTQXXHg0" target="_blank" rel="noopener noreferrer">SkySafari Pro Part 2 Observing Lists</a></p><p class="youtube-embed-meta">Channel: Rich DeMidio &middot; Views: 1.6K &middot; Uploaded: January 2021 &middot; Length: 4 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C0ACTQXXHg0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C0ACTQXXHg0">Open on YouTube</a></p></div></div></div>
 
@@ -527,7 +519,6 @@ The reconstruction should therefore classify explanations carefully:
 * unresolved
 
 That language is more defensible than declaring a sighting “solved”.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-dark.svg" | relative_url }}" alt="Sky maps illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_reproducible_ee8aa7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Uncertainty ranges should be visible in the saved material
@@ -1006,6 +997,7 @@ That standard matters because many UFO disputes are not really about astronomy. 
 })();
 </script>
 </section>
+
 ## References
 
 - [Stellarium](https://stellarium.org/)
@@ -1122,4 +1114,3 @@ That standard matters because many UFO disputes are not really about astronomy. 
 
 0.
    <details class="endnote-snippet"><summary>Source snippet</summary><p>SkySafari Pro Part 2 Observing Lists - YouTubeJanuary 27, 2021 — This introduces the concept of observing lists. How to create and popula. Source panel: More. Accessed May 27, 2026...</p></details>
-

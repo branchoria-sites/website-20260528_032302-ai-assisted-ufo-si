@@ -271,14 +271,12 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c
 
 A military [aircraft]({{ 'aircraft/' | relative_url }}) disappearing from a public flight tracker is usually not mysterious on its own. Public tracking maps are commercial reconstructions of air traffic, not complete military surveillance systems. Military and government aircraft may appear normally one day, partially the next, and not at all during a later operation because different layers of filtering, privacy controls, transmission settings and reception limits affect what reaches public websites. This matters in UFO investigations because witnesses often assume that an empty tracker map proves “nothing conventional” was present. In reality, many military flights are only intermittently visible, especially during low-level training, exercises, transport missions, refuelling operations or security-sensitive activity. Understanding those gaps helps prevent ordinary aircraft from being misclassified as anomalous objects.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-1-dark.svg" | relative_url }}" alt="Military gaps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Why military aircraft do not appear consistently
 
 Public flight trackers mainly depend on ADS-B, or Automatic Dependent Surveillance–Broadcast. Aircraft equipped with ADS-B transmit their position, altitude, speed and identifier using onboard transponders. Websites such as Flightradar24 combine those signals with volunteer receiver networks and additional feeds to create live maps. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/how-it-works/ads-b" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">ADS-BOur network of more than 50,000 ADS-B receivers around the world receive flight data from aircraft with ADS-B transpond...</span></span></span>
 
 The important detail for UFO casework is that public visibility is not controlled by a single switch. Several different systems affect whether a military aircraft becomes visible:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -306,7 +304,6 @@ Different companies also make different policy choices. ADS-B Exchange became we
 
 That difference creates a common investigative trap in UFO reporting:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A witness checks a mainstream app and sees no aircraft.
@@ -325,7 +322,6 @@ Military aircraft can additionally use generic callsigns, abbreviated identifier
 
 For AI-assisted UFO investigation systems, this means automated matching should not rely only on visible aircraft names. Correlation tools need to check:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * ICAO hex identifiers
@@ -339,7 +335,6 @@ For AI-assisted UFO investigation systems, this means automated matching should 
 
 Otherwise, partially anonymised aircraft can slip through initial screening.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7AWonvyyCAM" title="The Best Military Aircraft Tracker! Easily Track Military Aircraft Around Ukraine! &amp; The World!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7AWonvyyCAM" target="_blank" rel="noopener noreferrer">The Best Military Aircraft Tracker! Easily Track Military Aircraft Around Ukraine! &amp; The World!</a></p><p class="youtube-embed-meta">Channel: Dom Demeo &middot; Views: 25.4K &middot; Uploaded: February 2022 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7AWonvyyCAM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7AWonvyyCAM">Open on YouTube</a></p></div></div></div>
 
 ## ADS-B restrictions during operations
@@ -349,7 +344,6 @@ Not all military aircraft transmit the same way at all times. Operational requir
 In controlled airspace, many military aircraft are still required to use transponders for safety and air traffic management. National Defense Magazine noted that most US military aircraft operating in controlled airspace now carry ADS-B equipment because of FAA mandates. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationaldefensemagazine.org/articles/2023/2/6/open-source-flight-tracking-called-threat-to-military-aircraft" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationaldefensemagazine.org">[National Defense Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationaldefensemagazine.org</span><span class="citation-popover-snippet">National Defense MagazineOpen Source Flight Tracking Called Threat to Military AircraftFeb 6, 2023 — Most are now equipped with Federal A...</span></span></span> But “equipped” does not necessarily mean “fully visible to every public website”.
 
 Operational visibility can vary because of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -367,12 +361,10 @@ A fast jet flying low through valleys or coastal terrain may briefly vanish from
 
 Military helicopters are another frequent source of confusion. Helicopter operations often occur at lower altitude, making reception less reliable. Terrain masking can create fragmented paths that resemble sudden appearances and disappearances on replay data.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-2-dark.svg" | relative_url }}" alt="Military gaps illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Exercises and refuelling operations
 
 Large exercises often generate the exact visual conditions associated with UFO reports:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -389,7 +381,6 @@ Yet the public data can still be [incomplete]({{ 'incomplete-data/' | relative_u
 
 This creates an important investigative asymmetry: the witness sees the whole visual scene, while the public tracker may only display fragments.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JrlAHuFvAjc" title="How Does Flightradar24 Work? Tracking Airplanes Explained!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JrlAHuFvAjc" target="_blank" rel="noopener noreferrer">How Does Flightradar24 Work? Tracking Airplanes Explained!</a></p><p class="youtube-embed-meta">Channel: LuxPlanes &middot; Views: 495.4K &middot; Uploaded: October 2024 &middot; Length: 24 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JrlAHuFvAjc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JrlAHuFvAjc">Open on YouTube</a></p></div></div></div>
 
 ## Why different trackers disagree
@@ -399,7 +390,6 @@ One of the most useful checks in UFO casework is comparing several independent f
 Flightradar24, FlightAware and ADS-B Exchange do not build their maps in identical ways. Some rely more heavily on FAA redistribution agreements, while others ingest direct receiver feeds from hobbyist networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/ads-b-exchange-jetnet-sale" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">This sale has angered ADS-B Exchange&#x27;s user base, who fear that the new owners will censor data, steer the platform away from its open-so...</span></span></span>
 
 As a result:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -421,7 +411,6 @@ A balanced AI-assisted workflow should therefore preserve the distinction betwee
 
 Those are not equivalent findings.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-3-dark.svg" | relative_url }}" alt="Military gaps illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_military_trac_f7f18a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How military gaps create UFO misidentifications
 
@@ -442,7 +431,6 @@ If the public tracker simultaneously appears empty, witnesses may conclude that 
 The psychological effect is important. People tend to trust clean digital maps as authoritative. An absent track can therefore reinforce memory reconstruction after the event. Witnesses may become more certain that an object accelerated unnaturally or appeared “outside known aviation” once they believe aircraft have been ruled out.
 
 This is why modern UFO investigation increasingly benefits from layered aviation checks rather than single-app verification.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_6MSVa8Oerw" title="ADSB Exchange - Dayton Hamvention 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_6MSVa8Oerw" target="_blank" rel="noopener noreferrer">ADSB Exchange - Dayton Hamvention 2022</a></p><p class="youtube-embed-meta">Channel: Ham Radio Outlet &middot; Views: 1.0K &middot; Uploaded: July 2022 &middot; Length: 4 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_6MSVa8Oerw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_6MSVa8Oerw">Open on YouTube</a></p></div></div></div>
 
@@ -862,6 +850,7 @@ In practical UFO case analysis, “no aircraft on Flightradar24” should usuall
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

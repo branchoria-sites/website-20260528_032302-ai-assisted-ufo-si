@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18
 
 A single UFO video can look convincing while still being heavily shaped by the camera that recorded it. That is why investigators increasingly compare several sensor types at once rather than relying on one dramatic clip. If a thermal camera shows a rotating object but visible-light footage does not, or if radar tracks steady motion while video appears to show impossible acceleration, the disagreement often points to a sensor artefact instead of extraordinary flight behaviour.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Checks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern UFO and UAP investigations therefore treat multi-sensor comparison as one of the fastest ways to separate genuine movement from camera-generated illusion. NASA’s independent UAP study warned that many cases are difficult to interpret because of “poor sensor [calibration]({{ 'calibration/' | relative_url }})”, missing [metadata]({{ 'metadata/' | relative_url }}) and a lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space In practice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>, that means a sighting supported by only one imaging mode is far more vulnerable to glare, tracking errors, stabilisation artefacts, parallax mistakes and depth illusions than a case independently confirmed across radar, infrared, visible-light and environmental data.
 
@@ -287,7 +286,6 @@ Multi-sensor comparison changes the question from “does the object look strang
 
 Investigators typically look for several warning signs:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Thermal expansion without visible structure:** infrared footage may show a large glowing shape while optical footage shows only a small point source.
@@ -298,7 +296,6 @@ Investigators typically look for several warning signs:
 </div>
 
 AI-assisted workflows can automate some of these comparisons. Image-analysis systems can synchronise timestamps, compare motion vectors between sensors and flag moments where shape changes occur in only one imaging mode. If an object appears to “transform” exclusively in infrared while radar and optical tracking remain stable, the probability of a sensor-origin effect rises sharply.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qsEjV8DdSbs" title="Gimbal UFO - A New Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer">Gimbal UFO - A New Analysis</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 204.1K &middot; Uploaded: March 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qsEjV8DdSbs">Open on YouTube</a></p></div></div></div>
 
@@ -327,7 +324,6 @@ A strong multi-sensor case therefore depends on independent agreement. If radar,
 
 This is one reason NASA and other research groups emphasise calibrated, multi-source observation networks rather than isolated clips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefNASA&#x27;s Unidentified Anomalous Phenomena Report14 Sept 2023 — “At present, analysis of UAP data is hampered by poor sensor cali...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">sensor metadata, and the lack of baseline data,&quot; the report states.Read more</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-2-dark.svg" | relative_url }}" alt="Sensor Checks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Sensor Disagreement Often Reveals the Artefact
 
@@ -349,14 +345,12 @@ This distinction becomes especially important in public UFO debates because huma
 
 Multi-sensor disagreement helps break that illusion by forcing investigators to ask which layer of the system actually produced the effect.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-3-dark.svg" | relative_url }}" alt="Sensor Checks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using AI to Spot Sensor Inconsistencies
 
 AI systems are increasingly useful not because they “identify aliens”, but because they can compare large amounts of sensor data far faster than a human analyst.
 
 In UFO case analysis, AI-assisted tools are commonly used for:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -372,7 +366,6 @@ In UFO case analysis, AI-assisted tools are commonly used for:
 For example, an automated workflow may detect that an object accelerates sharply in one infrared stream while remaining stationary relative to stars in visible-light footage. That discrepancy immediately suggests a tracking or stabilisation issue rather than true acceleration.
 
 Machine-learning systems can also compare new footage against libraries of known artefacts:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -391,7 +384,6 @@ The goal is not to dismiss unusual footage automatically. Instead, AI acts as a 
 
 Several scientific UAP projects now emphasise multimodal observation systems for exactly this reason. The Galileo Project, for example, has described integrated observatories combining infrared cameras, optical systems and auxiliary sensors so that unusual observations can be cross-checked instead of interpreted from a single viewpoint alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2411.07956" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Commissioning An All-Sky Infrared Camera Array for Detection Of Airborne ObjectsNovember 12, 2024...</span><span class="citation-popover-meta">Published: November 12, 2024</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_4_2xD66wB0" title="Chilean Navy UFO sighting explained | This Is Why" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer">Chilean Navy UFO sighting explained | This Is Why</a></p><p class="youtube-embed-meta">Channel: 7NEWS Australia &middot; Views: 11.9K &middot; Uploaded: August 2022 &middot; Length: 3 minutes 44 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_4_2xD66wB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_4_2xD66wB0">Open on YouTube</a></p></div></div></div>
 
 ## The Most Important Question Is Consistency
@@ -399,7 +391,6 @@ Several scientific UAP projects now emphasise multimodal observation systems for
 The strongest UFO evidence is rarely the most visually dramatic footage. It is the evidence that survives cross-checking.
 
 Investigators generally place greater weight on cases where:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -807,6 +798,7 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

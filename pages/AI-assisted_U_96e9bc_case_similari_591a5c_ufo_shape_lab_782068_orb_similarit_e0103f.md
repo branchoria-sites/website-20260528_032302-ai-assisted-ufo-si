@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_78
 
 Many UFO sightings end up labelled as “orbs” even when the underlying events have little in common. A witness may use the word for a bright planet near the horizon, an [aircraft]({{ 'aircraft/' | relative_url }}) landing light, a drifting lantern, a distant drone, a reflective balloon, or a blurred phone-camera light source. Once that single label enters a database, however, AI systems often treat the reports as visually related cases. That creates a major problem for automated UFO similarity searches.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-dark.svg" | relative_url }}" alt="Orb reports illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, shape words are only useful when tied to context. “Orb” is especially weak because human vision and consumer cameras naturally compress distant light sources into glowing circular points. NASA’s UAP study team has repeatedly stressed that poor-quality observations, missing [metadata]({{ 'metadata/' | relative_url }}), and inconsistent descriptions make automated analysis unreliable without stronger contextual data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportThe study of Unidentified Anomalous Phenomena (UAP) presents a unique scientific opportunity tha...</span></span></span>
 
@@ -288,7 +287,6 @@ In everyday language, “orb” sounds descriptive. In practice, it often means 
 That matters because witnesses are not observing the sky under controlled conditions. They may be tired, startled, viewing through haze, using digital zoom, or watching a distant light with no [reference points]({{ 'reference-points/' | relative_url }}) nearby. Under those conditions, very different objects collapse into the same visual impression.
 
 A typical “orb” report may describe:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -329,7 +327,6 @@ Bright astronomical objects generate a large number of UFO reports because the h
 
 Autokinetic illusion — a recognised visual effect in aviation — can make a stationary light appear to move when stared at against a dark background. FAA safety material specifically notes that stars and planets are sometimes mistaken for aircraft or UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faasafety.gov/files/events/SO/SO15/2024/SO15134204/YourSensesInTheShadows.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faasafety.gov">[FAASafety]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faasafety.gov</span><span class="citation-popover-title">Your Senses in the Shadows</span><span class="citation-popover-snippet">Nighttime Visual Illusions...This illusion happens when a pilot stares at a bright, stationary light set against a pitch-black backgroun...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia To a witness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviationPilots may experience disorientation and loss of perspective, creating illusions that range from false ho...</span></span></span>, the object may genuinely seem to drift, pulse, or react to observation. To an AI search engine, however, the report simply becomes another “moving orb”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l05NGp_z6TI" title="Why eyewitnesses fail | Thomas Albright | TEDxSanDiego" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer">Why eyewitnesses fail | Thomas Albright | TEDxSanDiego</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 104.2K &middot; Uploaded: November 2016 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l05NGp_z6TI">Open on YouTube</a></p></div></div></div>
 
 ### Drones, lanterns, and balloons
@@ -345,7 +342,6 @@ Once the report text is reduced to “orange orb moving silently”, the origina
 Many UFO databases rely heavily on free-text reports and simple descriptive tags. That encourages automated systems to overvalue superficial similarities.
 
 If a machine-learning system is trained on large collections of UFO narratives, it may learn that “orb” reports frequently include words like:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -369,14 +365,12 @@ NASA’s UAP work repeatedly emphasises that high-quality analysis requires cali
 
 This is especially important for orb reports because the visual information is already minimal before the report reaches the database.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-dark.svg" | relative_url }}" alt="Orb reports illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How orb labels create false UFO patterns
 
 Orb-heavy datasets often generate misleading statistical patterns.
 
 For example, a similarity engine might conclude that “orange orb” sightings cluster around airports, coastlines, or urban areas. That sounds meaningful until investigators realise those are also places with:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -394,7 +388,6 @@ The same distortion appears in temporal clustering. Orb reports often rise durin
 
 Environmental context is therefore more valuable than [shape labels]({{ 'shape-labels/' | relative_url }}) alone. Weather data, astronomy checks, flight paths, satellite visibility, launch schedules, and local event records usually narrow explanations far more effectively than text similarity between witness narratives.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/r5vjfzPuKpw" title="Insane and strange lens flare" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=r5vjfzPuKpw" target="_blank" rel="noopener noreferrer">Insane and strange lens flare</a></p><p class="youtube-embed-meta">Channel: Dombowerphoto &middot; Views: 1.3K &middot; Uploaded: May 2016 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=r5vjfzPuKpw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=r5vjfzPuKpw">Open on YouTube</a></p></div></div></div>
 
 ## Why phone footage makes the problem worse
@@ -407,7 +400,6 @@ This is why many “orb” videos online show featureless circles that appear to
 
 Investigators therefore need to separate:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What the witness saw directly
@@ -417,7 +409,6 @@ Investigators therefore need to separate:
 </div>
 
 An AI similarity system trained on screenshots or captions without this distinction may reinforce camera artefacts as if they were genuine object characteristics.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-dark.svg" | relative_url }}" alt="Orb reports illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068_orb_similarit_e0103f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Better checks for light-only UFO reports
@@ -446,7 +437,6 @@ These checks often separate superficially similar reports into completely differ
 Two witnesses may both report a “white orb hovering silently”, but one event may align with Venus at low altitude while the other matches a commercial aircraft on approach. Without environmental reconstruction, the reports look similar. With context, the similarity disappears.
 
 This is one reason modern AI-assisted UFO investigation increasingly treats shape labels as low-confidence metadata rather than primary classification evidence.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/YfYlNQa2Ijw" title="Explaining the green dot in your photos #shorts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=YfYlNQa2Ijw" target="_blank" rel="noopener noreferrer">Explaining the green dot in your photos #shorts</a></p><p class="youtube-embed-meta">Channel: Heckinsick &middot; Views: 161.8K &middot; Uploaded: March 2022 &middot; Length: 26 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=YfYlNQa2Ijw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=YfYlNQa2Ijw">Open on YouTube</a></p></div></div></div>
 
@@ -871,6 +861,7 @@ That is why orb reports remain one of the most difficult categories in AI-assist
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

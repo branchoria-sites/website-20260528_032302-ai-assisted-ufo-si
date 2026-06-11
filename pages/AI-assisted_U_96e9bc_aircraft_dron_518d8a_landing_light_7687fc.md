@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_76
 
 A bright light that seems to hang motionless in the night sky is one of the most common starting points for a UFO or UAP report. In many cases, the effect is caused by an ordinary [aircraft]({{ 'aircraft/' | relative_url }}) flying almost directly towards the observer with its landing lights pointed along the same line of sight. Because the aircraft is approaching head-on rather than crossing sideways through the observer’s field of view, its apparent movement can become extremely small. The result is a bright “hovering orb” effect that can last for several minutes before the object suddenly seems to move, turn, dim or vanish.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-dark.svg" | relative_url }}" alt="Landing lights illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because witnesses often describe these lights as silent, stationary and unusually bright. Without a structured [geometry]({{ 'geometry/' | relative_url }}) check, a normal approach path can be mistaken for an anomalous hovering object. A good investigation workflow therefore tests not only whether an aircraft was nearby, but whether its heading, altitude and lighting configuration would have produced the same visual effect from the witness position.
 
@@ -305,7 +304,6 @@ This matters in AI-assisted UFO sighting investigation because witnesses often d
 Human vision is much better at detecting sideways movement than motion directly towards or away from the observer. A distant aircraft crossing left to right creates obvious angular movement against the background sky. An aircraft flying almost directly towards the witness may show very little apparent change in position even while travelling at hundreds of miles per hour. Aviation discussions often describe this in terms of “angular speed”: a head-on aircraft can appear nearly stationary because its position relative to the observer changes very slowly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://aviation.stackexchange.com/questions/74235/can-passenger-airliners-hover-completely-motionless-in-the-air" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aviation.stackexchange.com">[Aviation Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aviation.stackexchange.com</span><span class="citation-popover-snippet">Aviation Stack ExchangeCan passenger airliners hover completely motionless in...7 Feb 2020 — An aircraft coming directly towards you or...</span></span></span>
 
 This effect becomes especially strong during:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -319,7 +317,6 @@ This effect becomes especially strong during:
 Large airports can produce repeated reports of “hovering lights” from people located beneath or beside the extended runway centreline. The aircraft may remain visually fixed for several minutes before suddenly drifting sideways as the geometry changes near the end of the approach.
 
 Distance also matters. A jet twenty or thirty miles away may already have landing lights visible at night while its fuselage remains invisible. Aircraft landing lights are extremely bright and are specifically intended to improve visibility over long distances. FAA guidance and aviation references note that landing-light systems can be visible many miles away at night and are commonly used to increase aircraft conspicuity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap2_section_1.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration Chapter 2</span><span class="citation-popover-snippet">Aeronautical Lighting and Other Airport Visual...The VASI is a system of lights so arranged to provide visual descent guidance informati...</span></span></span> Wikipedia For a witness with no depth cues <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>, the result can look deeply unnatural:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -345,7 +342,6 @@ At long range, the aircraft itself may be invisible while the landing lights rem
 
 [Phone cameras]({{ 'phone-cameras/' | relative_url }}) often exaggerate this further. Small bright lights against a dark background tend to bloom, pulse or lose shape because of autofocus hunting, [digital zoom]({{ 'digital-zoom/' | relative_url }}) and overexposure. The recorded video can therefore look stranger than the naked-eye view.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d5BUXAozb08" title="Dangerous Optical Illusions On Approach - Too High or Too Low?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer">Dangerous Optical Illusions On Approach - Too High or Too Low?</a></p><p class="youtube-embed-meta">Channel: Easyjetsimpilot &middot; Views: 4.1K &middot; Uploaded: May 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d5BUXAozb08" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d5BUXAozb08">Open on YouTube</a></p></div></div></div>
 
 ### Why the object suddenly “moves”
@@ -353,7 +349,6 @@ At long range, the aircraft itself may be invisible while the landing lights rem
 Witnesses often report that the object hovered for several minutes and then abruptly changed direction. In reality, the aircraft may simply have reached the point where its sideways motion finally became obvious.
 
 A classic sequence is:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -374,7 +369,6 @@ A plane can also appear to “blink out” or vanish instantly without requiring
 
 Common reasons include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The pilot switches off landing lights after departure or before changing flight phase <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
@@ -389,7 +383,6 @@ Even a small heading change can dramatically reduce brightness because landing l
 
 Strobe lights can add to the confusion. White anti-collision strobes may create periodic flashes around the central glow, especially in humid or hazy conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://epicflightacademy.com/aircraft-lights/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: epicflightacademy.com">[Epic Flight Academy]</a><span class="citation-popover" role="note"><span class="citation-popover-source">epicflightacademy.com</span><span class="citation-popover-title">aircraft lights</span><span class="citation-popover-snippet">Epic Flight AcademyAircraft Lighting: Types, Importance, and Regulations3 Mar 2026 — Strobe lights: High-intensity flashing white lights...</span></span></span> Wikipedia Witnesses sometimes interpret this as pulsation <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>, structured lighting patterns or erratic behaviour.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-dark.svg" | relative_url }}" alt="Landing lights illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why night-time perception makes the effect stronger
 
@@ -398,7 +391,6 @@ Many UFO reports involving hovering lights occur at night because darkness remov
 Aviation research on visual illusions shows that isolated lights in dark conditions can create strong misperceptions. Pilots themselves are trained to recognise night illusions such as autokinesis, where a stationary light appears to move when stared at against a featureless background. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hartzellprop.com/watch-out-for-night-flight-illusions/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hartzellprop.com">[Hartzell Propeller]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hartzellprop.com</span><span class="citation-popover-title">watch out for night flight illusions</span><span class="citation-popover-snippet">illusions that you might encounter in night flight: Autokinesis. This illusion happens when a pilot stares at a bright, stationary light...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Landing_lights" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Landing lights</span><span class="citation-popover-snippet">Landing lights</span></span></span>
 
 For a ground observer unfamiliar with aviation lighting, several factors combine:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -413,7 +405,6 @@ For a ground observer unfamiliar with aviation lighting, several factors combine
 An approaching aircraft can therefore appear far smaller, slower and stranger than it really is.
 
 This also explains why some witnesses sincerely insist the object “could not have been a plane”. From their viewpoint, the object did not behave like the sideways-moving aircraft they were used to seeing.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6BD9fyyIJzY" title="Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer">Spatial Disorientation Explained: Deadly Flight Illusions Every Pilot Must Know</a></p><p class="youtube-embed-meta">Channel: Epic Flight Academy &middot; Views: 9.1K &middot; Uploaded: December 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6BD9fyyIJzY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6BD9fyyIJzY">Open on YouTube</a></p></div></div></div>
 
@@ -438,7 +429,6 @@ A useful reconstruction should test:
 
 A strong match often shows an aircraft approaching nearly along the witness line of sight before eventually diverging sideways.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-dark.svg" | relative_url }}" alt="Landing lights illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_landing_light_7687fc-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Signs that the landing-light explanation fits well
 
@@ -453,7 +443,6 @@ The explanation becomes more convincing when several features align together:
 * Flight-track data shows an inbound aircraft aligned with the witness bearing
 
 Witness descriptions of “hovering”, “slowly coming closer” or “suddenly turning into a plane” are particularly consistent with head-on approach geometry.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.7K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
 
@@ -869,6 +858,7 @@ That does not solve every case. Some reports remain poorly explained after aviat
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

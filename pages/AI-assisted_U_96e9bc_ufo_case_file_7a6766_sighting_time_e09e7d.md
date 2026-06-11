@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e0
 
 A UFO sighting cannot be tested properly unless investigators can place it inside a reliable time window. Even a difference of ten or fifteen minutes can change whether a bright object matches Venus, an [aircraft]({{ 'aircraft/' | relative_url }}) approach path, a Starlink train, a military exercise, a meteor shower or nothing obvious at all. Time is the anchor that allows every other comparison step to happen.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That sounds simple, but witness timing is often uncertain. People remember “around 9pm”, confuse the start and end of an event, misread clocks under stress, or later reconstruct details from memory after discussing the sighting with others. Phone videos may carry incorrect [metadata]({{ 'metadata/' | relative_url }}) if the device clock was wrong or the file was re-exported. Public reporting databases such as the National UFO Reporting Center explicitly ask whether the reported date and time are approximate because timing uncertainty is common and materially affects investigation quality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://nuforc.org/reportform/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nuforc.org">[NUFORC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nuforc.org</span><span class="citation-popover-snippet">UFO Sighting Report Form &#124; NUFORCEnter any additional clarification on the date/ time. Do not enter craft description or location h...</span></span></span>
 
@@ -331,7 +330,6 @@ Witness memory matters, but reconstruction should not depend on memory alone. Th
 ### Device metadata is useful but not automatically reliable
 
 Phone photos and videos often contain EXIF metadata including capture time, device model, frame rate and sometimes GPS location. This is usually the best initial timestamp available, but investigators should still verify:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -376,7 +374,6 @@ Environmental records are especially important when the witness memory is uncert
 
 If a witness reports a glowing object vanishing into cloud at 20:15, but meteorological archives show clear skies until 21:00, either the timing or description may be wrong. Likewise:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * a claimed bright western light after astronomical twilight may align with Venus
@@ -395,7 +392,6 @@ Most public UFO reports are incomplete. The key question is not whether the witn
 ### Start with the earliest confirmed moment
 
 Investigators should separate:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -431,7 +427,6 @@ This matters because automated systems can otherwise create misleading correlati
 
 Imagine a satellite pass occurred at 21:14. If the witness estimate was actually uncertain by ±15 minutes, the apparent match may be weak rather than strong. Preserving uncertainty stops AI systems from overstating confidence.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Use contradiction checks instead of single-source certainty
 
@@ -454,7 +449,6 @@ Many UFO reports contain phrases such as “it vanished instantly”, “it blin
 ### A disappearance may be observational rather than physical
 
 Common causes include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -497,7 +491,6 @@ AI-assisted systems should therefore model:
 * unknown intervals
 
 These distinctions are more important than dramatic narrative phrasing.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI should keep uncertainty visible
@@ -957,6 +950,7 @@ And that is the real purpose of timeline reconstruction in AI-assisted UFO sight
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

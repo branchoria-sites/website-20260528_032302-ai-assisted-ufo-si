@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b6
 
 A common problem in UFO investigations is that witnesses compare an object's movement with the wind they can feel on the ground. If the surface breeze is blowing west, but the object appears to drift north or remain stationary, the sighting may seem difficult to explain. Upper-air wind data often changes that assessment completely.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Winds illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Wind direction and speed can vary dramatically with altitude. A balloon at 20,000 feet may travel in a different direction from the wind at 2,000 feet, while a higher layer may reverse direction again. [Weather]({{ 'weather/' | relative_url }}) balloons, research balloons, advertising balloons, drifting radar reflectors, and even some lightweight debris can therefore appear to move intelligently, pause, turn, or travel “against the wind” when viewed from the ground. In AI-assisted UFO sighting investigation, reconstructing those layered wind conditions is one of the fastest ways to test whether a reported object behaved like a free-floating balloon rather than a powered craft. Radiosonde records, trajectory models, and witness timelines together can turn a vague visual account into a measurable atmospheric reconstruction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/upperair/radiosondes" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-snippet">Radiosondes &#124; National Oceanic and Atmospheric...16 Sept 2025 — The radiosonde flight can last in excess of two hours, and during th...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/upperair/factsheet" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Radiosonde ObservationIn that time, the radiosonde can ascend to an altitude exceeding 35 km (about 115,000 feet) and drift more than 300...</span></span></span>
 
@@ -280,7 +279,6 @@ Wind direction and speed can vary dramatically with altitude. A balloon at 20,00
 The atmosphere is not a single moving air mass. It is a stack of layers with different temperatures, pressures, and airflow patterns. Meteorological balloons reveal these layers by climbing through them while transmitting position and atmospheric data back to the ground. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">bservations from more than 2800 globally distributed stations...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/epz/upperair" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Upper Air10 Dec 2024 — The observation system consists of an instrument (radiosonde), and a gas-filled balloon. This radiosonde contains...</span></span></span>
 
 A typical radiosonde flight can rise above 100,000 feet and drift hundreds of kilometres from launch because the balloon is continuously carried by changing upper-air winds. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/rah/virtualtourballoon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">onde can ascend to over 115,000 feet (35,000 meters) and drift more than...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/gjt/education_corner_balloon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Education Corner weather balloonThe weather balloon remains the best platform for observing temperature, wind, relative humidity, and pre...</span></span></span> The wind profile collected during that ascent is one of the most useful hidden datasets in UFO analysis because it provides a vertical map of:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -295,7 +293,6 @@ A typical radiosonde flight can rise above 100,000 feet and drift hundreds of ki
 This matters because witnesses usually estimate movement relative to trees, clouds, rooftops, or the horizon rather than relative to the object's actual altitude. A balloon high above the observer may therefore appear to violate local wind conditions simply because it occupies a completely different wind regime.
 
 In some conditions, layered airflow becomes extreme. A balloon ascending through several thousand feet can encounter:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -319,7 +316,6 @@ A distant balloon moving directly toward or away from the observer may show very
 
 This becomes especially misleading near sunset or sunrise. Sunlit balloons at high altitude can remain brightly illuminated long after the ground is dark, making them stand out against a darker sky. A reflective balloon drifting slowly in upper-level winds can therefore appear as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A glowing orb
@@ -335,7 +331,6 @@ The effect becomes stronger when haze obscures depth perception.
 
 A balloon does not need propulsion to appear to turn sharply. Several ordinary mechanisms can create that impression:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The balloon changes altitude and enters a new wind layer
@@ -349,7 +344,6 @@ In witness testimony, these changes are often compressed into dramatic descripti
 
 Meteorological and aviation sources repeatedly note that balloons can effectively “steer” by moving into different wind currents at different heights. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seattleballooning.com/how-do-you-steer-a-hot-air-balloon-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seattleballooning.com">[Seattle Ballooning]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seattleballooning.com</span><span class="citation-popover-title">Seattle Ballooning How Do You Steer A Hot Air Balloon?</span><span class="citation-popover-snippet">Navigation Secrets29 Dec 2025 — Hot air balloons are not directly steerable aircraft. FAA guidance classifies them as free floating aircr...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://rainbowryders.com/about/blog/hot-air-balloon-wind-speed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rainbowryders.com">[Rainbow Ryders]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rainbowryders.com</span><span class="citation-popover-title">hot air balloon wind speed</span><span class="citation-popover-snippet">Limits Explained15 Dec 2025 — There is no strict hot air balloon max wind speed, but pilots often consider canceling when winds are forec...</span></span></span> A drifting object that climbs or descends naturally can therefore seem to perform deliberate directional changes.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MKxbblLlZ-A" title="Increase in observed UFO activity reflects NORAD shift in ‘protocols,&#x27; widened ‘focus’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MKxbblLlZ-A" target="_blank" rel="noopener noreferrer">Increase in observed UFO activity reflects NORAD shift in ‘protocols,&#x27; widened ‘focus’</a></p><p class="youtube-embed-meta">Channel: MS NOW &middot; Views: 48.9K &middot; Uploaded: February 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MKxbblLlZ-A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MKxbblLlZ-A">Open on YouTube</a></p></div></div></div>
 
 ### Why witness estimates become unreliable
@@ -357,7 +351,6 @@ Meteorological and aviation sources repeatedly note that balloons can effectivel
 Human observers are poor at estimating altitude, especially at night or against featureless skies. If a witness assumes an object is low and nearby when it is actually high and distant, the perceived speed can become wildly exaggerated.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -385,12 +378,10 @@ From there, AI-assisted workflows can retrieve upper-air observations from nearb
 
 The next step is to compare the reported motion with real wind vectors at multiple altitudes.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Winds illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Example reconstruction logic
 
 Suppose witnesses report:
-
 
 <div class="content-enhancement content-enhancement--example" markdown="1">
 
@@ -411,7 +402,6 @@ If the object's apparent movement matches the upper-level pattern rather than th
 
 This does not automatically prove the object was a balloon. It simply shifts the probability assessment. The key investigative question becomes whether the observed behaviour is compatible with passive atmospheric drift.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1XtcqIv_EHs" title="Weather for Pilots - 01 - Layers of the Atmosphere" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1XtcqIv_EHs" target="_blank" rel="noopener noreferrer">Weather for Pilots - 01 - Layers of the Atmosphere</a></p><p class="youtube-embed-meta">Channel: ERAU SpecialVFR &middot; Views: 175.2K &middot; Uploaded: August 2016 &middot; Length: 3 minutes 22 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1XtcqIv_EHs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1XtcqIv_EHs">Open on YouTube</a></p></div></div></div>
 
 ### Using trajectory models
@@ -428,7 +418,6 @@ These models are useful for:
 In a UFO workflow, this becomes especially valuable when several witnesses report the same object across different towns or times.
 
 A trajectory reconstruction can show whether the movement pattern is physically consistent with atmospheric transport. If it is not, the balloon explanation weakens.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Winds illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_weather_layer_b630a5_upper_air_bal_7d2f55-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Surface Weather Alone Often Misleads Investigators
@@ -451,7 +440,6 @@ Because most people experience weather only at the surface, they intuitively ass
 Upper-air datasets frequently show those conclusions were based on [incomplete]({{ 'incomplete-data/' | relative_url }}) atmospheric information rather than anomalous flight behaviour.
 
 Weather balloons themselves demonstrate this directly. NOAA notes that radiosondes routinely drift long distances during ascent because winds vary substantially throughout the atmosphere. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.ncei.noaa.gov/access/[metadata" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ncei.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ncei.noaa.gov</span><span class="citation-popover-snippet">Global Radiosonde Archive (IGRA), Version 2December 1, 2025 — IGRA Version 2 consists of quality-controlled radiosonde observations of te...</span><span class="citation-popover-meta">Published: December 1, 2025</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rruiv5eSBro" title="Understanding Weather Soundings: How to Read a Skew-t chart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rruiv5eSBro" target="_blank" rel="noopener noreferrer">Understanding Weather Soundings: How to Read a Skew-t chart</a></p><p class="youtube-embed-meta">Channel: Alex Schoel WX &middot; Views: 49.8K &middot; Uploaded: April 2020 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rruiv5eSBro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rruiv5eSBro">Open on YouTube</a></p></div></div></div>
 
@@ -884,6 +872,7 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1094,4 +1083,4 @@ Modern UAP assessment bodies increasingly use this kind of reasoning. The US Dep
    Title: This explanation was later supported by the National Weather  
    Link: <a href="https://www.spacesafetymagazine.com/space-exploration/extraterrestrial-life/ufo-weather-balloon-californian-mystery-solved/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesafetymagazine.com/space-exploration/extraterrestrial-life/ufo-weather-balloon-californian-mystery-solved/</a>  
     <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO versus a Weather Balloon: Recent Californian Mystery Solved –January 11, 2013 — The mysterious space explosion was probably nothing m...</p></details>
-   Published: January 11, 2013  
+   Published: January 11, 2013

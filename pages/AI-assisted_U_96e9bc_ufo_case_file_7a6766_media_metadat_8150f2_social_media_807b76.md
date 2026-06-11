@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_81
 
 Most viral UFO footage online is not the [original evidence]({{ 'original-evidence/' | relative_url }}). It is usually a compressed repost, cropped clip, screenshot, screen recording or edited remix several generations removed from the source file. That matters because the technical information stripped away during upload is often more valuable to investigators than the glowing object itself.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-dark.svg" | relative_url }}" alt="Reposts illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In AI-assisted UFO sighting investigation, [metadata]({{ 'metadata/' | relative_url }}) helps establish whether a sighting can be reconstructed against known [aircraft]({{ 'aircraft/' | relative_url }}) routes, satellite passes, weather conditions, astronomical objects or camera artefacts. Once a clip passes through TikTok, X, Instagram, Reddit or messaging apps, large parts of that evidential layer can disappear. Upload systems routinely re-encode videos, resize images, remove EXIF metadata, alter timestamps and generate entirely new files optimised for streaming rather than forensic analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciepublish.com/article/pii/567" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciepublish.com">[SCIEPublish]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciepublish.com</span><span class="citation-popover-snippet">Forensic Value of Exif Data: An Analytical Evaluation...by N Soni · 2025 · Cited by 6 — This research adopts an empirical app...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.magnetforensics.com/blog/getting-to-the-source-understanding-metadata-removal-on-social-media/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: magnetforensics.com">[Magnet Forensics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">magnetforensics.com</span><span class="citation-popover-title">getting to the source understanding metadata removal on social media</span><span class="citation-popover-snippet">Magnet ForensicsGetting to the...</span></span></span>
 
@@ -288,7 +287,6 @@ The result is a recurring problem in modern UFO research: public debate centres 
 A UFO clip does not become stronger evidence because millions of people have seen it. In practice, virality often weakens the evidential chain.
 
 Investigators trying to assess a sighting usually want to answer a series of basic questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ Investigators trying to assess a sighting usually want to answer a series of bas
 Original files sometimes preserve these answers through embedded metadata and codec information. Reposts usually do not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ipaco.fr/page27.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ipaco.fr">[Ipaco]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ipaco.fr</span><span class="citation-popover-title">Analysis methodology</span><span class="citation-popover-snippet">Analysis methodology - IPACO.frThe IPACO software enables the analyst to determine, using metadata, whether a digital picture in JPE...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">arXiv Forensic Analysis of Video Files Using Metadata</span></span></span>
 
 A common social-media evidence chain now looks like this: <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-6" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: A common social-media evidence chain now looks like this:">[A common social-media evidence chain now looks like this:]</a><span class="citation-popover" role="note"><span class="citation-popover-source">A common social-media evidence chain now looks like this:</span><span class="citation-popover-snippet">PrivacyStripDo X, Instagram &amp; WhatsApp Strip EXIF Metadata? (2026)15 Dec 2024 — See whether X/Twitter, Instagram, WhatsApp, Signal, Faceb...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -351,7 +348,6 @@ Testing across major platforms consistently shows that Instagram, Facebook, TikT
 
 This distinction matters because many internet users assume a downloaded TikTok clip is still close to the original recording. Technically, it may be a heavily transformed derivative with altered bitrate, changed dimensions, recompressed frames and rewritten container data.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/d3NsT8lJRlE" title="OSINT At Home #2 - Five ways to find EXIF/metadata in a photo or video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=d3NsT8lJRlE" target="_blank" rel="noopener noreferrer">OSINT At Home #2 - Five ways to find EXIF/metadata in a photo or video</a></p><p class="youtube-embed-meta">Channel: Bendobrown &middot; Views: 148.8K &middot; Uploaded: February 2021 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=d3NsT8lJRlE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=d3NsT8lJRlE">Open on YouTube</a></p></div></div></div>
 
 ### Compression Changes What Analysts Can See
@@ -393,7 +389,6 @@ Many UFO identifications depend on movement relative to the environment.
 
 A short surrounding sequence may reveal:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Aircraft navigation-light blinking
@@ -409,7 +404,6 @@ A short surrounding sequence may reveal:
 A screenshot removes all of this context.
 
 A still frame of Venus near the horizon may look extraordinary if isolated from the preceding footage showing slow stationary behaviour. Likewise, a bright aircraft landing light can appear disc-shaped and enormous in a single compressed frame.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-dark.svg" | relative_url }}" alt="Reposts illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Scale and Distance Become Harder to Judge
@@ -428,7 +422,6 @@ A manipulated video exported from editing software may contain traces in its met
 
 That does not prove deception. Many witnesses simply share screenshots for convenience. But from an evidential perspective, screenshots dramatically reduce the ability to verify authenticity.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/uZxb_pTAELg" title="Mobile Device Forensics: Collection and Preservation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=uZxb_pTAELg" target="_blank" rel="noopener noreferrer">Mobile Device Forensics: Collection and Preservation</a></p><p class="youtube-embed-meta">Channel: Texas Department of Public Safety &middot; Views: 21.9K &middot; Uploaded: August 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=uZxb_pTAELg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=uZxb_pTAELg">Open on YouTube</a></p></div></div></div>
 
 ## Tracing Edits and Compression History
@@ -440,7 +433,6 @@ This is where AI-assisted workflows increasingly intersect with digital forensic
 ### Signs a UFO Clip Has Been Reprocessed
 
 Analysts may look for:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -461,7 +453,6 @@ In UFO cases, this can reveal that a supposedly “raw” clip was exported thro
 
 That alone does not invalidate a sighting. Witnesses routinely trim clips or add captions. But it changes how strongly investigators can treat the file as untouched source evidence.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-dark.svg" | relative_url }}" alt="Reposts illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_social_media_807b76-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### AI Can Help Detect Re-encoding Chains
 
@@ -478,7 +469,6 @@ For UFO investigations, these systems can help identify:
 However, AI analysis has limits. Once a clip has passed through enough social-media processing stages, important information may be permanently unrecoverable.
 
 A viral repost can therefore create a false impression that “the evidence is online somewhere” when the critical evidential layer disappeared during the [first upload]({{ 'first-upload/' | relative_url }}).
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sROvs6dQ528" title="How image compression algorithms work" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sROvs6dQ528" target="_blank" rel="noopener noreferrer">How image compression algorithms work</a></p><p class="youtube-embed-meta">Channel: Gopu S Jeevan &middot; Views: 35.9K &middot; Uploaded: April 2021 &middot; Length: 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sROvs6dQ528" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sROvs6dQ528">Open on YouTube</a></p></div></div></div>
 
@@ -917,6 +907,7 @@ That does not mean every viral UFO video is false. It means the path from “int
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

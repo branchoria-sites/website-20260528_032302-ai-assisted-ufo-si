@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_81
 
 A bright light filmed at long range can look startlingly alive on a phone screen. It may appear to zig-zag, pulse, split into shapes, rotate or dart away from the camera. In many UFO clips, that apparent motion is not caused by the object itself but by the way modern [phone cameras]({{ 'phone-cameras/' | relative_url }}) process distant lights under difficult conditions.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-dark.svg" | relative_url }}" alt="Digital Zoom illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because a dramatic-looking video can create a misleading impression of speed, manoeuvring or shape change. Investigators therefore need to separate true object movement from camera-induced artefacts. Digital zoom, low-light enhancement, autofocus hunting, image stabilisation and atmospheric distortion can all combine to make ordinary [aircraft]({{ 'aircraft/' | relative_url }}), planets or drones look highly unusual. Modern smartphones are especially prone to this because they rely heavily on computational photography rather than purely optical imaging. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.honor.com/uk/blog/optical-zoom-vs-digital-zoom/?srsltid=AfmBOoqTwcBrRgYIp4uInAHRzlPdDDZpDtSzzcHlaMaG9RK1FcxMwb-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honor.com">[Honor]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honor.com</span><span class="citation-popover-snippet">Optical Zoom vs Digital Zoom: Which Is Your Smartphone...June 18, 2024 — 18 Jun 2024 — Optical zoom changes the lens&#x27;s focal length...</span><span class="citation-popover-meta">Published: June 18, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://research.google/blog/night-sight-seeing-in-the-dark-on-pixel-phones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: research.google">[Google Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">research.google</span><span class="citation-popover-title">Google Research Night Sight: Seeing in the Dark on Pixel Phones</span><span class="citation-popover-snippet">Google ResearchNight Sight: Seeing in the Dark on Pixel Phones - Google ResearchNight Sight is a new feature of the Pixel Camera app that...</span></span></span>
 
@@ -284,7 +283,6 @@ That becomes a major problem when filming a tiny point of light against a dark s
 A distant aircraft light may occupy only a handful of pixels on the sensor. Once the phone digitally enlarges that tiny cluster, every microscopic hand movement also becomes enlarged. A movement too small for the human eye to notice can suddenly look like the object is shooting around the frame.
 
 This effect becomes extreme at high zoom levels because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -317,7 +315,6 @@ If the object moves violently while stars, buildings or horizon features move id
 
 Witnesses are often surprised that a distant light changes shape as they zoom in. A normal aircraft beacon may suddenly resemble:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * A glowing orb
@@ -338,7 +335,6 @@ With a distant point light, there is often no genuine structure to reconstruct. 
 This can create the illusion that the object itself has texture or geometry.
 
 Several additional mechanisms contribute:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nk-26lSbIMk" title="The Evolution of Smartphone Night Photography | WIRED" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nk-26lSbIMk" target="_blank" rel="noopener noreferrer">The Evolution of Smartphone Night Photography | WIRED</a></p><p class="youtube-embed-meta">Channel: WIRED &middot; Views: 82.6K &middot; Uploaded: March 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nk-26lSbIMk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nk-26lSbIMk">Open on YouTube</a></p></div></div></div>
 
@@ -368,7 +364,6 @@ The atmosphere itself bends and distorts light. Astronomers call this scintillat
 
 When digitally zoomed, this natural distortion can look like shape-changing motion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://amostech.com/wp-content/uploads/2015/09/2015-AMOS-Abstract-Book_FINAL.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amostech.com">[AMOS Conference]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amostech.com</span><span class="citation-popover-snippet">AMOS Conference2015 abstracts of technical papersSeptember 4, 2015 — 15 Sept 2015 — In this paper, we present analysis of the errors asso...</span><span class="citation-popover-meta">Published: September 4, 2015</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/et74Bwqw5fM" title="NASA | Wide Field Camera 3: Extending Hubble&#x27;s Vision" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=et74Bwqw5fM" target="_blank" rel="noopener noreferrer">NASA | Wide Field Camera 3: Extending Hubble&#x27;s Vision</a></p><p class="youtube-embed-meta">Channel: NASA Goddard &middot; Views: 4.4K &middot; Uploaded: May 2009 &middot; Length: 4 minutes 14 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=et74Bwqw5fM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=et74Bwqw5fM">Open on YouTube</a></p></div></div></div>
 
 ## Night-mode processing can invent apparent detail
@@ -380,7 +375,6 @@ Apple and Samsung use similar approaches in Night Mode and Nightography features
 This processing is excellent for normal photography, but it creates complications for UFO analysis.
 
 When a bright moving light is recorded against darkness, the software may:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -401,7 +395,6 @@ This means a phone video is not always a neutral recording of reality. It is oft
 
 That distinction matters greatly in UFO investigations because viewers naturally assume the camera is passively documenting the event. In reality, the device may be actively modifying the appearance of the light source in real time.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-2-dark.svg" | relative_url }}" alt="Digital Zoom illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why zoomed UFO videos often look faster than reality
 
@@ -410,7 +403,6 @@ Another common illusion involves apparent acceleration.
 A distant aircraft crossing the sky slowly may appear to rocket across the frame once heavily zoomed. This happens because magnification compresses angular movement.
 
 At high zoom: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.techradar.com/phones/samsung-galaxy-phones/9-samsung-galaxy-s25-ultra-camera-features-you-should-be-using-but-probably-arent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: techradar.com">[techradar.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">techradar.com</span><span class="citation-popover-snippet">The phone includes high-quality hardware like dual telephoto lenses (3x and 5x optical zoom) and a 200MP main sensor, which supports 2x z...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -429,7 +421,6 @@ A commercial aircraft tens of kilometres away may therefore appear to make impos
 
 Investigators should be especially cautious when:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The frame contains only darkness and the light
@@ -441,7 +432,6 @@ Investigators should be especially cautious when:
 </div>
 
 These conditions are highly prone to misperception.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-3-dark.svg" | relative_url }}" alt="Digital Zoom illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_media_metadat_8150f2_digital_zoom_deee77-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comparing zoom artefacts with genuine object motion
@@ -461,7 +451,6 @@ Artefact-driven motion behaves differently.
 
 ### Signs the motion is probably camera-induced
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The object jerks exactly with hand shake
@@ -472,7 +461,6 @@ Artefact-driven motion behaves differently.
 * Background features move identically
 
 </div>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/c_tJ43UF0Nw" title="IT CAN SPOT UFOS 🛸 Nikon P950 Review + Zoom Test" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=c_tJ43UF0Nw" target="_blank" rel="noopener noreferrer">IT CAN SPOT UFOS 🛸 Nikon P950 Review + Zoom Test</a></p><p class="youtube-embed-meta">Channel: Georges Cameras TV &middot; Views: 32.1K &middot; Uploaded: February 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=c_tJ43UF0Nw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=c_tJ43UF0Nw">Open on YouTube</a></p></div></div></div>
 
@@ -902,6 +890,7 @@ That distinction is central to responsible UFO case assessment. A dramatic-looki
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

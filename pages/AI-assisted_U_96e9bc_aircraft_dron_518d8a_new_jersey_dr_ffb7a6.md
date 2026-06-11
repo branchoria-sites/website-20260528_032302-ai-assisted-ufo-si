@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ff
 
 The wave of reported drone sightings over New Jersey in late 2024 became a useful stress test for modern UFO and UAP triage. Thousands of people reported lights, hovering objects and apparent drone formations across New Jersey and nearby states, yet investigators eventually concluded that the reports did not point to a single extraordinary cause. Instead, the episode exposed how quickly public anxiety, social media amplification, lawful [aircraft]({{ 'aircraft/' | relative_url }}) traffic, ordinary drones and genuine uncertainty can merge into a mass-reporting event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-1-dark.svg" | relative_url }}" alt="NJ drone wave illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, the New Jersey case matters less as a mystery and more as a workflow lesson. It showed why investigators need structured intake, rapid aviation checks, [confidence]({{ 'confidence/' | relative_url }}) scoring, duplicate filtering and careful communication. A large [sighting wave]({{ 'sighting-wave/' | relative_url }}) can contain real drones, mistaken aircraft identifications, astronomical objects, exaggerated retellings and unresolved fragments at the same time. Treating every report as either “obviously nothing” or “proof of something hidden” leads to poor triage in both directions.
 
@@ -320,7 +319,6 @@ For AI-assisted UFO investigation, this means witness sincerity cannot be treate
 An important lesson is that “mass sightings” do not automatically imply a single object or coordinated event. During the New Jersey wave, reports spread geographically and behaviour descriptions varied widely. Some reports may have involved real drones, while others likely involved aircraft, helicopters or misidentified celestial objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/2024_United_States_drone_sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">2024 United States drone sightings</span><span class="citation-popover-snippet">2024 United States drone sightings</span></span></span>
 
 A good triage system therefore separates:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -366,7 +364,6 @@ A structured intake system can immediately score report quality before deeper in
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
 * a report with GPS-tagged video and exact timestamps deserves higher priority;
@@ -376,7 +373,6 @@ For example:
 
 </div>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JpiO7dzmDQY" title="FAA bans drone flights over parts of New Jersey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JpiO7dzmDQY" target="_blank" rel="noopener noreferrer">FAA bans drone flights over parts of New Jersey</a></p><p class="youtube-embed-meta">Channel: CNN &middot; Views: 141.2K &middot; Uploaded: December 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JpiO7dzmDQY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JpiO7dzmDQY">Open on YouTube</a></p></div></div></div>
 
 ### AI clustering becomes critical during sighting waves
@@ -384,7 +380,6 @@ For example:
 The New Jersey incident showed how rapidly duplicated narratives can spread online. One dramatic sighting claim often generated dozens of derivative reports from nearby observers who then interpreted unrelated lights through the same frame.
 
 AI systems are useful here because they can:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -400,7 +395,6 @@ This prevents investigators from counting the same underlying stimulus hundreds 
 
 A practical UFO triage workflow should therefore distinguish between:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. unique sightings,
@@ -412,7 +406,6 @@ A practical UFO triage workflow should therefore distinguish between:
 
 The New Jersey wave showed how easily those categories blur during a fast-moving public scare.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-2-dark.svg" | relative_url }}" alt="NJ drone wave illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aviation and drone correlation must happen early
 
@@ -421,7 +414,6 @@ One major lesson from the New Jersey case is that aviation checks should occur i
 Federal agencies repeatedly stressed that many sightings were explainable as conventional aircraft or lawful drones. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">dhs fbi faa dod joint statement ongoing response reported drone sightings</span><span class="citation-popover-snippet">Federal Aviation AdministrationDHS, FBI, FAA &amp; DoD Joint Statement on Ongoing...17 Dec 2024 — We assess that the sightings to date inclu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fbi.gov/news/press-releases/joint-dhs-fbi-statement-on-reports-of-drones-in-new-jersey" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fbi.gov">[Federal Bureau of Investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fbi.gov</span><span class="citation-popover-title">joint dhs fbi statement on reports of drones in new jersey</span><span class="citation-popover-snippet">Federal Bureau of InvestigationJoint DHS/FBI Statement on Reports of Drones in New JerseyDec 12, 2024 — “We have no evidence at this time...</span></span></span>
 
 In UFO triage terms, this means automated correlation against:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -443,7 +435,6 @@ A balanced workflow therefore avoids two mistakes:
 * or assuming every unmatched light is trivial.
 
 Instead, investigators should grade confidence levels honestly.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fmuTjd9pYSU" title="Mystery drone sightings prompt restrictions in New York, New Jersey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fmuTjd9pYSU" target="_blank" rel="noopener noreferrer">Mystery drone sightings prompt restrictions in New York, New Jersey</a></p><p class="youtube-embed-meta">Channel: CBS New York &middot; Views: 241.1K &middot; Uploaded: December 2024 &middot; Length: 2 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fmuTjd9pYSU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fmuTjd9pYSU">Open on YouTube</a></p></div></div></div>
 
@@ -479,7 +470,6 @@ AI-assisted workflows should therefore separate:
 
 Those are very different categories.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-3-dark.svg" | relative_url }}" alt="NJ drone wave illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_new_jersey_dr_ffb7a6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Public communication changes witness behaviour
 
@@ -504,7 +494,6 @@ That includes:
 * and separating primary observations from influenced retellings.
 
 The New Jersey wave became as much an information-management problem as an aerial-identification problem.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QhlUP9nLNy0" title="FBI, FAA investigate mysterious drones in NJ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QhlUP9nLNy0" target="_blank" rel="noopener noreferrer">FBI, FAA investigate mysterious drones in NJ</a></p><p class="youtube-embed-meta">Channel: NJ Spotlight News &middot; Views: 17.0K &middot; Uploaded: December 2024 &middot; Length: 1 minute 27 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QhlUP9nLNy0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QhlUP9nLNy0">Open on YouTube</a></p></div></div></div>
 
@@ -933,6 +922,7 @@ That ambiguity is not a failure of investigation. In many UFO cases, careful tri
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

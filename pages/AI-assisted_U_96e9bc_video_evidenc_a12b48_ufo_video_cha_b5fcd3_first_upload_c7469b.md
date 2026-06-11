@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5
 
 Finding the first upload of a viral UFO clip is often more important than analysing the clip itself. The earliest recoverable version can reveal whether the footage is genuinely new, heavily edited, misdated, recycled from an older incident or detached from its [original]({{ 'original-evidence/' | relative_url }}) witness account. In AI-assisted UFO sighting investigation, this matters because automated analysis depends on trustworthy context: date, location, recording conditions, upload timeline and source continuity. A dramatic-looking object in the sky tells investigators very little if nobody can establish where the video first appeared or how many times it has been altered since.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1-dark.svg" | relative_url }}" alt="First Upload illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The problem is that viral repost chains move faster than evidence preservation. Clips migrate between TikTok, X, Reddit, Facebook, YouTube and messaging apps within hours. Watermarks are cropped away, captions are rewritten and compression strips [metadata]({{ 'metadata/' | relative_url }}) from successive uploads. By the time investigators begin checking the footage, the original upload may already be deleted. Open-source verification methods developed by organisations such as Bellingcat, Amnesty International and the InVID project are now central to tracing these chains because they focus on chronology, provenance and contextual consistency rather than visual drama alone. bellingcat <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.invid-project.eu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invid-project.eu">[InVID project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invid-project.eu</span><span class="citation-popover-title">In VI D Project</span><span class="citation-popover-snippet">InVID Project - Video VerificationThe InVID project develops a video verification platform to detect emerging stories and assess the reli...</span></span></span>
 
@@ -328,7 +327,6 @@ The most visually dramatic frame is often the least useful for provenance analys
 
 The InVID-WeVerify verification toolkit became widely adopted because it automates part of this process. It can fragment videos into keyframes, expose thumbnails, inspect metadata and launch reverse-image searches across multiple engines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.invid-project.eu/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: invid-project.eu">[InVID project]</a><span class="citation-popover" role="note"><span class="citation-popover-source">invid-project.eu</span><span class="citation-popover-title">In VI D Project</span><span class="citation-popover-snippet">InVID Project - Video VerificationThe InVID project develops a video verification platform to detect emerging stories and assess the reli...</span></span></span> WeVerify Investigators commonly run the same frame through several search engines because each indexes visual similarity differently: <span class="citation-chip-wrap"><a class="citation-chip" href="https://weverify.eu/verification-plugin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weverify.eu">[weverify.eu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weverify.eu</span><span class="citation-popover-snippet">Verification pluginThe InVID-WeVerify verification plugin is one of the most powerful tools for spotting misinformation online.Read more...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Google Lens often performs well with landmarks and objects.
@@ -348,7 +346,6 @@ Modern investigation workflows increasingly use AI-assisted image similarity sys
 
 This helps identify:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Reused flare footage
@@ -366,7 +363,6 @@ A frame match only proves that visually similar media existed earlier. Human [re
 ## What early uploads reveal about authenticity
 
 The earliest upload is valuable because it preserves context that later reposts often destroy.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-2-dark.svg" | relative_url }}" alt="First Upload illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Original captions and narrative drift
@@ -400,7 +396,6 @@ If a video supposedly recorded during a midnight sighting first appeared online 
 
 Even approximate upload timing can help narrow candidate explanations. A low orange light near the horizon means something different during a documented SpaceX launch window than during ordinary night-time conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mrNZNV8gXXM" title="How to use the InVID-WeVerify plugin to debunk disinformation" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mrNZNV8gXXM" target="_blank" rel="noopener noreferrer">How to use the InVID-WeVerify plugin to debunk disinformation</a></p><p class="youtube-embed-meta">Channel: Medieklyngen &middot; Views: 2.3K &middot; Uploaded: May 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mrNZNV8gXXM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mrNZNV8gXXM">Open on YouTube</a></p></div></div></div>
 
 ### Compression and editing clues
@@ -408,7 +403,6 @@ Even approximate upload timing can help narrow candidate explanations. A low ora
 Earlier uploads are also more likely to preserve subtle indicators of manipulation.
 
 Investigators examine whether:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -424,7 +418,6 @@ Investigators examine whether:
 Sometimes the earliest recoverable upload reveals that a supposedly mysterious manoeuvre was created by cropping or digital zooming in reposted versions.
 
 A common example involves edited playback speed. A slowed-down repost may make ordinary aircraft motion appear abrupt or physically impossible. Comparing frame timing across upload generations can expose these distortions.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-3-dark.svg" | relative_url }}" alt="First Upload illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_first_upload_c7469b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why deleted originals create long-term uncertainty
@@ -454,6 +447,19 @@ A typical workflow looks like this:
 
 1. Archive every known repost immediately.
 2. Extract keyframes from multiple moments in the video.
+
+3. Reverse-search frames across several engines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bellingcat.gitbook.io/toolkit/categories/image-video/reverse-image-search" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.gitbook.io">[bellingcat.gitbook.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.gitbook.io</span><span class="citation-popover-title">io Reverse Image Search</span><span class="citation-popover-snippet">Image Search - Bellingcat&#x27;s Online Investigation Toolkit07 Jun 2025 — This standalone application can be used to do a reverse image searc...</span></span></span>
+4. Identify the oldest visible upload timestamps.
+5. Compare captions and usernames across repost chains.
+6. Check whether watermarks were cropped or altered.
+7. Search for older matches outside UFO communities.
+8. Correlate upload timing with environmental and aviation data.
+9. Preserve copies before additional deletions occur.
+10. Separate confirmed facts from inferred assumptions.
+
+AI systems can accelerate this process by clustering visually similar uploads, flagging probable repost generations and surfacing likely earlier copies. However, human investigators still make the critical judgement calls about chronology, authenticity and context.
+
+The key lesson is simple: the first upload often contains more investigative value than the most viral one. In many UFO cases, provenance analysis resolves the mystery long before anyone needs advanced image enhancement or speculative interpretation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -846,18 +852,6 @@ A typical workflow looks like this:
 })();
 </script>
 </section>
-3. Reverse-search frames across several engines. <span class="citation-chip-wrap"><a class="citation-chip" href="https://bellingcat.gitbook.io/toolkit/categories/image-video/reverse-image-search" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bellingcat.gitbook.io">[bellingcat.gitbook.io]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bellingcat.gitbook.io</span><span class="citation-popover-title">io Reverse Image Search</span><span class="citation-popover-snippet">Image Search - Bellingcat&#x27;s Online Investigation Toolkit07 Jun 2025 — This standalone application can be used to do a reverse image searc...</span></span></span>
-4. Identify the oldest visible upload timestamps.
-5. Compare captions and usernames across repost chains.
-6. Check whether watermarks were cropped or altered.
-7. Search for older matches outside UFO communities.
-8. Correlate upload timing with environmental and aviation data.
-9. Preserve copies before additional deletions occur.
-10. Separate confirmed facts from inferred assumptions.
-
-AI systems can accelerate this process by clustering visually similar uploads, flagging probable repost generations and surfacing likely earlier copies. However, human investigators still make the critical judgement calls about chronology, authenticity and context.
-
-The key lesson is simple: the first upload often contains more investigative value than the most viral one. In many UFO cases, provenance analysis resolves the mystery long before anyone needs advanced image enhancement or speculative interpretation.
 
 ## Endnotes
 

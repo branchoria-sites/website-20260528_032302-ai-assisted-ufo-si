@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5c
 
 A flashing green light has become one of the most useful clues in modern UK night-time UFO and UAP reports. Since January 2026, UK Civil Aviation Authority (CAA) rules have required drones flown at night in the Open Category to display an active green flashing light. That means a witness who reports a hovering object with regular green pulses may not just be describing “something strange in the sky” anymore. They may be describing a legally operated drone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category1 day ago — From 1 January 2026, drones operated at night in the Open Categor...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category1 day ago — From 1 January 2026, drones operated at night in the Open Categor...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-1-dark.svg" | relative_url }}" alt="Green lights illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For investigators using AI-assisted UFO sighting workflows, this matters because it converts a vague visual description into a testable hypothesis. A green strobe does not automatically solve a case, but it sharply changes the direction of inquiry. Instead of starting from a broad unidentified-light scenario, investigators can immediately compare the report against known drone behaviour, local night-flight permissions, likely operating ranges, [Remote ID]({{ 'remote-id/' | relative_url }}) requirements, and the visual characteristics of consumer UAV lighting systems.
 
@@ -288,7 +287,6 @@ Before 2026, many UK night drone sightings were difficult to classify because li
 The CAA’s revised guidance changed that by introducing a more standardised visual signature for lawful night drone flights. Under UK Regulation (EU) 2019/947 UAS.OPEN.060(2)(g), drones operating at night in the Open Category must have an active green flashing light throughout the flight. The CAA states that the purpose is to help people on the ground distinguish a drone from a manned aircraft and to support safer visual line-of-sight operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category1 day ago — From 1 January 2026, drones operated at night in the Open Categor...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category1 day ago — From 1 January 2026, drones operated at night in the Open Categor...</span><span class="citation-popover-meta">Published: January 2026</span></span></span>
 
 For UFO case analysis, this creates a practical filtering mechanism:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -307,7 +305,6 @@ Importantly, the regulation applies to legal Open Category operations. An illega
 The biggest problem in night UFO reporting is that human observers are poor at judging distance, scale and speed in darkness. A small drone with a bright anti-collision strobe can appear much larger and farther away than it really is.
 
 CAA guidance does not specify an exact flash rate or brightness standard. Pilots simply need a visible green flashing light. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.caa.co.uk/drones/getting-started-with-drones-and-model-aircraft/flying-at-night-in-the-open-category/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: caa.co.uk">[Civil Aviation Authority]</a><span class="citation-popover" role="note"><span class="citation-popover-source">caa.co.uk</span><span class="citation-popover-title">flying at night in the open category</span><span class="citation-popover-snippet">Civil Aviation AuthorityFlying at night in the Open Category1 day ago — From 1 January 2026, drones operated at night in the Open Categor...</span><span class="citation-popover-meta">Published: January 2026</span></span></span> That flexibility means witnesses may encounter several different visual patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -340,7 +337,6 @@ These are exactly the kinds of perceptual distortions that AI-assisted case anal
 A flashing green light is now a stronger evidential clue than it was before 2026, but it is still only one data point.
 
 The strongest drone-indicator combination usually includes several overlapping features:
-
 
 <div class="content-enhancement content-enhancement--benefit" markdown="1">
 
@@ -376,7 +372,6 @@ A balanced assessment still needs:
 
 A green strobe can narrow possibilities quickly, but it does not independently prove what the object was.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-2-dark.svg" | relative_url }}" alt="Green lights illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## False positives that can mimic drone lighting
 
@@ -387,7 +382,6 @@ Several ordinary phenomena can produce reports that resemble drone strobes, espe
 Commercial aircraft frequently display combinations of green, red and white lights. Under some viewing angles, especially head-on or through haze, a witness may only perceive intermittent green flashes.
 
 Aircraft also create common UFO-report patterns:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -407,14 +401,12 @@ Police drones may legally display bright anti-collision lighting and can hover o
 
 Helicopters can also appear stationary when approaching directly toward an observer, especially at night. Their navigation lights may seem to pulse irregularly due to rotor vibration and atmospheric distortion.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-3-dark.svg" | relative_url }}" alt="Green lights illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_uk_drone_ligh_5cc929_green_drone_l_24006f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Tower lights and wind turbines
 
 Green aviation lights mounted on tall structures can create “hovering UFO” reports when viewed from unusual terrain angles or through mist.
 
 Wind turbines are especially prone to misidentification because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -857,6 +849,7 @@ This does not eliminate uncertainty. Some sightings remain poorly documented, co
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

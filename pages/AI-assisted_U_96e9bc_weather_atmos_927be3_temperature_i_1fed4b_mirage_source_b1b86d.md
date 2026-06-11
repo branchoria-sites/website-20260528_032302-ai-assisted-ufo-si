@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1f
 
 A mirage explanation for a UFO report only becomes convincing if investigators can identify a real object in the correct direction, at a plausible distance, under [weather]({{ 'weather/' | relative_url }}) conditions capable of bending light into the witness’s line of sight. That sounds straightforward, but in practice it is one of the hardest parts of atmospheric-optics analysis. A “floating object” seen over the sea may turn out to be a ship hidden below the horizon. A glowing structure above distant hills may match an industrial flare, offshore platform, wind farm or coastal settlement distorted by a temperature inversion. In other cases, no credible source object can be found at all.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-1-dark.svg" | relative_url }}" alt="Source Match illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, this stage matters because it converts a vague optical theory into a testable reconstruction. Instead of simply saying “it could have been a mirage”, investigators can compare witness bearings, [elevation]({{ 'elevation/' | relative_url }}) angles, terrain profiles, marine traffic, [aircraft]({{ 'aircraft/' | relative_url }}) positions and atmospheric data against known real-world targets. That process often decides whether a mirage explanation is genuinely strong or merely speculative.
 
@@ -315,7 +314,6 @@ Finding a candidate object is not enough on its own. Investigators must test whe
 
 The Earth’s curvature normally hides distant low-altitude objects beyond the horizon. Investigators therefore calculate:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * observer elevation
@@ -329,7 +327,6 @@ For example, a ship 50 kilometres away may already be partially hidden below the
 
 AI systems can automate this process by combining:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * digital elevation models
@@ -342,7 +339,6 @@ AI systems can automate this process by combining:
 
 The result is not just a guess but a measurable [geometry]({{ 'geometry/' | relative_url }}) test.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/er1mh90wN-k" title="Hovering Boats are Usually Not Mirages, they are beyond False Horizons" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=er1mh90wN-k" target="_blank" rel="noopener noreferrer">Hovering Boats are Usually Not Mirages, they are beyond False Horizons</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 27.5K &middot; Uploaded: March 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=er1mh90wN-k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=er1mh90wN-k">Open on YouTube</a></p></div></div></div>
 
 ### Bearing consistency
@@ -350,7 +346,6 @@ The result is not just a guess but a measurable [geometry]({{ 'geometry/' | rela
 Witness direction estimates are often unreliable by several degrees, especially at night. Even so, a candidate source should broadly match the reported bearing.
 
 A good mirage match usually includes:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,7 +358,6 @@ A good mirage match usually includes:
 </div>
 
 A poor match often depends on excessive assumptions, such as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -395,7 +389,6 @@ Large bodies of water create especially favourable conditions for superior mirag
 
 That is why many mirage-related UFO cases cluster around:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * coastlines
@@ -419,7 +412,6 @@ For investigators, coastal UFO reports deserve particular attention when witness
 
 Those are classic signatures of unstable refractive conditions rather than stable solid objects.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-2-dark.svg" | relative_url }}" alt="Source Match illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## AI-assisted source correlation workflows
 
@@ -439,7 +431,6 @@ A structured workflow can automatically compare the witness direction against:
 This rapidly narrows plausible candidates.
 
 For example, if a witness reported a bright hovering object over the North Sea at 21:15 local time, the system could automatically:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_10zDNP8cIM" title="Japan Airlines 1628 UFO Encounter, 1986" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_10zDNP8cIM" target="_blank" rel="noopener noreferrer">Japan Airlines 1628 UFO Encounter, 1986</a></p><p class="youtube-embed-meta">Channel: Think Anomalous &middot; Views: 151.9K &middot; Uploaded: February 2022 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_10zDNP8cIM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_10zDNP8cIM">Open on YouTube</a></p></div></div></div>
 
@@ -465,7 +456,6 @@ Patterns that often repeat include:
 * multiple witnesses seeing different forms simultaneously
 
 A Fata Morgana can alter appearance from moment to moment as air layers shift. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> That instability explains why witnesses sometimes disagree sharply about the same object’s shape or motion.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-3-dark.svg" | relative_url }}" alt="Source Match illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_temperature_i_1fed4b_mirage_source_b1b86d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Image enhancement and skyline matching
@@ -496,7 +486,6 @@ That does not automatically prove the sighting was extraordinary. Several other 
 Still, a failed source search weakens the mirage explanation substantially.
 
 A strong atmospheric-optics solution normally needs three elements together:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MxUfMKGyRrQ" title="AIS: Most Comprehensive Video on Maritime Tracking Technology!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MxUfMKGyRrQ" target="_blank" rel="noopener noreferrer">AIS: Most Comprehensive Video on Maritime Tracking Technology!</a></p><p class="youtube-embed-meta">Channel: The Yacht Report &middot; Views: 44.0K &middot; Uploaded: April 2024 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MxUfMKGyRrQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MxUfMKGyRrQ">Open on YouTube</a></p></div></div></div>
 
@@ -921,6 +910,7 @@ The investigative goal is therefore not ridicule or automatic dismissal. It is t
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2b
 
 The US Navy “GoFast” video became one of the most widely discussed modern UFO clips because it appears to show a small object racing just above the ocean at extraordinary speed. The footage looks convincing at first glance: the target streaks across the infrared display while aircrew react in surprise. Yet later analysis from independent investigators, NASA-linked researchers and the Pentagon’s All-domain Anomaly Resolution Office (AARO) argued that the apparent speed was largely a visual effect caused by parallax rather than extreme motion by the object itself. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/science/3-ways-scientists-use-math-to-help-debunk-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-title">3 ways scientists use math to help debunk ufo videos</span><span class="citation-popover-snippet">Semeter helped analyze one particular video called &quot;GO FAST,&quot; where an object seen and captured up by a U.S. military jet camera is movin...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-1-dark.svg" | relative_url }}" alt="Go Fast parallax illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, GoFast matters because it demonstrates a core analytical trap. A video can contain dramatic [angular motion]({{ 'angular-motion/' | relative_url }}) without proving dramatic real-world velocity. If the camera platform is moving quickly and the object’s range is uncertain, the scene can create a powerful illusion of impossible speed. GoFast became a case study in why [geometry]({{ 'geometry/' | relative_url }}), sensor motion and viewing angle must be reconstructed before any UFO clip is labelled anomalous.
 
@@ -305,7 +304,6 @@ One of the key findings from later reconstructions was that the object was proba
 
 The logic works like this:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. The camera is mounted on a fast-moving jet.
@@ -317,7 +315,6 @@ The logic works like this:
 </div>
 
 Independent analyst Mick West became one of the most visible proponents of this interpretation. Using the on-screen telemetry and basic trigonometry, he argued that the object’s motion was consistent with a slow-moving airborne object such as a balloon drifting with the wind. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — Lastly, the GO-FAST video probably shows a balloon, West surmises. “It&#x27;s not moving fast, it&#x27;s n...</span></span></span> VICE The important methodological point is not whether every analyst agrees on the exact identity of the object. The more important lesson is that <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[vice.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 — West thinks GOFAST is a balloon tracked by a camera and given unnatural spee...</span><span class="citation-popover-meta">Published: May 2020</span></span></span> the [original]({{ 'original-evidence/' | relative_url }}) visual impression depended heavily on assumptions about range and geometry. Once those assumptions changed, the extraordinary speed largely disappeared.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cwACSrLEPeM" title="Quantum physicists analyze pentagon US navy UFO video footage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer">Quantum physicists analyze pentagon US navy UFO video footage</a></p><p class="youtube-embed-meta">Channel: NYU Quantum Technology Lab &middot; Views: 6.8K &middot; Uploaded: June 2021 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cwACSrLEPeM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cwACSrLEPeM">Open on YouTube</a></p></div></div></div>
 
@@ -333,7 +330,6 @@ In reality, much of the apparent motion may belong to the aircraft-camera system
 
 This is one reason infrared military footage can mislead even experienced observers:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Narrow fields of view compress depth.
@@ -346,7 +342,6 @@ This is one reason infrared military footage can mislead even experienced observ
 
 A small object drifting at wind speed can therefore look far more dramatic than it would in ordinary daylight footage.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Le7Fqbsrrm8" title="Breakdown of the Pentagon UFO videos with Mick West" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer">Breakdown of the Pentagon UFO videos with Mick West</a></p><p class="youtube-embed-meta">Channel: Cool Worlds &middot; Views: 365.2K &middot; Uploaded: April 2020 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Le7Fqbsrrm8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Le7Fqbsrrm8">Open on YouTube</a></p></div></div></div>
 
 ## Why GoFast became important to UFO investigations
@@ -354,7 +349,6 @@ A small object drifting at wind speed can therefore look far more dramatic than 
 GoFast became influential because it forced a more technical style of public UFO analysis.
 
 Earlier UFO debates often depended heavily on witness interpretation alone. GoFast instead pushed attention toward measurable quantities:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -370,7 +364,6 @@ Earlier UFO debates often depended heavily on witness interpretation alone. GoFa
 
 That shift aligned closely with modern AI-assisted investigation methods. Instead of asking only “What does this look like?”, investigators increasingly ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * What was the observer platform doing?
@@ -382,7 +375,6 @@ That shift aligned closely with modern AI-assisted investigation methods. Instea
 </div>
 
 The GoFast debate also highlighted how public misunderstanding can spread when dramatic footage is detached from technical context. Clips circulate socially far faster than careful geometric reconstruction.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-2-dark.svg" | relative_url }}" alt="Go Fast parallax illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AI should flag before calling motion unusual
@@ -403,7 +395,6 @@ True velocity cannot be estimated confidently without distance.
 
 An AI system should downgrade confidence if:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * no radar range exists,
@@ -414,7 +405,6 @@ An AI system should downgrade confidence if:
 </div>
 
 GoFast became controversial largely because viewers unconsciously assumed the object was near the ocean surface.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-3-dark.svg" | relative_url }}" alt="Go Fast parallax illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_angular_motio_2bcb91_gofast_parall_972ef5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Background-reference traps
@@ -429,7 +419,6 @@ Tracking systems can make ordinary motion appear intentional or controlled.
 
 An automated workflow should separate:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * target movement,
@@ -440,7 +429,6 @@ An automated workflow should separate:
 </div>
 
 Without that separation, camera corrections may be mistaken for object acceleration.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/diPXow8zgc8" title="How scientists use math to help explain UFO videos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer">How scientists use math to help explain UFO videos</a></p><p class="youtube-embed-meta">Channel: PBS NewsHour &middot; Views: 11.7K &middot; Uploaded: April 2025 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=diPXow8zgc8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=diPXow8zgc8">Open on YouTube</a></p></div></div></div>
 
@@ -857,6 +845,7 @@ GoFast remains one of the clearest modern examples of how parallax can manufactu
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

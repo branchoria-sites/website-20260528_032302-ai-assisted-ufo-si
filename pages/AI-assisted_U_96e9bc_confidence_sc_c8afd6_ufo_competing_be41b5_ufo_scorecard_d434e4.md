@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be
 
 A UFO explanation can appear convincing right up until one detail breaks it completely. A sighting may match an [aircraft]({{ 'aircraft/' | relative_url }})’s lights, a balloon’s drift pattern, or a satellite’s timing, yet still fail because a key contradiction does not fit the known behaviour of that object. Modern UFO scorecards separate supporting evidence from contradictions precisely to avoid treating “mostly fits” as “fully explained”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-1-dark.svg" | relative_url }}" alt="Contradictions illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many UFO investigations involve [incomplete]({{ 'incomplete-data/' | relative_url }}), low-quality, or conflicting data. NASA’s independent UAP study stressed that many cases remain difficult to resolve because of missing metadata, weak [calibration]({{ 'calibration/' | relative_url }}), and inconsistent observations rather than because extraordinary technology has been confirmed. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/nasa-ufo-report-uap-study/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-title">nasa ufo report uap study</span><span class="citation-popover-snippet">NASA UAP report finds no evidence of &quot;extraterrestrial...14 Sept 2023 — Current data collection, Thursday&#x27;s report noted, &quot;is hampered b...</span></span></span> In practice, investigators often need to weigh two different questions at the same time:
 
@@ -285,7 +284,6 @@ A balanced scorecard keeps those questions separate. That structure helps AI-ass
 A common mistake in UFO analysis is assuming that the explanation with the most supporting points automatically wins. In reality, one contradiction can outweigh several strong matches.
 
 An aircraft explanation may initially look persuasive because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ That is especially important in sightings built from fragmented eyewitness testi
 
 Weak supporting evidence simply means the explanation is less convincing. For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A satellite pass occurred near the sighting time, but not exactly
@@ -327,7 +324,6 @@ A contradiction is different because it attacks the explanation’s core assumpt
 
 For instance, a balloon explanation may fit altitude, lighting, and drift direction, but fail if:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The object repeatedly moved against strong prevailing winds
@@ -337,7 +333,6 @@ For instance, a balloon explanation may fit altitude, lighting, and drift direct
 </div>
 
 Likewise, an aircraft explanation may fit the lighting pattern but fail if:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -368,7 +363,6 @@ Instead of collapsing these into one blended answer, modern scorecards isolate t
 
 AI-assisted reconstruction systems often prioritise motion because movement can be compared against measurable external data:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Wind speed and direction
@@ -387,7 +381,6 @@ Shape evidence is weaker than many people assume. Bright lights, blur, atmospher
 
 A triangular blur in a mobile phone clip may reflect:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Bokeh distortion from lens focus
@@ -398,7 +391,6 @@ A triangular blur in a mobile phone clip may reflect:
 </div>
 
 This is one reason AARO repeatedly compares reported imagery against known balloon signatures and movement behaviour together rather than relying on shape alone. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO bases its assessment on the object&#x27;s strong morphological consistency with other resolved imagery depicting balloons...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-2-dark.svg" | relative_url }}" alt="Contradictions illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Environmental evidence
@@ -440,7 +432,6 @@ That is more useful than pretending certainty exists where it does not.
 Investigators sometimes become attached to an early theory. Once that happens, contradictory evidence may be dismissed or minimised.
 
 Scorecards make contradictions visible rather than burying them inside narrative prose. That improves auditability and peer [review]({{ 'review/' | relative_url }}).
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-3-dark.svg" | relative_url }}" alt="Contradictions illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_competing_be41b5_ufo_scorecard_d434e4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### It allows explanations to coexist temporarily
@@ -899,6 +890,7 @@ That balance is one reason competing explanation scorecards have become increasi
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

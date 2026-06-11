@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8
 
 AI-assisted UFO investigation systems are good at finding visual similarities, but they are often far less reliable at judging whether those similarities actually explain a sighting. That distinction matters when a case-[review]({{ 'review/' | relative_url }}) platform assigns a “92% balloon match” or “high-[confidence]({{ 'confidence/' | relative_url }}) drone classification” to footage that lacks basic context such as altitude, wind conditions, camera settings, range estimates or verified timestamps. The score can look scientific while resting on weak assumptions.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-1-dark.svg" | relative_url }}" alt="False confidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 In modern UFO and UAP workflows, balloon and drone matches are especially vulnerable to false confidence because these objects overlap visually with many unrelated phenomena once video quality degrades. Infrared glare, [digital zoom]({{ 'digital-zoom/' | relative_url }}), atmospheric distortion, compression artefacts and missing metadata can make birds, aircraft lights, balloons, drones and sensor noise appear nearly identical. NASA’s independent UAP study warned that current analysis is weakened by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and limited measurements, conditions that directly increase the risk of overconfident AI classification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn turn, NASA could conduct research to see whether machine learning algorithms could be incorpo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn turn, NASA could conduct research to see whether machine learning algorithms could be incorpo...</span></span></span>
 
@@ -319,7 +318,6 @@ This is a known issue in computer vision research. Drone-detection studies repea
 
 That matters in UFO review because many public sightings rely on exactly the kind of single-source evidence that machine-learning systems handle poorly:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * one phone clip
@@ -337,7 +335,6 @@ A highly confident classification generated from [weak evidence]({{ 'weak-eviden
 Balloons are among the easiest objects for AI systems to over-match because they naturally mimic several common UFO characteristics.
 
 A reflective balloon at unknown distance may appear:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -361,7 +358,6 @@ AI systems can miss that nuance because they tend to optimise for category assig
 One of the biggest hidden weaknesses in balloon matching is the absence of reliable distance measurement.
 
 Without accurate range data:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -390,7 +386,6 @@ Public UFO footage rarely contains that level of sensor fusion.
 
 As a result, an AI system may classify:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * flickering birds as drones <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/NBC6SouthFlorida/posts/the-pentagon-has-begun-releasing-new-files-on-ufos-saying-members-of-the-public-/1503903101104011/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">d the 21 anomalous cases are under further investigation...</span></span></span>
@@ -411,7 +406,6 @@ Human depth perception breaks down badly against empty sky backgrounds. A distan
 AI systems trained on motion profiles may interpret these apparent manoeuvres literally instead of recognising them as perspective effects.
 
 This creates a dangerous feedback loop:
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-2-dark.svg" | relative_url }}" alt="False confidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -444,7 +438,6 @@ A single missing variable can completely alter the plausibility of a balloon or 
 * astronomical conditions
 
 This is one reason NASA and AARO both stress structured data collection rather than isolated clips. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn turn, NASA could conduct research to see whether machine learning algorithms could be incorpo...</span></span></span> [2U.S.] Department of War
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/S06nIz4scvI" title="Full Metal Jacket- Get Some" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=S06nIz4scvI" target="_blank" rel="noopener noreferrer">Full Metal Jacket- Get Some</a></p><p class="youtube-embed-meta">Channel: Lee Robertson &middot; Views: 11.6M &middot; Uploaded: February 2007 &middot; Length: 1 minute 46 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=S06nIz4scvI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=S06nIz4scvI">Open on YouTube</a></p></div></div></div>
 
@@ -480,7 +473,6 @@ If the original file metadata is stripped during upload or social-media repostin
 * whether exposure settings caused blooming
 
 AI systems analysing compressed reposted footage can therefore inherit distortions introduced long before case review began.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-3-dark.svg" | relative_url }}" alt="False confidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_ai_false_conf_af66a4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Human review questions before closing a case
@@ -934,6 +926,7 @@ AARO itself continues to maintain unresolved categories even while resolving man
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -324,7 +324,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview-social.
 
 AI timeline reconstruction for a single UFO event means rebuilding the minutes and hours around a sighting as one evidence window: what the witness reported, what the camera or sensor recorded, what was in the sky, what the weather was doing, and what local conditions might have shaped perception. It does not make the sighting extraordinary or ordinary by itself. Its value is narrower and more useful: it shows whether the report lines up with aircraft, satellites, balloons, [astronomy]({{ 'astronomy/' | relative_url }}), weather, [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}), or something that remains unresolved after those checks.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-overview.webp" | relative_url }}" alt="Overview image for Timeline" loading="eager" decoding="sync" fetchpriority="high">
 For an AI-assisted UFO sighting investigation, the timeline is the bridge between a raw story and a testable [case file]({{ 'case-file/' | relative_url }}). A light seen at 21:43 is not assessed in isolation. It is compared with [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite passes, Moon and planet positions, wind at altitude, visibility, cloud, local power or network incidents, nearby events, and any gaps in the witness account. NASA’s independent UAP study made the same broad point in scientific terms: useful UAP analysis depends on robust data, good metadata, calibrated observations, and systematic reporting rather than isolated anecdotes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">Science Independent Study Team Report</span></span></span>
 
@@ -335,7 +334,6 @@ A good sighting timeline starts before the witness first noticed the object. Tha
 The first step is to define the event time window. For a brief phone video, that may mean five minutes before the first frame and five minutes after the last frame. For a longer witness account, it may mean an hour either side. For reports involving launches, re-entries, storms, or multiple witnesses, the window may need to extend further. The important point is that the AI system should not treat the reported start time as absolute truth. It should preserve the [original]({{ 'original-evidence/' | relative_url }}) claim, extract any embedded clues, and mark [confidence]({{ 'confidence/' | relative_url }}): device timestamp, witness estimate, social media post time, emergency call log, CCTV clock, or later recollection.
 
 A practical reconstruction usually separates the window into three bands:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -348,7 +346,6 @@ A practical reconstruction usually separates the window into three bands:
 This structure matters because apparent behaviour is often created by transitions. “It appeared from nowhere” may mean a satellite flared, a plane emerged from cloud, a camera exposure changed, or a bright object became visible against a darker background. “It vanished” may mean it entered shadow, turned away, passed behind cloud, dropped below a roofline, or was lost when autofocus shifted.
 
 A strong AI workflow should therefore create not one timeline but a layered one. The witness timeline records what was experienced. The media timeline records what the file actually shows. The sky timeline records aircraft, satellites, planets, meteors, and launch activity. The environment timeline records weather, visibility, wind, cloud, temperature, precipitation, and local lighting. The analysis timeline records when each explanation became plausible, weak, ruled out, or still unresolved.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-1-dark.svg" | relative_url }}" alt="Timeline illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The timeline must protect the original report
@@ -375,7 +372,6 @@ Weather is not a background detail; it can determine whether a candidate explana
 
 The AI’s role is to align these layers to the event window and make the comparison explicit. A balloon explanation is stronger if the object drifts with wind direction and speed, weaker if it moves against measured winds, and unresolved if the relevant altitude wind is unknown. A satellite explanation is stronger if the predicted track crosses the witness’s viewing direction at the reported time, weaker if the satellite was below the horizon or in Earth’s shadow, and unresolved if the location or direction is too vague.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
 
 ## What AI can add that a manual timeline often misses
@@ -400,14 +396,12 @@ The opposite outcome is also possible. AARO’s public imagery page includes unr
 
 This distinction is central to balanced UFO analysis. A case can be unresolved because it is genuinely puzzling, but it can also be unresolved because the time, location, direction, sensor settings, weather, or comparison data are missing. AI should help readers see which kind of unresolved case they are looking at.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-2-dark.svg" | relative_url }}" alt="Timeline illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Finding conflicts and missing evidence
 
 The most useful part of a timeline is often the gap list. A sighting may feel rich because it has a vivid story, a short video, and multiple comments online, but still be weak as evidence. AI can identify what is absent without dismissing the witness.
 
 Common missing elements include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -425,7 +419,6 @@ Common missing elements include:
 Conflicts are just as important as gaps. A claimed “stationary” object may drift relative to stars in the footage. A “silent aircraft” explanation may be weak if the object was close and low, but still plausible if it was distant, high, or masked by wind and traffic noise. A “drone” explanation may fit manoeuvring but fail if the duration, altitude, weather, and distance exceed ordinary consumer-drone performance. A “planet” explanation may fit position and brightness but fail if the object crossed the sky quickly.
 
 The AI system should make these conflicts visible in plain language. It should not bury them inside a confidence score. A score can help triage cases, but a reader needs to know the reason: “aircraft match plausible but unconfirmed because the track passes within the viewing cone three minutes after the reported time”; “satellite explanation weak because predicted passes were below the horizon”; “balloon explanation plausible but altitude winds unavailable”; “camera artefact possible because motion begins when digital zoom and autofocus change”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TCLKbR_jbkA" title="UAP FILES - Footage Released of Object Tracked over Europe in 2022" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer">UAP FILES - Footage Released of Object Tracked over Europe in 2022</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 3.3K &middot; Uploaded: September 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TCLKbR_jbkA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TCLKbR_jbkA">Open on YouTube</a></p></div></div></div>
 
@@ -449,12 +442,10 @@ The best AI systems should therefore use cautious status labels. “Ruled out”
 
 That restraint protects both sceptical and open-minded readers. It avoids turning every gap into a mystery and every resemblance into a debunking. A timeline is not a verdict machine. It is a way to show exactly how far the evidence can responsibly go.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-3-dark.svg" | relative_url }}" alt="Timeline illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What a reconstructed event window should contain
 
 A useful AI-generated timeline for a single UFO event should be readable by a non-specialist and auditable by a careful investigator. It should show the event as a sequence, not a pile of disconnected checks. The following structure works well for a public case page:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -470,7 +461,6 @@ A useful AI-generated timeline for a single UFO event should be readable by a no
 </div>
 
 The format should be compact but not reductive. A timeline entry saying “21:43: aircraft nearby” is less useful than “21:43: aircraft track passes south-west of observer, moving left-to-right relative to reported view; altitude and bearing fit roughly, but no sound reported and object brightness cannot be confirmed from available data.” The second version shows why the match matters and where it may fail.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TQcqOW39ksk" title="Unidentified Anomalous Phenomena Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer">Unidentified Anomalous Phenomena Independent Study Report</a></p><p class="youtube-embed-meta">Channel: NASA &middot; Views: 107.4K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TQcqOW39ksk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TQcqOW39ksk">Open on YouTube</a></p></div></div></div>
 
@@ -873,6 +863,7 @@ For a single UFO event, the central question is not “what was it?” asked in 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1166,4 +1157,4 @@ For a single UFO event, the central question is not “what was it?” asked in 
 
 66. <a id="endnote-66"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/</a>  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1mkuvbq/aaro_releases_two_new_unresolved_videos_of/</a>

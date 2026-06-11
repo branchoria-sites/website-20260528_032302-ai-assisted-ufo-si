@@ -324,7 +324,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-overview-social.
 
 Comparing a new UFO sighting with earlier cases is useful, but only if the comparison is disciplined. A match in shape, colour, or “strange movement” does not prove that two sightings share the same cause. The real value is narrower and more practical: older reports can suggest which mundane explanations to test first, which missing details matter, and whether the new case belongs to a known pattern such as balloons drifting with wind, birds on thermal cameras, Starlink trains, [aircraft]({{ 'aircraft/' | relative_url }}) lights, meteors, or atmospheric optics.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-overview.webp" | relative_url }}" alt="Overview image for Case Match" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, case matching should therefore work like an investigative triage tool, not a folklore engine. It can search large archives for reports with similar date, location, direction, duration, motion, shape, witness setting, sensor type, and eventual resolution. It should then keep the new sighting separate until its own evidence has been checked. NASA’s UAP study made the core limitation clear: AI and machine learning can help identify rare events in large datasets, but they only work well when the underlying data is well characterised, curated, and collected to strong standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
@@ -349,7 +348,6 @@ The best comparison features are those that survive beyond memory and wording. T
 
 That last point matters most. A similarity engine trained only on dramatic public descriptions will tend to retrieve dramatic public descriptions. A useful investigative system should prioritise earlier cases with documented outcomes. AARO’s public case imagery shows why: several cases that initially appeared anomalous in sensor footage were assessed as balloons because their morphology and behaviour matched resolved balloon imagery and because their motion aligned with wind speed and direction. Other footage was assessed as migratory birds because the objects’ appearance and behaviour corresponded to known migration routes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Official UAP Imagery</span><span class="citation-popover-snippet">AARO UAP Imagery...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-1-dark.svg" | relative_url }}" alt="Case Match illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Resolved Cases Make the Best Anchors
 
@@ -371,7 +369,6 @@ GEIPAN, the French UAP office within CNES, offers a different model because it e
 
 National archives also matter. The US National Archives has created a UAP records collection under recent legislation and says it will add records from federal agencies on a rolling basis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalarchives.gov.uk/explore-the-collection/explore-by-time-period/postwar/ufo-reports/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> For AI-assisted comparison, that means the historical corpus is not fixed. New releases may change how older incidents are understood, especially where classified aviation, test ranges, sensor systems, or military exercises were involved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NJdt9Dxvfvo" title="MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer">MUFON Unmasks the Truth! | UFO&#x27;s Over Earth | Discovery Channel</a></p><p class="youtube-embed-meta">Channel: DiscoveryChannelInd &middot; Views: 540.0K &middot; Uploaded: May 2025 &middot; Length: 48 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NJdt9Dxvfvo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NJdt9Dxvfvo">Open on YouTube</a></p></div></div></div>
 
 ## Clustering Without Copying Old Conclusions
@@ -379,7 +376,6 @@ National archives also matter. The US National Archives has created a UAP record
 Clustering groups reports that resemble each other, but it should not copy the conclusion from one case into another. A cluster is a queue for investigation, not a verdict. This is especially important in UFO work because different causes can produce similar descriptions. A stationary bright light can be Venus, a distant aircraft, a drone, a balloon catching sunlight, a reflection, or an unknown object with too little data to classify.
 
 A careful clustering workflow should separate three layers:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -392,7 +388,6 @@ A careful clustering workflow should separate three layers:
 Only the third layer should strongly influence explanation triage. Even then, it should produce a candidate explanation, not a conclusion. A new report that resembles older balloon cases should be marked “balloon-like; check wind and altitude”, not “balloon”. A new infrared video that resembles bird cases should be marked “bird-like; check migration, flock behaviour, thermal signature, range, and sensor artefacts”.
 
 NASA’s report is directly relevant here because it warns that UAP analysis is more limited by data quality than by the availability of AI techniques. It recommends better data collection, curation, and distribution before expecting machine learning to detect meaningful anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> In practical terms, a beautiful clustering map built from vague reports may be less useful than a smaller set of well-documented cases with timestamps, camera [metadata]({{ 'metadata/' | relative_url }}), weather, bearings, and known outcomes.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-2-dark.svg" | relative_url }}" alt="Case Match illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI Can Compare a New Report Against Earlier Cases
@@ -411,7 +406,6 @@ From there, comparison can happen in stages:
 
 **Finally, link each comparison to a test.** A case match should lead to an action: check ADS-B and radar availability, calculate satellite passes, examine wind at altitude, compare Moon and planet positions, inspect launch records, review local drone activity, or request the original media file.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OZXPdB3Gtqk" title="UFO hearing: Whistleblower says he&#x27;s witnessed harm by &quot;non-human&quot; entities" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OZXPdB3Gtqk" target="_blank" rel="noopener noreferrer">UFO hearing: Whistleblower says he&#x27;s witnessed harm by &quot;non-human&quot; entities</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 1.7M &middot; Uploaded: July 2023 &middot; Length: 1 minute</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OZXPdB3Gtqk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OZXPdB3Gtqk">Open on YouTube</a></p></div></div></div>
 
 ## Why Old Cases Can Mislead
@@ -424,13 +418,11 @@ A third problem is **archive bias**. Public databases contain what people chose 
 
 The fourth problem is **conclusion laundering**. If an old case was labelled unexplained because it lacked data, and a new case resembles it, the new case has not become stronger. Two weakly documented mysteries do not add up to one strong anomaly. They may simply reveal a recurring gap in reporting: no bearing, no duration, no original file, no weather profile, no flight check, or no independent witness.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/A5q8Trv3sC0" title="NASA holds public address about UFO sightings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=A5q8Trv3sC0" target="_blank" rel="noopener noreferrer">NASA holds public address about UFO sightings</a></p><p class="youtube-embed-meta">Channel: The Australian &middot; Views: 3.0M &middot; Uploaded: June 2023 &middot; Length: 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=A5q8Trv3sC0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=A5q8Trv3sC0">Open on YouTube</a></p></div></div></div>
 
 ## A Practical Comparison Output
 
 The most useful case-match result should read less like a mystery-board connection and more like a compact investigative brief. For a new report, the system might produce:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -445,7 +437,6 @@ The most useful case-match result should read less like a mystery-board connecti
 </div>
 
 This structure keeps the comparison honest. It lets old cases speed up the investigation without forcing the new sighting into an old explanation.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-3-dark.svg" | relative_url }}" alt="Case Match illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a New Case Still Looks Unusual
@@ -847,6 +838,7 @@ The strongest AI-assisted comparison system should therefore reward restraint. I
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1017,4 +1009,4 @@ The strongest AI-assisted comparison system should therefore reward restraint. I
 
 37. <a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>  
+   Link: <a href="https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Theuntoldpastfb/posts/for-17-years-the-us-air-force-chased-lights-in-the-sky-from-1952-to-1969-under-a/1217574073740878/</a>

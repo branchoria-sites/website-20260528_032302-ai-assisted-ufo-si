@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d2
 
 Giant glowing spirals in the night sky can look deeply unnatural. Witnesses often describe them as hovering portals, rotating discs, or enormous luminous structures hanging silently above the horizon. In many cases, however, the cause is not an unknown craft but a high-altitude rocket fuel vent or exhaust plume illuminated by sunlight. These events are rare enough to surprise experienced skywatchers, yet dramatic enough to trigger widespread UFO reports across entire countries.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-1-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, rocket spirals are important because they produce a very specific pattern of evidence: large geographic visibility, short-lived but highly memorable motion, and strong timing correlations with launches or upper-stage manoeuvres. Unlike many ambiguous lights in the sky, these events can often be reconstructed with launch records, orbital timing, atmospheric lighting [geometry]({{ 'geometry/' | relative_url }}), and witness clustering. At the same time, the emotional impact on observers is genuine. To someone unaware of rocket operations, a rotating blue-white spiral expanding across the night sky can appear completely inexplicable.
 
@@ -305,7 +304,6 @@ For AI-assisted UFO sighting investigation, rocket spirals are important because
 Rocket spirals usually form during operations involving an upper rocket stage after the main launch phase. The most common mechanism is fuel venting combined with stage rotation. A spinning stage releases excess propellant or exhaust gases into near-space conditions, where the material rapidly freezes into reflective ice crystals. Sunlight striking the cloud from beyond the horizon then makes the structure glow against a dark sky. Sky News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/climate-environment/2025/03/25/spiral-spacex-launch-mystery-blue/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post Did you see an alien-looking swirl in the sky?</span><span class="citation-popover-snippet">It&#x27;s probably SpaceX.On the night of March 24, 2025, skywatchers across Europe, from Britain to Croatia, observed a mysterious light blue...</span><span class="citation-popover-meta">Published: March 24, 2025</span></span></span>
 
 The spiral shape appears because the rocket stage itself is rotating while venting gas. To an observer on the ground, the expanding plume traces a corkscrew or galaxy-like pattern. Depending on viewing angle and lighting conditions, the effect may resemble:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -327,7 +325,6 @@ A useful mistake in UFO analysis is assuming that “spiral” means atmospheric
 
 Several operational behaviours can generate the pattern:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Fuel dumping:** excess propellant released before de-orbiting or disposal
@@ -341,7 +338,6 @@ Because the atmosphere is extremely thin at those altitudes, exhaust clouds expa
 
 This matters in witness interpretation. People often estimate distance incorrectly in dark-sky conditions. A spiral may appear close, localised, or stationary when it is actually enormous and extremely distant. Witnesses may therefore report:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “Hovering over the town”
@@ -354,7 +350,6 @@ This matters in witness interpretation. People often estimate distance incorrect
 In reality, the apparent hovering effect often comes from the immense scale of the illuminated cloud and the lack of nearby visual [reference points]({{ 'reference-points/' | relative_url }}).
 
 AI-assisted investigation systems can help separate these perceptions from physical geometry by reconstructing:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -370,7 +365,6 @@ AI-assisted investigation systems can help separate these perceptions from physi
 
 Once these are aligned, the event frequently becomes much less mysterious.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/J5_8MVctp30" title="Spiral Phenomenon Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer">Spiral Phenomenon Explained</a></p><p class="youtube-embed-meta">Channel: CBS &middot; Views: 443.7K &middot; Uploaded: December 2009 &middot; Length: 1 minute 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=J5_8MVctp30" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=J5_8MVctp30">Open on YouTube</a></p></div></div></div>
 
 ## The March 2025 UK And Europe Sightings
@@ -378,7 +372,6 @@ Once these are aligned, the event frequently becomes much less mysterious.
 One of the clearest modern examples occurred on 24 March 2025, when a glowing blue spiral became visible across the UK, Ireland, and large parts of mainland Europe. Witnesses reported the phenomenon from England, France, Croatia, Poland, Germany, and elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/earth-space/spacex-launch-blue-spiral-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-title">spacex launch blue spiral europe</span><span class="citation-popover-snippet">FOX WeatherVIDEO: Florida SpaceX launch produces dazzling blue...25 Mar 2025 — A blue spiral was seen in the night sky across Europe on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.euronews.com/next/2025/03/25/what-was-the-glowing-blue-spiral-spotted-in-the-skies-above-europe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: euronews.com">[2euronews]</a><span class="citation-popover" role="note"><span class="citation-popover-source">euronews.com</span><span class="citation-popover-title">what was the glowing blue spiral spotted in the skies above europe</span><span class="citation-popover-snippet">What was the glowing blue spiral seen in the night sky...25 Mar 2025 — &quot;The rocket&#x27;s frozen exhaust plume appears to be spinning...</span></span></span>
 
 The event produced classic UFO-style reactions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -431,7 +424,6 @@ Useful automated checks include:
 
 Large-area visibility can therefore become a verification asset rather than merely a source of public confusion.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-2-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Norway Spiral And Earlier Misidentifications
 
@@ -462,7 +454,6 @@ Several factors amplify this effect:
 
 Witnesses rarely see structured luminous formations spanning large sections of the sky. The scale can feel impossible for conventional technology.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-dark.svg" | relative_url }}" alt="Rocket Spirals illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Motion is slow and silent
 
@@ -483,7 +474,6 @@ This combination means that even technically informed observers may initially he
 A good AI-assisted case workflow does not assume every unusual light has a mundane explanation. Instead, it rapidly tests whether known aerospace activity fits the evidence better than alternative interpretations.
 
 For rocket spiral events, the strongest workflow usually includes:
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wp3OdrCOzUI" title="Mysterious spirals light up night skies after SpaceX rocket launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer">Mysterious spirals light up night skies after SpaceX rocket launch</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 38.5K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wp3OdrCOzUI">Open on YouTube</a></p></div></div></div>
 
@@ -917,6 +907,7 @@ At the same time, rocket spirals are a reminder that “explained” does not ne
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

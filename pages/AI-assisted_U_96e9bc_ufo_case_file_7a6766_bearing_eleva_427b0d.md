@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_42
 
 A UFO report becomes much more testable when the witness can describe where the object appeared in the sky, not just what it looked like. Bearing and [elevation]({{ 'elevation/' | relative_url }}) checks turn a story into geometry. Instead of “a bright object over the hills”, investigators can work with “seen from the car park facing west-north-west at roughly 25° elevation, moving left to right above the ridge line”. That change allows AI-assisted investigation systems to compare the report against terrain, [aircraft tracks]({{ 'aircraft-tracks/' | relative_url }}), satellite paths, cloud layers, astronomical objects and camera footage.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-dark.svg" | relative_url }}" alt="Geometry illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many apparent anomalies disappear once the viewing geometry is reconstructed properly. Venus low above the horizon, a drone beyond a ridge, [landing lights]({{ 'landing-lights/' | relative_url }}) aligned with a valley, or a satellite crossing a gap in cloud can all look extraordinary when direction and angle are vague. Equally, some reports remain difficult to explain after geometric checks because the timing, path or sightline does not fit ordinary traffic or sky objects. The goal is not to prove or dismiss a UFO claim, but to anchor it in measurable space.
 
@@ -305,7 +304,6 @@ This matters because many apparent anomalies disappear once the viewing geometry
 Bearing is the horizontal direction from the observer to the object, normally measured in degrees clockwise from north. A witness who says “north-west” is already giving more useful information than one who says “over there”, but the strongest reports tie the direction to physical landmarks.
 
 A practical reconstruction usually begins with questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -328,7 +326,6 @@ AI-assisted workflows can use these inputs to generate estimated sight cones on 
 ### Landmarks are often stronger than memory alone
 
 Human directional memory is unreliable, especially during surprising events at night. Investigators therefore prioritise stable [reference points]({{ 'reference-points/' | relative_url }}):
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -356,7 +353,6 @@ Astronomy education material commonly teaches rough sky-angle estimation using h
 
 For UFO investigation work, the key is consistency rather than laboratory accuracy. If a witness says:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “two fists above the horizon”
@@ -368,7 +364,6 @@ For UFO investigation work, the key is consistency rather than laboratory accura
 
 then the observation can be tested against known sky geometry.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dZl0SDFBhao" title="👉 Stop Staring at the Instruments! Mastering Horizon References for Better Flying ✈️" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dZl0SDFBhao" target="_blank" rel="noopener noreferrer">👉 Stop Staring at the Instruments! Mastering Horizon References for Better Flying ✈️</a></p><p class="youtube-embed-meta">Channel: FlightInsight &middot; Views: 8.5K &middot; Uploaded: March 2025 &middot; Length: 4 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dZl0SDFBhao" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dZl0SDFBhao">Open on YouTube</a></p></div></div></div>
 
 ### Why elevation changes the interpretation
@@ -376,7 +371,6 @@ then the observation can be tested against known sky geometry.
 The same bright object can imply very different explanations depending on elevation.
 
 A low-elevation light near the horizon is more likely to involve:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -400,7 +394,6 @@ Investigators therefore treat claims like “it shot across the entire sky insta
 Witnesses are usually poor at estimating distance and speed for unknown aerial objects. Angular motion is often more reliable.
 
 For example: <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/sky-measurements-degrees-arc-minutes-arc-seconds/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[earthsky.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">sky measurements degrees arc minutes arc seconds</span><span class="citation-popover-snippet">For example, your fist held at arm&#x27;s length measures 10 degrees on the sky&#x27;s dome.Read more...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -426,7 +419,6 @@ A classic failure mode in UFO reports is misunderstanding horizon geometry. An a
 
 AI-assisted workflows can automate several checks:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * whether a mountain blocked the claimed sightline
@@ -436,7 +428,6 @@ AI-assisted workflows can automate several checks:
 * whether terrain channels created optical illusions
 
 </div>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-dark.svg" | relative_url }}" alt="Geometry illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Terrain can radically alter apparent behaviour
@@ -477,7 +468,6 @@ This is why investigators ask:
 
 These questions help separate physical motion from visual interpretation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-dark.svg" | relative_url }}" alt="Geometry illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_bearing_eleva_427b0d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why investigators avoid “exact” geometry from weak observations
 
@@ -505,7 +495,6 @@ The strongest case files therefore preserve the difference between:
 * reconstructed direction
 
 That distinction is essential when comparing sightings against aircraft databases, astronomical simulations or satellite ephemerides.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rxyink0U_fQ" title="Military Tools for ArcGIS: Visibility for Analysts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rxyink0U_fQ" target="_blank" rel="noopener noreferrer">Military Tools for ArcGIS: Visibility for Analysts</a></p><p class="youtube-embed-meta">Channel: Esri Industries &middot; Views: 18.3K &middot; Uploaded: March 2017 &middot; Length: 30 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rxyink0U_fQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rxyink0U_fQ">Open on YouTube</a></p></div></div></div>
 
@@ -935,6 +924,7 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1002,4 +992,4 @@ That distinction is central to evidence-led UFO investigation. The purpose of be
 
 13. <a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/</a>  
+   Link: <a href="https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Astronomy/comments/1fi3hhv/hand_astronomy_inaccuracy/</a>

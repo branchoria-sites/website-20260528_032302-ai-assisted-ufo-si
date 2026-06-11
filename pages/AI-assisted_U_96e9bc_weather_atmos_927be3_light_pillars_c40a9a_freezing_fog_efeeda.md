@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c4
 
 A light pillar becomes far more convincing as a “vertical UFO beam” when freezing fog hides the ordinary light source creating it. In cold, calm [weather]({{ 'weather/' | relative_url }}), ice crystals suspended close to the ground can reflect light from street lamps, industrial facilities, greenhouses, vehicle headlights, ports, or floodlights into a tall luminous column. If fog, terrain, distance, or darkness conceal the source itself, the observer may only see the glowing vertical shaft apparently hanging in the sky. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsColumns of light apparently beaming directly upwards from unshielded (and wastefully polluting) lights are sometimes vi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">Light pillar</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-dark.svg" | relative_url }}" alt="Freezing Fog illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because witnesses are often reporting a real visual event, not inventing one. The error lies in altitude and source perception. A structured investigation therefore needs to test not only whether ice-crystal conditions existed, but also whether freezing fog could have masked the ground lighting responsible for the effect. In many winter UFO reports involving “hovering beams”, “light columns”, or “stationary portals”, the key investigative question is whether the witness could physically see the horizon and the originating light source at all.
 
@@ -282,7 +281,6 @@ Freezing fog changes how a scene is visually organised at night. Ordinary [refer
 In freezing fog or ice fog, countless suspended ice particles scatter and reflect light while simultaneously obscuring the lower environment. Meteorological definitions describe ice fog as a fog composed largely of tiny suspended ice crystals forming in very cold, stable air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/ggw/GlossaryI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">eratures in a stable atmosphere. Ice Fog. (Also called ice...</span></span></span>
 
 That combination produces a powerful illusion during UFO sightings:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -303,7 +301,6 @@ The visual separation effect becomes stronger with distance. A witness several k
 
 This creates three common misinterpretations:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A hovering object shining downward.
@@ -317,7 +314,6 @@ The [geometry]({{ 'geometry/' | relative_url }}) of the illusion is counterintui
 Because the eye naturally interprets bright vertical structures as solid objects, the brain fills in missing information below the fog line. Witnesses may genuinely perceive a continuous beam even when the lower connection to the ground is invisible.
 
 This is especially convincing when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -336,7 +332,6 @@ In some reports, observers describe the light as “starting in the clouds” be
 The strongest detached-looking pillars usually occur during diamond dust events or freezing fog under calm conditions. Diamond dust refers to tiny free-floating ice crystals suspended near ground level, often in extremely cold air. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/National_Oceanic_and_Atmospheric_Administration" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Oceanic and Atmospheric Administration</span><span class="citation-popover-snippet">National Oceanic and Atmospheric AdministrationThe National Oceanic and Atmospheric Administration (NOAA /ˈnoʊ.ə/ NOH-ə) is a United S...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://psl.noaa.gov/outreach/education/science/glitter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: psl.noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">psl.noaa.gov</span><span class="citation-popover-title">Glittering Light on Water</span><span class="citation-popover-snippet">Physical Sciences Laboratory - NOAAby HGP are Formed · 1999 · Cited by 15 — Glitter patterns on water are similar to vertical light pilla...</span></span></span>
 
 These conditions are ideal for UFO misidentification because the atmosphere simultaneously:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -362,14 +357,12 @@ For investigators, weather records showing:
 
 are highly relevant when evaluating reports of static vertical lights.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-2-dark.svg" | relative_url }}" alt="Freezing Fog illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Witness distance and false altitude perception
 
 One reason these sightings become so persuasive is that humans are poor at judging altitude and distance in darkness. Without visible terrain references, the brain estimates height from apparent brightness and angular size rather than actual geometry.
 
 A distant light pillar may therefore appear:(#endnote-2 "Endnote 2") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">Light pillar</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -383,7 +376,6 @@ The effect becomes stronger in fog because atmospheric scattering removes contra
 
 This explains why many reports describe:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “a beam coming from the sky”,
@@ -395,7 +387,6 @@ This explains why many reports describe:
 The observer is not necessarily misreporting what they perceived. The environment itself degraded depth perception.
 
 Light pillars also shimmer and pulse as crystal orientations shift in subtle air currents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Lee PetersenLight Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively...</span></span></span> Witnesses may interpret these fluctuations as controlled movement or energy variation rather than atmospheric optics.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/0ttboaR5X4Q" title="Light Pillars: What Are Those Mysterious Light Beams From The Sky?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=0ttboaR5X4Q" target="_blank" rel="noopener noreferrer">Light Pillars: What Are Those Mysterious Light Beams From The Sky?</a></p><p class="youtube-embed-meta">Channel: ScienceABC II &middot; Views: 4.3K &middot; Uploaded: June 2023 &middot; Length: 3 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=0ttboaR5X4Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=0ttboaR5X4Q">Open on YouTube</a></p></div></div></div>
 
@@ -420,7 +411,6 @@ AI-assisted case analysis can help test this interpretation by correlating:
 * and weather conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://atoptics.co.uk/blog/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.co.uk">[atoptics.co.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.co.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric Optics16 Dec 2024 — Light pillars, a captivating atmospheric optical phenomenon, have been observed during extremely cold wea...</span></span></span>
 
 If the geometry predicts changing pillar visibility along the observer’s path, the atmospheric explanation becomes much stronger.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-3-dark.svg" | relative_url }}" alt="Freezing Fog illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_freezing_fog_efeeda-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What investigators should check in a winter “vertical beam” report
@@ -850,6 +840,7 @@ The result is not a fake sighting but a layered atmospheric illusion built from 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

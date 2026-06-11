@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8
 
 A drone is one of the most common explanations proposed during modern UFO or UAP case [review]({{ 'review/' | relative_url }}). In many reports, that is sensible. Consumer quadcopters are widespread, often brightly lit, difficult to judge at night, and capable of movements that look unusual to an untrained observer. But in AI-assisted investigation, a drone match only remains credible if it survives basic physical and operational checks.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-1-dark.svg" | relative_url }}" alt="Drone limits illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The most important failures usually involve altitude, wind and flight endurance. A sighting may describe an object apparently stationary in gale-force winds, operating at heights far beyond normal drone limits, or remaining airborne for durations that do not fit realistic battery performance. AI systems trained to match visual similarity can still wrongly classify these events as drones if they rely too heavily on shape, lighting or motion patterns while ignoring environmental context. NASA’s UAP study warned that poor metadata and weak sensor [calibration]({{ 'calibration/' | relative_url }}) can encourage overconfident conclusions from [incomplete]({{ 'incomplete-data/' | relative_url }}) evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
@@ -284,7 +283,6 @@ Many weak drone explanations begin with a real visual resemblance. A hovering li
 The problem appears when investigators move beyond the image itself and reconstruct the physical situation around the sighting.
 
 In a reliable case review, AI systems should compare the report against several operational constraints at once:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -307,7 +305,6 @@ Likewise, sightings claiming extreme altitude can expose weak AI classification.
 Witnesses are often poor at estimating height at night, so altitude claims alone do not automatically eliminate drones. But some reports include contextual clues that make ordinary drone operation difficult to reconcile with the scene.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -341,7 +338,6 @@ This matters because many UFO videos are recorded from sheltered ground position
 
 A robust AI-assisted workflow therefore compares:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Witness location
@@ -355,7 +351,6 @@ A robust AI-assisted workflow therefore compares:
 
 Without that layered comparison, the software may wrongly reward superficial “hovering drone” similarity.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QG1LKf1u_Tk" title="CAA UK Drone Code Walkthrough – with advice &amp; tips – Geeksvana!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QG1LKf1u_Tk" target="_blank" rel="noopener noreferrer">CAA UK Drone Code Walkthrough – with advice &amp; tips – Geeksvana!</a></p><p class="youtube-embed-meta">Channel: Geeksvana &middot; Views: 4.7K &middot; Uploaded: May 2021 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QG1LKf1u_Tk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QG1LKf1u_Tk">Open on YouTube</a></p></div></div></div>
 
 ### Sudden acceleration that may actually be perspective
@@ -363,7 +358,6 @@ Without that layered comparison, the software may wrongly reward superficial “
 Some drone explanations fail because the object appears to accelerate far beyond consumer drone performance. Yet many of these cases collapse under geometric analysis rather than extraordinary physics.
 
 Common causes include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -392,7 +386,6 @@ Consumer quadcopters often advertise long flight times under ideal conditions, y
 
 Strong winds are especially important because maintaining a fixed hover in gusting conditions dramatically increases power consumption. A sighting involving:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Long duration
@@ -404,7 +397,6 @@ Strong winds are especially important because maintaining a fixed hover in gusti
 
 may exceed realistic consumer drone endurance even if the visual profile initially resembles one.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-2-dark.svg" | relative_url }}" alt="Drone limits illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why upper-level wind matters more than surface conditions
 
@@ -415,7 +407,6 @@ Drone capability depends heavily on wind conditions at operational altitude. Win
 An object observed several hundred feet above ground may therefore encounter conditions very different from those experienced by the witness.
 
 Good AI-assisted review systems should ingest:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -449,7 +440,6 @@ If no plausible launch area exists within realistic operational range, the drone
 ## Airspace and witness clues that matter
 
 AI review systems sometimes treat all drone explanations as equally plausible regardless of location. In practice, airspace context matters enormously.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-3-dark.svg" | relative_url }}" alt="Drone limits illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_balloon_drone_eb8ec4_drone_limits_96545e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Restricted or impractical flight environments
@@ -496,7 +486,6 @@ For example:
 Drone sounds are particularly complicated. Night-time atmospheric conditions can carry rotor noise surprisingly far, while wind direction can suppress it almost completely. Silence alone does not eliminate drones. But total absence of sound during a close, low-altitude sighting deserves scrutiny.
 
 Likewise, witness estimates of size and distance are notoriously unreliable at night. AI-assisted systems should avoid treating these values as fixed facts. Instead, good workflows generate multiple plausible geometries and test whether a realistic drone profile still fits under each scenario.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ucVMBu4BT5M" title="CAA 2026 UK DRONE CODE - First Look and Q&amp;A LIVE!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ucVMBu4BT5M" target="_blank" rel="noopener noreferrer">CAA 2026 UK DRONE CODE - First Look and Q&amp;A LIVE!</a></p><p class="youtube-embed-meta">Channel: Geeksvana &middot; Views: 13.3K &middot; Uploaded: September 2025 &middot; Length: 38 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ucVMBu4BT5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ucVMBu4BT5M">Open on YouTube</a></p></div></div></div>
 
@@ -918,6 +907,7 @@ Only after those checks should the explanation move from “possible” to “cr
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

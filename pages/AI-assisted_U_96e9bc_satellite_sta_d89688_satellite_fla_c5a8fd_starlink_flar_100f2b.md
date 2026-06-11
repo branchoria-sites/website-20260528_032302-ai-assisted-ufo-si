@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5
 
 Starlink satellites have changed the visual texture of the night sky in ways that directly affect modern UFO and UAP reporting. Large numbers of low Earth orbit satellites now produce moving lines, clustered formations, brief bright flashes, and sudden disappearances that many witnesses have never seen before. In AI-assisted UFO investigation, this matters because a growing share of “strange lights” reports can only be understood by checking satellite [geometry]({{ 'geometry/' | relative_url }}), launch schedules, and flare timing alongside the witness account.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-1-dark.svg" | relative_url }}" alt="Starlink Flares illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Unlike the older Iridium satellites, whose reflections were highly predictable, Starlink brightness behaviour is more varied. A single satellite in a train may suddenly become far brighter than the others, then fade or vanish within seconds. Witnesses often interpret this as acceleration, intelligent manoeuvring, cloaking, or an object changing direction. In many cases the effect is instead caused by changing reflection angles, orbital orientation, or the satellite crossing into Earth’s shadow. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
@@ -290,7 +289,6 @@ Starlink satellites do not behave like steady moving stars. Their brightness can
 Research into Starlink photometry shows that the satellites produce strong directional reflections rather than uniform brightness. Their apparent magnitude depends heavily on the angle between the Sun, the satellite, and the observer. Small geometric changes can create sudden surges in visibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07805" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">A Flat-Panel Brightness Model for the Starlink Satellites and Measurement of their Absolute Visual MagnitudeMarch 17, 2020...</span><span class="citation-popover-meta">Published: March 17, 2020</span></span></span>
 
 This creates several recurring witness impressions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -324,7 +322,6 @@ The effect becomes more dramatic during orbit-raising phases after launch. Newly
 
 This explains why many viral UFO videos since 2019 show:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * evenly spaced moving lights <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
@@ -341,7 +338,6 @@ These patterns are now strongly associated with Starlink deployments rather than
 One of the strongest reasons witnesses reject satellite explanations is the apparent impossibility of the disappearance.
 
 People commonly assume that satellites should fade gradually into the distance. Instead, Starlink objects often vanish abruptly. Witnesses may interpret this as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -361,7 +357,6 @@ Online witness reports repeatedly describe satellites “vanishing into a tunnel
 
 For investigators, this means disappearance timing is one of the most useful diagnostic clues. If multiple witnesses describe:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * twilight conditions
@@ -374,7 +369,6 @@ For investigators, this means disappearance timing is one of the most useful dia
 
 then satellite shadow entry becomes a strong candidate explanation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-2-dark.svg" | relative_url }}" alt="Starlink Flares illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Starlink changed the scale of UFO reporting
 
@@ -383,7 +377,6 @@ Visible satellites existed long before Starlink, but the constellation changed b
 The launch of tightly packed satellite trains produced waves of UFO reports worldwide from 2019 onward. News outlets documented spikes in public sightings after early deployments, particularly when observers encountered large formations for the first time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/starlink-satellites-produce-wave-of-ufo-sightings-in-th-1840678429" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">starlink satellites produce wave of ufo sightings in th 1840678429</span><span class="citation-popover-snippet">more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/ufo-sightings-elon-musk-spacex-internet-satellites-starlink-space-a8933411.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Are they UFOs?&#x27;, one witness said.Read more...</span></span></span>
 
 The effect was amplified by several factors:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -402,7 +395,6 @@ A 2024 paper discussed “extreme flaring” events where Starlink satellites be
 
 Importantly, this does not mean every modern UFO sighting is explainable as Starlink. Many reports involve behaviour inconsistent with orbital motion, including hovering at low altitude, visible structure, radar returns at aircraft height, or manoeuvres impossible for satellites. The investigative point is narrower: modern investigators must now rule out satellite flare behaviour much earlier in the workflow than they would have a decade ago.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2BMEFIWXEtw" title="ISS and STARLINK G5-15 satellite train seen at same moment" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2BMEFIWXEtw" target="_blank" rel="noopener noreferrer">ISS and STARLINK G5-15 satellite train seen at same moment</a></p><p class="youtube-embed-meta">Channel: Olivier Staiger &middot; Views: 2.8K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 23 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2BMEFIWXEtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2BMEFIWXEtw">Open on YouTube</a></p></div></div></div>
 
 ## Repeated witness patterns linked to Starlink constellations
@@ -420,7 +412,6 @@ This often reflects a temporary flare geometry affecting one satellite more stro
 ### “The lights disappeared one by one”
 
 This pattern strongly matches Earth-shadow entry. Satellites crossing the terminator line can extinguish sequentially as their geometry changes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/StarWalkApp/posts/starlink-satellite-train-crosses-the-moon-check-this-out-japanese-astronomer-dai/1047941884039993/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Starlink satellites passing right in front of the Moon!</span><span class="citation-popover-snippet">😲 This...Starlink Satellite Train Visibility in North West. Sheryl Day... fade away as they enter the Earth&#x27;s shadow. Currently, a larg...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-3-dark.svg" | relative_url }}" alt="Starlink Flares illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_satellite_fla_c5a8fd_starlink_flar_100f2b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### “The object appeared, then vanished within seconds”
@@ -445,7 +436,6 @@ A modern workflow should prioritise:
 * launch schedules * satellite pass predictions <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.instagram.com/reel/DPhlge7jsq_/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: instagram.com">[instagram.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">instagram.com</span><span class="citation-popover-title">My clearest sighting of a Starlink satellite &quot;train&quot; from orbit!</span><span class="citation-popover-snippet">Eventually, their altitude gets to be too high and thus the lights in them aren&#x27;t visible from Earth. The goal of these satellites is to...</span></span></span> * Earth-shadow timing <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/2365809903441367/posts/25818643794397981/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Starlink satellite train observation guideThe black spots are the place over which the train will be entering the earth&#x27;s shadow...</span></span></span>
 
 Automated systems can compare witness reports against databases containing:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -861,6 +851,7 @@ Cases that survive these checks become more interesting precisely because modern
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

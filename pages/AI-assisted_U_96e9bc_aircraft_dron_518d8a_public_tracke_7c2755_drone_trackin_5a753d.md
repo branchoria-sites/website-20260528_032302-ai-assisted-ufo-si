@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c
 
 A drone can be flying legally, brightly lit and clearly visible to witnesses while leaving little or no trace on the public flight maps that people commonly check after a UFO or UAP sighting. This is one of the biggest misunderstandings in modern sighting analysis. Many people assume that if nothing appears on a service such as Flightradar24, ADS-B Exchange or FlightAware, then no [aircraft]({{ 'aircraft/' | relative_url }}) was present. In reality, most small drones are not designed to appear on those systems in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.flightradar24.com/how-it-works" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[2Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-snippet">How it worksADS-B technology is the long-term air traffic management replacement for radar technologies, especially in areas with limited...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-1-dark.svg" | relative_url }}" alt="Drone visibility illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, this matters because drones can create some of the most confusing night-time sightings: hovering lights, abrupt direction changes, silent motion, apparent stationary objects and unusual colour patterns. A missing public flight track therefore does not rule out a drone explanation. Instead, investigators need to understand how drone tracking actually works, what data is publicly visible, and where the gaps remain.
 
@@ -288,7 +287,6 @@ Most public flight trackers were built around conventional aviation. Their core 
 That creates a basic visibility gap. A typical consumer quadcopter flying below 400 feet may be entirely absent from the feeds that power mainstream aviation maps. Even where a drone carries some form of electronic identification, it may be using a completely different system from the one public trackers are designed to ingest.
 
 In practical UFO casework, this means a witness can honestly report:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -310,7 +308,6 @@ A major source of confusion comes from the assumption that drone “[Remote ID](
 Remote ID systems were introduced mainly to help regulators and nearby authorities identify drones locally. In the United States, the FAA describes Remote ID as a broadcast system for unmanned aircraft rather than a direct extension of the standard ADS-B network used by conventional aviation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/faq/what-ads-b-will-ads-b-be-required-small-uas-or-drones-future" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Federal Aviation Administration What is ADS-B?</span><span class="citation-popover-snippet">Federal Aviation Administration What is ADS-B?</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.federalregister.gov/documents/2019/12/31/2019-28100/remote-identification-of-unmanned-aircraft-systems" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: federalregister.gov">[Federal Register]</a><span class="citation-popover" role="note"><span class="citation-popover-source">federalregister.gov</span><span class="citation-popover-title">remote identification of unmanned aircraft systems</span><span class="citation-popover-snippet">31 Dec 2019 — This proposed rule would provide remote identification of UAS in the airspace of the United States to address safety, secur...</span></span></span>
 
 Most Remote ID implementations use short-range radio methods such as Wi-Fi or Bluetooth broadcasts rather than long-range aviation transponders. As a result:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -339,7 +336,6 @@ Some jurisdictions require drones to broadcast identification data, but there ma
 
 In other words, the data may exist locally without being publicly searchable afterwards.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JeEohJoGAXw" title="ADS-B for Drones: Why airplanes don’t always show up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JeEohJoGAXw" target="_blank" rel="noopener noreferrer">ADS-B for Drones: Why airplanes don’t always show up</a></p><p class="youtube-embed-meta">Channel: Pilot Institute &middot; Views: 9.1K &middot; Uploaded: October 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JeEohJoGAXw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JeEohJoGAXw">Open on YouTube</a></p></div></div></div>
 
 ### Small drones may be exempt
@@ -351,7 +347,6 @@ This matters because many popular consumer drones are deliberately designed arou
 ### Operators can still disappear from public view
 
 Even where regulations require broadcasting, visibility depends on:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -371,7 +366,6 @@ Public aircraft tracking systems work best with aircraft flying high and transmi
 
 Typical drone operations involve: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/uas/advanced_operations/traffic_management" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[faa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-title">Unmanned Aircraft System Traffic Management (UTM</span><span class="citation-popover-snippet">May 2, 2025 — UTM is a collaborative ecosystem for safely managing unmanned aircraft (UA or drone) operations at low altitudes.Read more...</span><span class="citation-popover-meta">Published: May 2, 2025</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * low altitude <span class="citation-chip-wrap"><a class="citation-chip" href="https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronelife.com">[dronelife.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronelife.com</span><span class="citation-popover-title">Low Altitude Airspace Awareness Closing the Gaps</span><span class="citation-popover-snippet">Low Altitude Airspace Awareness Closing the GapsJanuary 15, 2025 — 15 Jan 2025 — For those of us involved with autonomous aviati...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
@@ -386,7 +380,6 @@ Typical drone operations involve: <span class="citation-chip-wrap"><a class="cit
 These conditions reduce visibility to traditional aviation surveillance systems. Low-altitude airspace has long been recognised as a difficult surveillance environment even beyond hobby drones. Industry commentary on unmanned traffic management repeatedly highlights the limits of existing radar, ADS-B and Remote ID systems for small low-flying aircraft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dronelife.com/2025/01/15/closing-the-gaps-why-low-altitude-airspace-awareness-is-critical-for-the-future-of-aviation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dronelife.com">[DRONELIFE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dronelife.com</span><span class="citation-popover-title">Low Altitude Airspace Awareness Closing the Gaps</span><span class="citation-popover-snippet">Low Altitude Airspace Awareness Closing the GapsJanuary 15, 2025 — 15 Jan 2025 — For those of us involved with autonomous aviati...</span><span class="citation-popover-meta">Published: January 15, 2025</span></span></span>
 
 For UFO analysis, this explains a common pattern:
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-2-dark.svg" | relative_url }}" alt="Drone visibility illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -407,7 +400,6 @@ Modern drones are unusually effective at generating “anomalous” visual impre
 
 Even ordinary consumer models can produce:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * stationary hovering lights
@@ -425,7 +417,6 @@ At night, these effects become exaggerated. Witnesses often struggle to estimate
 A drone flying directly towards an observer may appear almost motionless for long periods. A drone turning sideways can suddenly appear to “shoot off” because the navigation lights change orientation. Multiple drones flying coordinated routes can resemble formations of unknown objects.
 
 This does not mean every unexplained sighting is a drone. It does mean drone behaviour overlaps strongly with the visual characteristics commonly reported in UFO cases.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dZP9AWuHpXg" title="Can&#x27;t see your Drone&#x27;s Remote ID? Try This." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dZP9AWuHpXg" target="_blank" rel="noopener noreferrer">Can&#x27;t see your Drone&#x27;s Remote ID? Try This.</a></p><p class="youtube-embed-meta">Channel: Alien Drones &middot; Views: 8.0K &middot; Uploaded: March 2025 &middot; Length: 3 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dZP9AWuHpXg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dZP9AWuHpXg">Open on YouTube</a></p></div></div></div>
 
@@ -461,7 +452,6 @@ A useful investigative distinction is:
 
 Those are not the same conclusion.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-3-dark.svg" | relative_url }}" alt="Drone visibility illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_drone_trackin_5a753d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The public expectation gap around drone visibility
 
@@ -482,7 +472,6 @@ These systems do not combine neatly into one universal public map.
 Some specialised drone-detection platforms can integrate radio-frequency interception, Remote ID and other cooperative signals, but these are typically commercial or governmental systems rather than public consumer services. <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.skeydrone.aero/portal/en/kb/articles/what-types-of-drone-detections-does-drone-radar-support-e-g-ads-b-remote-id-rf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.skeydrone.aero">[SkeyDrone Support]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.skeydrone.aero</span><span class="citation-popover-title">Critical for detecting unauthorized or malicious drones.Read more</span><span class="citation-popover-snippet">SkeyDrone SupportWhat types of drone detections does Drone Radar...Can detect position, altitude, and sometimes serial number, even if R...</span></span></span>
 
 For UFO investigators, this means an apparently empty sky on a public tracker should be treated as [incomplete]({{ 'incomplete-data/' | relative_url }}) evidence rather than definitive proof.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bklLrGStAUA" title="SiFly Drones on ADS-B Exchange: The Future of Airspace Visibility" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bklLrGStAUA" target="_blank" rel="noopener noreferrer">SiFly Drones on ADS-B Exchange: The Future of Airspace Visibility</a></p><p class="youtube-embed-meta">Channel: SiFly Aviation &middot; Views: 517 &middot; Uploaded: April 2026 &middot; Length: 1 minute 36 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bklLrGStAUA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bklLrGStAUA">Open on YouTube</a></p></div></div></div>
 
@@ -885,6 +874,7 @@ In AI-assisted UFO investigation, the better approach is not to treat empty trac
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e8
 
 Many UFO and UAP reports remain unresolved for a simple reason: investigators do not have enough reliable information to reach a defensible conclusion. That is very different from proving that something extraordinary occurred. In most unresolved cases, the problem is not that analysts discovered impossible flight behaviour or confirmed unknown technology. The problem is that the evidence is [incomplete]({{ 'incomplete-data/' | relative_url }}), contradictory, degraded, or impossible to verify after the event.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-1-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters in AI-assisted UFO sighting investigation because automated systems often create pressure to produce clean outputs: a percentage score, a [confidence]({{ 'confidence/' | relative_url }}) estimate, or a ranked explanation list. But probability scoring only works properly when the underlying evidence is stable enough to compare against known outcomes. Many UFO cases fail that requirement from the beginning. A six-second infrared clip, a missing timestamp, uncertain witness direction, or absent radar data can make a case resistant to meaningful numerical scoring even when AI tools successfully identify patterns and candidate explanations. NASA’s independent UAP study warned that analysis is routinely limited by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata, and lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
 
@@ -364,7 +363,6 @@ An AI model trained on historical reports may treat witness descriptions as stab
 
 For example:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “Instant acceleration” may describe a light disappearing behind clouds
@@ -374,7 +372,6 @@ For example:
 </div>
 
 When witness statements conflict with environmental reconstruction, the probability model becomes fragile.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-2-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Unresolved does not mean equally mysterious
@@ -396,7 +393,6 @@ AARO and NASA have both stressed that unresolved status alone should not be inte
 ## Why AI systems are vulnerable to false confidence
 
 AI-assisted investigation systems can compare cases rapidly and surface useful correlations that human analysts might miss. They can:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -420,7 +416,6 @@ A machine-learning system may still output:
 
 Yet those figures may rest on unstable assumptions:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * The timestamp could be wrong
@@ -437,14 +432,12 @@ In UFO analysis, this risk is amplified because many historical cases never rece
 
 An AI model trained on uncertain labels inherits those uncertainties.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-3-dark.svg" | relative_url }}" alt="Unresolved Cases illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_unresolved_ca_fad32e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why calibrated language is often more honest than percentages
 
 Because unresolved UFO cases contain layered uncertainty, many investigators prefer calibrated verbal assessments over exact percentages.
 
 Phrases such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -483,6 +476,16 @@ A strong investigative pipeline usually attempts to narrow uncertainty before as
 5. Comparing astronomical objects at that time and angle
 6. Reviewing aviation and satellite traffic
 7. Looking for independent witnesses
+
+8. Examining sensor metadata <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+9. Identifying image-processing artefacts
+10. Estimating observational limits honestly
+
+Only after those steps does probability scoring become meaningful.
+
+In many unresolved cases, the process stops early because too many critical variables remain unknown. The case is not necessarily extraordinary. It is simply underdetermined.
+
+That is why unresolved UFO reports resist clean numerical odds. The investigation often lacks the stable foundation required for defensible probability estimates in the first place.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -875,15 +878,6 @@ A strong investigative pipeline usually attempts to narrow uncertainty before as
 })();
 </script>
 </section>
-8. Examining sensor metadata <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[science.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
-9. Identifying image-processing artefacts
-10. Estimating observational limits honestly
-
-Only after those steps does probability scoring become meaningful.
-
-In many unresolved cases, the process stops early because too many critical variables remain unknown. The case is not necessarily extraordinary. It is simply underdetermined.
-
-That is why unresolved UFO reports resist clean numerical odds. The investigation often lacks the stable foundation required for defensible probability estimates in the first place.
 
 ## Endnotes
 

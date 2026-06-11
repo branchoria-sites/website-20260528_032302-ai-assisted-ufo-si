@@ -271,14 +271,12 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_db
 
 A red flash above a distant thunderstorm can look startlingly artificial if it appears without warning, lasts only a fraction of a second, and vanishes before the witness understands what they saw. In many UFO-style reports involving “red hovering lights” or “brief crimson explosions above clouds”, the single most useful test is often not shape analysis or image enhancement but timing. [Sprites]({{ 'sprites/' | relative_url }}) are closely linked to specific lightning discharges, especially powerful positive cloud-to-ground strikes. If a suspected sighting lines up with a major lightning event within the right time window and viewing direction, the case can shift from a vague anomaly to a plausible atmospheric explanation. If the timing does not fit, the sprite hypothesis weakens quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites are mostly red and usually last no more than a few secon...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-1-dark.svg" | relative_url }}" alt="Lightning timing illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, lightning timing matters because it converts an eyewitness impression into a testable sequence of events. Modern lightning detection networks record exact strike times down to milliseconds or microseconds. That allows investigators to compare witness timestamps, video frames, radar data, and lightning logs against known sprite behaviour rather than relying on memory alone.
 
 ## Why positive cloud-to-ground strikes matter
 
 Sprites are not randomly scattered around storms. Research consistently links them to unusually energetic positive cloud-to-ground lightning discharges, commonly abbreviated as +CG strikes. These strikes transfer positive charge from the storm to the ground and can radically alter the electric field high above the thunderstorm. NOAA National Severe Storms Laboratory EarthDate That distinction matters during a UFO-style investigation because ordinary lightning activity alone is not enough to support a sprite explana <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdate.org/episodes/sprites-and-elves" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdate.org">[earthdate.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdate.org</span><span class="citation-popover-snippet">Sprites and ElvesSprites occur 30–55 mi (50–90 km) above Earth, far higher than ordinary lightning. They are triggered by positive cloud...</span></span></span> tion. A storm may produce thousands of flashes without generating visible sprites. Investigators therefore look for several conditions together:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -321,7 +319,6 @@ This process often produces clearer answers than visual interpretation alone.
 
 For example, a witness may report:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “A red jellyfish-shaped object appeared above clouds for less than a second”
@@ -350,7 +347,6 @@ Witness [confidence]({{ 'confidence/' | relative_url }}) can be misleading in sp
 
 Human perception under low-light conditions introduces several problems:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Witnesses round times to the nearest minute
@@ -372,7 +368,6 @@ Conversely, timing can also eliminate false sprite assumptions. Some red-light s
 
 In those cases, investigators should not force a sprite explanation simply because the witness described a “red flash”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-2-dark.svg" | relative_url }}" alt="Lightning timing illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When timing supports a sprite explanation
 
@@ -381,7 +376,6 @@ A sprite interpretation becomes substantially stronger when several timing indic
 ### Strong supporting indicators
 
 The following combinations are especially persuasive:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -401,7 +395,6 @@ That matters because an apparent mismatch between sprite position and strike loc
 
 Video evidence can strengthen the case further. Even poor-quality smartphone footage may capture:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A red vertical structure
@@ -412,7 +405,6 @@ Video evidence can strengthen the case further. Even poor-quality smartphone foo
 </div>
 
 AI-assisted frame extraction and brightness enhancement can sometimes reveal sprite-like [geometry]({{ 'geometry/' | relative_url }}) invisible during normal playback.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-3-dark.svg" | relative_url }}" alt="Lightning timing illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_lightning_tim_144c5d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When timing weakens the explanation
@@ -852,6 +844,7 @@ But in practical UFO case handling, lightning timing transforms a fleeting red f
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

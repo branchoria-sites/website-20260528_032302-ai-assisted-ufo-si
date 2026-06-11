@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b
 
 A surprising number of UFO reports become less mysterious once the timing and geometry of nearby aircraft are reconstructed properly. That does not mean witnesses are inventing what they saw. It means that lights viewed at night, aircraft turning towards or away from an observer, [landing lights]({{ 'landing-lights/' | relative_url }}) seen head-on, holding patterns, helicopters hovering into wind, and [incomplete]({{ 'incomplete-data/' | relative_url }}) public flight-tracking data can create convincing impressions of unusual motion.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft tracks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, [aircraft]({{ 'aircraft/' | relative_url }}) analysis is not simply a matter of checking a flight-tracking app and looking for a nearby plane. A reliable timeline reconstruction tests several things together: the reported direction of travel, altitude estimate, brightness changes, sound delay, local airport traffic, military activity, radar coverage, and whether public tracking data may be incomplete. The strongest aircraft matches are multi-factor matches. A weak match is usually one that only overlaps in time.
 
@@ -318,7 +317,6 @@ Aircraft tracking data is strong evidence, but it is not absolute proof either w
 
 When coverage is good, aircraft data can establish:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Exact or near-exact flight path
@@ -339,7 +337,6 @@ For a UFO investigation timeline, that precision matters because apparent anomal
 ### What tracking data cannot prove
 
 Public aircraft data has important limitations:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -370,7 +367,6 @@ One of the classic UFO timeline errors occurs when an aircraft flies directly to
 
 A plane approaching head-on may appear:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Stationary for several minutes
@@ -384,7 +380,6 @@ Landing lights are designed to be visible over long distances. Seen head-on at n
 
 [AI reconstruction]({{ 'ai-reconstruction/' | relative_url }}) systems can test this automatically by comparing:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Aircraft heading
@@ -396,7 +391,6 @@ Landing lights are designed to be visible over long distances. Seen head-on at n
 
 This is especially important near airport approach corridors, where multiple witnesses may independently report “stationary lights” on different nights.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKrW0aoB_6w" title="ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer">ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 47.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKrW0aoB_6w">Open on YouTube</a></p></div></div></div>
 
 ### Turning aircraft and apparent acceleration
@@ -406,7 +400,6 @@ A turning aircraft can appear to accelerate dramatically without changing speed 
 This happens because observers mainly perceive angular motion rather than true velocity. A plane crossing sideways across the field of view looks fast. The same aircraft flying towards the observer looks slow or stationary.
 
 When the aircraft changes heading:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -419,7 +412,6 @@ When the aircraft changes heading:
 </div>
 
 In UFO reports, these transitions are often described as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -463,7 +455,6 @@ Near airports, this can match:
 
 These patterns become clearer when AI systems reconstruct the entire local air picture over 30 to 90 minutes rather than only the exact sighting minute.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft tracks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why military and hidden flights complicate UFO cases
 
@@ -503,7 +494,6 @@ Even when the aircraft itself is hidden, secondary clues may still appear in the
 * Other witnesses hearing engines
 * Infrared or navigation light patterns
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7K1xFb1REHU" title="How does ADS-B work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer">How does ADS-B work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 66.1K &middot; Uploaded: April 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7K1xFb1REHU">Open on YouTube</a></p></div></div></div>
 
 ### GPS interference and tracking gaps
@@ -524,7 +514,6 @@ Coverage problems become more noticeable:
 Researchers studying ADS-B infrastructure have also noted that sensor placement and redundancy strongly affect visibility and resilience against interference or signal disruption. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2204.01994" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Towards Security-Optimized Placement of ADS-B Sensors</span><span class="citation-popover-snippet">Towards Security-Optimized Placement of ADS-B SensorsApril 5, 2022...</span><span class="citation-popover-meta">Published: April 5, 2022</span></span></span>
 
 For UFO timeline work, this means missing track segments should be marked as uncertainty zones rather than treated as proof of anomalous behaviour.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft tracks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_aircraft_trac_5b4f0a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to handle missing or hidden aircraft tracks
@@ -563,7 +552,6 @@ An aircraft explanation weakens when: <span class="citation-chip-wrap"><a class=
 * Multiple calibrated sensors contradict the aircraft hypothesis
 
 Even then, the correct conclusion may still be “insufficient evidence”, not “extraordinary craft”.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KahiBjBmgrc" title="How to Track Filtered Aircraft with ADS-B Exchange" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer">How to Track Filtered Aircraft with ADS-B Exchange</a></p><p class="youtube-embed-meta">Channel: 0x4rk0 &middot; Views: 5.9K &middot; Uploaded: April 2022 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KahiBjBmgrc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KahiBjBmgrc">Open on YouTube</a></p></div></div></div>
 
@@ -998,6 +986,7 @@ That narrower and more testable question is where aircraft timeline analysis bec
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

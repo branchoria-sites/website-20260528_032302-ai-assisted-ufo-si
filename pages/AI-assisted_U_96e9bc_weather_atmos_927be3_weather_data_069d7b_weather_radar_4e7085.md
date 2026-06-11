@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069
 
 Radar evidence often gives UFO reports an aura of certainty. Witness testimony can be mistaken, photographs can be ambiguous, but radar tracks are frequently treated as objective proof that an unknown object physically occupied the sky. In practice, that [confidence]({{ 'confidence/' | relative_url }}) can be misplaced when weather and atmospheric structure distort how radar signals travel. Temperature [inversions]({{ 'inversions/' | relative_url }}), moisture layers, coastal ducting, heavy storms, and turbulent air can all generate false returns, misplaced targets, or clutter that appears to confirm an extraordinary object where none exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Anomalous_propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Anomalous propagation</span><span class="citation-popover-snippet">Anomalous propagation</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.noaa.gov/jetstream/anomalous-propagation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: noaa.gov">[NOAA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">noaa.gov</span><span class="citation-popover-title">anomalous propagation</span><span class="citation-popover-snippet">JetStream Max: Anomalous Propagation9 Aug 2023 — There are two main types of anomalous propagation on radars: Ground Clutter and Supe...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-1-dark.svg" | relative_url }}" alt="Radar Errors illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this matters because radar data should rarely be treated as independent evidence until environmental conditions are checked against the exact timeline of the event. A radar hit recorded during strong atmospheric inversion conditions does not automatically invalidate a sighting, but it does reduce confidence that the contact represents a discrete airborne craft. Good case analysis therefore combines radar logs with meteorological profiles, storm data, aviation [weather]({{ 'weather/' | relative_url }}) observations, and sensor [metadata]({{ 'metadata/' | relative_url }}) before assigning evidential weight.
 
@@ -288,7 +287,6 @@ The central mechanism behind many misleading UFO radar contacts is anomalous pro
 ### Why temperature inversions matter
 
 A common trigger is a temperature inversion, where warm air sits above cooler air instead of the normal pattern of colder air at higher altitude. These inversions are especially common:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -340,7 +338,6 @@ Thunderstorms create another major source of misleading radar evidence in UFO ca
 
 Large storm cells contain dense rain, hail, ice crystals, wind shear, and turbulent airflow. These conditions can produce:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Expanding radar blooms <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/weather-wisdom/radar-beams-refraction-inversions-and-ground-clutter-4b7dec0df821" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[medium.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-title">Radar Blooms</span><span class="citation-popover-snippet">Weather WisdomThe technical term is called anomalous propagation or simply, ground clutter. Anomalous propagation or AP happens when a ra...</span></span></span>
@@ -361,7 +358,6 @@ Ground clutter becomes especially problematic when atmospheric bending directs r
 
 In UFO investigations, these returns can later be remembered as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * “Unknown craft”
@@ -379,7 +375,6 @@ One reason this confusion persists is that radar displays compress complex signa
 
 Radar evidence is strongest when multiple independent systems agree under stable atmospheric conditions. It becomes much weaker when all detections depend on a single propagation environment.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-2-dark.svg" | relative_url }}" alt="Radar Errors illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The problem with retrospective storytelling
 
@@ -388,7 +383,6 @@ Many famous UFO stories simplify radar evidence after the fact. A later retellin
 > “The object was tracked on radar.”
 
 That sentence hides several critical questions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -415,7 +409,6 @@ Marine ducting over coastal regions is especially important here. Strong moistur
 ## Combining weather and radar timelines safely
 
 The safest way to evaluate radar evidence in a UFO case is to build a tightly synchronised environmental timeline.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-3-dark.svg" | relative_url }}" alt="Radar Errors illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_weather_data_069d7b_weather_radar_4e7085-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The key environmental checks
@@ -871,6 +864,7 @@ That distinction is essential if a [case file]({{ 'case-file/' | relative_url }}
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

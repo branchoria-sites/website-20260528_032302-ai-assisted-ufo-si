@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_14
 
 A bright light that seems fixed in the night sky is one of the most common starting points in UFO and UAP reports. In many cases the object is not truly hovering at all. A distant [aircraft]({{ 'aircraft/' | relative_url }}) flying almost directly towards the observer can appear nearly motionless for several minutes, especially at night when there are few visual [reference points]({{ 'reference-points/' | relative_url }}). At the same time, small multicopter drones really can hover in place, pause abruptly and drift sideways in ways that ordinary fixed-wing aircraft cannot.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-1-dark.svg" | relative_url }}" alt="Hover tests illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, separating these two possibilities is a high-value early test. A mistaken “hovering craft” can often be resolved through flight-path [geometry]({{ 'geometry/' | relative_url }}), local aviation data and motion analysis before more exotic explanations are considered. The key question is not whether the light looked still for a moment, but whether it behaved like an object maintaining a fixed position in the air or only appeared stationary because it was flying directly towards the witness.
 
@@ -325,7 +324,6 @@ Investigators can automate this process with simple motion tracking:
 
 Even crude tracking can reveal motion invisible to the naked eye.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6P-bOpUvX28" title="Night Flying Rules for Part 107 Pilots (PLUS 13 Night Questions &amp; My Favorite Beacon!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer">Night Flying Rules for Part 107 Pilots (PLUS 13 Night Questions &amp; My Favorite Beacon!)</a></p><p class="youtube-embed-meta">Channel: John Peltier &middot; Views: 2.6K &middot; Uploaded: July 2025 &middot; Length: 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6P-bOpUvX28" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6P-bOpUvX28">Open on YouTube</a></p></div></div></div>
 
 ### Sideways translation strongly favours multicopters
@@ -335,7 +333,6 @@ A fixed-wing aircraft normally turns through banking arcs. Multicopters can slid
 This matters because many nighttime reports confuse lateral repositioning with impossible motion. In reality, drones routinely make small corrective movements while hovering in wind.
 
 The strongest drone-like patterns include:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -357,7 +354,6 @@ A person walking, driving or turning their head can unintentionally generate par
 
 This is why witness interviews should capture:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * whether the observer was stationary
@@ -370,7 +366,6 @@ This is why witness interviews should capture:
 
 Without those details, “hovering” becomes a much weaker data point.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-2-dark.svg" | relative_url }}" alt="Hover tests illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common mistakes in witness distance estimates
 
@@ -379,7 +374,6 @@ Distance estimation failures are central to many drone-versus-aircraft misidenti
 At night, a single bright point provides very little scale information. Aviation researchers and investigators repeatedly note that isolated lights in darkness are extremely difficult to judge accurately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 A nearby drone with strong LEDs may be interpreted as:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -391,7 +385,6 @@ A nearby drone with strong LEDs may be interpreted as:
 </div>
 
 The reverse also happens. A distant aircraft using landing lights can appear much closer than it really is.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fXFs0ZNA-zc" title="Anti Collision Lighting Part 107 Drone Pilot Training: Night Operations" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fXFs0ZNA-zc" target="_blank" rel="noopener noreferrer">Anti Collision Lighting Part 107 Drone Pilot Training: Night Operations</a></p><p class="youtube-embed-meta">Channel: Tactical Aviation &middot; Views: 440 &middot; Uploaded: March 2022 &middot; Length: 3 minutes 20 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fXFs0ZNA-zc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fXFs0ZNA-zc">Open on YouTube</a></p></div></div></div>
 
@@ -424,7 +417,6 @@ A small drone several hundred metres away may be inaudible in wind or urban nois
 
 This timing mismatch can reinforce the illusion that an object is hovering unnaturally.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-3-dark.svg" | relative_url }}" alt="Hover tests illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_drone_vs_airc_142de1_hovering_ligh_c18ef9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why head-on aircraft fool people so often
 
@@ -442,7 +434,6 @@ Modern landing lights are extremely bright and can dominate all other visual cue
 
 Once the aircraft turns slightly, the illusion collapses and the object suddenly appears to “shoot sideways”.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O0G-QMKNN9g" title="How to spot the difference: Drones vs. planes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer">How to spot the difference: Drones vs. planes</a></p><p class="youtube-embed-meta">Channel: 13News Now &middot; Views: 3.3K &middot; Uploaded: December 2024 &middot; Length: 3 minutes 1 second</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O0G-QMKNN9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O0G-QMKNN9g">Open on YouTube</a></p></div></div></div>
 
 ### Autokinesis and night perception effects
@@ -450,7 +441,6 @@ Once the aircraft turns slightly, the illusion collapses and the object suddenly
 Aviation literature also documents autokinetic illusion: when a person stares at a single light in darkness, tiny involuntary eye movements can make the light appear to drift or manoeuvre. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Sensory_illusions_in_aviation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory illusions in aviation</span><span class="citation-popover-snippet">Sensory illusions in aviation</span></span></span>
 
 This is one reason witnesses sometimes report:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -881,6 +871,7 @@ The strongest conclusions usually come from combining several weak clues rather 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

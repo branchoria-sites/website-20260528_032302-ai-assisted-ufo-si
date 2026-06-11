@@ -296,7 +296,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c4
 
 A vertical beam of light hanging in the sky can look deeply unnatural, especially when it appears motionless, sharply defined, and detached from any visible source on the ground. In UFO reporting, these displays are often described as “columns”, “portals”, “tractor beams”, or “searchlights from nowhere”. Yet one of the most common explanations is a well-understood atmospheric optics effect called a light pillar.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1-dark.svg" | relative_url }}" alt="Light pillars illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Light pillars form when bright light reflects from flat ice crystals suspended in cold air. Under the right conditions, ordinary ground lighting — street lamps, industrial sites, stadium floodlights, vehicle headlights, or even the Sun or Moon — can appear as luminous vertical shafts reaching into the sky. The effect is real, photographable, and sometimes spectacular enough to trigger UFO reports, especially during cold clear nights when the witness cannot easily identify the source below. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Light_pillar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Light pillar</span><span class="citation-popover-snippet">January 8, 2026 — A light pillar or ice pillar is an atmospheric optical phenomenon in which a vertical beam of light appears to extend a...</span><span class="citation-popover-meta">Published: January 8, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://about.metservice.com/learning/light-pillars-e59eg" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: about.metservice.com">[About MetService]</a><span class="citation-popover" role="note"><span class="citation-popover-source">about.metservice.com</span><span class="citation-popover-snippet">Light PillarsSome pillars are caused by sunlight, while they can also be created by moonlight, and even the light from Ve...</span></span></span>
 
@@ -307,7 +306,6 @@ For AI-assisted UFO sighting investigation, light pillars matter because they cr
 Light pillars are caused by reflection, not by a physical beam extending upward through the atmosphere. Tiny plate-shaped ice crystals drift through cold air and act like countless small mirrors. When many crystals settle in roughly horizontal orientations, they reflect light toward an observer in a narrow vertical band. <span class="citation-chip-wrap"><a class="citation-chip" href="https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[The Weather Channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-snippet">The Weather ChannelThe Science Behind Light Pillars27 Jan 2017 — They&#x27;re most commonly seen when nearly flat, hexagonal-shaped ice crysta...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[2atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span>
 
 The effect is strongest in calm, cold conditions where the crystals remain stable rather than tumbling chaotically in turbulent air. Meteorological sources consistently associate strong pillar displays with [freezing]({{ 'freezing-fog/' | relative_url }}) temperatures, suspended ice crystals, and low wind conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">FOX WeatherMidwestern arctic blast leads to gorgeous light pillar...Jan 29, 2023 — Light pillars are created when lights on the Earth&#x27;s...</span></span></span> Newsweek Several features make these displays easy to mistake for unusual aerial phenomena: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newsweek.com/bizarre-ice-crystals-light-pillar-vermont-1850812" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[newsweek.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-title">bizarre ice crystals light pillar vermont 1850812</span><span class="citation-popover-snippet">Photo Shows Bizarre Ice Crystals Form Over New England8 Dec 2023 — These crystals are so small and light that they can remain in...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -338,7 +336,6 @@ This becomes more pronounced in [freezing fog]({{ 'freezing-fog/' | relative_url
 
 Witness descriptions often include phrases such as:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “A beam standing still in the sky”
@@ -352,7 +349,6 @@ Witness descriptions often include phrases such as:
 These reports can sound extraordinary while still matching known atmospheric optics behaviour.
 
 Public reaction patterns also show how unusual the effect appears to non-specialists. Weather and astronomy outlets repeatedly document social media waves where residents interpret pillar displays as UFOs or invasion-like phenomena before meteorologists identify the cause. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sciencealert.com/people-think-these-eerie-atmospheric-light-beams-are-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sciencealert.com">[ScienceAlert]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sciencealert.com</span><span class="citation-popover-title">people think these eerie atmospheric light beams are ufos</span><span class="citation-popover-snippet">People Keep Thinking These Eerie Atmospheric Light...Feb 11, 2018 — The appearance of these pillars south of polar regions i...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://weather.com/science/weather-explainers/news/light-pillars-photo-wyoming" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.com">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.com</span><span class="citation-popover-snippet">The Weather ChannelThe Science Behind Light Pillars27 Jan 2017 — They&#x27;re most commonly seen when nearly flat, hexagonal-shaped ice crysta...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KjrxUR8iE_8" title="Not Aliens, But Science Explains Light Pillars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KjrxUR8iE_8" target="_blank" rel="noopener noreferrer">Not Aliens, But Science Explains Light Pillars</a></p><p class="youtube-embed-meta">Channel: 13 ON YOUR SIDE &middot; Views: 6.1K &middot; Uploaded: February 2021 &middot; Length: 2 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KjrxUR8iE_8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KjrxUR8iE_8">Open on YouTube</a></p></div></div></div>
 
@@ -404,14 +400,12 @@ The geometry itself matters. Atmospheric optics researchers note that the reflec
 
 That produces an important clue during case analysis: different witnesses at different locations may describe the pillar differently even when viewing the same phenomenon.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-2-dark.svg" | relative_url }}" alt="Light pillars illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What photos and videos usually reveal
 
 Light pillars often look more dramatic in photographs than to the naked eye because modern cameras increase exposure time and brightness in dark scenes. Smartphone processing can also exaggerate colour saturation and sharpen contrast, making the columns appear more solid and artificial.
 
 Even so, imagery usually preserves several useful diagnostic features:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -426,7 +420,6 @@ Even so, imagery usually preserves several useful diagnostic features:
 Night-time city pillar events often produce rows of evenly spaced beams. To witnesses unfamiliar with the effect, these can resemble hovering craft formations or coordinated aerial structures. Photographs from Canada, Alaska, Scandinavia, and northern US states frequently show these patterns during cold winter outbreaks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/amp/35324-light-pillars-photo-ontario.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Alien Glow?</span><span class="citation-popover-snippet">Brilliant Light Pillars Appear Over Canada13 Jan 2017 — The beams resemble so-called sun pillars, which appear as columns of light extend...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.foxweather.com/extreme-weather/midwestern-arctic-blast-leads-to-gorgeous-light-pillar-display-in-kansas" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: foxweather.com">[FOX Weather]</a><span class="citation-popover" role="note"><span class="citation-popover-source">foxweather.com</span><span class="citation-popover-snippet">FOX WeatherMidwestern arctic blast leads to gorgeous light pillar...Jan 29, 2023 — Light pillars are created when lights on the Earth&#x27;s...</span></span></span>
 
 Video evidence can also help separate pillars from searchlights or lasers. True light pillars generally do not sweep across the sky or terminate visibly on cloud layers. Instead, they remain tied to stable light sources while flickering subtly due to crystal movement.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/_Gzep-0wJJo" title="Light Pillars in nighttime sky explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=_Gzep-0wJJo" target="_blank" rel="noopener noreferrer">Light Pillars in nighttime sky explained</a></p><p class="youtube-embed-meta">Channel: KOAA 5 &middot; Views: 22.4K &middot; Uploaded: February 2022 &middot; Length: 1 minute 43 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=_Gzep-0wJJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=_Gzep-0wJJo">Open on YouTube</a></p></div></div></div>
 
@@ -451,7 +444,6 @@ Another warning sign is directional inconsistency. A genuine pillar remains alig
 
 In AI-assisted case triage, the correct classification is often not “solved” but “consistent with light pillar conditions”. That distinction matters because atmospheric data may support the mechanism strongly without proving it beyond doubt.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-3-dark.svg" | relative_url }}" alt="Light pillars illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this mechanism matters in UFO case triage
 
@@ -460,7 +452,6 @@ Light pillars are a good example of why environmental correlation belongs near t
 The mechanism also shows why witnesses should not be ridiculed for reporting unusual lights. Many people encounter strong pillar displays only once or twice in their lives. Under ideal conditions the effect genuinely looks strange, especially when viewed from unfamiliar terrain at night.
 
 For investigators, the value lies in structured comparison:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -474,9 +465,7 @@ For investigators, the value lies in structured comparison:
 
 When those answers align, AI-assisted environmental analysis can often reduce a seemingly extraordinary “alien beam” report to a documented atmospheric optics event without dismissing the witness experience itself.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VleBuBGpgG0" title="Aliens? What is this light pillar phenomenon?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VleBuBGpgG0" target="_blank" rel="noopener noreferrer">Aliens? What is this light pillar phenomenon?</a></p><p class="youtube-embed-meta">Channel: The Weather Network &middot; Views: 5.2K &middot; Uploaded: January 2022 &middot; Length: 1 minute 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VleBuBGpgG0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VleBuBGpgG0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -869,6 +858,7 @@ When those answers align, AI-assisted environmental analysis can often reduce a 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

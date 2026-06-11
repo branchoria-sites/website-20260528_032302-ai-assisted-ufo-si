@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5
 
 A UFO video can look dramatic while still being almost impossible to verify. In many famous cases, the biggest weakness is not necessarily the image itself, but the disappearance of the [original]({{ 'original-evidence/' | relative_url }}) [metadata]({{ 'metadata/' | relative_url }}). Once the source file is lost, reposted, screen-recorded or compressed by social platforms, investigators may no longer know exactly when the footage was captured, where it was recorded, which device created it, or whether the clip has been edited. That missing context can seriously limit AI-assisted UFO sighting investigation because automated analysis depends on reliable timestamps, locations, sensor details and chain-of-custody records as much as visual content.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1-dark.svg" | relative_url }}" alt="Missing Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This problem affects ordinary public uploads and high-profile military footage alike. Even the Pentagon’s All-domain Anomaly Resolution Office (AARO) acknowledged that its analysis of the well-known “GoFast” Navy UFO video relied on a publicly available copy because the original file and associated metadata were no longer available. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/case_resolution_reports/AARO_GoFast_Case_Resolution_Card_Methodology_Final.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Go Fast Case Resolution Card Methodology Final</span><span class="citation-popover-snippet">AARO GoFast Case Resolution6 Feb 2025 — AARO analyzed the publicly available 34-second FLIR video, because the original file and its...</span></span></span> When metadata disappears, analysts can still study the visible imagery, but many stronger verification methods become weaker, slower or impossible.
 
@@ -300,7 +299,6 @@ For investigators trying to determine whether a UFO video matches a claimed sigh
 
 A timestamp, for example, can help AI systems correlate a video with:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Commercial flight paths
@@ -325,7 +323,6 @@ A major chain-of-custody problem in public UFO footage is that the version seen 
 
 Typical degradation paths include:
 
-
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
 1. A witness records a video on a phone.
@@ -342,7 +339,6 @@ At each stage, evidence can be lost.
 A screen recording may remove almost all embedded metadata. A clipped version may remove the opening seconds that showed landmarks or [aircraft]({{ 'aircraft/' | relative_url }}) lights. Recompression may alter motion behaviour frame-by-frame, making an object appear faster, smoother or more erratic than in the source file.
 
 For UFO analysis, this matters because many “extraordinary” movement claims depend on tiny visual details. Analysts often need access to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -367,7 +363,6 @@ Researchers and forensic guidance documents consistently note that platforms fre
 
 Common platform effects include:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Removal of GPS coordinates
@@ -387,7 +382,6 @@ This creates a recurring problem in UFO investigations: a witness may genuinely 
 
 For AI-assisted workflows, this distinction matters because automated systems may incorrectly treat a reposted derivative as primary evidence. A responsible investigation pipeline needs to identify whether a file is:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Original
@@ -400,7 +394,6 @@ For AI-assisted workflows, this distinction matters because automated systems ma
 </div>
 
 That provenance assessment can substantially change [confidence]({{ 'confidence/' | relative_url }}) levels.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-2-dark.svg" | relative_url }}" alt="Missing Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The AARO GoFast Case and Lost Source Files
@@ -427,7 +420,6 @@ AARO ultimately concluded that the apparent speed was largely a perception effec
 This is an important lesson for UFO investigations generally. Even when footage comes from military systems with known provenance, lost metadata can narrow what analysts can prove.
 
 The debate around “GoFast” also demonstrates another important point: a striking visual impression alone is not enough. The interpretation depends heavily on supporting technical context. Once that context disappears, arguments tend to become more speculative and harder to resolve decisively.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-dark.svg" | relative_url }}" alt="Missing Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_ufo_video_cha_b5fcd3_missing_ufo_m_7e313e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AI Systems Struggle Without Reliable Metadata
@@ -884,6 +876,7 @@ That gap between virality and preservation is one of the biggest recurring weakn
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_79
 
 Many modern UFO reports now arrive with phone video attached. A witness points a handset at a bright light low in the western sky, zooms in digitally, and records a glowing object that appears to pulse, rotate, change colour or split into structured shapes. In a large number of cases, the underlying object is later identified as Venus or Jupiter rather than an [aircraft]({{ 'aircraft/' | relative_url }}) or unknown craft.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-dark.svg" | relative_url }}" alt="Phone Distortion illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This mismatch between what the eye sees and what the phone records is a major issue in AI-assisted UFO sighting investigation. [Bright planets]({{ 'bright-planets/' | relative_url }}) near the horizon are unusually difficult targets for small [phone cameras]({{ 'phone-cameras/' | relative_url }}). Atmospheric turbulence, aggressive image processing, autofocus hunting and digital zoom can turn a single point of light into a moving blob with apparent surface detail. Royal Museums Greenwich notes that Venus near the horizon can produce “amazing flashing colour effects” frequently reported as UFOs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/space-astronomy/planet-venus" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Royal Museums GreenwichPlanet VenusWhen near the horizon, the &#x27;twinkling&#x27; can give rise to amazing flashing colour effects which are ofte...</span></span></span>
 
@@ -284,7 +283,6 @@ A bright planet low in the sky sits behind a thick layer of atmosphere. Warm and
 To the naked eye, this usually looks like a bright unstable light. Through a phone camera at high zoom, the effect becomes far stranger.
 
 Most smartphones do not use true optical magnification at extreme zoom levels. Instead they crop the image digitally, sharpen it aggressively and attempt to stabilise noise using software. In low light, this creates several distortions at once:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -310,7 +308,6 @@ Venus generates particularly dramatic phone footage because it is exceptionally 
 
 That overexposure interacts with turbulence and lens behaviour to create recurring UFO-style patterns:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Pulsating white discs.
@@ -325,7 +322,6 @@ That overexposure interacts with turbulence and lens behaviour to create recurri
 Jupiter can produce similar effects, though usually with steadier brightness and less severe colour flashing. Venus is bright enough to overwhelm phone exposure systems more easily, especially shortly after sunset when the camera is balancing a bright horizon against a darkening sky.
 
 A recurring pattern in public UFO uploads is that the witness reports a “structured craft” visible only after zooming in. The naked-eye object may have looked like a single bright light, but the recorded video appears to show [geometry]({{ 'geometry/' | relative_url }}), layers or rotating features. In many cases, investigators later reproduce nearly identical visuals by filming Venus under similar conditions with ordinary smartphones.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/esChdVxqWrU" title="The 2020 UFO Mystery SOLVED with Superzoom Camera Technology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=esChdVxqWrU" target="_blank" rel="noopener noreferrer">The 2020 UFO Mystery SOLVED with Superzoom Camera Technology</a></p><p class="youtube-embed-meta">Channel: Heads of Tech &middot; Views: 57.1K &middot; Uploaded: April 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=esChdVxqWrU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=esChdVxqWrU">Open on YouTube</a></p></div></div></div>
 
@@ -363,14 +359,12 @@ Sensor bloom and atmospheric distortion can temporarily stretch a planet into se
 
 This becomes more common when recording through thin cloud, dirty lenses or heat shimmer above rooftops and roads.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-dark.svg" | relative_url }}" alt="Phone Distortion illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Comparing raw footage with naked-eye observations
 
 One of the most useful investigative checks is comparing what the witness actually saw with what the phone produced.
 
 In many Venus and Jupiter reports, the witness initially describes:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -387,7 +381,6 @@ That mismatch is significant. A genuine nearby object with visible geometry woul
 
 Investigators can test this by:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UT6ALVpjo1k" title="Life on Venus?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UT6ALVpjo1k" target="_blank" rel="noopener noreferrer">Life on Venus?</a></p><p class="youtube-embed-meta">Channel: Royal Observatory Greenwich &middot; Views: 16.1K &middot; Uploaded: September 2020 &middot; Length: 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UT6ALVpjo1k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UT6ALVpjo1k">Open on YouTube</a></p></div></div></div>
 
 1. Obtaining the original unedited file rather than social media uploads.
@@ -401,7 +394,6 @@ AI-assisted workflows are especially useful here because astronomy checks can be
 ## Why social media clips amplify the illusion
 
 Many UFO clips are viewed after multiple rounds of recompression on social platforms. This introduces additional distortion:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -417,7 +409,6 @@ The repost cycle can therefore make an ordinary astronomical object appear progr
 
 Some viral clips also lose critical contextual information such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Original zoom level.
@@ -432,14 +423,12 @@ Without that context, viewers see only a cropped glowing object floating in dark
 
 This is one reason investigators place high value on uncropped footage showing the surrounding skyline. A stable object fixed above the same rooftop or treeline over several minutes strongly supports a planetary explanation.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-dark.svg" | relative_url }}" alt="Phone Distortion illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_venus_jupiter_795de0_planet_phone_5f9c08-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AI can and cannot infer from distorted phone footage
 
 AI image analysis can help classify common distortion patterns, but it cannot reliably recover true object structure from heavily degraded zoom footage.
 
 A system may detect that a clip resembles known Venus recordings under turbulent conditions, especially if the object:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -459,7 +448,6 @@ For that reason, responsible UFO investigation separates three different layers 
 * Later enhancement or editing effects.
 
 Confusing these layers is one of the biggest risks in modern phone-based UFO analysis.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OMtx46xd7zc" title="Why Planetary Imaging Is HARDER Than Deep Sky!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OMtx46xd7zc" target="_blank" rel="noopener noreferrer">Why Planetary Imaging Is HARDER Than Deep Sky!</a></p><p class="youtube-embed-meta">Channel: Astrophotography Quest &middot; Views: 416 &middot; Uploaded: April 2025 &middot; Length: 3 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OMtx46xd7zc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OMtx46xd7zc">Open on YouTube</a></p></div></div></div>
 
@@ -868,6 +856,7 @@ For AI-assisted case analysis, the practical takeaway is straightforward: dramat
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

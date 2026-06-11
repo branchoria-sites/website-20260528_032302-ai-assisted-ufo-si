@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7d
 
 A bright Moon behind thin cloud can stop looking like the Moon surprisingly quickly. Instead of a familiar disc with visible edges and surface detail, witnesses may see a glowing orb with blurred boundaries, changing brightness and a diffuse halo. In UFO sighting reports, this matters because the object is often described honestly but interpreted incorrectly. A witness may report a hovering craft, a pulsating light or a silent glowing sphere when the physical source was a cloud-obscured Moon viewed through unstable atmospheric conditions.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-dark.svg" | relative_url }}" alt="Clouded Moon illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one of the most common low-information night-sky misidentifications in UFO investigation. When haze, moisture and thin cloud scatter moonlight, the Moon’s recognisable structure disappears while its brightness remains strong enough to dominate the sky. Automated UFO screening systems should therefore test lunar position and local [weather]({{ 'weather/' | relative_url }}) conditions early in the investigation process, especially for reports involving stationary glowing objects, slow apparent drift, pulsation or repeated disappearance behind cloud. Historical UFO investigations, including Project [Blue Book]({{ 'blue-book/' | relative_url }}), repeatedly concluded that astronomical objects and atmospheric effects accounted for a large share of sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">The project closed in 1969 and we have no...Read more...</span></span></span>
 
@@ -280,7 +279,6 @@ This is one of the most common low-information night-sky misidentifications in U
 The human visual system identifies the Moon partly by its clean circular outline. Thin cloud interferes with that recognition. Instead of a sharp edge separating bright lunar light from dark sky, cloud droplets and airborne particles scatter the light outward. The result is a glowing patch with no clear boundary.
 
 To a witness, this can resemble:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -316,7 +314,6 @@ The key mechanism is uneven cloud density. Thin atmospheric layers rarely move u
 
 Fast-moving lower cloud can create particularly dramatic effects:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * sudden brightening as thinner patches pass
@@ -339,7 +336,6 @@ Atmospheric haze differs slightly from visible cloud but produces related UFO-st
 
 Under hazy conditions, the Moon may appear:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * larger than normal <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Moon_illusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Moon illusion</span><span class="citation-popover-snippet">Moon illusionThe Moon illusion is the optical illusion of the Moon appearing larger near the horizon than it does higher up in the sky...</span></span></span>
@@ -353,7 +349,6 @@ Under hazy conditions, the Moon may appear:
 Near the horizon, [haze effects]({{ 'haze-effects/' | relative_url }}) intensify because moonlight passes through a much thicker section of atmosphere. NASA and [astronomy]({{ 'astronomy/' | relative_url }}) educators have repeatedly noted that atmospheric conditions near the horizon distort the Moon’s appearance and can exaggerate perceived size. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-snippet">NASADecember 7, 2022 — 9 hours ago — National Aeronautics and Space Administration. NASA explores the unknown in air and space, innov...</span><span class="citation-popover-meta">Published: December 7, 2022</span></span></span>
 
 In UFO reports, this often produces claims of:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -392,14 +387,12 @@ This explains why some reports describe remarkably ordinary atmospheric effects 
 
 Historical UFO investigations repeatedly encountered this problem. Project Blue Book and later investigators documented many sightings later attributed to astronomical objects distorted by atmospheric conditions or observational context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://prologue.blogs.archives.gov/2018/04/16/ufos-natural-explanations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: prologue.blogs.archives.gov">[Pieces of History]</a><span class="citation-popover" role="note"><span class="citation-popover-source">prologue.blogs.archives.gov</span><span class="citation-popover-title">Pieces of History UFOs: Natural Explanations</span><span class="citation-popover-snippet">Pieces of HistoryUFOs: Natural Explanations - Pieces of HistoryApr 16, 2018 — The program is conducted in three phases. The first phase i...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-dark.svg" | relative_url }}" alt="Clouded Moon illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Using weather archives in UFO checks
 
 For AI-assisted UFO investigation, weather correlation is one of the fastest ways to test a possible cloud-obscured Moon explanation.
 
 A structured workflow should compare the sighting report against:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -434,7 +427,6 @@ The strongest correlations often come from timing. If the Moon occupied the same
 
 Modern automated workflows can perform this screening rapidly. An AI-assisted pipeline can:
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OXJOQhzvwho" title="What caused that giant halo around the moon?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OXJOQhzvwho" target="_blank" rel="noopener noreferrer">What caused that giant halo around the moon?</a></p><p class="youtube-embed-meta">Channel: WKMG News 6 ClickOrlando &middot; Views: 3.5K &middot; Uploaded: December 2025 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OXJOQhzvwho" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OXJOQhzvwho">Open on YouTube</a></p></div></div></div>
 
 1. Extract time and location from the witness statement.
@@ -464,7 +456,6 @@ Common indicators include:
 Investigators should also compare the report against known lunar rise or set times. Many “hovering UFO” reports occur shortly after moonrise when atmospheric distortion is strongest.
 
 Another useful clue is apparent intelligent concealment. Witnesses sometimes say the object was “hiding in cloud” or “peeking through mist”. In many cases, the visual effect comes from cloud motion selectively revealing portions of the Moon.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-dark.svg" | relative_url }}" alt="Clouded Moon illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_cloud_haze_mo_a0b8e7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When the Moon explanation becomes weaker
@@ -896,6 +887,7 @@ The result is not dismissal but [calibration]({{ 'calibration/' | relative_url }
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

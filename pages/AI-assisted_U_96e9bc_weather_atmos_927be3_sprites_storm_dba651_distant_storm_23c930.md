@@ -277,14 +277,12 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_db
 
 A sprite seen from the wrong place can look less like lightning and more like a hovering craft. The effect is not only caused by the sprite itself, but by the [geometry]({{ 'geometry/' | relative_url }}) between the observer, the storm, the horizon, and the night sky. When a thunderstorm is far away, partly hidden, or sitting beyond the visible horizon, a witness can lose almost every normal cue that helps judge size, distance, and altitude. A brief red electrical discharge tens of kilometres high may instead appear as a compact object suspended above cloud tops. In UFO reporting, this matters because many apparently “stationary” red objects near storms turn out to involve misread depth and scale rather than a solid craft moving through the sky. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.rmets.org/metmatters/mysterious-lightning" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.org">[RMetS For AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.org</span><span class="citation-popover-title">mysterious lightning</span><span class="citation-popover-snippet">Mysterious lightning30 Nov 2016 — Sprites are rarely observed, however when they do appear they are a large but faint, reddish-orang...</span></span></span>, storm geometry is therefore not a minor detail. Reconstructing where the storm actually was, whether it was visible from the witness position, and how much of it was hidden can completely change the interpretation of the event. A sprite above a distant storm often looks disconnected from the [weather]({{ 'weather/' | relative_url }}) system that produced it, especially at night when horizon detail is weak and thunder may not be audible.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-dark.svg" | relative_url }}" alt="Storm geometry illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How distance removes depth and scale cues
 
 [Sprites]({{ 'sprites/' | relative_url }}) occur high above thunderstorms, often around 50 to 90 kilometres above Earth’s surface. They can stretch vertically for tens of kilometres while lasting only milliseconds. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[NOAA National Severe Storms Laboratory]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</span></span></span> Wikipedia Yet human observers rarely perceive that true scale directly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span>
 
 At long range, the brain loses several important [reference points]({{ 'reference-points/' | relative_url }}):
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -305,7 +303,6 @@ A second distortion comes from angular size. A sprite towering above a distant s
 ## Why hidden storm clouds change witness interpretation
 
 Many sprite-related UFO reports involve storms that are partly obscured rather than fully visible. This can happen in several ways:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -359,7 +356,6 @@ Sprites often occur in clusters above active storms. <span class="citation-link-
 
 In UFO case analysis, this matters because witnesses frequently describe “an object that blinked on and off” or “a red thing that appeared several times above the clouds”. Correlating those times against lightning detection networks can sometimes reveal repeated positive cloud-to-ground lightning strikes capable of producing sprite activity.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-dark.svg" | relative_url }}" alt="Storm geometry illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reconstructing viewing direction and storm position
 
@@ -375,6 +371,67 @@ A strong sprite-screening workflow usually includes:
 2. Viewing direction or compass bearing.
 3. Local horizon profile.
 4. Storm radar imagery at the sighting time.
+
+5. Lightning detection data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[rmets.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">wiley.comGround‐based detection of sprites and their parent lightning...by ER Williams · 2010 · Cited by 54 — Sprites have been detected...</span></span></span>
+6. Cloud cover layers.
+7. Estimated storm distance.
+8. Camera [metadata]({{ 'metadata/' | relative_url }}) if available.
+
+Once these are combined, investigators can test whether the reported object aligns with a distant thunderstorm capable of producing upper-atmosphere discharges.
+
+A common pattern emerges in solved cases:
+
+* The witness reports an object “above the clouds”.
+* Radar later shows a severe storm well beyond the visible horizon.
+* The viewing direction matches the storm location.
+* Positive lightning strikes occurred at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[nssl.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</span></span></span>
+* The witness never saw the storm core itself.
+
+AI-assisted workflows are especially useful here because they can automate the correlation between witness direction, radar archives, and lightning databases. Instead of manually searching weather maps frame by frame, an automated system can identify candidate storms and estimate whether their upper-atmosphere activity would have been visible from the observer position.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tGPQ5kzJ9Tg" title="Red Sprites and Blue Jets Explained - New Discovery!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer">Red Sprites and Blue Jets Explained - New Discovery!</a></p><p class="youtube-embed-meta">Channel: Pecos Hank &middot; Views: 1.4M &middot; Uploaded: May 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg">Open on YouTube</a></p></div></div></div>
+
+## Why horizon geometry can exaggerate altitude
+
+One of the strangest aspects of sprite sightings is how high they can appear. Witnesses sometimes report objects “far above the clouds” or “near space”. In a literal sense, sprites are indeed extremely high compared with ordinary lightning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span> But geometry can make them appear even more detached and artificial than they really are.
+
+Because Earth curves away over distance, a remote storm may sit largely below the observer’s horizon while the upper sprite remains visible above it. The observer therefore sees only the topmost luminous portion of the event.
+
+This creates a visual paradox:
+
+* The storm disappears.
+* The sprite remains visible.
+* The red structure seems unsupported in open sky.
+
+To a witness unfamiliar with transient luminous events, this can resemble a floating craft emerging from or hovering above cloud layers.
+
+Researchers have also noted that sprites can appear offset from the underlying lightning source depending on storm structure and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Numerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span> That offset can further weaken the apparent connection between the visible discharge and the storm beneath it.
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-dark.svg" | relative_url }}" alt="Storm geometry illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## What investigators should treat cautiously
+
+Storm geometry can explain many sprite-related UFO reports, but not every red light near a storm is automatically a sprite. Investigators still need to separate sprites from other possibilities such as:
+
+* Aircraft warning lights seen through haze.
+* Distant tower beacons.
+* Camera [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}).
+* Lens reflections.
+* Drone lighting.
+* Power flashes.
+* Meteors near storm systems.
+
+The strongest sprite indicators usually involve:
+
+* Very brief duration.
+* Red or reddish-orange colour.
+* Vertical or branching structure.
+* Occurrence above distant thunderstorms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Numerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span>
+* Repetition during active lightning periods.
+* Silent observation from long range.
+
+Weak cases often lack time precision, direction data, or any confirmed storm activity. In those situations, geometry alone cannot resolve the report.
+
+The key lesson is that perception changes dramatically once storms become distant enough to lose ordinary scale cues. Many witnesses are not inventing what they saw. They are accurately reporting an unusual visual event, but interpreting it without the atmospheric context that would normally make sense of it.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -767,68 +824,6 @@ A strong sprite-screening workflow usually includes:
 })();
 </script>
 </section>
-5. Lightning detection data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rmets.onlinelibrary.wiley.com/doi/abs/10.1002/qj.489" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmets.onlinelibrary.wiley.com">[rmets.onlinelibrary.wiley.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmets.onlinelibrary.wiley.com</span><span class="citation-popover-snippet">wiley.comGround‐based detection of sprites and their parent lightning...by ER Williams · 2010 · Cited by 54 — Sprites have been detected...</span></span></span>
-6. Cloud cover layers.
-7. Estimated storm distance.
-8. Camera [metadata]({{ 'metadata/' | relative_url }}) if available.
-
-Once these are combined, investigators can test whether the reported object aligns with a distant thunderstorm capable of producing upper-atmosphere discharges.
-
-A common pattern emerges in solved cases:
-
-* The witness reports an object “above the clouds”.
-* Radar later shows a severe storm well beyond the visible horizon.
-* The viewing direction matches the storm location.
-* Positive lightning strikes occurred at the same time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nssl.noaa.gov/education/svrwx101/lightning/types/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nssl.noaa.gov">[nssl.noaa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nssl.noaa.gov</span><span class="citation-popover-snippet">NOAA National Severe Storms LaboratorySevere Weather 101: Lightning TypesSprites can appear directly above an active thunderstorm as a la...</span></span></span>
-* The witness never saw the storm core itself.
-
-AI-assisted workflows are especially useful here because they can automate the correlation between witness direction, radar archives, and lightning databases. Instead of manually searching weather maps frame by frame, an automated system can identify candidate storms and estimate whether their upper-atmosphere activity would have been visible from the observer position.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tGPQ5kzJ9Tg" title="Red Sprites and Blue Jets Explained - New Discovery!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer">Red Sprites and Blue Jets Explained - New Discovery!</a></p><p class="youtube-embed-meta">Channel: Pecos Hank &middot; Views: 1.4M &middot; Uploaded: May 2020 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tGPQ5kzJ9Tg">Open on YouTube</a></p></div></div></div>
-
-## Why horizon geometry can exaggerate altitude
-
-One of the strangest aspects of sprite sightings is how high they can appear. Witnesses sometimes report objects “far above the clouds” or “near space”. In a literal sense, sprites are indeed extremely high compared with ordinary lightning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sprite_%28lightning%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sprite (lightning</span><span class="citation-popover-snippet">Sprite (lightning</span></span></span> But geometry can make them appear even more detached and artificial than they really are.
-
-Because Earth curves away over distance, a remote storm may sit largely below the observer’s horizon while the upper sprite remains visible above it. The observer therefore sees only the topmost luminous portion of the event.
-
-This creates a visual paradox:
-
-* The storm disappears.
-* The sprite remains visible.
-* The red structure seems unsupported in open sky.
-
-To a witness unfamiliar with transient luminous events, this can resemble a floating craft emerging from or hovering above cloud layers.
-
-Researchers have also noted that sprites can appear offset from the underlying lightning source depending on storm structure and atmospheric conditions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Numerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span> That offset can further weaken the apparent connection between the visible discharge and the storm beneath it.
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-dark.svg" | relative_url }}" alt="Storm geometry illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_sprites_storm_dba651_distant_storm_23c930-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## What investigators should treat cautiously
-
-Storm geometry can explain many sprite-related UFO reports, but not every red light near a storm is automatically a sprite. Investigators still need to separate sprites from other possibilities such as:
-
-* Aircraft warning lights seen through haze.
-* Distant tower beacons.
-* Camera [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}).
-* Lens reflections.
-* Drone lighting.
-* Power flashes.
-* Meteors near storm systems.
-
-The strongest sprite indicators usually involve:
-
-* Very brief duration.
-* Red or reddish-orange colour.
-* Vertical or branching structure.
-* Occurrence above distant thunderstorms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2404.14794" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arxiv.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Numerical simulations of the region of possible sprite inception in the mesosphere above winter thunderstorms under wind shearApril...</span></span></span>
-* Repetition during active lightning periods.
-* Silent observation from long range.
-
-Weak cases often lack time precision, direction data, or any confirmed storm activity. In those situations, geometry alone cannot resolve the report.
-
-The key lesson is that perception changes dramatically once storms become distant enough to lose ordinary scale cues. Many witnesses are not inventing what they saw. They are accurately reporting an unusual visual event, but interpreting it without the atmospheric context that would normally make sense of it.
 
 ## Endnotes
 

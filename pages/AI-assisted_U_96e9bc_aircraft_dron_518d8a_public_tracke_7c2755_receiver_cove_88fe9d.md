@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c
 
 A low-flying [aircraft]({{ 'aircraft/' | relative_url }}) can vanish from a public tracking map even when it is broadcasting normally. In UFO investigations, this is one of the most important reasons not to treat an empty flight-tracker screen as proof that no aircraft was present. Public tracking services depend on networks of ground receivers, and those receivers only work when they have a usable line of sight to the aircraft. Hills, valleys, cliffs, forests, urban skylines and even the curvature of the Earth can interrupt reception at surprisingly short distances. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/air_traffic/technology/adsb/faq" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Federal Aviation AdministrationADS-B FAQ3 Mar 2025 — In general, the range would depend on your aircraft&#x27;s altitude and any terrain that...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://support.fr24.com/support/solutions/articles/3000115347-what-is-the-coverage-area-of-an-ads-b-receiver-" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: support.fr24.com">[2Flightradar24 Support center]</a><span class="citation-popover" role="note"><span class="citation-popover-source">support.fr24.com</span><span class="citation-popover-title">3000115347 what is the coverage area of an ads b receiver</span><span class="citation-popover-snippet">However, coverage can extend up to 400 km (about 250...Read more...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-1-dark.svg" | relative_url }}" alt="Coverage gaps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters especially for helicopters, police aircraft, air ambulances, coastguard flights and light aircraft operating below a few thousand feet. Witnesses often report these aircraft as unusually silent, hovering, suddenly accelerating or “disappearing”, particularly at night or over uneven terrain. When the matching track is fragmented or absent from a public map, the sighting can appear more mysterious than it really is. A careful AI-assisted UFO investigation therefore needs to examine tracking coverage quality, local geography and probable flight [geometry]({{ 'geometry/' | relative_url }}) before concluding that the airspace was empty.
 
@@ -291,7 +290,6 @@ Low altitude dramatically reduces radio horizon distance. The lower the aircraft
 
 In practice, this means:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * A descending aircraft may disappear from tracking before landing.
@@ -309,7 +307,6 @@ For UFO case analysis, this means the exact altitude estimate from witnesses bec
 ## Helicopters Often Produce Fragmented Tracks
 
 Helicopters are disproportionately associated with broken or partial public tracks because they combine several difficult tracking conditions at once:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -330,7 +327,6 @@ Public tracking systems also rely on different technologies depending on the air
 
 This can create strange-looking tracks:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * sudden jumps
@@ -342,7 +338,6 @@ This can create strange-looking tracks:
 </div>
 
 These artefacts can strongly affect witness interpretation. A helicopter glimpsed intermittently through haze or cloud while its public track repeatedly vanishes may appear far more unusual than a fully continuous track would suggest.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cKrW0aoB_6w" title="ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer">ADS-B: The Future of Aircraft Surveillance! Explained by CAPTAIN JOE</a></p><p class="youtube-embed-meta">Channel: Captain Joe &middot; Views: 47.6K &middot; Uploaded: May 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cKrW0aoB_6w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cKrW0aoB_6w">Open on YouTube</a></p></div></div></div>
 
@@ -366,7 +361,6 @@ This creates an important investigative principle: a single negative tracker res
 
 A robust UFO workflow should compare multiple archives and ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was the aircraft low enough for reception problems?
@@ -379,7 +373,6 @@ A robust UFO workflow should compare multiple archives and ask:
 </div>
 
 A fragmented track can still be highly informative. Even a short visible segment may establish that a helicopter or light aircraft was operating in the correct area at the correct time.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-2-dark.svg" | relative_url }}" alt="Coverage gaps illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Reconstructing Missing Segments With Geometry
@@ -405,7 +398,6 @@ For example, if a helicopter track disappears at the entrance to a valley and re
 
 This is particularly useful in UFO reports involving:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * objects “dropping behind hills”
@@ -417,7 +409,6 @@ This is particularly useful in UFO reports involving:
 </div>
 
 The geometry may reveal that the aircraft was never fully observable from receiver locations in the first place.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7K1xFb1REHU" title="How does ADS-B work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer">How does ADS-B work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 66.1K &middot; Uploaded: April 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7K1xFb1REHU">Open on YouTube</a></p></div></div></div>
 
@@ -438,7 +429,6 @@ A helicopter that appears only briefly on a tracker may still align with:
 In UFO casework, imperfect aviation evidence is still evidence. A partial track close in time and geography can significantly change the probability that an ordinary aircraft explanation is viable.
 
 The absence of a continuous line on a public map should therefore be treated as an uncertainty problem, not as confirmation of anomaly.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-3-dark.svg" | relative_url }}" alt="Coverage gaps illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a_public_tracke_7c2755_receiver_cove_88fe9d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What This Means For UFO Investigations
@@ -465,9 +455,7 @@ Many apparently strange sightings become less mysterious once these factors are 
 
 In an AI-assisted UFO investigation workflow, receiver coverage analysis is therefore best treated as a reliability layer. Before concluding that “no aircraft were present”, the system should first estimate how observable low-altitude aircraft actually were at that location and time.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OYouEQaoAPI" title="How Aircraft Fool Radars by Flying Low" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OYouEQaoAPI" target="_blank" rel="noopener noreferrer">How Aircraft Fool Radars by Flying Low</a></p><p class="youtube-embed-meta">Channel: Not What You Think &middot; Views: 1.2M &middot; Uploaded: November 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OYouEQaoAPI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OYouEQaoAPI">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -860,6 +848,7 @@ In an AI-assisted UFO investigation workflow, receiver coverage analysis is ther
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

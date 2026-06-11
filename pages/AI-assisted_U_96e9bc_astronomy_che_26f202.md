@@ -324,10 +324,8 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-overview-social.
 
 A bright “UFO” is not fully investigated until the sky itself has been checked from the witness’s exact place and time. Venus, Jupiter, the Moon, bright stars, meteors, [fireballs]({{ 'fireballs/' | relative_url }}) and re-entering debris can all look startling when they appear low on the horizon, through haze, near cloud, in twilight, or on a zoomed phone video. The astronomy check does not dismiss the witness; it tests whether a known celestial object was in the right part of the sky, at the right brightness, moving or not moving in the right way, and visible under the reported conditions.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-overview.webp" | relative_url }}" alt="Overview image for Astronomy" loading="eager" decoding="sync" fetchpriority="high">
 For an AI-assisted UFO sighting investigation, this is one of the quickest high-value screens. The [case file]({{ 'case-file/' | relative_url }}) should convert “bright light in the western sky” into testable quantities: observer location, clock time, bearing, [elevation]({{ 'elevation/' | relative_url }}), duration, angular movement, colour, weather, and any camera metadata. NASA’s UAP work has stressed that better data collection and well-characterised observations are essential before advanced analysis can be useful; astronomy checks are a practical example of that principle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev...</span><span class="citation-popover-meta">Published: June 16, 2022</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Aa8Zzvefj4U" title="Explaining the difference: Meteors, fireballs, and bolides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Aa8Zzvefj4U" target="_blank" rel="noopener noreferrer">Explaining the difference: Meteors, fireballs, and bolides</a></p><p class="youtube-embed-meta">Channel: WCNC Charlotte Weather IQ &middot; Views: 462 &middot; Uploaded: October 2025 &middot; Length: 2 minutes 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Aa8Zzvefj4U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Aa8Zzvefj4U">Open on YouTube</a></p></div></div></div>
 
@@ -349,7 +347,6 @@ The first astronomy triage should separate the likely object classes:
 
 **Space debris and re-entry.** This sits on the boundary between astronomy and satellite investigation. Re-entering debris can produce a train of lights, fragmentation and a slow shallow path. Public orbital datasets such as CelesTrak’s general perturbations element sets help investigators screen candidate artificial objects, while the sighting description itself also matters: a long, fragmenting, shallow track is often more consistent with re-entry than with a short meteor flash. <span class="citation-chip-wrap"><a class="citation-chip" href="https://celestrak.org/NORAD/elements/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: celestrak.org">[CelesTrak]</a><span class="citation-popover" role="note"><span class="citation-popover-source">celestrak.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-1-dark.svg" | relative_url }}" alt="Astronomy illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Observer-specific sky positions
 
@@ -358,6 +355,94 @@ A useful astronomy check is not “was Venus up somewhere that night?” It is �
 The key measurements are simple but must be handled carefully. **Altitude** is the angle above the horizon: 0 degrees is on the horizon and 90 degrees is overhead. **Azimuth** is the compass direction around the horizon, usually measured from true north; Skyfield’s documentation gives the same practical definitions, with north at 0 degrees, east at 90 degrees, south at 180 degrees and west at 270 degrees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://rhodesmill.org/skyfield/positions.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rhodesmill.org">[Rhodes Mill]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rhodesmill.org</span><span class="citation-popover-title">Rhodes Mill Positions — Skyfield documentation</span><span class="citation-popover-snippet">Rhodes Mill Positions — Skyfield documentation</span></span></span>
 
 The strongest workflow uses at least two independent checks:
+
+1. **Ephemeris calculation.** NASA JPL’s Horizons system provides custom ephemerides for solar-system objects as seen from specified observer locations, which makes it suitable for checking planets, the Moon, comets and asteroids against a dated sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssd.jpl.nasa.gov">[JPL Solar System Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssd.jpl.nasa.gov</span><span class="citation-popover-title">JPL Solar System Dynamics NASA Horizons Manual</span><span class="citation-popover-snippet">JPL Solar System Dynamics NASA Horizons Manual</span></span></span>
+2. **Visual sky reconstruction.** Stellarium describes itself as a free, open-source planetarium that shows a realistic sky for a selected location and time. That kind of visual reconstruction helps investigators and witnesses compare the reported view with the actual sky map. [Stellarium](https://stellarium.org/)
+3. **Sun and Moon reference data.** The U.S. Naval Observatory provides services for altitude and azimuth of the Sun and Moon, including values referenced to true north and adjusted for standard atmospheric refraction where applicable. This is useful when a report involves twilight, moonrise, moonset, glare, or a bright object close to the horizon. [US Naval Observatory](#endnote-27 "Endnote 27")
+
+AI can automate much of this without turning the result into a black box. A case workflow can parse the witness account, extract a probable time window, geocode the observer position, convert local time to UTC, calculate sky positions for major planets and the Moon, then generate a ranked list of matches. The output should not say “solved by Venus” unless the geometry and behaviour fit. It should say, for example: “Venus was at azimuth 247 degrees, altitude 12 degrees, within the reported western field of view; brightness and stationary behaviour fit; claimed rapid movement does not fit unless caused by camera motion or moving cloud.”
+
+This distinction is important because astronomy matches can be deceptively persuasive. A bright planet in the same broad direction is not enough. The investigator needs to compare:
+
+* reported direction with true azimuth, not magnetic compass bearing unless corrected;
+* reported elevation with calculated altitude;
+* duration with the expected motion of the object;
+* colour and flicker with atmospheric conditions;
+* apparent movement with foreground references;
+* camera field of view, zoom, stabilisation and exposure artefacts;
+* whether the witness was stationary, driving, walking, or filming through glass.
+
+A robust case file should preserve the sky-map output as evidence, not just as an analyst note. That means saving the source, tool version where possible, parameters used, coordinates, time zone conversion, and screenshots or tabulated altitude/azimuth results. Later reviewers should be able to reproduce the check.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fi93Z4Ie6CY" title="How to Pronounce American (CORRECTLY!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fi93Z4Ie6CY" target="_blank" rel="noopener noreferrer">How to Pronounce American (CORRECTLY!)</a></p><p class="youtube-embed-meta">Channel: Julien Miquel &middot; Views: 1.1K &middot; Uploaded: August 2025 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fi93Z4Ie6CY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fi93Z4Ie6CY">Open on YouTube</a></p></div></div></div>
+
+## Meteors and debris need different handling
+
+Fast luminous events require a different astronomy workflow from bright stationary objects. A planet or star can be checked by position at one time. A meteor or re-entry needs a path, duration and multi-witness comparison.
+
+Meteor organisations already use public reporting to build event pictures. The American Meteor Society’s fireball reporting system asks witnesses for precise details and notes that reports contribute to a broader database of meteor knowledge. A 2014 abstract on the AMS reporting system says the upgraded online tool uses maps and programmatic methods to capture observer location, azimuth and elevation with improved precision. [American Meteor Society](#endnote-25 "Endnote 25")
+
+For UFO investigation, the lesson is that one person’s “object descending near the village” may be a high-altitude event visible across counties or countries. A fireball can look local because it is bright and low in the witness’s field of view, but its actual path may be tens of kilometres high and far away. Cross-checking other reports is therefore central: if many observers across a wide region report the same brief streak at the same time, a meteor or re-entry explanation becomes much stronger.
+
+Fireball clues include:
+
+* a duration of seconds rather than minutes;
+* a single sweeping direction across the sky;
+* green, blue, orange or white colour;
+* fragmentation or a terminal flash;
+* no engine sound, though [delayed booms]({{ 'delayed-booms/' | relative_url }}) may occur for larger events;
+* reports from a wide geographic area at the same clock time.
+
+The American Meteor Society notes that fireballs can leave trains or smoke trails, with most glowing trains lasting only seconds and rare ones lasting several minutes while being shaped by upper atmospheric winds. That detail matters because a lingering trail may be reported separately as a stationary object after the bright meteor itself has gone. [American Meteor Society](#endnote-25 "Endnote 25")
+
+Re-entering debris can overlap with meteor reports but often looks slower and more fragmented. In one widely reported case, NASA concluded that bright lights over Georgia were likely space debris rather than a meteor because of their slower speed and shallow entry angle. That kind of distinction is exactly where AI-assisted triage is useful: compare the reported duration, apparent speed, fragmentation and track against meteor databases and orbital re-entry candidates, then label the result as “meteor-like”, “re-entry-like”, or “insufficient path data” rather than forcing a premature identification. [WIRED](#endnote-6 "Endnote 6")
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-2-dark.svg" | relative_url }}" alt="Astronomy illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+## When astronomy fits only part of the report
+
+The most common mistake is treating an astronomy match as all-or-nothing. In real investigations, a celestial object may explain one part of the sighting while leaving other details unresolved. The analyst’s job is to separate fit, mismatch and uncertainty.
+
+The Condon Report’s summary made a useful methodological point: ordinary interpretations can be tentative or controversial when there is not enough data for a definite identification. That caution still applies. A sky-map match should reduce uncertainty where it fits, not erase details it does not address. [NCAS Files](#endnote-10 "Endnote 10")
+
+A planet explanation is strong when the report describes a bright, silent, mostly stationary point in the correct direction and altitude for Venus or Jupiter. It is weaker when the object crosses a large part of the sky in seconds, changes direction sharply against fixed references, appears below cloud that was measured at a low ceiling, or is captured from multiple viewpoints with a triangulated nearby position.
+
+A Moon explanation is strong when the object is large, diffuse, bright, near the Moon’s calculated position, and seen through broken cloud. It is weaker when the sighting involves a compact light moving independently across the sky or when the Moon was below the horizon.
+
+A meteor explanation is strong when the event is brief, bright, directional and widely reported at the same time. It is weaker when the sighting lasts several minutes, stops, reverses, hovers, or reappears repeatedly in the same location over a long period.
+
+A star explanation is strong when the report involves flickering colours, low elevation, long duration and no real displacement relative to foreground objects. It is weaker when the object changes angular position substantially while the camera and foreground remain stable.
+
+An AI-assisted system should therefore avoid a single “astronomy yes/no” flag. Better labels are:
+
+* **ruled in as plausible:** geometry, timing, brightness and behaviour fit;
+* **partial fit:** the sky object explains the bright light but not all claimed movement or duration;
+* **weak fit:** a candidate object was nearby but not close enough in direction, elevation or behaviour;
+* **ruled out:** the candidate was below the horizon, in the wrong direction, too dim, or inconsistent with the timeline;
+* **unresolved:** the sighting lacks enough bearing, elevation, time or duration data to test properly.
+
+This style of labelling protects both sceptical and open-ended analysis. It prevents weak “it was Venus” dismissals, but it also prevents ordinary objects from being left unchecked simply because the account sounded unusual.
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NyuruFDT8M4" title="Stargazing Stories | 5x15 with astronomers from the Royal Observatory Greenwich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NyuruFDT8M4" target="_blank" rel="noopener noreferrer">Stargazing Stories | 5x15 with astronomers from the Royal Observatory Greenwich</a></p><p class="youtube-embed-meta">Channel: 5x15 Stories &middot; Views: 486 &middot; Uploaded: May 2022 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NyuruFDT8M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NyuruFDT8M4">Open on YouTube</a></p></div></div></div>
+
+## What the astronomy check should add to the case file
+
+The astronomy page in an AI-assisted UFO case file should be treated as dataset evidence, not background colour. It should produce a reproducible record that a reviewer can inspect.
+
+A useful astronomy evidence block includes:
+
+**Case inputs.** Date, local time, time zone, uncertainty window, witness coordinates or best available location, viewing direction, elevation estimate, duration, weather visibility, cloud cover and any camera metadata.
+
+**Computed sky objects.** Moon phase and position; Venus, Jupiter, Mars and Saturn positions; bright stars near the reported bearing; twilight state; meteor shower activity if relevant; and any known fireball reports in the same time window.
+
+**Candidate match table.** Each candidate should have altitude, azimuth, brightness where available, expected motion, visibility conditions and a plain-language fit assessment.
+
+**Evidence limitations.** Common weaknesses include vague time, no bearing, no horizon reference, moving vehicle observation, phone zoom, rolling-shutter artefacts, wrong time zone, daylight saving errors, and uncertainty over whether the witness meant magnetic north, true north, or a landmark direction.
+
+**Reviewer note.** The final note should state what changed after the astronomy check: “Venus is a strong candidate”, “meteor explanation fits the duration but not the reported hovering”, “Moon was below the horizon”, or “no bright astronomical object was in the reported sector.”
+
+NASA’s UAP study emphasised the need for higher-quality, better-calibrated data and careful characterisation before applying machine learning. In this narrow astronomy task, that means AI is most useful when it makes the check faster, more consistent and more transparent: it should gather the sky data, expose the assumptions, preserve the witness’s [original]({{ 'original-evidence/' | relative_url }}) account, and show exactly why a celestial explanation fits, partly fits, or fails. [NASA Science](#endnote-1 "Snippet: NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev")
+
+<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-dark.svg" | relative_url }}" alt="Astronomy illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -750,97 +835,7 @@ The strongest workflow uses at least two independent checks:
 })();
 </script>
 </section>
-1. **Ephemeris calculation.** NASA JPL’s Horizons system provides custom ephemerides for solar-system objects as seen from specified observer locations, which makes it suitable for checking planets, the Moon, comets and asteroids against a dated sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ssd.jpl.nasa.gov/horizons/manual.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssd.jpl.nasa.gov">[JPL Solar System Dynamics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssd.jpl.nasa.gov</span><span class="citation-popover-title">JPL Solar System Dynamics NASA Horizons Manual</span><span class="citation-popover-snippet">JPL Solar System Dynamics NASA Horizons Manual</span></span></span>
-2. **Visual sky reconstruction.** Stellarium describes itself as a free, open-source planetarium that shows a realistic sky for a selected location and time. That kind of visual reconstruction helps investigators and witnesses compare the reported view with the actual sky map. [Stellarium](https://stellarium.org/)
-3. **Sun and Moon reference data.** The U.S. Naval Observatory provides services for altitude and azimuth of the Sun and Moon, including values referenced to true north and adjusted for standard atmospheric refraction where applicable. This is useful when a report involves twilight, moonrise, moonset, glare, or a bright object close to the horizon. [US Naval Observatory](#endnote-27 "Endnote 27")
 
-AI can automate much of this without turning the result into a black box. A case workflow can parse the witness account, extract a probable time window, geocode the observer position, convert local time to UTC, calculate sky positions for major planets and the Moon, then generate a ranked list of matches. The output should not say “solved by Venus” unless the geometry and behaviour fit. It should say, for example: “Venus was at azimuth 247 degrees, altitude 12 degrees, within the reported western field of view; brightness and stationary behaviour fit; claimed rapid movement does not fit unless caused by camera motion or moving cloud.”
-
-This distinction is important because astronomy matches can be deceptively persuasive. A bright planet in the same broad direction is not enough. The investigator needs to compare:
-
-* reported direction with true azimuth, not magnetic compass bearing unless corrected;
-* reported elevation with calculated altitude;
-* duration with the expected motion of the object;
-* colour and flicker with atmospheric conditions;
-* apparent movement with foreground references;
-* camera field of view, zoom, stabilisation and exposure artefacts;
-* whether the witness was stationary, driving, walking, or filming through glass.
-
-A robust case file should preserve the sky-map output as evidence, not just as an analyst note. That means saving the source, tool version where possible, parameters used, coordinates, time zone conversion, and screenshots or tabulated altitude/azimuth results. Later reviewers should be able to reproduce the check.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Fi93Z4Ie6CY" title="How to Pronounce American (CORRECTLY!)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Fi93Z4Ie6CY" target="_blank" rel="noopener noreferrer">How to Pronounce American (CORRECTLY!)</a></p><p class="youtube-embed-meta">Channel: Julien Miquel &middot; Views: 1.1K &middot; Uploaded: August 2025 &middot; Length: 1 minute 10 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Fi93Z4Ie6CY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Fi93Z4Ie6CY">Open on YouTube</a></p></div></div></div>
-
-## Meteors and debris need different handling
-
-Fast luminous events require a different astronomy workflow from bright stationary objects. A planet or star can be checked by position at one time. A meteor or re-entry needs a path, duration and multi-witness comparison.
-
-Meteor organisations already use public reporting to build event pictures. The American Meteor Society’s fireball reporting system asks witnesses for precise details and notes that reports contribute to a broader database of meteor knowledge. A 2014 abstract on the AMS reporting system says the upgraded online tool uses maps and programmatic methods to capture observer location, azimuth and elevation with improved precision. [American Meteor Society](#endnote-25 "Endnote 25")
-
-For UFO investigation, the lesson is that one person’s “object descending near the village” may be a high-altitude event visible across counties or countries. A fireball can look local because it is bright and low in the witness’s field of view, but its actual path may be tens of kilometres high and far away. Cross-checking other reports is therefore central: if many observers across a wide region report the same brief streak at the same time, a meteor or re-entry explanation becomes much stronger.
-
-Fireball clues include:
-
-* a duration of seconds rather than minutes;
-* a single sweeping direction across the sky;
-* green, blue, orange or white colour;
-* fragmentation or a terminal flash;
-* no engine sound, though [delayed booms]({{ 'delayed-booms/' | relative_url }}) may occur for larger events;
-* reports from a wide geographic area at the same clock time.
-
-The American Meteor Society notes that fireballs can leave trains or smoke trails, with most glowing trains lasting only seconds and rare ones lasting several minutes while being shaped by upper atmospheric winds. That detail matters because a lingering trail may be reported separately as a stationary object after the bright meteor itself has gone. [American Meteor Society](#endnote-25 "Endnote 25")
-
-Re-entering debris can overlap with meteor reports but often looks slower and more fragmented. In one widely reported case, NASA concluded that bright lights over Georgia were likely space debris rather than a meteor because of their slower speed and shallow entry angle. That kind of distinction is exactly where AI-assisted triage is useful: compare the reported duration, apparent speed, fragmentation and track against meteor databases and orbital re-entry candidates, then label the result as “meteor-like”, “re-entry-like”, or “insufficient path data” rather than forcing a premature identification. [WIRED](#endnote-6 "Endnote 6")
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-2-dark.svg" | relative_url }}" alt="Astronomy illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
-## When astronomy fits only part of the report
-
-The most common mistake is treating an astronomy match as all-or-nothing. In real investigations, a celestial object may explain one part of the sighting while leaving other details unresolved. The analyst’s job is to separate fit, mismatch and uncertainty.
-
-The Condon Report’s summary made a useful methodological point: ordinary interpretations can be tentative or controversial when there is not enough data for a definite identification. That caution still applies. A sky-map match should reduce uncertainty where it fits, not erase details it does not address. [NCAS Files](#endnote-10 "Endnote 10")
-
-A planet explanation is strong when the report describes a bright, silent, mostly stationary point in the correct direction and altitude for Venus or Jupiter. It is weaker when the object crosses a large part of the sky in seconds, changes direction sharply against fixed references, appears below cloud that was measured at a low ceiling, or is captured from multiple viewpoints with a triangulated nearby position.
-
-A Moon explanation is strong when the object is large, diffuse, bright, near the Moon’s calculated position, and seen through broken cloud. It is weaker when the sighting involves a compact light moving independently across the sky or when the Moon was below the horizon.
-
-A meteor explanation is strong when the event is brief, bright, directional and widely reported at the same time. It is weaker when the sighting lasts several minutes, stops, reverses, hovers, or reappears repeatedly in the same location over a long period.
-
-A star explanation is strong when the report involves flickering colours, low elevation, long duration and no real displacement relative to foreground objects. It is weaker when the object changes angular position substantially while the camera and foreground remain stable.
-
-An AI-assisted system should therefore avoid a single “astronomy yes/no” flag. Better labels are:
-
-* **ruled in as plausible:** geometry, timing, brightness and behaviour fit;
-* **partial fit:** the sky object explains the bright light but not all claimed movement or duration;
-* **weak fit:** a candidate object was nearby but not close enough in direction, elevation or behaviour;
-* **ruled out:** the candidate was below the horizon, in the wrong direction, too dim, or inconsistent with the timeline;
-* **unresolved:** the sighting lacks enough bearing, elevation, time or duration data to test properly.
-
-This style of labelling protects both sceptical and open-ended analysis. It prevents weak “it was Venus” dismissals, but it also prevents ordinary objects from being left unchecked simply because the account sounded unusual.
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NyuruFDT8M4" title="Stargazing Stories | 5x15 with astronomers from the Royal Observatory Greenwich" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NyuruFDT8M4" target="_blank" rel="noopener noreferrer">Stargazing Stories | 5x15 with astronomers from the Royal Observatory Greenwich</a></p><p class="youtube-embed-meta">Channel: 5x15 Stories &middot; Views: 486 &middot; Uploaded: May 2022 &middot; Length: 1 hour</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NyuruFDT8M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NyuruFDT8M4">Open on YouTube</a></p></div></div></div>
-
-## What the astronomy check should add to the case file
-
-The astronomy page in an AI-assisted UFO case file should be treated as dataset evidence, not background colour. It should produce a reproducible record that a reviewer can inspect.
-
-A useful astronomy evidence block includes:
-
-**Case inputs.** Date, local time, time zone, uncertainty window, witness coordinates or best available location, viewing direction, elevation estimate, duration, weather visibility, cloud cover and any camera metadata.
-
-**Computed sky objects.** Moon phase and position; Venus, Jupiter, Mars and Saturn positions; bright stars near the reported bearing; twilight state; meteor shower activity if relevant; and any known fireball reports in the same time window.
-
-**Candidate match table.** Each candidate should have altitude, azimuth, brightness where available, expected motion, visibility conditions and a plain-language fit assessment.
-
-**Evidence limitations.** Common weaknesses include vague time, no bearing, no horizon reference, moving vehicle observation, phone zoom, rolling-shutter artefacts, wrong time zone, daylight saving errors, and uncertainty over whether the witness meant magnetic north, true north, or a landmark direction.
-
-**Reviewer note.** The final note should state what changed after the astronomy check: “Venus is a strong candidate”, “meteor explanation fits the duration but not the reported hovering”, “Moon was below the horizon”, or “no bright astronomical object was in the reported sector.”
-
-NASA’s UAP study emphasised the need for higher-quality, better-calibrated data and careful characterisation before applying machine learning. In this narrow astronomy task, that means AI is most useful when it makes the check faster, more consistent and more transparent: it should gather the sky data, expose the assumptions, preserve the witness’s [original]({{ 'original-evidence/' | relative_url }}) account, and show exactly why a celestial explanation fits, partly fits, or fails. [NASA Science](#endnote-1 "Snippet: NASA ScienceUAPJune 16, 2022 — 9 Jun 2022 — A study team to examine unidentified anomalous phenomena (UAPs) – that is, observations of ev")
-
-
-<img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-dark.svg" | relative_url }}" alt="Astronomy illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1104,4 +1099,4 @@ NASA’s UAP study emphasised the need for higher-quality, better-calibrated dat
 
 59. <a id="endnote-59"></a>
    Source: thehistoryreader.com  
-   Link: <a href="https://www.thehistoryreader.com/cultural-history/official-history-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/cultural-history/official-history-ufos/</a>  
+   Link: <a href="https://www.thehistoryreader.com/cultural-history/official-history-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.thehistoryreader.com/cultural-history/official-history-ufos/</a>

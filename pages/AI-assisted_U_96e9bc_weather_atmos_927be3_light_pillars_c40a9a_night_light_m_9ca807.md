@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c4
 
 Night-light maps can often explain a supposed “alien beam” before investigators ever reach for exotic theories. In many UFO reports involving vertical columns of light, witnesses never see the true source on the ground. A distant industrial complex, greenhouse cluster, sports stadium, port facility, refinery, or urban light dome may sit beyond hills, trees, haze, or darkness, while ice crystals in the atmosphere project the light upward into what appears to be a hovering beam. Modern night-time satellite datasets make those hidden light sources visible.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-1-dark.svg" | relative_url }}" alt="Light Maps illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this matters because light-pillar cases are highly [geometry]({{ 'geometry/' | relative_url }})-dependent. A witness may describe a stationary white column “descending from the sky”, yet a night-light map can reveal a powerful lighting installation precisely along the reported bearing. By combining witness direction estimates, atmospheric conditions, terrain data, and satellite night-light imagery, investigators can quickly test whether a beam-like sighting aligns with known human lighting infrastructure rather than an airborne object. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[2atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span>
 
@@ -300,7 +299,6 @@ NASA’s Black Marble programme refines these observations further by filtering 
 
 In practical UFO analysis, investigators are rarely looking for exact photographic matches. Instead, they ask narrower operational questions:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Is there a strong light source in the reported direction?
@@ -318,7 +316,6 @@ This changes the investigation from speculation into a falsifiable geospatial te
 One reason witnesses interpret these events as airborne is that the actual source may sit tens of kilometres away. [Light pillars]({{ 'light-pillars/' | relative_url }}) are reflection effects produced by ice crystals between the observer and the light source, not literal beams extending upward. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atoptics.org.uk/halo/lpil.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atoptics.org.uk">[atoptics.org.uk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atoptics.org.uk</span><span class="citation-popover-title">Light Pillars</span><span class="citation-popover-snippet">Atmospheric OpticsThe column producing pillars are approximately midway between the eye and the light source. The higher the crystals in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.lwpetersen.com/atmospheric-optics/light-pillars/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lwpetersen.com">[Lee Petersen]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lwpetersen.com</span><span class="citation-popover-title">Lee Petersen Light Pillars</span><span class="citation-popover-snippet">Light Pillars - Atmospheric Optics - Lee Petersen29 Apr 2020 — Light pillars are caused by ice crystals reflecting relatively strong ligh...</span></span></span>
 
 That geometry produces several recurring illusions:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -363,7 +360,6 @@ Ports and industrial waterfronts create another common pattern. From inland view
 
 AI-assisted workflows can improve this process by cross-referencing:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Night-light radiance intensity <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.earthdata.nasa.gov/data/projects/black-marble" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthdata.nasa.gov">[earthdata.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthdata.nasa.gov</span><span class="citation-popover-title">black marble</span><span class="citation-popover-snippet">NASA EarthdataBlack Marble &#124; NASA Earthdata15 May 2026 — The Black Marble product utilizes the VIIRS Day/Night Band (DNB), a specialized...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
@@ -376,7 +372,6 @@ AI-assisted workflows can improve this process by cross-referencing:
 </div>
 
 That allows automated systems to flag candidate light sources even when the witness never mentions them.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-2-dark.svg" | relative_url }}" alt="Light Maps illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Satellite night-light data in case reconstruction
@@ -401,7 +396,6 @@ Night-light maps alone cannot prove a particular beam caused a sighting. Investi
 
 This is where AI-assisted workflows outperform casual internet searches. Automated systems can correlate:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Event schedules
@@ -417,7 +411,6 @@ For example, a suspected UFO beam reported during winter freezing fog near a por
 
 That does not “debunk” the witness. Instead, it explains why the event appeared unusual at that specific time.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-3-dark.svg" | relative_url }}" alt="Light Maps illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_weather_atmos_927be3_light_pillars_c40a9a_night_light_m_9ca807-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What night-light maps can and cannot prove
 
@@ -428,7 +421,6 @@ VIIRS and related datasets measure radiance from above, not what a witness perce
 There are also resolution limits. Although VIIRS is far more sensitive than earlier night-light systems, small rural light sources may blur together at satellite scale. <span class="citation-chip-wrap"><a class="citation-chip" href="https://darksky.org/news/eyes-in-the-sky-exploring-global-light-pollution-with-satellite-maps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: darksky.org">[DarkSky International]</a><span class="citation-popover" role="note"><span class="citation-popover-source">darksky.org</span><span class="citation-popover-snippet">DarkSky InternationalEyes In The Sky: Exploring Global Light Pollution With...Whereas the nighttime images from the DMSP satellites coul...</span></span></span>
 
 Investigators therefore avoid overclaiming. A strong alignment between a witness bearing and a bright industrial hotspot supports a light-pillar explanation, but does not automatically prove it. The assessment becomes stronger when multiple independent indicators agree:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -853,6 +845,7 @@ The wider value is methodological. Many UFO investigations fail because they beg
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

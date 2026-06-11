@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6
 
 Balloons keep becoming UFO mysteries because they are simple objects seen under complicated conditions. A drifting balloon can look fast if the observer or camera platform is moving; it can look structured if strings, folds, or partly inflated sections are visible; and it can look strange in infrared when sensor processing changes its apparent shape. AARO has resolved multiple official UAP cases as balloons after comparing object shape, wind-correlated movement, [metadata]({{ 'metadata/' | relative_url }}), and full-motion video, while NASA’s UAP study stresses that weak metadata and poor sensor [calibration]({{ 'calibration/' | relative_url }}) can leave otherwise ordinary sightings unresolved. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP ImageryAARO employed full-motion video analysis and pixel examination techniques to inform its assessment.... Al Taqaddum Case R...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-1-dark.svg" | relative_url }}" alt="Balloon Cases illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, balloon cases are a useful test of discipline. The right question is not “does this look odd?” but “does the object’s apparent motion still look unusual after distance, wind, camera movement, sensor mode, and environmental context have been reconstructed?”
 
@@ -295,12 +294,10 @@ Unresolved infrared cases show the other side of the same problem. In some AARO 
 
 This matters for AI systems. A visual model that only sees a strange silhouette may overvalue shape. A better case-file workflow asks what the sensor was doing, whether the object had a consistent heat source, whether apparent rotation could be optical, and whether the object’s movement matches wind.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-2-dark.svg" | relative_url }}" alt="Balloon Cases illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Environmental checks that solve balloon cases
 
 Balloon explanations become stronger when they are tested against the event environment, not guessed from appearance alone. The most useful checks are practical and case-specific:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -319,7 +316,6 @@ Balloon explanations become stronger when they are tested against the event envi
 
 An AI-assisted investigation should therefore treat wind as a three-dimensional profile, not a single surface reading. A witness may say the object moved “against the wind”, while the balloon was actually following winds at a higher altitude.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/nb45rXZX6Yw" title="Full Uncut Tracking Video of the Infamous &#x27;Jellyfish&#x27; UAP over Iraq" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=nb45rXZX6Yw" target="_blank" rel="noopener noreferrer">Full Uncut Tracking Video of the Infamous &#x27;Jellyfish&#x27; UAP over Iraq</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 76.1K &middot; Uploaded: April 2025 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=nb45rXZX6Yw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=nb45rXZX6Yw">Open on YouTube</a></p></div></div></div>
 
 ## Why “unresolved” does not mean “not a balloon”
@@ -335,7 +331,6 @@ For balloon cases, the distinction should be explicit:
 * **Anomalous candidate:** the object remains unusual after robust checks for [wind drift]({{ 'wind-drift/' | relative_url }}), [sensor artefacts]({{ 'sensor-artefacts/' | relative_url }}), observer motion, and known balloon activity.
 
 This prevents two common errors: dismissing every strange object as a balloon without evidence, and treating every unresolved balloon-like case as extraordinary.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-3-dark.svg" | relative_url }}" alt="Balloon Cases illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_balloon_ufo_m_09bc94-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical lesson for UFO case files
@@ -737,6 +732,7 @@ That is the real value of balloon cases. They do not make UFO investigation less
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -846,4 +842,4 @@ That is the real value of balloon cases. They do not make UFO investigation less
 
 22. <a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ke1n8m/aaros_analysis_determined_the_jellyfish_uap_is_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ke1n8m/aaros_analysis_determined_the_jellyfish_uap_is_a/</a>  
+   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ke1n8m/aaros_analysis_determined_the_jellyfish_uap_is_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ke1n8m/aaros_analysis_determined_the_jellyfish_uap_is_a/</a>

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_151
 
 A dramatic UFO clip is not automatically strong evidence. In many cases, a single phone camera, infrared sensor or dashboard recording captures too little information to support a reliable conclusion. Investigators may see unusual movement, sudden acceleration or strange lighting effects in the footage, yet still be unable to determine whether the object was distant or nearby, physical or optical, ordinary or genuinely unusual.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-1-dark.svg" | relative_url }}" alt="Single Sensor illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is one reason unresolved UFO cases should often remain unresolved. A lone recording device usually cannot measure range, true speed, altitude or size with [confidence]({{ 'confidence/' | relative_url }}). Without supporting radar, independent witnesses, telemetry, environmental data or multiple viewing angles, investigators risk confusing camera artefacts with real behaviour. NASA’s independent UAP study highlighted that many modern cases are limited by poor sensor [calibration]({{ 'calibration/' | relative_url }}), missing metadata and the lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
 
@@ -284,7 +283,6 @@ The biggest weakness in single-sensor footage is the absence of dependable depth
 That creates major uncertainty. A nearby insect crossing a lens can resemble a distant fast-moving craft. A commercial [aircraft]({{ 'aircraft/' | relative_url }}) turning toward the observer may appear stationary. A bright planet low on the horizon can seem to follow a moving vehicle due to motion parallax, where foreground and background objects shift differently relative to the observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4586953/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Motion parallax thresholds for unambiguous depth perceptionby J Holmin · 2015 · Cited by 18 — The perception of unambiguous depth from...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Depth_perception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Depth perception</span><span class="citation-popover-snippet">Depth perceptionDepth perception is the ability to perceive distance to objects in the world using the visual system and visual percep...</span></span></span>
 
 Without a second viewing angle or calibrated range data, several key questions become impossible to answer confidently:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -320,7 +318,6 @@ Bright light sources interact unpredictably with lenses and sensors. Internal re
 
 Several common effects repeatedly appear in UFO footage:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * **Lens flare:** internal reflections moving with camera orientation.
@@ -347,7 +344,6 @@ Parallax is especially important in airborne observations. If a tracking platfor
 
 AI tools can estimate motion vectors frame by frame, but those calculations still depend on assumptions about distance and camera orientation. If the foundational geometry is uncertain, the output remains uncertain too.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-2-dark.svg" | relative_url }}" alt="Single Sensor illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Multi-Source Confirmation Adds
 
@@ -356,7 +352,6 @@ A UFO case becomes substantially stronger when multiple independent systems obse
 ### Different sensors answer different questions
 
 Each source contributes a different type of evidence:
-
 
 <div class="content-enhancement content-enhancement--decision" markdown="1">
 
@@ -375,7 +370,6 @@ For example, if a light appears stationary on video while radar shows no corresp
 
 NASA’s UAP study explicitly noted that ideal investigations combine optical, infrared and radar data, but that very few reports contain all three. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[nevadacurrent.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-title">nasa report finds no evidence that ufos are extraterrestrial</span><span class="citation-popover-snippet">18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/6xr42m5vjbM" title="2025/01 - Depth Perception from Parallax" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=6xr42m5vjbM" target="_blank" rel="noopener noreferrer">2025/01 - Depth Perception from Parallax</a></p><p class="youtube-embed-meta">Channel: Thousand Brains Project &middot; Views: 357 &middot; Uploaded: February 2025 &middot; Length: 1 hour 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=6xr42m5vjbM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=6xr42m5vjbM">Open on YouTube</a></p></div></div></div>
 
 ### AI systems work best with layered evidence
@@ -383,7 +377,6 @@ NASA’s UAP study explicitly noted that ideal investigations combine optical, i
 AI-assisted investigation is most useful when multiple datasets can be correlated around a shared timeline.
 
 A structured workflow may automatically compare:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -402,7 +395,6 @@ But a single anonymous clip stripped of original metadata leaves most of those c
 
 In practice, this means AI is often better at eliminating ordinary explanations than proving extraordinary ones. The system may confidently identify a likely aircraft approach pattern or satellite flare. Yet if the recording lacks enough context to test alternatives properly, the correct outcome may still remain unresolved.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-3-dark.svg" | relative_url }}" alt="Single Sensor illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_unresolved_ca_1515f8_single_sensor_ff3eae-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Investigators Should Stop Short of Identification
 
@@ -413,7 +405,6 @@ Public discussion often treats unresolved footage as evidence of hidden technolo
 A disciplined assessment instead asks whether the available information actually supports a conclusion.
 
 Investigators should usually stop short of firm identification when:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -826,6 +817,7 @@ In many single-sensor sightings, the most accurate answer remains: not enough in
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

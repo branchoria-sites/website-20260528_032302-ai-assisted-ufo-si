@@ -290,7 +290,6 @@ image: /assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_78
 
 A UFO report tagged as “triangle”, “orb”, or “fireball” may look useful to an AI system searching for similar sightings, but those labels often hide more than they reveal. Two witnesses can use the same shape word for completely different events, while the same real-world object can generate many different labels depending on distance, lighting, stress, camera quality, and expectation. In practice, shape-only matching can cause AI systems to group unrelated cases together and miss the environmental clues that actually matter.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-1-dark.svg" | relative_url }}" alt="Shape Labels illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This is a major problem for AI-assisted UFO sighting investigation because public UFO databases are heavily built around witness wording. Search filters often rely on short descriptive tags rather than structured observational data. A database may therefore cluster a military [aircraft]({{ 'aircraft/' | relative_url }}) formation, Chinese lanterns, a Starlink pass, and a drifting balloon under the same “triangle” or “orb” category even when their behaviour, timing, and environmental context are entirely different. NASA’s UAP study team warned that AI tools only work well when the underlying data is “well-characterized” and collected to strong standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportIn turn, NASA could conduct research to see whether machine learning algorithms could be incorpo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Responses to Statement of Task</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — Artificial intelligence (AI) and machine learning (ML) have...</span></span></span>
 
@@ -299,7 +298,6 @@ This is a major problem for AI-assisted UFO sighting investigation because publi
 Human witnesses do not describe aerial objects like calibrated sensors. They simplify, approximate, and translate unusual visual impressions into familiar words. That matters because many UFO databases treat those words as if they were objective categories.
 
 A witness describing “an orb” may mean:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -352,7 +350,6 @@ A similarity engine searching only for “orb” reports may therefore retrieve 
 
 This matters operationally. If investigators compare a new report mainly against other “orb” cases, the system can reinforce a false pattern. The AI appears to discover a recurring phenomenon when it may simply be rediscovering the limitations of human perception.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/l05NGp_z6TI" title="Why eyewitnesses fail | Thomas Albright | TEDxSanDiego" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer">Why eyewitnesses fail | Thomas Albright | TEDxSanDiego</a></p><p class="youtube-embed-meta">Channel: TEDx Talks &middot; Views: 104.2K &middot; Uploaded: November 2016 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=l05NGp_z6TI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=l05NGp_z6TI">Open on YouTube</a></p></div></div></div>
 
 ### Why “triangle” reports collapse different phenomena together
@@ -360,7 +357,6 @@ This matters operationally. If investigators compare a new report mainly against
 Triangle reports are often treated as one of the most intriguing UFO categories, yet they include radically different observation types.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -398,7 +394,6 @@ A drifting illuminated balloon may be described as:
 
 The label changes depending on:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Viewing angle
@@ -416,7 +411,6 @@ This creates a hidden fragmentation problem for AI searches. Cases caused by the
 
 A good investigative system therefore needs to separate raw witness wording from inferred observational properties. Instead of treating “orb” as the core feature, the system should ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was the object self-luminous or reflective?
@@ -432,7 +426,6 @@ A good investigative system therefore needs to separate raw witness wording from
 
 Those features survive language variation far better than shape labels alone.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-2-dark.svg" | relative_url }}" alt="Shape Labels illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why AI Systems Amplify the Problem
 
@@ -443,7 +436,6 @@ If thousands of UFO reports repeatedly associate words like “triangle”, “s
 This is a classic dataset-bias problem. The model learns reporting culture as much as physical reality.
 
 Several feedback loops make this worse:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -458,7 +450,6 @@ Several feedback loops make this worse:
 The result can look impressive while remaining physically weak. An AI system may confidently retrieve “similar” cases that are linked mainly by storytelling conventions rather than observational evidence.
 
 This is why NASA and other scientific UAP efforts keep returning to the issue of high-quality, standardised data. AI can help detect patterns inside large datasets, but only if the observations themselves are structured carefully. NASA 3Wikisource <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/nasas-unidentified-anomalous-phenomena-report-key-takeaways/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefNASA&#x27;s Unidentified Anomalous Phenomena ReportSep 14, 2023 — Use of AI and Machine Learning: NASA&#x27;s UAPIST emphasizes that AI...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/iAVQOL8g6iQ" title="NASA holds news brief on Unidentified Anomalous Phenomena (UAP) Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer">NASA holds news brief on Unidentified Anomalous Phenomena (UAP) Independent Study Report</a></p><p class="youtube-embed-meta">Channel: Yahoo Finance &middot; Views: 8.3K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=iAVQOL8g6iQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=iAVQOL8g6iQ">Open on YouTube</a></p></div></div></div>
 
@@ -488,7 +479,6 @@ For example, a glowing “orb” seen stationary low in the western sky during t
 
 AARO’s public case summaries repeatedly show this broader contextual approach. Their assessments rely not only on appearance but also on motion consistency, environmental conditions, wind alignment, migration routes, and sensor interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://read-me.org/more-social-sciences/2024/12/21/fiscal-year-2024-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: read-me.org">[Read-Me.Org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">read-me.org</span><span class="citation-popover-title">fiscal year 2024 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">Fiscal Year 2024 Consolidated Annual Report on...21 Dec 2024 — AARO resolved 118 cases during the reporting period, all of which resolve...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dvidshub.net/video/976937/pr-010-uap-report-resolved-balloon-europe-2022" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dvidshub.net">[DVIDS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dvidshub.net</span><span class="citation-popover-title">pr 010 uap report resolved balloon europe 2022</span><span class="citation-popover-snippet">DVIDSPR-010, UAP Report Resolved as a Balloon, Europe 2022AARO bases its assessment on the object&#x27;s strong morphological consistency with...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/UAP-Reporting-Trends/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">UAP Reporting TrendsClosed Cases Resolution Outcomes. Bird(s): 28 (2.9%). Satellite(s): 314 (32.1%). Balloon(s): 510 (52.1%). UAS: 76...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-3-dark.svg" | relative_url }}" alt="Shape Labels illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_case_similari_591a5c_ufo_shape_lab_782068-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Resolved Cases Matter More Than Dramatic Ones
 
@@ -509,7 +499,6 @@ For example:
 AARO’s published statistics reinforce this point. Its resolved cases include large numbers attributed to balloons, satellites, drones, birds, and aircraft rather than exotic explanations. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.universetoday.com/articles/pentagon-ufo-hotspots" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: universetoday.com">[Universe Today]</a><span class="citation-popover" role="note"><span class="citation-popover-source">universetoday.com</span><span class="citation-popover-title">pentagon ufo hotspots</span><span class="citation-popover-snippet">Pentagon&#x27;s Latest UFO Report Identifies Hotspots for...14 Nov 2024 — &quot;AARO has successfully resolved hundreds of cases in its holdings t...</span></span></span>
 
 That does not mean every report is solved. It means similarity systems become more trustworthy when they learn from cases with verified outcomes instead of relying mainly on descriptive resemblance.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ChgPk2OiZCw" title="How Reliable is Eyewitness Testimony?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer">How Reliable is Eyewitness Testimony?</a></p><p class="youtube-embed-meta">Channel: National Science Foundation News &middot; Views: 173.1K &middot; Uploaded: July 2015 &middot; Length: 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ChgPk2OiZCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ChgPk2OiZCw">Open on YouTube</a></p></div></div></div>
 
@@ -923,6 +912,7 @@ The goal is not to eliminate witness descriptions. Those descriptions remain imp
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d2
 
 Some of the most dramatic “UFO portal” reports of recent years have turned out to be rocket exhaust illuminated under unusual lighting conditions. A small amount of vented fuel from a spinning upper rocket stage can expand into a glowing spiral hundreds of kilometres wide, visible across multiple countries and bright enough to stop traffic. To ground observers, the effect often appears silent, slow-moving, and impossibly large. In reality, the mechanism depends on three ordinary but poorly understood factors working together: fuel venting in near-space, rapid [freezing]({{ 'freezing-fog/' | relative_url }}) of exhaust gases into reflective particles, and sunlight striking those particles long after sunset at ground level. <span class="citation-chip-wrap"><a class="citation-chip" href="https://phys.org/news/2025-03-spacex-rocket-fuel-stunning-swirl.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: phys.org">[Phys.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">phys.org</span><span class="citation-popover-title">These crystals caught the sunlight, creating</span><span class="citation-popover-snippet">SpaceX rocket fuel makes stunning swirl in European skyMarch 25, 2025 — 25 Mar 2025 — As the booster fell back to Earth, it vented leftov...</span><span class="citation-popover-meta">Published: March 25, 2025</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Twilight_phenomenon" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For AI-assisted UFO sighting investigation]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Twilight phenomenon</span><span class="citation-popover-snippet">Twilight phenomenon</span></span></span>, these spirals matter because they create a highly repeatable pattern. Witnesses in widely separated locations report the same rotating structure within minutes of each other, usually during twilight conditions and often shortly after a documented launch or upper-stage manoeuvre. Understanding the physical mechanism helps investigators separate unusual-looking but explainable aerospace events from genuinely unresolved sightings.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-1-dark.svg" | relative_url }}" alt="Exhaust spirals illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Fuel venting, freezing, and sunlight illumination
 
@@ -311,7 +310,6 @@ The expansion rate contributes to the illusion. The spiral may appear stationary
 
 Rocket spirals exploit several weaknesses in human night-sky perception. These errors are common in UFO reports and are especially important in automated sighting analysis.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Wp3OdrCOzUI" title="Mysterious spirals light up night skies after SpaceX rocket launch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer">Mysterious spirals light up night skies after SpaceX rocket launch</a></p><p class="youtube-embed-meta">Channel: The Sun &middot; Views: 38.5K &middot; Uploaded: March 2025 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Wp3OdrCOzUI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Wp3OdrCOzUI">Open on YouTube</a></p></div></div></div>
 
 ### The spiral looks much closer than it is
@@ -335,7 +333,6 @@ Several factors contribute:
 
 This creates a common UFO report pattern: “hovering object”, “slow-moving disc”, or “silent stationary light”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-2-dark.svg" | relative_url }}" alt="Exhaust spirals illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Silence creates a false sense of mystery
 
@@ -346,7 +343,6 @@ The silence can therefore feel unnatural. Witnesses may reason that a visible ob
 ### The spiral can resemble impossible technology
 
 The most psychologically powerful element is often the clean geometry. Witnesses frequently compare the shape to:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -361,7 +357,6 @@ The most psychologically powerful element is often the clean geometry. Witnesses
 
 Those descriptions are understandable because the spiral lacks familiar aviation cues. There are no wings, navigation lights, contrails, or obvious propulsion signatures. The event also unfolds slowly enough for prolonged observation, unlike meteors or re-entries.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/K5YVqKS6Tdg" title="SpaceX Falcon 9 over Downtown Los Angeles" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=K5YVqKS6Tdg" target="_blank" rel="noopener noreferrer">SpaceX Falcon 9 over Downtown Los Angeles</a></p><p class="youtube-embed-meta">Channel: Emeric &middot; Views: 1.8M &middot; Uploaded: October 2022 &middot; Length: 16 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=K5YVqKS6Tdg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=K5YVqKS6Tdg">Open on YouTube</a></p></div></div></div>
 
 ## Why these events generate large UFO reporting waves
@@ -369,7 +364,6 @@ Those descriptions are understandable because the spiral lacks familiar aviation
 Rocket spirals produce unusually strong social amplification. Unlike isolated lights seen by one or two people, these events can be observed simultaneously across entire countries. Social media then fills with photos and videos before official explanations spread.
 
 For investigators, that creates a distinctive evidence pattern:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -385,14 +379,12 @@ The Norway spiral of 2009 became one of the most famous examples after a failed 
 
 The important investigative lesson is that witness sincerity and conventional explanation are not opposites. Many people who report these spirals are accurately describing a genuinely strange visual event. The misunderstanding usually lies not in fabrication, but in interpreting scale, altitude, and physical cause.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-3-dark.svg" | relative_url }}" alt="Exhaust spirals illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_rocket_fuel_s_d23185_frozen_rocket_2792ea-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI-assisted investigation can identify exhaust spirals quickly
 
 Rocket spirals are among the easier dramatic UFO reports to correlate with external data once investigators know what to look for.
 
 Automated systems can rapidly compare:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -408,7 +400,6 @@ The strongest indicator is often timing. Many spiral sightings occur one to thre
 
 Image analysis can also help. Rocket spirals tend to show:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a bright central core
@@ -423,9 +414,7 @@ Combined with launch databases and atmospheric lighting models, these patterns a
 
 Even so, uncertainty can remain in fragmented cases. Not every glowing spiral has clear documentation, and some witnesses report partial or distorted views affected by cloud, camera artefacts, or atmospheric haze. The investigative goal is therefore not automatic dismissal, but structured comparison against known mechanisms before escalating a case as unresolved.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/UrN-m7jQEyg" title="SpaceX&#x27;s Frozen Fuel Creates Stunning Spirals in European Skies!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=UrN-m7jQEyg" target="_blank" rel="noopener noreferrer">SpaceX&#x27;s Frozen Fuel Creates Stunning Spirals in European Skies!</a></p><p class="youtube-embed-meta">Channel: Brain Boosters: Learn &amp; Grow &middot; Views: 831 &middot; Uploaded: April 2025 &middot; Length: 47 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=UrN-m7jQEyg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=UrN-m7jQEyg">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -818,6 +807,7 @@ Even so, uncertainty can remain in fragmented cases. Not every glowing spiral ha
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

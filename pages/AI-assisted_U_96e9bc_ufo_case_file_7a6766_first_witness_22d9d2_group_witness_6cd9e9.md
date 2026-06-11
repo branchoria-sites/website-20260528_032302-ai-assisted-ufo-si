@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22
 
 A UFO sighting reported by several people at once can appear highly convincing. Multiple witnesses seem to reduce the chance of simple mistake or fabrication. In practice, however, group sightings create a major investigative problem: witnesses often begin influencing each other within minutes. Once people compare impressions, repeat descriptions or negotiate a shared narrative, it becomes harder to determine which details were independently observed and which were socially reinforced afterwards.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-1-dark.svg" | relative_url }}" alt="Group Witnesses illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this distinction matters. Automated timeline reconstruction, explanation screening and case comparison systems work best when they analyse independent observations collected before witnesses exchange interpretations. A report from five witnesses who all discussed the event together may contain less reliable information than two separate, uncontaminated accounts collected immediately after the sighting.
 
@@ -288,7 +287,6 @@ Psychology research on eyewitness memory repeatedly shows that co-witness discus
 Witness contamination does not require deception. Most of the time it happens because people naturally try to build a coherent account together.
 
 After an unusual aerial event, witnesses commonly ask each other questions such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -326,7 +324,6 @@ Group contamination is not evenly distributed. In many sightings, one witness be
 
 This can happen because the person:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * Speaks first
@@ -357,7 +354,6 @@ Witnesses now frequently:
 Once online discussion begins, witness memories may absorb details never personally observed. Research on online misinformation and eyewitness recall shows that post-event digital discussion can distort memory in ways similar to in-person co-witness contamination. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10829763/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCOnline misinformation can distort witnesses&#x27; memories</span><span class="citation-popover-snippet">by M Kękuś · 2024 · Cited by 2 — The memory conformity effect occurs when people witness a given incident and then talk to each other...</span></span></span>
 
 In UFO cases, this can produce rapid convergence around dramatic interpretations such as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -392,7 +388,6 @@ A common mistake in UFO investigation is treating disagreement between witnesses
 
 Different observers naturally notice different things depending on:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Viewing angle
@@ -407,7 +402,6 @@ Different observers naturally notice different things depending on:
 If every witness gives an identical polished narrative, especially after discussion, investigators should consider whether contamination or collective reconstruction occurred.
 
 Independent accounts usually contain a mixture of:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -433,7 +427,6 @@ An investigator comparing timelines may discover:
 * Following day: “Triangular military-looking object”
 
 The later version may sound more detailed and certain, but the earliest account is usually more valuable for evidence analysis.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-2-dark.svg" | relative_url }}" alt="Group Witnesses illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What AI Systems Can Detect in Group Reports
@@ -489,7 +482,6 @@ For example:
 If these accounts align before social interaction, they may provide stronger evidential value than a single tightly connected group discussing the sighting together.
 
 NASA’s UAP study stressed the importance of structured data curation and careful metadata handling because many UAP reports lack reliable contextual information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Page 14. 12.Read more</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is essential to note the pivotal role that structured data curation play...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Page 14. 12.Read more</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is essential to note the pivotal role that structured data curation play...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> In group sightings, witness independence itself becomes critical metadata.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-3-dark.svg" | relative_url }}" alt="Group Witnesses illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_first_witness_22d9d2_group_witness_6cd9e9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When Group Sightings Still Matter
@@ -953,6 +945,7 @@ The most useful UFO [case files]({{ 'case-file/' | relative_url }}) are therefor
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

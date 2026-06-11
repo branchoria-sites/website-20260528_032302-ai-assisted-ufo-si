@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_85
 
 Some UFO reports describe lights that pulse with uncanny regularity: bright, dim, bright again, sometimes every few seconds for several minutes. Witnesses often interpret this as intelligent signalling, hovering craft activity, or structured manoeuvring. In many cases, however, the pattern closely matches a known orbital phenomenon: a tumbling rocket body or uncontrolled satellite reflecting sunlight at repeating angles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/tumble/tumbleintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverTumbling SatellitesThis flashing behavior is caused by the rotation of the satellite around its rotation axis. The sat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.heavens-above.com/explain.aspx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: heavens-above.com">[Heavens-Above]</a><span class="citation-popover" role="note"><span class="citation-popover-source">heavens-above.com</span><span class="citation-popover-snippet">Explanatory NotesSatellite predictions and other astronomical data customised for your location... Many of the visible obje...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1-dark.svg" | relative_url }}" alt="Tumbling Rockets illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters in AI-assisted UFO sighting investigation because repeating flashes are unusually testable. A mechanically rotating object in orbit produces timing patterns that can be measured, compared, and cross-checked against satellite databases and orbital tracks. Unlike vague descriptions of “strange lights”, a report that says “it flashed every five seconds while moving steadily east to west” contains structured clues. Automated analysis systems can use those clues to rapidly separate likely orbital debris from [aircraft]({{ 'aircraft/' | relative_url }}), meteors, drones, or unresolved aerial phenomena.
 
@@ -282,7 +281,6 @@ A rocket stage left in orbit after launch is rarely stable forever. Over time, g
 When sunlight strikes reflective surfaces on that rotating object, the brightness seen from Earth changes continuously. Most of the time the object may be too faint to notice. But every few seconds, one reflective face aligns with the observer and produces a sudden glint. The result is a pulse pattern that can look deliberate despite being entirely mechanical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satobs.org/tumble/tumbleintro.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satobs.org">[Satellites Observer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satobs.org</span><span class="citation-popover-snippet">Satellites ObserverTumbling SatellitesThis flashing behavior is caused by the rotation of the satellite around its rotation axis. The sat...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://spacewatch.lpl.arizona.edu/fmo-project/how-find/tutorial/tumbling-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewatch.lpl.arizona.edu">[2SPACEWATCH®]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewatch.lpl.arizona.edu</span><span class="citation-popover-title">SPACEWATCH®Tumbling Satellites</span><span class="citation-popover-snippet">When the highly reflective...</span></span></span>
 
 Several characteristics tend to recur in witness reports linked to tumbling objects:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -305,7 +303,6 @@ Human perception strongly associates regular flashing with intention. Aircraft s
 
 This effect becomes stronger because tumbling objects can produce surprisingly dramatic brightness changes. An observer may see:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * complete darkness,
@@ -324,7 +321,6 @@ AI-assisted timeline reconstruction benefits from treating these witness descrip
 
 Repeated flashing alone is not enough to identify a tumbling rocket body. Aircraft also produce rhythmic lights, and misidentification is common. The difference usually emerges from the timing pattern, movement behaviour, and environmental context.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TqEg5uq2jrY" title="Tumbling Rockets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TqEg5uq2jrY" target="_blank" rel="noopener noreferrer">Tumbling Rockets</a></p><p class="youtube-embed-meta">Channel: Ralf Vandebergh &middot; Views: 384 &middot; Uploaded: November 2011 &middot; Length: 1 minute 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TqEg5uq2jrY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TqEg5uq2jrY">Open on YouTube</a></p></div></div></div>
 
 ### Aircraft strobes usually look irregular at distance
@@ -332,7 +328,6 @@ Repeated flashing alone is not enough to identify a tumbling rocket body. Aircra
 Aircraft anti-collision strobes are extremely bright but are paired with navigation lights and engine noise. Their timing pattern also differs from most tumbling satellites.
 
 Typical aircraft clues include:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -348,7 +343,6 @@ Typical aircraft clues include:
 
 By contrast, tumbling satellites usually maintain: <span class="citation-chip-wrap"><a class="citation-chip" href="https://spacewatch.lpl.arizona.edu/fmo-project/how-find/tutorial/tumbling-satellites" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacewatch.lpl.arizona.edu">[spacewatch.lpl.arizona.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacewatch.lpl.arizona.edu</span><span class="citation-popover-title">SPACEWATCH®Tumbling Satellites</span><span class="citation-popover-snippet">When the highly reflective...</span></span></span>
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a perfectly straight path,
@@ -360,7 +354,6 @@ By contrast, tumbling satellites usually maintain: <span class="citation-chip-wr
 </div>
 
 Long-exposure photography also helps distinguish the two. Aircraft produce dotted or segmented trails because their strobes blink while steady navigation lights remain visible. Tumbling satellites more often create isolated bright flare points along a smooth orbital track. <span class="citation-chip-wrap"><a class="citation-chip" href="https://alynwallacephotography.com/blog/2020/4/21/sorry-thats-no-meteor-its-a-satellite" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alynwallacephotography.com">[Alyn Wallace Photography]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alynwallacephotography.com</span><span class="citation-popover-snippet">Alyn Wallace PhotographySorry That&#x27;s Not A Meteor, It&#x27;s A Satellite21 Apr 2020 — Aircraft trails have dotted lines from blinking navigati...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/meKkjgHJI0k" title="World Iridium Flare Day 2020 - Iridium Flare Memories by Mary McIntyre" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=meKkjgHJI0k" target="_blank" rel="noopener noreferrer">World Iridium Flare Day 2020 - Iridium Flare Memories by Mary McIntyre</a></p><p class="youtube-embed-meta">Channel: Mary McIntyre FRAS &middot; Views: 402 &middot; Uploaded: September 2020 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=meKkjgHJI0k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=meKkjgHJI0k">Open on YouTube</a></p></div></div></div>
 
@@ -376,7 +369,6 @@ is providing evidence more consistent with rotation than with aircraft behaviour
 
 In AI-assisted investigation systems, pulse periodicity can become a measurable feature:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * stable interval → likely rotating object,
@@ -387,7 +379,6 @@ In AI-assisted investigation systems, pulse periodicity can become a measurable 
 </div>
 
 This allows automated triage before human [review]({{ 'review/' | relative_url }}).
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-2-dark.svg" | relative_url }}" alt="Tumbling Rockets illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Historic cases linked to rocket body reflections
@@ -404,7 +395,6 @@ After the retirement of many older satellites and rocket stages, observers incre
 
 Astronomy communities contain numerous reports from observers convinced they had seen anomalous lights before learning about tumbling rocket stages. Common descriptions include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “a star blinking on and off”,
@@ -417,7 +407,6 @@ Astronomy communities contain numerous reports from observers convinced they had
 In many documented cases, the timing and direction later matched catalogued rocket bodies or failed satellites. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/heavensabove/comments/970rez/blinking_satellites/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Blinking satellites?: r/heavensaboveA non-operational satellite with a tumbling attitude will thus blink at an observer as the ref...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/heavensabove/comments/6t6obm/tumbling_high_satellite_giving_flares_every_45_sec/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">&lt;=-3 or brighter) about 4-5 sec later it would flash dimmer...Read more...</span></span></span>
 
 This does not mean every pulsing light has a confirmed identification. Orbital databases are incomplete, especially for debris fragments and inactive objects. But repeating flash behaviour is strongly associated with rotating space hardware.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-3-dark.svg" | relative_url }}" alt="Tumbling Rockets illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_event_timelin_e5dba6_satellite_pas_859cb1_tumbling_rock_bdc3ab-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why tumbling objects are valuable in UFO timeline analysis
@@ -450,7 +439,6 @@ The most useful AI features here are not image generation or speculative classif
 * scoring how closely a known object fits the report.
 
 A close timing and geometry match does not “prove” identification with absolute certainty. But it can move a case from “unknown pulsing UFO” into a much narrower and more testable category.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/StXN3Nabp7w" title="Tumbling rocket body" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=StXN3Nabp7w" target="_blank" rel="noopener noreferrer">Tumbling rocket body</a></p><p class="youtube-embed-meta">Channel: David Patrone &middot; Views: 171 &middot; Uploaded: December 2014 &middot; Length: 31 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=StXN3Nabp7w" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=StXN3Nabp7w">Open on YouTube</a></p></div></div></div>
 
@@ -862,6 +850,7 @@ For this reason, careful UFO investigation avoids overstating certainty in eithe
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

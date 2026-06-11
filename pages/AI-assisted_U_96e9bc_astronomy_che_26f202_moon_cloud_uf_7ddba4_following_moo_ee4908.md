@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7d
 
 A common feature of road-based UFO reports is a bright object that appears to “follow” a moving car for several minutes while remaining silent, distant and oddly fixed in the sky. In many cases, the object is simply the Moon. The effect is real to the observer, but it is caused by normal human depth perception rather than by an object pacing the vehicle.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1-dark.svg" | relative_url }}" alt="Following Moon illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The illusion happens because the Moon is extremely far away compared with nearby roadside objects. Trees, lamp posts, hills and buildings shift rapidly as a car moves, while the Moon’s apparent position changes so slowly that it seems locked in place. When cloud, haze or broken foreground gaps partly hide the lunar disc, the brain may stop recognising it as the Moon at all and instead interpret it as a hovering craft or intelligent light. This is one of the most important perception checks in AI-assisted UFO sighting investigation because many night-time reports from roads involve this exact [geometry]({{ 'geometry/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.unl.edu">[astro.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.unl.edu</span><span class="citation-popover-snippet">Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant background objects caused by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">Why does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthsky.org/astronomy-essentials/moon-and-stars-distance-appearance/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthsky.org">[EarthSky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthsky.org</span><span class="citation-popover-title">You see buildings and people and farm fields whiz by, but you</span><span class="citation-popover-snippet">Why does the moon seem to follow me when I&#x27;m in a car?Apr 19, 2024 — The reason is that the moon is so distant compared to earthl...</span></span></span>
 
@@ -293,7 +292,6 @@ Inside a moving car, this creates two very different visual behaviours at once:
 The human visual system interprets relative motion rather than absolute motion. Because the foreground is sliding backwards while the Moon barely shifts at all, the Moon can appear to maintain pace with the observer. Wired summarised the effect simply: the Moon remains in “basically the same angular position” even after the car moves a considerable distance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">Why does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span>
 
 This becomes especially convincing on long straight roads at night. With few visible landmarks in the sky, the Moon can seem fixed relative to the windscreen rather than fixed relative to the Earth. Drivers sometimes report that the object:
-
 
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
@@ -326,7 +324,6 @@ The brain often interprets this interrupted visibility as active movement by the
 
 This effect becomes stronger under several common night-driving conditions.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ia2tFVZHyPo" title="Why does the moon follow us?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ia2tFVZHyPo" target="_blank" rel="noopener noreferrer">Why does the moon follow us?</a></p><p class="youtube-embed-meta">Channel: Science is Dope &middot; Views: 13.7K &middot; Uploaded: March 2024 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ia2tFVZHyPo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ia2tFVZHyPo">Open on YouTube</a></p></div></div></div>
 
 ### Low lunar altitude
@@ -345,7 +342,6 @@ Small changes in road direction can create dramatic apparent shifts in the objec
 
 A bright fragment of the Moon glimpsed through branches or cloud can resemble:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * a glowing orb
@@ -358,7 +354,6 @@ A bright fragment of the Moon glimpsed through branches or cloud can resemble:
 
 This is especially common when only part of the Moon is visible at any moment.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-2-dark.svg" | relative_url }}" alt="Following Moon illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the illusion can feel intelligent
 
@@ -367,7 +362,6 @@ Many witnesses are not simply reporting “a bright light in the sky”. They ar
 That perception often comes from how humans interpret motion. If an object maintains a stable position relative to the observer over time, the brain tends to infer tracking or pursuit. A light that “stays with the car” can therefore feel deliberate even when it is completely stationary.
 
 At night, depth cues are weaker and distance estimation becomes less reliable. A witness may unconsciously assume the object is nearby rather than astronomical. Once the Moon is mentally reclassified as a local airborne object, every foreground interruption can appear meaningful:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -379,7 +373,6 @@ At night, depth cues are weaker and distance estimation becomes less reliable. A
 </div>
 
 Psychologists studying visual perception note that the brain constantly reconstructs spatial relationships from [incomplete]({{ 'incomplete-data/' | relative_url }}) information. Under poor visibility conditions, those reconstructions can become highly misleading without the observer realising it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC26692/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCExplaining the moon illusion</span><span class="citation-popover-snippet">by L Kaufman · 2000 · Cited by 126 — An old explanation of the moon illusion holds that various cues place the horizon moon at an effe...</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1bB7NpmbB_E" title="You Can Take Pictures of Planets With Your Phone Now #iphone #samsung #space #tech #smartphone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1bB7NpmbB_E" target="_blank" rel="noopener noreferrer">You Can Take Pictures of Planets With Your Phone Now #iphone #samsung #space #tech #smartphone</a></p><p class="youtube-embed-meta">Channel: Custom Adventurist &middot; Views: 21.9K &middot; Uploaded: April 2026 &middot; Length: 1 minute 2 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1bB7NpmbB_E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1bB7NpmbB_E">Open on YouTube</a></p></div></div></div>
 
@@ -408,7 +401,6 @@ Modern astronomy software and mapping tools make this straightforward. Investiga
 
 Several indicators strongly support a Moon-based explanation:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * the object remained visible for very long durations
@@ -433,7 +425,6 @@ AI-assisted workflows can automate much of this screening. A case system can cor
 
 This helps investigators rapidly separate likely perception-based sightings from cases that require deeper analysis.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-3-dark.svg" | relative_url }}" alt="Following Moon illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_moon_cloud_uf_7ddba4_following_moo_ee4908-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters in UFO case assessment
 
@@ -442,7 +433,6 @@ The “following Moon” illusion demonstrates an important principle in UFO inv
 Most people never consciously study parallax or night-time motion perception. The resulting reports are therefore not necessarily hoaxes or fabrications. They are often genuine descriptions of how the scene appeared from inside a moving vehicle under limited visual conditions.
 
 For investigators, this distinction matters. A report can contain:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -457,9 +447,7 @@ and still arise from ordinary astronomical geometry.
 
 That is why modern UFO analysis increasingly treats environmental reconstruction as essential rather than optional. Before a sighting is considered anomalous, investigators need to test whether distant-object perception, cloud cover, foreground interruptions and lunar positioning can fully explain the reported behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://astro.unl.edu/naap/distance/parallax.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: astro.unl.edu">[astro.unl.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">astro.unl.edu</span><span class="citation-popover-snippet">Cosmic Distance Ladder - NAAPParallax is the apparent shift of an object&#x27;s position relative to more distant background objects caused by...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://svs.gsfc.nasa.gov/5320/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: svs.gsfc.nasa.gov">[NASA Scientific Visualization Studio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">svs.gsfc.nasa.gov</span><span class="citation-popover-title">You can easily see this effect just by alternately closing your</span><span class="citation-popover-snippet">NASA Scientific Visualization StudioMoon Essentials: ParallaxJun 27, 2024 — Parallax is the apparent shift in the position of an object w...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/2010/09/why-does-the-moon-follow-me/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">why does the moon follow me</span><span class="citation-popover-snippet">Why does the Moon follow me?27 Sept 2010 — The moon appears to follow you because it is so far away. When the car moves 100 feet for...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/P-ymwG9mDhE" title="Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer">Jupiter and Venus &#x27;could be mistaken for UFOs&#x27;</a></p><p class="youtube-embed-meta">Channel: The Telegraph &middot; Views: 22.9K &middot; Uploaded: March 2012 &middot; Length: 1 minute 57 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=P-ymwG9mDhE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=P-ymwG9mDhE">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -852,6 +840,7 @@ That is why modern UFO analysis increasingly treats environmental reconstruction
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

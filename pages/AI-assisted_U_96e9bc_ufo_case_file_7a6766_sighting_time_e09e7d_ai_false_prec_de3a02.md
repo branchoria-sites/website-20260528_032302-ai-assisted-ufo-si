@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e0
 
 AI systems are good at turning messy witness accounts into neat-looking timelines. That is useful for organising a UFO or UAP [case file]({{ 'case-file/' | relative_url }}), but it also creates one of the biggest hidden risks in automated investigation: false precision. A witness who says “just after 9pm” can become a database entry reading “21:04:00 BST”. A phone clip uploaded hours later may be treated as if its timestamp is unquestionably accurate. An AI-generated reconstruction can look scientific even when the underlying evidence is vague, contradictory or [incomplete]({{ 'incomplete-data/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-1-dark.svg" | relative_url }}" alt="False precision illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many ordinary explanations for UFO sightings depend on exact timing. A Starlink pass, [aircraft]({{ 'aircraft/' | relative_url }}) approach, meteor, flare or bright planetary alignment may fit one three-minute window and fail completely in another. NASA’s UAP study repeatedly stressed that poor metadata, missing [calibration]({{ 'calibration/' | relative_url }}) and incomplete observations weaken analysis quality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">When it comes to studying such phenomena, our</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — It is increasingly clear that the majority of UAP observations can be attri...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> In practical UFO investigation, preserving uncertainty is often more important than producing a tidy chronology.
 
@@ -286,7 +285,6 @@ This matters because many ordinary explanations for UFO sightings depend on exac
 Human memory rarely stores precise clock times during unexpected events. Witnesses usually reconstruct timing afterwards using routines, emotions, nearby events and conversation with other people. AI systems often remove that ambiguity by converting language into structured fields that appear exact.
 
 A witness statement such as:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -323,7 +321,6 @@ A small timing error can completely alter what investigators think a witness saw
 
 Consider a hypothetical sighting reported as “roughly 21:00”. If an AI system converts that into “21:02”, it may produce a convincing satellite match. But if the real uncertainty window was 20:50 to 21:15, several competing explanations may remain viable:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a commercial aircraft turning toward a nearby airport
@@ -343,7 +340,6 @@ The tighter the claimed timestamp, the narrower the explanation search becomes. 
 An object may appear anomalous only because the timeline has been over-tightened.
 
 For example:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -395,7 +391,6 @@ If three witnesses say:
 
 an AI system may output “20:58” as a compromise value. That averaged time may never have existed in any witness testimony.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-2-dark.svg" | relative_url }}" alt="False precision illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Prioritising internally consistent narratives
 
@@ -423,7 +418,6 @@ Instead of:
 
 prefer:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “Witness estimate: approximately 21:10–21:20”
@@ -442,14 +436,12 @@ Type of timingExampleDirectly observedCCTV timestampDevice-generatedEXIF metadat
 
 These categories should never be merged invisibly.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-3-dark.svg" | relative_url }}" alt="False precision illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_sighting_time_e09e7d_ai_false_prec_de3a02-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Flag impossible sequences automatically
 
 Contradiction checks are one of the most valuable uses of AI in timeline reconstruction.
 
 Examples include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -465,7 +457,6 @@ AI systems are good at surfacing these conflicts quickly, but only if the workfl
 ### Preserve provenance for every timeline entry
 
 Each timing claim should retain:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -911,6 +902,7 @@ In AI-assisted UFO investigation, a timeline should behave less like a polished 
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

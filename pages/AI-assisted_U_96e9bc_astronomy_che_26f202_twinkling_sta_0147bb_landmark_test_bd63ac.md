@@ -271,14 +271,12 @@ image: /assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_01
 
 When witnesses report a flashing light that “hovered”, “shifted sideways” or “darted slightly”, one of the fastest reality checks is surprisingly simple: did the light stay fixed relative to nearby landmarks? A bright star low on the horizon can appear restless because of atmospheric [scintillation]({{ 'scintillation/' | relative_url }}), eye movement, drifting cloud gaps and handheld camera shake, even while remaining in the same true sky position. In many UFO investigations, rooftops, chimneys, trees, pylons or hill lines become more useful than the light itself.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-dark.svg" | relative_url }}" alt="Landmarks illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this matters because apparent movement is often the dividing line between a probable astronomical explanation and a genuinely moving object. A structured workflow that compares the light against fixed foreground references can rapidly separate “the light moved” from “the observer or scene moved”. That distinction is especially important in reports involving flashing stars such as [Sirius]({{ 'sirius/' | relative_url }}), Capella or Vega, which are repeatedly mistaken for hovering craft when viewed through unstable atmosphere near the horizon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[Skybrary]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>
 
 ## Why dark skies make motion hard to judge
 
 Human motion perception works best when the brain has stable [reference points]({{ 'reference-points/' | relative_url }}). In darkness, especially over open countryside or water, isolated lights lose that context. A stationary point of light can then appear to wander, pulse or drift. Psychologists and aviation researchers call this the autokinetic effect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Autokinetic_effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Autokinetic effect</span><span class="citation-popover-snippet">Autokinetic effect</span></span></span> Skybrary The effect becomes stronger under several common sighting conditions: <span class="citation-chip-wrap"><a class="citation-chip" href="https://skybrary.aero/articles/autokinetic-effect" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skybrary.aero">[skybrary.aero]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skybrary.aero</span><span class="citation-popover-snippet">Autokinetic Effect &#124; SKYbrary Aviation SafetyIn darkness or in a featureless environment there is no reference point, so the move...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -351,7 +349,6 @@ In reality, the apparent motion often comes from hand tremor, autofocus hunting 
 
 This is why investigators prefer wide shots that preserve foreground structures. Even crude references can be useful. A branch silhouette crossing the frame may provide more investigative value than a perfectly zoomed light blob.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DKQ8XuCINUU" title="Introductory Astronomy: Motions of the Stars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DKQ8XuCINUU" target="_blank" rel="noopener noreferrer">Introductory Astronomy: Motions of the Stars</a></p><p class="youtube-embed-meta">Channel: Professor Paul Robinson &middot; Views: 101.3K &middot; Uploaded: January 2013 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DKQ8XuCINUU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DKQ8XuCINUU">Open on YouTube</a></p></div></div></div>
 
 ### The “cloud drift” trap
@@ -374,7 +371,6 @@ This effect, known as parallax, is a major source of mistaken motion reports. <s
 
 Investigators therefore ask:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Was the witness stationary?
@@ -393,7 +389,6 @@ Foreground landmarks are only useful if they are truly stable. Moving branches, 
 This matters in windy conditions. A witness may unconsciously use a moving branch as the reference point instead of the building behind it. The star then appears to shift position even though the background structure remains fixed.
 
 AI-assisted workflows therefore benefit from [confidence]({{ 'confidence/' | relative_url }}) scoring rather than binary conclusions.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-dark.svg" | relative_url }}" alt="Landmarks illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How AI records uncertainty in a star match
@@ -419,7 +414,6 @@ A structured case file may combine:
 
 The software can then assess how strongly the evidence supports a stationary star explanation.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/b12rHkg1gsw" title="Conformity, Compliance &amp; Obedience - Social Influence &amp; Group Processes | Class 12 Psychology Ch 7" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=b12rHkg1gsw" target="_blank" rel="noopener noreferrer">Conformity, Compliance &amp; Obedience - Social Influence &amp; Group Processes | Class 12 Psychology Ch 7</a></p><p class="youtube-embed-meta">Channel: Magnet Brains &middot; Views: 10.9K &middot; Uploaded: March 2023 &middot; Length: 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=b12rHkg1gsw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=b12rHkg1gsw">Open on YouTube</a></p></div></div></div>
 
 ### Example workflow
@@ -437,7 +431,6 @@ An AI-assisted investigation pipeline might process a flashing-light report like
 
 A result might read:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Strong match with Sirius at reported azimuth and elevation.
@@ -448,7 +441,6 @@ A result might read:
 </div>
 
 That approach keeps the investigation evidence-led. The witness experience is acknowledged without overstating what the footage objectively shows.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-dark.svg" | relative_url }}" alt="Landmarks illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_astronomy_che_26f202_twinkling_sta_0147bb_landmark_test_bd63ac-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Why uncertainty matters
@@ -475,7 +467,6 @@ That distinction prevents overconfidence in both sceptical and extraordinary int
 ## What investigators look for in a convincing stationary-light case
 
 Landmark testing becomes especially persuasive when several indicators align together.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xuWscrshR4o" title="What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xuWscrshR4o" target="_blank" rel="noopener noreferrer">What James Fox Said is unbelievable 🤯 #jreclips #joerogan #jamesfox #alien #viral</a></p><p class="youtube-embed-meta">Channel: UFO LAB &middot; Views: 692.7K &middot; Uploaded: July 2023 &middot; Length: 54 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xuWscrshR4o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xuWscrshR4o">Open on YouTube</a></p></div></div></div>
 
@@ -902,6 +893,7 @@ That is partly because landmark testing addresses a central weakness in human ni
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

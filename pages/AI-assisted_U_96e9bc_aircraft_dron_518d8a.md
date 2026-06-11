@@ -318,7 +318,6 @@ image: /assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-overview-social.
 
 Aircraft, helicopters and drones are among the first explanations to test in an AI-assisted UFO sighting investigation because they can match many of the most common reports: bright moving lights, hovering points near the horizon, sudden apparent turns, silent motion, red and green flashes, or several lights travelling together. A good check does not simply ask, “Was there a plane nearby?” It compares the witness’s exact time, place, viewing direction, [elevation]({{ 'elevation/' | relative_url }}), duration and description against flight tracks, known airspace activity, aircraft-light behaviour, drone rules and the limits of available data.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-overview.webp" | relative_url }}" alt="Overview image for Aircraft" loading="eager" decoding="sync" fetchpriority="high">
 This matters because many reports can be downgraded from “unidentified” to “plausibly explained” once ordinary traffic is reconstructed. At the same time, a missing flight-track match is not proof of anomaly. Some aircraft are not visible on public trackers, drone data is patchy, military activity may be restricted, and witness [geometry]({{ 'geometry/' | relative_url }}) can make a distant aircraft appear to hover or accelerate. The aim is evidence triage: resolve the easy cases quickly, identify weak matches honestly, and preserve genuinely unresolved cases for deeper [review]({{ 'review/' | relative_url }}).
 
@@ -340,7 +339,6 @@ A practical matching workflow should usually check:
 
 AI can make this faster by querying multiple track sources, plotting candidate aircraft against the witness line of sight, and ranking matches by time, angular separation, altitude, heading and light behaviour. The output should not be a single magic answer. It should be a short evidence table: “Aircraft A matches time and bearing but not duration”; “Aircraft B matches bearing and colour but would have been below the horizon”; “No public ADS-B match found within the defined cone.”
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-1-dark.svg" | relative_url }}" alt="Aircraft illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When aircraft lights look strange
 
@@ -353,7 +351,6 @@ This can produce several common “UFO-like” impressions. An aircraft flying a
 The New Jersey episode is a useful cautionary example because it mixed ordinary misidentification with legitimate public concern about drones. A joint statement from the FBI, Department of Homeland Security, FAA and Department of Defense said the FBI had received more than 5,000 tips and generated about 100 leads, while federal agencies deployed detection technology and trained visual observers. The same official response said their work had not identified anything anomalous and that many reports were consistent with lawful drones, manned aircraft, helicopters and stars. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.faa.gov/newsroom/dhs-fbi-faa-dod-joint-statement-ongoing-response-reported-drone-sightings" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: faa.gov">[Federal Aviation Administration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">faa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That does not mean every witness was careless. It means the night sky is a poor measuring instrument. A serious UFO workflow should treat “looked too slow”, “looked too low”, “made no sound” and “seemed to hover” as prompts for geometry checks, not as conclusions. Sound can be lost in wind, traffic or distance. Size is nearly impossible to judge without a known range. A “sudden acceleration” may be a light turning towards the camera, a change in zoom, camera shake, or a nearby object crossing the frame.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NrM_NQS3_Fc" title="Unexplained drones, UFOs and the state of the Navy | 60 Minutes Full Episodes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NrM_NQS3_Fc" target="_blank" rel="noopener noreferrer">Unexplained drones, UFOs and the state of the Navy | 60 Minutes Full Episodes</a></p><p class="youtube-embed-meta">Channel: 60 Minutes &middot; Views: 6.0M &middot; Uploaded: May 2025 &middot; Length: 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NrM_NQS3_Fc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NrM_NQS3_Fc">Open on YouTube</a></p></div></div></div>
 
@@ -369,7 +366,6 @@ For an AI-assisted case file, drone screening should therefore combine several w
 
 A drone explanation becomes stronger when the report includes low altitude, nearby buzzing, short range, hovering, abrupt right-angle manoeuvres, repeated operation over the same local area, or a visible green flashing light in a UK night-flight context. It becomes weaker when the object is clearly high altitude, covers a long angular track at aircraft-like speed, follows a known arrival path, is visible for a long time over a wide area, or appears in multiple distant witness reports where a small drone would not fit the geometry.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-2-dark.svg" | relative_url }}" alt="Aircraft illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why “not on the tracker” is not enough
 
@@ -380,7 +376,6 @@ Coverage also varies by region and data source. OpenSky says it provides open ai
 There are also technical and policy complications. Aircraft positions derived from ADS-B depend on onboard navigation data, and GPS jamming or spoofing can produce misleading reported positions. Flightradar24 has described using multilateration to counter GPS interference, while also acknowledging that MLAT needs enough receivers and cannot solve every case. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.flightradar24.com/blog/aviation-explainer-series/how-flightradar24-uses-mlat-to-counter-gps-jamming/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flightradar24.com">[Flightradar24]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flightradar24.com</span><span class="citation-popover-title">How Flightradar24 uses MLAT to counter GPS jamming</span><span class="citation-popover-snippet">How Flightradar24 uses MLAT to counter GPS jamming</span></span></span> Some state, military, law-enforcement or sensitive flights may be filtered, delayed, blocked, incomplete, or visible on one service but not another.
 
 This is why a careful case status should distinguish between “matched”, “not matched” and “ruled out”. If a reported light matches a known aircraft track within a narrow time-and-sky window, aircraft may be a strong explanation. If no public track appears, the correct wording is usually weaker: “No matching public broadcast track found.” That leaves room for non-broadcast aircraft, low-level helicopters, military activity, drones, balloons, satellites, weather effects, or an unresolved event.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pqkxYbVEvAU" title="What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer">What do drones look like? Are lights in the night UFOs, planes? Here&#x27;s what to know.</a></p><p class="youtube-embed-meta">Channel: NBC10 Boston &middot; Views: 22.9K &middot; Uploaded: December 2024 &middot; Length: 1 minute 39 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pqkxYbVEvAU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pqkxYbVEvAU">Open on YouTube</a></p></div></div></div>
 
@@ -394,7 +389,6 @@ NASA’s independent UAP study is relevant here because it emphasised data quali
 
 Human review remains essential for three reasons. First, witness language is imprecise: “above the house”, “over the town” and “very low” may describe appearance, not measured position. Second, camera footage can mislead: zoom, autofocus, rolling shutter, digital stabilisation and low-light noise can all change perceived motion. Third, aviation context matters: a local pilot, air-traffic specialist or drone operator may recognise a pattern that a generic model misses.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/3yfEYmyH-Ro" title="Aircraft Lights: Red and Green Airplane Light Meaning" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer">Aircraft Lights: Red and Green Airplane Light Meaning</a></p><p class="youtube-embed-meta">Channel: Pilot Institute Airplanes &middot; Views: 92.7K &middot; Uploaded: May 2021 &middot; Length: 4 minutes 59 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=3yfEYmyH-Ro" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=3yfEYmyH-Ro">Open on YouTube</a></p></div></div></div>
 
 ## How to classify the result
@@ -402,7 +396,6 @@ Human review remains essential for three reasons. First, witness language is imp
 The best outcome of aircraft and drone screening is not always a neat debunking. It is a transparent classification that tells the reader what has and has not been explained. Official UAP work shows why this matters. AARO’s public case pages include cases marked unresolved, under analysis, closed as not anomalous, and resolved as objects such as balloons; its broader public messaging says it uses a data-driven framework for UAP analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 For public-facing [case files]({{ 'case-file/' | relative_url }}), five practical categories are usually enough:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -415,7 +408,6 @@ For public-facing [case files]({{ 'case-file/' | relative_url }}), five practica
 </div>
 
 That last category is important. A sighting can remain unresolved because the evidence is poor, because the relevant aircraft or drone data is unavailable, or because the event genuinely does not fit ordinary aviation activity. An evidence-led workflow keeps those possibilities separate. It avoids both overconfident dismissal and overconfident mystery-making.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-3-dark.svg" | relative_url }}" alt="Aircraft illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_aircraft_dron_518d8a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The practical takeaway for UFO case work
@@ -815,6 +807,7 @@ A strong AI-assisted investigation therefore treats aviation screening as a stru
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -999,4 +992,4 @@ A strong AI-assisted investigation therefore treats aviation screening as a stru
 40. <a id="endnote-40"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>

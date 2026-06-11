@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e8
 
 Official UAP investigations rarely say a sighting is “93% likely to be a drone” or “87% likely to be extraterrestrial”. Instead, agencies such as NASA and the US Department of Defense’s All-domain Anomaly Resolution Office (AARO) usually rely on phrases like “likely”, “consistent with”, “probably”, “resolved as a balloon”, or “unresolved due to insufficient data”. That wording is deliberate. It reflects a core problem in UFO and UAP investigation: most reports do not contain enough reliable evidence to support exact statistical claims.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-1-dark.svg" | relative_url }}" alt="Official Language illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO sighting investigation, this distinction matters. A numerical [confidence]({{ 'confidence/' | relative_url }}) score can look scientific while hiding major gaps in the underlying case file. Official investigators increasingly prefer calibrated language because sensor limitations, missing metadata, uncertain witness timing, and incomplete environmental context make precise probabilities difficult to justify. NASA’s independent UAP study repeatedly stressed that current analysis is limited by poor [calibration]({{ 'calibration/' | relative_url }}) and weak data quality rather than by a lack of speculative theories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
@@ -304,7 +303,6 @@ A typical unresolved sighting may contain only:
 Under those conditions, a precise percentage can create [false confidence]({{ 'false-confidence/' | relative_url }}). NASA’s 2023 independent UAP report stated that analysis is currently “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metadata, and the lack of baseline data”. NASA Science Space That language reflects a scientific principle: uncertainty should remain visible. If the evidence is incomplete <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>, the wording should show that incompleteness rather than compressing it into a neat-looking number.
 
 This is why official reports often use layered phrasing such as:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -352,7 +350,6 @@ The report repeatedly returned to the same problem: most UAP reports are not sci
 
 NASA highlighted several recurring weaknesses:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * Poorly calibrated sensors
@@ -368,7 +365,6 @@ NASA highlighted several recurring weaknesses:
 In practical terms, this means two analysts can view the same clip and reach different conclusions because key contextual information is absent.
 
 For example, a bright object appearing to accelerate rapidly may actually involve:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -393,14 +389,12 @@ People naturally treat percentages as objective facts. A statement like “85% l
 
 This creates several communication risks:
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-2-dark.svg" | relative_url }}" alt="Official Language illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Readers mistake estimates for proof
 
 Most people do not interpret probabilities conservatively. A high number is often treated as near-certainty.
 
 If a [case file]({{ 'case-file/' | relative_url }}) says “90% likely drone”, readers may stop asking important investigative questions:
-
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
@@ -451,7 +445,6 @@ An automated UFO investigation platform may flag a sighting as:
 That does not automatically elevate the case into something anomalous. It may simply mean the evidence quality is too low for confident classification.
 
 Official wording attempts to preserve that distinction. Terms like “unresolved” or “under analysis” are intentionally narrower than sensational interpretations suggesting confirmation of unknown technology.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-3-dark.svg" | relative_url }}" alt="Official Language illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_aaro_nasa_cau_991cb8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How calibrated language fits modern AI-assisted investigation
@@ -896,6 +889,7 @@ NASA’s UAP study repeatedly argued that the real bottleneck is not a lack of s
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

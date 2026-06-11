@@ -324,7 +324,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-overview-social.j
 
 AI can help a UFO sighting investigation move faster, but it should not be allowed to issue a final verdict on its own. Human review is the safeguard that keeps “the model found a match” from becoming “the case is solved”, and keeps “unresolved” from being inflated into “extraordinary”. The central rule is simple: every AI-assisted conclusion should show what is confirmed, what is inferred, what remains uncertain, and who checked the reasoning.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-overview.webp" | relative_url }}" alt="Overview image for Review" loading="eager" decoding="sync" fetchpriority="high">
 This matters because UAP and UFO reports often arrive with weak, partial or uneven data. NASA’s independent UAP study found that present analysis is hampered by poor sensor [calibration]({{ 'calibration/' | relative_url }}), lack of multiple measurements, lack of sensor metadata and lack of baseline data; it also warned that AI and machine learning are useful only when applied to well-characterised data gathered to strong standards. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> In practice, a responsible AI-assisted [case file]({{ 'case-file/' | relative_url }}) needs a human reviewer who can challenge neat explanations, preserve uncertainty and reopen a case when better evidence appears.
 
@@ -353,7 +352,6 @@ The safest review question is therefore not “what did the AI choose?” but �
 
 This is where human judgement adds value that automation cannot fully supply. A reviewer can notice when an explanation is psychologically persuasive but evidentially thin. They can ask whether the witness’s description has been over-normalised by the intake form. They can see when the AI has treated estimated distance, size or speed as if they were measured facts. Most UFO reports do not contain reliable range data, so apparent speed and size are especially dangerous: a nearby insect, distant aircraft and orbital object can all look strange if the distance is guessed.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-1-dark.svg" | relative_url }}" alt="Review illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Audit trails and source notes
 
@@ -378,7 +376,6 @@ Audit notes should be written in plain language. A public case file does not nee
 
 That kind of note is more valuable than a bare label such as “balloon: 82%”. Percentages can look scientific while hiding the real uncertainty. A reviewer should explain what the number means, how it was produced, and whether it reflects evidence strength or only similarity to previous cases.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/qSAQyOgiELA" title="NASA: UAP Study Report Highlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=qSAQyOgiELA" target="_blank" rel="noopener noreferrer">NASA: UAP Study Report Highlights</a></p><p class="youtube-embed-meta">Channel: IFLScience &middot; Views: 4.8K &middot; Uploaded: September 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=qSAQyOgiELA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=qSAQyOgiELA">Open on YouTube</a></p></div></div></div>
 
 ## What reviewers should challenge before a verdict goes public
@@ -386,7 +383,6 @@ That kind of note is more valuable than a bare label such as “balloon: 82%”.
 The strongest safeguard is a structured challenge process before publication. The reviewer should not merely approve the AI’s top answer; they should actively test whether the answer survives obvious objections.
 
 A practical pre-publication review asks:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -404,14 +400,12 @@ This approach mirrors the more careful classification culture used by GEIPAN, th
 
 Human review should also guard against “explanation laundering”. This happens when an AI-generated possibility is repeated by analysts, websites or social media until it appears to be an established finding. A case note should therefore state whether a match is based on direct evidence, analogy to prior cases, environmental correlation, or simple absence of a better explanation. Those are very different levels of support.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-2-dark.svg" | relative_url }}" alt="Review illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Review boards, not lone verdicts
 
 For low-stakes cases, one trained reviewer may be enough. For public, high-interest or apparently anomalous cases, a small review panel is safer. The point is not bureaucracy; it is to reduce blind spots. A useful panel might include someone with aviation knowledge, someone with [astronomy]({{ 'astronomy/' | relative_url }}) or satellite-tracking experience, someone who understands camera and sensor artefacts, and someone responsible for evidence handling and public wording.
 
 The panel should not be asked, “Is this a UFO?” That question is too vague. It should be asked:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -428,7 +422,6 @@ This matters because even official investigations have repeatedly faced the same
 
 A review board also helps with language. Public UFO writing often fails at the final sentence. “The object was a balloon” is too strong if the case only shows balloon-like motion and appearance. “The object defies explanation” is too strong if basic checks were incomplete. Better wording might be: “The strongest current explanation is a windborne balloon, but the case remains classed as plausible rather than resolved because no range or recovery evidence is available.”
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GivGke4kyC4" title="NASA&#x27;s in-depth UFO investigation report: Key findings and surprises | The truth about UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GivGke4kyC4" target="_blank" rel="noopener noreferrer">NASA&#x27;s in-depth UFO investigation report: Key findings and surprises | The truth about UFOs</a></p><p class="youtube-embed-meta">Channel: Times Of India &middot; Views: 681 &middot; Uploaded: September 2023 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GivGke4kyC4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GivGke4kyC4">Open on YouTube</a></p></div></div></div>
 
 ## Updating cases when new evidence appears
@@ -444,7 +437,6 @@ The most important safeguard is to preserve earlier reasoning rather than silent
 “Updated 12 March 2026: the original phone file was received, correcting the sighting time from 21:43 to 21:49. The earlier aircraft match no longer fits. The case has been returned from ‘plausible aircraft’ to ‘unresolved pending further checks’.”
 
 That kind of correction builds trust. It shows that the investigation is evidence-led rather than verdict-led. It also reduces the temptation to defend an early AI output simply because it has already been published.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-3-dark.svg" | relative_url }}" alt="Review illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How to word an AI-assisted UFO conclusion safely
@@ -467,7 +459,6 @@ This kind of wording does not pretend the AI is neutral magic. It makes the reas
 
 The opposite style should be avoided:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * “AI proves it was a balloon.”
@@ -479,7 +470,6 @@ The opposite style should be avoided:
 </div>
 
 Those statements either hide uncertainty or imply more evidence than the case contains. NASA’s UAP study is especially relevant here: it says AI and machine learning can help identify rare occurrences in large datasets, but the limiting factor is often data quality, and reliable analysis depends on calibrated instruments, metadata and proper curation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span> The public conclusion should reflect that reality.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/TCWB1YZrEuU" title="NASA UAP Independent Study Report" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=TCWB1YZrEuU" target="_blank" rel="noopener noreferrer">NASA UAP Independent Study Report</a></p><p class="youtube-embed-meta">Channel: Space Science Health &middot; Views: 7 &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=TCWB1YZrEuU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=TCWB1YZrEuU">Open on YouTube</a></p></div></div></div>
 
@@ -880,6 +870,7 @@ That is the difference between an AI-generated answer and an evidence-led case c
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1018,4 +1009,4 @@ That is the difference between an AI-generated answer and an evidence-led case c
 
 28. <a id="endnote-28"></a>
    Source: artificialintelligenceact.eu  
-   Link: <a href="https://artificialintelligenceact.eu/article/14/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/article/14/</a>  
+   Link: <a href="https://artificialintelligenceact.eu/article/14/" target="_blank" rel="noopener noreferrer nofollow">https://artificialintelligenceact.eu/article/14/</a>

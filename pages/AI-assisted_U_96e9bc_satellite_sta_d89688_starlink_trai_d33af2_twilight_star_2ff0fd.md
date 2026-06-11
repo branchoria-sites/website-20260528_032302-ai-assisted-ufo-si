@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d3
 
 Many Starlink-related UFO reports happen during twilight because that is the brief period when observers on the ground are already in darkness while satellites hundreds of kilometres above Earth are still lit by the Sun. The result is visually confusing: silent lights appear suddenly, move in formation, brighten or fade without warning, and cross a dark sky that no longer contains normal visual [reference points]({{ 'reference-points/' | relative_url }}). To witnesses unfamiliar with orbital lighting [geometry]({{ 'geometry/' | relative_url }}), the effect can look controlled, unconventional, or even impossible.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-1-dark.svg" | relative_url }}" alt="Twilight passes illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, twilight timing is therefore one of the fastest and most useful screening clues. A report describing a straight line of lights 30 to 90 minutes after sunset, or shortly before sunrise, immediately raises the probability of a Starlink explanation. The key is not dismissing the witness account, but reconstructing the exact light conditions, satellite positions, and viewing angles that made an ordinary orbital pass appear extraordinary.
 
@@ -280,7 +279,6 @@ For AI-assisted UFO investigation, twilight timing is therefore one of the faste
 The central mechanism is simple but counterintuitive. After sunset, darkness reaches ground observers before it reaches low Earth orbit. A person standing under a darkening sky may already be inside Earth’s shadow while satellites at roughly 550 km altitude remain in direct sunlight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[Weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</span></span></span>
 
 That overlap creates ideal conditions for satellite visibility:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -294,7 +292,6 @@ That overlap creates ideal conditions for satellite visibility:
 This is why Starlink trains are most often reported shortly after sunset or before dawn rather than at midnight. Multiple [astronomy]({{ 'astronomy/' | relative_url }}) and tracking guides note that visibility is strongest during these transition periods. Space Flypix The effect becomes even stronger with freshly launched Starlink groups because the satellites remain tightly packed. Instead of isolated movi <span class="citation-chip-wrap"><a class="citation-chip" href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flypix.ai">[flypix.ai]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flypix.ai</span><span class="citation-popover-snippet">What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</span></span></span> ng points, witnesses see a coordinated chain of lights maintaining equal spacing. In darkness, the human visual system naturally interprets orderly motion as deliberate formation flight rather than orbital mechanics.
 
 A useful comparison for investigators is commercial [aircraft]({{ 'aircraft/' | relative_url }}) lighting. Aircraft usually show blinking navigation lights, colour variation, altitude changes, and engine noise. Twilight Starlink passes instead produce:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -318,7 +315,6 @@ Witnesses often report lights that “materialise” from nowhere or “vanish i
 
 To an observer without orbital context, this can resemble:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Cloaking or stealth behaviour
@@ -330,7 +326,6 @@ To an observer without orbital context, this can resemble:
 
 In reality, the geometry between Sun, satellite, and observer has changed.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/guDKa-pyXlc" title="Twilight Explained: What’s the Difference Between Civil, Nautical, and Astronomical Twilight?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=guDKa-pyXlc" target="_blank" rel="noopener noreferrer">Twilight Explained: What’s the Difference Between Civil, Nautical, and Astronomical Twilight?</a></p><p class="youtube-embed-meta">Channel: AstroPhil &middot; Views: 3.4K &middot; Uploaded: November 2025 &middot; Length: 4 minutes 50 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=guDKa-pyXlc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=guDKa-pyXlc">Open on YouTube</a></p></div></div></div>
 
 ### Brightness changes and “flares”
@@ -338,7 +333,6 @@ In reality, the geometry between Sun, satellite, and observer has changed.
 Starlink satellites also contain reflective surfaces that can briefly angle sunlight toward the observer. This can create pulses or flares where one object suddenly becomes brighter than the others. <span class="citation-chip-wrap"><a class="citation-chip" href="https://space.stackexchange.com/questions/40527/how-do-the-starlink-satellites-shine" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.stackexchange.com">[Space Exploration Stack Exchange]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.stackexchange.com</span><span class="citation-popover-title">I was wondering about what makes them visible. Do they have large mirrors that</span><span class="citation-popover-snippet">Space Exploration Stack ExchangeHow do the Starlink satellites shine?Dec 20, 2019 — As we can see the Starlink satellites with the naked...</span></span></span>
 
 In UFO reports, witnesses sometimes interpret these brightness changes as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -358,7 +352,6 @@ Human depth perception performs poorly against a dark sky with no foreground ref
 Twilight increases this problem because the horizon may already be difficult to distinguish. During civil and nautical twilight, the ground is dim while the sky still contains residual glow. [Weather]({{ 'weather/' | relative_url }}). gov <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.rmg.co.uk/stories/time/when-dawn-dusk-twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: rmg.co.uk">[Royal Museums Greenwich]</a><span class="citation-popover" role="note"><span class="citation-popover-source">rmg.co.uk</span><span class="citation-popover-snippet">Dawn, dusk and twilight &#124; Meanings and TimingsDuring civil twilight, the brightest stars are visible and at sea the horizon is clearly de...</span></span></span>
 
 As a result, witnesses commonly underestimate altitude by enormous margins. A satellite at several hundred kilometres altitude may be perceived as:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -380,7 +373,6 @@ Not all twilight passes look equally dramatic. The apparent strangeness depends 
 After sunset, the western sky usually darkens first while satellites overhead or farther east may still receive sunlight. Witnesses facing west often report lights emerging into darker sky regions while the horizon retains faint glow.
 
 This is one reason many evening UFO reports describe objects moving from west to east shortly after dusk.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-2-dark.svg" | relative_url }}" alt="Twilight passes illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### East before sunrise
@@ -421,11 +413,60 @@ That case is important for investigators because it demonstrates that even train
 
 Twilight-related Starlink misidentifications are often solvable quickly if the [case file]({{ 'case-file/' | relative_url }}) contains precise timing and direction data.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-3-dark.svg" | relative_url }}" alt="Twilight passes illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_twilight_star_2ff0fd-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### The three most important checks
 
 For a suspected train sighting, investigators should immediately compare:
+
+1. Local sunset or sunrise time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</span></span></span>
+2. Predicted satellite pass timing
+3. Witness viewing direction
+
+If the report falls within the high-visibility twilight window and matches a known Starlink pass, the probability of misidentification increases sharply.
+
+### Timing windows that deserve attention
+
+Particular scrutiny is warranted when reports occur:
+
+* Roughly 30 to 90 minutes after sunset
+* Roughly 30 to 90 minutes before sunrise
+* During long summer twilight periods
+* Within days of a major Starlink launch
+
+These are the conditions repeatedly associated with highly visible trains. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flypix.ai">[Flypix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flypix.ai</span><span class="citation-popover-snippet">What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</span></span></span>
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
+
+### AI-assisted correlation workflow
+
+An automated UFO investigation workflow can test the hypothesis rapidly by combining:
+
+* Local astronomical twilight data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/lmk/twilight-types" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Twilight TypesThere are three categories of twilight that are defined by how far the sun is below the horizon. Civil Twilight, Nautical T...</span></span></span>
+* Satellite orbital elements
+* Witness coordinates
+* Compass direction
+* [Elevation]({{ 'elevation/' | relative_url }}) angle
+* Weather and cloud cover
+* Launch schedules
+
+The system can then reconstruct whether the observer would have seen satellites crossing from illuminated orbit into Earth’s shadow.
+
+This matters because many UFO reports contain accurate observations but incorrect interpretations. The witness may genuinely report:
+
+* A straight line of lights <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
+* Silent motion
+* Sudden fading
+* Constant spacing
+
+The investigative task is determining whether those features fit known orbital behaviour under twilight illumination conditions.
+
+## Why twilight remains the peak confusion window
+
+Despite public familiarity with Starlink, twilight still produces large numbers of mistaken UFO reports because the visual effect is genuinely unusual. Even astronomers have noted that twilight observations are disproportionately affected by Starlink visibility. Studies of astronomical imaging found that satellite streaks become especially common during twilight periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</span><span class="citation-popover-meta">Published: March 16, 2020</span></span></span>
+
+For the general public, the same geometry creates an experience that feels uncanny rather than routine. The observer sees a dark sky, unfamiliar moving lights, no sound, and coordinated motion. Without contextual data, the event naturally appears anomalous.
+
+That is why twilight timing is one of the strongest first-pass indicators in modern UFO triage. A sighting occurring in the correct illumination window does not automatically prove a Starlink explanation, but it immediately changes the investigative baseline from “unknown aerial object” to “high-probability orbital visibility event”.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -818,56 +859,6 @@ For a suspected train sighting, investigators should immediately compare:
 })();
 </script>
 </section>
-1. Local sunset or sunrise time <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/fsd/twilight" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Definitions of TwilightIn its most general sense, twilight is the period of time before sunrise and after sunset, in which the atmosphere...</span></span></span>
-2. Predicted satellite pass timing
-3. Witness viewing direction
-
-If the report falls within the high-visibility twilight window and matches a known Starlink pass, the probability of misidentification increases sharply.
-
-### Timing windows that deserve attention
-
-Particular scrutiny is warranted when reports occur:
-
-* Roughly 30 to 90 minutes after sunset
-* Roughly 30 to 90 minutes before sunrise
-* During long summer twilight periods
-* Within days of a major Starlink launch
-
-These are the conditions repeatedly associated with highly visible trains. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://flypix.ai/what-time-are-the-starlink-satellites-tonight/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: flypix.ai">[Flypix]</a><span class="citation-popover" role="note"><span class="citation-popover-source">flypix.ai</span><span class="citation-popover-snippet">What Time Are the Starlink Satellites Tonight?Jan 13, 2026 — Most visible passes happen between 30 and 90 minutes after local sunset...</span></span></span>
-
-
-<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cldNfJHdZws" title="Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer">Train of Satellites in the Sky over California | Looks like UFOs | SpaceX Starlink Train 2023</a></p><p class="youtube-embed-meta">Channel: Attractions 360° &middot; Views: 50.2K &middot; Uploaded: July 2023 &middot; Length: 2 minutes 7 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cldNfJHdZws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cldNfJHdZws">Open on YouTube</a></p></div></div></div>
-
-### AI-assisted correlation workflow
-
-An automated UFO investigation workflow can test the hypothesis rapidly by combining:
-
-* Local astronomical twilight data <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.weather.gov/lmk/twilight-types" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: weather.gov">[weather.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">weather.gov</span><span class="citation-popover-snippet">Twilight TypesThere are three categories of twilight that are defined by how far the sun is below the horizon. Civil Twilight, Nautical T...</span></span></span>
-* Satellite orbital elements
-* Witness coordinates
-* Compass direction
-* [Elevation]({{ 'elevation/' | relative_url }}) angle
-* Weather and cloud cover
-* Launch schedules
-
-The system can then reconstruct whether the observer would have seen satellites crossing from illuminated orbit into Earth’s shadow.
-
-This matters because many UFO reports contain accurate observations but incorrect interpretations. The witness may genuinely report:
-
-* A straight line of lights <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span>
-* Silent motion
-* Sudden fading
-* Constant spacing
-
-The investigative task is determining whether those features fit known orbital behaviour under twilight illumination conditions.
-
-## Why twilight remains the peak confusion window
-
-Despite public familiarity with Starlink, twilight still produces large numbers of mistaken UFO reports because the visual effect is genuinely unusual. Even astronomers have noted that twilight observations are disproportionately affected by Starlink visibility. Studies of astronomical imaging found that satellite streaks become especially common during twilight periods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2003.07446" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Low Earth Orbit Satellite Population and Impacts of the SpaceX Starlink ConstellationMarch 16, 2020...</span><span class="citation-popover-meta">Published: March 16, 2020</span></span></span>
-
-For the general public, the same geometry creates an experience that feels uncanny rather than routine. The observer sees a dark sky, unfamiliar moving lights, no sound, and coordinated motion. Without contextual data, the event naturally appears anomalous.
-
-That is why twilight timing is one of the strongest first-pass indicators in modern UFO triage. A sighting occurring in the correct illumination window does not automatically prove a Starlink explanation, but it immediately changes the investigative baseline from “unknown aerial object” to “high-probability orbital visibility event”.
 
 ## Endnotes
 

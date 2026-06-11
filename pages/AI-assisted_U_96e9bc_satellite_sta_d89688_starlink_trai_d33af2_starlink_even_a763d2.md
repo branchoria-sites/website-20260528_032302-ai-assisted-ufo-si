@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d3
 
 Even spacing is one of the strongest clues that a reported “fleet” of lights may actually be a newly deployed Starlink satellite train rather than [aircraft]({{ 'aircraft/' | relative_url }}), drones, or an unexplained aerial event. Witnesses commonly describe a silent procession of bright points moving at the same speed with remarkably regular gaps between them, often in a straight or gently curving line. That visual pattern matters because newly launched Starlink satellites begin life clustered together in the same orbital path before gradually spreading apart into operational positions. Space <span class="citation-chip-wrap"><a class="citation-chip" href="https://starwalk.space/en/news/spacex-starlink-satellites-night-sky-visibility-guide" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: starwalk.space">[Star Walk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">starwalk.space</span><span class="citation-popover-snippet">Star WalkStarlink Tracker: Find Starlink Satellites Tonight3 days ago — Starlink satellites appear as evenly spaced moving lights for onl...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-1-dark.svg" | relative_url }}" alt="Even spacing illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For AI-assisted UFO investigation, spacing is valuable because it can be measured. A [case file]({{ 'case-file/' | relative_url }}) does not need to rely purely on witness interpretation. Investigators can compare reported timing, angular separation, direction of travel, and motion smoothness against known Starlink deployment behaviour and publicly available satellite tracking data. Regularity itself becomes evidence. When multiple lights maintain nearly identical gaps over several minutes without overtaking, weaving, flashing, or changing altitude, the probability of a Starlink explanation rises sharply.
 
@@ -280,7 +279,6 @@ For AI-assisted UFO investigation, spacing is valuable because it can be measure
 A Starlink “train” forms because dozens of satellites are released into a similar orbit during a single Falcon 9 deployment. In the first days after launch, the satellites remain close together and follow nearly the same ground track across the sky. To an observer on Earth, the result can resemble pearls on a string or carriages in a convoy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/LimestoneCoastNews/videos/%F0%9D%97%9B%F0%9D%97%AE%F0%9D%98%83%F0%9D%97%B2-%F0%9D%98%86%F0%9D%97%BC%F0%9D%98%82-%F0%9D%97%B2%F0%9D%98%83%F0%9D%97%B2%F0%9D%97%BF-%F0%9D%98%80%F0%9D%97%B2%F0%9D%97%B2%F0%9D%97%BB-%F0%9D%97%AE-%F0%9D%97%A6%F0%9D%98%81%F0%9D%97%AE%F0%9D%97%BF%F0%9D%97%B9%F0%9D%97%B6%F0%9D%97%BB%F0%9D%97%B8-%F0%9D%98%80%F0%9D%97%AE%F0%9D%98%81%F0%9D%97%B2%F0%9D%97%B9%F0%9D%97%B9%F0%9D%97%B6%F0%9D%98%81%F0%9D%97%B2-%F0%9D%98%81%F0%9D%97%BF%F0%9D%97%AE%F0%9D%97%B6%F0%9D%97%BB-%F0%9D%97%B6%F0%9D%97%BB-%F0%9D%98%81%F0%9D%97%B5%F0%9D%97%B2-%F0%9D%97%BB%F0%9D%97%B6%F0%9D%97%B4%F0%9D%97%B5%F0%9D%98%81-%F0%9D%98%80%F0%9D%97%B8%F0%9D%98%86this-video-capture/2412027945861725/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">𝗛𝗮𝘃𝗲 𝘆𝗼𝘂 𝗲𝘃𝗲𝗿 𝘀𝗲𝗲𝗻 𝗮 𝗦𝘁𝗮𝗿𝗹𝗶𝗻𝗸 𝘀𝗮𝘁𝗲𝗹𝗹𝗶𝘁𝗲 𝘁𝗿𝗮𝗶𝗻 𝗶𝗻 𝘁𝗵𝗲 𝗻𝗶𝗴𝗵𝘁 𝘀𝗸𝘆this video capture</span><span class="citation-popover-snippet">Facebook𝗛𝗮𝘃𝗲 𝘆𝗼𝘂 𝗲𝘃𝗲𝗿 𝘀𝗲𝗲𝗻 𝗮 𝗦𝘁𝗮𝗿𝗹𝗶𝗻𝗸 𝘀𝗮𝘁𝗲𝗹𝗹𝗶𝘁𝗲...In the days following a launch, the satellites travel together in a straight line and...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/starlink-satellite-train-how-to-see-and-track-it" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">Starlink satellite train: how to see and track it in the night sky</span><span class="citation-popover-snippet">These satellites often create a &quot;Starlink satellite train&quot; — a captivating formation of closely grouped, bright lights moving in a line a...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/spacex-starlink-satellites.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">x starlink satellites</span><span class="citation-popover-snippet">Starlink satellites: Facts, tracking and impact on astronomy5 May 2026 — Starlink satellites are easier to see a day or two after their l...</span><span class="citation-popover-meta">Published: May 2026</span></span></span>
 
 The even spacing is not perfectly engineered from the viewer’s perspective, but it often appears highly regular because:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -301,7 +299,6 @@ For investigators, timing therefore matters as much as [geometry]({{ 'geometry/'
 
 Witness descriptions are often surprisingly consistent across unrelated sightings. Reports associated with Starlink trains frequently include phrases such as:
 
-
 <div class="content-enhancement content-enhancement--phrase-stack" markdown="1">
 
 * “Perfectly spaced”
@@ -316,7 +313,6 @@ Witness descriptions are often surprisingly consistent across unrelated sighting
 These similarities appear in public UFO reports, social-media uploads, aviation discussions, and [astronomy]({{ 'astronomy/' | relative_url }}) forums. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/tech/spacex-satellite-ufo-internet-elon-musk-starlink-a9473896.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">SpaceXstarlinkUFOs. Join our commenting forum. Join thought-...Read more...</span></span></span>
 
 Investigators should pay close attention to whether witnesses describe:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -334,7 +330,6 @@ The more stable the geometry remains, the stronger the satellite-train hypothesi
 
 Importantly, witnesses often overestimate how low the objects are. A line of satellites hundreds of kilometres above Earth can appear surprisingly near when viewed against a dark sky without reference objects. This distance illusion can make orbital motion seem deliberate or controlled rather than ballistic and predictable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/VIQr1UyhwWk" title="How Do Starlink Satellites Navigate To Their Final Operational Orbits" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=VIQr1UyhwWk" target="_blank" rel="noopener noreferrer">How Do Starlink Satellites Navigate To Their Final Operational Orbits</a></p><p class="youtube-embed-meta">Channel: Scott Manley &middot; Views: 472.8K &middot; Uploaded: August 2021 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=VIQr1UyhwWk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=VIQr1UyhwWk">Open on YouTube</a></p></div></div></div>
 
 ## Report details that separate trains from aircraft or drones
@@ -344,7 +339,6 @@ Even spacing alone is not enough to identify Starlink with certainty. Investigat
 ### Features strongly associated with Starlink trains
 
 A typical Starlink-train report includes: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.satflare.com/track.asp?q=starlinklaunch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: satflare.com">[satflare.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">satflare.com</span><span class="citation-popover-title">STARLIN K Train</span><span class="citation-popover-snippet">STARLINK Train - 3D REAL TIME TRACKINGIn this page you can track in real time all the satellites orbiting the Earth, with both 2D and 3D...</span></span></span>
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -382,14 +376,12 @@ Investigators should be more cautious if reports include:
 
 Some witness reports exaggerate or misremember motion after the fact, especially once discussion spreads online. AI-assisted workflows should therefore preserve [original]({{ 'original-evidence/' | relative_url }}) witness wording and timestamps before later retellings reshape the narrative.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-2-dark.svg" | relative_url }}" alt="Even spacing illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Aircraft formations versus orbital formations
 
 Aircraft formations can also appear evenly spaced from a distance, especially military flights at night. The key differences usually involve timing and behaviour.
 
 Aircraft formations typically show:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -403,7 +395,6 @@ Aircraft formations typically show:
 </div>
 
 Starlink trains usually maintain much more stable angular spacing across the observation period.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/su9MtcYkzgw" title="How Does The Starlink System Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=su9MtcYkzgw" target="_blank" rel="noopener noreferrer">How Does The Starlink System Work?</a></p><p class="youtube-embed-meta">Channel: Insane Curiosity &middot; Views: 711.1K &middot; Uploaded: October 2022 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=su9MtcYkzgw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=su9MtcYkzgw">Open on YouTube</a></p></div></div></div>
 
@@ -445,7 +436,6 @@ The strongest systems combine witness evidence with external datasets rather tha
 
 That approach is especially important because modern satellite constellations create patterns that many people have never previously encountered. The unfamiliarity itself becomes part of the sighting.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-3-dark.svg" | relative_url }}" alt="Even spacing illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_starlink_trai_d33af2_starlink_even_a763d2-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Common mistakes when evaluating spacing
 
@@ -460,7 +450,6 @@ Even spacing is far more meaningful if a launch occurred recently. A claimed Sta
 ### Confusing perspective effects with manoeuvres
 
 As satellites pass overhead, perspective compression can make spacing appear to shrink or expand near the horizon. Witnesses sometimes interpret this as intelligent movement.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Z_ThDsHPMzg" title="Almost 6,000 Starlink satellites in orbit! 🤯🛰️ (2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Z_ThDsHPMzg" target="_blank" rel="noopener noreferrer">Almost 6,000 Starlink satellites in orbit! 🤯🛰️ (2024)</a></p><p class="youtube-embed-meta">Channel: Star Walk &middot; Views: 208.8K &middot; Uploaded: January 2024 &middot; Length: 29 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Z_ThDsHPMzg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Z_ThDsHPMzg">Open on YouTube</a></p></div></div></div>
 
@@ -875,6 +864,7 @@ At the same time, spacing analysis should remain one part of a broader workflow 
 })();
 </script>
 </section>
+
 ## References
 
 [- CelesTrak([https://celestrak.org/](https://celestrak.org/))](#endnote-23 "Endnote 23") [- Find Starlink([https://findstarlink.com/](https://findstarlink.com/))](#endnote-24 "

@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e8
 
 An AI system that labels a UFO sighting as “94% likely to be a drone” can appear authoritative even when the underlying estimate has never been properly tested against reality. In AI-assisted UFO investigation, [calibration]({{ 'calibration/' | relative_url }}) failures matter because readers often interpret percentages as hard scientific probabilities rather than provisional judgements built on [incomplete]({{ 'incomplete-data/' | relative_url }}) evidence. A system may sound precise while consistently overstating its own reliability.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-dark.svg" | relative_url }}" alt="Calibration Failures illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This problem becomes especially serious in UFO and UAP case work because the field lacks stable ground truth. Many sightings are never conclusively solved. Witness reports are uneven, [sensor data]({{ 'sensor-data/' | relative_url }}) is often incomplete, and older archives contain disputed classifications. Under those conditions, a machine-learning system can become confidently wrong without investigators noticing. NASA’s UAP study repeatedly stressed that AI analysis is constrained less by algorithms than by poor-quality data, fragmented reporting systems, weak [metadata]({{ 'metadata/' | relative_url }}), and inconsistent sensor calibration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
 
@@ -300,7 +299,6 @@ Calibration only works when predictions can eventually be compared against relia
 
 Most civilian UFO reports contain major uncertainty gaps:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Missing timestamps
@@ -322,7 +320,6 @@ The problem becomes worse when unresolved cases are quietly forced into ordinary
 
 NASA’s report specifically warned that meaningful anomaly detection requires a well-calibrated understanding of “normal” observations first. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> Without reliable baseline data about aircraft behaviour, balloons, sensor artefacts, atmospheric optics, satellites, and common observational errors, probability estimates become unstable.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AunotauS5yI" title="Probability Calibration : Data Science Concepts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AunotauS5yI" target="_blank" rel="noopener noreferrer">Probability Calibration : Data Science Concepts</a></p><p class="youtube-embed-meta">Channel: ritvikmath &middot; Views: 46.4K &middot; Uploaded: September 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AunotauS5yI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AunotauS5yI">Open on YouTube</a></p></div></div></div>
 
 ## How overconfidence appears in ambiguous sightings
@@ -332,7 +329,6 @@ Calibration failures become most visible in borderline sightings where evidence 
 ### Single-witness night sightings
 
 Imagine a report involving:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -361,7 +357,6 @@ Calibration also breaks down when AI systems encounter unusual situations absent
 
 Examples in UFO investigation include:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Rare atmospheric optical effects
@@ -377,7 +372,6 @@ Examples in UFO investigation include:
 A model trained mostly on ordinary aircraft sightings may still output high confidence scores during unfamiliar events because neural networks frequently remain overconfident outside their training distribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.06977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating model calibration in classification</span><span class="citation-popover-snippet">Evaluating model calibration in classificationFebruary 19, 2019...</span><span class="citation-popover-meta">Published: February 19, 2019</span></span></span>
 
 This is one reason NASA emphasised that collecting better-quality baseline data matters more than inventing new AI techniques. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-dark.svg" | relative_url }}" alt="Calibration Failures illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Confidence inflation from class imbalance
@@ -400,7 +394,6 @@ In practical UFO case analysis, this can distort triage workflows:
 
 The result is not necessarily fraud or deliberate bias. It is often a statistical side effect of how optimisation systems behave under uncertainty.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/NDY2fH1FitQ" title="Model Calibration - Estimated Calibration Error (ECE) Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=NDY2fH1FitQ" target="_blank" rel="noopener noreferrer">Model Calibration - Estimated Calibration Error (ECE) Explained</a></p><p class="youtube-embed-meta">Channel: DataMListic &middot; Views: 4.2K &middot; Uploaded: October 2022 &middot; Length: 3 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=NDY2fH1FitQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=NDY2fH1FitQ">Open on YouTube</a></p></div></div></div>
 
 ## Why calibration failures are hard to detect in UFO work
@@ -410,7 +403,6 @@ A badly calibrated system can still appear impressive.
 Suppose an AI model correctly identifies many obvious aircraft sightings. Investigators may conclude that its confidence estimates are trustworthy overall. But calibration quality is usually hardest to evaluate precisely where it matters most: unusual, sparse, ambiguous edge cases.
 
 This creates a misleading feedback loop:
-
 
 <div class="content-enhancement content-enhancement--step-flow" markdown="1">
 
@@ -427,7 +419,6 @@ Reliability testing becomes difficult because many UFO cases never receive defin
 Research into probabilistic forecasting has long shown that systems can appear statistically sophisticated while still exhibiting systematic overconfidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1902.06977" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Evaluating model calibration in classification</span><span class="citation-popover-snippet">Evaluating model calibration in classificationFebruary 19, 2019...</span><span class="citation-popover-meta">Published: February 19, 2019</span></span></span> UFO analysis inherits those problems while also suffering from fragmented reporting standards and uncertain labels.
 
 This is one reason careful investigative language often communicates uncertainty more honestly than exact percentages. A phrase such as “consistent with known drone behaviour but lacking decisive confirmation” may be scientifically stronger than a fabricated-looking “92% drone confidence” unsupported by long-term calibration evidence.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-dark.svg" | relative_url }}" alt="Calibration Failures illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_ufo_confidenc_e823e3_ai_ufo_calibr_ef8b76-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between calibrated language and false precision
@@ -451,7 +442,6 @@ Weakly calibrated phrasingBetter calibrated phrasing“97% likely to be a satell
 
 The second style may sound less dramatic, but it more accurately reflects the real evidential limits common in UFO investigations.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oOZr4kRJgFE" title="When calibration beats metrics" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oOZr4kRJgFE" target="_blank" rel="noopener noreferrer">When calibration beats metrics</a></p><p class="youtube-embed-meta">Channel: probabl &middot; Views: 18.8K &middot; Uploaded: February 2025 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oOZr4kRJgFE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oOZr4kRJgFE">Open on YouTube</a></p></div></div></div>
 
 ## Why better calibration starts with better evidence
@@ -459,7 +449,6 @@ The second style may sound less dramatic, but it more accurately reflects the re
 The central lesson from current AI-assisted UFO research is that confidence quality depends on evidence quality. NASA’s UAP study repeatedly argued that systematic sensor calibration, richer metadata, multiple independent measurements, and standardised reporting matter more than increasingly sophisticated AI models alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science Independent Study Team Report</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportSeptember 13, 2023 — However, the effectiveness of. AI and ML in studying UAP depends critically...</span><span class="citation-popover-meta">Published: September 13, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nasa.gov</span><span class="citation-popover-title">update nasa shares uap independent study report names director</span><span class="citation-popover-snippet">UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</span></span></span>
 
 A genuinely calibrated UFO-analysis pipeline would require:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -869,6 +858,7 @@ That does not make AI useless in UFO investigation. AI can still help cluster si
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

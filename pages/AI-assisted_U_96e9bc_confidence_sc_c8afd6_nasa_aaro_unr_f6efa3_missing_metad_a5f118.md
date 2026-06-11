@@ -277,14 +277,12 @@ image: /assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6
 
 NASA’s recent work on UFOs, now more commonly called UAPs (Unidentified Anomalous Phenomena), keeps returning to a surprisingly unglamorous problem: missing [metadata]({{ 'metadata/' | relative_url }}). To many viewers, a dramatic infrared clip or cockpit video looks like the main evidence. To investigators, the most important evidence is often the information surrounding the image rather than the image itself. Without accurate timestamps, sensor settings, observer location, [aircraft]({{ 'aircraft/' | relative_url }}) movement, or environmental conditions, even a striking video can become analytically weak or impossible to test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-1-dark.svg" | relative_url }}" alt="Missing Metadata illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This matters directly for AI-assisted UFO sighting investigation. AI systems can compare reports against aircraft databases, astronomical events, satellite tracks, weather conditions, drone activity, and known optical effects, but only if the original case file preserves enough contextual data. NASA and the Pentagon’s All-domain Anomaly Resolution Office (AARO) repeatedly emphasise that many unresolved cases stay unresolved not because they show impossible behaviour, but because the available evidence is [incomplete]({{ 'incomplete-data/' | relative_url }}), degraded, or stripped of crucial metadata. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/bad-data-not-aliens-may-be-behind-ufo-surge-nasa-team-says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">bad data not aliens may be behind ufo surge nasa team says</span><span class="citation-popover-snippet">Scientific AmericanBad Data, Not Aliens, May Be behind UFO Surge, NASA...9 Jun 2023 — Gaining any new clarity about surging reports of u...</span></span></span>
 
 ## How metadata changes object interpretation
 
 A UFO video rarely contains direct measurements of speed, distance, size, or manoeuvrability. Those values are usually inferred from surrounding contextual information. That is why NASA’s independent UAP study stressed that analysis is hindered by “poor sensor calibration”, missing metadata, and the lack of multiple measurements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> Wikisource A simple example illustrates the problem. Imagine a short infrared clip showing a bright object apparently racing across the sky. Without met <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sensor c...</span></span></span> adata, viewers may assume extraordinary acceleration. But investigators first need to know:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -332,7 +330,6 @@ For AI systems, timestamp uncertainty creates cascading errors. Automated correl
 A UFO report that says “seen over London” is far less useful than one with precise coordinates and viewing direction.
 
 Investigators need to know:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -390,14 +387,12 @@ This issue became widely discussed in analysis of several well-known US Navy vid
 
 NASA’s broader point is not that every case has a mundane explanation, but that incomplete metadata prevents reliable measurement either way.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-2-dark.svg" | relative_url }}" alt="Missing Metadata illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why viral clips often fail scientific review
 
 Many online UFO videos lose scientific value before investigators ever examine them.
 
 Social media platforms commonly:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -417,7 +412,6 @@ AARO’s unresolved category also reflects this distinction. An unresolved case 
 
 Recent commentary around newly released government UFO files has reinforced the same issue. Analysts noted that many publicly released clips lacked the supporting coordinates, sensor parameters, telemetry, and investigative history needed for meaningful evaluation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor senso...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bR0PaotZxD0" title="NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer">NASA UFO report finds no evidence UAP have extraterrestrial origins | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 37.7K &middot; Uploaded: September 2023 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bR0PaotZxD0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bR0PaotZxD0">Open on YouTube</a></p></div></div></div>
 
 ## Why AI systems depend on metadata even more than human investigators
@@ -425,7 +419,6 @@ Recent commentary around newly released government UFO files has reinforced the 
 AI-assisted UFO investigation systems are often imagined as image-recognition tools scanning footage for anomalies. In practice, the most powerful systems rely heavily on structured contextual data.
 
 An automated workflow can compare a sighting against:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -450,7 +443,6 @@ The issue resembles broader scientific data-quality problems. Research fields fr
 
 For UFO investigation, metadata effectively acts as the bridge between a witness account and a testable case file.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-3-dark.svg" | relative_url }}" alt="Missing Metadata illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_confidence_sc_c8afd6_nasa_aaro_unr_f6efa3_missing_metad_a5f118-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between “unresolved” and “evidence of something extraordinary”
 
@@ -461,7 +453,6 @@ The agency repeatedly states that most UAP reports contain limited or low-qualit
 That distinction is central to evidence-led investigation.
 
 There are several different reasons a case may remain unresolved:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -899,6 +890,7 @@ For AI-assisted UFO investigation, this is likely the most important long-term l
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

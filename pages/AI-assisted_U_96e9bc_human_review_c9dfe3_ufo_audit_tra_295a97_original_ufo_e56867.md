@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295
 
 The strongest UFO [case files]({{ 'case-file/' | relative_url }}) are usually the ones that preserve the first version of the evidence, not the most dramatic version circulating later online. In AI-assisted UFO investigation, the original upload matters because later edits can unintentionally remove the very details needed to test ordinary explanations such as aircraft lights, satellites, atmospheric distortion, camera autofocus behaviour or compression artefacts. NASA’s independent UAP study warned that many investigations are weakened by missing metadata, poor [calibration]({{ 'calibration/' | relative_url }}) and incomplete sensor information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-1-dark.svg" | relative_url }}" alt="Original Evidence illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 A transparent audit trail therefore begins with evidence preservation. Investigators need to know what the witness originally captured, when it was captured, what device produced it, whether it was altered later, and which analytical steps touched the file afterwards. Without that chain, even sophisticated AI tools can end up analysing a distorted copy instead of the original observation.
 
@@ -286,7 +285,6 @@ In practical UFO analysis, these changes can directly affect conclusions. AI sys
 NASA’s UAP report stressed that analysis is frequently limited by “lack of sensor metadata” and insufficient calibration information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space The report]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">nasa ufo uap study team first results revealed</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</span></span></span> also noted that some apparently anomalous observations become understandable once investigators inspect the underlying metadata and sensor conditions carefully. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/15" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:UAP Independent Study Team</span><span class="citation-popover-snippet">Page:UAP Independent Study Team - Final Report.pdf/1512 Nov 2023 — Indeed, several apparent UAP have been demonstrated to be se...</span></span></span>
 
 For that reason, a well-designed UFO case workflow should preserve:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -328,7 +326,6 @@ Many apparently unusual UFO videos are influenced by camera behaviour rather tha
 
 The original file can help investigators determine:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Whether motion blur came from camera shake.
@@ -349,7 +346,6 @@ Witness accounts often evolve after discussion with friends, social media audien
 
 A transparent case system therefore benefits from storing:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The first written description.
@@ -369,7 +365,6 @@ Preserving UFO evidence properly is not only about storage. It is also about pro
 ### Why metadata matters
 
 Metadata is information attached to a file rather than visible inside the image itself. Depending on the device and platform, this may include:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -393,7 +388,6 @@ A common forensic method is hashing. A hash is a unique digital fingerprint calc
 
 In UFO case management, hashes help prove:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Which version was the original.
@@ -404,7 +398,6 @@ In UFO case management, hashes help prove:
 </div>
 
 Modern digital-forensics guidance treats hashes and chain-of-custody logs as core integrity tools. <span class="citation-chip-wrap"><a class="citation-chip" href="https://truescreen.io/articles/evidence-preservation-guide/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: truescreen.io">[TrueScreen - Trust as a Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">truescreen.io</span><span class="citation-popover-title">Learn chain of custody, forensic certification and common mistakes that cause</span><span class="citation-popover-snippet">Trust as a ServiceHow to Preserve Digital Evidence for CourtMar 29, 2026 — Digital evidence preservation follows ISO 27037 4...</span></span></span> Mourant A practical UFO workflow might therefore: <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mourant.com/updates/digital-forensics-uncovering-preserving-and-presenting-digital-evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mourant.com">[mourant.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mourant.com</span><span class="citation-popover-title">digital forensics uncovering preserving and presenting digital evidence</span><span class="citation-popover-snippet">Each transfer or handling event must be recorded with dates, times, handlers, locations and integrity checks.Read more...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-2-dark.svg" | relative_url }}" alt="Original Evidence illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
@@ -436,7 +429,6 @@ Each version may help analysis, but each also increases interpretive distance fr
 
 A visible edit history lets later reviewers decide whether an apparent anomaly emerged from the source material or from processing choices introduced afterwards.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rhP8VdCIz9A" title="UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer">UAP FILES - Visual Evidence from 3 Cases over Africa (2022-2024)</a></p><p class="youtube-embed-meta">Channel: Media Magik Entertainment &middot; Views: 1.3K &middot; Uploaded: August 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rhP8VdCIz9A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rhP8VdCIz9A">Open on YouTube</a></p></div></div></div>
 
 ## How enhancement can weaken evidence
@@ -462,7 +454,6 @@ In UFO analysis, this matters because many disputed claims involve:
 If those characteristics appear only after enhancement, the evidential value drops sharply.
 
 Research into forensic video analysis has shown that metadata and file structures can help identify editing tools and later manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.06361" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Forensic Analysis of Video Files Using Metadata</span><span class="citation-popover-snippet">Forensic Analysis of Video Files Using MetadataMay 13, 2021...</span><span class="citation-popover-meta">Published: May 13, 2021</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-3-dark.svg" | relative_url }}" alt="Original Evidence illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_human_review_c9dfe3_ufo_audit_tra_295a97_original_ufo_e56867-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Cropping removes context
@@ -928,6 +919,7 @@ That is why original UFO evidence should be treated less like social-media conte
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

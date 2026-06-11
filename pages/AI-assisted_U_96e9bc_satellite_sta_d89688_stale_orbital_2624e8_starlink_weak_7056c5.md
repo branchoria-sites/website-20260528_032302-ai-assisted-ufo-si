@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_26
 
 Starlink satellites are now one of the first explanations checked in many UFO or UAP investigations. That is reasonable: the constellation is large, highly visible, and often produces unusual-looking sky behaviour, especially during deployment phases or bright low-angle passes. The problem is that investigators can become overconfident when a tracking app shows “Starlink nearby” for an old sighting. In many historical cases, that answer is only weakly supported.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-1-dark.svg" | relative_url }}" alt="Starlink Drift illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Modern Starlink spacecraft manoeuvre frequently, change altitude over time, and operate in dense groups with very similar orbital paths. Public orbital records are useful, but they are not perfect reconstructions of where each spacecraft was at every minute in the past. For AI-assisted UFO investigation, this creates a specific risk: automated systems may produce satellite “matches” that look precise while actually resting on stale [orbital data]({{ 'orbital-data/' | relative_url }}), propagated estimates, or simple constellation ambiguity. A responsible workflow therefore treats many historical Starlink identifications as tentative rather than confirmed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC12252113/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Orbit Determination for Continuously Maneuvering Starlink...by A Lang · 2025 · Cited by 3 — The proposed method can provide accurate...</span></span></span> 2arXiv
 
@@ -305,7 +304,6 @@ Another complication comes from atmospheric drag and solar activity. Starlink op
 
 This can distort backtracking attempts in subtle ways:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * satellites lose altitude faster than expected
@@ -331,7 +329,6 @@ Thousands of spacecraft now occupy related orbital shells, often separated by on
 
 For historical UFO checks, this creates several failure modes:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * one satellite is mistaken for another in the same shell
@@ -344,7 +341,6 @@ For historical UFO checks, this creates several failure modes:
 A weak match can therefore become rhetorically stronger than the underlying evidence supports.
 
 For example, a witness may report:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -363,7 +359,6 @@ This is one of the more important workflow risks in AI-assisted UFO investigatio
 
 A machine-learning pipeline that scores “satellite likelihood” may not fully represent:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * TLE age
@@ -379,14 +374,12 @@ The output can therefore sound stronger than the evidence really is.
 
 This becomes especially misleading in public-facing UFO discussions because “identified as Starlink” sounds definitive to non-specialists. In reality, some cases are only weakly consistent with one or more possible Starlink passes.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-2-dark.svg" | relative_url }}" alt="Starlink Drift illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## When a Starlink match should stay labelled uncertain
 
 The most responsible approach is not to reject Starlink explanations outright, but to classify them carefully.
 
 In UFO investigation workflows, a useful distinction exists between:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -403,7 +396,6 @@ Many historical Starlink identifications belong in the “plausible but weak” 
 
 A Starlink explanation should remain tentative when several warning signs appear together:
 
-
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
 * the orbital data were generated long after the sighting
@@ -417,7 +409,6 @@ A Starlink explanation should remain tentative when several warning signs appear
 </div>
 
 This does not mean the explanation is wrong. It means the [confidence]({{ 'confidence/' | relative_url }}) level should stay modest.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-3-dark.svg" | relative_url }}" alt="Starlink Drift illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_satellite_sta_d89688_stale_orbital_2624e8_starlink_weak_7056c5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Historical reconstruction is strongest when multiple factors align
@@ -856,6 +847,7 @@ That wording may sound less dramatic, but it is often more scientifically accura
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1004,4 +996,4 @@ That wording may sound less dramatic, but it is often more scientifically accura
 
 29. <a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/</a>  
+   Link: <a href="https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Starlink/comments/enpdft/which_tracking_site_has_the_correct_info/</a>

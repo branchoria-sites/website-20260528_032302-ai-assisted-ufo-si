@@ -277,7 +277,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_db
 
 An unresolved UFO case is not a permanent category. Many sightings once treated as mysterious are later reclassified because new records, better databases, improved sensor analysis or previously unavailable witness material change the evidential picture. In UFO investigation, “unresolved” often means “not yet explained with the data currently available”, not “evidence of extraordinary technology”.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-1-dark.svg" | relative_url }}" alt="Solved Later illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters in AI-assisted UFO sighting investigation because modern analytical tools can reopen old reports in ways that were impossible decades ago. Archived weather observations, reconstructed satellite paths, historical flight tracking, digitised military files and machine-assisted image analysis now allow investigators to test old claims against data sources that did not exist when the original sighting was logged. NASA’s independent UAP study stressed that many cases remain difficult because of missing [metadata]({{ 'metadata/' | relative_url }}), poor [calibration]({{ 'calibration/' | relative_url }}) and limited observations rather than because they demonstrate anything exotic. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
@@ -317,7 +316,6 @@ A surprisingly large number of unresolved sightings depend on inaccurate or [inc
 
 Even small timing errors can completely alter a reconstruction:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * a satellite flare may only match for a 90-second window
@@ -334,7 +332,6 @@ Older UFO archives frequently contain rounded times such as “about 10 pm” or
 Historical weather reanalysis has become especially important in reopening unresolved cases.
 
 Investigators can now examine:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -361,7 +358,6 @@ Satellite databases are one of the clearest examples of technological change res
 
 Before publicly searchable orbital catalogues became common, investigators had limited ability to identify:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * satellite flares
@@ -380,14 +376,12 @@ This is especially important because witnesses often underestimate altitude and 
 
 Modern re-analysis has therefore downgraded some older unresolved reports into likely satellite or re-entry events rather than genuine unknowns.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-2-dark.svg" | relative_url }}" alt="Solved Later illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Archived military and aviation records reopen cases
 
 Another reason unresolved UFO reports later become solvable is delayed access to official records.
 
 Many sightings occur near:
-
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -414,7 +408,6 @@ Older UFO imagery often gains a second life online after digital enhancement. Ho
 
 Modern image-processing tools can reveal:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * camera shake mistaken for manoeuvres
@@ -433,7 +426,6 @@ AI-assisted stabilisation and frame interpolation are useful investigative tools
 This is one reason official UAP investigations increasingly emphasise metadata and sensor context rather than dramatic-looking imagery alone. NASA’s study highlighted how poor calibration and missing sensor metadata severely limit reliable interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 In practice, some famous-looking UFO videos become less mysterious after modern forensic review rather than more mysterious.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-3-dark.svg" | relative_url }}" alt="Solved Later illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766_case_status_l_dbe507_resolved_old_75379b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Some unresolved cases stay unresolved for ordinary reasons
@@ -874,6 +866,7 @@ At the same time, some reports remain difficult even after extensive review. Res
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>

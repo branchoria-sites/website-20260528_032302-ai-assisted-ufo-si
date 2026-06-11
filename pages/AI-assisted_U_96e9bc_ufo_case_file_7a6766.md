@@ -324,7 +324,6 @@ image: /assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-overview-social.
 
 A UFO report becomes investigable when it stops being only a striking story and becomes a dated, located, testable case file. The essential shift is simple: record what was seen, when and where it was seen, how it moved, what evidence exists, and which parts are confirmed rather than assumed. That is what allows AI-assisted UFO sighting investigation to work responsibly. AI can help organise the report, detect missing fields, compare the sighting with known aircraft, satellites, [astronomy]({{ 'astronomy/' | relative_url }}) and weather, and surface mundane explanations quickly. It cannot rescue a case that lacks time, location, direction, duration or [original evidence]({{ 'original-evidence/' | relative_url }}).
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-overview.webp" | relative_url }}" alt="Overview image for Case File" loading="eager" decoding="sync" fetchpriority="high">
 This matters because official and scientific UAP work keeps returning to the same problem: unresolved does not automatically mean extraordinary. NASA’s independent UAP study found that analysis is often hampered by poor sensor [calibration]({{ 'calibration/' | relative_url }}), lack of multiple measurements, missing sensor [metadata]({{ 'metadata/' | relative_url }}) and weak baseline data, while AARO’s public case examples show that even video evidence may be resolved as birds or balloons, left unresolved for lack of detail, or closed as not anomalous when performance does not justify further analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA Science...</span></span></span>
 
@@ -335,7 +334,6 @@ A usable UFO case file begins with enough fixed information for another person, 
 For an AI-assisted investigation, those fields are not clerical details. They are the handles that allow the sighting to be tested. A light reported at “about 9pm somewhere west of town” may be impossible to check against aircraft tracks or satellite passes. A light reported at 21:07 BST from a named viewpoint, looking west-north-west at roughly 25 degrees elevation for 80 seconds, can be screened against flight data, satellite ephemerides, Moon and planet positions, weather, visibility and local geography.
 
 The minimum practical case file should include:
-
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -349,7 +347,6 @@ The minimum practical case file should include:
 </div>
 
 A case file should also keep uncertainty visible. “Time: 21:03, phone clock automatic” is stronger than “around nine”. “Direction: north-west by phone compass, uncertainty ±10 degrees” is stronger than “towards the hills”. “Object disappeared behind cloud” is different from “object vanished”. These distinctions matter because AI systems are good at sorting structured claims, but they can amplify false precision if vague witness language is converted into exact-looking data too early.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-1-dark.svg" | relative_url }}" alt="Case File illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a case file must separate fact, claim and inference
@@ -380,7 +377,6 @@ AI can help here by asking neutral follow-up questions rather than leading ones.
 
 The interview should also note whether witnesses were independent. Three people standing together and discussing a light for ten minutes are not the same evidential unit as three people in different locations who filed reports before hearing about each other. Independent timing, direction and video can turn a weak anecdote into a triangulable event; shared discussion can make several accounts less independent than they first appear.
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/C3uXUfgSadU" title="UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer">UAP Independent Study Event Post-Meeting Media Teleconference (May 31, 2023)</a></p><p class="youtube-embed-meta">Channel: NASA Video &middot; Views: 30.3K &middot; Uploaded: May 2023 &middot; Length: 1 hour 2 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=C3uXUfgSadU">Open on YouTube</a></p></div></div></div>
 
 ## Make the timeline precise enough to test
@@ -401,7 +397,6 @@ The report should capture location at two levels. The private case file can stor
 
 Useful geometry fields include:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * observer latitude, longitude and elevation if available; <span class="citation-chip-wrap"><a class="citation-chip" href="https://ssd.jpl.nasa.gov/horizons/news.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ssd.jpl.nasa.gov">[ssd.jpl.nasa.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ssd.jpl.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
@@ -415,7 +410,6 @@ Useful geometry fields include:
 </div>
 
 A simple sketch can be more useful than a polished narrative. Marking “object started above church tower, moved towards radio mast, disappeared behind cloud bank” allows a human analyst or mapping tool to reconstruct likely lines of sight. Multiple sketches from independent witnesses can sometimes narrow an object’s apparent path, even when no video exists.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-2-dark.svg" | relative_url }}" alt="Case File illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Evidence files need chain-of-custody, not just attachment storage
@@ -445,7 +439,6 @@ The most useful checks are usually mundane:
 **Local sources:** Drones, balloons, lanterns, fireworks, searchlights, emergency helicopters, stadium lights, film shoots, military exercises and local events should be logged when documentable. These checks are often low-tech but high-yield.
 
 The case file should not merely state “aircraft checked” or “weather checked”. It should record the query window, radius, data source, result and uncertainty. “No ADS-B aircraft within 10 km at 21:10–21:15” is useful but limited; it does not exclude non-broadcasting aircraft, low-level drones, military traffic with restricted data, or a time error in the witness account.
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-3-dark.svg" | relative_url }}" alt="Case File illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_ufo_case_file_7a6766-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## AI can standardise, compare and challenge, but not declare certainty
@@ -490,7 +483,6 @@ AARO’s public imagery page shows why these distinctions matter. Some cases are
 
 GEIPAN’s public method also supports a careful status culture. It publishes sighting reports and investigation conclusions while maintaining witness anonymity, says it is not a body seeking extraterrestrial explanations, and stresses that explained and unexplained cases are both useful because they improve understanding of how unusual sky reports arise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cnes.fr/en/projects/geipan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cnes.fr">[Geipan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cnes.fr</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/7K1xFb1REHU" title="How does ADS-B work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer">How does ADS-B work?</a></p><p class="youtube-embed-meta">Channel: Flightradar24 &middot; Views: 66.1K &middot; Uploaded: April 2024 &middot; Length: 1 minute 58 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=7K1xFb1REHU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=7K1xFb1REHU">Open on YouTube</a></p></div></div></div>
 
 ## What makes a report still interesting after basic screening
@@ -498,7 +490,6 @@ GEIPAN’s public method also supports a careful status culture. It publishes si
 A report remains interesting after screening when the case file contains enough reliable data to make common explanations unlikely, not merely when the witness description sounds strange. The strongest files usually have precise timing, clear geometry, original media, independent witnesses, documented environmental conditions and a transparent log of failed candidate explanations.
 
 Several features raise investigative value:
-
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -906,6 +897,7 @@ A testable case file is therefore not designed to win an argument. It is designe
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
@@ -1103,4 +1095,4 @@ A testable case file is therefore not designed to win an argument. It is designe
 
 44. <a id="endnote-44"></a>
    Source: celestrak.org  
-   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>  
+   Link: <a href="https://www.celestrak.org/NORAD/elements/supplemental/" target="_blank" rel="noopener noreferrer nofollow">https://www.celestrak.org/NORAD/elements/supplemental/</a>

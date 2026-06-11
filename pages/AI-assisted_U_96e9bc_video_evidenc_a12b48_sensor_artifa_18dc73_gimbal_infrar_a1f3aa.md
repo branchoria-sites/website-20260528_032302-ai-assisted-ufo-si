@@ -271,7 +271,6 @@ image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18
 
 The Navy’s “Gimbal” video became one of the most discussed modern UFO clips because the bright object in the centre appears to rotate dramatically while flying through the sky. To many viewers, the rotation looked like a craft physically turning on its side in a way unlike a normal [aircraft]({{ 'aircraft/' | relative_url }}). But a growing body of technical analysis argues that the apparent rotation is more likely an infrared glare effect produced by the camera system itself rather than evidence that the object was spinning. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=4X1PRDbtiF0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">ly just looks like the IR glare of a distant jet engine...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=qsEjV8DdSbs" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">Gimbal UFO</span><span class="citation-popover-snippet">A New AnalysisThe gimbal ufo video almost certainly shows a glare that hides the actual object and that the shape of the glare is only ro...</span></span></span>
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-1-dark.svg" | relative_url }}" alt="Gimbal Glare illustration 1" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters in AI-assisted UFO sighting investigation because the visible shape in infrared footage is not always the real shape of the target. In thermal imaging, a hot engine or bright heat source can spread into geometric blobs, spikes or diamonds that reflect the optics of the sensor more than the structure of the object being filmed. The Gimbal case became a major example of how camera behaviour, stabilisation systems and infrared glare can create apparently anomalous motion from an ordinary target. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.leonarddavid.com/debunking-navy-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: leonarddavid.com">[leonarddavid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">leonarddavid.com</span><span class="citation-popover-title">debunking navy ufo videos</span><span class="citation-popover-snippet">Debunking Navy “UFO” Videos30 Apr 2020 — What you see is the infrared glare of the engines, larger than the plane. It looks like it is ro...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/the-skeptics-guide-to-the-pentagons-ufo-videos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">the skeptics guide to the pentagons ufo videos</span><span class="citation-popover-snippet">The Skeptic&#x27;s Guide to the Pentagon&#x27;s UFO Videos6 May 2020 —... gimbal mounted camera can produce the effects seen in the Navy footage...</span><span class="citation-popover-meta">Published: May 2020</span></span></span>
 
@@ -302,7 +301,6 @@ One of the most important concepts is “derotation”. Because the sensor mount
 
 The result is counterintuitive:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The horizon stays mostly level.
@@ -314,7 +312,6 @@ The result is counterintuitive:
 This is one reason the clip became so persuasive. Human observers instinctively assume a rotating visible shape represents a rotating solid object. But in stabilised infrared systems, the shape may instead be linked to the camera’s internal optical alignment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The IR Glare Hypothesis. Mick West · 3:55 · Gimbal UFO: New Footage Proves Glare Rotation.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=WVrlG8RhIGU" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">tigator Mick West and tech expert Dr Ramsey Faragher. #UAP #...</span></span></span>
 
 Analysts supporting the glare explanation also noted that the rotation occurs near moments where the camera’s angular tracking passes through key alignment transitions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.ycombinator.com/item?id=20019375" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.ycombinator.com">[Hacker News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.ycombinator.com</span><span class="citation-popover-snippet">Hacker NewsIt&#x27;s appropriate that the first video is called &quot;gimbal&quot;...27 May 2019 — The rotation of the object happens exactly around t...</span><span class="citation-popover-meta">Published: May 2019</span></span></span>
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/5OVt_SkhCdw" title="A response to &quot;DOES THE GIMBAL UFO CRAFT SELF ROTATE?&quot; (ATFLIR Tech)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=5OVt_SkhCdw" target="_blank" rel="noopener noreferrer">A response to &quot;DOES THE GIMBAL UFO CRAFT SELF ROTATE?&quot; (ATFLIR Tech)</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 10.3K &middot; Uploaded: August 2020 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=5OVt_SkhCdw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=5OVt_SkhCdw">Open on YouTube</a></p></div></div></div>
 
@@ -331,7 +328,6 @@ This is why some analyses recreated similar effects by filming bright lights thr
 Not every imaging specialist agrees on the precise mechanism. Some critics argue that parts of the proposed explanation oversimplify the optical design of the ATFLIR pod or incorrectly model where the glare originates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">a gimbal glare explainer.12230</span><span class="citation-popover-snippet">A Gimbal Glare Explainer17 Jan 2022 — The rotating spikes you see in that military video are typical lens flares, probably caused...</span></span></span>
 
 However, even among critics of specific reconstructions, there is broad acknowledgement that infrared systems can generate misleading artefacts and that the visible shape in the video cannot automatically be treated as the true shape of the target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/gimbal-glare-rotation-clouds-and-angles.14625/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">GImbal Glare, Rotation, Clouds, and Angles8 Dec 2025 — it is alleged that glare can rotate independent of what the camera is doing...</span></span></span>
-
 
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-2-dark.svg" | relative_url }}" alt="Gimbal Glare illustration 2" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why object shape is unreliable in infrared UFO footage
@@ -350,7 +346,6 @@ In infrared footage, many of those clues disappear. The image instead emphasises
 
 This creates several recurring UFO interpretation errors:
 
-
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Heat bloom mistaken for a force field
@@ -365,7 +360,6 @@ The Gimbal video contains several of these effects simultaneously, which is why 
 
 For AI-assisted investigation systems, this means raw object segmentation is not enough. Automated analysis needs [metadata]({{ 'metadata/' | relative_url }}) about:
 
-
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
 * Sensor type
@@ -379,7 +373,6 @@ For AI-assisted investigation systems, this means raw object segmentation is not
 </div>
 
 Without that context, an AI model may confidently classify optical artefacts as physical flight characteristics.
-
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/rGzJ9dx3n4o" title="“Gimbal” UFO 3D Reconstruction (likely a private jet)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=rGzJ9dx3n4o" target="_blank" rel="noopener noreferrer">“Gimbal” UFO 3D Reconstruction (likely a private jet)</a></p><p class="youtube-embed-meta">Channel: EdwardCurrent &middot; Views: 8.7K &middot; Uploaded: March 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=rGzJ9dx3n4o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=rGzJ9dx3n4o">Open on YouTube</a></p></div></div></div>
 
@@ -398,14 +391,12 @@ The glare hypothesis mainly addresses the first question. It argues that the vis
 
 This separation is important in disciplined UFO investigation. A sensor artefact explanation for one visual feature does not automatically solve the entire case. But it can remove one of the strongest apparent indicators of extraordinary behaviour.
 
-
 <img src="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-3-dark.svg" | relative_url }}" alt="Gimbal Glare illustration 3" data-theme-src-dark="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_gimbal_infrar_a1f3aa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Gimbal debate matters for AI-assisted UFO analysis
 
 The Gimbal footage became a landmark example of why UFO investigations increasingly require sensor analysis rather than frame-by-frame visual intuition alone.
 
 An AI-assisted workflow examining a modern sighting should treat imaging artefacts as a first-order investigative category, not a minor afterthought. In practice, that means:
-
 
 <div class="content-enhancement content-enhancement--comparison" markdown="1">
 
@@ -420,9 +411,7 @@ An AI-assisted workflow examining a modern sighting should treat imaging artefac
 
 The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_url }}) scoring matters. The video may still depict a genuinely unidentified object, but the famous “rotating craft” interpretation rests on evidence that may be explained by infrared glare and camera mechanics rather than exotic flight behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.independent.co.uk/space/navy-ufo-video-camera-glare-b2037965.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-title">navy ufo video camera glare b2037965</span><span class="citation-popover-snippet">The IndependentFamous Navy UFO video is camera glare hiding something...18 Mar 2022 — It&#x27;s an object that rotates in a way that matches...</span></span></span>
 
-
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ka_bX9Hx1H0" title="Gimbal UFO: Why Does the Glare Rotate When the Horizon Does Not?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ka_bX9Hx1H0" target="_blank" rel="noopener noreferrer">Gimbal UFO: Why Does the Glare Rotate When the Horizon Does Not?</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 34.9K &middot; Uploaded: July 2019 &middot; Length: 2 minutes 9 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ka_bX9Hx1H0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ka_bX9Hx1H0">Open on YouTube</a></p></div></div></div>
-
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
@@ -815,6 +804,7 @@ The Gimbal case also demonstrates why [confidence]({{ 'confidence/' | relative_u
 })();
 </script>
 </section>
+
 ## Endnotes
 
 1. <a id="endnote-1"></a>
