@@ -260,7 +260,7 @@ prev_link:
   permalink: /phone-drift/
   short_title: Phone Drift
   heading_title: Why Phone Cameras Make UFO Lights Seem Erratic
-date: '2026-06-10 20:08:08 '
+date: '2026-06-10 23:15:26 '
 header:
   og_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1-social.jpg
   preview_image: /assets/images/AI-assisted_U_96e9bc_video_evidenc_a12b48_sensor_artifa_18dc73_multi_sensor_bc54c3-Illustration-1.webp
@@ -502,7 +502,7 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
   </div>
 </section>
 
-<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_US" aria-labelledby="merchant-block-title">
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -529,72 +529,76 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
       </div>
     </div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_US" data-ebay-market-default="1">
-      <div class="fr-search-grid">
+    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+      <div class="fr-books-grid">
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open thermal camera on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20thermal%20camera%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EThermal%20Camera%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2261%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EThermal%3C%2Ftext%3E%3Crect%20x%3D%2287%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2297%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for thermal camera on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Top pick</p>
-        <h4 class="fr-search-title">thermal camera</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Thermal</span><span class="fr-search-tag">Camera</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc"><img src="https://i.ebayimg.com/images/g/1BAAAeSwdbJqGHNU/s-l225.jpg" alt="Listing image for FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR E5 Thermal Imaging Camera E63900, Electrical inspection, Plumbing etc</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-camera-tripod" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open camera tripod on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20camera%20tripod%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3ECamera%20Tripod%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ECamera%3C%2Ftext%3E%3Crect%20x%3D%2280%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2290%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3ETripod%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for camera tripod on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">camera tripod</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Camera</span><span class="fr-search-tag">Tripod</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=camera+tripod&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-camera-tripod&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="camera tripod" data-ebay-reference="sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-camera-tripod" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography"><img src="https://i.ebayimg.com/images/g/9bAAAeSwultprUUL/s-l225.jpg" alt="Listing image for FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">FLIR ONE PRO USB-C Android Thermal Camera for Professional Infrared Thermography</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-aviation-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-aviation-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open aviation poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20aviation%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EAviation%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2268%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EAviation%3C%2Ftext%3E%3Crect%20x%3D%2294%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%22104%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for aviation poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">aviation poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Aviation</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=aviation+poster+-book+-books&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-aviation-poster-book-boo&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="aviation poster -book -books" data-ebay-reference="sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-aviation-poster-book-boo" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192"><img src="https://i.ebayimg.com/images/g/e3gAAOSwk9RoPtrM/s-l225.jpg" alt="Listing image for MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">MiLESEEY Handheld Thermal Imaging Camera IR Infrared Thermometer Image 192*192</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
 
-    <article class="fr-search-card fr-search-card-visual">
-      <a class="fr-search-cover" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televi" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open ufo poster on eBay">
-        <img src="data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20viewBox%3D%220%200%20240%20320%22%20role%3D%22img%22%20aria-label%3D%22eBay%20search%20preview%20for%20ufo%20poster%22%3E%0A%20%20%3Cdefs%3E%0A%20%20%20%20%3ClinearGradient%20id%3D%22bg%22%20x1%3D%220%22%20y1%3D%220%22%20x2%3D%221%22%20y2%3D%221%22%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%220%25%22%20stop-color%3D%22%23e0f2fe%22%20%2F%3E%0A%20%20%20%20%20%20%3Cstop%20offset%3D%22100%25%22%20stop-color%3D%22%2393c5fd%22%20%2F%3E%0A%20%20%20%20%3C%2FlinearGradient%3E%0A%20%20%3C%2Fdefs%3E%0A%20%20%3Crect%20width%3D%22240%22%20height%3D%22320%22%20rx%3D%2220%22%20fill%3D%22url%28%23bg%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22198%22%20cy%3D%2242%22%20r%3D%2244%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.24%29%22%20%2F%3E%0A%20%20%3Ccircle%20cx%3D%22214%22%20cy%3D%2272%22%20r%3D%2218%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.3%29%22%20%2F%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%2220%22%20rx%3D%2212%22%20ry%3D%2212%22%20width%3D%2288%22%20height%3D%2228%22%20fill%3D%22%230f172a%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2232%22%20y%3D%2239%22%20font-size%3D%2212%22%20font-weight%3D%22800%22%20letter-spacing%3D%221.2%22%20fill%3D%22%23ffffff%22%3EEBAY%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%2270%22%20font-size%3D%2212%22%20font-weight%3D%22700%22%20letter-spacing%3D%221.3%22%20fill%3D%22%231d4ed8%22%3ETARGETED%20SEARCH%3C%2Ftext%3E%0A%20%20%3Ctext%20x%3D%2218%22%20y%3D%22108%22%20font-size%3D%2222%22%20font-weight%3D%22800%22%20fill%3D%22%230f172a%22%3EUfo%20Poster%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22282%22%20rx%3D%2214%22%20ry%3D%2214%22%20width%3D%22154%22%20height%3D%2220%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.68%29%22%20%2F%3E%0A%20%20%3Ctext%20x%3D%2230%22%20y%3D%22296%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EOPEN%20SEARCH%20RESULTS%3C%2Ftext%3E%0A%20%20%3Crect%20x%3D%2218%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2244%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2228%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EUfo%3C%2Ftext%3E%3Crect%20x%3D%2270%22%20y%3D%22246%22%20rx%3D%2213%22%20ry%3D%2213%22%20width%3D%2254%22%20height%3D%2226%22%20fill%3D%22rgba%28255%2C255%2C255%2C0.72%29%22%20%2F%3E%3Ctext%20x%3D%2280%22%20y%3D%22263%22%20font-size%3D%2211%22%20font-weight%3D%22700%22%20fill%3D%22%231d4ed8%22%3EPoster%3C%2Ftext%3E%0A%3C%2Fsvg%3E" alt="Search preview for ufo poster on eBay" loading="lazy">
-      </a>
-      <div class="fr-search-info">
-        <p class="fr-search-kicker">Related search</p>
-        <h4 class="fr-search-title">ufo poster</h4>
-        <p class="fr-search-desc">Open a targeted eBay search for items related to this topic.</p>
-        <div class="fr-search-tags"><span class="fr-search-tag">Ufo</span><span class="fr-search-tag">Poster</span></div>
-        <a class="fr-amazon-btn" href="https://www.ebay.com/sch/i.html?_nkw=ufo+poster+-series+-television+-gerry+-anderson+-band+-concert+-tour+-album+-ticket+-schenker+-vinyl&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televi&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television -gerry -anderson -band -concert -tour -album -ticket -schenker -vinyl" data-ebay-reference="sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-ufo-poster-series-televi" target="_blank" rel="sponsored noopener noreferrer">
-          Browse eBay
-        </a>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life"><img src="https://i.ebayimg.com/images/g/t8cAAeSw-P1osmTR/s-l225.jpg" alt="Listing image for TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life" loading="lazy" decoding="async" fetchpriority="low"></a>
+      <div class="fr-book-info">
+        <p class="fr-book-kicker">Example eBay listing</p>
+        <h4 class="fr-book-title">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">TOPDON Thermal Imaging Camera TC004 Mini, 240x240 IR Resolution 15H Battery Life</a>
+        </h4>
+        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for thermal camera">Search <span data-ebay-domain-label>eBay.co.uk</span>: thermal camera</a>
+        <div class="fr-book-actions">
+          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
+          </a>
+        </div>
       </div>
     </article>
       </div>
       <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.com/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=711-53200-19255-0&amp;campid=5339151051&amp;customid=sensor-checks-when-multiple-sensors-disagree-about-a-ufo-ai-assisted-ufo-sighting-investigation-thermal-camera&amp;toolid=10001" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on eBay
+        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=thermal+camera&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-multiple-sensors-disagree-about-a-ufo-thermal-camera&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="thermal camera" data-ebay-reference="when-multiple-sensors-disagree-about-a-ufo-thermal-camera" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
         </a>
         <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
       </div>
@@ -673,7 +677,7 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
   var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
-  var defaultMarket = "EBAY_US";
+  var defaultMarket = "EBAY_GB";
   function encodeQuery(value) {
     return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
   }
@@ -803,7 +807,6 @@ That does not mean every unresolved case has a mundane explanation. Some sightin
 })();
 </script>
 </section>
-
 ## Endnotes
 
 1. <a id="endnote-1"></a>
